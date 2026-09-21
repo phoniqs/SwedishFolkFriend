@@ -36,11 +36,7 @@ class FolkFriendWASMWrapper {
     }
 
     async fetchTuneIndexMetadata() {
-        let url = '/res/nud-meta.json';
-        // eslint-disable-next-line no-undef
-        if (process.env.NODE_ENV === 'production') {
-            url = 'https://folkfriend-app-data.web.app/nud-meta.json';
-        }
+        const url = '/res/nud-meta.json';
         let indexData = await fetch(url)
             .then((response) => response.json())
             .catch((err) => console.log(err));
@@ -50,12 +46,7 @@ class FolkFriendWASMWrapper {
     async fetchTuneIndexData() {
         console.time('index-fetch');
 
-        let url = '/res/folkfriend-non-user-data.json';
-
-        // eslint-disable-next-line no-undef
-        if (process.env.NODE_ENV === 'production') {
-            url = 'https://folkfriend-app-data.web.app/folkfriend-non-user-data.json';
-        }
+        const url = '/res/folkfriend-non-user-data.json';
 
         // Fetch
         let indexData = await fetch(url)
@@ -134,7 +125,7 @@ class FolkFriendWASMWrapper {
             //  whole index every week is a little overkill though and uses a
             //  lot of bandwidth (which may not be free). Only auto-update if
             //  it's been a while since the last update. A while = 4 weeks.
-            if (daysSinceUpdate >= 28) {
+            if (remoteVersion !== localVersion) {
                 console.debug('Upgrading tune index');
                 const downloadedTuneIndex = await this.fetchTuneIndexData();
                 await set('tuneIndex', downloadedTuneIndex);
