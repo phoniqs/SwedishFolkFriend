@@ -199,10 +199,19 @@ fn pcm_signal_from_wav(wav_file_path: &PathBuf) -> (Vec<f32>, u32) {
 
     let signal: Vec<i16> = data.try_into_sixteen().unwrap();
 
-    let mut signal_f: Vec<f32> = vec![0.; signal.len()];
-    for i in 0..signal.len() {
-        signal_f[i] = (signal[i] as f32) / 32768.;
-    }
+    // Les échantillons d'un WAV multi-canaux sont entrelacés (G, D, G, D, ...).
+    //  Sans mixage, un fichier stéréo serait lu comme un signal mono deux fois
+    //  plus long : le signal serait ralenti d'un facteur 2, donc transcrit
+    //  une octave trop bas. On fait donc la moyenne des canaux de chaque trame.
+    let channels = (header.channel_count as usize).max(1);
+
+    let signal_f: Vec<f32> = signal
+        .chunks(channels)
+        .map(|frame| {
+            let sum: f32 = frame.iter().map(|&s| s as f32).sum();
+            sum / (frame.len() as f32) / 32768.
+        })
+        .collect();
 
     return (signal_f, header.sampling_rate);
 }
