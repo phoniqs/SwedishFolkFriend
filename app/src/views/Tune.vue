@@ -67,7 +67,7 @@ import utils from '@/js/utils.js';
 import AbcDisplay from '@/components/AbcDisplay';
 import ffBackend from '@/services/backend.js';
 import eventBus from '@/eventBus';
-import abcjs from 'abcjs/midi';
+import { stopActiveSynth } from '@/services/player.js';
 
 export default {
     name: 'TuneView',
@@ -139,7 +139,7 @@ export default {
         }
 
         // Stop any MIDI tracks that might be playing already
-        abcjs.midi.stopPlaying();
+        stopActiveSynth();
 
     },
     methods: {

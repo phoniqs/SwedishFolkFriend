@@ -12,9 +12,7 @@
             @click="exitFullScreen"
         >
             <!-- Render ABC sheet music here -->
-            <div />
-            <!-- Render MIDI thing here -->
-            <div style="display: none" />
+            <div ref="svgDiv" />
         </div>
         <v-row
             wrap
@@ -28,6 +26,7 @@
                 <v-icon>{{ icons.replay }}</v-icon>
             </v-btn>
             <v-btn
+                :loading="loading"
                 class="mx-1 px-3 abcControls"
                 @click="startPlaying"
             >
@@ -57,7 +56,8 @@
 <script>
 import { mdiFullscreen, mdiPause, mdiPlay, mdiReplay, mdiStop } from '@mdi/js';
 import store from '@/services/store.js';
-import abcjs from 'abcjs/midi';
+import abcjs from 'abcjs';
+import { getAudioContext, setActiveSynth, releaseSynth } from '@/services/player.js';
 
 export default {
     name: 'AbcDisplay',
@@ -79,8 +79,9 @@ export default {
     },
     data: function () {
         return {
-            midPlayDiv: null,
             paused: true,
+            started: false,
+            loading: false,
             fullscreen: false,
 
             icons: {
@@ -108,29 +109,89 @@ export default {
             return store.userSettings.showAbcText;
         },
     },
-    mounted: async function () {
-        const abcJsWrapperDiv = this.$el.childNodes[1];
-        const svgDiv = abcJsWrapperDiv.firstChild;
-        const midDiv = abcJsWrapperDiv.lastChild;
-
-        abcjs.renderAbc(svgDiv, this.abcText, { responsive: 'resize' });
-
-        abcjs.renderMidi(midDiv, this.abcText, {});
-        this.midPlayDiv = midDiv.lastChild;
+    created: function () {
+        // Volontairement non réactifs
+        this.synth = null;
+        this.visualObj = null;
+    },
+    mounted: function () {
+        this.visualObj = abcjs.renderAbc(
+            this.$refs.svgDiv,
+            this.abcText,
+            { responsive: 'resize' }
+        )[0];
+    },
+    beforeDestroy: function () {
+        this.discardSynth();
     },
     methods: {
-        startPlaying: function () {
-            this.paused = !this.paused;
+        discardSynth: function () {
+            if (this.synth) {
+                const synth = this.synth;
+                this.synth = null;
+                releaseSynth(synth);
+                try { synth.stop(); } catch (e) { console.debug(e); }
+            }
+            this.started = false;
+            this.paused = true;
+        },
+        play: async function () {
+            if (this.loading) return;
+            this.loading = true;
+            try {
+                // À faire tout de suite : le navigateur exige un geste de l'utilisateur
+                const audioContext = getAudioContext();
+                if (audioContext.state === 'suspended') {
+                    await audioContext.resume();
+                }
 
-            // TODO can desync the pause button by messing around with controls on another setting
-            abcjs.midi.startPlaying(this.midPlayDiv);
+                const synth = new abcjs.synth.CreateSynth();
+                await synth.init({
+                    visualObj: this.visualObj,
+                    audioContext: audioContext,
+                });
+                await synth.prime();
+
+                setActiveSynth(synth, () => {
+                    this.synth = null;
+                    this.started = false;
+                    this.paused = true;
+                });
+                this.synth = synth;
+                synth.start();
+                this.started = true;
+                this.paused = false;
+            } finally {
+                this.loading = false;
+            }
+        },
+        startPlaying: async function () {
+            try {
+                if (this.synth && !this.paused) {
+                    this.synth.pause();
+                    this.paused = true;
+                } else if (this.synth && this.started) {
+                    this.synth.resume();
+                    this.paused = false;
+                } else {
+                    await this.play();
+                }
+            } catch (err) {
+                console.error('Playback failed', err);
+                this.discardSynth();
+            }
         },
         stopPlaying: function () {
-            this.paused = true;
-            abcjs.midi.stopPlaying();
+            this.discardSynth();
         },
-        restartPlaying: function () {
-            abcjs.midi.restartPlaying();
+        restartPlaying: async function () {
+            this.discardSynth();
+            try {
+                await this.play();
+            } catch (err) {
+                console.error('Playback failed', err);
+                this.discardSynth();
+            }
         },
         goFullScreen: function () {
             this.$emit('abcGoFullScreen');

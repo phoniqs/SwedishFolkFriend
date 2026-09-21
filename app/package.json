@@ -36,5 +36,8 @@
         "vue-template-compiler": "^2.6.11",
         "vuetify-loader": "^1.7.0",
         "worker-plugin": "^5.0.1"
+    },
+    "overrides": {
+        "midi": "file:./stubs/midi"
     }
 }

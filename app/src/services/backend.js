@@ -16,7 +16,9 @@ class FFBackend {
 
     constructor() {
         const worker = new Worker('./worker.js', {
-            type: 'module'
+            type: 'module',
+            name: 'folkfriend'
+
         });
         this.folkfriendWorker = Comlink.wrap(worker);
 
