@@ -21,6 +21,29 @@
                 {{ alias }}
             </v-chip>
         </v-container>
+        <v-container
+            v-if="sourceLinks.length"
+            class="my-1"
+        >
+            <v-chip
+                v-for="link in sourceLinks"
+                :key="link.url"
+                :href="link.url"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="sourceChip ma-1 px-2"
+                label
+                small
+            >
+                {{ link.label }}
+                <v-icon
+                    right
+                    x-small
+                >
+                    {{ icons.openInNew }}
+                </v-icon>
+            </v-chip>
+        </v-container>
         <v-expansion-panels
             v-model="expandedIndex"
             :class="{ abcFullScreen: abcFullScreen }"
@@ -63,6 +86,7 @@
 </template>
 
 <script>
+import { mdiOpenInNew } from '@mdi/js';
 import utils from '@/js/utils.js';
 import AbcDisplay from '@/components/AbcDisplay';
 import ffBackend from '@/services/backend.js';
@@ -95,7 +119,29 @@ export default {
             abcFullScreen: false,
 
             expandedIndex: [],
+
+            icons: {
+                openInNew: mdiOpenInNew,
+            },
         };
+    },
+
+    computed: {
+        // Liens vers la page d'origine de l'ABC (FolkWiki.se pour ce corpus).
+        //  Seules les adresses http(s) sont acceptées ; les doublons sont fusionnés.
+        sourceLinks: function () {
+            const urls = [];
+            for (const setting of this.settings || []) {
+                const url = setting.source_url;
+                if (url && /^https?:\/\//.test(url) && !urls.includes(url)) {
+                    urls.push(url);
+                }
+            }
+            return urls.map((url, i) => ({
+                url: url,
+                label: urls.length > 1 ? `Source ${i + 1}` : 'Source',
+            }));
+        },
     },
 
     created: async function () {
@@ -138,7 +184,7 @@ export default {
             this.expandedIndex = [0];
         }
 
-        // Stop any MIDI tracks that might be playing already
+        // Stop any tune that might be playing already
         stopActiveSynth();
 
     },

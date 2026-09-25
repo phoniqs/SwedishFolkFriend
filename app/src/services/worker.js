@@ -7,6 +7,7 @@ class FolkFriendWASMWrapper {
     constructor() {
         this.folkfriendWASM = null;
         this.abcStringBySetting = {};
+        this.sourceUrlBySetting = {};
 
         this.loadedWASM = new Promise(resolve => {
             this.setLoadedWASM = resolve;
@@ -55,15 +56,20 @@ class FolkFriendWASMWrapper {
 
         // Lightly postprocess. ABC strings don't go to WASM because
         //  of slow memory loading in WebAssembly.        
-        let abcStringBySetting = {};
+                let abcStringBySetting = {};
+        let sourceUrlBySetting = {};
         for (let settingID in indexData.settings) {
-            abcStringBySetting[settingID] = indexData.settings[settingID].abc;
-            indexData.settings[settingID].abc = '';
+            const setting = indexData.settings[settingID];
+            abcStringBySetting[settingID] = setting.abc;
+            setting.abc = '';
+            sourceUrlBySetting[settingID] = setting.source_url || '';
+            delete setting.source_url;
         }
 
         const downloadedTuneIndex = {
             indexData: indexData,
-            abcStrings: abcStringBySetting
+            abcStrings: abcStringBySetting,
+            sourceUrls: sourceUrlBySetting
         };
 
         console.timeEnd('index-fetch');
@@ -140,6 +146,7 @@ class FolkFriendWASMWrapper {
         await this.loadedWASM;
         await this.folkfriendWASM.load_index_from_json_obj(tuneIndex.indexData);
         this.abcStringBySetting = tuneIndex.abcStrings;
+        this.sourceUrlBySetting = tuneIndex.sourceUrls || {};
         this.setLoadedIndex();
         console.timeEnd('tune-index-to-wasm');
     }
@@ -219,6 +226,7 @@ class FolkFriendWASMWrapper {
         let settingsIncludingAbc = settings.map(([settingID, setting]) => {
             setting['setting_id'] = settingID;
             setting['abc'] = this.abcStringBySetting[settingID];
+            setting['source_url'] = this.sourceUrlBySetting[settingID] || '';
             return setting;
         });
 

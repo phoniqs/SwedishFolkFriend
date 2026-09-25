@@ -22,6 +22,7 @@ path = "src/bin.rs"
 [dependencies]
 aho-corasick = "0.7.18"
 clap = "2.33.3"
+console_error_panic_hook = "0.1.7"
 csv = "1.1"
 dirs = "4.0.0"
 fnv = "1.0.7"

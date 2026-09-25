@@ -54,8 +54,8 @@ impl QueryEngine {
                 .push(setting_id.clone());
         }
 
-        for (_, setting_ids) in setting_ids_by_tune_id.iter_mut() {
-            setting_ids.sort_by_key(|k| k.parse::<i32>().unwrap());
+                   for (_, setting_ids) in setting_ids_by_tune_id.iter_mut() {
+            setting_ids.sort_by_key(|k| tune_index.settings[k].order);
         }
 
         self.setting_ids_by_tune_id = setting_ids_by_tune_id;

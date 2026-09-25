@@ -96,6 +96,7 @@ export default {
     computed: {
         abcText: function () {
             const abcLines = [];
+	abcLines.push('X:1');
             if (this.mode) {
                 abcLines.push(`K:${this.mode}`);
             }
@@ -115,7 +116,7 @@ export default {
         this.visualObj = null;
     },
     mounted: function () {
-        this.visualObj = abcjs.renderAbc(
+	        this.visualObj = abcjs.renderAbc(
             this.$refs.svgDiv,
             this.abcText,
             { responsive: 'resize' }
