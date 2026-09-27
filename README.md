@@ -1,3 +1,39 @@
+﻿# Swedish Folkfriend (fork)
+
+This is a fork of [FolkFriend](https://github.com/TomWyllie/folkfriend) by
+Tom Wyllie, adapted to recognise and browse **Swedish traditional tunes**
+instead of the original Irish/Scottish (thesession.org) repertoire.
+
+- **Try it live:** https://swedishfolkfriend.netlify.app
+- **Tune corpus:** scraped from [FolkWiki.se](http://www.folkwiki.se) (CC BY),
+  see [`folkwiki-corpus/`](folkwiki-corpus/)
+- **Original project:** https://github.com/TomWyllie/folkfriend /
+  https://folkfriend.app
+
+## What's different from upstream
+
+- Tune index built from FolkWiki.se's ABC corpus
+  (`folkwiki-corpus/build_index.py`) instead of thesession.org
+- CLI: multi-channel WAV files are downmixed to mono before transcription
+  (`rust/src/bin.rs`)
+- Rust engine: settings are ordered by an explicit `order` field instead of
+  assuming numeric setting IDs, since FolkWiki filenames aren't numeric
+  (`rust/src/query/mod.rs`, `rust/src/index/schema.rs`)
+- App: the tune index is bundled and always loaded from `/res/`, playback
+  uses abcjs's built-in synth instead of the discontinued `midi` package,
+  and tunes show a link back to their FolkWiki.se source page
+
+## License
+
+Like the original project, this repository is licensed under GPL-3.0 (see
+[`LICENSE`](LICENSE)). The Swedish tune corpus in `folkwiki-corpus/` is
+sourced from FolkWiki.se under CC BY; see individual `.meta.json` files for
+per-tune attribution.
+
+---
+
+*Below is the original FolkFriend README:*
+
 # FolkFriend
 Scripts and Web Application for folk music tune transcription and recognition.
 
