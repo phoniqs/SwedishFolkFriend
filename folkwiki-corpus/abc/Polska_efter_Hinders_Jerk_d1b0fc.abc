@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Hinders Jerk
+S:Hinders Jerk
+O:Rättvik, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:Am
+V:1
+"^1" A- |: A2 (a>g){g} b>a | a>(a g/a/)g/e/{fe} f>d | d>(a g/a/)g/e/{fe} f>d | (d{^cd}c) A3 A- | 
+A2 (a>g){g} b>a | a>(a g/a/)g/e/{fe} f>d | d>(a g/a/)g/e/{fe} f>d |1 (^c<e) d3 A :|2 (^c<e) d3 E |: 
+FF (E/F/4E/4)D/^C/ D>E |{FE} F>F tGtG A>E | FF E/F/4E/4D/^C/ D>E | {FE} F>F tGtG A2- | 
+A>^c d>(e f/e/f/)g/ |{g} a>(a g/a/)g/e/{fe} f>d |1 d<^c A3 E :|2 ^c<e d3 z |] 
+V:2
+"^2" F- |: F2 f>e g>f | f2 e>^c d>A | F2 e>^c d>A | FE ^C3 F- | 
+F2 f>e g>f | f2 e>^c d>A | F2 f>^c d>B |1 A<G [FA]3 F :|2 A<G [FA]3 ^C |: 
+DD ^CA,/G,/ A,>C | D>D tEtE F>^C | DD ^CA,/G,/ A,>C | D>D tEtB, ^C2- | 
+^C>E F>(^c d/c/d/)e/ | f>f e/f/e/^c/ d>B |1 "^Stämförslag B.O." B<A ^C3 C :|2 A<G [FA]3 z |] 
+

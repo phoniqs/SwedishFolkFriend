@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Vindelisken
+T:(Finsk polka)
+O:Finland
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+N:"Danser från Norr- och Västerbotten samt Finland"
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" F>FFF G>ECE | E2D2 D3 |] [K:D][M:2/4][K:treble]"^Dans" A, |: D2DE F2FG | A>AAB A2FA | 
+d2F2 F>DFG | F2E2 E4 | E2EF G2G2 | G>FGA B2A2 |
+ F>FFF G>ECE |1 E2D2 D3 A, :|2 E2D2 D3 z |:
+ d2c2 B2G2 | B>AGA B4 | e2e2 d2B2 | A>FDF A2A2 | 
+A,2A,C E2E2 | G>GGA B2A2 | F>FFF G>ECE | E2D2 D3 z :| 
+V:2
+"^2" "D" D>DDD "A7" E>CA,G, | "A7" G,2A,2 "D" A,3 |][K:D][M:2/4][K:treble] A, |:"D" A,2A,C D2DE | F>FFG F2DF | 
+F2D2 D>A,DE |"A7" D2C2 C4 | C2CD E2E2 | E>DEF "D" G2F2 | "D" D>DDD "A7" E>CA,G, |1"A7" G,2A,2"D" A,3 A, :|2 "A7" G,2A,2"D" A,3 z |: 
+"G" B2A2 G2D2 | G>DB,D G4 | c2c2 B2G2 | "D" F>DA,D F2F2 |"A7" G2GE C2C2 | 
+E>EEF"D" G2F2 |"D" D>DDD"A7" E>CA,G, |"A7" G,2A,2"D" A,3"^B.O." z :|
+

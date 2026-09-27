@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Bröderna Wernbergs gånglåt
+C:Verner Wernberg
+O:Sundsvall, Medelpad
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Verner Wernberg (1903-1984) Sundsvall."
+L:1/16
+Q:1/4=94
+M:2/4
+U:t=tenuto
+K:D
+V:1
+"^1" A2 |: d4 (AG)FE | D4 (DF)Ad | f4 (3(fgf) ed | e4 (e^d)ef | 
+g4 (3(gag) fe | f2d2 e2c2 | (d2>B2) (E^G)BG | A6 A2 |
+d4 (AG)FE | D4 (DF)Ad | f4 (3(fgf) ed | e4 (e^d)ef | 
+g4 (gb)ag | (f2a2) (3(fgf) ed | (e2g2) (3(efe) dc |1 d6 A2 :|2 d6 f2 |: 
+g4 (tb2tb2) | a4 (3(fgf) ef | (g2e2) (3(cdc) Bc | d2AG FED2 | 
+g4 (tb2tb2) | a4 (3(fgf) ef | (g2e2) (3(cdc) Bc |1 d6 f2 :|2 d6 z2 |] 
+V:2
+"^2" D2 |:"D" F4 (FE)DB, | A,4 (A,D)FA | d4 d2cB |"A7" c4 (cB)cd | e4 e2dc |
+"D" d2B2"A" c2A2 | "E7" ^G2>E2 D2B,2 | "A" C6 D2 | "D" F4 (FE)DB, | A,4 (A,D)FA | d4 d2cB | 
+"A7" c4 (cB)cd | "G" e4 (eg)fe | "D" (d2f2) d2cB | "A7" A2c2 A2GE |1"D" F6 D2 :|2"D" F6 A2 |:
+"G" B4 (td2td2) |"D" f4 d2cd |"A7" e2c2 A2G2 | "D" F2(FE) D2A,2 | 
+"G" B4 (td2td2) |"D" f4 d2cd |"A7" e2c2 A2G2 |1"D" F6 A2 :|2 "D" F6 "^B.O." z2 |] 
+

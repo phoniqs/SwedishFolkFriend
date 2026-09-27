@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:447
+T:Polska efter Jonas Dahl 
+T:(SvL Hälsingland 447)
+O:Djupa, Undersvik, Hälsingland
+R:Polska
+B:Svenska Låtar Hälsingland Nr 447
+Z:Göran Gustafsson
+N:Låten är upptecknad efter en gammal spelman i Lillherrdal i Härjedalen. Den skall ha spelats av "Gammel Erik" från kyrktornet i Uppsala, då staden brann. (SvL)
+M:3/4
+L:1/8
+K:DM clef=treble
+"^D-bas"F2 (EF D2) | F2 (EF D2) | d>^c de (fe) | (d^c) A3 c | 
+d>e fg ag | e>^c A3 c | d>e fg ag | e^c d2 z2 |]
+

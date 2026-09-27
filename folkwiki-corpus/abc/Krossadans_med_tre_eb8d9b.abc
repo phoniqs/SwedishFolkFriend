@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:25
+T:Krossadans med tre
+R:Långdans
+O:Norge
+Z:[[Personer/Bengt Ohlson]]
+Z:"Norge, Gillesdanser i Norden"
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:Am
+V:1
+"^1""^Förspel" cB A^G | A2 z2 |]:[M:2/4][K:treble]"^Dans" AB ce | dB cA | 
+cB A^G | A2 E2 :| AB cd | e2 ed | 
+ed ed |][M:3/4] e2 (!>!e!>!e) dB | c2 (ce) dB | 
+c2 (ce) dB | c2 (Ac) (3BA^G |1 A4 E2 |]4,8 A4 |] 
+V:2
+"^2" ED CB, | C2 z2 |]:[M:2/4][K:treble] E^G Ac | B^G EC | ED CB, | C2 A,2 :| CE AB | c2 cB | 
+cB cB |][M:3/4] ^G2 (!>!G"^Spelas 4 ggr."!>!G) BG | A2 (Ac) B^G | A2 (Ac) B^G | "^Stämförslag B.O." A2 (EA) (3^GED |1 C4 C2 |]4,8 C4 |]
+

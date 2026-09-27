@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Bröllopsmusik från Gotland
+C:Svante Pettersson
+O:Gotland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:Arr. Elis Hansson
+L:1/8
+Q:1/4=72
+M:4/4
+K:F
+V:1
+"^1" C |: F2 (F>.F) (FE/F/) (BA) | G2 (.G>.G) G2 F2 | E2 (c>.c) (Bc/B/) (AG) | (FG/F/) (EF/E/) (DE/D/) (CA,/C/) | 
+F2 (.F>.F) (FE/F/) (BA) | G2 (.G>.G) G2 =B2 | c2 (c>.c) (Bc/B/) (AG) |1 F2 (.F>.F) F2 z C :|2,8 F2 (.F>.F) F2 z2 |: 
+[^ca]2 ([ca]>.[ca]) (ag/a/) (ba) | (g>f) ef d3 (e/f/) | [=Bg]2 ([Bg]>.[Bg]) (fg/f/) (ed) | (cd/c/) Bc/B/ (AB/A/) (.G.C) | 
+F2 (F>.F) FE/F/ (BA) | G2 (.G>.G) G2 =B2 | c2 (c>.c) Bc/B/ (AG) | F2 (.F>.F) F2 z2 ::
+[K:Bb] d2 (.d>.d) B2 D/E/=E/F/ | (GF) d>c B3 (g/f/) | eF =EF _E2 Fg/f/ | dF =EF D2 (FB) | d2 (.d>.d) [^Fd]2 Ac | 
+B2 (.G>.G) F2 D/F/B/d/ | g2 (.f>.f) e2 .A.A |1 B2 (.B>.B) B2 z2 :|2 B2 (.B>.B) B2 z C |[K:F] |] 
+V:2
+"^2" C |: A,2 B,2 C2 (DC) | D2 (.F>.F) E2 D2 | C2 (E>.E) DE/D/ (CE) | (DE/D/) CD/C/ (B,C/B,/) A,2 | 
+A,2 B,2 C2 (DC) | D2 (.F>.F) E2 G2 | (GB) A2 GA/G/ (FE) |1 F2 (.[A,F]>.[A,F]) [A,F]2 z C :|2,8 F2 (.[A,F]>.[A,F]) [A,F]2 z2 |: 
+[Ae]2 ([Ae]>.[Ae]) ([Ae]e/f/) (gf) | (e>d) ^cd [DA]2 A2 | [Gd]2 ([Gd]>.[Gd]) (de/d/) (GF) | E2 D2 C2 B,2 | 
+A,2 B,2 C2 (DC) | D2 (.F>.F) E2 G2 | (GB) A2 GA/G/ (FE) | F2 (.[A,F]>.[A,F]) [A,F]2 z2 ::
+[K:Bb] F2 (.F>.F) F2 D2 | E2 (F>E) D3 D | A,2 B,2 C2 A,2 | B,D ^CD B,2 (DF) | 
+F2 (.F>.F) [DA]2 ^FD | G2 (.E>.E) D2 B,/D/F/B/ | B2 (.B>.F) G2 FE |1,8 D2 (.D>.D) D2 z2 :| D2 (.D>.D) D2 z C |[K:F] |] 
+

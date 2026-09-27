@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Nyby-Daniel
+O:Fläckebo, Västmanland
+S:Nyby-Daniel
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Nyby-Daniel, Fläckebo"
+Z:"Lämplig till Färnebo-polska"
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1""^Lämpl. t. Färnebo-polska." G2 c2 c2 | (c>B) A>B c>e | (e>d) (B>d) c>A | (3(ABA) (G>F) E>F | 
+G2 c2 c2 | (c>B) A>B c>e | (e>d) (B>d) c>A | (3(ABA) G2 z2 :: 
+G>c (c>e) e2 | e>g (3(gag) f2 | (3(fgf) (3(efe) d2 | (d>g) (3(gag) (e>c) | 
+G>c (c>e) e2 | e>g (3(gag) f2 | (3(fgf) (3(efe) d>B | (3(GAB) c4 :| 
+V:2
+|:"^2" C2 E2 E2 | (G>E) C>E G>c | (c>B) (G>B) A>F | (3(FGF) (E>D) C>D | C2 E2 E2 | (G>E) C>E G>c | 
+(c>B) (G>B) A>F | (3(FGF) E2 z2 :: E>G (G>c) c2 | c>e (3(efe) d2 | (3(ded) (3(cdc) B2 | 
+(B>d) (3(ded) (c>G) | E>G (G>c) c2 | c>e (3(efe) d2 | (3(ded) (3(cdc) B>G | "^Stämförslag B.O." (3(DFG) E4 :|
+

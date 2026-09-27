@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Smedpolka
+R:Polka
+S:Finnskog Kvintetten
+Z:Karin Helander
+N:Från inspelning på skiva "Kongskafe Le Swing" (2022): https://open.spotify.com/track/0kM59rCW8Ylnqt6seBqTF6?si=29a92e21090d4cf8
+M:2/4
+L:1/16
+K:A
+V:1
+e |: "A" c2AA AcAc | e2e2 cAce | c2AA AcAc | "E7" eedc B3d | 
+"E7" B2EE EGEG | B2B2 GEGB | G2EE EGEG | "A" A2A2 A2 ze | 
+"A" c2AA AcAc | e2e2 cAce | c2AA AcAc | "E7" eedc B3d | 
+"E7" B2EE EGEG | B2B2 GEGB | G2EE EGEG |1 "A" A2A2 A2 ze :|2 "A" A2A2 A2 z a |]
+|: "D" a2dd dfdf | a2dd dfdf | "A" e2AA AcAc | e2AA AcAc | 
+"E7" B2EE EGEG | B2EE EGE2 | "A" e2AA AcAc | cAce a4 | 
+"D" a2dd dfdf | a2dd dfdf | "A" e2AA AcAc | e2AA AcAc | 
+"E7" B2EE EGEG | B2EE EGEG | EGEG EGEG | "A" A2A2 A4 :|
+

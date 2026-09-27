@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från södra Ångermanland Olle i Tängsta
+S:Olle i Tängsta
+S:V Rönnlund
+O:Ångermanland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Olle i Tängsta och V Rönnlund
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1" (A>c) (c>e) e2 | ef/e/ dc BA | (^G>A) (B>c) d>e | f>e cd/c/ Bc/B/ | (A>c) (c>e) e2 | 
+ef/e/ dc BA | (^G>A) (B>c) d>e | f>e cd/c/ Bc/B/ | (A>a) (a>f) e>c |1 (B^G) A4 :|2 (B^G) A3 B |
+|:c>(B c>d) e>g | ^f>a (fg) g>B | c>B (A>^G) A>B | c>d de E2 |
+ e>^g (g>a) a>B | c>B (A>B) c>d | ef/e/ de/d/ cd/c/ |1 B^G A3 B :|2 B^G A4 |] 
+V:2
+|:"^2" (E>A) (A>c) c2 | cd/c/ BA ^G^F | (E>^F) (^G>A) B>c | d>c AB/A/ ^GA/G/ | (E>A) (A>c) c2 | 
+cd/c/ BA ^G^F | (E>^F) (^G>A) B>c | d>c AB/A/ ^GA/G/ | (E>c) (c>B) A>E |1 (DB,) C4 :|2 (DB,) C3 ^G |
+|: A>(^G A>B) c>e | d>c (AB) B>^G | A>E (C>B,) C>E | A>B ^F^G B,2 | B>d (d>c) c>^G | 
+A>E (C>E) A>B | cd/c/ Bc/B/ AB/A/ |1"^Stämförslag B.O." ^GE C3 G :|2 ^GE C4 |]
+

@@ -1,0 +1,36 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals i Lissbovik
+R:Vals
+O:Upplands Väsby, Uppland
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+N:"Lissbovik - sommar, sol, vågskalp, fågelröster och dofter från skog och sjö..."
+L:1/8
+M:3/4
+I:linebreak $
+K:C
+V:1
+|:"^1" "C" C2 (EG) (ce) | (Bd) (cG) "^Lissbovik - sommar, sol, vågskalp, fågelröster" "^och dofter från skog och sjö . . ." (EC) |"Dm" A,2 (DF) Ad | f4 a2 |"G7" (ag) (gf) (fd) | (dB) (BG) G2 | 
+(GA) G2 F2 | "C"(EF) (ED) C2 | C2 (EG) (ce) | (Bd) (cG) (EC) | "Dm" A,2 (DF) (Ad) | f4 a2 |
+"G7" (ag) (gf) (fd) | (dB) (BG) (GF) | (FD) (DG) (Bd) |1,8"C" [EGc]6 :|2"C" [EGc]3 E(Gc) |:
+"C" e2 (cG) (EC) | (G,C) (EG) (ce) | "G7" (3(ded) (BG) (DB,) | (G,B,) (DG) (Bd) |"F" (3(cdc) (AF) (CA,) | (CF) (Ac) (BA) | 
+"C" (AG) (GA) (GE) | C2 (CE) (Gc) | e2 (cG) (EC) | (G,C) (EG) (ce) |"G7" (3(ded) (BG) (DB,) | (G,B,) (DG) (Bd) | 
+"F"c2 (AF) (CA,) |(CF) (Ac) (BA) |  "C" (AG) (GA) (GE) | C3 D(C_B,) | "F" A,2 (CF) (AB) | (3(cBc) (dc) (BA) | 
+"C"(GE) (CE) (Gc) | e4 g2 |"G7" (gf) (af) (dB) | G2 B2 d2 |"C" d (3(c/d/c/) Bc dB |1 "C" c3 E(Gc) :|2"C" c3 _B(AG) |:
+[K:F] "F"[A,F]2 A2 F2 | (CD) (CB,) (A,G,) | A,2 (CF) (Ac) | d4 c2 | "C7" (cB) (AB) (GE) | C2 (EG) (AB) |
+"F" (dc) (=Bc) (fc) | (AB) (AG) F2 | [A,F]2 A2 F2 | (CD) (CB,) (A,G,) | A,2 (CF) (Ac) | d4 c2 |
+"C7" (cB) (AB) (GE) | (CE) (Gc) (eg) |"F" (gf) (fe) (fg) |1"F" f3 B(AG) :|2[K:C]"F" f4 z2 |] 
+V:2
+|:"^2" G,2 CE Gc | G_B GE CG, | D2 A,D FA | [FA]4 c2 | c_B BA AF | FD D_B, B,2 | 
+_B,C B,2 D2 | CD CA, G,2 | G,2 CE Gc | G_B GE CG, | D2 A,D FA | [FA]4 c2 | 
+c_B BA AF | FD D_B, B,D | D_B, B,D DF |1,8 E6 :|2 E3 CEG |: 
+c4 G2 | E2 G2 E2 | _B4 G2 | D2 G2 D2 | A4 F2 | A,2 C2 F2 | 
+FE EF EC | G,2 G,C EG | c4 G2 | E2 Gc eg | _B4 G2 | D2 G_B dg |
+A4 F2 | A,2 FA GF | FE EF EC | G,3 _B,A,G, | C4 F2 | A2 _BA GF |
+EC G,C EG | c4 e2 | ed fd _BG | D2 G2 F2 | FE DE FD |1 E3 CEG :|2 E3 DC_B, |:
+[K:F] A,2 F2 C2 | AF ED CB, | F2 A,C FA | B4 A2 | AG FE DC | G,2 CE FG | 
+BA GA cA | FG FC A,2 | A,2 F2 C2 | AF ED CB, | F2 A,C FA | B4 A2 | 
+AG FE DC | G,C EG cB | BA AG AB |1 A3 DCB, :|2 [K:C] A4"^B.O." z2 |]
+

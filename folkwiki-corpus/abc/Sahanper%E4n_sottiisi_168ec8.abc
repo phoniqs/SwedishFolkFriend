@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Sahanperän sottiisi
+C:Konsta Jylhä
+O:Finland
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+N:"Av Konsta Jylhä, Finland"
+L:1/16
+M:2/4
+K:Dm
+V:1
+|:"^1" D>DFA defd | ^cdec A2A2 | A^cec A2A2 | Adfd AGFE | 
+DDFA defd | ^cdec A2A2 | A^ceg fedc | d2d2 [Dd]4 ::
+ddAF ddAF | GABA G2G2 | efgf ecde | fagf edcA | 
+ddAF ddAF | GABA G2G2 | efgf ecde | f2f2 [Af]4 :| 
+V:2
+|:"^2""Dm" A,A,DE FGAF |"A7" EFGE ^C2C2 | ^CEGE C2C2 |"Dm" DFAF FED^C | A,A,DE FGAF | 
+"A7" EFGE ^C2C2 | ^CEGB AGFE |"Dm" F2F2 [FA]4 :: 
+"Dm" AAFD AAFD |"Gm"  B,DGD B,2B,2 |"C7" GABA GEFG | "F" AcBA GFED |
+"Dm" AAFD AAFD |"Gm" B,DGD B,2B,2 | "C7"  G"^Från CD med stämförslag B.O."ABA GEFG |"F"  A2A2 [FA]4 :|
+

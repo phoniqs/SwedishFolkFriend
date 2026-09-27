@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från By
+T:efter Fredrik Wikström
+S:Fredrik Wikström
+O:By, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(01) Hambo-polska från Södra Dalarna"
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (B |: d2)T (d^c/d/) e>d | d>B G2 B2 | c>A F2 A2 | d>B G2 B2 | 
+d2T (d^c/d/) e>d | d>B G2 B2 | c>A F2 (A>F) |1 G2 G3 B :|2 G2 G3 D- |: 
+D>G [DB]2 [DB]2 | [Ec]2 (!>![G,E]2 !>![G,E]2) | D>F [DA]2 [DA]2 | [DA]>F D2 [CD]2 | B,>D G2 F2 | 
+E>E A2 G2 | F>A d2 (d>F) |1 G2 G3 D- :|2 G2 G3 z |] 
+V:2
+"^2" (G |:"G" B2) BA/B/ c>B | B>G D2 G2 | "D7" A>F D2 F2 | "G" B>G D2 G2 | B2 (BA/B/) c>B | B>G D2 G2 | 
+"D7" A>F D2 (F>D) |1 "G" [B,D]2 [B,D]3 G :|2 "G" [B,D]2 [B,D]3 B,- |:"G" B,>D G2"G7" =F2 | 
+"C" E2 (!>!C2 !>!C2) |"D7" A,>D F2 F2 | F>D C2 A,2 |"G" G,>B, D2 B,2 |"C" C>C E2 C2 | 
+"D7" D>"^Stämförslag B.O." F A2 (A>C) |1"G" [B,D]2 [B,D]3 B,- :|2"G" [B,D]2 [B,D]3 z |]
+

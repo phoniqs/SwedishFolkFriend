@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:1370
+T:Vals efter Lasse i Lyby 
+T:(SvL Skåne nr. 1370)
+C:Lasse Lyby
+R:Vals
+O:Lyby, Skåne
+S:Svenska Låtar Skåne
+B:Svenska Låtar Skåne
+N:Andrastämma av Pär Hyberg, Ask, Skåne
+M:3/4
+L:1/8
+K:D
+V:1
+|: "D"D(F A)(d c)B | (BA) AA A2 | "A"A(c e)(g f)e | "D"f2 d2 A2 | 
+V:2
+|: A,2 DF G2 | D2 F2 D2 | D2 B,C A,2 | A,2 F2 D2 |
+V:1
+"D"D(F A)(d c)B | (BA) AA A2 | "A"A(c e)(g f)e | "D"d2z2 z2:|
+V:2
+A,2 DF G2 | D2 F2 D2 | D2 B,C A,2 | F2 z2 z2 :|
+V:1
+|: "D"f2 (fe) d(c | "G"B2) B(^A B2) | "A"g2 ge cA | "D" d2 fd A2 | 
+V:2
+|: A2 AG FE | D3 C D2 |  B2 BG EC | A2 dA F2 |
+V:1
+"D" f2 f(e d)(c | "G" B2) B(^A B2) | "A"gecABc | "D"d2 z2 z2 :|
+V:2
+A2 AG FE | D3 C D2 | B2 GE CA, | F2 z2 z2 :|
+

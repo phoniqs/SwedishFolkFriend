@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:115
+T:Varsovienne
+T:(Sv Folkdanser Del 1)
+R:Varsovienne
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 115. Varsovienne"
+Z:"Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 115
+B:Musik till Gillesdanser i Norden
+L:1/8
+Q:1/4=144
+M:3/4
+K:C
+V:1
+"^1""^Förspel" B2 BB Ba | g3 efd | (cB) (ce) dB | c4 z2 |] [M:3/4][K:treble]"^Dans"[Q:1/4=144] A>B c2 d2 | 
+e6 | e>d B2 c2 | A6 | A>B c2 d2 | e6 | e>d B2 c2 | A6 |] 
+G>c ee ee | G>c ee ee | g>e c2 e2 | d6 | G>B dd dd | 
+G>B dd dd | f>d B2 d2 | c2 E2 F2 |] "^Vals"[Q:1/4=160] G2 GG GG | ed c3 B | A2 AA AA | 
+fe d3 c | B2 BB Ba | g3 efd | (cB) (ce) dB | c2 c4 |] 
+V:2
+"^2""G7" G2 GG Gc | B3 GAF |"C" (ED) (EG)"G7" FD |"C" E4 z2 |] [M:3/4][K:treble]"Am" C>E A2 B2 |
+"E7" ^G6 | c>B ^G2 E2 |"Am" C6 | C>E A2 B2 |"E7" ^G6 | c>B ^G2 E2 |"Am" C6 |]
+"C" E>G cc cc | E>G cc cc | e>c G2 c2 |"G7" B6 | D>G BB BB | 
+D>G BB BB | d>B G2 F2 |"C" E2 C2 D2 |]"C" E2 EE EE | GF E3 E |
+"Dm" F2 FF FF | AG F3 F |"G7" G2 GG Gc | "^Stämförslag B.O." B3 GAF |"C" (ED) (EG)"G7" FD |"C" E2 E4 |]
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Malårundan
+C:Michael Boman 2022
+M:2/4
+L:1/16
+O:Malå, Lappland
+Q:1/4=65
+K:G
+R: Gånglåt
+V:1
+|: "G" BcBA B2B2 | BcBA G2D2 | G3B d2d2 | "D"c2B2 c2A2 
+| ABAG AGF2 | FGFE FED2 | F3A e2d2 | "G" c2B2B4 
+|BcBA B2B2 | BcBA G2D2 | G3G A2B2 | "C" d2c2c4 
+| e3e d2c2 | "G" d3d c2B2 | "D" c3c BAFA |1 "G" A2G2 G2z2 :|2 "G" A2G2 G2B2 
+|: c3cd2c2 | "G" cBGB dcB2 | "D" AGFA dcB2 | "G" GABc ded2 
+| "C" c3c d2c2 | "G" c2B2 B2G2 | "D" FEDF AGFA |1 "G" A2G2 G2B2 :|2 "G" A2G2 G4 | 
+V:2
+|: G3G D2G2 | G3G D2G2 | G3G A2G2 | F2 E2 F2D2 
+| FGFE FED2 | DEDC DCA,2 | D3F G2F2 | G2D2G4 
+| G3G D2G2 | G3G D2G2 | D3D E2=F2 | =F2E2E4 | G3G=F2E2 
+| G3G D2G2 | D3D GFDF |1 F2D2 D2z2 :|2 F2D2D2G2 
+|: E3E G2E2 | EDB, D GED2 | FEDF AGF2 | DFGA BcB2 
+| E3E G2E2 | G2G2D2D2 | DCA,D FEDF |1 F2D2 D2G2 :|2 F2D2D4 |
+

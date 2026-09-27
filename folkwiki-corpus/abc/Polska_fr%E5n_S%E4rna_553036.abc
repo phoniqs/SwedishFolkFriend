@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Särna
+S:Efter Olmos Lars Svensson
+O:Särna, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1" ef/g/ a2 g2 | f2 ed ^c2 | ef/g/ a2 g2 | (fd) e4 ::
+{^c} d>(e f2) f>d | (d>c) e2 e>c | (cd) (Bc) A>c | B2 e4 |
+{^c} d>(e f2) f>d | (d>c) e2 e>c | (cd) (Bc) A>c | (B^G) A4 :| 
+V:2
+|:"^2" ^cd/e/ f2 e2 | d2 ^cA E2 | ^cd/e/ f2 e2 | (dB) ^c4 ::
+{E} F>(A d2) d>F | (F>E) c2 c>A | (AB) (^GA) E>A | ^G2 G4 |
+{E} F>(A d2) d>F | (F>E) c2 c>A | (AB) (^GA) E>A | "^Stämförslag B.O." (^GE) C4 :|
+

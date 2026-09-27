@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:2
+T:Bakmes från Transtrand
+T:(Sv Folkdanser Del 1)
+S:Efter Sjungar Lars
+S:Efter Omas Per
+O:Transtrand, Dalarna
+R:Polska
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 2
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser del 1 2. Bakmes från Transtrand"
+Z:Kanske denna: http://runeberg.org/folkdans/besk/0084.html
+L:1/8
+M:3/4
+U:t=tenuto
+K:Dm
+V:1
+"^1""^Förspel" g>(b a)(f e>)d | ^c=B/c/ d4 |]:[K:F][M:3/4][K:treble]"^Dans" A>a- a>(g a5/4)b/4 | 
+(ag) (tfte) f>g | (fe) (d^c) d(e/f/) | d>f ga/g/ fd/e/ | 
+A>a- a>(g a>)b | (ag) (tfte) f>a | g>(b a)(f e>)d | ^c=B/c/ d4 :: 
+A=B/^c/ d>(c d>)e | f>(g fe) d>g | (f>e) (d^c) d(e/f/) | d>f ga/g/ fd/e/ | 
+A=B/^c/ d>(c d>)e | f>(g fe) f>a | g>(b a)(f e>)d | ^c=B/c/ d4 :| 
+V:2
+"^2" e>(g f)(d A>)F | ED/E/ F4 |]:[K:F][M:3/4][K:treble] D>f- f>(e f5/4)g/4 | 
+(fe) (tdt^c) d>e | (dA) (FE) F(A/d/) | A>d ef/e/ dA/^c/ | 
+D>f- f>(e f>)g | (fe) (tdt^c) d>f | e>(g f)(d A>)F | ED/E/ F4 :: 
+EG/A/ F>(E F>)A | d>(e dA) F>e | (d>A) (FE) F(A/d/) | A>d ef/e/ dA/^c/ | 
+EG/A/ F>(E F>)A | d>(e d^c) d>f | "^Stämförslag B.O." e>(g f)(d A>)F | ED/E/ F4 :|
+

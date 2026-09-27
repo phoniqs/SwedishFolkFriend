@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Sellberg
+S:Sellberg
+O:Ytterån, Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Lämplig dans: Shlakapolska efter Ernst Grip."
+Z:"Efter Sellberg, Ytterån"
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" D2 F2 A2 | (d>c) d>e f>g | b>a ^g>a c>e | b>a ^g>a f>d | 
+D2 F2 A2 | (d>c) d>e f>g | b>a ^g>a e>c | d2 d4 ::
+[K:A] c>e f>e ^d>e | c>e a>e c>e | B>e f>e g>e | a>e c2 A2 | 
+c>e f>e ^d>e | c>e a>e c>e | B>e f>e g>e | a2 a2 z2 :|[K:D] |] 
+V:2
+|:"^2" A,2 D2 F2 | F2 A2 d2 | d>e d>c A>G | e>f e>c A>F | 
+A,2 D2 F2 | F2 A2 d2 | d>e d>c A>G | F2 F4 ::
+[K:A] E>A c>A G>A | E>A c>A E>A | D>G A>G B>G | c>c A2 E2 | 
+"^Lämplig dans: Shlakapolska efter Ernst Grip." E>A c>A G>A | E>A c>A E>A | E>G A>G B>G | "^Stämförslag B.O." c2 c2 z2 :|[K:D] |]
+

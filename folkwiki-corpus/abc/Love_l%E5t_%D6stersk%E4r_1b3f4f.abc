@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Love låt Österskär
+R:Gånglåt
+M:4/4
+L:1/8
+K:G
+V:1
+G6 F2 | F2 E(^D D2) E2 | G6 F2 | F6 z2 |F6 E2 | E2 D2 ^C2 D(F|
+F6) E(E | E6) z2 | B6 A(A | A2) G2 F(G G2) |B2 A2 A(GG)(G |
+G2) F2 E(F F2) | G4 z2 E(F | F2) E(F F)(AA)(G | G6) z2|] 
+V:2
+E6 D2 | D2 D(C C2) D2 | E6 E2 | D6 z2 | D6 C2 | C2 C2 _B,2 C(D|
+D6) D(D | D6) z2 | G6 =F(F | F2) =F2 ^D(E E2) |G2 ^F2 F(EE)(E |
+E2) ^C2 C(E E2) |E4 z2 =C(D | D2) C(D D)(FF)(E |E6) z2 |]
+V:3
+D6 B,2 | B,2 B,(A, A,2) B,2 | C6 C2 | C6 z2 | C6 A,2 | A,2 A,2 ^G,2 A,(B,|
+B,6) B,(B, | B,6) z2 | =F6 D(D | D2) D2 C(D D2) | E2 E2 E(CC)(_D |
+D2) _B,2 B,(_D D2) | =D4 z2 A,(C | C2) A,(C C)(EE)(D | D6) z2 |]
+V:4
+B,6 A,2 | A,2 G,(F, F,2) G,2 | B,6 A,2 | A,6 z2 | A,6 G,2 | G,2 F,2 ^E,2 F,(A, |
+A,6) G,(G, | G,6) z2 | D6 B,(B, | B,2) B,2 A,(B, B,2) | C2  C2 C(A,A,)(_B,|
+B,2) G,2 G,(_B, B,2) | =B,4 z2 G,(A, | A,2) G,(A, A,)(CC)(B, |B,6) z2 |]
+

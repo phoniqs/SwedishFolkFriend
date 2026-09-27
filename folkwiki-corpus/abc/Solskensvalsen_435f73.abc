@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Solskensvalsen
+C:Karl Grönstedt
+O:Nora, Ångermanland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Karl Grönstedt"
+L:1/8
+M:3/4
+K:C
+V:1
+"C" e3 fge | c2 d2 e2 |"Dm" f6 | A6 |"G7" B4 d2 | g4 f2 |"C" [Ge]6- | [Ge]4 z2 | e3 fge | c2 d2 e2 |"G" d6 | b6 |
+"Am" [ec']6 |"D7" [db]4 [ca]2 |"G" [Bg]6- | [Bg]4 z2 |"C" e3 fge | c2 d2 e2 |"Dm" f6 | A6 |"G7" B4 d2 | g4 f2 |
+"C" [Ge]6- | [Ge]4 z2 |"F" a3 gfg |"Fm" [c_a]6 | "C" g3 x6 |"A7" [^cg]6 |"Dm" f2 a2 A2 |"G7" B4 e2 |"C" [Ec]6- | [Ec]2 z4 |]: 
+[K:G]"D7" d2 .[efc'].[efc'] .[efc'].[efc'] | [efc']2 b2 a2 |"G" bg dg dB | e4 d2 | "D7" DE FG AB | c6 | "G" GA Bc de | 
+d6 |"D7" d2 .[efc'].[efc'] .[efc'].[efc'] | [efc']2 b2 a2 | "G" bg dg dB |"E7" e4 d2 |"Am" ce ac' ae |"D7" d2 f2 a2 |
+"G" g3 [Bdg] [Bdg]2 |1 [Bdg]2 z2 d2 :|2[K:C] [Bdg]2 z4 |][K:F]"C" z c de fg |:"F" [ca]6- | [ca]g fe fg |"Gm" [Bd]6- | 
+[Bd]b gd BG |"C7" g6- | gf ed ef |"F" [Ac]6 | [FA]2 f2 a2 | [fad']2 .[fac'].[fac'] .[fac'].[fac'] | [fad']2 .[fac'].[fac'] .[fac'].[fac'] | 
+"C7" [ebd']2 .[ebc'].[ebc'] .[ebc'].[ebc'] | [ebc']2 e2 g2 | [ebd']2 .[ebc'].[ebc'] .[ebc'].[ebc'] | [ebd']2 .[ebc'].[ebc'] .[ebc'].[ebc'] | 
+"F" [fad']2 .[fac'].[fac'] .[fac'].[fac'] | z c de fg | [ca]6- | [ca]g fe fg |"Gm" [Bd]6- | [Bd]b gd BG |"C7" g6- | gf ed ef |"F" [Ac]6- | 
+[Ac]2 f2 g2 |"F" [F6a2] c'2 a2 |"F7" [^D6g2] f2 a2 | "Bb" [D6g2] f2 a2 |"Bbm" [_D6g2] f2 _d2 |"F" c2 .[cfa].[cfa] .[cfa].[cfa] |
+"C7" B2 .[Beg].[Beg] .[Beg].[Beg] | "F" [Acf]3 [Acf] [Acf]2 |1"C" z c de fg :|2"F" [FAcf]2 z4 |[K:C] |]
+

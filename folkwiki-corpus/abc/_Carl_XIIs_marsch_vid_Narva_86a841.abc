@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X: 1
+T: Carl XIIs marsch vid Narva
+R: Marsch
+M: 4/4
+L: 1/8
+O: Skåne, Lund
+B: FMK - katalog M113b bild 21
+B: Nils Andersson "Noter för Flöjt"
+D: Linnaeus Väsen spår 7 (avviker litet från denna uppteckning)
+M: 4/4
+L: 1/8
+Q: 210
+%%printtempo 0
+K: Em
+f2 g2 ^d2 e2 | fgfe ^d2 B2 | f2 g2 ^d2 e2 | fgfe ^d2 B2 |
+g2 b2 f2 bb | g2 e2 ^d2 B2 | e2 e2 f2 ^dd | e2 e2 e2 z2 ::
+ef ga b2 bg | c'2 c'a b2 e2 | ^de de f2 gg | f2 !>!b2 f2 !>!b2 |
+e2 g2 f2 ^dd | e2 g2 "?"e2 ^d2 | e2 e>e f2 ^d>d | e2 e2 e2 z2 :|
+

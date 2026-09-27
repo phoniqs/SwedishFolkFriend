@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals efter Olof ”Spel-Olle” Näslund
+R:Vals
+O:Sidensjö, Ångermanland
+S:Olof Näslund
+Z:Karin Helander
+N:Not från Ångermanlands spelmansförbund: https://spelmansforbundet.com/spelmanslag/allspelslatar/
+N:"Vals efter Olof Näslund Spel-Olle f 1833 Sidensjö. Uppt arr O. Ståhl"
+M:3/4
+L:1/8
+K:G
+Q:1/4=160
+V:1
+Bc |: d2 g2 B2 | d4 g2 | fg b2 a2 | g4 d2 | gf eg fe | 
+dc dg Bd | cB cA FD |1 G4 Bc :|2 G4 D2 |]
+|: D2 BB BB | (3 BdB G2 G2 | D2 BB BB | (3 BdB A2 A2 | 
+D2 dd dd | dA F2 F2 | D2 dd dd | dB G2 G2 | 
+D2 BB BB | (3 BdB G2 G2 | D2 BB BB | (3 BdB A2 A2 | 
+AB cd ef | gf gd Bd | cB cA FD |1 G4 D2 :|2 G6 |]
+V:2
+GA |: "G" G2 E2 D2 | G2 FE D2 | [DB][DB] [dD]2 [cD]2 | [BD]2 DB, G,2 | "C" C2 [cE]2 [cE]2 | 
+"G" G,2 [BD]2 [BD]2 | "D7" A,2 [Dc]2 [Dc]2 |1 "G" [B,D]4 GA :|2 "G" [B,D]4 D2 |]
+|: "G" [G,D]2 [B,G]2 [B,G]2 | [G,D]2 GF ED | [G,D]2 [B,G]2 [B,G]2 | "D7" [A,D]2 cA FD | 
+"D7" [A,D]2 [FA]2 [FA]2 | [AD]2 dA FD | [DA,]2 [FA]2 [FA]2 | "G" [G,D]2 BG DG, | 
+"G" [G,D]2 [B,G]2 [B,G]2 | [G,D]2 GF ED | [G,D]2 [B,G]2 [B,G]2 | "D7" [A,D]2 cA FD | 
+"Am" FG AB cA | "G" Bd BG DG | "D7" FD FD [DC][DC] |1 "G" [B,D]4 D2 :|2 "G" [B,D]6 |]
+

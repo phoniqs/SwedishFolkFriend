@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska efter Erik Kleofas Hedbom
+S:Erik Kleofas Hedbom
+O:Dormsjö, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(39) Hambo-polska från Södra Dalarna efter Erik Kleofas Hedbom, Dormsjö"
+L:1/8
+M:3/4
+K:Am
+V:1
+"^1"u c |: (e>c) (A>B) c>d | ef/e/ d>B ^G2 | f2 (e>d) B>d | (e>f) (e>c) A>c | 
+(e>c) (A>B) c>d | ef/e/ d>B ^G2 | f2 (e>d) B>c |1 A2 A3u c :|2 A2 A3 (B |:
+[K:D] A>)(g f>e) f>d | A2 (d>c) d>e | A2 (c>B) G>A | BA/c/ (d>f) A>d | 
+A>(g f>e) f>d | A2 (d>c) d>e | A2 (c>B) A>c |1 ef/e/ d3 B :|2 ef/e/ d3 z |] 
+V:2
+"^2"u A |: (c>A) (E>^G) A>B | cd/c/ B>^G E2 | d2 (c>B) ^G>B | (c>d) (c>A) E>A | 
+(c>A) (E>^G) A>B | cd/c/ B>^G E2 | d2 (c>B) ^G>E |1 C2 C3u A :|2 C2 C3 (G |: 
+[K:D] F>)(e d>c) d>A | F2 (A>G) A>G | E2 (A>G) E>F | G2 (A>d) F>A | 
+F>(e d>c) d>A | F2 (A>G) A>G | E2 (A>G) E>G |1 GA/G/ F3 G :|2 GA/G/ F3"^B.O." z |]
+

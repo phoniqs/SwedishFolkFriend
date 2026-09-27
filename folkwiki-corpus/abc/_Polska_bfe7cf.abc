@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X: 1084a
+T: Polska
+T: Polska efter Höök Olle
+C: Höök Olof Andersson
+S: Svenska Låtar Dalarna 1084a
+D:''Jazz på svenska'' med Jan Johansson och Georg Riedel.
+R: Polska
+O: Dalarna
+M: 3/4
+L: 1/8
+Q:1/4=130
+N: Höök Olle Andersson var född i Söderås, Västgärde, Rättvik 1860. 
+N: Angivet tempo 160.
+Z: Jens Johansson 2023
+K: Amin
+A>(B c)d ez/2^g/2 | (^ga) (a{ba})g ez/2f/2 | g2 a>^f dz/2e/2 | f(g/2f/2) e^c AB |
+c2 {d}c>B cz/2d/2 | (de) [ee]4 | A>(B c)d ez/2^g/2 | (^ga) (a{ba})g ez/2f/2 |
+g2 a>^f dz/2e/2 | f(g/2f/2) e^c AB | c2 (3c(dc) BG | (GA) A4 :|]
+[|:E2 c(d/2c/2) B^G | AB cd e2| c2 c(d/2c/2) BG | (B>A) A^G E2-|
+LE)c cB A^G | AB cd e2 | c2 c(d/2c/2) B^G | (^GA) A4 :|]
+

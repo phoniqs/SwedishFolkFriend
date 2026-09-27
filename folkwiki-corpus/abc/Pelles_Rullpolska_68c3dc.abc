@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:6
+T:Pelles Rullpolska
+C:Pelle Schenell
+O:Gnarp, Hälsingland
+B:Ny samling Spelmanslåtar från Hälsingland Nr 6
+R:Polska
+Z:Karin Helander
+Z:Ur "Ny samling Spelmanslåtar från Hälsingland" med arrangemang av [[Personer/Thore Härdelin den äldre]]
+M:3/4
+L:1/16
+K:Bb
+V:1
+|: "Bb" B2dB F2BF D2FD | B,2>D2 F2B2 d2B2 | "F7" c2ec A2cA F2GA | "Bb" B2>d2 (cB)AG F4 |
+"Bb" B2dB F2BF D2FD | B,2>D2 F2B2 d2B2 | "F7" c2ec A2cA F2GA | "Bb" [D4B4] [D4B4] z4 :|
+|: "Bb" (DB)(fB) (DB)(fB) (DB)(fB) | "Eb" (EB)(gB) (EB)(gB) (EB)(gB) | "C7" (=Ec)(gc) (Ec)(gc) (Ec)(gc) | "F7" (Fc)(ac) (Fc)(ac) (Fc)(ac) |
+"Bb" b2>a2 g2f2 e2d2 | "Eb" g2>f2 e2d2 c2B2 |1 "F7" A2>G2 F2E2 D2C2 | "Bb" B,4 B,4 z4 :|2 "F7" A2>G2 F2^F2 G2A2 | "Bb" [D4B4] [D4B4] z4 |]
+V:2 
+|:  f2bf d2fd B2dB |  F2BF D2FD [D4B,4] | A2cA F2AF C4 |  F2BF D2FD [D4B,4] |
+ d2fd B2dB F2BF | D2FD B,2D2 [F4B,4] | e2cA F2EC F2EC | [F4B,4] [F4B,4] z4 :|
+|: (B,C)DE F2GA [D4B4] | (EF)GA B2cd [e4G4] | (CD)=EF G2AB [c4E4] | (FG)AB c2d=e [f4A4] |
+g2>f2 e2d2 c2B2 | e2>d2 c2B2 A2G2 |1 [F2e2]>[F2e2] [F2e2][^F2e2] [G2e2][A2E2] | [D4B4] [D4B4] z4 :|2 F2>=E2 F2_E2 D2C2 | [F4B,4] [F4B,4] z4 |]
+

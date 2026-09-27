@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:10
+T:Mazurka ur Johan Dahls notsamling
+T:(SmM VII:10)
+S:Johan Magnus Dahl
+B:Småländsk Musiktradition
+R:Mazurka
+O:Skatelöv, Småland
+N:Ca 1890
+M:3/4
+L:1/8
+Q:1/4=150
+K:G
+{/f}g2 {/f}g2 B2|AB c4|{/^c}d2 {/^c}d2 F2|GA B4|{/f}g2 {/f}g2 AB c4|{/^c}d2 {/^c}d2 F2|G2 G2 z2:|
+[K:D]|:FG AA BA|dA f4|fe a2 c2|ed fd A2|FG AA BA|dA f4|fe a2 c2|d2 d2 z2:|
+[K:G]|:Bc d2 g2|fe A4|AB c2 e2|(3ded B2 G2|Bc d2 b2|ba c2a2|ag fe dF|G2 G2 z2:|
+

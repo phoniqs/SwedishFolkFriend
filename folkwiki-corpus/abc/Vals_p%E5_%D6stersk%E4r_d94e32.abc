@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals på Österskär
+R:Vals
+O:Jularbo, Dalarna
+C:Eberhart Jularbo och Erik Engström
+M:3/4
+L:1/8
+K:F
+| de |"_Bb" [fd]2 [fd]2 [fd]2 |"_Bbm" [g_d]2 [fd]2 [gd]2 |"_F" [af]4 a2 |"_D7" [c'^f]4 b2 |"_G7" [af=B]4 a2 |
+"_C7"[geB]4 g2 |"_F" ([fcA]6 | [fcA]2)  z2 z2 |:"_F" f2 f2 f2 | g2 g2 g2 | e2 e2 e2 | [fA]6 |
+"_F" d4 d2 | e4 c2 |"_Gm" ([dBG]6 |"_D7" [dAF]6) |"_Gm" g2 g2 g2 | a2 a2 a2 | f2 f2 f2 |
+"_Gm" [gdB]6 |"_G7" d2 e2 f2 | [af]4 f2 | [af]4 _a2 |"_C7" [geB]4 c2 |] 
+"_F"[ac]4 ([cA]2 | [cA]2) a3 _a |"_C7" ([geB]6 | [geB]4) c2 | [gB]4 ([BG]2 | [BG]2) g3 _g|
+"_F"([fcA]6 | [fcA]6) |"_Bb" [fd]4 [fd]2 |"_Bbm" [g_d]4 [^gd]2 |"_F" [afc]6 |"_Dm" [fdA]6 |"_G" [g=B]4 [fd]2 |
+"_G" e4 [fd]2 |"_C7" ([g6] [eB]2 [dB]2 | g6) [Bc]4 c2 |"_F" [ac]4 ([cA]2 | [cA]2) a3 _a |"_A7" ([g^cA]6 |  [g^cA]4) g2 |
+"_A7" [g^cA]4  (A2 | A2)   [g^cA]3 _g | "_Dm" ([fdA]6 | [fdA]4) de |"_Bb" [fd]2 [fd]2 [fd]2 |"_Bbm" [g_d]2 [gd]2 [gd]2 |
+"_F" [af]4 [af]2 |"_D7" [c'^f]4 b2 |"_G7" [af=B]4 [afB]2 |"_C7" [geB]4 [geB]2 |"_F" ([fcA]6 | [fcA])2 z2 z2  :|
+"coda" de |"_Bb" [fd]2 [fd]2 [fd]2 |"_Bbm" [g_d]2 [gd]2 [gd]2 |"_F" [af]4 [af]2 |"_D7" [c'^f]4 b2 |
+"_G7" [af=B]4 [afB]2 |"_C7" [geB]4 [geB]2 |"_F" ([fcA]6 | [fcA])2 z2 z2  |]
+

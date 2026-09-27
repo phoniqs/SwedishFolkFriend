@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T: Bränd Jons polska
+R: Orsapolska
+R: Polska
+O: Dalarna
+S: efter Bengt Jonsson
+M: 3/4
+L: 1/16
+K: Am
+|: E4 (A3B) {B}c3A | {A}d4 (cd)cA {BA}B3G | (AB3) (c3d) e2a2 | (~a2g2) e4 E4- | ~E4 (A3B) {B}c3A |
+| {A}d4 (cd)cA B3G |(AB3) (c3d) e2a2 | (~a2g2) e8- | e4 e8- :: e4 (ab)ag e3g | (~g2^f2) (d2f2) e4- |
+| e4 (ab)ag e3g | (~g2^f2) (d2f2) e4- | e2(~f2 e3d) c3B | A3G (^FG)AB {B}c4 | {c}d4 (ef)ed c3A | (BG3) A8 :|
+

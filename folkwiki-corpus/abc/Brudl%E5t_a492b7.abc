@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudlåt
+S:E P Forsberg
+O:Hucksjöåsen, Jämtland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. av Karl-Ersa i Husås."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" D |: G>D GB | d>c B(A/G/) | c>e gf/e/ | de/d/ (B/G/)B/d/ | 
+gf/g/ bg | d>c BA/G/ | A>B (c/A/)F/A/ |1 G3 D :|2 G3 (A/B/) |: 
+c>B ce | g>f ed | d>B GB | d>d BG | D>D FA | c>c AF | 
+DG({A} G/F/)G/B/ | d>c BA/G/ | c>B ce | g>f ed | d>B GB | 
+d>d BG | D>D FA | c>c AF | D>G Bd/B/ |1 G3 (A/B/) :|2 G3 z |] 
+V:2
+"^2" G, |: B,>G, B,G | B>A G(D/B,/) | E>c ed/c/ | Bc/B/ (G/D/)G/B/ | 
+BA/B/ dB | B>A GD/B,/ | F>G (A/F/)D/C/ |1 [B,D]3 G, :|2 [B,D]3 (C/D/) |: 
+E>D Ec | e>d cB | B>G DG | B>B GD | A,>A, DF | A>A FD | 
+G,B, (B,/A,/)B,/G/ | B>A GD/B,/ | E>D Ec | e>d cB | B>G DG | B>B GD | A,>A, DF | 
+A>A FD | B,>D GB/G/ |1"^Stämförslag B.O." [B,D]3 (C/D/) :|2 [B,D]3 z |]
+

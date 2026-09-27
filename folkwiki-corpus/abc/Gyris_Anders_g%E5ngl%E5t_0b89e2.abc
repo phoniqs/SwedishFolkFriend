@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Gyris Anders gånglåt
+T:(Si god afton och god kväll)
+S:Gyris Anders
+O:Älvdalen, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Gyris Anders (1822-1909), Älvdalen."
+%%score 1 2
+L:1/8
+Q:1/4=84
+M:2/4
+K:G
+V:1
+"^1" (dc) | B>c BA | G2 (cB) | A>G FG | A2 (FG) | (A>d) dd | (^c>e) ec | 
+d4- | d z (dc) | B>c BA | G2 (cB) | A>G FG | A2 (dc) | (B>G) GG | 
+(FA) cF | G4- | G z (dc) | (B>G) GG | (FA) cF | G4- | G z |] 
+V:2
+"^2" (BA) |"G" G2 D2 | B,2 G2 |"D" F2 D2 | F2 D2 | F2 F2 |"A7" A2 G2 |
+"D7" F4- | F z (BA) | "G" G2 D2 | B,2 G2 | "D" F2 D2 | F2 A2 |"G" G2 D2 |
+"D7" C2 D2 |"G" B,4- | "^Stämförslag B.O." B, z (BA) |"G" G2 D2 | "D7" C2 D2 |"G" B,4- | B, z |] 
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis efter Johan Hansson
+S:Johan Hansson
+O:Skucku, Jämtland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Johan Hansson, Skucku"
+Z:"Schottis från Jämtland (2)"
+L:1/16
+M:2/4
+K:G
+V:1
+"^1" (Bc) |: d2B2 g2fg | a2AB c2>d2 | c2A2 a2af | g2Bc d2(Bc) | 
+d2B2 g2fg | a2AB c2>B2 | (AB)ce (dc)AF |1 G2G2 G2 (Bc) :|2 G2G2 G2 B2 |: 
+(dB)cA (BG)AF | .G2.D2 .B,2.D2 | c2cB A2df | g2bg d4 | 
+(dB)cA (BG)AF | .G2.D2 .B,2.D2 | c2cB A2df |1 g2g2 g2 B2 :|2 g2g2 g2 z2 |] 
+V:2
+"^2" (GA) |: B2G2 B2AB | c2FG A2>B2 | A2F2 c2cA | B2GA B2GA | 
+B2G2 B2AB | c2FG A2>G2 | (FG)Ac (BA)FD |1 B,2B,2 B,2 (GA) :|2 B,2B,2 B,2 G2 |: 
+(BG)AF (GD)FD | .B,2.B,2 .G,2.B,2 | A2AG F2Ac | B2dB B4 |
+ (BG)AF (GD)FD | "^Stämförslag B.O." .B,2.B,2 .G,2.B,2 | A2AG F2Ac |1 B2B2 B2 G2 :|2 B2B2 B2 z2 |]
+

@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:25
+T:Gladers polska
+T:(Sv Folkdanser Del 1)
+O:Västergötland
+R:Polska
+S:Glader
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 25. Gladers polska efter regementsmusiker Glader, Västergötland."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 25
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" (D>F) (F>A) A>d | (dc/d/) (e>c) A>f | (fe/f/) (g>f) e>d | (c>B) (A>G) F>E | 
+(D>F) (F>A) A>d | (dc/d/) (e>c) A>f | (fe/f/) (g>f) e>d |1 (ce) d3 z :|2 (ce) d3 A |: 
+d>(f a2) f>g | fe/f/ g2 e2- | e>f g>(f e>)d | c>B A>(G F>)A | 
+d>f a2 f>g | fe/f/ g2 e2- | e>f g>(f e>)d |1 ce d3 A :|2 ce d3 z |] 
+V:2
+|:"^2""D" A,2 D2 F>A |"A7" F2 G2 E>d | dc/d/ (e>d) c>B | A2 E2 ^C>C |"D" A,2 D2 F>A | 
+"A7" F2 G2 E>d | dc/d/ (e>d) c>B |1"A7" AG"D" F3 z :|2"A7" AG"D" F3 F |:"D" A>(d f2) d>e | 
+"A7" dc/d/ e2 c2 | A>(c e>)(d c>)B | A2 F2 D>F |"D" A>d f2 d>e |
+"A7" dc/d/ e2 c2 | "^Stämförslag B.O." A>(c e>)(d c>)B |1"A7" AG"D" F3 F :|2"A7" AG"D" F3 z |]
+

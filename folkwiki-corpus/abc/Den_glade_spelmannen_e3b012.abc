@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Den glade spelmannen
+C:Ivar Thorn
+O:Bergvik, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:2/4
+I:linebreak $
+K:G
+V:1
+|:"^1" (G,B,)DG B2d2 | (ba)gf g2d2"^Gånglåt" | (BG)FG D2B2 | c8 | (AF)DF A2c2 | 
+(AD)FA a2g2 | f2(gf) e2(fe) | d2(ed) (cA)FD | (G,B,)DG B2d2 | (ba)gf g2d2 | 
+(BG)FG D2B2 | c8 | (EA)(cA) (eA)(cA) | (GB)(dB) (gd)(BG) | (A,C)(DF) (Ac)(AF) | G8 :: 
+[DBg]4 d2>c2 | B2A2 G4 | (DG)(BG) c2B2 | A8 | B2A2 d2>c2 | A2F2 D4 | 
+(CD)(FA) (cA)(FA) | G8 | [DBg]4 d2>c2 | B2A2 G4 | (DG)(Bd) [Bg]2[df]2 | [ce]8 | 
+(Ac)(ec) (ag)(fe) | (GB)(dg) (bg)(dB) | (Ac)(ec) (DF)(AF) | G8 :| 
+V:2
+|:"^2" (DG,)B,D G2B2 | (dc)BA B2B2 | (GB,)A,B, G,2D2 | F8 | (FD)CD F2A2 | 
+(FC)DF f2e2 | d4 c4 | B4 (AF)DC | (DG,)B,D G2B2 | (dc)BA B2B2 | 
+(GB,)A,B, G,2D2 | E8 | (CE)(AE) (cE)(AE) | (B,D)(GD) (BG)(DB,) | D2(FA) (FA)(FD) | [B,D]8 :: 
+(G,B,)(DG) B2d2 | (ba)gf g2d2 | B,2(DB,) E2D2 | [CF]8 | (AF)(DF) A2c2 | 
+(AD)(FA) f2e2 | d2(ed) c2(dc) | B2G2 D2(B,A,) | (G,B,)(DG) B2d2 | (ba)(gf) g2d2 | 
+B,2D2 [G,D]2[FA]2 | [CE]8 | E2(cE) (ce)(dc) | (B,D)(GB) (dB)(GD) | (CE)(AE) (CA,)(DC) | [B,D]8 :|
+

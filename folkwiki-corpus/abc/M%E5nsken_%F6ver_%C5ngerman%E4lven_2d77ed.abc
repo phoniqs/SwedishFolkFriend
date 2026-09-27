@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Månsken över Ångermanälven
+T:Vals
+R:Vals
+O:Ångermanland
+C:Karl Grönstedt
+Z:Karin Helander
+N:Förenklad från häfte "Månsken över Ångermanälven", uppladdad på spillefolk: https://www.spillefolk.dk/nodeboeger/Tilsendte_Noder/M%C3%A5nsken%20%C3%B6ver%20%C3%85ngerman%C3%A4lven.pdf
+N:Dragspelslåt
+N:Inspelning med Karl Grönstedts kapell, skiva "Månsken Över Ångermanälven" inspelad 1959: https://www.youtube.com/watch?v=3KbaANptZXI
+M:3/4
+Q:160
+L:1/8
+K:F
+V:1
+"F" (C2 F4) | "C7" {GF} (E2 G4) | "F"{AG}(F2 c4) | "Bb" {dc}(B2 f4) | "F" c2 A2 c2 | "C7" B2 A2 G2 | "Dm" F2 G2 A2 | "G7" (G4 "C7"  G2) |1
+"F" (C2 F4) | "C7" {GF} (E2 G4) | "F"{AG}(F2 c4) | "Bb" {dc}(B2 f4) | "C" e2 g2 c2 | "G7" d2 A2 d2 | "C7" (c6 | c6) :|2 
+"F" (c2 A4) | "F7" (A2 F4) | "Bb" (F2 B4 | "Bbm" B2) F2 G2 | "F" A2 "Bb" B2 "D7" =B2 | "F" c2 f2 A2 | "C7" c2 G2 A2 | "F" F4"^Da" !segno! z2 |]  
+[K:C] |: "G7" (3 (G^FG) g2 (3 (GFG) | f2 (3 (G^FG) e2 | (3 (G^FG) d2 (3(GFG) | "C" c2 (3 (^FGA) G2 | "A7" (3 (A^GA) a2 (3 (AGA) |
+ g2 (3 (A^GA) f2 | (3 (A^GA) e2 (3 (AGA) | "Dm" d2 (3 (^GAB) A2 | "F" (c'afcfa) | "Fm" c'6 | "C" (gecGce) | "A7" g6 |1 
+"Dm" (afdAdf) | "C" (gecGce) | "G7" (fdBGBd) | "C" c/e/c/B/ c/e/c/A/ G2 :|2 "Dm" fg^ga c'2 | "C" (3 (ef^f) g2 (3 (cd^d) | "G7" !>! e2 z2 !>!d2 | "C" !>! c2 z2 !D.C.! z2 |] 
+|: [K:Bb] !segno! "Bb" (FBcdcB) | "Ebm" (_GBcdcB) | "Bb" (FBcdcB) | (fdcdcB) | (FBcdcB) | (d2 f2) z2 | "Eb" {F^F} (G6 | "G7" G6) | 
+"Cm" (Gcdedc) | "G7" (G=BcdcB) | "Cm" (Gcdedc) | (gededc) | (Gcdedc) | (g2 c'2) z2 | "F7" {g^g} a6 | f2 g2 a2 | 
+"Bb" b6 | "Bb7" f4 g2 | "Eb" f4 =e2 | _e6 | "G7" g6 | d4 e2 | "Cm" d4 _d2 | c6 | G2 A2 B2 | c2 d2 e2 | f2 g2 f2 | 
+"G7" e4 d2 | "Cm" e2 g2 e2 | "F7" d2 f2 d2 |1 "Bb" (B2 "Eb" G2 "Ebm" _G2 | "Bb" F2) (F/B/d/g/) "F7" f2 :|2 "Bb" (B2 "Eb" G2 "Ebm" _G2 | "Bb" [BF]4) z2 |]
+

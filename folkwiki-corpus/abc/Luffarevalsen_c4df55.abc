@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:5
+T:Luffarevalsen
+O:Säter, Dalarna
+R:Vals
+S:Ragnar Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. o. arr. B.O. 06-01-27."
+Z:"Ragges dans: 5. Luffarevalsen"
+Z:"Uppt. eft. Ragge Eriksson, Säter."
+L:1/4
+M:3/4
+K:G
+V:1
+"^1""^Ragges dans: Luffarevalsen" D |: B2 c | A2 B | G2 G | D2 B | d2 B | c d e | A3- | A2 D | 
+B2 c | A2 B | G2 G | E2 C | D2 D | D E F | G3- | G2 D :| 
+G3/2 G/ G | G B d | e3 | d2 B | A2 c | B2 A | B3- | B2 D | 
+G3/2 G/ G | G B d | g3 | e2 c | d3/2 e/ d | c B A | G3- | G2 z |] 
+V:2
+"^2" B, |:"G" D2 E |"D7" C2 D |"G" B,2 B, | B,2 G | B2 G | A B c |"D7" F3- | F2 B, |"G" D2 E | 
+"D7" C2 D |"G" B,2 B, |"Am" C2 A, |"D7" A,2 A, | A, B, C |"G" B,3- | B,2 B, :| 
+"G" B,3/2 B,/ B, | B, G B |"C" c3 |"G" B2 G |"D7" F2 A | G2 F |"G" G3- | G2 B, | 
+"^Uppt. o. arr. B.O. 06-01-27." B,3/2 B,/ B, | B, G B |"C" e3 | c2 A |"D7" F3/2 G/ F | F D C | "G" B,3- | B,2 z |]
+

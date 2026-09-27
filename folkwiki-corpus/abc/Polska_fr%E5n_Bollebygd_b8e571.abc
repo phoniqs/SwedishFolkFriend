@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Bollebygd
+S:O A Nicklasson
+O:Bollebygd, Västergötland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:Skulle kunna vara [[Personer/Anton Nicklasson]], finns beskriven så här i Dan Korns bok Folkkultur - Tradition och gammeldags liv i socknarna Råda, Landvetter, Härryda, Björketorp och Bollebygd (1981):
+Z:"Låtar efter Anton Nicklasson, f. 1892 i Jordås, Bollebygd. Nicklasson hade låtarna efer sin fabror Lenader Hultén (1863 - 1929). De är uppteckade av Gösta Klemming."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (B |: d>)(d g>)(B d>)c | B2 (G>D) G>B | d>(B c>A) F>A | A>(c B>A) G>B | 
+d>(d g>)(B d>)c | B2 (G>D) G>B | d>(B c>A) F>A |1,8 G2 G3 B :|2 G2 G3 (B |:
+[K:D] A>)(A d2) d>e | d>(c d>)(f a>)a | a>(f g>e) c>e | e>(g f>e) d>B | 
+A>(A d2) d>e | d>(c d>)(f a>)a | a>(f g>e) c>e |1 d2 d3 B :|2 d2 d3 B |] 
+V:2
+"^2" (G |: B>)(B d>)(G B>)A | G2 (D>B,) D>G | B>(G A>F) D>F | F>(A G>D) B,>G | B>(B d>)(G B>)A | 
+G2 (D>B,) D>G | B>(G A>F) D>C |1,8 B,2 [B,D]3 G :|2 B,2 [B,D]3 (G |:[K:D] F>)(E F2) F>G | 
+F>(E F>)(d f>)f | f>(d e>c) A>c | c>(e d>A) F>G | F>(E F2) F>G | F>(E F>)(d f>)f | 
+f>(d e>c) A>G |1 "^Stämförslag B.O." F2 [FA]3 G :|2 F2 [FA]3 G |]
+

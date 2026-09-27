@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Edsele
+T:efter Valfrid Andersson
+S:Valfrid Andersson
+O:Edsele, Ångermanland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Valfrid Andersson, Edsele."
+L:1/8
+Q:1/4=80
+M:2/4
+K:G
+V:1
+"^1" d |:"G" (3(B/d/B/) G"G7" B/d/G/B/ |"Am" cE EA |"D7" (3(F/A/F/) D F/A/D/F/ | "G" GG/B/ d>ud |
+"G" (3(B/d/B/) G"G7" B/d/G/B/ |"Am" cE EA |"D7" (3(F/A/F/) D F/A/D/F/ |1,8 "G" GG G d :|2"G" GG G (B/c/) |:
+"G" d>d (e/d/)c/B/ |"D7" A[Fd]/[Fd]/ [Fd][Fd] | [Fd]>e (f/e/)d/c/ | "G" B[Bg]/[Bg]/ [Bg][Bg] | 
+d>d (e/d/)c/B/ |"D7" A[Fd]/[Fd]/ [Fd][Fd] | [Fd]>e (f/e/)d/c/ |1 "D7" BA "G" [B,G] (B/c/) :|2 "D7" BA "G" [B,G] z |] 
+V:2
+"^2" B |: GD =FD | EC C>E | DA, CA, | B,D/G/ B>uB | GD =FD | EC C>E | DA, CA, |1,8 B,B, B, B :| 
+B,B, B, (D/G/) |: [DB]>B (c/B/)A/G/ | F[Dc]/[Dc]/ [Dc][Dc] | [DA]>B (A/G/)F/E/ | D[Gd]/[Gd]/ [Gd][Gd] | 
+[DB]>B (c/B/)A/G/ | F[Dc]/[Dc]/ [Dc][Dc] | [DA]>B (A/G/)F/E/ |1  DC B, (D/G/) :|2"^Arr. B.O." DC B, z |]
+

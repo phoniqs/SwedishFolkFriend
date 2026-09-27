@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Trinnlibäcken
+T:Polska
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Trinnli-bäcken"
+L:1/16
+M:3/4
+K:Eb
+V:1
+|:"^1" (G,B,)EG B2cB G2E2 | (EG)Be g2bg e2B2 | B2cB A2F2 D2F2 | B2cB G2AG E2B,2 | 
+(G,B,)EG B2cB G2E2 | (EG)Be g2bg e2B2 | B2cB A2F2 D2F2 | B,2DF [G,E]6 z2 :: 
+C2EG c2e2 d2c2 | c2=Bc d2B2 G4 | g2ag f2e2 d4 | f2gf e2d2 c4 | 
+C2EG c2e2 d2c2 | c2=Bc d2B2 G4 | G2AG F2E2 D2C2 | =B,2G,B, C6 z2 :: 
+(G,E)(BE) (G,E)(BE) (G,E)(BE) | c2AF D2B,2 A4 | B,2DF B2d2 f2d2 | e2ge B2G2 E4 | 
+(G,E)(BE) (G,E)(BE) (G,E)(BE) | C2EG c2B2 A4 | B,2DF B2d2 c2B2 | A2DF [G,E]6 z2 :| 
+V:2
+|:"^2" (B,"Eb"G,)B,E G2AG E2B,2 | (G,B,)EG B2cB G2E2 | "Bb7" G2AG F2D2 B,2D2 | "Eb" F2GF E4 B,2G,2 | 
+(B,G,)B,E G2AG E2B,2 | (G,B,)EG B2cB G2E2 | "Bb7" G2AG F2D2 B,2D2 | F2D2 "Eb" G,6 z2 :: 
+"Cm" G,2CE G2c2 =B2G2 |"G7" G2FG F2D2 =B,4 | [D=B]4 d2c2 [DB]4 | =A2=BA G2F2"Cm" E4 | 
+"Cm" G,2CE G2c2 =B2G2 |"G7" G2FG F2D2 =B,4 | E2FE D2C2 =B,2G,2 | G2FD"Cm" E6 z2 :: 
+"Eb" (B,G)(eG) (B,G)(eG) (B,G)(eG) | "Bb7" A2FD B,2D2 [DB]4 | D2B,D F2B2 d2B2 |"Eb" B2cB G2E2 B,4 | 
+(B,G)(eG) (B,G)(eG) (B,G)(eG) |"Cm" E4 "Fm" A2G2 [CF]4 |"Bb7" D2B,D F2B2 A2F2 | D2B,D "Eb" [G,E]6 z2 :|
+

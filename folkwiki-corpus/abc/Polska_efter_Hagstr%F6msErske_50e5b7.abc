@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:8
+T:Polska efter Hagströms-Erske
+O:Hassela, Hälsingland
+R:Polska
+S:Erik Forslin
+S:Katrina Lundstedt
+S:Otôrgs-KaisaAbrahamsson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA. 08. Två polskor efter Hagströms-Erske"
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" d2 d^c/d/ e=c | (c>B) B3 G | F>(G AB) cA | FA/F/ GD B,G,- | 
+G,d- d^c/d/ e=c | c>B B2 G2 | F>G (AB) cA | FA/F/ G3 z ::
+[K:D] A2 Ad fd | AA GE/G/ FD | A2 Ad fd | 
+AA GE/G/ FD | DE/F/ GE/G/ FD | EC D3 z :: 
+A2 A>G F(E/F/) | G2 (3GFA GE | E>e- ed (3c(Bc) | d2 AG FD | 
+A2 A>G F(E/F/) | G2 (3GFA GE | E>e- ec (3A(Bc) | d2 d3 z :| 
+V:2
+|:"^2" F2 FE/F/ AF | F>G G3 E | D>(E FG) AF | DF/D/ DB, G,D- | 
+DF- FE/F/ AF | F>G G2 E2 | D>E (FG) AF | DF/D/ B,3 z ::
+[K:D] F2 FA dA | FF EC/E/ DA, | D2 DF AF | 
+FF EC/E/ DA, | A,C/D/ EC/E/ DA, | CA, A,3 z :: 
+F2 F>E D(C/D/) | B,2 (3B,A,C B,B, | B,>c- cB (3A(GA) | F2 FE DA, | 
+F2 F>E D(C/D/) | B,2 (3B,A,C B,B, | "^Stämförslag B.O. -08." B,>c- cA (3F(GA) | F2 F3 z :|
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Härjedalsliv
+T:Hambo
+C:Eric Öst
+O:Hälsingland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Eric Öst"
+L:1/8
+M:3/4
+K:Bb
+V:1
+|:"^1" B2 (d>F) B>d | f2 (g>f) d>B | A2 (c>F) A>c | e2 (g>f) e>c | 
+B2 (d>F) B>d | f2 (g>f) d>B | A2 (c>F) A>c | (c/e/)c/A/ B4 ::
+[K:F] (A>B) (c>F) A>c | (f>g) (a>c) f>a | (g>a) (b>c) e>g | (f>a) f>d c2 | 
+(A>B) (c>F) A>c | (f>g) (a>c) f>a | (g>a) (b>c) d>e |1 f2 f4 :|2 (f>g) (f>_e) d>c |:
+[K:Bb] G>b b>b b>b | b>a a>a a>a | a>g g>g g>g | g>f f>f f>f | 
+f>e e>e e>e | e>d d>d d>d | (3(ded) (c>e) A>c | (c/e/)c/A/ B3 z :| 
+V:2
+|:"^2""Bb" D2 (F>D) F>B | d2 (e>d) B>F |"F7" C2 (F>C) F>A | c2 (c>A) F>E |
+"Bb" D2 (F>D) F>B | d2 (e>d) B>F |"F7" C2 (F>C) F>A | "F7" (A/c/)A/F/ "Bb" D4 ::
+[K:F] "F" (F>G) (A>C) F>A | (A>B) (c>F) A>c | "C7" (B>c) (e>G) B>c | "F" (A>f) c>B A2 | 
+(F>G) (A>C) F>A | (A>B) (c>F) A>c | "C7" (B>c) (e>G) B>c |1 "F" A2 A4 :|2 "F7" (A>B) (A>c) B>A |:
+[K:Bb]"Gm" d>g g>g g>g |"D7" g>^f f>f f>f |"Eb" =f>e e>e e>e | "Bb" e>d d>d d>d |
+"F7" d>c c>c c>c |"Gm" c>B B>B B>B |"F7" B2 (A>c) E>F | "F7" (F/A/)F/E/"Bb" D3"^B.O." z :|
+

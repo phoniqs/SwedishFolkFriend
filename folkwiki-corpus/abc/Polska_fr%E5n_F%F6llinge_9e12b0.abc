@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Föllinge
+S:Olof Olsson
+O:Föllinge, Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Passande dans: Norskleitjen efter Ernst Grip"
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" A2 (cA) BG | A2 (ce) a2 | A2 (c>A) BG | A2 cA E2 | 
+A(A (3cAc) BG | A2 ce a2 | a(A (3cAc) BG | (3ABc A4 :: 
+A>c (ce) e2 | (3e(fg ae) cA | Ad (df) f2 | f(g af) ec | 
+A>c (ce) e2 | (3e(fg (3aed) cB | (3ABc (3(dBd) c>A | (3BGB A4 :| 
+V:2
+|:"^2" C2 EC DB, | C2 EA c2 | C2 (E>C) DB, | C2 EC A,2 | 
+C2 E2 DD | C2 EA c2 | c2 E2 DD | (3CDE C4 :: 
+C>E (EA) c2 | (3c(d_e =ec) AE | DF (FA) d2 | d(e fd) cA | 
+"^Passande dans: Norskleitjen efter Ernst Grip" C>E (EA) c2 | (3c(d_e (3=ecB) AE | (3CDE (3(FDF) E>C | "^Stämförslag B.O." (3DB,D C4 :|
+

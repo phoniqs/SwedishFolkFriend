@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:02 Oktoberregn
+R:Hambo
+O:Nykvarn, Sörmland
+C:Tomas Östlund
+L:1/8
+Q:1/4=95
+M:3/4
+I:linebreak $
+K:F
+z4 z F |:S"Dm" D>F A>d e>c |"Dm" d>f e>c d>A |"Gm" B>d c>B"C7" A>G |"Fmaj7" ^G2 A3 z |$ 
+"Gm" G>A B>d B>G |"Dm" F>A F>E D>F |"A7" E>F E>A ^c>e |"Dm" d2 d3 z :|"Dm" (3fed A2 F2 |$ 
+"C7" (3c_cd E2 G2 |"C7" e>d c>B G>E |"F" F>G A>B c3/2 z/ |"Dm" (3fed A2 F3/2 z/ | 
+"C7" (3c_cd E2 G3/2 z/ |$"C7" (3c_c=c e>d c>E |"F" F2 F3 z |"Dm" D>F A>d e>c |"Dm" d>f e>c d>A | 
+"Gm" B>d c>B"C7" A>G |$"Fmaj7" ^G2 A3 z |"Gm" G>A B>d B>G |"Dm" F>A F>E D>F |"A7" E>F E>A ^c>e | 
+"Dm" d2 d3 z!D.S.! |] 
+|: abcd :|
+

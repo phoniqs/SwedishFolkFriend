@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:23
+T:"Långsamma"
+T:Polska Nr 23 efter Spel-Stina
+R:Polska
+O:Torsåker, Gästrikland
+S:Spel-Stina
+Z:Karin Helander
+N:Not förenklad från gruppen "Spelstinor": http://spelstinor.se/projektet.html
+M:3/4
+L:1/16
+K:Am
+Q:1/4=55
+V:1
+A4 c4 B3^G | (A^G)Ac e2e2 e4 | A4 c4 B3^G | (A^G)Ac E2E2 E4 | 
+A4 c4 B3^G | (A^G)Ac e2e2 e4 | e4 g4 g3^f |1 ^f3^d e4 E4 :|2 ^f3^d e4 E4 |]
+|: e4 g4 g3e | (cB)cd e2e2 e2de | f4 a3e f3d | (BA)Bc d2d2 d4 | 
+(ed)ef (gf)ed (ed)cB | (cB)cd (ed)cB (cB)A^G | A4 d4 d3B | B3^G A4 A4 :|
+V:2
+C4 E4 D3E | (CB,)CE A2B2 E4 | E4 A4 ^G3E | (CB,)CE A2A2 ^G2(3(^FE)D | 
+C4 E4 D3E | (CB,)CE A2B2 ^G4 | c4 [ec]4 [ec]3^d |1 ^d3B ^G4 B,4 :|2 ^d3B ^G4 B4 |]
+|: c4 e4 e3c | (EC)EG c2[cE]2 (3(cdc)Bc | d4 f3(^c d3)B | (GD)GA B2G2 [A,F]2(3(G,A,B,) | 
+(CB,)CD (ED)CB, (CB,)A,E | (A^G)AB (cB)AG (AG)ED | C4 F4 F3E | ^G3E C4 [CE]4 :|
+

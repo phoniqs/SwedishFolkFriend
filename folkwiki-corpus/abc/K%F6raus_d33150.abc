@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:26
+T:Köraus
+T:(Gamla Dansar i Skåne)
+O:Kattarp, Skåne
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Köraus. Per Thelin, Östraby, Kattarp (1845-1928). Musikmuseet, Stockholm."
+S:Per Thelin
+B:Gamla Dansar i Skåne
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel" e2 (AB) cA | d3 |][K:D][M:3/4][K:treble]"^Dans" Adf |: (ab) (ag) fe | 
+(fg) (fe) dc | d2 e2 f2 |1 d3 Adf :|2 d3 z f2 |: 
+e2 (AB) cA | d2 (de) fd | e2 (AB) cA |1 d2 d2 f2 :|2 d3 z2 z |] 
+V:2
+"^2" c2 (EF) GE | F3 |][K:D][M:3/4][K:treble] FAd |: (fg) (fe) dc | 
+(de) (dA) FE | F2 G2 A2 |1 F3 FAd :|2 F3 z d2 |: 
+"^Per Thelin, Östraby, Kattarp (1845-1928)""^Musikmuseet, Stockholm." c2 (EG) AE | F2 (FG) AF | c2 (EF) GE |1 "^Stämförslag B.O." F2 F2 d2 :|2 F3 z2 z |]
+

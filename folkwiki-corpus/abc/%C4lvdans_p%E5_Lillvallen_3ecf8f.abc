@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Älvdans på Lillvallen
+C:Esser
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad.
+Z:Tr. komp. Esser.
+Z:Arr. Edvin Bergqvist
+L:1/16
+M:3/4
+K:G
+V:1
+|:"^1" G2FG A2GA B2AB | c2Bc d2"^Polska"cd e2de | f4 (ag)fe d2c2 | B2(AB) (dc)BA (GF)ED | 
+G2FG A2GA B2AB | c2Bc d2cd e2de | f4 (ag)fe d2c2 | B2(AB) (dc)AF G4 :: 
+(G,D)(BD) (G,D)(BD) (G,D)(BD) | (A,E)(cE) (A,E)(cE) (A,E)(cE) | (G,D)(BD) (G,D)(BD) (G,D)(BD) | (A,E)(cE) (A,E)(cE) (A,E)(cE) |
+d2ba g2fe d2c2 | B2(AB) (dc)AF G4 :: b2>g2 .e2.b2 .g2.e2 | (^de)(de) (gf)ed e4 | 
+e2>B2 .G2.E2 .G2.B2 | e2^de (gf)ed e2g2 | f4 (^DB)(fB) (DB)(fB) | (EB)(gB) (EB)(gB) (EB)(gB) | 
+(^DB)(fB) (DB)(fB) (DB)(fB) | (EB)(gB) (EB)(gB) (EB)(gB) | d2ba g2fe d2c2 |"^Arr. Edvin Bergqvist." B2(AB) (dc)AF G4 :| 
+V:2
+|:"^2" B,2A,B, D2B,D G2DG | A2GA B2AB c2Bc | d4 (fe)dc B2A2 | G2(FG) (BA)GF (ED)CB, | 
+B,2A,B, D2B,D G2DG | A2GA B2AB c2Bc | d4 (fe)dc B2A2 | G2(FG) F2DC B,4 :: 
+(DB)(gB) (DB)(gB) (DB)(gB) | (Ec)(ac) (Ec)(ac) (Ec)(ac) | (DB)(gB) (DB)(gB) (DB)(gB) | (Ec)(ac) (Ec)(ac) (Ec)(ac) | 
+B2gf e2dc B2A2 | G2(FG) F2DC B,4 :: g2>e2 .B2.g2 .e2.B2 | (^FG)(FG) (BA)GF G4 | 
+B2>G2 .E2.B,2 .E2.G2 | G2FG (BA)GF G2B2 | (B,F)(^dF) (B,F)(dF) (B,F)(dF) | (B,G)(eG) (B,G)(eG) (B,G)(eG) | 
+(B,F)(^dF) (B,F)(dF) (B,F)(dF) | (B,G)(eG) (B,G)(eG) (B,G)(eG) | B2gf e2dc B2A2 | G2(FG) F2DC B,4 :|
+

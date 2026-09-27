@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:62
+C:Torbjörn Lindberg & Tuva Andersson
+M:3/4
+L:1/4
+K:Dm
+[V:1] e |: "Dm" fe^c | d3/2 A/2A/2A/2 | "G" =BA G | "A7" A2  "A+" F  |"Dm" D/2^C/2 D/2E/2 F/2G/2 | "F" A c =B | "G" G3/2 A/2 "E7" =B | "A7" A2  e |
+[V:2] G |:      AGE  | F3/2 F/2F/2F/2 |     G F E |      ^C2      C  |     A,3/2      A,/2D/2E/2 |     F A G  |     E2 D             |      ^C2 G |
+[V:1]"Dm" fe"A7"^c | "Dm" d3/2 "D7"A/2A/2A/2 | "G" =BA G | "A7" A2  "A+" F |"Dm" D/2^C/2 D/2E/2 F/2G/2 | "Gm" Aff | "A7" eA^c    | "Dm" d2"A7"e:|
+[V:2]      AGE     |      F3/2     D/2D/2D/2 |      DC=B,|     ^C2      ^C |      A,3/2      A,/2D/2E/2 |      FDD |      ^C EA  |      A2    G:|
+[V:1]|:"Dm" f2a |"Am" e2a | "Bbmaj7" d3/2 e/2 d |"F" c2"A7"A | "Dm" d/2^c/2 d/2e/2 f/2g/2 | "C" ac'=b | "G" g3/2 a/2 "E7"=b | "A7" a2e| 
+[V:2]|:     A2d |     c2e |          B3/2 c/2 B |    A2    G |      F/2E/2 F/2A/2 d/2e/2  |     e2 g  |     g3/2 e/2     d  |  ^c2 c|
+[V:1]"Dm" faa | "C" eaa | "Bbmaj7" d3/2e/2d   |"F" c2  "A7"A |"Dm" d/2^c/2 d/2e/2 f/2g/2 | "Gm" aff | "A" eA"A7"^c   |1 "Dm" d2 "A7"e :|2 "Dm" d2|]
+[V:2]     dff |     cee |          B3/2 c/2 B |    A2      G |     F/2E/2  F/2A/2 d/2e/2 |      fdd |      ^cAG   |       F2     G :|       F2|]
+

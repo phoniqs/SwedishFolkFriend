@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Överstöravals
+S:Emil Fredriksson
+O:Stora Mellösa, Närke.
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel" A3 ABc | d4 f2 | d4 |][K:D][M:3/4][K:treble]"^Dans" F2 |: A4 F2 | A4 F2 | A4 F2 | A4 d2 | B4 G2 | 
+B4 G2 | B4 G2 | B4 g2 | e4 d2 | c3 dcB | A3 ABc | d3 d d2 |1 d4 F2 :|2 d4 d2 |: 
+e2 d2 A2 | F2 AA A2 | F2 AA A2 | F2 AA Ad | c3 dcB |1 A4 g2 | f3 gfe | d4 d2 :|2 
+A3 ABc | d4 d2 | d4 F2 |: A4 F2 | A4 F2 | A4 F2 | A4 d2 | B4 G2 | B4 G2 | B4 G2 | B4 g2 | 
+e4 d2 | c3 dcB | A3 ABc | d3 d d2 |1 d4 F2 :|2 d4 (3(fgf) |: e2 B2 B2 | B4 (3(efe) | 
+d2 A2 A2 | A4 d2 | c3 dcB |1 A4 g2 | f3 gfe | d4 (3(fgf) :|2 A3 ABc | d4 f2 | d4 z2 |] 
+V:2
+"^2" C3 EGA | F4 A2 | F4 |][K:D][M:3/4][K:treble] D2 |: F4 D2 | F4 D2 | F4 D2 | F4 B2 | G4 D2 | 
+G4 D2 | G4 D2 | G4 e2 | c4 B2 | A3 BAE | C3 EGA | F3 F F2 |1 F4 D2 :|2 F4 F2 |: G2 F2 F2 | 
+D2 FF F2 | D2 FF F2 | D2 FF FB | A3 BAE |1 C4 e2 | d3 edA | F4 F2 :|2 C3 EGA | F4 F2 | F4 D2 |: 
+F4 D2 | F4 D2 | F4 D2 | F4 B2 | G4 D2 | G4 D2 | G4 D2 | G4 e2 | c4 B2 | A3 BAE | C3 EGA | 
+F3 F F2 |1 F4 D2 :|  F4 (3(ded) |: "^Efter Emil Fredriksson" B2 G2 G2 | G4 (3(BcB) | A2 F2 F2 | 
+F4 B2 | A3 BAE |1 C4 e2 | d3 edA | F4 (3(ded) :|2 C3 EGA |"^Stämförslag B.O." F4 A2 | F4 z2 |]
+

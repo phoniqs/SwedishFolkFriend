@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Minett från Helsinge
+R:Menuett
+O:Helsinge, Mellersta Nyland, Finland
+S:Ur en av Ernst Lagus utgiven bok
+N:Arr. Marcus Blomberg
+Z:Patrik Månsson och Pär Harald Hyberg, 2024-10-23
+M:3/4
+L:1/16
+Q:1/4=80
+K:G
+V:1
+|: "G"B3A GFGE D2DF | "C"E2EG "D"F2FA "G"G4 | "G"B2d2 "C"e2d2 c2(3BcB | "C"A2G2 "D"FGAF D4 |
+V:2
+|: G3D B,2B,A, G,2B,2 | C2CE D2DC B,4 | G2B2 c2B2 A2G2 | F2E2 DEFD A,4 |
+V:1
+"G"B3A GFGE D2DF | "C"E2EG "D"F2FA "Em"G4 | "C"(3EFEDC "G"B,2A,2 "Em"G,2G2 | "D"F2A2 ABcA "G"G4 :|
+V:2
+G3D B,2B,A, G,2B,2 | C2CE D2DC B,4 | C2E2 D2C2 B,2G,2 | D2F2 FGAF G4 :|
+V:1
+|: "G"B2BB B2B2 cBAG | "D"FGAF DFAd d3c |  "Em"B2BB B2B2 cBAG | "D"FGAF DFAd d3c |
+V:2
+|: G2GG G2G2 AGFE | DEFD A,DFA A3F | G2GG F2F2 E2DC | DC (A,2 A,2)A,B, CDEF |
+V:1
+"G"B3A GFGE D2DF | "C"E2EG "D"F2FA "Em"G4 | "C"(3EFEDC "G"B,2A,2 "Em"G,2G2 | "D"F2A2 ABcA "G"G4 :|
+V:2
+G3D B,2B,A, G,2B,2 | C2CE D2DC B,4 | C2E2 D2C2 B,2G,2 | DEF2 FGAF G4 :|
+

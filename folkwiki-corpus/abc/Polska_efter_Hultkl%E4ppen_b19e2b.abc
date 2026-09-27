@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Hultkläppen
+S:Per Hult Alcén, Hultkläppen
+O:Bergsjö, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Allm. trad.
+Z:Stämförslag B.O.
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" d2 (D>F) Ad | (c/B/)A/^G/ (A/B/)c/d/ ef | gb/g/ eg/e/ c(e/c/) | df/d/ Ad/A/ FA | 
+d2 (D>F) Ad | (c/B/)A/^G/ (A/B/)c/d/ ef | gb/g/ eg/e/ c(e/c/) | d2 d4 :: 
+a>f ad' ff | fe/^d/ ef g2 | gb/g/ fa/f/ ge | (A/c/)e/c/ (dA) FA | 
+a>f ad' ff | fe/^d/ ef g2 | gb/g/ fa/f/ ge | (A/c/)e/c/ d4 :| 
+V:2
+|:"^2" F2 (A,>D) FA | G2 (E>G) Ac | eg/e/ ce/c/ AG | FA/F/ DF/D/ A,D | F2 (A,>D) FA | G2 (E>G) Ac | 
+eg/e/ ce/c/ AG | F2 [FA]4 :: f2 (df) d=c | B2 GA B2 | eg/e/ ce/c/ AG | EG/E/ (FD) A,D | 
+f2 (df) d=c | B2 GA B2 | "^Stämförslag B.O." eg/e/ ce/c/ AG | EG/E/ [FA]4 :|
+

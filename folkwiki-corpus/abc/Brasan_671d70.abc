@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:3
+T:Brasan
+C:Lennart Thörn
+R:Vals
+O:Röke, Skåne
+%%score 1 2
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Violin 1" snm="Vln.1"
+V:2 treble nm="Violin 2" snm="Vln.2"
+V:1
+D |: G (B/A/) B/c/ | B G (A/B/) | c (e/d/) e/=f/ | e c (B/c/) | d B d | g B d/e/ | (d c B) | 
+(A d) D | G (B/A/) B/c/ | B G A/B/ | c (e/d/) e/=f/ | e c B/c/ | d g B | (d c B) | 
+(d/c/) (B/c/) A/F/ |1 G2 D :|2 G2 d/c/ |: B d g/a/ | b g f/g/ | a (a/b/) a/g/ | f d d | 
+g (g/a/) g/f/ | e c d/e/ | (d c B) | (A D) d/c/ | B d g/a/ | b g f/g/ | a (a/b/) a/g/ | f d d | 
+(g/f/) (g/a/) g/f/ | e c d | (e/d/) (e/g/) f/a/ |1 (g g) d/c/ :|2 (g g) z |] 
+V:2
+D |: (B, D) G/A/ | G B, C | E G/=F/ G | G E D | B G B | B D B/c/ | (B A G) | F (F/E/) D/C/ | 
+B, D G/A/ | G B, C | E G/=F/ G | G E D | B B G | (B A G) | (F/E/) (D/E/) C |1 B,2 D :|2 
+B,2 B/A/ |: G B B/c/ | d B A/B/ | c (c/d/) c/B/ | A c c | B (B/c/) B/A/ | G E B, | (D C B,) | 
+(D F) B/A/ | G B B/c/ | d B A/B/ | c (c/d/) c/B/ | A c c | (B/A/) (B/c/) B/A/ | G E F | 
+(G/F/) (G/B/) A/c/ |1 (B B) B/A/ :|2 (B B) z |] 
+

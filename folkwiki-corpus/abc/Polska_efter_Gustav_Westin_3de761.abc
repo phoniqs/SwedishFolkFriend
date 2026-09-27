@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Gustav Westin
+S:Gustav Westin
+O:Västerby, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (27) eft. G. Westin, Västerby, Hedemora."
+L:1/8
+M:3/4
+U:t=tenuto
+K:Am
+V:1
+|:"^1" (d>^c){c} A2 c>d | (ed) d4 | d>(e f>g){g} a>f |"^Tr." (fe) e4 :: 
+f>(e ^c>)(c d>)e | (ef) (!>!d>!>!d) f>e | f>(e ^c>)(c d>)e | 
+(ef) (tdtd) f>e | e>(e =c)(c d>)B | "^Tr." (BA) A4 :| 
+V:2
+|:"^2" (F>E) ^C2 E>F | (GF) F4 | F>(A d>e) f>d | (d^c) c4 :: 
+d>(^c A>)(A B>)c | (^cd) (!>!B>!>!B) d>c | A>(G E>)(E F>)G | 
+(GA) (tFtF) A>G | G>(G E)(E F>)D |"^Stämförslag B.O." (D^C) C4 :|
+

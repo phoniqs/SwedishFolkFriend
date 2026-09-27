@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:1
+T:Sekreterarvalsen
+C:Calle Hedin
+O:Linköping, Östergötland
+N:En vals tillägnad en sekreterare
+R:Vals
+M:3/4
+K:D
+ |: (D2 | "D" DF) (Af) "A7" ec | "D" d2  A2 F2 | "G" (GB) "D" (Ad) "A7"ce | "D" d4 d2 |
+"G" (BG) (Bd) cd | "D" (AF) (Ad) cd | "E7"  (B^G) (Bd) cB | "A7" A4 d2 |
+"D" (dD) (EF) GA | "G" B2 G2 B2  | "E7"  (A^G) (AB) cd | "A7" e4 f2 |
+"A7" (ge) (ce) "G" dB | "D"  A2 F2 A2  | "G" (BA)"D" (^GA) "A7" Bc |1 "D" d4 :|2 "D" d4 a2 ||
+ |: "D" (af) (df) af | "A7" (ge) (ce) ge | "G" (dB) (GB) dB | "D" A3 (BAF) |
+"G" G2 (EG) BG | "D" (GF) (DF) AF |1 "E7" (E^G) (BG) BG | "A7" (AB) (cB) cA :|2 "A7" (GE) (CE) GF |"D"  D6|]
+

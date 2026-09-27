@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:19
+T:Svanvalsen
+O:Hälsingland
+R:Polska
+S:Erik Ljung
+B:Ny samling spelmanslåtar från Hälsingland nr 19
+Z:Karin Helander
+N:Uppteckning och andrastämma av [[Personer/Thore Härdelin den äldre]]
+L:1/8
+M:3/4
+Q:160
+%%writefields Q False
+K:G
+V:1
+!open! "^o= flageolet" D!open!G !open! B,!open!C !open! D!open!C | (BG DB GD) | (B,D GB, DG) | "^Erik Ljung. (Kusen)"  (FA, CF A,F) | 
+(GB, DG G,2) | !open!D!open!G !open! B,!open!C !open! D!open!C | (BG DB GD) | (B,D GB, DG) | 
+(FA, CF A,F) | [G,G]4 z2 :: d3 c (BA) | B6 | A4 (GF) | G2 DB, G,2 | 
+(Bc d3) c | (BA) B4 | A4 (GF) | [GG,]4 z2 :: (db) (fg) e2 | (cd) (cB) A2 | 
+(DF) (AF) d2 | (GB) (dB) g2 | (db) (fg) (Be) | (cd) (cB) A2 | (DF) (AF) (dF) |  [GB,]4 z2 :|
+V:2
+!open! D6 | !open! C6 | !open! B,6 | !open!  G6 | 
+!open! C6 | !open! D6 | !open! C6 | !open! B,6 | 
+!open! G6 | !open! C4 z2 :: B3 A (GF) | G2 D2 B,2 | F2 D2 (CA,) | G,2 B,D G2 | 
+GA B3 A | (GF) G4 | DE F2 ED | [B,D]4 z2 :: Bd de c2 | AB AG F2 | 
+[FA]4 [FA]2 | [GB]4 [GB]2 | Bd ^de [^GB]2 | [EA]2 AG F2 | cA FD CA, | [G,D]4 z2 :|
+

@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:298
+T:Sensommarvalsen
+T:(SvL Östergötland 298)
+C:Ivar Hultqvist
+O:Östergötland
+R:Vals
+B:Svenska Låtar Östergötland Nr 298
+Z:[[Personer/Bengt Ohlson]]
+Z:Kommentar BO: "Allm. trad."
+Z:Kommentar internet: "Jag heter Per-Arne Hultqvist och är yngste son till riksspelman Ivar Hultqvist, som levde 1895-1965. Sensommarvalsen komponerade min far 1929 och den har i Sverige spelats in bl a med Erik Öst, Gert Ohlsson och Bröderna Lindkvist."
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" |: (a>b) (ag) fe | d2 AF D2 | (DF) (Ad) cB | B2 GE B,2 | (A,C) (EA) ce | 
+(gf) (ed) cB | (Ac) (ec) ac | d2 AF D2 | (a>b) (ag) fe | d2 AF D2 | (DF) (Ad) cB | 
+B2 GE B,2 | (A,C) (EA) ce | (gf) (ed) cB | (Ac) (ec) ac |1 d4 f2 :|2 d4 D2 |: 
+(DF) (AF) dF | (DF) (AF) dF | G2 (BA) GF | (GF) (ED) CB, | (A,C) (EA) ce | 
+(gf) (ed) cB | (Ac) (ec) ac | d2 AF D2 | (DF) (AF) dF | (DF) (AF) dF | G2 (BA) GF | 
+(GF) (ED) CB, | (A,C) (EA) ce | (gf) (ed) cB | (Ac) (ec) ac |1 d4 D2 :|2 d4 z2 |] 
+V:2
+"^2"  |: (f>g) (fe) dA | F2 FD A,2 | (A,D) (FB) AB | G2 EB, G,2 | (EA,) (CE) Ac | 
+(ed) (cB) AG | (EA) (cA) eA | F2 FD A,2 | (f>g) (fe) dA | F2 FD A,2 | (A,D) (FB) AB | 
+G2 EB, G,2 | (EA,) (CE) Ac | (ed) (cB) AG | (EA) (cA) eA |1 F4 d2 :|2 F4 A,2 |: 
+(A,D) (FD) AD | (A,D) (FD) AD | B,2 (GF) ED | (ED) (CB,) A,G, | (EA,) (CE) Ac | 
+(ed) (cB) AG | (EA) (cA) eA | F2 FD A,2 | (A,D) (FD) AD | (A,D) (FD) AD | B,2 (GF) ED | 
+(ED) (CB,) A,G, | (EA,) (CE) Ac | "^Stämförslag B.O." (ed) (cB) AG | (EA) (cA) eA |1 F4 A,2 :|2 F4 z2 |]
+

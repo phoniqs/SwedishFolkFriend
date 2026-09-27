@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Vilhelm Hedlund
+S:Vilhelm Hedlund
+O:Enviken, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:Gm
+V:1
+|:"^1" (D>G) (B/d/)B/G/ ^F>A | G>B d2 g2 | (f>=e) dc (B/c/)B/A/ | G^F/G/ AF D2 | 
+(D>G) (B/d/)B/G/ ^F>A | G>B d2 g2 | (f>=e) dc (B/c/)B/G/ |1 (A^F) G3 D- :|2 (A^F) G3 g/a/ |: 
+(3g/a/g/ ^f/g/ a3u d | ba f2 d2 | A>^c =e2 g2 | (3f/g/f/ =e/^c/ d3u d | 
+(3d/e/d/ c/d/ (tete) c>d | (3c/d/c/ B/c/ (tdt^F) G>A | B>c BA ^F>G | A/B/A/^F/ D3u d | 
+(3d/e/d/ c/d/ (tete) c>d | (3c/d/c/ B/c/ (tdt^F) G>A | B>c BA ^F>G |1 A/B/A/^F/ G3 g/a/ :|2 A/B/A/^F/ G4 |] 
+V:2
+|:"^2" B,2 D2 C2 | B,2 G2 B2 | A>c BA GG/D/ | B,A,/B,/ CA, A,2 | 
+B,2 D2 C2 | B,2 G2 B2 | A>c BA GG/D/ |1 ^FD [B,D]3 B, :|2 ^FD [B,D]3 B/c/ |: 
+BA/B/ [^Fd]3u A | dc A2 ^F2 | =E>A ^c2 =e2 | d^c/A/ ^F3u B | 
+BA/B/ tctc A>B | AG/A/ t^FtD B,>C | D>E DC A,>B, | C/D/C/A,/ A,3u B | 
+BA/B/ tctc A>B | AG/A/ t^FtD B,>C | D>E DC A,>B, |1 C/D/C/A,/ [B,D]3 B/c/"^B.O." :|2 C/D/C/A,/ [B,D]4 |]
+

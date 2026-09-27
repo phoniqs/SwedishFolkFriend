@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:25
+T:Tolvan
+S:From-Olle
+O:Järvsö, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Andrastämma av [[Personer/Thore Härdelin den äldre]]
+B:25 spelmanslåtar från Hälsingland nr 12
+L:1/16
+M:3/4
+K:G
+V:1
+|:"^1" d2>g2 b4 b4 | d2Bd c2Ac B4 | d2g2 g2b2 b2e2 | (ed)Bd (dc)Ac B4 |
+ D4 c2>B2 A2G2 | F2>E2 D2C2 B,2A,2 | (G,A,)B,C (DE)FG A2c2 | (BA)GF B,4 z4 ::
+ d2BG (DG)Bd c2B2 | c2AF (DF)Ac B2A2 | e4 d2>B2 c2A2 | G2B2 (AG)FE D4 | 
+d2BG (DG)Bd c2B2 | c2AF (DF)Ac B2A2 | (GA)Bc d2e2 f2d2 | 
+g4 (fe)fa g4 | G2AB c2ed (cB)AG | (FG)AF [G,G]4 z4 :| 
+V:2
+|:"^2" G2>B2 d4 d4 | B2GB A2FA G4 | G2B2 B2d2 d2c2 | (cB)GB (BA)FA G4 | 
+A,4 A2>G2 F2E2 | D2>C2 B,2A,2 G,2A,2 | (B,A,)G,A, (B,C)DE F2E2 | (DC)B,A, G,4 z4 :: 
+D4 G2[DB]2 [Dd]4 | D4 F2A2 [Dd]4 | [Ec]4 [DB]4 [DA]4 | E4 [CE]2[CE]2 [B,D]4 | 
+D4 G2B2 [Dd]4 | D4 F2A2 [Dd]4 | (EF)GA B2c2 A2c2 | 
+[DB]4 [DA]2[Dc]2 [DB]4 | B,2CD E2GF (ED)CB, | (A,B,)CA, [B,D]4 z4 :|
+

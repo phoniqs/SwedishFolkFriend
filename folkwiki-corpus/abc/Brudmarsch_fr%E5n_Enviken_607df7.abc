@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Enviken
+S:Vilhelm Hedlund
+O:Enviken, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"33. Brudmarsch från Enviken efter Vilhelm Hedlund, Jmf. K.E.F. nr. 33."
+L:1/8
+M:2/2
+K:Dm
+V:1
+"^1" DF |: A2 A2 G2 (GB) | (BA)AF D2 DE | F2 F2 (ED)(^CD) | E2 E^C A,2 DF | 
+A2 A2 G2 (GB) | (BA)AF D2 DE | F2 F2({EF} ED)(^CE) | D2 D2 D2 (DF) :| 
+A2 A2 G2 (GB) | (BA)(A^c) d3 e | f2 ed (^cd)ec | d2 e^c A2 DF | 
+A2 A2 G2 (GB) | (BA)AF D2 DE | F2 F2({EF} ED)(^CE) | D2 D2 D2 z2 |]:
+v d2 (dc) (BA) G2 | c2 (cB) (AG) F2 | B3 (A GF)EG | F2 (Ac) f2 f2 | 
+"Gm" d2 (dc) (BA) G2 | c2 (cB) (AG) F2 | E3 (D ^C>D)EF | D2 D2 D2 z2 :| 
+V:2
+"^2" A,D |:"Dm" F2 F2"Gm" E2 (EG) |"Dm" (GF)FD A,2 A,^C |"Dm" D2 D2"A7" (^CA,)(A,B,) | ^C2 CA, G,2 A,D |
+"Dm" F2 F2"Gm" E2 (EG) |"Dm" (GF)FD A,2 A,^C |"Dm" D2 D2"A7" (^CA,)(A,C) | "Dm" [A,F]2 [A,F]2 [A,F]2 (A,D) :|
+"Dm" F2 F2"A7" E2 (EG) |"Dm" (GF)(F^G) A3 G | "Dm" A2 GF"A7" (EF)GE |"Dm" F2 GE"A7" ^C2 A,D |
+"Dm" F2 F2"A7" E2 (EG) |"Dm" (GF)FD A,2 A,^C |"Dm" D2 D2"A7" (^CA,)(A,C) |"Dm" [A,F]2 [A,F]2 [A,F]2 z2 |]: 
+"Gm" B2 (BA) (GF) E2 |"F" A2 (AG) (FE) D2 | "C7" G3 (F ED)CB, |"F" A,2 (CF) A2 A2 | 
+B2 (BA) (GF) E2 | "F" A2 (AG) (FE) D2 |"A7" ^C3 (B, A,>B,)CA, |"Dm" [A,F]2"^B.O." [A,F]2 [A,F]2 z2 :|
+

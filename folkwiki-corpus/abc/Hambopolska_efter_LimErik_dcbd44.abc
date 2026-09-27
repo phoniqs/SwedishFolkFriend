@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambopolska efter Lim-Erik
+O:Järvsö, Hälsingland
+R:Hambo
+S:Lim-Erik Pehrsson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 10. Hambopolska efter Lim-Erik"
+Z:Erik Pehrsson, "Lim-Erik", Limatorpet, Fluren, Undersvik
+L:1/8
+Q:1/4=125
+M:3/4
+K:D
+V:1
+|:"^1" (D>F) (A>d) B>d |"^Hästberg, Järvsö" (A>f) (d>A) F>A | (E>e) (c>A) B>c | (3(ded) (c>B) A2 | 
+D>F (A>d) B>d | A>f (d>A) F>A | E>e (c>A) B>c |1 d2 d4 :|2 d2 d2 (3dcd |:
+[K:G] g>(d (3BdB) G>B | A2 E2 A>G | F>e (d>c) B>A | G>B D2 (3d^cd | 
+g>(d (3BdB) G>B | A2 E2 A>G | F>e (d>c) A>F |1 G2 G2 (3d^cd :|2 G2 G4 |] 
+V:2
+|:"^2" (A,>D) (F>A) G>A | (F>d) A>F D>F | (C>c) A>E G>A | (3(BcB) (A>G) F2 | 
+A,>D (F>A) G>A | F>d (A>F) D>F | C>c (A>E) G>A |1 F2 [FA]4 :|2 F2 F2 (3GFG |:
+[K:G] B>(G (3DGD) B,>D | C2 A,2 C>B, | A,>G (F>E) D>C | B,>G B,2 (3GFG | 
+B>(G (3DGD) B,>D | C2 A,2 C>B, | A,>G (F>E) C>A, |1 B,2 B,2 (3GFG :|2 "^B.O."B,2 [B,D]4 |]
+

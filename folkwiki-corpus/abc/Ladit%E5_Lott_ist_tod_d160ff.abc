@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:45
+T:Laditå (Lott ist tod)
+T:(Sv Folkdanser Del 1)
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 67. Laditå"
+Z:http://runeberg.org/folkdans/besk/0069.html
+Z:"Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1
+B:Musik till Gillesdanser i Norden
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel""G" BdG2 BdG2 |"G" GBdB"D7" A2"G"G2 |][K:G][M:2/4][K:treble]"^Dans""G" g4 f4 | e4 d4 |"D7" cedc"G" BdcB |
+"D7" AcBA"G" G4 |"G" g4 f4 | e4 d4 |"D7" cedc"G" BdcB | "D7" AcBA"G" G4 |]
+"G" BdG2 BdG2 | Bdgf e2d2 | BdG2 BdG2 |"G" GBdB"D7" A2"G"G2 | 
+"G" BdG2 BdG2 | Bdgf e2d2 | BdG2 BdG2 |"G" GBdB"D7" A2"G"G2 |] 
+V:2
+"^2" GBD2 GBD2 | DGBG D2B,2 |][K:G][M:2/4][K:treble] e4 d4 | 
+c4 B4 | AcBA GBAG | FAGD B,4 | e4 d4 | 
+c4 B4 | AcBA GBAG | FAGD B,4 |] 
+GBD2 GBD2 | GBed c2B2 | GBD2 GBD2 | DGBG D2B,2 | 
+G"^Spelas önskat antal ggr."BD2 GBD2 | GBed c2B2 | GBD2 GBD2 |"^Stämförslag B.O." DGBG D2B,2 |]
+

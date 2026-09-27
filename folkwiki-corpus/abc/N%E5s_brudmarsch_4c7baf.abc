@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Nås brudmarsch
+S:Olof Gudmundsson
+O:Nås, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. Olof Gudmundsson."
+L:1/16
+M:2/4
+K:Dm
+V:1
+"^1"u a2 |:v (a^g)ga (a^c)de | f2fg (3(fgf) ed | (eg)ag (fe)d^c | d6 f2 | 
+(3(fgf) ed (c=B)AB | c2cd (3(efe) dc | c2cd (=BA)Bc | A6u a2 :: 
+(ga)ag (3(fgf) ed | (ed)ce (d2g2) | (ab)ag (fe)d^c | ^c6 (e=c) | 
+(Ac)de (fg)ag | f2fg (3(fgf) ed | (df)ag (fe)d^c |1 d6u a2 :|2 d6 z2 |] 
+V:2
+"^2" f2 |: (fe)ef (^cA)FA | d2de d2AF | (^ce)fe (dA)FE | F6 d2 | 
+d2AF (AE)CE | A2A=B c2BA | A2A=B (^G^F)GA | E6 f2 :: 
+(ef)fe d2AF | (cA)Ec (A2e2) | (fg)fe (dA)FE | E6 (cA) | 
+(EA)FA (de)fe | d2de d2AF | "^Stämförslag B.O." (Fd)fe (dA)FE |1 F6 f2 :|2 F6 z2 |]
+

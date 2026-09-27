@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Klunkvalsen
+M:3/4
+L:1/16
+Q: 1/4=160
+R: Vals
+K:A
+C:melodi efter Bror Dahlgren
+C:upptecknad av Erland Liljeroth
+P:ur: SMS B 133b: 20
+Z:ABC-transkribering av Conny Fredriksson
+Z:och Skåning
+M:3/4
+L:1/16
+Q: 1/4=160
+K:A
+"A"vE4A4c4|e6e2e4|A4f4c4|"E"e6c2d4|E2F2 G2A2 B2c2|f6e2 ^d2e2|
+"A"E4A4uc4|f6e2 ^d2e2|E4A4c4|e6e2e4|A4f4c4|"E"e6c2d4|
+E2F2 G2A2 B2c2|f6e2 ^d2e2|"A"a6e2 d2B2|A4a4z4::"A"u[ce]2[ce]2 [ce]2[ce]2 [ce]2a2|[ce]2[ce]2 [ce]2[ce]2 [ce]2[ca]2|
+[ce]2[ce]2 [ce]2[ce]2 [ce]2[ca]2|[ce]8[ce]4|"D"[df]2[df]2 [df]2[df]2 [df]2[db]2|\
+[df]2[df]2 [df]2[df]2 [df]2[db]2|[df]2[df]2 [df]2[df]2 [df]2[db]2|[df]8[df]4|
+"A"[ce]2[ce]2 [ce]2[ce]2 [ce]2[ca]2|[ce]2[ce]2 [ce]2[ce]2 [ce]2[ca]2|[ce]2[ce]2 [ce]2[ce]2 [ce]2[ca]2|\
+[ce]8e'4|"E"e'8d'4|"A"Tc'8e4|
+w:*E E D C
+"E"Tf4e4G4|"A"A8z4::"A"va3g a4 +plus+e4|c4A4+plus+e4|"E7"d4B4+plus+e4|"A"A4c4+plus+e4|
+a3g a4+plus+e4|c4A4+plus+e4|"E"d4B4+plus+e4|"A"A8z4::[K:D]"D"vd2f2 a2f2 a2f2|d2f2 a2f2 a2f2|
+"A"c2e2 g2e2 g2e2|c2e2 g2e2 g2e2|"D"d2f2 a2f2 a2f2|d2f2 a2f2 a2f2|"A"c2e2 g2e2 c2e2|"D"d8x8:|
+

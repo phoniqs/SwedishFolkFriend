@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Marsch från Stora Skedvi
+S:Ingels Erik
+O:Stora Skedvi, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Ingels-Erik."
+L:1/8
+M:4/4
+K:C
+V:1
+"^1" G |:"C" c3 B/c/"G7" d3 c/d/ | "C"e>(f ed) (cd) (ef) | g2 (ec) ge cB/c/ | 
+"G7" d2 (!>!G>!>!G) G3 G | "C" c3 B/c/"G7" d3 c/d/ | "C" e>(f ed) (cd) (ef) | 
+"C" g2 (ec) "G7" (3agf (dB) |1 "C" c2 (!>!c>!>!c) c3 G :|2 "C" c2 (!>!c>!>!c) c3 e |:
+"Am" c2 (!>!c>!>!c) (cd) (ec) |"E7" [EB]2 (!>![EB]>!>![EB]) [EB]2 (ec) | "Am" A2 (A>E) AB (ce) | 
+"E7" B2 (e>c)"Am" A3 B :: "C" c3 B/c/"G7" d3 c/d/ | "C" e>(f ed) cd (ef) |
+"C" g2 (ec)"G7" (3agf dB |1"C" c2 (!>!c>!>!c) c3 e |]2,8 "C" c2 (!>!c>!>!c) c3 z |] 
+V:2
+"^2" D |: E3 D/E/ G3 E/G/ | c>(d cG) EG (cd) | e2 (cG) ec G^F/G/ | B2 (!>!B,>!>!B,) B,F ED | 
+E3 D/E/ G3 E/G/ | c>(d cG) EG (cd) | e2 (cG) (3fed BG |1 E2 (!>!E>!>!E) E3 D :|2 E2 (!>!E>!>!E) E3 c |: 
+A2 (!>!A>!>!A) AB (cA) | ^G2 (!>!G>!>!G) G2 cA | E2 (E>C) E^G (Ac) | 
+^G2 (c>A) E3 G :: E3 D/E/ G3 E/G/ | c>(d cG) EG (cd) | 
+e2 (cG) (3fed BG |1 E2 (!>!E>!>!E) E3 c |]2,8 "^Stämförslag B.O." E2 (!>!E>!>!E) E3 z |]
+

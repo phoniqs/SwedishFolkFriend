@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+C:Eric Öst
+O:Hälsingland
+R:Polska
+M:3/4
+Z:Björn Ek 2008-12-02
+L:1/16
+V:1 clef=treble
+V:2 clef=treble
+K:Dm
+%
+V:1
+|:A2GB A4 d4   |A2A2 G2G2 F2D2|DFAd f2ef gfed  |^c2a2 ^gaec A4      |
+A2GB A4 d4     |A2A2 G2G2 F2D2|DFAd f2ef gfed  |^cdec d6z2         :|
+V:2
+|:F2EG F4 [AF]4|F2F2 E2E2 D2F2|A,DFA d2^cd edcB|A2^c2 =BcAE ^C2G2   |
+F2EG F4 [AF]4  |F2F2 E2E2 D2F2|FDFA d2^cd edcB |[AG]2[AG]2 [AF]6 z2:|
+%
+V:1
+|:{/g}a^gaf cfaf cfaf|g^fge cege cege|a^gaf cfaf cfaf|a^gae ^ceae A4   |
+fefd Bdfd Bdfd   |fefc Acfc Acfc |efde cdBc ABGA |[AF]4 [fA]4 z4  :|
+V:2
+|:fefc Acfc Acfc |e^dec EGec EGec|fefd FAfd FAfd |^cecA EAcA [EA,]4|
+d^cdB DFdB DFdB  |AcAF CFAF CFAF |GABc ABGA FGEC |[FA,]4 [FA,]4 z4:|
+%
+

@@ -1,0 +1,40 @@
+%%abc-charset utf-8
+
+X:47
+T:Kadrilj från Halland
+T:(Sv Folkdanser Del 1)
+O:Halland
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 47
+Z:"Sv Folkdanser Del 1 47. Kadrilj från Halland"
+Z:http://runeberg.org/folkdans/besk/0196.html
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (A/G/) |"D" FA de | f3 e |"D" dA"A7" GE |"D" D3 [|[K:D][M:2/4][K:treble]"^Dans" (A/G/) |"D" FA de | 
+f3 e | dA df |"A7" eA/A/ A(A/G/) |"D" FA de | f3 e |"D" dA"A7" GE |"D" D3 z |:
+"F#7" f3 e |"Bm" dc B>d | "F#7" cF F^A |"Bm" BB B/c/d/e/ |"F#7" f3 e |"Bm" dc B>d |"F#7" cF F^A |1
+"Bm" B3 z :|2"Bm" B3 (A/G/) [|"D" FA df |"A7" a>g e2 | (c/A/)A/A/ (e/A/)A/A/ |"D" df A(A/G/) | 
+FA df |"A7" a>g e2 | (c/A/)A/A/ (e/A/)A/A/ |"D" d3 d |: [K:G]"G" g>d (B/d/)g/b/ | d'd'/b/ gg/b/ |
+"D7" aa/c'/ ff/a/ |"G" gg/b/ d>d | g>d (B/d/)g/b/ | d'd'/b/ gg/b/ | "D7" aa/c'/ ff/a/ |1
+"G" g3 d :|2"G" g3 A [|[K:D]"D" ff/f/ ff | f2 gf |"A7" eA a2 | "D" (f/g/)f/e/ dA | ff/f/ ff | 
+f2 gf | "A7" eA a>c |"D" d3 (c/d/) |:[K:A]"A" e2 (^d/e/)f/e/ | c2 (d/c/)B/A/ |"E7" GE GB |
+"A" A/E/F/G/ A/B/c/d/ | e2 (^d/e/)f/e/ | c2 (d/c/)B/A/ |"E7" GE GB |1"A" A3 (c/d/) :|2"A" A3 A [|
+[K:D]"D" f2 (d/e/)f/g/ | ba a>f |"A7" ag ge |"D" ba fA | "^Spelas 2 ggr." f2 (d/e/)f/g/ | ba a>f |
+"A7" ag gc |"D" d3 A |: "A7" AA/A/ AA | Ag fe | "D" dd/d/ dd | df ad' | 
+"A7" AA/A/ AA | Ag fe |"D" dc/d/ fe |1"D" d3 A :|2"D" d3 z |]
+V:2
+"^2" (F/E/) | DF FG | A3 G | FD EC | A,3 [|[K:D][M:2/4][K:treble] (F/E/) | 
+ DF FG | A3 G | FD FA | GC/C/ C(F/E/) | DF FG | A3 G | FD EC | A,3 z |: 
+ ^A3 c | BF D>F | E^A, A,C | DD D/F/B/c/ | ^A3 c | BF D>F | E^A, A,C |1 D3 z :|2 D3 (F/E/) [|
+DF Ad | f>e c2 | (A/E/)E/E/ (G/E/)E/E/ | FA F(F/E/) | DF Ad | f>e c2 | 
+(A/E/)E/E/ (G/E/)E/E/ | F3 B |: [K:G] B>G (D/G/)B/d/ | gg/d/ BB/d/ |
+ ff/a/ dd/c/ | BB/d/ B>B | B>G (D/G/)B/d/ | gg/d/ BB/d/ | ff/a/ dd/c/ |1 B3 B :|2 B3 F [|
+[K:D] AA/A/ AA | A2 BA | GE c2 | (d/e/)d/A/ FD | AA/A/ AA | A2 BA | GE c>G | F3 (A/B/) |:
+[K:A] c2 (^B/c/)d/c/ | A2 (B/A/)G/F/ | EB, ED | E/C/D/E/ F/G/A/B/ | c2 (^B/c/)d/c/ | 
+A2 (B/A/)G/F/ | EB, ED |1 C3 (A/B/) :|2 C3 F [|[K:D] A2 (F/A/)d/e/ | gf f>d |
+ fe ec | gf dF | A2 (F/A/)d/e/ | gf f>d | fe eA | F3 E |: CC/C/ CC | 
+Ce cA | FF/F/ FF | FA df | CC/C/ CC | Ce cG | FE/F/ AG |1 "^Stämförslag B.O."  F3E :|2F3 z |]
+

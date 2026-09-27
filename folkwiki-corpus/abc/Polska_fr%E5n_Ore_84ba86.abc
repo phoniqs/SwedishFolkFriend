@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:6
+T:Polska från Ore
+T:(SvL Dalarna 6)
+S:Hans Dalfors
+S:Timas Hans Hansson
+B:Svenska Låtar Dalarna Nr 6
+O:Ore, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" (^c |: [Dd]>)(g [Aa]3) ^g | a>f e2({g} f/e/f/)e/ | [Dd]>f [Aa]3 g | b>a g(e f>)^c | 
+[Dd]>g [Aa]3 ^g | a>f e2({g} f/e/f/)e/ | [Dd]>f [Aa]3 g |1 b>a g3 ^c :|2 b>a g3 e |: 
+g/a/g/f/ d>e f<g | a>f e3 A | f>e ^c2 d2 | e<A f3 e | 
+g(f d>)(e f)g | a>f e3 A | f>(e A>)(^c d>)e |1 e<f d3 e :|2 e<f d3 |] 
+V:2
+"^2" E |: F>(^c d3) c | d>(A G2) A>G | F>A d3 e | g>(f e)(^c A>)E | 
+F>^c d3 c | d>(A G2) A>G | F>A d3 e |1 g>(f [^ce]3) E :|2 g>(f [^ce]3) ^c |: 
+d>A F>(A d<)e | f>d ^c3 c | A>G E2 F2 | G<E A3 ^c | 
+d(A F>)A de | f>d ^c3 c | A>(G E>)G A>G |1 G<A [FA]3 ^c :|2 G<A"^B.O." [FA]3 |]
+

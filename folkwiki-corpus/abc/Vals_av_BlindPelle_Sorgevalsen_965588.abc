@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:369
+T:Vals av Blind-Pelle "Sorgevalsen"
+T:(SvL Hälsingland 369)
+O:Fiskvik, Bergsjö, Hälsingland
+B:Svenska Låtar Hälsingland Nr 369
+C:Blind-Pelle
+R:Vals
+S:Jonas Erik Bergsman
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" A2 |: d3 ^c d2 | e3 d e2 | f3 g f2 | e3 f e2 | 
+d2 ^c2 d2 | a3 g f2 | f6 | e4 A2 | d3 ^c d2 | e3 d e2 | f3 g f2 | 
+e3 f e2 | d2 ^c2 d2 | a2 g2 f2 | (ed) (eg) fe |1 d2 z2 A2 :|2 d2 z2 a2 |: 
+a4 ^c2 | ^c4 e2 | e4 d2 | d4 f2 | f4 e2 | A3 =B^cd | 
+(ed) (^cd) ec | A4 a2 | a4 ^c2 | ^c4 e2 | e4 d2 | d4 f2 | 
+f4 e2 | A3 ^cec |1 d6- | d2 z2 a2 :|2 d6- | d2 z4 |] 
+V:2
+"^2" E2 |:"Dm" F3 E F2 |"A7" G3 F G2 |"Dm" A3 B A2 |"A7" G3 A G2 |
+"Dm" A2 G2 A2 | f3 e d2 | A6 |"A7" G4 E2 |"Dm" F3 E F2 |"A7" G3 F G2 | 
+A3"Dm" B A2 |"A7" G3 A G2 |"Dm" A2 G2 A2 | f2 e2 d2 |"A7" (^c=B) (ce) dA |1"Dm" F2 z2 E2 :|2"Dm" F2 z2"A7" ^c2 |:
+"A7" ^c4 A2 | G4 A2 | "Dm" G4 F2 | F4 A2 |"A7" A4 G2 | E3 DEF | 
+(GF) (EF) GE | ^C4 ^c2 | ^c4 A2 | G4 A2 |"Dm" G4 F2 | F4 A2 |
+"A7" A4 G2 | E3 GAG |1"Dm" F6- | F2 z2"A7" ^c2 :|2"Dm" F6- |"^Stämförslag B.O." F2 z4 |]
+

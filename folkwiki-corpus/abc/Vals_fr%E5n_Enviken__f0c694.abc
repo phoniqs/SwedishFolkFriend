@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1380
+T:Vals från Enviken 
+T:efter Vilhelm Hedlund
+R:Vals
+O:Enviken, Dalarna
+S:Vilhelm Hedlund
+Z:[[Personer/Bengt Ohlson]]
+Z:"18. Vals från Enviken efter Vilhelm Hedlund, Enviken."
+Z:"Jmf. Sv.L. nr. 1380."
+B:Svenska Låtar Dalarna Nr 1380
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" e2 |: f2({g} fe) fa | e2 (ed) eg | f2 (e2 d2) | A4 F2 | 
+A2({B} A^G) A=B | c2({d} c=B) cd | e2 (E2 ^G2) |1 A4 e2 :|2 A4 f2 |: 
+a2({b} ag) fe | d2 (.B2 .B2) | g2({a} gf) ed | ^c2 (.A2 .A2) | 
+(DE) (FG) AB | A2 (.d2 .d2) | ^c2 (Ac) ec |1,8 d4 f2 :|2 d4 A2 |: 
+A2({B} AG) EG | F2 (DF) Ac | =B2 (E^G) Bd | ^c2 Ac d2 | 
+A2({B} AG) EG | F2 (DF) Ad | ^c2 (Ac) ec |1 d4 A2 :|2 d4 f2 |] 
+V:2
+"^2" ^c2 |:"Dm" d2 (d^c) de |"A7" ^c2 (c=B) cB |"Dm" A2 (G2 F2) |
+"A7" E4 D2 |"Am" F2 (FE) FG | A2 (AG) A=B |"E7" ^G2 (D2 D2) |1"Am" C4 ^c2 :|2"Am" C4 d2 |:
+"F" f2 (fe) dc | "Gm" B2 (.G2 .G2) |"A7" e2 (ed) ^cB | A2 (.E2 .E2) |
+"Dm" (A,^C) (DE) FG | F2 (.A2 .A2) |"A7" G2 (EG) AG |1,8"Dm" F4 d2 :|2 "Dm" F4 F2 |: 
+"Dm" F2 (FE) ^CE | D2 (A,D) FA |"E7" ^G2 (=B,E) G=B |"A7" A2 EG "Dm"F2 | "Dm" F2 (FE) ^CE | 
+"^Jmf. Sv.L. nr. 1380."D2 (A,D) FA |"A7" G2 (^CE) GE |1 "Dm" F4"^B.O." F2 :|2 "Dm" F4 d2 |]
+

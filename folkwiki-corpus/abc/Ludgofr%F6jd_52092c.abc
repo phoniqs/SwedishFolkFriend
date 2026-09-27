@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Ludgo-fröjd
+T:(andrastämman)
+S:Kanske efter [[Personer/Ludgo-Pelle]]
+O:Ludgo, Södermanland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:C
+V:2
+"^2" E (3C(D^D) |:"C" (ED) (FE) CG, | (EG,) (CE) Gc |"Dm" F2 (EF) Ad | f3 f f2 | 
+"G7" (B,A,) (B,D) FG | (Bc) (de) fe |"C" d2 c2 E2 | G2 z E (3C(D^D) |
+"C" (ED) (FE) CG, | (EG,) (CE) Gc |"Dm" F2 (EF) Ad | f3 f f2 |
+"G7" (B,A,) (B,D) FG | (Bc) (dD) GF |"C" E3 E E2 |1 "C" E2 z E (3C(D^D) :|2"C" E3 z A,2 |:
+"F" (CA,) (FC) AF | (cA) (fc) AF |"C" (EC) (GE) cG | e2 cc c2 |
+"G7" (DB) (GD) BG | (DB) (GD) BG |"C" (Ec) (GE) cG | (ec) (GE) CG, | 
+"F" (CA,) (FC) AF | (cA) (fc) AF |"C" (EC) (GE) cG | e2 cc c2 |
+"G7" (3(DED) (^CD) GB | d2 B2 F2 |"C" E3 E E2 |1"C" E3 z A,2 :|2 
+"C" E3 E (3C(D^D) |"C" E3 E E2 | E3 A (3F(G^G) |: [K:F]"F" A2 z CFA | "Bb" d2 c2 B2 | 
+"F" (BA) (Ac) FA | F2 E2 D2 | "C7" C2 z DCA, | (G,B,) (CE) GB |"F" (AG) (BA) GF |
+"C7" (AG) (BA) GA | "F" F2 z A,CF | "Bb" A2 G2 F2 | "F" (BA) (Ac) FA | "Bb" F2 E2 D2 | 
+"C7" C2 z DCA, | (G,B,) (CE) GB |"F" A2 (cA) FC |1"F"  A,2 z A (3F(G^G) :|2 "F" A,4"^B.O." z2 |]
+

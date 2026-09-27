@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:142
+T:Marsch efter Jons-Axel Nr 142
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Marsch
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 142. Marsch"
+L:1/8
+Q:1/4=96
+M:2/4
+K:C
+V:1
+"^1"u G |:v c2 (c>G) | e2 (e>c) | (g>a) (gf) | e2 g2 | 
+fe/f/ gf/g/ | v a>va (^f>d) | g2u gug |1 g2 zu G :|2 g2 zu (d/e/) |: 
+v (f/g/)f/e/ (fg) | (fe) (d^c) | (ed)u dud | d2 (ef) | 
+(g/a/)g/^f/ (ga) | (gf) (ed) | cB/c/ (ed) |1 c2 zu (d/e/) :|2 c2 z2 |:
+{d}v cc/B/ cc/e/ | ga/g/ (f/e/)d/c/ |{d} cc/B/ cc/e/ | 
+ga/g/ (f/e/)d/c/ | (Ba) (ga) | c2 (Bd) | (dc)u cuc |v c2 z2 :| 
+V:2
+"^2" D |:"C" E2 E2 | G2 G2 | c2 c2 | G2 c2 |"G7" d2 e2 |"D7" ^f2 (d>c) |"G" B2 B2 |1 "G" B2 z D :|"G" B2 z (F/G/) |:
+"G7"v (A>G) (AB) | (AG) (FE) | (GF) FF | F2 (GA) | (B>A) (Bc) | (BA) (GF) |"C" E2 (GF) |1 E2 z (F/G/) :|2"C" E2 z2 |:
+"C" E2 G2 | c2 (GF) | E2 G2 | c2 (GF) |"G7" (Dc) (Bc) | "^Stämförslag B.O." G2 F2 |"C" (FE) EE |"C" E2 z2 :|
+

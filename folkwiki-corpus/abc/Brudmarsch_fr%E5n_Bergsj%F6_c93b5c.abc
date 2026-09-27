@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Bergsjö
+C:Bengt Synnebäck
+O:Bergsjö, Hälsingland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:Arr. Bo-Lennart Enerlöv
+L:1/8
+M:4/4
+K:C
+V:1
+"^1" EG |: c2 c>c ce dc | B2 AF A4 | G2 c>c cg (3e/g/e/ c | B2 B>B B2 EG | 
+c2 c>c ce dc | B2 AF A4 | Gc eg fd BG |1 c2 c>c c2 EG :|2 c2 c>c c2 z2 |: 
+e2 e>e e2 ed | c2 c/d/c/B/ A2 A/B/c/d/ | e2 e>e e2 ed | c2 c/d/c/B/ A2 AB |
+ c2 c2 cd/c/ (3B/c/B/ A |  G2 G>G G2 G2 | A2 A>A A2 dc | B6 EG |
+ c2 c>c cg (3e/g/e/ c | B2 AA Aa fd | Gc eg f (3d/e/d/ BG | c2 c>c c2 z2 :| 
+V:2
+"^2" CE |:"C" E2 E>E Ec BA |"F" F2 FA, F4 |"C" E2 E>E EG G2 |"G7" F2 F>F F2 CE | 
+"C" E2 E>E Ec BA |"F" F2 FA, F4 |"C" CE EG"G7" BF FF |1"C" E2"F" F>F"C" E2 CE :|2 "C" E2"F" F>F"C" E2 z2 |:
+"E7" ^G2 G>G G2 GG |"Am" A2 A2 E2 E2 |"E7" ^G2 G>G G2 GG | "Am" A2 A2 E2 EF | 
+"F" F2 F2 F4 | "C" E2 E>E E2 E2 | "D7"[D^F]2 [DF]>[DF] [DF]2 FF | "G7" [DF]6 CE | 
+"C"  E2 E>E E4 | "F"F2 [CF][CF] [CF]4 | "C"  CE EG "G7" BF FF | "C" E2 "F" F>F "C" E2 z2 :|
+

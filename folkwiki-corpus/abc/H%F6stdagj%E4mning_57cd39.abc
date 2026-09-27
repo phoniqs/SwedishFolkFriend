@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Höstdagjämning
+T:Gånglåt
+C:Lars Erik Jansson
+O:Upplands Väsby, Uppland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:2/4
+K:D
+V:1
+"^1" A2 |: d2cd (ed)cd | A2G2 F2(EF) | G2>D2 B,2A,2 | G,2B,2 E2D2 | (C2>A,2) (A,C)EA | 
+c2e2 g2c2 | d2cd (f2d2) | A6 A2 | d2cd (ed)cd | A2G2 F2(EF) | G2>D2 B,2A,2 | 
+G,2B,2 E2D2 | (C2>A,2) (A,C)EA | c2e2 g2c2 | (e2>d2) (dc)de |1,8 d6 A2 :|2 d8 |:
+[K:G] b2fa (ag)fg | d2B2 G2(Bd) | (dc)Bc (A2E2) | C6 E2 | (DF)AF d2AF | (DF)AF d2>uD2 | 
+(DE)DC (B,2A,2) | (G,B,)DG (B2d2) | b2fa (ag)fg | (d2B2) G2Bd | c2Bc (A2E2) | 
+C6 E2 | (DE)DB, (G,B,)DG | B2d2 g2>B2 | d2dc (Ac)AF |1,8 G8 :|2 G6 |] 
+V:2
+"^2" F2 |: F2EF (GF)EF | D2D2 =C2C2 | B,2>G,2 G,2D2 | B,2D2 G2F2 | (E2>C2) (CE)Ac | G2A2 c2A2 | 
+F2EF (A2F2) | F2E2 D2F2 | F2EF (GF)EF | D2D2 =C2C2 | B,2>G,2 G,2D2 | B,2D2 G2F2 | (E2>C2) (CE)Ac | 
+G2A2 c2A2 | (G2>F2) (FE)FG |1,8 [FA]6 F2 :|2 [FA]8 |:[K:G] d2Ac (cB)AB | G2G2 =F2F2 | E2E2 C2C2 | 
+A,6 C2 | (A,D)FD F2FD | (A,D)FD C2>uF2 | (FG)FE (D2C2) | (B,D)GB (d2G2) | d2Ac (cB)AB | 
+G2G2 =F2F2 | E2E2 C2C2 | A,6 C2 | (B,C)B,G, (DG,)B,D | G2B2 d2>G2 | A2AF (DE)DC |1,8 [B,D]8 :|2 "^B.O." [B,D]6 |]
+

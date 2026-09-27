@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:117
+T:Vingåkersdans
+T:(Sv Folkdanser Del 1)
+R:Vals
+O:Vingåker, Sörmland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 117 Vingåker"
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 117
+Z:http://runeberg.org/folkdans/besk/0120.html
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel" d2 |c3 def | g3 ece | d3 faf | d4 |][K:D][M:3/4][K:treble]"^Dans" A2 | a3 fdf | 
+A2 dA df |  e3 dce | "^Spelas 7 ggr."E4 d2 | c3 def | g3 ece | d3 efg | 
+A4 A2 | a3 fdf | A2 dA df | e3 dce | E4 d2 | c3 def | 
+g3 ece | d3 faf | d4 A2 | a3 bag | f2 d2 d2 | A3 BAG | 
+F2 D2 D2 | G3 G G2 | F3 F F2 | E3 E E2 | Ac de fg | a3 bag | 
+f2 d2 d2 | A3 BAG | F2 D2 D2 | G2 B2 e2 | F2 A2 d2 | E2 G2 c2 | d4 A2 |]"^Sluttakt" d6 |] 
+V:2
+"^2" B2 | "A7"A3 Bcd | e3 cAG | "D"F3 AdA | "D"F4 |][K:D][M:3/4][K:treble] F2 | "D"f3 dAd | F2 AF Ad | 
+"A7" c3 BAc | C4 B2 | A3 Bcd | e3 cAG |"D" F3 Ade | f4 F2 | f3 dAd | F2 AF Ad |"A7" c3 BAc | 
+C4 B2 | A3 Bcd | e3 cAG |"D" F3 AdA |"D" F4 F2 |"D" f3 gfe | d2 A2 A2 | F3 GFE | D2 A,2 A,2 | 
+"A7" E3 E E2 |"D" D3 D D2 |"A7" C3 C C2 | EA Bc de |"D" f3 gfe | d2 A2 A2 | 
+"^Stämförslag B.O." F3 GFE | D2 A,2 A,2 |"G" E2 G2 B2 |"D" D2 F2 A2 |"A7" C2 E2 G2 | "D" F4 F2 |]"D" F6 |]
+

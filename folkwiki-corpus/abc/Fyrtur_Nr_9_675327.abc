@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:23
+T:Fyrtur Nr 9
+T:(Gamla Dansar i Skåne)
+O:Hjortshög, Skåne
+R:Fyrtur
+S:J A Guldstrand
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Fyrtur (9) efter J.A. Guldstrand, Hjortshög."
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" a2a2 f2df | (ae)cA d2 z2 |]:[K:D][M:2/4][K:treble]"^Dans" (df)ag (af)df | 
+(ec)Ac (dA)FA | (df)ag (af)df | (ec)Ac d2 z2 :: 
+d2f2 A2>d2 | (cd)ec (dA)FA | d2f2 A2>d2 | (cd)ec d2 z2 :: 
+(^de)de c2A2 | (^de)de c2A2 | a2a2 f2df | (ae)cA d2 z2 :| 
+V:2
+"^2" f2f2 d2Ad | (ec)AE F2 z2 |]:[K:D][M:2/4][K:treble] (Ad)fe (fd)Ad | 
+(cA)EG (AF)DF | (Ad)fe (fd)Ad | (cA)EG F2 z2 :: 
+A2d2 F2>B2 | (AB)cA (AF)DF | "^Efter J.A. Guldstrand, Hjortshög." A2d2 F2>B2 | (AB)cA F2 z2 :: 
+(=c^c)=c^c A2E2 | (=c^c)=c^c A2E2 | "^Stämförslag B.O." f2f2 d2Ad | (ec)AE F2 z2 :|
+

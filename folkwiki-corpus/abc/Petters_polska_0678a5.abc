@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Petters polska
+C:Calle Hedin
+O:Linköping, Östergötland
+R:Polska
+M:3/4
+K:D
+N:Namngivningspolska komponerad 1987
+Q:1/4=90
+|: (d1/2e1/2)d1/2c1/2 dd1/2A1/2   (F1/2D1/2)E1/2F1/2| (G1/2F1/2)G1/2A1/2 BB1/2G1/2 E>d | 
+(c1/2B1/2)c1/2d1/2 ee1/2c1/2 AA1/2c1/2 | (d1/2c1/2)d1/2e1/2 fa1/2f1/2 d>A | F>A dd1/2A1/2 dA |
+ (B1/2c1/2)B1/2A1/2 Bc d2|    E>^G  BG1/2B1/2 eB | 
+ (c1/2d1/2)c1/2B1/2    cd e>A |  F>A dd1/2A1/2 FA1/2F1/2 |  
+(G1/2A1/2)G1/2F1/2 GE  C2 |   A>B  (c1/2B1/2)c1/2d1/2  ef  | (g1/2e1/2)c1/2e1/2 d4 :|
+|: (f1/2g1/2)f1/2e1/2 (d1/2e1/2)d1/2c1/2 (B1/2c1/2)B1/2A1/2 | (G1/2A1/2)G1/2F1/2  GE C>B, |1 A,A,1/2C1/2  (E1/2C1/2)E1/2A1/2  cA |
+ DD1/2F1/2 (A1/2F1/2)A1/2d1/2 fd :|2  A,A,1/2C1/2  (E1/2C1/2)E1/2A1/2  ce | (g1/2f1/2)e1/2c1/2  d4   ||
+

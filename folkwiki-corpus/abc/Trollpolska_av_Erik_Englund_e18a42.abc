@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Trollpolska av Erik Englund
+C:Erik Englund
+O:Böle, Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" A,>^C D>F A>d | (3^c(Ac) d>e f>a | (3g(eg) (3f(af) e>d | (3^cec A4 |
+ A,>^C D>F A>d | (3^c(Ac) d>e f>a | (3g(eg) (3f(af) e>^c | d2 d4 :|
+|:({fg} f>e) (d>f) a>f | (f>e) (e^c) A>c | (d>^c) (d>e) f>g | a2 e^c A2 |
+({fg} f>e) (d>f) a>f | (f>e) (e^c) A>G | (E>F) (D>F) E>^C | D2 [Dd]4 :| 
+V:2
+|:"^2" D>A, A,>D F>A | (3G(EG) F>A d>f | ^c2 A2 G>F | (3EGE [^CE]4 |
+ D>A, A,>D F>A | (3G(EG) F>A d>e | ^c2 A2 G>E | F2 [A,F]4 :|
+|: (A>G) (F>A) d>A | (A>G) (GE) ^C>E | (F>E) (F>A) d>A | ^c2 AE ^C2 |
+ (A>G) (F>A) d>A | (A>G) (GE) ^C>E | (^C>D) (A,>D) C>A, | "^B.O." [A,F]2 [A,F]4  :|
+

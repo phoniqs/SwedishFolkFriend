@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Stock-Wiktors vals
+C:Wiktor Öst
+R:Vals
+O:Rännsjön, Bergsjö, Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Wiktor Öst, Rännsjön, Bergsjö."
+L:1/8
+M:3/4
+K:A
+V:1
+"^1" .E.A.c |: e3 fed | c3 .e.a.b | c'3 d'c'b | a4 e2 | (eb) (d'e) bd' | (eb) (d'e) bd' | (ea) (c'e) ac' | b2 .e'2 .e'2 | 
+e3 fed | c3 .e.a.b | c'3 d'c'b | a4 e2 | (eb) (d'e) .b.d' | (ea) (c'e) .a.c' | (eb) (d'e) .f.g |1 a3 .E.A.c :|2 a4 =g2 |:
+[K:D] f3 edc | d4 A2 | B3 edB | A4 A,2 | .A,.C .E.A .c.e | g3 g g2 | .D.F .A.d .f.a | d'3 d' d'2 | 
+f3 edc | d4 A2 | B3 edB | A4 A,2 | .A,.C .E.A .c.e | g3 ABc | d6- |1 d4 A2 :|2 d4 z2 |:
+[K:G] (G,B,) (DG) Bd | b4 a2 | (gf) (ag) fe | fa e2 e2 | (DF) (AB) cd | [cf]4 [ce]2 | d3 edc | 
+.B.d .G.B .D.G | (G,B,) (DG) Bd | b4 a2 | (A,C) (EA) ce | g4 f2 | f2 e3 B | d2 c2 F2 | G6- | G4 z2 :| 
+V:2
+"^2" .C.E.A |: c3 dcB | A3 .A.c.d | e3 fed | (c2 A2) c2 | (Be) (gB) eg | (Be) (gB) eg | (ce) (ac) ea | .g.e .g.e .g.e | 
+c3 dcB | A3 .A.c.d | e3 fed | (c2 A2) c2 | (Be) (gB) .e.g | (ce) (ac) .e.a | (Be) (gc) .d.B |1 c3 z2 z :|2 [ce]4 [ce]2 |:
+[K:D] d3 AF^E | F4 D2 | G3 GFD | F4 D2 | .G,.A, .C.E .G.A | (EA) (cA) cA | .A,.D .F.A .d.f | 
+(df) (af) af | d3 AF^E | F4 D2 | G3 GFD | F4 D2 | .G,.A, .C.E .G.A | c3 EGA | [FA]3 [FA] [FA]2 |1 [FA]4 z2 :|2 [FA]4 [=cf]2 |:
+[K:G] (gd) (BG) DB, | (G,B,) (DB,) DB, | (G,B,) (DB,) DB, | (CE) (GE) GE | (fd) (cA) FA | [Fc]4 [FA]2 | F3 GFE | 
+.D.G .B,.D .G,.B, | (DG,) (B,D) GB | g4 f2 | (EA,) (CE) Ac | e4 d2 | d2 c3 G | B2 A2 D2 | [B,D]3 [B,G] [B,G]2 | [B,G]4 z2 :|
+

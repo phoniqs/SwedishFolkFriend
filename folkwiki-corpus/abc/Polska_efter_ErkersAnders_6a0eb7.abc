@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:161
+T:Polska efter Erkers-Anders
+T:Polonäs
+S:Erkers-Anders Andersson
+O:Tjärnan, Dalarna
+B:Låtar från Dalarnes Bergslag nr 161
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (38) efter Erkers-Anders Andersson, Tjärnan."
+Z:"Trad. [[Personer/Udd Axel Johansson]], Hedemora och [[Personer/Kurt Grälls]], Vikmanshyttan. Jmf. Ingvar Normans "Låtar från Dalarnes Bergslag" nr. 161."
+L:1/8
+M:3/4
+K:F
+V:1
+|:"^1" C>C FF AA | FF (B/A/)B/c/ d2 | c>c fc A(B/A/) | (G/A/)G/E/ FA/F/ C2- | 
+C>C FF AA | FF (B/A/)B/c/ d2 | c>c fc A(B/A/) | (G/A/)G/E/ F4 ::
+fg/f/ (dB) df | (c/d/)c/B/ (AF) A>A | Bc/B/ (GE) CD/E/ | (F/G/)F/E/ (FA) c>c | 
+fg/f/ (dB) df | (c/d/)c/B/ (AF) A>A | Bc/B/ (GE) C(D/E/) | (F/G/)F/E/ F4 :| 
+V:2
+|:"^2" A,>A, CC FF | DD (G/F/)G/A/ B2 | A>A cA FD | CB,/G,/ A,C A,2- | 
+A,>A, CC FF | DD (G/F/)G/A/ B2 | A>A cA FD | CB,/G,/ A,4 :: 
+Bc/B/ (FD) FB | (A/B/)A/G/ (FC) F>F | GA/G/ (EC) G,B, | (A,/B,/)A,/G,/ (A,F) A>A | 
+ Bc/B/ (FD) FB | (A/B/)A/G/ (FC) F>F | GA/G/ (EC) G,B, |"^Stämförslag B.O." A,2 A,4 :|
+

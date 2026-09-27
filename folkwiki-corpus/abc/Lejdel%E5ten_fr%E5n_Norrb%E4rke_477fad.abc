@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Lejdelåten från Norrbärke
+S:Johan Gustavsson
+O:Smedjebacken, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Johan Gustavsson, Smedjebacken."
+L:1/8
+M:3/4
+K:C
+V:1
+"^1""^Förspel" E2 (E^G) BG | (^G<A) A4 |:"^Dans" e2 (ec) A>c | B>c({Bc} B>^G) E2 | E2 (E^G) BG | 
+(A^G) (AB) cd | e2 (ec) A>c | B>c({Bc} B>^G) E2 | E2 (E^G) BG | (^G<A) A4 :: 
+E2 (E^G) AB | c2 (c/>d/c/B/) c2 | d2 (dc) df | e>f (ec) A2 | 
+E2 (E^G) AB | c>d (cB) (3(cde) | f2 (f>d) B>d | (d<c) c4 ::
+"^Springvals" g>(e g2) g>e | g>(e c'2) c'>e | g>(a g2) g(f/g/) | (a>g) (fe) d>e | 
+(f>e) (f>e) f>g | g>f b2 b2 | a>g g2 g2 | (e>g) (f>d) B>d | (d<c) c4 :| 
+V:2
+"^2" B,2 (B,E) ^GE | (B,<C) C4 |: c2 (cA) E>A | ^G>A (G>E) B,2 | B,2 (B,E) ^GE | 
+(CB,) (CE) AB | c2 (cA) E>A | ^G>A (G>E) B,2 | B,2 (B,E) ^GE | (B,<C) C4 :: 
+B,2 (B,D) E^G | A2 (A/>B/A/^G/) A2 | B2 (BA) Bd | c>d (cA) E2 | 
+B,2 (B,D) E^G | A>B (A^G) (3(ABc) | d2 (d>B) G>F | (F<E) E4 :: 
+e>(c e2) e>c | e>(c e2) e>c | e>(f e2) e(d/e/) | (f>e) (dc) B>c | (d>c) (d>c) d>e |
+ e>d g2 g2 | f>e e2 e2 | "^Stämförslag B.O." (c>e) (d>B) G>F | (F<E) E4 :|
+

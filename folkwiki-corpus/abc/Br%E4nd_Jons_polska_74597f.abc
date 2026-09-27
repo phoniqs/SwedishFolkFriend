@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Bränd Jons polska
+S:Efter [[Personer/Bleckå]] Anders
+S:Efter Gössa Anders
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1""^\"Bränd Jons polska\""{EF} E2 A>(B c>)A | e2 (c/d/)c/A/{Bc} B>G | (AB) (cd) e>a | (a/b/)a/^g/ e2 E2- | E2 A>(B c>)A | 
+e2 (c/d/)c/A/ B>G | (AB) (cd) e>a |1 (a/b/)a/^g/ e4 :|2 (a/b/)a/^g/ e4- | e z e4- |: 
+e2 (a/b/)a/g/ e>g |({ga} g^f) (d<f) e2- | e2 (a/b/)a/g/ e>g | (3:2:4(g^f) (d2 f2) e2- | 
+e>(f e)(d{cd} c>)B | (3A(G^F) (F/G/)A/B/ c2 | d2 (e/f/)e/d/{cd} c>A | (BG) A4 :| 
+V:2
+|:"^2" [A,E]2 E>(G A>)E | c2 (A/B/)A/E/ G>D | (EG) (AB) c>f | f/g/f/e/ [EB]2 [A,E]2- | [A,E]2 E>(G A>)E | 
+c2 (A/B/)A/E/ G>D | (EG) (AB) c>f |1 (f/g/)f/e/ [^GB]4 :|2 (f/g/)f/e/ [^GB]4- | [^GB] z ([GB]4 |: 
+c2) (f/g/)f/e/ c>e | (ed) (B<d) c2- | c2 (c/d/)c/B/ G>B | (3:2:4(BA) (^F2 A2) G2- | 
+G>(d c)(B A>)G | (3F(ED) (D/E/)F/G/ A2 | B2 (c/d/)c/B/ A>E | "^Stämförslag B.O." (GD) [A,E]4 :|
+

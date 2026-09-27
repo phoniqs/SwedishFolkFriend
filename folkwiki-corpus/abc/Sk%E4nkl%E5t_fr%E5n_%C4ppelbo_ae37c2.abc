@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Skänklåt från Äppelbo
+S:Erik Åhl
+O:Äppelbo, Dalarna
+R:Skänklåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Bäckström nr 737"
+Z:"Eft. Erik Åhl. Arr. och stämma B.O."
+L:1/16
+Q:1/4=80
+M:2/4
+K:Am
+V:1
+"^1" a2 |:T ^g2T^f2T e2d2 |{B} c4 (B2G2) | (A2>B2) (cB)cd | e2^f2 g2b2 | 
+(ab)ag (ef)ed | c4 (B2G2) | (A2>B2) (cB)cd |1 e6 a2 :|2 
+e6 (^cd) |: e2>^f2 g2b2 | a4 (^cd)ef | (a2g2) (ef)ed | 
+B4 (cB)cd | (ef)ed (e2^G2) |1 A6 (^cd) :|2 A8 |] 
+V:2
+"^2" c2 |: B2A2 ^G2^F2 | E4 (D2B,2) | (C2>E2) (A^G)AB | ^G2A2 B2d2 | 
+(cd)cB (^GA)G^F | E4 (D2B,2) | (C2>E2) (A^G)AB |1 [^GB]6 c2 :|2 
+[^GB]6 (AB) |: ^c2>d2 e2d2 | ^c4 (AB)cd | (f2e2) (cd)cB | 
+G4 (A^G)AB | (cd)cB (^G2E2) |1 [CE]6 (AB) :|2 [CE]8 |]
+

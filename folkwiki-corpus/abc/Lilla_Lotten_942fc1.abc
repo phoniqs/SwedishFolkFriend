@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:70
+T:Lilla Lotten
+T:(Sv Folkdanser Del 1)
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 70. Lilla Lotten"
+Z:http://runeberg.org/folkdans/besk/0071.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 70
+M:3/4
+K:F
+V:1
+"^1""^Förspel" BB E2 G2 | F4 z2 |:[K:F][M:3/4][K:treble]"^Dans""^Vals" CF A2 A2 | CF A2 A2 | cc F2 A2 | 
+G4 z2 | CE G2 G2 | CE G2 G2 | BB E2 G2 |1 F4 z2 :|2 F3 z cc |: 
+f2 e2 d2 | c3 z cc | d2 c2 B2 | A3 z AA | 
+c2 F2 A2 | G3 z GG | B2 E2 G2 |1 F3 z cc :|2 F4 z2 |] 
+V:2
+"^2""C7" GG C2 B,2 |"F" A,4 z2 |:[K:F][M:3/4][K:treble]"F" A,C F2 F2 | A,C F2 F2 | AA C2 F2 | 
+"C7" E4 z2 | G,C E2 E2 | G,C E2 E2 | GG C2 B,2 |1"F" A,4 z2 :|2"F" A,3 z AA |: 
+"F" d2 c2 B2 | "^Spelas önskat antal ggr."A3 z AA | B2 A2 G2 | F3 z FF | 
+A2 C2 F2 |"C7" E3 z EE | "^Stämförslag B.O." G2 C2 B,2 |1"F" A,3 z AA :|2"F" A,4 z2 |]
+

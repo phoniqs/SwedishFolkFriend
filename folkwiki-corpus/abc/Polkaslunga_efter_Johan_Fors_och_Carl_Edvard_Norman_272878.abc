@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Polka-slunga efter Johan Fors och Carl Edvard Norman
+S:Johan Fors
+S:Carl Edvard Norman
+O:Säter, Dalarna
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polka-slunga från Södra Dalarna efter Johan Fors och Carl E. Norman, Säter."
+L:1/16
+M:2/4
+K:D
+V:1
+|:"^1"v{g} f2Ad f2Ad | f2b2 a4 |{b} a2ef g2c2 | e2d2 f2A2 |
+{g} f2Ad f2Ad | f2b2 a4 | {b} a2ef g2ce | d2d2 d3 z ::
+v F2DF A2d2- | dFAd f2>a2 | (ag)gf (fe)ce | (ed)dB (BA)FA | 
+F2DF A2d2- | dFAd f2>a2 | (ag)gf (fe)ce | d2d2 d3 z ::
+[K:G]v D2>G2 G2B2 | T B2AG A2D2 | F2>A2 c2F2 | G2B2 e2d2 | 
+D2>G2 G2B2 |T B2AG A2D2 | e4 (dc)AF | G2G2 G3 z :| 
+V:2
+|:"^2""D" d2FA d2FA | d2g2 f4 |"A7" e2cd e2A2 |"D" G2F2 A2F2 | 
+d2FA d2FA | d2g2 f4 | "A7" e2cd e2cA |"D" F2F2 F3 z ::
+"D" D2A,D F2A2- | ADFA d2>f2 | "A7" (fe)ed (dc)Ac | "D" (cB)BG (GF)DF | 
+D2A,D F2A2- | ADFA d2>f2 | "A7" (fe)ed (dc)AG | "D" F2F2 F3 z ::
+[K:G]"G" B,2>D2 D2G2 | "D7" G2FE F2A,2 | D2>F2 A2C2 |"G" B,2G2 c2B2 | 
+B,2>D2 D2G2 |"D7" G2FE F2A,2 | "^Stämförslag B.O." c4 (BA)FD |"G" B,2B,2 B,3 z :|
+

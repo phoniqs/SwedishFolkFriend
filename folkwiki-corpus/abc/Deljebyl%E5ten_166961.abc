@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Deljebylåten
+C:Sven Englund
+O:Delsbo, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:Komp. o. arr. Sven Englund, Delsbo.
+%%score 1 2
+L:1/16
+Q:1/4=91
+M:2/4
+I:linebreak $
+K:G
+V:1
+"^1"u [G,D]2 |:v [B,G]4 (!>![G,D]2!>![G,D]2) | [GB]4 (DG)Bc | d2^cd (ed)"^Gånglåt"=cB | (AG)FE DEFG | 
+[FA]4 (!>![CF]2!>![A,F]2) | [Fc]4 (Ac)de | (fg)ag fed^c | (d^d)e=d BcAF | 
+[B,G]4 (!>![B,D]2!>![G,D]2) | [GB]4 (DG)Bc | d2^cd (gd)BG | [Ece]4 [G^ce]4 | 
+[G,DBg]4 (Bd)e^g | (ae)cA DFAF | [B,G]2AG (F2{G)F}EF |1,8 [B,G]6u [G,D]2 :|2 [B,G]6u [G,E]2 |: 
+v [EBe]4 (!>![GB]2>!>![B,G]2) | [G,E]4 (!>![B,G]2!>![GB]2) | [^DBf]4 (!>![DB]2>!>![DB]2) | [^DB]2B,D (FB)^df | 
+b2ag (a2{b)a}gf | g2fe (ag)fe | [B,F^db]4 (!>![^DB]2>!>![DB]2) | 
+[^DB]6 [G,E]2 | [EBe]4 (!>![GB]2>!>![B,G]2) | [G,E]4 (!>![B,G]2!>![GB]2) | [^DBf]4 (!>![DB]2>!>![DB]2) | 
+[^DB]2B,D (FB)^df | b2ag (a2{b)a}gf | g2fe (B^d)fd | e2Bc (BA)GF |1 [G,E]6u [G,E]2 :|2 [G,E]4u [CF]4 |: 
+(DB)gB (bB)(gB) | (^DB)fB (aB)(fB) | (ec)GE Gcec | (dB)GD B,DCB, | 
+(A,F)cF (dF)(cF) | (B,G)BG (dG)(BG) | (FE)DE FGAB | (cB)AB cdef | 
+(DB)gB (bB)(gB) | (^DB)fB (aB)(fB) | (ec)GE Gcec | (dB)GD B,DCB, | 
+(CG)eG (^C_B)(eB) | (DB)gB (Ed)(^gd) | (ca)ec AcFA |1 [B,G]6u D2 :|2,8 [B,G]6 z2 |] 
+

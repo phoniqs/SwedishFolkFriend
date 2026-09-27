@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Södra Dalarna
+T:av Ingvar Norman
+C:Ingvar Norman
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (40) av Ingvar Norman, Säter."
+L:1/16
+M:3/4
+K:Bb
+V:1
+[M:3/4]"^1"u F2 |:v "Bb"(BF)DE F2DF (GA)Bc |"Bb" d2ed"F7" (cB)Ac"Bb" B4 | "Bb" (dB)FB d2Bd (gf)(ed) |"F7" (cB)AB c6u F2 |
+v (BF)DE F2DF (GA)Bc | "Bb" d2ed"F7" (cB)Ac"Bb" B4 |"Bb" (dB)FB d2Bd (gf)(ed) |"F7" (cB)Ac"Bb" B6u F2 :: 
+"Cm"v e2ed (cB)AG"D7" ^F2Ac |"Gm" d2BG (DC)B,A, G,2B,D |"Cm" C2EF"Gm" D2GB"D7" ^F2Ac | "D7" (Ac)B^F"Gm" (GB)dB"D7" [FA]4 |
+"Cm" e2ed (cB)AG"D7" ^F2Ac |"Gm" d2BG (DC)B,A, G,2B,D | "Cm" C2EF"Gm" D2GB"D7" ^F2(Ac) |1"D7" (Ac)B^F"Gm" [GB]6u G2 :|2 "D7" (Ac)B^F"Gm" [GB]6u B2 |:
+"F7"v A2FA c2Ac (fe)cA |"Bb" B2FB d2Bd (f=e)fd | "F7" A2FA c2Ac (fe)cA |"Bb" B2FB d2Bd (f=e)fd |
+"Cm" e2ed (cB)AG"D7" ^F2Ac | "Gm" d2BG (DC)B,A, G,2B,D | C2EF D2GB ^F2(Ac) |1 "D7" (BA)^FA "Gm" [GB]6u B2 :|2 "D7" (BA)^FA "Gm" [GB]6 z2 |] 
+V:2
+"^2"u D2 |: D2B,C D4 E2F2 | F2GF E2E2 D4 | F2DF B4 B2F2 | (F2E2) [EA]6u D2 | 
+v D2B,C D4 E2F2 | F2GF E2E2 D4 | F2DF B4 B2F2 | (F2E2) D6u D2 :: 
+c2cB (A2^F2) D2F2 | B2GD (G2D2) B,2D2 | A,2C2 B,2D2 C2D2 | ^F2DC (B,2G2) F2D2 | 
+c2cB (A2^F2) D2F2 | B2GD (G2D2) B,2D2 | A,2C2 B,2D2 C2D2 |1 (^F2D2) B,6u D2 :|2 (^F2D2) B,6u G2 |: 
+v F4 E4 C2E2 | D4 F4 B2F2 | F4 E4 C2E2 | D4 F4 B2B2 | 
+c2cB (A2^F2) D2F2 | B2GD (G2D2) B,2D2 | A,2C2 B,2D2 C2D2 |1"^Stämförslag B.O." (^F2D2) [B,D]6u G2 :|2 (^F2D2) [B,D]6 z2 |]
+

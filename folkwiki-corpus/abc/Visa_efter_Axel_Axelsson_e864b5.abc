@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:514
+T:Visa efter Axel Axelsson
+T:efter fadern
+T:(OA 514)
+B:Sörmländska låtar samlade av Olof Andersson nr 514
+R:Visa
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:Axelsson hörde visan - till vilken fanns text, vilken han nu ej mindes - när han 1890 exercerade beväring i Malmköping. 
+H:Melodien synes vara en travestering av en n:r 58 meddelad vals. Se även nr 358. Jfr Svenska Låtar, Dalarna, h I n:r 93.
+Z:Anders Larsson 2025-02-26
+M:C
+L:1/4
+Q:140
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+"^\n" F/>E/ F/>G/ A/>A/ A/>A/ | d/>c/ d/>e/ f3/2 z/ | g/>g/ B e/>e/ A | A/>A/ B/c/ d2 ::
+f/>e/ f/>g/ a/>a/ a/>g/ | f/>e/ d/e/ f/>f/ f/>e/ | d/>c/ B/G/ e e/>d/ | c/>A/ B/c/ d2 :|
+

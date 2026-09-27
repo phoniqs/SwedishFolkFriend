@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Hedemora
+S:Per Wilhelm Bergström
+O:Hedemora, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Wilhelm Bergström, Matsbo."
+L:1/16
+Q:1/4=77
+M:2/4
+K:A
+V:1
+"^1" Ac |: (e2a2) (ea)cd | e4 (cA)ce | (d2B2) (Bd)cB | A2cA E2Ac | 
+(e2a2) (ea)cd | e4 (cA)ce | (d2B2) (Bd)cB |1 A6 (Ac) :|2 A6 (ea) |: 
+(g2b2) d2cd | (c2e2) A2ea | (g2b2) d2cd | f4 e2ea | 
+(g2b2) (dc)df | (e2c2) A2ec | (d2B2) (BG)EG |1 A6 (ea) :|2 A6 z2 |] 
+V:2
+"^2" EA |: (c2e2) c2AB | c4 A2Ac | B2G2 E2D2 | C2EC C2EA | 
+(c2e2) c2AB | c4 A2Ac | B2G2 E2D2 |1 C6 (EA) :|2 C6 (ce) |: 
+(d2e2) B2AB | (A2c2) E2ce | (d2e2) B2AB | d4 c2ce | 
+(d2e2) B2Bd | (c2A2) E2cA | B2G2 E2D2 |1 "^Stämförslag B.O." C6 (ce) :|2 C6 z2 |]
+

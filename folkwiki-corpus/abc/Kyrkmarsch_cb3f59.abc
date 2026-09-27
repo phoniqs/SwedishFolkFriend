@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Kyrkmarsch
+C:Olle Jansson
+O:Östervåla, Uppland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Olle Jansson, Östervåla"
+L:1/8
+M:2/4
+K:Gm
+V:1
+|:"^1" dd/e/ d=e/^f/ | gg d2 | cc/A/ BB | (A/G/)^F/G/ (AD) | 
+dd/e/ d=e/^f/ | gg d2 | ee/d/ cf | d3 d | cc/B/ (Ad) | 
+B3 B |  (A/B/)A/G/ (^F/G/)A/B/ |1 [G,G]3 z :|2 [G,G]3 F |: (Fd) de/d/ | 
+cf f>A | BB/c/ dc/B/ | Ad d>A | G2 GA/G/ | FB BF | 
+ (G/F/)E/D/ (EC) | [A,D]3 F | (Bd) de/d/ | cf f>A | BB/c/ dc/B/ |
+ Ad d>A | G2 GA/G/ | FB BF | (G/F/)E/D/ (C/F/)A/c/ |1 [DB]3 F :|2 [DB]3 z |] 
+V:2
+|:"^2""Gm" BB/c/"D7" Ac/d/ |"Gm" BB G2 | "D7" ^FF/D/ "Gm" GG |"D7" ^FD CA, |
+"Gm" BB/c/"D7" Ac/d/ | "Gm" BB G2 |"Cm" cc/B/ AA |"Gm" B3 B | "D7" AA/G/ (^FF) |
+"Gm" G3 G | "D7"  ^F>D CC |1"Gm" [B,D]3 z :|2 "Gm" [B,D]3 D |:"Bb" (DB) Bc/B/ |
+"F" Ac c^F | "Gm" GG/A/ BA/G/ | "D7" ^FA AF | "Eb" E2 EF/E/ | "Bb" DF FD | "F7" (E/D/)C/B,/ (CA,) |
+"D7" [C^F]3 D |"Eb" (DB) Bc/B/ |"Bb" Ac c^F | "Gm" GG/A/ BA/G/ | "D7" ^FA AF | 
+"Eb" E2 EF/E/ |"Bb" DF FD |"F7" (E/D/)"^Stämförslag B.O."C/B,/ (A,C) |1"Bb" [B,D]3 D :|2"Bb" [B,D]3 z |]
+

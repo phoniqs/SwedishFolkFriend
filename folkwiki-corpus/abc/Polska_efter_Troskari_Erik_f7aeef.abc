@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Troskari Erik
+T:"Uppsalapolskan"
+S:Efter Troskari Erik Persson
+O:Malung, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" f/ |: a>(b a>)(g f>)e | (d/c/d) "^Uppsalapolskan" e2 e>f | g>(f a>)(g e>)c | d>(f a2) a>f | 
+a>(b a>)(g f>)e | (d/c/d) e2 e>f | g>(f a>)(g e>)c |1 d2 d3 z/ f/ :|2 d2 d3 z |: 
+B2 B3 z/ (c/ | B>)(A G>)(A B>)=c | d2 d3 z/ (d/ | c2) c3 z/ d/ | 
+c>(B A>)(B c>)d | e2 e3 z/ f/ | g/f/g a>(g e>)c | d2 d3 z :: 
+f2 f3 z/ f/ | a2 a3 z/ f/ | a>(b a>)(g f>)e | d/c/d e2 e>f | 
+g2 g3 z/ g/ | b2 b3 z/ b/ | a>(b a>)(g e>)c | d2 d4 :| 
+V:2
+"^2" d/ |: f>g f>(e d>)c | B/A/B c2 c>d | e>d f>(e c>)A | F>d f2 f>d |
+ f>g f>(e d>)c | B/A/B c2 c>d | e>d f>(e c>)A |1 F2 [FA]3 z/ d/ :|2 F2 [FA]3 z |: 
+G2 G3 z/ (A/ | G>)(D B,>)(D G>)A | B2 B3 z/ (B/ | A2) A3 z/ B/ | 
+A>(E C>)(E A>)B | c2 c3 z/ d/ | e/d/e f>(e c>)A | F2 [FA]3 z :: 
+d2 d3 z/ d/ | f2 f3 z/ d/ | f>(g f>)(e d>)c | B/A/B c2 c>d | 
+e2 e3 z/ e/ | g2 g3 z/ g/ |"^Stämförslag B.O." e>(f e>)(c A>)G | F2 [FA]4 :|
+

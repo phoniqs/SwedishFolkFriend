@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals från Ore
+S:Hans Dalfors
+S:Timas Hans Hansson
+R:Vals
+O:Ore, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Hans Dalfors (1818-1900) och Timas Hans."
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" (ag) =bg a2 | (ef) ge f2 | ed g2 g2 | (ga) (fe) fg | 
+(ag) =bg a2 | (ef) ge f2 | (ed) a2 ^ce |1 d4 a2 :|2 d3 efa |: 
+e3 d^cd | A3 =BA^G | (A=B) (^cd) ef | (d^c) (de) fa | 
+e3 d^cd | A3 =BA^G | (A=B) (^cd) ef |1 d3 efa :|2 d6 |] 
+V:2
+|:"^2" (fe) ge f2 | (^cd) ec d2 | ^cA c2 c2 | (ef) (d^c) de | 
+(fe) ge f2 | (^cd) ec d2 | (^cA) c2 AG |1 [FA]4 f2 :|2 [FA]3 ^cdf |: 
+^c3 AGA | F3 GFE | (^CE) (GA) ^cA | (FE) (FA) df | 
+^c3 AGA | F3 GFE | "^Stämförslag B.O." (^CE) (GA) ^cA |1 [FA]3 ^cdf :|2 [FA]6 |]
+

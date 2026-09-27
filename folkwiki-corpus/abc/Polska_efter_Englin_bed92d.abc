@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:37
+T:Polska efter Englin
+O:Enånger, Hälsingland
+R:Polska
+B:Musik till Hälsingedanser nr 37
+Z:[[Personer/Bengt Ohlson]]
+Z:"Ur handskriven notbok  A. Englin, Enånger, 1885."
+Z:"Lämplig dans: Gammalpolska från Enånger"
+Z:"Musik till Hälsingedanser 37. Polska efter A. Englin"
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1"v EC/E/ A2 (c/A/)(c/e/) | (ea) (e/f/)e/d/ dc | c2 (Bd) c(A/c/) | (c/B/)G/B/ (AE) C(E/C/) |
+ EC/E/ A2 (c/A/)(c/e/) | (ea) (e/f/)e/d/ dc | c2 (Bd) c(A/c/) | (c/B/)G/B/ A2 [A,E]2 ::
+v (Ac) (ea) (g/f/)e/d/ |u (Ad) (df) (e/f/)e/c/ | (A/c/)(e/c/) (A/d/)(f/d/) (A/c/)(e/c/) | c>A (B/A/)G/A/ B2 | 
+ BG/B/ (AE) CE | A2 (c/A/)c/e/ a2 |v (gf) (ed) cB | (d/B/)G/B/ A2 [A,E]2 :: 
+v a2 a2u a2 | gf/g/ (ae) cA | df/d/ df/d/ d(f/d/) | ce/c/ (AE) CE | Ac/e/ (ag) fe | 
+"^Lämplig dans: Gammalpolska från Enånger." dd/d/ d2 d>d | (ce) (ae) cA | ce/c/ EA c2 | cB/c/ dB/d/ c(A/c/) | (c/B/)G/B/ A2 [A,E]2 :| 
+V:2
+|:"^2""A" (A,>C) E2 EA | c2 (cB) BA | "A" A2 "E7" (GB) "A" AE |"E7" (AE) "A" C2 "A" A,A, |
+"A" (A,>C) E2 EA | c2 (cB) BA | "A" A2"E7" (GB)"A" AE |"E7" (ED)"A" C2"A" C2 ::"A" (EA) (ce) cA |"D" (FA)"D" (Ad)"A" cA | 
+"A" (E/A/)(c/A/)"D" (F/A/)(d/A/)"A" (E/A/)(c/A/) | "A" A>E "A" (FE) "E7" G2 |
+"E7" GE/G/ "A" (EC) "A" A,C | "A" C2 (E/C/)E/A/ c2 |"E7" (ed) (cB) AG |"E7" (ED)"A" C2"A" C2 ::v"A" (C>D) (EA) ce | 
+"E7" dB/d/"A" (cA)"A" EC |"D" (D>E) (FG) Ad |"A" Ac/A/ (EC) A,C | EA/c/ (ec)"A7" A=G |
+ "D" FA/A/ (A=G) FA | "A" (Ac) (cA) EC | "^Stämförslag B.O." EA/E/ CE A2 | "E7" A2 "E7" G2 "A" EE | "E7" (ED) "A" C2 "A" C2 :| 
+

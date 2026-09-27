@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Pers Hans
+S:Pers Hans Olsson
+O:Rättvik, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" A- |: A2 d>(c{c} d>)e |{e} f2 (f/g/)f/e/ d>f |{f} a2T (ag/a/) b>a | a2 (gf) e>d | 
+(cB) A3 A- | A2 d>(c{c)} d>e |{e} f2 (f/g/)f/e/ d>f |{f} a2T (ag/a/) b>a | a2 (gf) e>d |1 
+(ce) d3 A- :|2 (ce) d3 G |: F2 (FA,) D>F | A2 A/G/G/B/ A2- | A2 FA, D>F |
+ A2 A/G/G/B/ A2- | A2 df e>d |1 ce d3 G :|2 ce d3 z |] 
+V:2
+"^2" F- |: F2 A>^G A>c | d2 d/e/d/A/ F>d | f2 fe/f/ g>f | f2 ed c>B | 
+AE C3 F- | F2 A>G A>c | d2 d/e/d/A/ F>d | f2 fe/f/ g>f | f2 ed c>B |1 
+AG F3 F :|2 AG F3 E |: D2 (D[A,D]) [A,D]>D | F2 F/E/E/G/ F2 | F2 D[A,D] [A,D]>D 
+| F2 F/E/E/G/ F2- | F2 Ad c>B |1 AG F3 E :|2 "^Stämförslag B.O." AG F3 z |] 
+

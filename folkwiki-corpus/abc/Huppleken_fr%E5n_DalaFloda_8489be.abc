@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:35
+T:Huppleken från Dala-Floda
+T:(Sv Folkdanser Del 1)
+O:Dala-Floda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Från inspelning av [[Personer/Olof Tillman]] 1957
+Z:Huppleken tur 6, kroklek, polska 3. "Sv Folkdanser Del 1 35. Huppleken från Dala-Floda"
+Z:http://runeberg.org/folkdans/besk/0171.html
+Z:Spelas tills alla kommit upp på ring.
+Z:Text: Aldrig blir den bruden jungfru mera,
+Z:Aldrig blir hon, aldrig får hon, aldrig får den bruden krona mer. aldrig får hon krona mer.
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 35
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1""^Tur 6,   Kroklek.   Polska 3." A>A d3 d | f>d A>F D>F | A>A d3 B | (B>A) A4 :: 
+(AB/c/) d2 B2 | (AB/c/) d2 B2"^Spelas tills alla kommit upp på ring." | A>(F G>)(E F>)D | (E>C) D4 :| 
+V:2
+|:"^2" F>F A3 A | d>A F>D A,>D | F>F B3 G | (G>F) F4 :: 
+(FG/A/) B2 G2 | "^Från inspelning av Olof Tillman 1957." (FG/A/) B2 G2 | 
+ F> (D E>)(C D>)B, | "^Stämförslag B.O." (C>A,) A,4 :| 
+

@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Ett gammalt dragspel (andrastämman)
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Arr: HE / MÖ"
+K:C
+"^Stämma" C F |"F" A2 C/ F3/2 | A3/2 A/G/ F E/- |"C" E E z2 |"G7" z2 G D/B,/- | B,2 G, B, | B,/ D3/2 B, G, |"C" [CE]4- | [CE] z C D |:
+"C" E2 E E | F F E C | G, G,3 | z2 C D | E3/2 E/ E E | F F E C |
+"G7" B,2 z2 | z2 B, D | F3/2 F/- F2 | G F E D | C B,3 | z2 B, D | F3/2 F/- F D | F3/2 F/ E D |
+"C" C2 z2 | z2 C D | E2 E E | F3/2 F/ E C | G, G,3 | z2 C D | E3/2 E/- E E | 
+"C7" E E D E |"F" F2 z2 | z2 C F | A2 C/ F3/2 | A3/2 A/G/ F E/- |"C" E E z2 | z2 G D/B,/- | 
+"G7" B,2 G, B, |1 D/ B,3/2 G, B, |"C" [CE]4- | [CE] z C D :|2 D/ B,3/2 G, B, |"C" C E"Bb" F G | "A7" F2"D" D E |
+[K:D]"D" F2 F F | G G F D | B, A,3 | z2 D E | F3/2 F/- F F | G G F D | 
+"A7" C2 z2 | z2 C E | G3/2 G/- G2 | A G F E | D C3 | z2 C E | G3/2 G/- G E | G3/2 G/ F E | 
+"D" D2 z2 | z2 D E | F2 F F | G3/2 G/ F D | B, A,3 | z2 D E | F3/2 F/- F F |"D7" F F G A | 
+"G" G2 z2 | z2 D G | B2 D/ G3/2 | B3/2 B/A/ G F/- |"D" F F z2 | z2 G E/C/- |"A7" C2 A, C | C/ C3/2 A, C |
+"D" [A,D]4- | [A,D] z G E/C/- |"A7" C2 A, C | C/ C3/2 A, C |"D" [A,D]2- | [A,D] z z2 |]
+

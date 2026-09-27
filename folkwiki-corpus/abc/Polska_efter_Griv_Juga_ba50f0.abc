@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Griv Juga
+S:Griv Juga
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Griv Jugar"
+L:1/8
+M:3/4
+U:t=tenuto
+K:Dm
+V:1
+"^1" (c |{dc} d>)(e{fe} f2) d>e |{^c=B} c2 A3 D- | D>(E F/E/)F/G/ A>G |{FE} F2 E3 c | 
+{dc} d>(e{fe} f2) d>e |{^c=B} c2 A3 d- | d>e f/e/f/g/{g} a>g |{fe} f2 [Ae]4- | [Ae] z [Ae]3 e |]: 
+e2 g/a/g/f/ e>d | f/e/f/g/{g} tata ^c2 |{d^c} d2 (g/a/)g/f/ e>d | f/e/f/g/{g} a3 g |1 
+=bg/b/ a3 g |{fe} f2 [Ae]4- | [Ae] z [Ae]3 e :|2 f/e/f/g/ a>(f d>)e | {^c=B} c2 [Dd]3 z |] 
+V:2
+"^2" E |{FE} F>(A{d^c} d2) A>G |{ED} E2 ^C3 A,- | A,>^C D/C/D/E/ F>E | D2 ^C3 E | 
+{FE} F>(A{d^c} d2) A>G |{ED} E2 ^C3 F- | F>A d/^c/d/e/{e} f>e |{d^c} d2 c4- | ^c z c3 c |]: 
+^c2 e/f/e/d/ c>A | d/^c/d/e/ tctc A2 |{FE} F2 (e/f/)e/d/ ^c>A | d/^c/d/e/ c3 e |1 
+ge/g/ f3 e |{d^c} d2 c4- | ^c z c3 c :|2 d/^c/d/e/ f>(d A>)G | "^Stämförslag B.O."{ED} E2 [A,F]3 z |] 
+

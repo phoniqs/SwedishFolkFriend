@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:131
+T:Salut-polka
+T:(Polka efter Jons-Axel Nr 131)
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polka
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 131. Polka"
+N:Salutpolka
+L:1/8
+Q:1/4=120
+M:2/4
+K:G
+V:1
+|:"^1"v dB dB | bg g/f/e | eA/B/ cF/A/ | Gg d/c/B | 
+dB dB | bg g/f/e | eA/B/ cF/A/ | Gg g z ::
+[K:D]v DF Ad | fa a/g/f | eg g/f/e | df f/e/d | 
+(DF) Ad | fa a/g/f | eg g/f/e | dd d z ::
+[K:G]v g3 (B/d/) | c/B/c/e/ A2 | D/F/A/d/ fa | g/f/g/b/ d(B/d/) | 
+g3 (B/d/) | c/B/c/e/ A2 | D/F/A/d/ fa | gg g z :| 
+V:2
+|:"^2""G" BG BG | gd d/c/B | "D7" AF/G/ AD/C/ | "G" B,B B/A/G | 
+BG BG | gd d/c/B | "D7" AF/G/ AD/C/ | "G" B,B B z :: 
+[K:D]"D" A,D FA | df f/e/d |"A7" ce e/c/A |"D" FA A/G/F |
+ (A,D) FA | df f/e/d |"A7" ce e/c/A | "D" FF F z ::
+[K:G]"G" B3 (G/B/) |"D7" AA/G/ F2 |"^Kallas även""^\"Minne från Rommehed\"""^Anm. B.O." A,/D/F/A/ cd |"G" B/A/B/d/ G(G/B/) | 
+B3 (G/B/) |"D7" AA/G/ F2 | "^Stämförslag B.O." A,/D/F/A/ cd |"G" BB B z :|
+

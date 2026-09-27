@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Gäddviksbäcken
+T:Polska efter Gällsbo Jonas
+R:Polska
+S:Gällsbo Jonas Olsson
+O:Alfta, Hälsingland
+Z:Karin Helander
+N:Från Bollnäsbygdens spelmanslag: https://spelmanslaget.nu/wp-content/uploads/2011/04/G%C3%A4ddviksb%C3%A4cken.pdf
+N:Gäddviksbäcken Polska komp. av Gällsbo Jonas Olsson (1891-1967), Alfta. Upptecknad och arr. av hans son Gällsbo [[Personer/Emil Olsson]] (1918-1981)"
+M:3/4
+L:1/16
+K:G
+V:1
+"G" g2(fa) g2fe d2ef | g2(fa) g2fe d4 | "D7" (dc)ec "G" (cB)dB "A7" (BA)cA | "D7"(DF)AF "G"G2D2 B,2G,2 | 
+"G" g2(fa) g2fe d2ef | g2(fa) g2fe d4 | "D7" (dc)ec "G" (cB)dB "A7" (BA)cA | "D7"(DF)(AF) "G" [G,G]8 :| [K:D]
+|: "D" (DF)(AF) (DF)(AF) (DF)(AF) | "G" (DG)(BG) (DG)(BG) (DG)(BG) | "D" (DF)(AF) (DF)(AF) (DF)(AF) | "G" (DG)(BG) (DG)(BG) (DG)(BG) | 
+"D" d3(A F2)AF D2(FA) | d2(Ad) f2(df) a3a | "G"(ag)bg (gf)af (fe)ge |1 "A7" (Ac)ec "D" [Dd]8 :|2 "A7" (Ac)ec "D" d6 e2 |]
+|: "D" f2af d2A2 F4 | D2FA (d2e2) f2d2 | "G" g2(bg) e2d2 "A7" [Ec]4 | "A7" c2(dc) B2A2 "D" (F2D2) | 
+"D" f2(af) d2A2 F4 | D2(FA) d2e2 f2d2 | "G" g2(bg) (gf)af (fe)ge |1 "A7" (Ac)ec "D" d6 e2 :|2 "A7" (Ac)ec "D" [Dd]8 |]
+V:2
+B2(df) e2dc B2cA | B2(df) e2dc [BD]4 | (BA)GE (DG)BG [EC]2[EC]2 | (CD)(FD) [BD]4 [DB,]4 | 
+B2(df) e2dc B2cA | B2(df) e2dc [BD]4 | (BA)GE (DG)BG [EC]2[EC]2 | (CD)(FD) [DB,]8 :| [K:D]
+|: (CD)(FD) (CD)(FD) (CD)(FD) | (B,D)(GD) (B,D)(GD) (B,D)(GD) | (CD)(FD) (CD)(FD) (CD)(FD) | (B,D)(GD) (B,D)(GD) (B,D)(GD) | 
+A3(F D2)FD A,2(DF) | A2(FA) d2(ad) [df]2[f=c]2 | (Bd)gd (Ad)fd (GB)eB |1 (EA)cA [FA,]8 :|2 (EA)cA [FA,]6 A2 |]
+|: d2fd A2F2 [DA,]4 | A,2DF (A2c2) d2A2 | [eB]4 [BG]4 [AE]4 | A2(BA) G2E2 (D2[FA,]2) | 
+ d2(fd) A2F2 [DG,]4 | A,2(DF) A2c2 d2=c2 |(Bd)gd (Ad)fd (GB)eB |1 (EA)cA [FA,]6 A2 :|2 (EA)cA [FA,]8 |]
+

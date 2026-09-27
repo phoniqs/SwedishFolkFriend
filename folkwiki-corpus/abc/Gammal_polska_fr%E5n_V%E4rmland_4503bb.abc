@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Gammal polska från Värmland
+O:Värmland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+Q:1/4=112
+M:3/4
+K:Dm
+V:1
+|:"^1" D>F A2 D2 | ^CE A2 z2 | A^c ea e2 | (3(fgf) ef d2 | 
+D>F A2 D2 | AA B2 z2 | AF DF E^C | D2 D2 z2 ::
+a2 ag f2 | fg ef d2 | c>d c>B A>G |1 A4 A2 :|2 A4 z2 |] 
+V:2
+|:"^2""Dm" A,>D F2 F2 |"A7" A,^C E2 z2 | ^CE A^c A2 |"Dm" A2 GA F2 | 
+A,>D F2 F2 | "Gm" FF G2 z2 |"Dm" FD A,D"A7" ^CA, |"Dm" A,2 A,2 z2 :: 
+"Dm" f2 fe d2 | "^Enkelt stämförslag B.O." AB GA F2 | "C7" E>F E>D C>B, |1 "F" C4 C2 :|2 "A7" ^C4 z2 |]
+

@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:26
+T:Dellens vågor (andrastämman)
+T:(SvL Hälsingland 26)
+C:Johan von Schwartz
+B:Svenska Låtar Hälsingland Nr 26
+B:25 spelmanslåtar från Hälsingland nr 20
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter [[Personer/Jon-Erik Hall]]
+Z:Arr [[Personer/Theodor Ohlson]]
+L:1/16
+M:3/4
+K:Bb
+|:"^2" [B,D]2d^c d2BG DB,A,B, | G,2ed e2cG ECG,B, | C2ec e2cA (FE)CE | 
+(B,D)FB (A^F)GE (DB,)CA, | [B,D]2d^c d2BG DB,A,B, | G,2ed e2cG ECG,B, | 
+C2ec e2cA (FE)CE | (B,D)FB [FA]4 [B,F]4 :: (B,D)(FD) (BD)(FD) (BD)(FD) | 
+(B,E)(GE) (BE)(GE) (BE)(GE) | (CE)(FE) (cE)(AE) (cE)(AE) | (DF)(dF) (DF)(BF) (DF)(BF) | 
+(B,D)(FD) (BD)(FD) (BD)(FD) | (B,E)(GE) (BE)(GE) (BE)(GE) | (CE)(FE) (cE)(AE) (cE)(AE) | 
+(DE)(DF) [FA]4 [B,F]4 :: (B,F)(dF) (A,F)(dF) (_A,F)(dF) | (G,E)(BE) (B,G)(eG) [B,G]2[B,F]2 | 
+(B,F)(dF) (DB)(fB) (EB)(gc) | (FE)(DF) (FE)(GE) (DB,)(CA,) | (B,F)(dF) (A,F)(dF) (_A,F)(dF) | 
+(G,E)(BE) (B,G)(eG) [B,G]2[B,F]2 | (B,F)(dF) (DB)(fB) (EB)(gc) |"^Arr. Theodor Ohlson" (FE)(DF) [FA]4 [B,F]4 :| 
+

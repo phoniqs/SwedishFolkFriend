@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Norsk brudmarsch
+S:Odd Sundt
+O:Norge
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Odd Sundt."
+L:1/8
+M:2/2
+K:D
+V:1
+"^1" A2 |:v (f3 g) (3(fgf) ef | (g3 a) (3(gag) fg | (a3 b) (a2 (3gag) | e3 (e g2 f2) | 
+(d3 e) d2 cd | (f2 e2) (d2 c2) | A4 A3u A | A6 A2 | (f3 g) (3(fgf) ef | (g3 a) (3(gag) fg | 
+(a3 b) (a2 (3gag) | e3 (e g2 f2) | (d3 e) d2 cd | (f2 e2) (d2 c2) | d4 d3u d |1 d6u A2 :|2 d4u (A2 G2) |
+v (F3 E) E2u E2 | (E2 F2) G2 FE | (F3 D) D2u D2 | D4 (g2 e2) | (f3 g) f2 ed | 
+e3 (e d2 c2) | A4 A3u A | A4 (A2 G2) | (F3 E) E2u E2 | (E2 F2) G2 FE | 
+(F3 D) D2u D2 | D4 g2u e2 | (f3 g) f2 ed | e3 (e d2 c2) | d4 d3u d | d6 z2 |] 
+V:2
+"^2"u F2 |:"D" d4 d2 cd |"A7" e4 e2 de |"D" f4 (f2 e2) |"A7" c4 (B2 A2) |"D" F4 F2 EF | 
+(A2 G2) (F2 E2) |"A7" C4 "D" D4 |"A7" E4 F4 |"D" d4 d2 cd |"A7" e4 e2 de |"D" f4 (f2 e2) | 
+"A7" c4 (B2 A2) |"D" F4 F2 EF |"A7" (A2 G2) (F2 E2) |"D" F4"A7" G4 |1"D" F6 F2 :|2 "D" F4 (F2 E2) |
+"D" D4 "A7" C4 | A,4 B,2u C2 |"D" D4 A,4 |"D" A,4"A7" (B2 G2) | "D" A4 A2u F2 |
+"A7" G4 F2u E2 |"A7" C4 "D" D4 |"A7" E4 (F2 E2) |"D" D4 "A7" C4 | A,4 B,2u C2 | 
+"D" D4 A,4 |"D" A,4"A7" B2 G2 |"D" "^Stämförslag B.O." A4 A2u F2 |"A7" G4 F2u E2 | "D" F4"A7" G4 |"D" F6 z2 |]
+

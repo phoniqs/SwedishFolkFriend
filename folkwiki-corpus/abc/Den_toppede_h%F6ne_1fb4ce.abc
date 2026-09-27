@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:2
+T:Den toppede höne
+O:Danmark
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danmark, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" d2 dd | BG Bd | dc AF | G2 z2 |]:
+[K:G][M:2/4][K:treble]"^Dans" d2 dd | BG Bd | BG Bd | dc A2 | 
+d2 dd | BG Bd | dc AF | G2 z2 :: 
+B2 BB | GE E2 | c2 cc | AF F2 | 
+d2 dd | BG Bd | dc AF | G2 z2 :| 
+V:2
+"^2" B2 BB | GD GB | BA GD | B,2 z2 |]:
+[K:G][M:2/4][K:treble] B2 BB | GD GB | GD GB | BA F2 | 
+B2 BB | GD GB | B"^Önskat antal ggr."A FD | B,2 z2 :: 
+G2 GG | EC C2 | A2 AA | FD D2 | 
+B2 BB | GD GB | BA FD | "^Stämförslag B.O." B,2 z2 :|
+

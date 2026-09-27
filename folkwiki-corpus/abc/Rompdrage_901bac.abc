@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Rompdrage
+O:Malå, Lappland
+C: Michael Boman
+Q:130
+M:4/4
+L:1/16
+R:Folkmusik
+H:Mitt första försök med abc. Rompdrage var den andra låten jag skrev. 
+Vaknade på natten med den i huvudet, steg upp och visslade in den på mobilen. 
+Rompdrage är en sak som man skickar iväg barnen för att hämta, vid slakt på gården.
+K:D
+V:1
+A4|:"D" d4d4d2d2c2B2| A4F4z4A4| d4d4d2d2c2B2|"A" c2A2G4z4d4|
+c2A2G2A2E4d4 | c4A4z4d4 | c2B2A2G2 F2A2G2E2 |1"D" D2E2F2G2A4A4 :|2"D" D4F4D4A4 |:
+"D" d6d2c4B4|d4A4D4A4|d6d2c4B4 |"A" c4A4G4c4 | e4c2B2A4c4|
+e4c2B2A4c4 | e2d2c2B2 A2G2F2E2 |1"D" D2E2F2G2A4A4 :|2"D" D4F4D8z4|
+V:2
+A4 |: D6E2F4A4 | D4A4D4A4 | D6E2F4A4 | G4E4C4A4 | E6F2G4A4 | E6F2G4A4 | E8C8 |1 D4F4D4A4 :|2 F4A4F4D4 
+|: F6F2E4D4 | F4F4A4F4 | F6F2E4D4 | E4G4E4 G4 | E6C2E4G4 | E6C2E4G4 | E6G2F4E4 |1 D4F4F4D4 :|2 F4A4F8z4 |
+

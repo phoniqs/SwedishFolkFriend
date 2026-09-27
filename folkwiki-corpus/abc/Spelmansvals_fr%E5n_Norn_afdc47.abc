@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Spelmansvals från Norn
+C:August Persson
+O:Norn, Hedemora, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av August Persson, Norn, Hedemora."
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" fg |: a2 g2 f2 | (3(fgf) e2 d2 | e2 B3 B | B4 ed | c2 A2 A2 | A2 B2 c2 | d2 f3 d | e4 fg | 
+a2 g2 f2 | (3(fgf) e2 d2 | e2 B3 B | B4 ed | c2 g2 f2 | e2 B2 c2 | d3 d d2 |1 d3 z fg :|2 d3 z ag |: 
+f2 d2 d2 | d4 ef | g2 B2 B2 | B4 ed | c2 A2 A2 | A4 Bc | (dc) (de) fg | a4 ag | f2 d2 d2 | 
+d4 ef | g2 B2 B2 | B4 ed | c2 A2 A2 | A2 B2 c2 | d3 d d2 |1 d3 z ag :|2 d3 z A2 |: 
+F2 A3 A | F2 A2 d2 | G2 B3 B | G2 B2 e2 | A2 c3 c | e2 c2 A2 | d2 d3 e | f2 d2 A2 | F2 AA AA | 
+F2 A2 d2 | G2 BB BB | G2 B2 e2 | A2 cc cc | e2 c2 A2 | d3 d d2 |1 d3 z A2 :|2 d3 z2 z |] 
+V:2
+"^2" de |: f2 e2 d2 | A2 G2 F2 | B2 G3 G | G4 cB | A2 E2 E2 | C2 E2 A2 | F2 A3 A | c4 de | 
+f2 e2 d2 | A2 G2 F2 | B2 G3 G | G4 cB | A2 e2 d2 | c2 G2 A2 | F3 F F2 |1 F3 z de :|2 F3 z fe |: 
+d2 A2 A2 | F4 Ad | B2 G2 G2 | E4 cB | A2 E2 E2 | C4 EA | (FE) (FA) de | f4 fe | d2 A2 A2 | F4 Ad | 
+B2 G2 G2 | E4 cB | A2 E2 E2 | C2 E2 A2 | F3 F F2 |1 F3 z fe :|2 F3 z F2 |: 
+D2 F3 F | D2 F2 F2 | B,2 G3 G | B,2 G2 G2 | E2 A3 A | c2 A2 G2 | F2 F3 G | A2 F2 F2 | D2 FF FF | D2 C2 =C2 | 
+B,2 GG GG | E2 _E2 D2 | C2 AA AA | "^Stämförslag B.O." c2 A2 G2 | F3 F F2 |1 F3 z F2 :|2 F3 z2 z |]
+

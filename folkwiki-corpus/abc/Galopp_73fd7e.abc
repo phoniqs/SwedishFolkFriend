@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:23
+T:Galopp
+T:(Sv Folkdanser Del 1)
+O:Schlesien
+R:Galopp
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 23. Galopp"
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 23
+N:Detta är en förkortad och utslätad Version av ''Über Stock und Stein'', op. 98 av Karl Faust, tryckt 1862. Den finns i flera skånska och mellansvenska uppteckningar. Ingen avviker dock lika mycket från originalet som Svenska Ungdomsringens tryckta version. 
+L:1/8
+M:2/4
+K:A
+V:1
+"^1" e/e/ |: ec Ac | EA ce/e/ | ec Ac | EA ce/e/ |1 e2 Be/e/ | e2 Be/e/ | 
+e2 Bd | cB Ae/e/ :|2 e2 Bg/g/ | g2 eb/b/ | b2 fg | ee/e/ ee |: 
+d3 (3c/d/c/ | Bc de | f3 (3e/f/e/ | de fg |1 a2 g2 | g2 f2 | 
+f2 e2 | ee/e/ ee :|2 a2 A>B | c2 f>e | e2 B>c | A3 z |] 
+V:2
+"^2" c/c/ |:"A" cA EA | CE Ac/c/ | cA EA | CE Ac/c/ |1"E7" B2 GB/B/ | B2 GB/B/ | 
+B2 GB | "A" AE Cc/c/ :|2 "E7" B2 GB/B/ | B2 G^d/d/ |"B7" ^d2 BB |"E7" GG/G/ GG |:
+"E7" B3 A | GA Bc |  d3 c | Bc de |1"A" f2 e2 | e2 d2 | 
+d2 c2 | cc/c/ cc :|2 "A"c2 C>E | "^Stämförslag B.O."A2 d>c | "E7" B2 G>E | "A"C3 z |]
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Telnings-Daniel
+S:Telnings-Daniel Andersson
+O:Grangärde, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Gm
+V:1
+"^1" (D |: G>)(^F G>)(A B>)c | (3Ace d3 (c | B2) Bc/B/ A>G | (3(G^FG) (A>G) F>D | 
+G>(^F G>)(A B>)c | (3Ace d3 (c | B2) Bc/B/ A>c |1 (B/A/)G/^F/ G3 D :|2 (B/A/)G/^F/ G3 A |: 
+B2 Bc/B/ A>G | G^F/G/ (A>G) F>D | B2 Bc/B/ A>G | G^F/G/ (A/B/)A/G/ F>D | 
+G>^F G>(A B>)c | (3Ace d3 c | B2 Bc/B/ A>c |1 B/A/G/^F/ G3 A :|2 B/A/G/^F/ G3 z |] 
+V:2
+"^2" A, |: B,>(A, B,>)(D G>)A | (3^FFG F3 F | G2 GA/G/ D>B, | (3B,A,B, (C>B,) A,>A, | 
+B,>A, B,>(D G>)A | (3^FFG F3 F | G2 GA/G/ ^F>A |1 G/D/B,/A,/ B,3 B, :|2 G/D/B,/A,/ B,3 ^F |: 
+G2 GA/G/ ^F>G | BA/B/ (c>B) A>^F | G2 GA/G/ ^F>D | B,A,/B,/ (C/D/)C/B,/ A,>A, | 
+B,>A, B,>(D G>)A | (3^FFG F3 F | G2 GA/G/ ^F>A |1 G/D/B,/A,/ B,3 ^F :|2 "^Stämförslag B.O." G/D/B,/A,/ B,3 z |] 
+

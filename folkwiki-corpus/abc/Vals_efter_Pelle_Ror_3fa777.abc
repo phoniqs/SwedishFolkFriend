@@ -1,0 +1,32 @@
+%%abc-charset utf-8
+
+X:186
+T:Vals efter Pelle Ror
+T:(SvL Småland 186)
+T:Karl XV:s vals
+R:Vals
+S:Pelle Ror
+S:Vilhelm Andersson
+N:Spelades med omstämning AEAE.
+O:Torsås, Småland
+B:Svenska Låtar Småland
+Z:Jan Erik Ekman
+Z:Avvikelser:
+Z:Takt 1 utan repristecken ger fel i FolkWiki. Ignorerar eftersom uppteckningen saknar repristecknet.
+Z:Takt 1 ornamentet {/[A,Ec]} a2>g2 a2 | ger fel i abc2midi.exe. Ej medtaget.
+Z:Takt 16 uppteckning fjärdedelspaus. Här halvpaus. Originalet halvnot och fjärdedelspaus(BCF).
+Z:Rad 4 är en upprepning därför att "bis" inte verkar stödjas i ABC formatet. Ej upptecknat som repris.
+Z:R:Vals ger fel i EasyABC. Skall där vara Waltz. Ignorerar och använder Vals.
+D:Raskens Trall (1981 Amigo Music AB)
+M:3/4
+L:1/8
+K:A
+a2>g2 a2 | A2>c2 ea | g2>(f2 gb) | B4 c2 | d2>c2 d2 | E2>G2 Bd | f2>e2 (ce) | 
+[A4A4] [E2A,2] | a2>g2 a2 |A2>(c2 ea) | g2>f2 gb | B4 c2 | (de dc) de |(fg fe) fg | a2>a2 a2 | a4 z2:| 
+(Ac e)(A ce) |(Ac e)(A ce) | (Ad f)(A df) | (Ad f)(A df) | (Ac e)(A ce) |(Ac e)(A ce) | (EG B)(E GB) | (EG B)(E GB) | 
+(Ac e)(A ce) |(Ac e)(A ce) | (Ad f)(A df) | (Ad f)(A df) | (Ac e)(A ce) |(Ac e)(A ce) | (EG B)(E GB) | (EG B)(E GB) | 
+[A4A4] |:cd |e2 z2 c'2 | a4 cd | e2>d2 cd | B4 Bc |d2>c2 df | b2>a2 gf | e2>d2 ce | A4 cd |e2 z2 c'2 |
+ a4 cd | e2>d2 cd | B4 Bc |de dc de | fg fe fg | a2>a2 a2 | a4  :|
+|:(A,2 |a2>)g2 a2 | A2>c2 ea | g2>f2 g2 | (E2 G)B df |e2>c2 ec | A2 ce ac' | 
+b2>e2 gb | a2>A2 df |e2>A2 ce | d2>E2 GB | A2 z2 A2 |1 [A4A4]:|2[A4A4] z2 |]
+

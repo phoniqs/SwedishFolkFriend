@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Mazurka från Blekinge
+R:Mazurka
+S:Yngve Persson
+O:Blekinge
+N:Från Spillefolk
+N:Med [[!Ackord]].
+M:3/4
+L:1/16
+Q:1/4=170
+K:D 
+D4|:"D"D4 (D2F2) A2B2|"G"G4 (G2B2) B2d2|"A"A4 (A2c2) e2c2|"D"d4 f2d2 A4| 
+"D"D4 (D2F2) A2B2|"G"G4 (G2B2) B2d2|"A"A4 (A2c2) e2c2|"D"d4 d8:| 
+|:"D"a4 (a2f2) d2f2|"A"{/f}e4 !+![e4A4] !+![e4A4]|"A7"g4 (g2e2) c2e2|"D"d2e2 (f2g2) a4| 
+"D"a4 (a2f2) d2f2|"A"{/f}e4 !+![e4A4] !+![e4A4]|"A7"g4 (g2e2) c2e2|"D"d8 z4:|
+

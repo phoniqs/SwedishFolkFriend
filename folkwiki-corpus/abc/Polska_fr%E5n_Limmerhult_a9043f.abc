@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:169
+T:Polska från Limmerhult
+T:(SvL Västergötland nr 169)
+B:Svenska Låtar Västergötland nr 169
+O:Limmerhult, Västergötland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" D2 G2 B2 | (3(ABA) G>B d2 | d>(B c>)(B A)e | (3efe d>(d B>)B | 
+D2 G2 B2 | (3ABA G>B d2 | d>(B c>)(B A)D | FA G4 :: 
+b2 g2 d2 | f2 (3efe d2 | d2 (3(cdc) B>B | (3ABA (G>B) d>g | 
+b2 g2 d2 | f2 (3efe d2 | d2 (3(cdc) B>B | A>F G4 :| 
+V:2
+|:"^2" B,2 D2 G2 | D2 B,>G B2 | B>(G A>)(G F)c | c2 B>B G>G | 
+B,2 D2 G2 | D2 B,>G B2 | B>(G A>)(G F)C | A,C B,4 :: 
+d2 B2 G2 | A2 G2 F2 | F2 E2 D>D | C2 B,>D G>B | 
+d2 B2 G2 | A2 G2 F2 | F2 E2 D>D | "^Stämförslag B.O." C2 B,4 :|
+

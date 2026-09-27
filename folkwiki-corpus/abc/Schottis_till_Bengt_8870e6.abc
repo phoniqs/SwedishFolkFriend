@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis till Bengt
+C:Bertil Bengtsson
+O:Hedemora, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bertil Bengtsson, Hedemora."
+Z:"Obs. Ändr. tonart"
+L:1/16
+M:2/4
+K:G
+V:1
+|:"^1" G2Bd g2Bd | c2ed (cB)AG | D2FA (dc)BA | GABc d2d2 | 
+G2Bd g2Bd | c2ed (cB)AG | D2FA (dc)BA | G2B2 G4 :: 
+e2ce g2fe | dgBd GBDG | AcFA DFAF | GBDG B,DGB | 
+e2ce g2fe | dgBd GBDG | AcFA DFAF | G2G2 G4 ::
+[K:C] e6 ^f2 | g6 e2 | ^f6 g2 | a4 a4 | bbb2 aaa2 | g2B2 B4 | bbb2 aaa2 | g2c2 c4 | e6 ^f2 | 
+ g6 e2 | ^f6 g2 | a4 a4 | bbb2 aaa2 | g2B2 B4 | B2AB e2>d2 | c2c2 c4 :|
+V:2
+|:"^2" "G" B,2DG B2GB | "Am" A2cB (AG)FD |"D7" A,2DF (FE)DC | "G" B,DGA B2B2 |
+ B,2DG B2GB | "Am" A2cB (AG)FD | "D7" A,2DF (FE)DC |"G" B,2D2 B,4 ::
+"C" c2Gc e2dc |"G" BdGB DGB,D | "D7" FADF A,DFD | "G" B,DG,B, "G7" DGBd | 
+"C" c2Gc e2dc |"G" BdGB DGB,D | "D7" FADF A,DFD | "G" B,2B,2 B,4 ::
+[K:C] "C" c6 c2 | "C7" _B6 G2 |"Dm" A6 c2 | d4 d4 |"G7" ddd2 ccc2 | B2^F2 F4 | ddd2 BBB2 | "C" c2E2 E4 | c6 c2 | 
+"C7" _B6 G2 | "Dm" A6 c2 | d4 d4 |"G7"  ddd2 ccc2 | "^Stämförslag B.O." B2^F2 F4 | G2^FG G2>F2 | "C"  E2E2 E4 :|
+

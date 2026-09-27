@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Dans i Slöjdstugan
+C:Sune von Knorring
+R:Schottis
+O:Orsa, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Sune von Knorring, Orsa."
+L:1/16
+Q:1/4=75
+M:2/4
+K:G
+V:1
+|:"^1" G>Bd>g f>ed>c | B>"^Schottis"cd>G B2B2 | A>Bc>F A2A2 | G>AB>D G5/2D/ | 
+G>Bd>g f>ed>c | B>cd>G B2B2 | A>Bc>d e>gf>a | g2b2 g4 :: 
+e>cG>c e>gf>e | d>BG>B d2d2 | c>AF>A d2d2 | e>dB>d g4 | 
+e>cG>c e>gf>e | d>BG>B d2d2 | e>ce>g f>df>a | g2b2 g4 ::
+[K:C] !>!e2!>!c2 !>!G2!>!E2 | ^F>Ac>A F>Ac>A | !>!d2!>!B2 !>!G2!>!^F2 | 
+E>Gc>e g>ag>^f | !>!e2!>!c2 !>!G2!>!E2 | ^F>Ac>A F>Ac>A | G2G>A B>cd>e | c2e2 c4 :| 
+V:2
+|:"^2" B,>DG>B d>cB>A | G>AB>D G2G2 | F>GA>D F2F2 | B,>DG>G, B,5/2G,/ | 
+B,>DG>B d>cB>A | G>AB>D G2G2 | C>EA>B c>ed>c | B2d2 B4 :: 
+c>GE>G c>ed>c | B>GD>G B2B2 | A>FD>F A2A2 | c>BG>B B4 | 
+c>GE>G c>ed>c | B>GD>G B2B2 | c>Ac>e d>FA>c | B2d2 B4 ::
+[K:C] C4 _B,4 | A,>C^F>C D>FA>F | G,4 B,4 | C>EG>c B>G^F>D | 
+C4 _B,4 | A,>C^F>C D>FA>F | B,2B,>D ^F>GB>G"^Stämförslag B.O." | E2G2 E4 :|
+

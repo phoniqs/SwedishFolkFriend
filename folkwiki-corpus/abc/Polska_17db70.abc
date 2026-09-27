@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:344 c
+T:Polska
+T:efter mäster Plut
+S:efter mäster Plut
+B:Svenska Låtar Östergötland
+B:Jämför FMK - katalog M6 bild 25
+Z:Uppteckning av C E Södling
+Z:Till abc - Björn Ek 2009-01-01
+N:Södling skrev: "Denna polska är en av de ädlaste pärlorna inom vår sköna, förhistoriska anborna musik."
+N:Se även +
+R:Polska
+M:3/4
+L:1/16
+K:Dm
+%
+|:+>+d4 +>+e4 +>+A4|{/d}c3B GABG A4|D3^C (DEFG) G2A2|A2d2 (3{/e}(d2^c2d2) A4|
++>+d4 +>+e4 +>+A4|{/d}c3B GABG A4|D3^C (DEFG) G2A2|FED^C E2D2 "_Fine"D4:|
+%
+D3E {/g}FEFG G2A2|A2c2 cBGB B2A2|D3E {/g}FEFG G2A2|
+A2c2 cBGB B2A2|A2^c2.d2.e2 .f2.d2|(3{/e}(d2^c2d2) e4 "_D.C. al Fine"A4|]
+%
+

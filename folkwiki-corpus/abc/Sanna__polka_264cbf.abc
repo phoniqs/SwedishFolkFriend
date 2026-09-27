@@ -1,0 +1,34 @@
+%%abc-charset utf-8
+
+X:1
+T:Sanna - polka
+C:Einar Westberg
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Einar Westberg."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1"v d/ud/ |:v dg Bd | GB D (3(D/E/D/) | B,D GB | c2 zv c/uc/ |
+v ce Ac | FA D (3(D/E/D/) | CD EF | B2 zv d/ud/ |
+v dg Bd | GB D (3(D/E/D/) | B,D GB | e2 zv e/ue/ |
+v eg c>e | dg B>d | ce F>A |1,8 GD Gv d/ud/ :|2 GD G z |: 
+[K:C]v e>^d e>d | ea a>e | g (3(^f/g/f/) ef | d3 (c/d/) | cB B>c |1 
+B3 (A/B/) | A (3(G/A/G/) ^FA |"G7" GG/A/ (B/c/)d/^d/ :|2 B3 G  | A>c B>d | cg c' z |: 
+v (3(g/a/g/) ^f/g/ c'2 | (3(e/^f/e/) ^d/e/ g2 | (G>A) Bc |u ^f4 |v (3(^f/g/f/) e/f/ a2 | 
+(3(d/e/d/) ^c/d/ ^f2 | (G>A) B^f |u e4 |v (3(g/a/g/) ^f/g/ c'2 | 
+(3(e/^f/e/) ^d/e/ g2 | (G>A) Bc |u [ca]4 |v (3(A/B/A/) ^G/A/ (d/A/)d/A/ | 
+(3(G/A/G/) ^F/G/ (c/G/)c/G/ | ^f>a B>d |1 ce c z :|2 ce cv d/ud/ |] 
+V:2
+"^2" B/B/ |:"G" Bd GB | DG B, (3(B,/C/B,/) | G,B, DG |"D7" A2 z A/A/ | 
+Ac FA | DF A, (3(B,/C/B,/) | A,B, CD |"G" G2 z B/B/ | Bd GB | 
+DG B, (3(B,/C/B,/) | G,B, DG | "C" c2 z c/c/ | ce A>c |
+"G" Bd G>B |"D7" AF D>C |1,8"G" B,G, B, B/B/ :|2"G" B,G, B, z |:
+[K:C]v "C" c>B c>B |"A7" A^c c>c |"Dm" e (3(d/e/d/) ^cd | ^F3 (A/B/) |"G7" AG G>A |1 
+G3 (^F/G/) | "C" ^F (3(E/F/E/) DF | "G7" EE/^F/ (G/A/)B/c/ :|2 "G" G3 E | "Dm" ^F>A "G7" G>F | "C" Ec "G" e "C" z |:
+v"C" e^d/e/ g2 | cB/c/ e2 | (E>^F) GA |"G7" B4 | 
+d^c/d/ ^f2 | BA/B/ d2 | (D>E) ^Fd |"C" c4 | 
+e^d/e/ g2 | cB/c/ e2 | (E>^F) GA |"F" [A^f]4 | 
+^FE/F/ (A/F/)A/F/ |"C""^Stämförslag B.O." ED/E/ (G/E/)G/E/ |"G7" B>B G>^F |1 "C" E"G"G"C" E z :|2"C" E"G"G"C" E"G" B/B/ |]
+

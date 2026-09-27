@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:En liten schottis
+C:Greta Skoglund
+O:Gammelsträng, Norrbo, Hälsingland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Greta Skoglund, Gammelsträng, Norrbo."
+L:1/16
+M:2/4
+K:D
+V:1
+"^1" A2 |: f>gfe d2ef | g2B2 e2>d2 | c>dcB A2Bc | 
+defb a2>A2 | f>gfe d2ef | g2B2 e2>d2 |1 
+c>dcB A2Bc | d2f2 d2 A2 :|2 c>dcB Agfe | d2f2 d4 |:
+B2GB d2GB | A2FA d4 | c2Ac e2A2 | d>cde f2d2 |
+B2GB d2GB | A2FA d4 | c2cB Agfe | d2f2 d4 :| 
+V:2
+"^2" F2 |:"D" A2AG"D7" F2GA |"G" B2G2"Em" B2>B2 |"A7" A2AE C2EG |
+"D" FAdg f2>F2 | "D" A2AG"D7" F2GA |"G" B2G2"Em" B2>B2 |1
+"A7" A2AE C2EG |"D" F2A2 F2 F2 :|2"A7" A2AE CBAG | "D" F2A2 F4 |: 
+"G" G2DG B2DG |"D" F2DF F4 |"A7" G2EG A2G2 | "D" F2FG "D7" A2F2 | 
+"G" G2DG B2DG |"D" F2DF F4 |"A7" A2A"^Uppt. o. stämförslag  B.O."E CBAG | "D" F2A2 F4 :|
+

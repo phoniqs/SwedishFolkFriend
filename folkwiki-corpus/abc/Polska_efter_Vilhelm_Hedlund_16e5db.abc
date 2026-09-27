@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1346
+T:Polska efter Vilhelm Hedlund
+T:(SvL Dalarna 1346)
+S:Vilhelm Hedlund
+B:Svenska Låtar Dalarna Nr 1346
+O:Enviken, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+Q:1/4=110
+M:3/4
+U:t=tenuto
+K:Dm
+V:1
+|:"^1" (A>d) de/d/ ^c>c | (d>e) (f/e/)f/d/ ee | ef/g/ (a/b/)a/g/ e>d | d^c/d/ (ed) cA | 
+(A>d) de/d/ ^c>c | (d>e) (f/e/)f/d/ ee | ef/g/ (a/b/)a/g/ e>d | (d/e/)d/^c/ A4 :: 
+a2{b} ag/a/ ba | T a2 (gf/g/) a>^c | (d>e) (e>f) fd | A2 x4 | 
+a2{b} ag/a/ ba |T a2 (gf/g/) a>^c | (d>e) (e>f) fd | ^c2 d4 :| 
+V:2
+|:"^2" (D>F) FG/F/ E>E | (F>G) AA/F/ GG | GA/B/ ^cc/B/ G>F | FE/F/ (GF) E^C | 
+(D>F) FG/F/ E>E | (F>G) AA/F/ GG | GA/B/ ^cc/B/ G>F | FF/E/ ^C4 :: 
+f2 fe/f/ ge | f2 (ed/e/) ^c>A | (F>G) (G>A) AF | FE/F/ tGtE ^C2 | 
+f2 fe/f/ ge | ^c2 (BA/B/) c>A | (F>G) (G>A) AF"^B.O." | E2 F4 :|
+

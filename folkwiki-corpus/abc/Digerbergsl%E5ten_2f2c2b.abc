@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Digerbergslåten
+T:Gånglåt
+C:Gössa Anders
+O:Orsa, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Allm. trad. Stämförslag B.O."
+N:Inspelning med Dalapolisens spelmän: https://www.youtube.com/watch?v=RCIrKMyI7X4
+L:1/16
+M:2/4
+Q:80
+K:C
+V:1
+"^1" G2 |: c2>"^Allm. trad."(d2 cB)cd | c2E2 G2c2 | e2>(d2 cB)ca | g6 e2 | f2>(g2 fe)fg | 
+f2d2 B2G2 | e2>(d2 cB)cA | G2F2 E2G2 | c2>(d2 cB)cd | c2E2 G2c2 | e2>(d2 cB)ca | 
+g6 (^fg) | a2>(g2 fe)dc | B2a2 g2B2 | (d2c2) (Bc)dB |1 c6 G2 :|2 c6 e2 |: 
+f2>(g2 fe)fg | a2>a2 g2f2 | e2>(d2 cB)ce | g6 e2 | d2>(c2 Bc)de | f2d2 B2G2 |
+ c2>G2 c2e2 | g6 e2 | f2>(g2 fe)fa | c'2c'2 b2a2 | (a2g2) (ga)ge | 
+c4 (eg)ec | d2>(c2 Bc)de | (fe)fa (ga)ge | (fg)fd (BG)Bd |1 c6 e2 :|2 c6 z2 |] 
+V:2
+"^2" E2 |:"C" E2>(F2 ED)EF | E2C2 E2G2 | c2>(G2 ED)Ec | e6 c2 |"G7" d2>(e2 d^c)de |
+ d2B2 G2F2 | "C" c2>(B2 AG)AF | E2D2 C2E2 | E2>(F2 ED)EF | E2C2 E2G2 | c2>(G2 ED)Ec | 
+e6 (de) |"Dm" f2>(e2 dc)BA | "G7" G2c2 B2G2 |"C" (F2E2)"G7" (DE)FD |1"C" E6 E2 :|2"C" E6 G2 |:
+"F" A2>(B2 AG)Ac | f2>f2 c2A2 |"C" G2>(F2 ED)Ec | e6 c2 |"G7" B2>(A2 GA)Bc | d2B2 G2F2 | 
+"C" E2>D2 E2c2 | "C7" e6 G2 | "F" A2>(B2 AG)Af | a2a2 g2f2 | "C" (f2e2) (ef)ec | G4 (ce)cG |
+"G7" B2>(A2 GA)Bc | (dc)df (ef)ec | "Stämförslag B.O." (de)dB (GD)GF |1 "C" E6 G2 :|2 "C" E6 z2 |] 
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Midsommarpolskan från Dala-Floda
+C:Olof Tillman
+O:Dala Floda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" (D>F) (F>A) A>d | (d>f) (f>d) A>A | (A>g) (g>e) c>A | (A>a) (a>f) d>D | (D>F) (F>A) A>d | (d>f) (f>d) A>A | 
+(A>g) (g>e) c>A |1 d2 d4 :|2 d2 d3 (g |: b2) (d>g) b>g | a2 (d>f) a>f | g2 (A>c) e>c | 
+d2 (d>f) a>a | b2 (d>g) b>g | a2 (d>f) a>f | g2 (A>c) e>c |1 d2 d3 g :|2 d2 d3 (A |: 
+d>)f d3 A | d>f d3 A | (d>f) f2 e>d | c2 A3 (A | A>)c e3 c | A>c e3 c | 
+(A>c) (e>b) a>g | f2 d3 (A | F>)A d3 A | F>A d3 A | (F>A) (d>f) e>d | c2 B3 (g | 
+b2) (d>g) b>g | a2 (d>f) a>f | g2 (A>c) e>c |1 d2 d3 A :|2 d2 d4 |] 
+V:2
+|:"^2" (A,>D) (D>F) F>A | (A>d) (d>A) F>F | (E>e) (e>c) A>E | (F>f) (f>d) A>A, | (A,>D) (D>F) F>A | (A>d) (d>A) F>F | 
+(E>e) (e>c) A>G |1 F2 F4 :|2 F2 F3 (d |: g2) (B>d) g>d | f2 (A>d) f>d | e2 (E>A) c>A | 
+F2 (F>d) f>f | g2 (B>d) g>d | f2 (A>d) f>d | e2 (E>A) c>A |1 F2 F3 d :|2 F2 F3 (F |: 
+A>)d A3 F | A>d A3 F | (A>d) d2 c>B | A2 E3 (E | E>)A c3 A | E>A c3 A | 
+(E>A) (c>g) f>e | d2 A3 (F | D>)F A3 F | D>F A3 F | (D>F) (A>d) c>B | A2 G3 (d | 
+g2) (B>d) g>d | f2 (A>d) f>d | e2 (E>A) c>A |1"^Stämförslag B.O." F2 F3 F :|2 F2 F4 |]
+

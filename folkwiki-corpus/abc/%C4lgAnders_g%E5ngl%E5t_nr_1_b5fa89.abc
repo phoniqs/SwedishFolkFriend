@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Älg-Anders gånglåt nr 1
+C:Anders Elggård
+O:Rättvik, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Anders Elggård."
+L:1/16
+M:2/4
+K:D
+V:1
+"^1" DF |: A2>F2 (DF)Ad | f2fd A2F2 | G2>B2 (3(BcB) AG | B,6 B,2 | C2>B,2 (A,C)EA | 
+c2cB A2F2 | G2A,2 (A,C)EC | (DF)Ad f2d2 | A2>F2 (DF)Ad | f2fd A2F2 | G4 (G,B,)DG | 
+B6 B2 | c2>B2 (Ac)ea | c'2c'b a2f2 | g2A2 (Ac)ec |1 d6 DF :|2 d6 f2 |: 
+a2ba f2af | d2fd A2DF | (AB)AF (DF)AF | G6 ef | (ga)gf (ef)ed | 
+(cd)cB (AB)AF | G2A,2 (A,C)EC | (DF)Ad f2a2 | a2ba f2af | d2fd A2DF | (AB)AF (DF)AF | 
+G6 ef | (ga)gf (ef)ed | (cd)cB (AB)AF | G2A,2 (A,C)EC |1 D6 f2 :|2 D6 z2 |] 
+V:2
+"^2" A,D |: "D" F2>D2 (A,D)FA | d2dA F2D2 |"G" B,2>G2 G2DB, | G,6 G,2 |"A7" A,2>A,2 (CE)Ac | 
+e2ed c2A2 | E2C2 (CE)AE |"D" (A,D)FA d2A2 | F2>D2 (A,D)FA | d2dA F2D2 |"G" B,4 (DG,)B,D | 
+G6 G2 | "A7" E2>D2 (CE)Ac | e2ed c2A2 | c2E2 (EF)GA |1"D" F6 A,D :|2"D" F6 d2 |:
+"D" f2gf d2fd | A2dA F2A,D | (FG)FD (A,D)FD | "A7" E6 cd | (ef)ed (cd)cB | 
+(AB)AG (EG)EC | E2C2 (CE)AE | "D" (A,D)FA d2f2 | f2gf d2fd | A2dA F2A,D | (FG)FD (A,D)FD |
+"A7" E6 cd | (ef)ed (cd)cB | "^Stämförslag B.O." (AB)AG (EG)EC | E2C2 (CE)GE |1"D" F6 d2 :|2"D" F6 z2 |]
+

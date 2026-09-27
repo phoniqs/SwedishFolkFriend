@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Husby Brudmarsch
+S:Udd Axel Johansson
+O:Hedemora, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Udd Axel Johansson, Hedemora."
+Z:"Stäm-arr. Albin Brodd, Vika."
+L:1/16
+M:2/4
+K:G
+V:1
+"^1" (Bc) |: (d2>c2) (B2A2) | (G2>F2) (DF)AB | (c2>B2) (A2G2) | F6 D2 | 
+(G2>F2) (GA)Bc | (e2>d2) (cB)AG | B2>A2 A2A2 | A6 (Bc) :: 
+(d2>c2) (BG)Bd | g6 f2 | (e2>d2) (cB)ce | d6 B2 | 
+(c2>A2) (FA)ce | d4 (F2A2) | D2>G2 G2G2 |1 G6 (Bc) :|2 G6 z2 |] 
+V:2
+"^2" (GA) |: (B2>A2) (G2D2) | ([B,D]2>C2) (A,D)FG | (A2>G2) (F2E2) | [DA]4 (C2D2) | 
+(B,2>A,2) (B,D)GA | (c2>B2) (AG)FD | G2>F2 [DF]2[DF]2 | [DF]6 (GA) :: 
+(B2>A2) (GD)GB | (d2>c2) (Bc)dB | (c2>B2) (A^G)Ac | (B2>G2) (DB,)DG | 
+(A2>F2) (DE)FG | "^Stäm-arr. Albin Brodd, Vika." F2AG (FE)DC | B,2>D2 [CD]2 [CD]2 |1 [B,D]6 (GA) :|2 [B,D]6 z2 |]
+

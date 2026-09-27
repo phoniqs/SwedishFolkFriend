@@ -1,0 +1,35 @@
+%%abc-charset utf-8
+
+X:1
+T:Hasses Farsas vals
+C:Evert Melin
+R:Vals
+O:Skogstorp, Södermanland
+B:Åke Persson 2025
+M:3/4
+L:1/8
+Q:1/4=160
+K:A
+V:1
+Ac  |: e3 Ace | a3 Ace | f>g fedc | B3 Beg  |
+b3 egb  | (b2e'2) z2 | e2 efed  | c2 z EAc  |e3 Ace | a3 Ace | 
+f>g fedc  | B3 Beg | b3 egb | (b2e'2) z2 | a3 bag  | a3 z c2  :|
+V:2
+EA |: c3 EAc | e3 EAc | d>e dcBA | G3 EGB |
+e3 CBe | (e2c'2) z2  | c2 cdcB | A2 z2 EA | c3 EAc | e3 EAc |
+d>e dcBA | G3 EGB | e3 CBe  | (e2c'2) z2 | c3 dcB | c4 z2 :|
+V:1
+|: ea ae ce | ef fe ^de | egb egb  | ba ac' e2  |
+ea ae ce | ef fe ^de   | egb egb |1 a4 z e  :|2 a4 z a |]
+V:2
+|: ce ec Bc  | d2 dc BA | EGB EGB | BA Ac E2|
+ce ec Bc  | d2 dc BA | EGB EGB |1 A4 z2  :|2 A4 z2  |]
+V:1
+|: ab af df | Ad df af | f2 ec Ac | E2 A2 c2 | e3 BGB  |
+E2 GB e2 |  f2 ec Ac | E2 Ac e2 | ab af df | Ad df af |
+fe ec Ac | E2 A2 c2 | e3 BGB  | E2 GB cB | A3 a a2 |1 a4 zg :|2 a3 z |]
+V:2
+|: fg  fd AF | DF Ad fd  | c>d cB AE | A,2 C2 E2 | ^G2 GF GA | 
+B2 Bc d2  | c>d cB AG | A2 AB c2 |fg fd AF | DF Ad fd  | 
+c>d cB AE | A,2 C2 E2 | G2 GF GA | B2 Bd B2 |A3 A A2 |1 A4 zz :|2 A3 z |]
+

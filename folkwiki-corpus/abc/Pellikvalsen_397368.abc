@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Pellikvalsen
+S:Pellik Per
+S:Lejsme Per
+O:Malung, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Pellik Per och Lejsme Per, Malung."
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" E2 cc c2 | (Ac) (ea) af | (fd) dd d2 | d2 (fa) fd | (dc) cc c2 | 
+(Ac) (ea) ec | B2 (df) ec | (cA) (ce) dB | (EG) (Bd) cB | A2 A4 :: 
+E2 (cB) Ac | (cB) (dc) BA | G2 (BE) GB | A2 (fe) cA | 
+E2 (cB) Ac | (cB) (dc) BA | G2 (BE) GB | A2 A4 :: 
+e2 (ae) ce | d2 (fe) dB | G2 (BE) GB | (EG) (AB) cd | 
+e2 (ae) ce | d2 (fe) dB |"E7" G2 (BE) GB |"A" A2 A4 :| 
+V:2
+|:"^2""A" C2 EE E2 | (CE) (Ac) cA |"D" (AF) FF F2 | F2 (Ad) AF |"A" (FE) EE E2 | 
+(EA) (ce) cA | "E7" G2 (Bd) cA |"A" (AE) (Ac) BG |"E7" (DE) (GB) AE |"A" C2 C4 ::
+"A" C2 (ED) CE | "E7" (ED) (FE) DC | B,2 (EB,) DE |"A" C2 (dc) AE | 
+C2 (ED) CE |"E7" (ED) (FE) DC | B,2 (EB,) DE |"A" C2 C4 ::
+"A" c2 (ec) A=G |"D" F2 (dc) BF |"E7" E2 (GB,) DE | "A" (CE) (FG) AB | 
+c2 (ec) A=G |"D" F2 (dc) BF |"^Stämförslag B.O." E2 (GB,) DE | C2 C4 :|
+

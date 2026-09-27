@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Pellar-Annas polska
+S:Efter [[Personer/Gössa Anders]] Andersson
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^\"Pellar-Annas polska\"" A2 (c/d/)c/B/ G>A | B2 (c/B/)c/d/ e>g | (f/>g/f/e/) (d/>e/d/c/) d>f | (a/>b/a/g/) (e/>f/e/d/) (c/d/c/)B/ | 
+A2 (c/d/)c/B/ G>A | B2 (c/B/)c/d/ e>g | (f/>g/f/e/) (d/>e/d/c/) d>f | (a/b/)a/g/ e4 :: 
+e2{cB} c>(e g/a/g/)e/ | (e>c) (de) f(g/f/) | e2 d>(^c d)f | (3(afa) (a/b/a/g/) e2- | 
+e2{cB} c>(e g/a/g/)e/ | (e>c) (de) f(g/f/) | e2 d>(^c d>)f | (3(afa) (a/b/a/g/) e2- | e2 cB (3.G.B.d |{cB} c2 A4 :| 
+V:2
+|: E2 (A/B/)A/G/ E>F | G2 (A/G/)A/B/ c>e | (d>c) (B>A) B>d | (f>e) (c>B) A>G | 
+E2 (A/B/)A/G/ E>F | G2 (A/G/)A/B/ c>e | (d>c) (B>A) B>d | (f/g/)f/e/ c4 :: 
+c2 G>(c e>)c | (c>A) (Bc) d(e/d/) | c2 B>(A B)d | (3(fdf) (f>e) c2- | 
+c2 G>(c e>)c | (c>A) (Bc) d(e/d/) | c2 B>(A B>)d | (3(fdf) (f>e) c2-"^Stämförslag B.O." | c2 AG (3.E.G.B | A2 E4 :|
+

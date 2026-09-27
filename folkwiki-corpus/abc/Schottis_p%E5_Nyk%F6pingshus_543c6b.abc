@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis på Nyköpingshus
+C:Spel-Arvid Karlsson
+O:Nyköping, Södermanland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik och arr. Spel-Arvid Karlsson"
+L:1/16
+M:2/4
+K:D
+V:1
+|:"^1" (AF)Ad (fe)dc | (B2A2) A4 | (AF)Ad (f^d)gf | (f2e2) B4 |{B} g2(gf) e2(ed) | 
+c2cB A4 | {A} c2(cB) A2(AG) | (FG)AF D4 | (AF)Ad (fe)dc | (B2A2) A4 | (AF)Ad (f^d)gf | 
+(f2e2) B4 | {B} g2(gf) e2(ed) | c2(cB) A2(ab) | c'2c'b (ag)ec | .[Fd]2.[Fd]2 !fine! [Fd]4 ::
+B2B^A (Bc)de | .[Bf]2.[Bf]2 [Bf]4 | .[Bg]2.[Bg]2 [Bg]4 | .[Bf]2.[Bf]2 [Bf]4 | e2ed (cd)ec | 
+d2dc (Bc)dB | c2cc c2^d^e | f2FF F4 | B2B^A (Bc)de | .f2.b2 [Bf]4 | 
+.g2.b2 [Bg]4 | .f2.b2 [Bf]4 | e2ed (cd)ec | d2dc (Bc)dB | f2fg (fe)c^A | .[DB]2.[DB]2 !D.C.![DB]4 :| 
+V:2
+|:"^2""D" (FD)FA (dc)BA | (G2F2) F4 |"D" (FD)FA "B7" D2^D2 |"Em" (E2G2) [B,G]4 | "A7" e2(ed) c2(cB) | 
+A2AG [A,E]4 | A2(AG) A,2(CE) | "D" (DE)FD A,4 | (FD)FA (dc)BA | (G2F2) F4 | "D" (FD)FA "B7" D2^D2 |"Em" E2G2 [B,G]4 |
+"A7" e2(ed) c2(cB) | A2(AG) [A,E]2(cd) | e2ed (cB)AE | "D" .F2.A,2 [A,D]4 :: 
+"Bm" F2B,2 (DA)Bc | .d2.c2 B4 | "Em" .e2.d2 c4 | "Bm" .d2.c2 B4 |"F#7" c2cB (^AB)cA | "Bm" F2FE (DE)FD | 
+"C#7" ^E2EE E4 | "F#7" F2FF F4 | "Bm" F2B,2 (DF)Ac | .d2.c2 B4 |"Em" .e2.d2 c4 | 
+"Bm" .d2.c2 B4 |"F#7" c2cB (^AB)cA | "Bm" F2FE (DE)FD | "F#7" F2ED C2F2 | "Bm" .[B,D]2.[B,D]2 [B,D]4 :|
+

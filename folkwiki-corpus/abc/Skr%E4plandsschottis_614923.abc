@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Skräplandsschottis
+C:Mikael Marin
+O:Stockholm
+R:Schottis
+Z:Karin Helander
+N:Väsen
+N:https://www.youtube.com/watch?v=a7w5QNfrjeY
+L:1/8
+M:2/4
+K:A
+Q:140
+V:1
+A2 A>B |: c2 c>B |  A>c A>E | F2 (F2 | F>)E F>G | A2 A>G | 
+F>E D>C | B,2 (B,2 | B,2) A>B | c2 c>B |  A>c A>E | F2 (F2 | F>)E F>G | 
+A>F E>D |  C>A, B,>G, | A,2 (A,2 |1 A,2) A>B :|2 A,2) A>G |: 
+F>A c>A | E>A c>A | D>A B>A | E>G A>G | A>B c>d | 
+c>B A>c | (B2> cB/A/ | B2) A>G | D>F A>F | E>G A>G | A>B c>B | 
+A>G F>E | D>F A>F | E>G A>G | (A2> BA/G/ |1 A2) A>G :|2 A2)  |]
+

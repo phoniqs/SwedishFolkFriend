@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:D-durspolska från Boda
+S:[[Personer/Röjås Erik]] Andersson
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Allm trad"
+Z:"Jmf. Södra Dalarna Skedvi bypolska."
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1""^D-durs polskan" D2 (D>F) A>d | f2 (f>e) d>d | D2 (D>F) A>F | B2 (B>A) G>B | A2 (A>c) e>f | 
+g2 (g>f) e>d | c2 (c>B) A>G | B2 (B>A) F>A | D2 (D>F) A>d | f2 (f>e) d>d | D2 (D>F) A>F | 
+B2 (B>A) G>B | A2 (A>c) e>f | g2 (g>f) e>d | c2 (c>A) B>c |1 d2 d4 :|2 d2 d3 (f |: 
+g2) B3 g | f2 A3 d | c2 (c>A) B>c | d>c (d>e) f>a | g2 B3 g | 
+f2 A3 d | c2 (c>A) B>c |1 d2 d3 f :|2 d2 d4 |] 
+V:2
+|:"^2" A,2 (A,>D) F>A | d2 (d>A) F>F | A,2 (A,>D) F>D | G2 (G>D) B,>D | C2 (C>E) A>d | 
+e2 (e>d) c>B | A2 (A>G) F>E | G2 (G>F) D>F | A,2 (A,>D) F>A | d2 (d>A) F>F | A,2 (A,>D) F>D | 
+G2 (G>D) B,>D | C2 (C>E) A>d | e2 (e>d) c>B | A2 (A>E) G>A |1 F2 F4 :|2 F2 F3 (A |: 
+B2) G3 B | A2 F3 B | A2 (A>E) G>A | F>E (F>A) d>c | B2 G3 B | 
+A2 F3 B | A2 (A>E) G>A |1 F2 F3 A :|2 F2"^B.O." F4 |]
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Norra Råda
+O:Norra Råda, Värmland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" a2 e>c A>c | e>d B>G A>G | E2 A2 c>e | a2 f>d e2 | 
+a2 e>c A>c | e>d B>G A>G | E2 A>c e>d | B>G A2 a2 :: 
+(3efg a2 a2 | a>g a>b c'2 | a>g a>c' b>g | e>f e>d c>e | 
+a>g a>e c>e | a>g a>b c'2 | a>g a>c' b>g | (3efg a2 z2 :: 
+(3efg a2 (3fdf | (3ece (3dBd cA | a2 (3fdf (3ece | (3dBd (3cAc BG | E2 A>c e>a | 
+(3gfg a2 e2 | a2 (3fdf (3ece | (3dBd (3cAc BG | A>G A>c e>d | B>G A2 z2 :| 
+V:2
+|:"^2" c2 c>A E>A | c>B G>E C>E | C2 E2 A>c | f2 d>B G2 | c2 c>A E>A | c>B G>E C>E | C2 E>A c>B | 
+G>E C2 c2 :: (3GAB c2 c2 | c>B c>d e2 | c>B c>e d>B | G>A G>F E>G | c>B c>A E>A | c>B c>d e2 | 
+c>B c>e d>B | (3GAB c2 z2 :: (3GAB c2 A2 | G2 E2 AE | c2 A2 G2 | F2 E2 GE | C2 E>A c>e | 
+d2 c2 AE | c2 A2 G2 | F2 E2 GE | "^Enkelt stämförslag B.O." C>B, C>E A>G | E>B, C2 z2 :|
+

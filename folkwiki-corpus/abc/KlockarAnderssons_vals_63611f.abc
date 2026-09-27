@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Klockar-Anderssons vals
+R:Vals
+O:Dorotea, Lappland
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" A2 |:v (DF) (AD) FA | d2 (cB) AG | (FA) (DF) Ad | (fd) (AF) DF | G2 A,A, A,2 | (A,C) EA c2 | (cB) (AG) FE | F4 D2 | 
+(DF) (AD) FA | d2 (cB) AG | (FA) (DF) Ad | (fd) (AF) DF | G2 A,A, A,2 | (A,C) EA c2 | (cB) (AG) FE |1 D4 A2 :|2 D4 (FG) |: 
+A2 D3u F | A2 (d2 f2) | e2 A3u c | e4 (ef) | (gb) (ba) ag | (ge) (ec) Ac | df Ad FA | (DE) (FG) AB | A2 D3u F | 
+A2 (d2 f2) | e2 A3u c | e4 (ef) | (gb) (ba) ag | (ge) (ec) Ac | d3 edc |1 d4 (FG) :|2 d4 (B=c) |:
+[K:G] d2 b3u g | e4 d2 | .b.g .d.B .G.D | G,3 B,DG | A,2 D3u F | A2 (B2 c2) |"^Flag.""^*" e2"^*" d2"^*" A2 |"^*" G4 (Bc) | d2 b3u g | 
+e4 d2 | .b.g .d.B .G.D | G,3 B,DG | A,2 D3u F | A2 (d2 F2) | G3 AGF |1 [B,G]4 (Bc) :|2 [B,G]4 z2 |] 
+V:2
+"^2" D2 |: A,2 (DA,) DF | B2 (AG) FE | D2 (A,D) FA | (dA) (FD) A,D | E2 [A,E][A,E] [A,E]2 | (EA,) CE A2 | (AG) (FE) DC | D4 A,2 | 
+A,2 (DA,) DF | B2 (AG) FE | D2 (A,D) FA | (dA) (FD) A,D | E2 [A,E][A,E] [A,E]2 | (EA,) CE A2 | (AG) (FE) CA, |1 [A,F]4 D2 :|2 A,4 (DE) |: 
+F2 A,3 D | F2 (A2 d2) | c2 E3 A | c4 (cd) | (eg) (gf) fe | (ec) (cA) EA | A2 F2 D2 | (A,C) (DE) FG | 
+F2 A,3 D | F2 (A2 d2) | c2 E3 A | c4 (cd) | (eg) (gf) fe | (ec) (cA) EG | F3 GFE |1 F4 (DE) :|2 F4 (GA) |:
+[K:G] B2 d3 d | c4 B2 | .g.d .B.G .D.B, | D3 G,B,D | A2 A3 A | D2 (G2 A2) | G2 F2 D2 | B,4 (GA) | B2 d3 d | 
+c4 B2 | .g.d .B.G .D.B, | D3 G,B,D | A2 A3 A | D2 (F2 C2) | B,3 CB,A, |1 "^Stämförslag B.O." [G,D]4 (GA) :|2 [G,D]4 z2 |]
+

@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:530
+T:Polska efter Snickar Erik 
+T:(SvL Hälsingland 530)
+R:Polska
+O:Ovanåker, Hälsingland
+S:Efter Snickar Erik Olsson
+B:Svenska Låtar Hälsingland Nr 530
+Z:Göran Gustafsson
+M:3/4
+L:1/16
+K:Dm
+!invisible!|: DFA^c d2e2 f2d2 | egeg f2d2 ^c2A2 | A2^c2 d2e2 f2d2 | e2(ge) ^c4 A4 | 
+DFA^c d2e2 f2d2 | egeg f2d2 ^c2A2 | A2^c2 d2e2 (fa)fd | (eg)e^c d4 D4 ::
+(3(f2g2a2) (g2e2) f2d2 | egeg f2d2 ^c2A2 | A2a2 gbge fafd | egeg f2(ed) ^c2A2 | 
+DFA^c d2e2 f2d2 | egeg f2d2 ^c2A2 | A2^c2 d2e2 (fa)fd | (eg)e^c d4 D4 :|
+

@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:93
+T:Ränningen 
+T:(Sv Folkdanser Del 1)
+O:Uppland
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 93. Ränningen"
+Z:http://runeberg.org/folkdans/besk/0246.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 93
+L:1/8
+N:Troligen (enl. Owe Ronström) har meddelaren Karl Gustavsson själv gjort musiken till denna dans. Även sonen Gustav Gustavsson ska ha haft denna uppfattning (enl. Allan Westin).\\
+N: Orginalnot är en del av cissen c i första reprisen.
+M:4/4
+K:Dm
+V:1
+"^1""^Förspel" Ad fa ge fd | e>^c Ac d3 |][K:F][M:4/4][K:treble]"^Dans" A | A>d dd de fd | e2 e^c A2 eg | f>e fa ge fd | 
+e>f e^c A3 A | Bd ef eg e^c | (d4 d) z df | e2 eg fg af | ef ge ^c3 c | de fa e2 e^c | 
+d2 B^c A3 A | Ad fa ge fd | e>^c Ac d3 z |]: [K:D][M:3/4]"^Polska" d>A F>A d>e | f>d f>a f>d | A>B c>d e>f | 
+g>a g>f e2 | A>B c>d e>g | f>d f>a d>f | e>g c>e A>c | df dA FD | d>A F>A d>e | 
+f>g a>f d>A | A>B c>d e>f | ga gf e2 | A>c ef gb | a>b af df | e>f gA ce | d4 A2 ::
+[K:F] d>A F z E z | D2 A2 d2 | e>^c A z c z | d z d z z2"^Endast första gången" | d>A F z E z | D2 A2 d2 | 
+e>^c A z c z | d z d z z2 | f>g a>f a>f | e>f g>e g>e | d>e f>d f>d | e>^c A>G F>E | 
+d>A F z E z | D2 A2 d2 | e>g f z e z | d z d z z2 ::[K:D] f>g a^g ab | ab af df | 
+e>f gf ga | ge cA ce | f>g a^g ab | a>b af df | e>f g>A c>e |1 d4 d2 :|2 d4 A2 |
+"^Marsch" [M:4/4] A>d dd de fd | e>f e>c A2 ce | d2 df ef gf | ed cB A2 Bc | d>c df eg ec | 
+d4- d z fg |"^Även sång av dansarna" a2 af g2 ge | f>g fd e3 g | fa fd B2 cd | ec Ac d4 |]
+

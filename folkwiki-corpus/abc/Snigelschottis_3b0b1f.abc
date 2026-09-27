@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:1
+T:Snigelschottis
+M:C
+R:Schottis
+C:Niklas Roswall
+N:Från Spillefolk.
+N:Länk till Youtube
+L:1/8
+K:G
+D>E|:"G"G2 A>B d2 B>d|"C"e>f (e<d) "G"B3 (B|d>)d (B>{cB}A) "C"G2 E>G|"Em"B>B (A<G) "D"A2 D>E|
+"G"G2 A>B d2 B>d|"C"e>g (e<d) "G"B3 (B|"Bm"d>)d (B<d) "Em"e2 B>d|1"C"c>B (A<G) "D"A2 D>E:|2"C"c>B (A<G) "D"A>(G F>)D]|
+|:"C"E2 E>D "D"F2 F>D|"G"G>F (G<A) B2 B>d|"C"e>(e d>)(B c>)(B A>)(G|"Em"E)>G (B<G) "D"A>(G (3F)(ED)|
+"C"C>E E>D "D"F2 F>D|"G"G>F (G<A) B2 B>d|"C"e>d (e<g) "G"d2 B>G|1"D"(B>{cB}A) "G"G>F G>(G F>)D:|2"D"(B>{cB}A) GF "G"G2]|
+

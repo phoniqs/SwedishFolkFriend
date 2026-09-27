@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Vågorna
+C:Jon-Erik Hall
+O:Hassela, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]] nr 2
+L:1/16
+M:3/4
+K:Bb
+V:1
+|: (DF)Bd f2gf (ed)cB | (AB)cA B2"^Polska" F2 D2F2 | (ED)CD E2cB (AG)FE | (DE)FG (F2d2) d4 | 
+(DF)Bd f2gf (ed)cB | (EG)Be g2bg (fd)BF | (DF)Bd f2ed (cB)(AG) | (FE)cA B4 z4 :: 
+(BA)G^F (GA)Bc d2Ac | (BA)G^F (GA)Bc d4 | (ec)AF (Ac)ef (ag)fe | (dc)de (fe)dc (BF)GA |
+ (BA)G^F (GA)Bc d2Ac | (BA)G^F (GA)BG A4 | (=BA)^FD (FA)d^f a2fa | (g^f)=ef (gA)^ce d4 ::
+ (bg)=e^c a2^fd g4 | (_af)d=B g2=ec f4 | (ge)cA (fd)BF (CE)Ac | B2Bd (cB)AB F4 | 
+ (bg)=e^c a2^fd g4 | (_af)d=B g2=ec f4 | (ge)cA (fd)BF B2df | (eF)Ac c4 B4 :| 
+V:2
+|:"Bb" (B,D)FB d2ed (cB)FD |"F7" (ED)EF"Bb" D2D2 B,2D2 |"F7" (CB,)A,B, C2EG (FE)DC | "Bb" (B,C)DE (D2F2) B4 | 
+(B,D)FB d2ed (cB)FD |"Eb" (B,E)GB e2ge "Bb" (dB)FD | (B,D)FB d2cB (AG)(FE) | "F7" (A,C)EF"Bb" D4 z4 ::
+"Gm" (G,2D2) (B2D2)"D7" A2D2 |"Gm" (G,2D2) (B2D2)"D7" A2D2 |"F7" (A,2F2) (e2F2) c2F2 | "Bb" (B,2F2) (d2F2)"Gm" (GD)B,A, | 
+"Gm" (G,2D2) (B2D2)"D7" A2D2 |"Gm" (G,2D2) B2D2"D7" ^F4 |"D" (D2A,2) (A2D2) ^F2A,2 |"A7" (^C2A,2) =E2A,2"D" D4 ::
+"A7" [=E^c]4 "D7"[^F=c]4 "G"[D=B]4 | "G7"[=F=B]4 "C7"[=E_B]4 "F"[FA]4 |"Cm" (ec)AF "Bb"(dB)FD "F7"(A,C)EF |"Bb" D2FB (AF)EF "F7"[A,E]4 |
+"A7" [=E^c]4 "D7"[^F=c]4 "G"[D=B]4 | "G7"[=F=B]4 "C7"[=E_B]4 "F"[FA]4 |"Cm" (ec)AF "Bb"(dB)FD (DF)Bd | "F7" (cA)FE (AF)EC"Bb" B,4 :| 
+

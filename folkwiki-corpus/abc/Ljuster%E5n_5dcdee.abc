@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Ljusterån
+T:Gånglåt
+O:Säter, Dalarna
+R:Gånglåt
+C:Roland Johansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Roland Johansson, Säter."
+Z:"Uppt. [[Personer/Bertil Bengtsson]] 2004. Arr. B.O."
+L:1/4
+Q:1/4=142
+M:2/2
+K:G
+V:1
+"^1" B, C ^C |: E3/2 D/ D B, | D E/D/ B, D | D3/2 C/ C B, | C2 E G | F3/2 ^E/ F G | A F D C | 
+E3/2 D/ D C | B,2 B, D | G2 F G | B2 A G | F3/2 E/ E C | E2 F E | D ^C/D/ E ^D/E/ | 
+F ^E/F/ B A | G2 G3/2 G/ |1 G B, C ^C :|2,8 G G F =F |: E3/2 C/ B, C | E3/2 G/ F E | 
+D3/2 C/ B, C | D2 G B | A3/2 ^G/ A B | c A F D | E3/2 D/ D C | B, G F ^E | E3/2 C/ B, C | 
+E3/2 G/ F E | D3/2 C/ B, C | D2 G B | A3/2 ^G/ A B | c A F D | A G (G/A/)G/F/ |1 G G F ^E :|2 
+G B, C ^C |] G2 z D | (B/c/)B/A/ (G/A/)G/E/ | (D/E/)D/C/ (B, G) | (F/G/)F/D/ (E F) | G z | z/ g3/2 |] 
+V:2
+"^2" G, A, ^A, |:"G" C3/2 B,/ B, G, | B, C/B,/ G, B, |"D7" B,3/2 A,/ A, G, | A,2 C E | D3/2 ^C/ D E | F D C A, |
+"G" C3/2 B,/ B, A, | G,2 G, B, | B,2 A, B, |"G7" D2 C B, | "C" D3/2 C/ C G, |"Am" C2 D C |"D7" A, G,/A,/ C B,/C/ | 
+D ^C/D/ D =C |"G" B,2 B,3/2 B,/ |1 "G" B, G, A, ^A, :|2,8"G" B, G,"G7" A, B, |:"C" C3/2 G,/ G, G, | C3/2 E/ D C | 
+"G" B,3/2 G,/ G, G, | B,2 D G |"D7" F3/2 E/ F G | A F D A, |"G" C3/2 B,/ B, A, | 
+"G" G, G,"G7" A, B, |"C" C3/2 G,/ G, G, | C3/2 E/ D C |"G" B,3/2 G,/ G, G, | B,2 D G | 
+"D7" F3/2 E/ F G | A F D A, |"G" C B, B, A, |1"G" B, B,"G7" C D :|2"G" B, G, A, ^A, |] B,2 z B, |"^Uppt. Bertil Bengtsson 2004.  Arr. B.O." G G/F/ E E/C/ | B, B,/A,/ (G, B,) | C C/A,/ (C D) | B, z |"G" z/ B3/2 |]
+

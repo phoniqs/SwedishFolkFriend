@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Sång till Bergsjö
+C:Wiktor Öst
+R:Vals
+O:Bergsjö, Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Wiktor Öst, Bergsjö."
+Z:"Arr. Palle Åberg."
+L:1/8
+M:3/4
+I:linebreak $
+K:Bb
+V:1
+|:"^1""^Vals" [Fd]6 | [Fe]4 [Fd]2 | [=Ed]4 [Ec]2 | [eg]6 | [ef]4 [Af]2 | [ef][ef] [ef]2 [eg]2 | [df]4 [Bf]2 | [df][df] [df]2 [dg]2 | [Fd]6 | [Fe]4 [Fd]2 | 
+[=Ed]4 [Ec]2 | [eg]6 | F3 e A2 | G4 A2 | [DB]6- | [DB]2 z2 z2 :: [K:F] ca fc AF | CA, CF Ac | G,B, DG Bd | f6 | 
+e3 _edc | B4 e2 | d3 c=Bc | A6 | ca fc AF | CA, CF Ac | G,B, DG Bd | f6 | e3 _edc | a4 g2 | [Af]6- | [Af]2 z2 z2 :| 
+[K:Bb] [db]4 [df]2 | [df]6 | [fa]4 [ea]2 | [ea]6 | [ec']4 [ea]2 | [ea]6 | [eg]4 [^c=e]2 | [df]6 | [db]4 [df]2 | 
+[df]6 | [fa]4 [ea]2 | [ea]6 | A,C FA cf | ag fe cA | [DB]6- | [DB]2 z2 z2 | [db]4 [df]2 | [df]6 | [fa]4 [ea]2 | 
+[ea]6 | [ec']4 [ea]2 | [ea]6 | [eg]4 [^c=e]2 | [df]6 | [db]4 [df]2 | [df]6 | [fa]4 [ea]2 | [ea]6 | A,C FA cf | ag fe cA | [DB]6- | [DB]2 z2 z2 |] 
+V:2
+|:"^2" [DB]6 | B4 [DB]2 | [GB]4 [CG]2 | [Ge]6 | [FA]4 [Fc]2 | [FA][FA] [FA]2 [Ge]2 | [Bd]4 [Fd]2 | [Bd][Bd] [Bd]2 [Bf]2 | [DB]6 | B4 [DB]2 | 
+[GB]4 [CG]2 | [Ge]6 | E3 c F2 | E4 F2 | [B,F]6- | [B,F]2 z2 z2 ::[K:F] Af cA FC | A,C A,C FA | B,G, B,D GB | [Gd]6 | 
+c3 =B_BA | G4 c2 | B3 A^GA | [A,F]6 | Af cA FC | A,C A,C FA | B,G, B,D GB | [Gd]6 | c3 =B_BA | [Be]4 [Be]2 | [Fc]6- | [Fc]2 z2 z2 :|
+[K:Bb] gf dF B2 | DF BF BF | fe cF A2 | A,F cF cF | ef ef FA | c2 B2 A2 | GB, EG =EF | [DB]6 | gf dF B2 | DF BF BF | 
+fe cF A2 | A,F cF cF | CA, CF Ac | fe dc AF | gf dB FD | [B,F]2 z2 z2 | [Bf]4 [FB]2 | [FB]6 | [Fc]4 [Ac]2 | [Fc]6 | 
+[fa]4 [Ac]2 | [Fc]6 | [Ec]4 [_DG]2 | [FB]6 | [Bf]4 [FB]2 | [FB]6 | [Fc]4 [Ac]2 | [Fc]6 | CA, CF Ac | "^Arr. Palle Åberg." fe dc AF | [B,F]6- | [B,F]2 z2 z2 |]
+

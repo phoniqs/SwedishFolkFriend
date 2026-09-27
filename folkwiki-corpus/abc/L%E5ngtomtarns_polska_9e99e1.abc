@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Långtomtarns polska
+T:Hambopolska
+C:Lars Erik Jansson
+O:Upplands Väsby, Uppland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+N:"Tillägnad Gunnar i Långtomten. Upplandsbonde av gamla stammen."
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" D |: F>A G2 "^Tillägnad Gunnar i Långtomten. Upplandsbonde av gamla stammen." (E2{FE)} | D>F A3 d | (c>d) (e>f) (g>e) | e>d d>f a>D |
+F>A G2 (E2{FE)} | (D>F) A2 (A>d) | c>d e>f g>c |1 e>d d3 D :|2,8 e>d d3 z |:
+A(F/A/) d2 e>d | B (3(c/B/A/) G3 F | E (3(F/E/D/) C>E A>B | A>G F>E D>A | 
+AF/A/ d2 e>d | B>G g3 f | e>d c>(B{cB)} A>c |1 e>d d3 d :|2,8 e>d d3 f |: 
+a>a d2 f>a | b>a g3 f | (e>d) (c>e) (A>c) | (e>d) (d>b) (a>f) | 
+a>a d2 f>a | b>a g>f e>d | c>e A>c e>d |1 c(B/c/) d3 f :|2,8 c(B/c/) d3 |] 
+V:2
+"^2" A, |:"D" D>F"A7" E2 C2 |"D" A,>D F3 F |"A7" E>G A>B c>A | "D" G>F F>A [Fd]>A, | 
+"D" D>F "A7" E2 C2 | "D" A,>D F2 F>B | "A7" E>G A>B c>A |1 "D" G>F F3 A, :|2,8 "D" G>F F3 z |: 
+"D" FD/F/ F2 A>F |"G" GF E3 D | "A7" CB, A,>C E>G | "D" F>E D>B, A,>F | 
+FD/F/ F2 A>F | "Em" G>E e3 d |"A7" c>B A>G E>A |1 "D" G>F F3 F :|2,8"D" G>F F3 A |:
+"D" d>d F2 A>d |"Em" e>d c3 B |"A7" c>B A>c E>G | 
+"D" G>F F>e d>B | d>d F2 A>d | "Em" g>f e>d c>B |"A7" A>c E>A "^B.O." c>B |1"A7" AG"D" F3 A :|2,8 "A7" AG"D" F3 |]
+

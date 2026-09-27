@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Oppigårds Lars
+S:Efter Oppigårds Lars
+O:Nås, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" A2 a2 a>a | a2 (ag) e>f | d>e (fg) (ef) | d2 (ef) d>^c | 
+A2 a2 a>a | a2 (ag) e>f | (3(def) (gf) e>d |1 (^ce) d4 :|2 (^ce) d3 A |: 
+d>e (fg) (ef) | d2 ef d>^c | d>e fg (ef) | d>f a2 a2 | 
+e>d eg (ef) | d2 ef d>^c | A2 gf e>d |1 ^ce d3 A :|2 ^ce d4 |] 
+V:2
+|:"^2" [DA]2 f2 f>f | f2 fe ^c>d | F>G AB (GA) | F2 GA F>E | 
+[DA]2 f2 f>f | f2 fe ^c>d | (3FGA (BA) G>F |1 EG F4 :|2 EG F3 F |: 
+A>^c (de) (cd) | F2 GA F>E | A>^c de (cd) | A>d ^c2 c2 | 
+^c>=B ce (cd) | F2 GA F>E | E2 ed ^c>B |1 AG F3 F"^Stämförslag B.O." :|2 AG F4 |] 
+

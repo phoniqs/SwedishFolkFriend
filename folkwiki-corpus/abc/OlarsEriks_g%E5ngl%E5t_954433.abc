@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:201
+T:O'lars-Eriks gånglåt
+C:O-Lars Erik Fernmalm
+O:Järvsö, Hälsingland
+R:Gånglåt
+Z:Hudiksvalls spelmanslag 201
+Z:2017-11-05
+L:1/8
+M:2/4
+K:G
+V:1
+d |:"G"v g2 (g/f/)g/a/ |"G"v gdBG |"C"v c2 (c/B/)c/d/ |"Am"v cB AG | v"D" F>G FE |
+v"D7" D(^C/D/) EF |"G"v (G/F/)G/A/ (B/A/)B/c/ |v"D7" d3 d | "G"v g2 (g/f/)g/a/ |
+"G"v gdBG |"C"v c2 (c/B/)c/d/ |"Am"v cB AG |"D"v F>G FE | 
+"D7"v D(^C/D/) EF |v"G" GF/G/"D7" (B/A/)G/F/ |1"G"v G3 d :|2v"G" G3 D |3,8 "G"v G4 |:
+[K:D]"D"v DD F/D/F/A/ |"D7"v =cA FA |v"G" G>B dB |"G"v G2 (GB) | 
+v"A" AA c/A/c/e/ |"A7"v ge ce |v"D" AA"A7" Bc |1v"D" d3 D :|2[K:G]v"D" d3 d |] 
+V:2
+B |: B2 (B/A/)B/c/ | BGDB, | E2 (E/D/)E/F/ | ED CC | D>E DC | A,A, CD | (B,/A,/)B,/C/ (D/C/)D/E/ | 
+F3 G | B2 (B/A/)B/c/ | BGDB, | E2 (E/D/)E/F/ | ED CC | D>E DC | A,A, CD | B,C/D/ (G/F/)E/D/ |1 B,3 D :|2 B,3 B, |3,8 B,4 |:
+[K:D] A,A, D/A,/D/F/ | AF DA, | B,>D GD | B,2 (B,D) | EE E/C/E/A/ | ec Ac | FF GA |1 F3 D :|2[K:G] F3 F |]
+

@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Säbb Johns gånglåt
+C:John Säbb
+O:Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av John Säbb. Uppt. [[Personer/Ture Gudmundsson]]."
+L:1/16
+M:4/4
+K:G
+B,2 |: (B,/C/B,/C/B,/C/)B,A, (G,B,)DG B2cB A2G2 | C2>E2 (GE)Gc{c} e2ed c2(B/c/B/c/B/) | A2>G2 (F/G/F/G/F/)Ad f4 (f/g/f/g/f/)gf | 
+(ef)ed{de} d2dc (B/c/B/c/)dB G4 | (B,CB,/C/B,/)A,/ (G,B,)DG B2cB A2G2 | [CE]2>E2 (GE)Gc{c} e2ed c2(B/c/B/c/B/) | 
+A2>G2 (F/G/F/G/F/) (3F(Ad){d} f4 (f/g/f/g/f/)gf |1 (3(efe) ed{de} d2dF G6 B,2 :|2 (3(efe) ed{de} d2dF G6{E} G2 |: 
+G2>B2 d2g2{g} b4{ba} b2b2 | a4({a} g/a/g/a/g/a/)gf c6{c} B/c/B/c/B/ | A2>G2 (F/G/F/G/F/)Ad f4({g} f/g/f/g/f/)gf | 
+(3efe ed (de)dc (B/c/B/c/)dB G4 | G2>B2 d2g2{g} b4{ba} b2b2 | a4{a} g/a/g/a/g/a/gf c6{c} B/c/B/c/B/ | 
+A2>G2 (F/G/F/G/F/)Ad f4({g} f/g/f/g/f/)gf |1 (3efe ed{de} d2dF G6{E} G2 :|2 (3efe ed{de} d2dF G6 z2 |]
+

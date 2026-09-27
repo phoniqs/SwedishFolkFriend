@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Myr Anders
+S:Myr Anders Persson
+O:Stora Skedvi, Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (16) eft. Myr Anders Persson, St. Skedvi, Säter."
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1" g>(e c>)(e g>)g | a2 (f/g/)f/e/ f>e | d>(^c d>)(e f>)g | ag e2 c2 | 
+g>(e c>)(e g>)g | a2 (f/g/)f/e/ f>e | d>(^c d>)(e f>)g |1 (ag) e4 :|2 (ag) e3 G- |: 
+G2 (c>d) e>e | (3c2 d2 e2 f>a- | a2 (g/a/)g/e/ f>d | (dc) (ce) G2- | 
+G2 (c>d) e>e | (3c2 d2 e2 f>a- | a2 (g/a/)g/e/ f>d |1 (dB) c3 G- :|2 (dB) c4 |] 
+V:2
+|:"^2" e>(c G>)(c e>)e | f2 (d>^c) d>=c | B>(A B>)(c d>)e | fe c2 G2 | 
+e>(c G>)(c e>)e | c2 (A>G) A>G | F>(E F>)(G A>)B |1 (cB) [^GB]4 :|2 (cB) [^GB]3 E- |: 
+E2 (G>B) c>c | (3A2 B2 c2 d>c- | c2 (B>G) A>F | (FE) (EG) E2- | 
+E2 (G>B) c>c | (3A2 B2 c2 d>c- | c2 (B>G) A>F |1 "^Stämförslag B.O." (FD) E3 E :|2 (FD) E4 |] 
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Magdas mazurka
+C:Britt-Marie Jonsson
+O:Hälsingland
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1""C" e2 (c>G) E>G | A>(G (3EGE) C>E | (G,>C) (E>G) c>e |"F" d2 A4 |
+"G7" G>(G (3BGB) d>c | (B>c) B>A G2 | G>(G B>)(A G>)F |"C" F2 E4 | 
+e2 (c>G) E>G | A>(G (3EGE) C>E | (G,>C) (E>G) c>e | "F" d2 A4 | 
+"G7" G>(G (3BGB) d>c | (B>c) B>A G2 | G>(G (3BGB) d>B | "C" c2 c2 z2 ::
+[K:G]"D7" d2 (c>A) F>A | "G" (G>D) G>B d2 |"D7" d>d f2 e2 | "G" (d>e) d>B G2 | 
+"E7" e2 (E>^G) e>d | "Am" (c>d) (c>B) A>F |"D7" D>(D (3FDF) A>F | "G" G2 G2 z2 :| 
+V:2
+|:"^2" c2 (G>E) C>E | F>(E (3CEC) G,>C | (E>G,) (C>E) G>c | A2 F4 | 
+D>(D (3GDG) B>A | (G>A) G>D B,2 | B,>(B, D>)(C B,>)D | D2 C4 | 
+c2 (G>E) C>E | F>(E (3CEC) G,>C | (E>G,) (C>E) G>c | A2 F4 |
+ D>(D (3GDG) B>A | (G>A) G>D B,2 | B,>(B, (3DB,D) F>D | E2 E2 z2 :: 
+[K:G] F2 (E>C) A,>C | (B,>G,) B,>D G2 | A>A d2 c2 | (B>c) B>G D2 |
+^G2 (G>B) G>F | (E>F) (E>D) C>A, | A,>(A, (3DA,D) C>A, | B,2 B,2"^B.O." z2 :|
+

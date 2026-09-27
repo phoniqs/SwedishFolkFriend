@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:490
+T:Polska efter Axel Axelsson
+T:(OA 490)
+B:Sörmländska låtar samlade av Olof Andersson nr 490
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:"Melker Andersson hade polskan efter Glabon. Jfr Leffler: Bidr. t. Söderm. äld. kulturhist. X n:r 42 och 42a"
+Z:Anders Larsson 2025-01-31
+M:3/4
+L:1/4
+Q: 90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+A/4A/4 |: A/d/ D/E/ F/G/ | (A/4B/4)A/4G/4 A/B/ c/A/ |1 (A/4B/4)A/4G/4 A A,/ A/4A/4 :|2  (A/4B/4)A/4G/4 A A,/ C/ |:
+d (e/4g/4)e/4c/4 d/e/4f/4 | g/g/ (f/4a/4)f/4d/4 e/(f/4g/4) | a/(f/4a/4) g/(e/4g/4) f/(d/4f/4) |  e/c/ c/d/ d :|
+

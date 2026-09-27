@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:16
+T:Den första av J. E. Hall komponerade polskan
+T:(SvL Hälsingland 16)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 16
+O:Hassela, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]] (Nr 1 i Bengt Ohlsons Hall-samling)
+L:1/16
+M:3/4
+K:F
+V:1
+|: (FC)FA (cA)cf a2gf | (fe)fg f2A2 [Ac]2[GB]2 | (B,F)(dF) (A,F)(cF) (CG)(BG) | (FE)FA c2C2[GB]4 | 
+(FC)FA (cA)cf a2gf | (fe)fg f2A2 [Ac]2[GB]2 |  (B,F)(dF) (A,F)(cF) (CG)(Bd) | (ec)Bg [Af]4 z4 :: 
+ (d^c)de (fe)fg a2(eg) | f2df e2^c2"^pizz." [Ae]4 | (DC)DE (FE)FG A2(EG) | F2DF E2^C2"^pizz." [A,E]4 |
+ DFA,F (DF)AF (GF)ED | EG^CG (EG)BG (AG)FE | (Fd)^c=B (AG)FE (FE)DF | (ED)^CE (A,C)EF D4 :: 
+ (A^G)AB (A=G)FE F2D2 | E^DEG (FE)=D^C D4 | (G^F)GA (G=F)ED E2C2 | D^CDF (ED)=C=B, C4 |
+ (A,C)FG (AB)AG A2F2 | BABc (df)ed c4 | (fe)dc (dc)BA A2F2 | CGBA (GF)EG F4 :| 
+V:2
+|:"F" A,2C2 F2A2 c2BA | (FG)AB A2C2"Bb" F2E2 |"Bb" D2B,2 "F"C2A,2 "C7"B,2G,2 |  "F"A,2A,C F2A,2 "C7"(ED)CB, | 
+"F" A,2C2 F2A2 c2BA | (FG)AB A2C2"Bb" F2E2 | "Bb"D2B,2 "F"C2A,2 "C7"B,2G,2 |"C7" (CE)Gc "F"F4 z4 :: 
+"Dm"(DF)(AF) (DF)(AF) "A7"(^CE)(AE) |"Dm" (DF)(AF) "A7"(^CE)(AE) "^pizz."[A,E]4 |"Dm" (Ad)(fd) (Ad)(fd)"A7" (A^c)(ec) | "Dm" (Ad)(fd)"A7" (A^c)(ec) "^pizz." [Ae]4 | 
+"Dm"[Dd]8 "A7"[E^c]4 | "Gm" [GB]8  "Dm" [FA]4 |"Gm" A2G2 (FE)D^C "Dm"(DE)FA | "Dm" [B,A]4 "A7"[E^c]4 "Dm"[Dd]4 :: 
+"Dm"(FE)FG (FE)D^C D2A,2 | "A7"[^CE]2[CE]2 [CE]2[CE]2 "Dm"D4 |"G7" (E^D)EF (E=D)C=B, "C"C2G,2 | "G7" [=B,D]2[B,D]2 [B,D]2[B,D]2 "C" C4 |
+"F" (FC)A,C (FG)FE F2A,2 | "Bb" B,FDF (Bd)cB"F" A4 | (dc)BA ([=FB]A)GF F2C2 |"C7" B,G,B,D (CA,)CB,"F" A,4 :| 
+

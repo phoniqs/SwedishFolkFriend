@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska från Södra Dalarna 
+T:efter Wilhelm Andersson
+S:Wilhelm Andersson
+O:Stora Skedvi, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(22) Hambo-polska från Södra Dalarna efter Wilhelm Andersson, Stora Skedvi."
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" a2 (a>b) g>b | a2 (af) g2 | f2 (e>d) ^c>d | e2 df a2- | 
+a2 a>b g>b | a2 af g2 | f2 (e>d) ^c>d | e2 d3 z :: 
+f2 f>g e>f | d2 de ^c5/4c/4 | d>^c de f>g | a2 ag e>e | 
+f2 f>g e>f | d2 de ^c5/4c/4 | d>^c df e>d | ^c2 d3 z :| 
+V:2
+|:"^2""Dm" f2 f>g e>g |"Dm" f2 fd"A7" e2 |"Dm" A2 (G>F) E>F |"Dm" G2 FA"A7" ^c2 | 
+"Dm" f2 (f>g) e>g |"Dm" f2 fd"A7" ^c2 |"Dm" A2 (G>F) E>F |"A7" G2 "Dm" F3 z ::
+"Dm" A2 A>B G>A | "Dm" F2 FG "A7" E5/4E/4 |"Dm" F>E FA d>d |"A7" ^c2 cA G>G |
+"Dm" A2 A>B G>A | "Dm" F2 FG"A7" E5/4E/4 |"Dm" "_Stämförslag B.O."F>E FA"A7" G>F |"A7" E2"Dm" F3 z :|
+

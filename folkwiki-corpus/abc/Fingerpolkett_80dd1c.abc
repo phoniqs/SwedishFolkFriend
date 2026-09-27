@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:13
+T:Fingerpolkett
+T:(Sv Folkdanser Del 1)
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 13
+R:Polkett
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser del 1 13. Fingerpolkett"
+Z:Upptecknad av Lars Holmström, Arvika, variant av "Klappdansen"
+Z:http://runeberg.org/folkdans/besk/0044.html
+Z:"Sverige, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel""D7" cc c/B/A |"G" BB B/A/G |"D7" AA A/B/A |"G" G2 G z |]: 
+[K:G][M:2/4][K:treble]"^Dans""G" D>G G>B | Bd d/c/B |"D7" Ac c/B/A |"G" GB B/A/G | 
+D>G G>B | Bd d/c/B |"D7" Ac c/B/A |"G" GB G z ::
+"G" B>A G>E | DD D z | B>A G>E | DD D z |
+"D7" cc c/B/A | "G" BB B/A/G |"D7" AA A/B/A |"G" G2 G z :| 
+V:2
+"^2" AA A/E/C | GG G/D/B, | FF F/D/C | B,2 B, z |]:
+[K:G][M:2/4][K:treble] B,>D D>G | GB B/A/G | FA A/F/D | B,G G/D/B, | 
+B,>D D>G | GB B/A/G | FA A/F/D | B,D B, z :: 
+G>F E>C | B,B, B, z | G>F E>C |"^Spelas önskat ant. ggr." B,B, B, z | 
+AA A/E/C | GG G/D/B, | FF F/D/C | "^Stämförslag B.O."B,2 B, z :|
+

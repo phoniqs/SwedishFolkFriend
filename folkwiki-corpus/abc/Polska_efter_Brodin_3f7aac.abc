@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Brodin
+S:Brodin
+S:Byss-Kalle
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Brodin och Byss-Kalle"
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" G>(B d>)(e d)c | (B>d) g2 d>d | (e>d) B2 c>A | G2 B4 | 
+G>(B d>)(e d)c | (B/G/)B/d/ g2 d>d | (e>d) B2 c>A | G2 B4 ::
+ G>(B A>c) Bd | G>B (A/B/)c/A/ B2 | G>(B A>c) Bd |
+ (c>e) (d>g) f>a | (g>e) d2 B>c | (A<B) G4 :| 
+V:2
+|:"^2""G" D>(G B>)(c B)A | (G>B) B2 G>G |"G" (c>B)"G" G2"D7" A>F |"G" D2 G4 | 
+"G" B,>(D G>)(A G)F | (D>G) B2 G>G |"G" (A>F)"G" D2"D7" E>C |"G" B,2 D4 :: 
+"G" D>(G "D7" F>A) "G" GB | "G" D>G "D7" (F/G/)A/F/ "G" G2 | "G" B,>(D "D7" C>E) "G" DG |
+"D7"(F>A)"G" (G>B) "D7" A>c |"G" (B>A)  "^Stämförslag B.O." G2 D>G |"D7" (F<D) "G" B,4 :| 
+

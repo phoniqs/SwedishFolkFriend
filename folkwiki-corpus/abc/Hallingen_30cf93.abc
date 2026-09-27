@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:29
+T:Hallingen
+T:(Sv Folkdanser Del 1)
+R:Halling
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 29. Hallingen"
+Z:http://runeberg.org/folkdans/besk/0050.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 29
+L:1/16
+M:2/4
+K:Bm
+V:1
+"^1""^Förspel" f2fe c2cd | B2B^A B4 |][K:D][M:2/4][K:treble]"^Dans" (f2>e2) (de)fg | 
+a2ge (g2f2) | (f2>e2) (de)fg | a2ge A4 | (f2>e2) (de)fg | 
+a2ge (g2f2) | (f2>e2) (de)fg | a2ge f4 | f2fe c2cd | 
+B2B^A (Bc)de | f2fe c2cd | B2B^A (B2b2) | f2fe c2cd | 
+B2B^A (Bc)de | f2fe c2cd | B2B^A B4 |] B2"^Sluttakt 5:e gg."b2 b4 |] 
+V:2
+"^2" d2dc ^A2AB | F2FE D4 |][K:D][M:2/4][K:treble] (d2>A2) (FA)de | f2ec (e2d2) | 
+(d2>A2) FAde | f2ec E4 | (d2>A2) (FA)de | f2ec (e2d2) | 
+(d2>A2) (FA)de | f2ec ^A4 | ^A2Ac A2AB | D2DC (DF)Bc | 
+^A2Ac A2AF | D2DC"^Spelas 5 ggr." (D2d2) | ^A2Ac A2AF | D2DC (DF)Bc | 
+^A2Ac A2AF | "^Stämförslag B.O." D2D^C D4 |] D2d2 d4 |]
+

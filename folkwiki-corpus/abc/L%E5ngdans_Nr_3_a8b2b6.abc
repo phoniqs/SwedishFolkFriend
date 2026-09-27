@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:29
+T:Långdans Nr 3
+T:(Gamla Dansar i Skåne)
+O:Hvitemölle, Skåne
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Långdans (3) efter J. C. Thydell, Hvitemölle  1812. C. E. Berndt."
+B:Gamla Dansar i Skåne
+S:J C Thydell
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (dB)GB (dc)ec | (Bd)FA G4 |]:[K:G][M:2/4][K:treble]"^Dans" (dB)GB (dB)ec | 
+(dB)GB (AF)D2 | (dB)GB (dc)ec | (Bd)FA G4 :: 
+(AF)DF (AF)Ac | (BG)Bd (gd)BG | (AF)DF (AF)Ac | (Bd)FA G4 :| 
+V:2
+"^2" (BG)DG (BA)cA | (GB)DC B,4 |]:[K:G][M:2/4][K:treble] (BG)DG (BG)cA | 
+(BG)DG (FD)A,2 | (BG)DG (BA)cA | (GB)DC B,4 :: 
+(FD)A,"^Efter J. C. Thydell, Hvitemölle  1812.""^C. E. Berndt."D (FD)FA | (GD)GB (dB)GD | (FD)A,D (FD)FA | "^Stämförslag B.O." (GB)DC B,4 :|
+

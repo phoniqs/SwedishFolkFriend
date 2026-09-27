@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polkett från Uppland
+T:efter Sture Sahlström
+S:Sture Sahlström
+O:Uppland
+R:Polkett
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Sture Sahlström"
+Z:"Från CD med stämförslag B.O."
+L:1/16
+M:2/4
+K:F
+V:1
+|:"^1" "F" a2>(g2 fe)fd | c2FF F2Ac |"C7" B2EE E2Bd |"F" c2FF (FA)cf | 
+a2>(g2 fe)fd | c2FF F2Ac | "C7" B2E2 c2E2 |"F" (FG)FE F4 ::
+[K:C]"C" G2>F2 E2G2 | (c2e2) ggg2 |"G7" (a2g2) _BBB2 | "C" (a2g2) ccc2 | 
+G2>F2 E2G2 | (c2e2) ggg2 |"G7" a2_B2 a2B2 |"C" (cd)c_B c4 :|
+V:2
+|:"^2" c2>(e2 dc)dB | A2A,A, A,2FA | G2G,G, G,2GB | A2A,A, (A,C)FA | 
+c2>(e2 dc)dB | A2A,A, A,2FA | G2G,2 E2B,2 | (A,B,)A,G, A,4 ::
+[K:C] E2>D2 C2E2 | (G2c2) eee2 | (c2_B2) GGG2 | (d2c2) EEE2 | 
+E2>D2 C2E2 | (G2c2) eee2 | _B2G2 F2D2 | "Stämförslag B.O." (EF)ED E4 :|
+

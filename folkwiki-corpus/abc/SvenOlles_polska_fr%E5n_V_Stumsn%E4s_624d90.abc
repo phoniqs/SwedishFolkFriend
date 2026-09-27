@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Sven-Olles polska från V Stumsnäs
+O:Stumsnäs, Rättvik, Dalarna
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" a>a fa/f/ d2 | A>A FA/F/ D2 | D>F AA BA | G2 E4 | g>g eg/e/ c2 | 
+G>G EG/E/ C2 | A,>C EE AG | F2 D4 | a>a fa/f/ d2 | A>A FA/F/ D2 | 
+D>F AA dc | c2 B4 | B>B GB dB | A>A FA df | eg/e/ ce AB/c/ | d2 d4 :: 
+A,2 D2 F2 | B3 A F2 | A,2 D2 F2 | BA G4 | A,A, CC EE | AA c3 c | 
+cB AA ^GA | BA F4 | A,A, DD FF | B3 A F2 | DD FF dc | 
+c2 B4 | B>B GB dB | A>A FA df | eg/e/ ce AB/c/ | d2 d4 :| 
+V:2
+|:"^2""D" f>f df/d/ A2 | F>F DF/D/ A,2 | A,>D FF GF |"A7" E2 C4 | e>e ce/c/ A2 | E>E CE/C/ A,2 | 
+E>A, CC FE |"D" D2 A,4 | f>f df/d/ A2 | F>F DF/D/ A,2 | A,>D FF BA |"G" A2 G4 | G>G DG BG | 
+"D" F>F DF Ad |"A7" ce/c/ AG EG/E/ |"D" F2 F4 ::"D" D2 F2 A2 | G3 F D2 | D2 F2 A2 | 
+"A7" GF E4 | CC EE GG | EE G3 G | GF EE DE |"D" GF D4 | DD FF AA | G3 F D2 | A,A, DD FA | 
+"G" A2 G4 |"^Stämförslag B.O." G>G DG BG |"D" F>F DF Ad |"A7" ce/c/ AG EG/E/ |"D" F2 F4 :| 
+

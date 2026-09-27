@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Ilsbo
+C:Ingemar Lundberg
+O:Ilsbo, Hälsingland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Ingemar Lundberg, Ilsbo. (1999)"
+L:1/8
+M:4/4
+K:G
+V:1
+"^1" D2 EF | [B,DG]3 D B,2 A,2 | G,3 B, DG Bd | [EAd]3 [EAc] [EAc]2 [EB]2 | [CEA]4 DF Ad | [cdf]3 g [cdf]2 e2 | 
+[FAd]2 A2 [A,DF]2 [A,D]2 | [G,A,^C]3 E [EA]2 [GA^c]2 | [FAd]4 D2 EF | [B,DG]3 D B,2 A,2 | G,3 B, DG Bd | [EAd]3 [EAc] [EAc]2 [EB]2 | 
+[CEA]4 DF Ad | [cdf]3 g [cdf]2 e2 | [FAd]2 A2 [A,DF]2 [A,D]2 | C3 D [CDF]2 [CDA][CDF] | [B,DG]4 AB cd |] 
+[K:C] [Gce]4 [EGc]2 z/ d/c/B/ | [EGc]2 [Gce]2 [Gceg]2 [Gce]2 | [^FGBe]4 [FGBd]2 z/ e/d/^c/ | [^FGBd]6 [A^ce]2 | [Ad^f]3 e [^FAd]2 [FAc]2 | 
+[^FGB]2 [FA]2 G2 F2 | [A,CD^F]3 [G,CE] [G,CE]2 [G,CE]2 | [G,CE]6 G2 | [EGc]2 z/ d/c/B/ c2 e2 | [Gceg]2 [Gce]2 [Gc]2 [Gce]2 | 
+[^FGBe]4 [FGBd]2 z/ e/d/^c/ | [^FGBd]6 [GA^ce]2 | [Ad^f]3 e [^FAd]2 [^FAc]2 | [^FGB]2 A2 [B,DG]2 B2 | [EGd]3 [EGc] [D^FAc]2 [DFAc]2 | [CEGc]4 |] 
+V:2
+"^2" A,2 C2 |"G" B,3 z D2 C2 | B,3 z B,D G^G |"Am" E3 A A2 E2 | C4 A,D FA |"D" c3 d c2 A2 | 
+F2 D2 A,4 |"A7" A,3 ^C E2 G2 |"D" [A,F]4 A,2 C2 |"G" B,3 z D2 C2 | B,3 z B,D G^G | 
+"Am" E3 A A2 E2 | C4 A,D FA |"D" c3 d c2 A2 | F2 D2 A,4 |"D7" A,3 C D2 FC |"G" B,4 D^F GB |] 
+[K:C]"C" c4 E2 z/ ^F/E/D/ | E2 G2 c2 A2 |"G7" D4 ^F4 | B6"A" ^c2 |"Dm" A,3 ^C"D" D2 ^F2 | 
+"G7" G2 D2"G" B,2 A,2 |"Fm" A,3"C" G, G,2 G,2 |"C" G,4 A,2 B,2 | C2 z/ ^F/E/D/ E2 G2 | 
+c2 G2 E2 C2 |"G7" D4 ^F4 |"G7" B6"A" ^c2 |"Dm" A,3 ^C"D" D2 ^F2 |"G7" G2 D2"G" B,2 D2 | "C" C3 E"Dm" ^F2 D2 |"C" E4 |]
+

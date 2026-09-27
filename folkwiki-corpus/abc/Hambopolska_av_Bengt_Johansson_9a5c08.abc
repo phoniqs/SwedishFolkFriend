@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska av Bengt Johansson
+C:Bengt Johansson
+O:Falun, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bengt Johansson, (1919-1991), Ryggen, Falun."
+Z:"Av Bengt Johansson, Vika."
+Z:"DVD efter [[Personer/Ragnar Eriksson]]. Ragges dans: 7. Hambo-polska från Södra Dalarna"
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (E |: D>)(C B,>)(D G>)B | d>(d g2) B>d | c>(B A>G) F>A | G>(G B2) D>E | 
+D>(C B,>)(D G>)B | d>(d g2) B>d | c>(B Ad) f>a |1 (ag) g3 E :|2 (ag) g3 B |: 
+d>(g b2) b>a | g>f e>d c>B | A>d f2 f>e | d>c B>A G>B | 
+d>g b2 b>a | g>f e>d c>B | A>G FA d>F |1 G2 G3 B :|2 G2 G3 z |] 
+V:2
+"^2" (C |:"G" B,>)(A, G,>)(B, D>)G | B>(B d2) G>B |"D7" A>(G F>E) D>C |"G" B,>(B, D2) B,>C | 
+B,>(A, G,>)(B, D>)G | B>(B d2) G>B |"D7" A>(G FA) d>c |1"G" (cB) B3 C :|2"G" (cB) B3 G |: 
+"G" B>(d g2) g>f |"Am" e>d c>B A>G |"D7" F>A d2 d>c |"G" B>A G>D B,>G | 
+B>d g2 g>f | "Am" e>d c>B A>G |"D7" F>E DF F>C |1 "G"B,2 [B,D]3 G :|2"G"B,2"^Arr. B.O."  [B,D]3 z |]
+

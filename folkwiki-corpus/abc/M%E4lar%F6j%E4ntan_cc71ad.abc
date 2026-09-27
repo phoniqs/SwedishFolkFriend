@@ -1,0 +1,38 @@
+%%abc-charset utf-8
+
+X:1
+T:Mälaröjäntan
+T:Schottis
+C:Lars Erik Jansson
+O:Upplands Väsby, Uppland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+N:"Den svenska skönheten personifierad det är mälaröjäntan..."
+L:1/8
+M:2/2
+K:G
+V:1
+"^1" (d^c/d/) |: "G" (e>d)(d>B) G2 F>G | "^Den svenska skönheten personifierad" "^det är mälaröjäntan . . ." (c>B)(B>G) D2 D>B, | (G,>B,)(D>G) (BA/B/) (c>B) |"D7" (B>A)(A>F) D2 (cB/c/) | 
+(d>c)(c>A) F2 ^G>A | (B>A)(A>F) D2 D>C | (A,>D)(D>F) (A>B)(c>d) |"G" e2 d2 B2 B>c | 
+(e>d)(d>B) G2 F>G | (c>B)(B>G) D2 D>B, | (G,>B,)(D>G) (BA/B/) c>B |"Am" A2 E2 E3 E | 
+(C>E)(E>G) c2 (d>c) |"G" (B>B,)(D>G) B2 (c>B) | "D7" (A>D)(F>A) d3 F |1"G" G2 B2 G2 (B>c) :|2 "G" G2 B2 G3 z |:
+[K:C]"C" c>e(d>c) B>d(c>A) | G2 c2 C>E(G>E) | C>E(G>c) e>d(c>B) |"F" A2 F2 F4 |
+"Dm" d>f(e>d)"A7" ^c>e(d>c) | "Dm" d2 A>F D2 D>C | "G7" (B,>D)(G>B) (d>c)(B>A) |"C" (G>A)(G>F) E3 G | 
+c>e(d>c) B>d(c>B) | c2 G>E C2 E>G | "G7" c>e(d>c) B>d(c>B) |"Dm" (B>A)(A>F) A,4 | 
+(D>F)(F>A) d2 d2 | "C" (C>E)(E>G) c2 c2 |"G7" B,2 (D>G) (B>c)(d>B) |1"C" c2 e2 c4 :|2 "C" c2 e2 c2 (dc/d/) | G2 B2 G4 |:
+"C" e3 d c2 (B>A) | (A>G)(G>E) C2 (E>G) | C2 (E>G) C2 (E>G) | "G7" (G>F)(F>D) B,4 | 
+(G,>B,)B,>D G2 G2 | "C" (G,>C)C>E G2 G>E | "D7" D2 ^F>A (d>e)d>c | "G7" B2 A2 G3 z | 
+"C" e3 d (d>c)(c>G) | (G>E)(E>C) G,4 | "A7" A,2 ^C>E A2 ^c>A |{A}"Dm" d2 A>F D2 F>A |
+{A} d>ed>^c d2 e>d | "C" c>dc>B c2 d>c |"G7" B>AG>F D3 B, |1 "C" C2 E2 C3 z :|2 "C" C2 E2 C2 |] 
+V:2
+"^2" BA/B/ |: c>BB>G D2 B,>D | A>GG>D B,2 G>D | B,>DG>B GF/G/ A>G | G>FF>D C2 AG/A/ | 
+B>AA>F D2 E>F | G>FF>D A,2 F>E | D>FF>A F>GA>B | c2 B2 G2 G>A | c>BB>G D2 B,>D | A>GG>D B,2 G>D | 
+B,>DG>B GF/G/ A>G | E2 C2 C3 C | G,>CC>E A2 B>A | G>G,B,>D G2 A>G | F>A,D>F F3 D |1 B,2 D2 B,2 G>A :|2 B,2 D2 B,3 z |:
+[K:C] E>GF>E D>FE>D | C2 E2 G,>CE>C | G,>CE>G c>BA>G | F2 A,2 A,4 | F>AG>F E>GF>E | F2 F>D A,2 B,>A, | G,>B,D>G B>AG>F | E>FE>D C3 E | 
+E>GF>E D>FE>D | E2 E>C G,2 C>E | E>GF>E D>FE>G | G>FF>D D4 | A,>DD>F F2 F2 | G,>CC>E E2 E2 | 
+G,2 B,>D G>AB>G |1 E2 G2 E4 :|2 E2 G2 E2 BA/B/ | B,2 D2 B,4 |:
+G3 F E2 E>F | F>EE>C G,2 C>E | G,2 C>E G,2 C>E | E>DD>B, G,4 | 
+B,>DD>G B,2 B,2 | C>EE>G C2 E>C | A,2 D>^F A>BA>F | D2 C2 B,3 z |
+G3 F F>EE>C | C>GG>E C4 | ^C2 E>A ^c2 A>E | F2 F>D A,2 D>F | 
+F>GF>E F2 G>F | E>FE>D E2 G>E | G>FE>D B,3 D |1 E2 G2 E3 z :|2 E2 "^B.O." G2 E2 |]
+

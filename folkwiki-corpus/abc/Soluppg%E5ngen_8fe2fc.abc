@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Soluppgången
+T:Polska av Tommy Gjers Siljansnäs
+C:Tommy Gjers
+R:Polska
+O:Siljansnäs, Dalarna
+Z:Karin Helander
+N:Tommy Gjers 2004
+M:3/4
+L:1/8
+K:D
+V:1
+|: v(A,/ | (3:2:3 D2) u(D2 E2) F>D | (G<B) A2 F>E | ((3:2:4 DA,) (D2 E2) F>D | (G<B) A2>> v(A2 |
+B>{cB}A) u(Bd) f>e | (3:2:4 (dc)(B2{cB}A2) (F2 | F>)(E D<F) E>D | (B,<C) uD2>> :|
+|: v([A2D2]| (3 f2) (g2 b2) a>g | (3:2:4 (fe) (d2 c2) (B2 | (3:2:3 B2) (d2 f2) e>d | (g<b) a2>> (A2 |
+f>)(f g/f/)g/b/ a>g |(3:2:4 (fe) (d2 c2) (B2 | (3:2:3 B2) (d2 f2) e>d | (e<{fe}f) d2>> :|
+V:2
+|: v(A,/ | "D" (3 A,2) u(A,2 C2) D>A, | "G"(D<G) "D" F2 D>C | "D" (3:2:4 (A,D) (A,2 C2) D>A, | "G" (D<G) "D" F2>> v(F2 | 
+"G" G>F) u(GB) "D"(d>c) | "Bm" (3:2:4 (BA) "A/C#" (A,2 C2) "D" (D2 | "D" D>)(C A,<D) "A" C>A, | "A" (G<A) "D" uF2>> :|
+|: v(F2 | "D" (3 d2) "G" (d2g2) "D" f>e | "D" (3:2:4 (dc) (B2 A2) "G" (G2 | "G"(3: G2 ) (B2 d2) "A" c>B | "G" (d<g) "D" f2>> (f2 | 
+"D" d>)(d "G" e/d/)e/g/ "D"f>e | "Bm" (3:2:4 (DE) "A4,3" (F2 A2) "G" (G2 | "G" (3: G2) (B2 d2) "A" c>B | "A" (G<A) "D" A2>> :|
+

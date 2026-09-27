@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Fånt vi se då, fånt vi se då...
+O:Säter, Dalarna
+C:Roland Johansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Roland Johansson, Säter."
+L:1/16
+M:2/4
+K:Bb
+V:1
+"^1" FB |:"Bb" d2Bd"F7" e2dc |"Bb" BcBG F2de | fgfd "F7" ecA2 | "Bb" d6 FB | 
+d2Bd"F7" e2dc | "Bb" BcBG F2de | fgfd"F7" ecA2 |1"Bb" B6 FB :|2"Bb" B6 f2 |:
+"Eb" b2>g2 e2eg |"Bb" fgfd B2Bd | "F7" f2gf e2fe |"Bb" d6 f2 |
+"Eb" b2>g2 e2eg |"Bb" fgfd B2Bd |"F7" fgfd ecA2 |1"Bb" B6 f2 :|2 "Bb" B6 ff |:
+"Bb" bbbb aaaa | "Eb" g2g2 "Bb" f4 | "F7" f2f2 e2Ac |"Bb" B2d2 f2ff | 
+"Bb" bbbb aaaa | "Eb" gggg "Bb" f2>d2 | "F7" f2f2 a2a2 |1 "Bb" b6 ff :|2 "Bb" b6 z2 |] 
+V:2
+"^2" B,D |: B2FB A2GA | GAGE B,2Bc | dedB cAF2 | B6 B,D | 
+B2FB A2GA | GAGE B,2Bc | dedB cAF2 |1 D6 B,D :|2 D6 d2 |: 
+g2>e2 B2Be | dedB F2FB | d2ed c2dc | B6 d2 | g2>e2 B2Be | 
+dedB F2FB | dedB cAE2 |1 D6 d2 :|2 D6 dd |: 
+gggg ffff | e2e2 d4 | d2d2 c2FA | F2B2 d2 dd | 
+"^Sångtext sista repr:""^Fånt vi se då, fånt vi se då, hur de sen ska bli.""^Vad som händer å vad som sker.""^Fånt vi se då, fånt vi se då, vad som händer vad som sker.""^Och sist se hur det blev."gggg ffff | eeee d2>B2 | d2d2 c2c2 |1"^Uppt. o stämförslag B.O." d6 dd :|2 d6 z2 |]
+

@@ -1,0 +1,37 @@
+%%abc-charset utf-8
+
+X:122
+T:Ålandskadrilj
+T:(Sv Folkdanser Del 1)
+O:Åland
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 122. Ålandskadrilj"
+Z:http://runeberg.org/folkdans/besk/0222.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 122
+L:1/16
+M:4/4
+K:D
+V:1
+"^1""^Förspel" FG | A6 gf e2dd d2FG | A2e2 (ea)ec d2f2 d2 z2 |: [K:D][M:4/4]"^Dans"[K:treble]"^(1)" dfA2 d2c2 B2A2 G2F2 | 
+g2>f2 e2d2 cdB2 A4 | dfA2 d2c2 B2A2 G2F2 | g2>f2 edc2 c4 d4 ::
+"^(2)"(ab)a^g a2f2 d4 (dA)df |  e4 (eA)ce g2f2 f2df | (ab)a^g a2f2 d4 (dA)df | e2g2 (fa)ge d2f2 d4 :: 
+"^(3)" AFd2 AFd2 BGB2 (gf)ed | "^1:a 2 ggr. 2:a 2 ggr. 3:e 2 ggr. 4:e 2 ggr. spelas 2 ggr."c2A^G (AB)cd (dc)BA (A=G)FG | AFd2 AFd2 BGB2 (gf)ed |
+c2A^G (AB)ce d2f2 d4 :: "^(4)" a4 (aa)ba (ag)gg b2aa | g2ec A2g2 (ga)ge d2FG | 
+A6 gf e2dd d2FG | A2e2 (ea)ec d2f2 d4 ::[K:G]"^(5)" G2g2 g2e2 (de)dc d2B2 | c2c2 c2e2 (de)dc (Bc)AB | 
+ G2g2 g2e2 (de)dc d2B2 |1 c2c2 (ec)AF G2B2 G4 :|2 c2c2 (ec)AF G2B2 G2>B2 |: 
+"^(6)" (dc)Bc "^5:e 2 ggr. 6:e 2 ggr. spelas 5 ggr. därefter: 1:a 2 ggr. 7:e 1 ggr. 8:e 2 ggr."(Ac)Bc (ed)^cd B2g2 | g2dg g2dg g2ba (gf)ed | (dc)Bc (Ac)Bc (ed)^cd B2^c'2 | (c'b)ba (ag)gf f4 g4 :|
+"^(7)" b4 g4 a2a2 a4 | c'4 f4 a2g2 g4 | b4 g4 a2a2 a4 | c'4 f4 a2g2 g2Bc |:
+"^(8)" d4 (dc)"^Marsch"Bc d4 (dc)Bc | d2g2 b2a2 g2f2 e2d2 | c4 (cB)AB c4 (cB)AB | c2ed c2AF G2B2 G4 :| 
+V:2
+"^2" DE |"D" F6 BA G2FF F2DE |"A7" E2A2 (ce)cA"D" F2A2 F2 z2 |: [K:D][M:4/4][K:treble]"D" FAF2 B2A2 G2F2 E2D2 |
+"A7" e2>d2 c2B2 AGE2 C4 | "D"FAF2 B2A2 G2F2 E2D2 | "A7"e2>d2 cBA2 E4 "D"F4 :: 
+"D" (fg)fe f2d2 F4 (FD)Fd | "A7"c4 (cE)Ac "D"e2d2 d2Ad | (fg)fe f2d2 F4 (FD)Fd | "A7" c2e2 (df)eA"D" F2A2 F4 :: 
+"D" FDF2 FDF2 "Em"GEG2 (ed)cB | "A7"A2ED (E^G)AB (BA)EC (CE)DE | "D"FDF2 FDF2 "Em"GEG2 (ed)cB | 
+"A7" A2ED (E^G)A=G "D"F2A2 F4 :: "D"f4 (ff)gf "A7"(fe)ee g2ff |e2cA E2e2 "D" (ef)ec F2DE | 
+F6 BA G2FF F2DE |"A7" E2A2 (ce)cA"D" F2A2 F4 ::[K:G]"G" B,2B2 B2c2 (Bc)BA B2G2 | 
+"D7" A2A2 A2c2"G" (Bc)BA (GA)FG | B,2B2 B2c2 (Bc)BA B2G2 |1"D7" A2A2 (cA)FD"G" B,2D2 B,4 :|2 "D7"A2A2 (cA)FD "G"B,2D2 B,2>D2 |:
+[Q:1/4=62] "D7"(BA)GA (FA)GA"G" (cB)AB G2e2 | B2GB B2GB B2gf (ed)cB | "D7"(BA)GA (FA)GA "G"(cB)AB G2f2 | "D7"(ed)dc"G" (cB)BA"D7" A4 "G"B4 :|
+"G" d4 B4"D7" c2c2 c4 | "D7" d4 A4"G" c2B2 B4 |"G" d4 B4"D7" c2c2 c4 | "D7" d4 A4 c2B2 B2GA |: 
+"G" B4 (BA)GA B4 (BA)GA | B2d2 g2f2 e2d2 c2B2 | "D7" A4 (AG)FG A4 (AG)FG | "^Stämförslag B.O." A2cA A2FD "G" B,2D2 B,4 :|
+

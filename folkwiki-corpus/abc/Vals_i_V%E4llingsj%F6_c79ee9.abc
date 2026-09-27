@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals i Vällingsjö
+R:Vals
+O:Kramfors, Ångermanland
+M:3/4
+L:1/8
+K:C
+c'2|"_Am" c'4 a2 | a4 f2 |"_Dm"(f6 |f4) b2 |"_G7" b4 g2 | g4 e2 |
+"_C"(e6 | e4) a2 | "_F" a4 f2 | f6 |"_ Bb" f4 d2 | d6 | "_E7"e6 |
+ "_Am"c6 |"_E7" (B6 | B) z z2 z2 |"_Am" c'4 a2 | a4 f2 |"_Dm"(f6 |f2) z2 z2 |
+"_G7" b4 g2 | g4 e2 |"_C"(e6 | e2) z2 z2 |"_F" a4 f2 | f6 | "_Bb" f4 d2 | d6 |
+"_E7" e6 | ^G6 |"_Am" (A6 | A2) z2 z2]|:"_Dm" D2 F2 F2|"_G7" F2 G2 F2 |"_C" E2 G2 E2 |
+"_Am" C2 E2 C2 |"_Dm" D2 F2 F2|"_G7" F2 G2 F2 |"_C" E2 G2 E2 | C2 E2 G2 |"_Dm" D2 F2 F2|"_G7" F2 G2 F2 | 
+"_C" E2 G2 E2 |"_Am" C2 E2 C2 |"_Dm" D2 F2 F2|"_G7" F2 G2 F2 | "_C" E2 G2 E2 | C2 E2 G2 :|
+[ [K:F] C2 |"_F" A4 A2 | c3 c c2 |"_C7" A4 A2 |"_Dm" e4 e2 |"_Gm" d4 d2 |
+ "_D7" b4 b2 |"_Gm" g6 | g2 g2 g2 |"_C7" g2 gg g2 | g2 g2 g2 |"_F" f2 ff f2 | f2 f2 f2 |
+"_Bb" B2 BB B2 |B2 B2 B2 |"_C7" c2 cc c2 | c2 c2 c2 |"_F"  A4 A2 |"_C7" c3 c c2 |"_Dm" A4 A2 |
+"_Dm7" e4 e2 |"_Gm" d4 d2 |"_D7" b4 b2 |"_Gm" g6 | g2 g2 g2 | "_C7" g2 gg g2 | g2 g2 g2 |
+"_F" f2 ff f2 |"_Dm" f2 f2 f2 |"_Gm" g2 gg g2 |"_C7" g2 g2 g2 |"_F" f6 | f2 z2 z2 :|]
+

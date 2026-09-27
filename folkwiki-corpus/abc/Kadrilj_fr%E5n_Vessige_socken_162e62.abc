@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:201
+T:Kadrilj från Vessige socken
+T:(SvL Halland 201)
+O:Vessige socken, Halland
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 53. Kadrilj från Vessige socken Sv.L. Halland nr. 201."
+Z:http://runeberg.org/folkdans/besk/0216.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 53
+B:Svenska Låtar Halland Nr 201
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" f2fe f2a2 | d2dc d2f2 | e2ed e2f2 | d6 [|[K:D]"^Dans"[K:treble] A"^(1)"d | f2{g}fe f2a2 | d2{e}dc d2f2 | 
+e2{f}ed e2fa | (gf)ge d2Ad | f2{g}fe f2a2 | d2{e}dc d2f2 | e2ed e2f2 | d6 ef |]
+"^(2)" g4 g2f2 | "^Spelas 4ggr.  Avslutas med 1:a, 2:a och 3:e repr. en gång vardera."f2e2 e2fg | a4 a2g2 | g2f2 f2a2 | d'2c'2 d'2b2 | b2a2 f2a2 | 
+a2ba (gf)ge | d6 A2 |]"^(3)" d6 Ad | f6 d2 | .c2.d2 .e2.f2 | .g.a.g.f e2ef | 
+g4 (ga)gf | e4 e2d2 | (cd)ef g2c2 | d6 FG |]:"^(4)" A2A^G .A.B.c.d | .e2.e.d .e2>.f2 | 
+g2gf e2ed | c2{d}cB A4 | d2e2 f2g2 | aaaa a2g2 | ffff f2e2 |1 d6 FG :|2 d6 z2 |] 
+V:2
+"^2""D" d2dc d2f2 | F2FE F2A2 |"A7" G2GF G2A2 |"D" F6 [|[K:D][K:treble] FA |"D" d2{e}dc d2f2 | F2{G}FE F2A2 |
+"A7" G2{A}GF G2Ad |"D" (ed)cA F2FA | d2{e}dc d2f2 | F2{G}FE F2A2 | "A7" G2GF G2A2 |"D" F6 cd |]
+"A7" e4 e2d2 | d2c2 c2de |"D" f4 f2e2 | e2d2 d2f2 |"G" f2e2 f2d2 | "D" g2f2 d2f2 |
+"A7" c2dc (ed)cG |"D" F6 F2 |]"D" F6 DF | A6 F2 |"A7" .E2.F2 .G2.A2 | .e.f.e.d c2cd | 
+ e4 (ef)ed | c4 c2B2 | (AB)cd c2G2 |"D" F6 DE |]:"D" F2FE .F.G.A.B | "A7" .c2.c.B .c2>.d2 | 
+e2ed c2cB | A2{B}AE C4 |"D" F2A2 d2e2 |"A7" ffff f2e2 | "^Stämförslag B.O." dddd d2A2 |1 "D"  F6 DE :|2"D" F6 z2 |]
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals från Enviken
+R:Vals
+O:Enviken, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"23. Vals från Enviken. Trad, från LP."
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1"v e3 fed | c2 A2 Ac | B2 (E^G) BG | A4 G2 | 
+(G2 c2) e2 | (g3 a) g2 | f2 (ef) ag |1 e6 :|2 e6 |:
+v (a3 b) a2 | (g3 a) g2 | f2 (ef) ag | (e3 c) A2 | 
+(a3 b) a2 | (g3 a) g2 | f2 (ef) ag | e3 cAB | 
+c2({d} cB) ce | B3 ^GEG | B2({c} BA) Bc | A6 :| 
+V:2
+|:"^2""Am" c4 B2 | A4 E2 |"E7" D4 B,2 |"Am" C4 D2 
+|"C" E4 G2 | c4 c2 |"Dm" A2 A2 B2 |1 "Am" c6 :|2"E7" ^G6 |:
+"F" f4 f2 |"C" e4 e2 |"Dm" d2 (^cd) fe |"Am" c4 E2 |"F" f4 f2 | 
+"C" e4 e2 |"Dm" d2 (^cd) fe |"Am" [^GB]4 E2 | 
+A4 A2 |"E7" ^G4 B,2 | "^B.O." D4 E2 |"Am" C6 :|
+

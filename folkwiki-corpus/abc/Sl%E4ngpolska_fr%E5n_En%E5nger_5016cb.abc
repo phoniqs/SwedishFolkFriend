@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Slängpolska från Enånger
+S:Efter Bör-Johan
+O:Enånger, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" G>G B>d c>B | A>D (F<A) d2 | (F>G) (A>c) B>A | G>G (B<d) g2 | 
+G>G B>d c>B | A>D (F<A) d2 | (F>G) (A>c) B>A | G2 G3 z :: 
+c>c (3ece (g>e) | c>c (3ece g2 | G>G (3BGB (d>B) | G>G (3BGB d2 | 
+(D>F) (A>d) f>e | d>D (F<A) d2 | (F>G) (A>c) B>A | G2 g3 z :| 
+V:2
+|:"^2" B,>B, G>B A>G | F>A, (D<F) F2 | (D>E) (F>A) F>D | B,>B, (G<B) B2 |
+ B,>B, G>B A>G | F>A, (D<F) F2 | (D>E) (F>A) F>E | B,2 B,3 z ::
+ E>E (3cGc (e>c) | E>E (3cGc e2 | B,>B, (3GDG (B>G) | B,>B, (3GDG B2 |
+ (A,>D) (F>A) d>A | F>A, (D<F) F2 | (D>E) (F>A)"^Stämförslag B.O." F>D | B,2 B3 z :|
+

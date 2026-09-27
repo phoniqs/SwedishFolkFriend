@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:112
+T:Trekarlspolska
+T:(Sv Folkdanser Del 1)
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 112. Trekarlspolska"
+Z:http://runeberg.org/folkdans/besk/0269.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 112
+N:Mycket spridd polska, från Jämtland och Malung över Roslagen till svenskfinland, under 1800-talet. Sv. Ungdomsringens variant skiljer dock ut sig från de folkliga uppteckningarna.
+L:1/8
+M:3/4
+K:Bb
+V:1
+"^1""^Förspel""Bb" d2 (d>c) B>d |"F7" (3(ded) (c>A) F>=e | f2 (f>g) f>A |"Bb" (c<B) B4 |] 
+[K:Bb][M:3/4][K:treble]"^Dans""^(1)""Bb" d2 (d>c) B>d |"F7" (3(ded) (c>A) F>=e | f2 (f>g) f>e |"Bb" (3(ede) (f>d) B>c | 
+d2 (d>c) B>d |"F7" (3(ded) (c>A) F>=e | f2 (f>g) f>A |"Bb" (c<B) B4 |]: 
+"^(2)""Gm" B2 (B>A) G>B |"D7" (3(BcB) (A>^F) D>A |"Gm" B2 (B>A) G>B |"D7" A2 d4 | 
+"Gm" B2 (B>A) G>B |"D7" (3(BcB) (A>^F) D>A |"Gm" B2 (B>A) G>B |"D7" A2 d4 :| 
+V:2
+"^2" B2 (B>F) D>B | (3(BcB) (A>F) C>A | A2 (A>B) A>F | (E<D) D4 |] 
+[K:Bb][M:3/4][K:treble] B2 (B>F) D>B | (3(BcB) (A>F) C>A | A2 (A>B) A>c | (3(cBc) (d>B) F>A | 
+B2 (B>F) D>B | (3(BcB) (A>F) C>A | A2 (A>B) A>F | (E<D) D4 |]: G2 (G>D) B,>G | 
+(3(GAG) (^F>"^Spelas  4 ggr.""^1:a  1 ggr.        2:a  2 ggr.        1:a  1ggr."D) A,>F | 
+G2 (G>D) B,>G | ^F2 [FA]4 | G2 (G>D) B,>G | (3(GAG) (^F>D) A,>F | "^Stämförslag B.O." G2 (G>D) B,>G | ^F2 [FA]4 :|
+

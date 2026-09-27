@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:202
+T:O'lars-Eriks vals
+C:O-Lars Erik Fernmalm
+R:Vals
+O:Järvsö, Hälsingland
+Z:Hudiksvalls spelmanslag 202
+Z:2017-01-06
+L:1/8
+M:3/4
+K:G
+V:1
+"G" G,2 B,2 B,C |"G" D2 g3 a |"G" g2 Bc BA |"C" c2 d2 c2 |"Am" E3 E E2 |"D" D2 F2 A2 | "D" d2 f3 e |
+"D" d2 ^cd ed |"G" B2 Bc BA |"G" G,2 B,2 B,C |"G" D2 g3 a |"G" g2 Bc BA | "C" c2 d2 c2 |"Am" E3 E E2 |
+"D" D2 F2 A2 |"D" d2 f3 e |"D" d2 ^cd ef |"G" g3"D7" a gf |1 "G" g4!fine!  D2 :|2"G" g4 B2 |]
+|: "Em" e3 g fe |"G" B3 c BA |"Em" G2 AG"D" FD |"Em" E4 G2 | "Bm/D" FG FD"D" FA |"G" Bc BA B2 |
+"Em" GA GF ED |"Em" E4 B2 |"Em" e3 g fe |"G" B3 c BA | "Em" G2 AG"D" FD |"Em" E4 G2 |
+"Bm/D" FG FD"D" FA |"G" Bc BA B2 |"Em" GA GF ED |1 "Em" E4 B2 :|2"Em" E4 z2 |] 
+V:2
+G,2 G,2 G,A, | B,2 B3 c | B2 GA GF | E2 F2 E2 | C3 C C2 | A,2 D2 F2 | A2 d3 c | A2 AB cB | G4 z2 | 
+G,2 G,2 G,A, | B,2 B3 c | B2 GA GF | E2 F2 E2 | C3 C C2 | A,2 D2 F2 | A2 d3 c | A2 AB cd | B3 c BA |1 B4 z2 :|2 B4 B2 |]
+|: B3 e dc | G3 A GF | E2 FE DA, | B,4 D2 | DE DB, DF | GA GF G2 | 
+EF ED B,A, | B,4 E2 | B3 e dc | G3 A GF | E2 FE DA, | B,4 E2 | DE DB, DF | "^Sluta med första reprisen" GA GF G2 | 
+EF ED B,A, |1 B,4 E2 :|2 B,4 z2 |]
+

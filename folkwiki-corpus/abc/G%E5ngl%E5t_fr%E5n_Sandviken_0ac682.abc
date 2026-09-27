@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Sandviken
+O:Sandviken, Gästrikland
+R:Gånglåt
+C:Edvin Holmberg
+B:Låtar för fiol av Edvin Holmberg
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:2/4
+K:G
+V:1
+"^1" (Bc) |: (d>b)gd (B>G)AB | (c>e)cA E2AG | (F>d)Ec (D>B)FA | (G>A)Be d2Bc | 
+(d>b)gd (B>G)AB | (c>e)cA E2AG | (F>G)FE (D>c)EF |1 G2B2 G2 (Bc) :|2 G2B2 G2 (gf) |: 
+(e>G)ce g2ag | (d>B)GB d2ed | (c>A)FA c2ed | (B>D)GB d2gf | (e>G)ce g2ag | 
+(d>B)GB d2ed | (c>a)fd (c>d)fa |1 g6 (gf) :|2 g6 z4 |] 
+V:2
+"^2" (GA) |:"G" B2BG "G7" =F2FD |"Am" E2EC A,2FE |"D7" (D2C2) (B,2A,2) |"G" B,2DG B2GA | 
+B2BG"G7" =F2FD |"Am" E2EC A,2FE |"D7" D2DC A,2DC |1"G" B,2D2 B,2 (GA) :|2 "G" B,2D2 B,2 (ed) |:
+"C" c2Gc e2dc |"G" B2DG B2cB | "D7" A2DF A2BA | "G" G2B,D "G7" =F2ed |"C" c2Gc e2dc | 
+"G" B2DG B2cB |"D7" A2AG F2Ac |1"G""^Stämförslag B.O." B6 (ed) :|2"G" B6 z4 |]
+

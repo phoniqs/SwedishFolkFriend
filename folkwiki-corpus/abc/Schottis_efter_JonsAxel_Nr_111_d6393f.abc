@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:111
+T:Schottis efter Jons-Axel Nr 111
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Schottis
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 111. Schottisch"
+L:1/8
+Q:1/4=80
+M:2/4
+K:G
+V:1
+|:"^1"v GB{c} B/A/.B/.c/ | ed (d/^c/)d | ba({b} a/^g/)a | dg({a} g/f/)g | 
+GB{c} B/A/.B/.c/ | ed (d/^c/)d | ba({b} a/^g/)a | dg g z ::
+[K:D]v b2 (.b/.b/)b/ub/ | bf ge | f/g/a AB/c/ | d2 (.B.f) | 
+a2 (.a/.a/)a/ua/ | f(a/g/) df | ea A(B/c/) |1 dd d z :|2 dd du (3(g/f/g/) |:
+[K:G]v ac c(d/c/) | Bd/B/ GB/G/ | DF/A/ df/a/ | bg g (3(g/f/g/) | ac c(d/c/) |
+Bd/B/ GB/G/ |1 DF/A/ df/a/ | gg gu (3(g/f/g/) :|2 D(F/A/) d>c | BG G z |] 
+V:2
+|:"^2""G" DG G>A | cB BB |"D7" dc (c/B/)c |"G" Bd (d/c/)d | 
+DG G>A | cB BB |"D7" dc (c/B/)c | "G" Bd B z ::
+[K:D]"Em" d2 d>d | dA B>G |"A7" AE CG |"D" FD FA | 
+=c2 c>c | AA F>A |"A7" GG E(F/G/) |1 "D" FF F z :|2"D" FF FB |:
+[K:G]"D7" cA F>A |"G" GG D>B, | "D7" A,D/F/ AB/c/ | "G" dB BB | 
+"D7" cA F>A | GG D>B, |1"D7" A,D/F/ AB/c/ |"G" BB BB :|2"D7" "^Stämförslag B.O." A,(D/F/) AF | "G" DB, B, z |]
+

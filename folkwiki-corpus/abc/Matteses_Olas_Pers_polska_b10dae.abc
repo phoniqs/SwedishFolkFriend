@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:32
+T:Matteses Olas Pers polska
+T:(Huppleken Sv Folkdanser Del 1)
+O:Björbo, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Huppleken tur 2, polska 1
+Z:"Sv Folkdanser Del 1 32. Huppleken från Dala-Floda samt även nr 34. Huppleken från Dala-Floda"
+Z:http://runeberg.org/folkdans/besk/0169.html
+Z:Spelas en gång. Vartannat par.
+Z:Från inspelning av [[Personer/Olof Tillman]] 1957
+B:[[Notböcker/Beskrivning av Svenska Folkdanser Del 1]] Nr 32 och Nr 34
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Tur 2.   Vartannat par.   Polska 1." A- |: A>G F>A d2- | dB Be e2- | e>(f g>)(f e>)d |(c/d/c/B/) (A/B/A/G/) F>G | 
+A>G F>A d2- | dB Be e2- | e>(f g>)(e f>)d | e>(c d2) f>d | 
+A>F D>a a2 | (f>d) (g/f/g/)a/ b2- | b>(f g>)(e f>)d | (e/f/e/d/) (c>A) A2- | 
+A>F D>a a2 | (f>d) (g/f/g/)a/ b2- | b>(f g>)(e f>)d |1 (e>c) d3 A- :|2 (e>c) d3 z |] 
+V:2
+"^2" F- |: F>E D>F B2- | BG Gc c2- | c>(d e>)(d c>)B | (A>G) (F>E) D>E | 
+F>E D>F B2- | BG Gc c2- | c>(d e>)(c d>)B | c>(A F2) d>A | 
+F>D A,>f f2 | (d>B) e>f g2- | "^Spelas en gång" g>(d e>)(c d>)B | (c>B) (A>E) F2- | 
+F>D A,>f f2 | (d>B)"^Från inspelning av Olof Tillman 1957." e>f g2- | g>(d e>)(c d>)B |1 (c>A) F3 F :|2"^Stämförslag B.O." (c>A) F3 z |]
+

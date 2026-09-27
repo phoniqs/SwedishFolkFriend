@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Springlek efter Perbjörs Erik
+S:Efter "Fjös-Erik"
+O:Lima, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Perbjörs Erik Persson
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1""^Springlek" d2 (ef) (fa) | a2 (3(=gag) f2 | d2 (ef) fa | g2 a4 ::
+[K:F] g2 (fd) e>^c | A(^c BG) A>c | e>(g (3f)df e>^c | ^c2 A4 | 
+g2 (fd) e>^c | A>(^c (3B)GB A>c | e(g (3f)df e>^c | ^c2 d4 :| 
+V:2
+|:"^2" F2 (Ad) (df) | f2 (3(efe) d2 | F2 (Ad) df | B2 c4 ::
+[K:F] e2 (dA) ^c>A | E(A GD) E>A | ^c>(e (3d)Ad c>A | A2 E4 |
+e2 (dA) ^c>A | E>(A (3G)DG E>A | ^c(e (3d)Ad c>A | "^Stämförslag B.O." E2 F4 :| 
+

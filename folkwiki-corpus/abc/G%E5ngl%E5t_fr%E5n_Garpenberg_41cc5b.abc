@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Garpenberg
+S:Erik Kleofas Hedbom
+O:Dormsjö, Garpenberg, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Erik K. Hedbom (1842-1916), Dormsjö."
+L:1/8
+M:2/4
+K:A
+V:1
+"^1" E |: E>A cA | E2 Ac | B>c df | e2 cd/c/ | B>c dB | 
+GE GB | A>B cA | E3 E | E>A cA | E2 Ac | B>c df | 
+e2 cd/c/ | B>c dB | GE GB | B>A AA |1 A3 E :|2 A3 c |: 
+e>a af | d2 df | f>e ce | A2 EA | c2 EG | B2 EG | 
+A>B cd | e2 Ac | e>a af | d2 df | f>e ce | A2 EA | 
+c2 EG | B2 EG | B>A AA |1 A3 c :|2 A3 z |] 
+V:2
+"^2" C |: C>E AE | C2 EA | G>A Bd | c2 A2 | G>A BG | 
+EB, ED | C>E AE | C2 B,2 | C>E AE | C2 EA | G>A Bd | 
+c2 A2 | G>A BG | EB, ED | D>C CC |1 [CE]3 C :| [CE]3 A |: 
+c>f fd | F2 Fd | d>c Ac | E2 CE | A2 B,E | G2 B,E | 
+C>E AB | c2 CA | c>f fd | F2 Fd | d>c Ac | E2 CE | 
+A2 B,E | G2 B,E | D>C CC |1 [CE]3 A :|2"^Stämförslag B.O." [CE]3 z |]
+

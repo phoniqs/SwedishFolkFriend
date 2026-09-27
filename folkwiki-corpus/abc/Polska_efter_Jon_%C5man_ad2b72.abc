@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Jon Åman
+S:Jon Åman
+O:Jälkarbyn, Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (29) efter Jon Åman, Jälkarbyn, Hedemora."
+L:1/16
+M:3/4
+K:Dm
+V:1
+|:"^1" A2>(^c2 de)dc A2>c2 | d2^cd (e^f)ed c2>e2 | (e2>a2) (ga)ge f2>e2 | d2>(f2 ef)e^c A4- | 
+A2>(^c2 de)dc A2>c2 | d2^cd (e^f)ed c2>e2 | (e2>a2) (ga)ge f2>e2 | (d2<^c2) d8 :: 
+A2>b2 a2^ga b4 | a4 (3(gag) ^fg a2>e2 | f2>(a2 ga)ge f2>e2 | d2>(f2 ef)e^c A4- | 
+A2>b2 a2^ga b4 | a4 (3(gag) ^fg a2>e2 | f2>(a2 ga)ge f2>e2 | (d2<^c2) d8 :| 
+V:2
+|:"^2" D2>(E2 FG)FE ^C2>E2 | F4 (GA)GF E2>A2 | (A2>d2) (^cd)cA A2>G2 | F2>(A2 GA)GE ^C4 | 
+D2>(E2 FG)FE ^C2>E2 | F4 GAGF E2>A2 | A2>d2 (^cd)cA A2>G2 | F2<E2 F8 :: 
+D2>g2 f2ef g4 | f4 e2de f2>^c2 | d2>f2 efe^c A2>G2 | F2>d2 ^cdcA E4 | 
+D2>g2 f2ef g4 | ^c4"^Stämförslag B.O." =B2AB c2>c2 | d2>f2 efe^c A2>G2 | F2<E2 F8 :|
+

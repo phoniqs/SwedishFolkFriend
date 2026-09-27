@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Turbosnoa
+C:Stephan Schneider-Simonsson
+O:Föllinge, Jämtland
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Lämplig dans: Snoa efter Ernst Grip."
+L:1/16
+M:2/4
+K:Bb
+V:1
+|:"^1" F2=EF B2AB | d2Bd (fd)Bd | c2Ac (ec)Ac | B2AB (dB)FD |
+ F2=EF B2AB | d2Bd (fd)Bd | c2Ac (ec)Ac |1 B2B2 B4 :|2,8 B2B2 B2 (3(Bcd |]
+|:[K:Eb] e2)BG (EG)Be | g2eB (GB)eB | c2=Bc (ec)Ac | B2=AB (eB)GB | 
+e2BG (EG)Be | g2eB (GB)eB | B2=AB (_AF)DF |1 E2E2 E2 (3Bcd :|2[K:Bb] E2E2 E4 |] 
+V:2
+|:"^2" D2CD F2DF | F2DF (BF)DF | A2FA (cA)FE | D2CD (FE)DB, |
+ D2CD F2EF | F2DF (BF)DF | A2FA (cA)FE |1 (DE)DC D4 :|2,8 (DE)DC D2 z2 |]
+|:[K:Eb] G2GE (B,E)GB | B2BG (EG)BG | A2GA (cA)EA | G2FG (BG)EG | 
+G2GE (B,E)GB  | "^Stämförslag B.O." B2BG (EG)BG |"^Lämplig dans: Snoa efter Ernst Grip." F2EF (FD)B,A, |1 G,2G,2 G,2 z2 :|2[K:Bb] G,2G,2 G,4 |]
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:60-årspolskan
+T:(Andrastämman)
+C:August Strömberg
+O:Bingsjö, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Tillägnad Hjort Anders på hans 60-årsdag"
+L:1/16
+M:3/4
+U:t=tenuto
+K:F
+V:2
+"^2" FG |: ABAG (tF2tG2) A2>A2 | ABAG (tF2tA2) c2>A2 | ABAG (FC)FA (cd)cA | B4 G4 D4 | 
+GAGF (tE2tF2) G2>G2 | GAGF (tE2td2) c2>d2 | efed (cd)cG (EF)EG | FGAF C4 A,2>F2 | 
+ABAG (tF2tG2) A2>A2 | ABAG (tF2tA2) c2>c2 | fgfc (AB)Ac (Bc)BA | B4 F4 D4 | 
+DEDC (tD2tB2) d2>B2 | ABAG (FC)FA c2c2 | e2ge c2ec E2Gc | A4 ABAG F4 | 
+DEDC (tD2tB2) d2>B2 | ABAG (FC)FA c2c2 | e2ge c2ec E2Gc |1  A2 z2 [FA]6 FG :|2 A2 z2 [FA]6 d2 |:
+d^cde (fg)fe (de)d=c | BABc (de)dc (Bc)BA |  G^FGA (Bc)BA (GA)GF | G4 D4 [B,D]4 | 
+ED^C (tD2t^F2) G2>B2 | ABAG (FC)FA c2f2 | e2ge c2ec E2Gc | A4 ABAG F4 | 
+DEDC (tD2tB2) d2>B2 | ABAG (FC)FA c2f2 | e2ge c2ec E2Gc |1 A2 z2 [FA]6 d2 :|2 "^Stämförslag B.O." A2 z2 [FA]6 z2 |]
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Mördar-Cajsas
+C:Olov Johansson
+R:Polska
+Z:Karin Helander
+N:Väsen
+N:https://youtu.be/mhLQunZU_xA
+L:1/8
+M:3/4
+K:Am
+V:1
+z> e | a2 (e/f/)e/d/ e>c | (3:2:4 B2 E2 ^GB A>e | a2 (e/f/)e/d/ e>g | 
+(3:2:4 ^f2 B2 ^df e>e | a2 (e/f/)e/d/ e>c | (3:2:4 B2 E2 ^GB (A2 | A>)(=F E>)(D C>)B, | [G,2D2] [A,4E4] :|
+|: A>B (3 c(Ac) B>^G | B>c (3 d(Bd) c>B | A>B (3 c(Ac) B>^G | B>c (3 d(Bd) c>B | 
+Aa/^g/ a2 e>=g | (3:2:4 f2 f2 ed e2 | c(d/c/ B)(c/B/ A/B/)A | G2 A4 :|
+V:2
+z> B | "Am" c2 (c/d/)c/B/ c>A | "E" (3:2:4 ^G2 B,2 EG "Am" E>B | c2 (c/d/)c/B/ c>e | 
+"B7"(3:2:4 B2 ^F2 B^d "E"B>B | "Am"c2 (c/d/)c/B/ c>A | "E"(3:2:4 ^G2 B,2 "Am"EG (E2 | E>)(=A G>)(F E>)G | "G"B2 "Am"c4 :| 
+|: "Am" E>G (3 A(EA) G>E | "E" ^G>A (3 B(^GB) A>G | "Am" E>G (3 A(EA) G>E | "E" ^G>A (3 B(^GB) "Am"A>G | 
+"Am"Ec/B/ c2 A>c | "Dm"(3:2:4 d2 d2 cB "E"^G2 | "A"[A,2E2] "G"[G,2D2] "F"[A,2F2] | "Em"[B,2E2] "Am"[C4E4] :|
+

@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Grodkällan
+T:Tsuobbuojája
+O:Malå, Lappland
+C: Michael Boman
+Q:130
+M:3/4
+L:1/8
+R:Folkmusik
+H:Grodkällan är ett utflyktsmål, en bit utanför Moskosel
+K:G
+|: "G" D2G2B2 | e2d^cde | "D" d2cBc2 | "G" e2d^cd2 
+| D2G2B2 | e2d^c de | "D" d2cA FA | "G" G2G4 
+:|: "C" g2gfe2 | "G" d2dcB2 | "D" c2cBA2 | "G" GA Bcd2 
+| "C" g2gfe2 | "G" d2dcB2 | "D" c2BA FA | "G" G2G2z2 :|
+

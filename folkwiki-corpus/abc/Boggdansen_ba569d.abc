@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Boggdansen
+S:Efter Timas Hans Hansson
+O:Ore, Dalarna
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Am
+V:1
+"^1"{ef}"^Boggdansen" e>d |: e2 (!>!a2 !>!a2) |{ab} a2 (g>^f) g>e | c2 c2 d>f | e4 d>(f | 
+e4) d>f | e4{ef} e>d :: c2 c2 d2 | e>f ed ed | c2 c2 d2 | 
+e>f ed ed | c2 c2 _B2 | A4 G>_B | A4 G>_B |1 A4{ef} e>d :|2 A4 z2 |] 
+V:2
+"^2" c>B |: c2 !>!f2 !>!f2 | f2 e>d e>c | A2 A2 B>d | "^Hej" c4 B>d |
+"^Hej" c4 B>d |"^Hej" c4 c>B :: A2 A2 B2 | c>d cB cB | A2 A2 B2 |
+ ^G>A G^F GG | E2 E2 D2 | "^Hej" E4 D>G |"^Hej" E4 D>G |1 "^Hej" E4"^Önskat antal ggr." c>B"^Stämförslag B.O." :|2"^Hej" E4 z2 |]
+

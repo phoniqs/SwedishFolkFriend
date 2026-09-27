@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:1
+T:Spelmanstankar
+C:Joel Rådberg
+O:Sandviken, Gästrikland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. och arr. Joel Rådberg, Sandviken."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1""^Vals" B,3 DGB | d3 BeB | d3 BGA | B4 D2 | C3 D B2 | A4 D2 | 
+B,3 D A2 | G6 | B,3 DGB | d3 BeB | d3 BGA | B4 D2 | C3 D B2 | 
+A3 DCA, | D3 cAF |1 [G,G]4 z2 :|2 [G,G]4u d2 |: (c3 d) c2 | 
+(DF) Ac e2 | (d3 e) d2 | (BG) DB, G,2 | (C3 D) C2 | (A,D) FA c2 | 
+(ed) BG D2 | (bg) dB G2 | (c3 d) c2 | (DF) Ac e2 | (d3 e) d2 | 
+(Bd) gb d'2 | (CE) (Gc) eg | (B,D) (GB) dg | (fe) (cA) FD |1 
+[G,G]4u d2 :|2 [G,G]4u [GB]2 |: [Bd]6 | ([B4e4] d2) | ([Ac]4 [GB]2) | 
+([F4A4] B2) | (c4 d2) | ([df]4 [ce]2) | [Bd]6 | [GB]6 | [Bd]6 | 
+([gb]4 [fa]2) | ([fa]4 [^df]2) | ([eg]4 [ce]2) | ([Bd]4 [GB]2) |1 
+([Ac]4 [CF]2) | [B,G]6- | [B,G]2u (.B,.D) .G.B :|2 ([Ac]2 [DA]2) [CF]2 | [B,G]6- | [B,G]2 z4 |] 
+V:2
+|:"^2" G,3 B,DG | B3 GcG | B3 DB,C | (D2 G2) B,2 | A,2 .[CD]2 .[CD]2 | [F2C2] A,2u B,A, | G,3 B, [CD]2 | 
+B,E DC B,A, | G,3 B,DG | B3 GcG | B3 DB,C | (D2 G2) B,2 | A,2 e2 d2 | c2 A2 F2 | D2 .[CD]2 .[CD]2 |1 [B,D]4 z2 :|2 [B,D]4 B2 |: 
+([DA]3 [DB]) [DA]2 | (A,D) FA c2 | ([GB]3 [Gc]) [GB]2 | (GD) B,G, B,D | (A,3 B,) A,2 | (FC) DF A2 | (cB) GD B,2 | (G,B,) DG B2 | 
+([DA]3 [DB]) [DA]2 | (A,D) FA c2 | ([GB]3 [Gc]) [GB]2 | (GB) dg b2 | (EC) EG ce | (G,B,) DG Be | (dc) AF DC |1 [B,D]4 B2 :|2 [B,D]4 D2 |:
+"^pizz" .G,.B, .D.G .B2 | .^G,.B, .D.E .^G2 | .A,.C .E.A .d2 | .D.A .c.d .f2 | .F.A .c.d .f2 | .D.A .c.d .f2 | .G,.B, .D.G .B2 | 
+.B,.D .G.B .d2 | .G,.B, .D.G .B2 | .B,.^D .A.B .^d2 | .B,.^D .A.B .^d2 | .C.E .G.c .e2 | .B,.D .G.B .d2 |1"^arco" ([CD]4 [A,D]2) | [G,D]6- | [G,D]2 (.G,.B,) .D.G :|2 "^arco" ([CD]4 [A,D]2) | [G,D]6- | [G,D]2 z4 |] 
+

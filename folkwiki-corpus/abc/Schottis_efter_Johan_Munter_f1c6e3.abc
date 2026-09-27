@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:228
+T:Schottis efter Johan Munter
+S:Johan Olofsson Munter
+O:Mattmar, Jämtland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Jämtland (7) efter Johan Munter, Mattmar"
+L:1/16
+M:2/4
+I:linebreak $
+K:Gm
+V:1
+"^1" D |: G>^FGA B>ABc | d>^cde f2a2 | a>gea f2d2 | d>cAd B2G2 |
+ G>^FGA B>ABc | d>^cde f2a2 | a>gea f2d2 |1 d>cAB G3 D :|2 d>cAB G3 B |:
+ d2Bd g2d2 | e>d^cd B2G2 | A>G^FG _e2d2 | d>cAd B2G2 |
+ d2Bd g2d2 | e>d^cd B2G2 | A>G^FG _e2d2 |1 d>cAB G3 B :|2 d>cAB G3 z |] 
+V:2
+"^2" B, |: "Gm"B,>A,B,D G>^FGA |"Gm" B>ABc"Dm" d2f2 |"A7" f>e^ce"Dm" d2A2 | "D7" B>A^FA "Gm"G2D2 | 
+"Gm"B,>A,B,D G>^FGA |"Gm" B>ABc"Dm" d2f2 |"A7" f>e^ce"Dm" d2A2 |1 "D7"^F>DCD "Gm"B,3 B, :|2 "D7"^F>DCD "Gm"B,3 G |: 
+"Gm"B2GB d2B2 | c>BAB G2D2 | C>B,A,B, G2^F2 | "D7"B>A^FA"Gm" G2D2 | 
+"Gm"B2GB d2B2 | "^Stämförslag B.O." c>BAB G2D2 |"D7" C>B,A,B, G2^F2 |1 "D7"^F>DCD "Gm"B,3 G :|2 "D7"^F>DCD "Gm"B,3 z |]
+

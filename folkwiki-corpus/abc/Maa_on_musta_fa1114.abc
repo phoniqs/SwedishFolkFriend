@@ -1,0 +1,12 @@
+%%abc-charset utf-8
+
+X:1
+T:Maa on musta
+R:Ringlek
+O: Kätkäsuando, Finland
+M:3/4
+L:1/8
+K:Am
+ E>D | "Am"E2 E>D E>D | E4 c>B | "C"A2 A2 "C/B"G2 | "Am"E4 c>B |
+|: "Am"A2 A2 G>E | "C"G2 G2 C>D | "E"E2 E>D C2 | "Am"A,4 c>B :| "Am"A,6 ||
+

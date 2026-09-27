@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T: Leksands Skänklåt
+M: 2/4
+L: 1/16
+N: 1943 by Dalarnas Spelmansförbund
+N: Från John Chambers
+K: Dm
+A2 \
+| "Dm"(A2f2) f2ed | "Am"e2(ef) (e2A2) \
+| "Dm"(A2d2) "Am"d2c=B | c2(cd) (c2A2) \
+| "Dm"(A2f2) f2ed | "Am"e2(ef) (e2A2) \
+| "Dm"(A2d2) "Am"d2c=B | c2(cd) (c2A2) |
+| "Dm"(A2f2) f2ed | "Gm"g2ga (ge)fg \
+| "Dm"a2ab "Am"a2ab | "Dm"(ag)fe d2([aA][gA]) \
+| [f2A2]ed "Am"(ed)c2 | "Dm"[d6D6] :: A2 \
+| "Dm"f2ag f2ed | "Am"(cd)(cB) "Dm"(AB)(AG) |
+| "Dm"(FG)(FD) "Am"(EF)(ED) | "Am"[E6A,6] A2 \
+| "Dm"f2ag f2ed | "Am"(cd)(cB) "Dm"(AB)(AG) \
+| "Dm"(FG)(FD) "Am"(EF)(ED) | "Am"[E6A,6] ag \
+| "Dm"f2ed "Am"(ed)=c2 | "Dm"[d6D6] :|
+

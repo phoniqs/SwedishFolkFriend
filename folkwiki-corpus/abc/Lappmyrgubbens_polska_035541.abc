@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Lapp-myrgubbens polska
+S:Efter Forsa-Olle
+S:Efter Gustav Kjellberg
+O:Järvsö, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Jämför Sv.L. Dalarna nr 1247
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (D |: G)F/G/ (GD) B,D | BA/B/ (cA) FA | d^c/d/ (fe) df | (f/a/)g/f/ (gd) BG | 
+GF/G/ (GD) B,D | BA/B/ (cA) FA | d^c/d/ (fe) df |1 (f/a/)g/f/ g3 D :|2 (f/a/)g/f/ [Bg]4 |: 
+d2 (b2 g2) | Bc/d/ ed [DB]2 | de/d/ (cA) FA | (A/c/)A/F/ (GD) B,G, | 
+d2 (b2 g2) | Bc/d/ ed [DB]2 | de/d/ (cA) FA | (A/c/)A/F/ G4 :| 
+V:2
+"^2" (D |:"G" B,)A,/B,/ (DB,) G,B, |"G" GF/G/"D7" (AF) DF | FE/F/ (AG) FA | "D7" (A/c/)B/A/"G" (BG) DB, | 
+B,A,/B,/ (DB,) G,B, | "G" GF/G/"D7" (AF) DF | FE/F/ (AG) FA |1 "D7" (A/c/)B/A/"G" [DB]3 D :|2"D7" (A/c/)B/A/"G" [DB]4 |:
+"G" B2 (d2 B2) | GA/B/ cB G2 | "D7" Bc/B/ (AF) DF | "D7" (F/A/)F/D/"G" (B,B,) G,D | 
+B2 (d2 B2) | "^Stämförslag B.O." GA/B/ cB G2 |"D7" Bc/B/ (AF) DF | "D7" (F/A/)F/D/ "G" [B,D]4 :|
+

@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:43
+T:Tanila
+O:Finland-Sverige
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Finland-Svensk, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" ce f>e | dd d2 |][K:D][M:2/4][K:treble]"^Dans" d>f ae | d>B (3(B/c/B/) A | e>f gg | 
+ff e2 | d>f ae | d>B (3(B/c/B/) A | e>f gg | ff e2 |]: 
+aa gg | ff ee | ce f>e | dd d2 | 
+aa gg | ff ee | ce f>e | dd d2 :| 
+V:2
+"^2" AG A>G | FF F2 |][K:D][M:2/4][K:treble] F>d fc | B>G GF | c>d ee | dd c2 | F>d fc | B>G GF | 
+c>d ee | dd c2 |]: ff ee | dd cc | AG A>G | FF F2 | cc BB | AA GG | "^Stämförslag B.O." EG A>G | FF F2 :|
+

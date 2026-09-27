@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:34
+T:På Luråsen (andrastämman)
+T:(SvL Hälsingland 34)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 34
+B:25 spelmanslåtar från Hälsingland nr 17
+O:Hassela, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]] (nr 5 i hans Hall-samling)
+N:Andrastämman ser ut att vara från [[Personer/Thore Härdelin den äldre]]
+L:1/16
+M:3/4
+K:Cm
+V:2
+|:"^2" (G,=B,)CD E2B,D [G,G]4 | (G,C)EG c2=Bd (cG)ED | G2c2 G2=B2 G4 | [^F=A]4 [FA]4 [=B,D]4 |
+(G,=B,)CD E2B,D [G,G]4 | (G,C)EG c2=Bd (cG)ED | G2c2 G2=B2 G2G2 | (GF)ED E4 z4 :: 
+(G,B,)(EB,) (GB,)(EB,) (G,B,)(EB,) | (A,C)(FC) (AC)(FC) (A,C)(FC) | (A,B,)(DB,) (FB,)(DB,) (A,B,)(DB,) | (G,B,)(EB,) (GB,)(EB,) (G,B,)(EB,) | 
+(G,B,)(EB,) (GB,)(EB,) (G,B,)(EB,) | (G,C)(EC) (GC)(EC) (G,C)(EC) | G4 =B2=AB (ce)dc | F2ED E4 z4 ::
+ [G,G]8 [A,A]4 | [G,G]8 [G,F]4 | c2c=B (=AB)cA B2BG | E2EE (CD)EG, C2CG, | 
+ (G,C)EC (G,D)FD (DG)=BG | (Gc)ec [Ec]2[Ec]2 [D=B]4 | [G,G]8 [A,A]4 | 
+ [G,G]8 [G,F]4 | (G,C)EC (=B,D)FD [=B,D]2[B,D]2 | F2ED [CE]4 z4 :|
+

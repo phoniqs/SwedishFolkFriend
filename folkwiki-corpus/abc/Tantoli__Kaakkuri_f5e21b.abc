@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:110
+T:Tantoli / Kaakkuri
+T:(Sv Folkdanser Del 1)
+O:Finland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 110. Tantoli"
+Z:http://runeberg.org/folkdans/besk/0112.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 110
+N:Musiken tryckt i ''Album utgivet av Konstnärsgillet i Helsingfors 1866'', då i F-dur.
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel""G" (GA)Bc d2ef | g2B2 e2d2 |"D7" (dc)Ac "G"(B2d2) |"D7" A2f2"G" g2 z2 |: 
+[K:G][M:2/4][K:treble]"^Dans""G" G2Bd G2Bd |"D7" (dc)Ac"G" (B2d2) |"D7" D2FA D2FA | "D7" (cB)AB"G" G4 | 
+G2Bd G2Bd |"D7" (dc)Ac"G" (B2d2) |"D7" D2FA D2FA |"D7" (cB)AB"G" G4 | 
+"G" (GA)Bc d2ef | g2B2 e2d2 |"D7" (dc)Ac"G" (B2d2) |"D7" A2d2"G" B2G2 |
+"G" (GA)Bc d2ef | g2B2 e2d2 |"D7" (dc)Ac"G" (B2d2) |"D7" A2d2"G" G2 z2 :|"D7" A2f2"G" g4 |] 
+V:2
+"^2" (B,D)GA B2cd | B2G2 c2B2 | (BA)FA (G2B2) | F2c2 B2 z2 |: 
+[K:G][M:2/4][K:treble] D2GB D2GB | (BA)FA (G2B2) | A,2DF A,2DF | (AG)FD B,4 | 
+D2GB D2GB | (BA)FA (G2B2) | A,2DF A,2DF | (AG)FD B,4 | 
+(B,D)GA B2cd | "^Spelas rätt igenom  4 ggr."B2G2 c2B2 | (BA)FA (G2B2) | F2A2 G2D2 | 
+(B,D)GA B2cd | B2G2 c2B2 | (BA)FA (G2B2) |"^Stämförslag B.O." F2A2 B,2 z2 :|"^Sluttakt" F2c2 B4 |]
+

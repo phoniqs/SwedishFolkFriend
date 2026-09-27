@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Per Wilhelm Bergström
+S:Per Wilhelm Bergström
+O:Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (33) efter P.W. Bergström, Matsbo, Hedemora."
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" A>(c B>d) cE | (D>F) (A>F) Ef | e>(d c>A) G>B | A2 E4 | 
+A>(c B>d) cE | (D>F) (A>F) Ef | e>(d c>A) G>A | (Bc/B/) A4 :: 
+e>(f e>c) e>g | a>(b a>g) B>c | d>(e f>d) c>A | GB A2 E2 | 
+e>(f e>c) e>g | a>(b a>g) B>c | d>(e f>d) c>A | (GB) A4 :| 
+V:2
+|:"^2" C>(E D>F) EC | (A,>D) (F>D) CA | c>(B A>E) D>E | C2 B,4 | 
+C>(E D>F) EC | (A,>D) (F>D) CA | c>(B A>E) D>E | D2 C4 :: 
+c>(d c>A) c>e | c>(d c>B) G>A | G>(A B>G) E>D | B,D C2 C2 | 
+c>(d c>A) c>e | c>(d c>B) G>A |"^Stämförslag B.O." G>(A B>G) E>D | (B,D) C4 :| 
+

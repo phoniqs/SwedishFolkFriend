@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+%abc-2.1
+%%beginps
+% small note head
+/shd{		% usage: x y shd
+	M 3 1.3 RM
+	-1 2.5 -6.5 0 -5.5 -2.5 RC
+	1 -2.5 6.5 0 5.5 2.5 RC fill}!
+%%endps
+%%deco head-shd 0 shd 0 0 0
+%%partsfont * box
+%%deco trillbelow 4 trl 11 4 4
+X:1
+T:Polska efter Höök Olle
+O:Rättvik, Dalarna
+M:3/4
+L:1/8
+R:Polska
+U:S=!head-shd!
+U:U=!trillbelow!
+K:Gdor
+[V:1]D|: G>A B/c/B/A/ G>A | B/A/B/c/ d3e | f/e/f/g/ ag e>g | g^f d>c TB>A | 
+[V:1]G>A B/c/B/A/ G>A | B/A/B/c/ d3 e | f/e/f/g/ ag e>g |1 g^f d3 D :|2 g^f d3 d/^c/ |
+[V:1]|: Ud2 (g>{ag}^f) g{g}(a | a2) f/g/f/e/ f2 | d2 (g>{ag}^f) g>=b | a2 ge f2 | 
+[V:1]d>c B/A/B/c/ {c}d2 | de/f/ e^c {c}d2 | d>c B/A/B/c/ d>c |1 A<^F G3 d/^c/ :|2 A<^F G3|]
+[V:2]D|: B,>D G/A/G/D/ B,>D | G/^F/G/A/ [A3F3] A | d>e fe ^c>d | dA ^F>A G>D | 
+[V:2]B,>D G/A/G/D/ B,>D | G/^F/G/A/ [A3F3] A | d>e fe ^c>d |1 dA [A3^F3] D :|2 dA [A3^F3] ([AD] |
+[V:2]|: [A2D2]) (d>{ed}^c) d{d}(e | e2) c/d/c/=B/ c2 | A2 (d>{ed}^c) d>^f | e2 d=B c2 |
+[V:2][AD]>^F G/F/G/A/ {A}[B2D2] | [BD]^c/B/ AE {E}[A2^F2] | [AD]>^F G/F/G/A/ B>G |1 D<C {A,}[D3B,3] (D :|2 D<C {A,}[D3B,3] |]
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:497
+T:Polska efter Axel Axelsson
+T:(OA 497)
+B:Sörmländska låtar samlade av Olof Andersson nr 497
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson 2025-02-01
+M:3/4
+L:1/4
+Q: 90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:C
+"^\n" G/G/4F/4 E/E/4F/4 G/G/ | A/A/ B/d/4B/4 c | G (f/d/) e/c/ | c/4B/4c/4e/4 d/4c/4B/4A/4 G/4F/4E/4F/4 |
+G/G/4F/4 E/E/4F/4 G/G/ | A/A/ B/d/4B/4 c | G (f/d/) e/c/ | e/4d/4B/4d/4 d c ::
+e/4c/4G/4c/4 e/4c/4G/4c/4 e/e/ | d/4B/4G/4B/4 d/4B/4G/4B/4 d | e/4c/4G/4c/4 e/4c/4G/4c/4 e/e/ | d/4B/4G/4B/4 d/4B/4G/4B/4 d |
+c/4B/4A/4B/4 c/4B/4A/4B/4 c/4B/4A/4B/4 | (c/4B/4)A/4G/4 A/G/ G | (A/4F/4)(C/4F/4) (A/4F/4)(C/4F/4) A/A/ | (G/4E/4)(C/4E/4) (G/4E/4)(C/4E/4) G |
+(A/4F/4)(C/4F/4) (A/4F/4)(C/4F/4) A/A/ | (G/4E/4)(C/4E/4) (G/4E/4)(C/4E/4) G | G (f/e/) d/c/ | c/4B/4G/4B/4 d c :|
+

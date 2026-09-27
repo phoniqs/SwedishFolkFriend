@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Svartnäs
+O:Svartnäs, Hälsingland
+R:Polska
+S:Erik Johan Thunstedt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. E J Thunstedt"
+Z:"Efter en vallflicka i Svartnäs Finnskog."
+Z:Stämförslag B.O.
+L:1/16
+M:3/4
+K:Gm
+V:1
+|:"^1" G4 (BA)G^F G2D2 | (G^F)(GA) (BA)Bc d4 | (cd)ed (c2B2) A2G2 | (G^F)(GB) (AG)FE D4 | 
+G4 (BA)G^F G2D2 | (G^F)(GA) (BA)Bc d4 | (cd)ed (c2B2) A2G2 | (BA)G^F G8 :: 
+(d2B2) (B2d2) d2f2 | f2d2 d2cd c4 | (cd)cA F2FA B2c2 | 
+d2d2 (cd)ec d4 | B2cd A2Bc G2B2 | A2G^F G8 :| 
+V:2
+|:"^2""Gm" B,4 (DC)B,A, "^Efter en vallflicka i Svartnäs Finnskog" B,2G,2 | (B,A,)(B,D) (G^F)GA B4 | "D7" (AB)cB (A2G2) "Gm" D2B,2 | "Gm" (B,A,)(B,D)"D7" (CB,)A,G, A,4 |
+"Gm" B,4 (DC)B,A, B,2G,2 | (B,A,)(B,D) (G^F)GA B4 | "D7" (AB)cB (A2G2) "Gm" D2B,2 | "D7" GDB,A, "Gm" [B,D]8 ::
+"Bb" (B2F2) (F2B2) B2d2 | d2B2 B2AB"F" A4 | "F" (AB)AF C2CF G2A2 | 
+"Gm" B2B2 (AB)cA"D7" [^FA]4 | "Gm" G2AB "D7" ^F2GA "Gm" D2G2 | "D7" ^F2DC "Gm" [B,D]8 :|
+

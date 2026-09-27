@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Wikmans Hans schottis
+C:Wikmans Hans Hansson
+O:Boda, Schottis
+S:Hjärp Erik
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Wikmans Hans Hansson (1907-1988), Boda."
+Z:"Fr. CD. med Hjärp Erik."
+L:1/16
+M:2/4
+K:F
+V:1
+"^1" f |: a>gfe fedc | A2F2 F2>f2 | a>gfe fedc | B2E2 E2>g2 | 
+b>agf edc=B | c2e2 e2>d2 | c2g2 g2>g2 | f2a2 a2>f2 | 
+a>gfe fedc | A2F2 F2>f2 | a>gfe fedc | d2B2 B2>d2 | 
+d>^cde gfed | c>BAc f2f2 | e>dcA BGEG |1 F2F2 F3 f :|2 F2F2 F4 |:
+[K:C] G>EGc edc_B | A2F2 A2F2 | G>A_Bc d2G2 | c>_Bcd e2c2 | 
+G>EGc edc_B | A2F2 A2F2 | G>A_Bc dfed | c2c2 c4 :| 
+V:2
+"^2" c |:"F" f>edc dcBA | F2A,2 A,2>c2 | f>edc dcBA | "C7" G2B,2 B,2>e2 | 
+g>fed cBAG | E2c2 c2>G2 | E2B2 B2>B2 |"F" A2c2 c2>c2 | 
+f>edc dcBA | F2A,2 A,2>c2 | f>edc dcBA |"Bb" B2D2 D2>B2 | 
+B>ABc edcB |"F" A>GFA c2c2 |"C7" c>BAF GECB, |1"F" A,2A,2 A,3 c :|2"F" A,2A,2 A,4 |: 
+[K:C]"C" E>CEG c_BAG |"F" F2C2 F2C2 | "G7" _B,>DGA _B2D2 | "C" E>DEG c2E2 | 
+"^Stämförslag B.O." E>CEG c_BAG | "F" F2C2 F2C2 | "G7" _B,>DGA _BdBG | "C"  E2E2 [CE]4 :|
+

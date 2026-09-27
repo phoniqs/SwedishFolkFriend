@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Manne Sundbergs schottis
+S:Manne Sundberg
+O:Sunnansjö, Backe, Ångermanland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Manne Sundberg, Sunnansjö, Backe."
+L:1/16
+Q:1/4=76
+M:2/4
+K:C
+V:1
+|:"^1""C" GeeG (3ccc cG | EGGC E2E2 |"G7" DFFB, D2D2 |"C" EGGC E2E2 | 
+GeeG (3ccc cG | EGGC E2E2 | "G7" D2EF G2Bd |1,8 "C" c2e2 c3 z :|2 "C" c2e2 c2 Bd |:
+[K:G]"G" g2 (3BBB"G7" B2B2 |"C" ccce c4 | "G" BBBd"D7" AAAd |"G" G2G2 G2Bd |
+"G" g2 (3BBB"G7" B2B2 |"C" ccce c4 |"G" BBBd"D7" AAAd |1 "G" G2G2 G2 Bd :|2"G" G2G2 G3 z |:
+[K:C]"C" ecGc ecGc |"G7" eddB G2GB | d2GB d2GB | "C" dcce c2 z2 | 
+ecGc ecGc |"G7" eddB G2GB | d2GB d2 (3GBd |"C" c2e2 c3 z :| 
+V:2
+|:"^2" EccE G2GE | CEEG, C2C2 | B,DDG, B,2B,2 | CEEG, C2C2 | 
+EccE G2GE | CEEG, C2C2 | B,2CD B,2D^F |1,8 E2G2 E3 z :|2 E2G2 E2GB |:
+[K:G] B2G2 =F2F2 | E2EG E4 | G2D2 F2D2 | B,2B,2 B,2GB | 
+B2G2 =F2F2 | E2EG E4 | G2D2 F2D2 |1 B,2B,2 B,2 GB :|2 B,2B,2 B,3 z |: 
+[K:C] cGEG cGEG | cBBG D2DG | B2DG ^F2DF | ^FEEG E2 z2 | 
+cGEG cGEG | cBBG D2DG | B2DG ^F2D2 | E2G2 E3 z :|"^B.O." |]
+

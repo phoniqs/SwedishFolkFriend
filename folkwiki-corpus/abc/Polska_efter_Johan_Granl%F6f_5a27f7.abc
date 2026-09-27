@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+(:music:)
+X:1
+T:Polska efter Johan Granlöf
+S:Johan Granlöf
+O:Stigsjö, Ångermanland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Johan Granlöf, (1870-1951), Stigsjö
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1
+|:"^1" d2 (FA) df | (ed) (cA) ce | (ba) (ge) ce | dd/d/ (dA) FA | 
+d2 (FA) df | (ed) (cA) ce | (ba) (ge) ce | d2 d4 :|
+|: fd f3 a | (gf) ed c2 | ge g3 b | (ag) fe d2 |
+ fd f3 a | (gf) ed c2 | (ba) (ge) ce | d2 d4 :| 
+V:2
+|:"^2" F2 (DF) Ad | (cB) (AE) Ac | (ed) (cA) EG | FF/F/ (FD) A,D |
+ F2 (DF) Ad | (cB) (AE) Ac | (ed) (cA) EG | F2 F4 :|
+|: dA d3 f | (ed) cB A2 | cA c3 g | (fe) dA F2 | 
+dA d3 f | (ed) cB A2 | (gf) (ec) AG |"^B.O." F2 F4 :|
+

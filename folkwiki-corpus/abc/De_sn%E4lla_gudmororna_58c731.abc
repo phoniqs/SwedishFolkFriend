@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:107
+T:De snälla gudmororna
+T:(SvL Hälsingland 107)
+O:Gnarp, Hälsingland
+C:Pelle Schenell
+R:Polska
+B:Svenska Låtar Hälsingland Nr 107
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 19. De snälla gudmororna av Pelle Schenell  Sv.L. nr. 107."
+Z:"Stämma Johan Hall, Lottefors."
+L:1/8
+Q:1/4=100
+M:3/4
+K:Gm
+V:1
+|:"^1" d>g (b/a/)g/^f/ g2 | d>c"^Polska" (B/A/)B/c/ d2 | c>B Ac BA | G>B A^F D2 | 
+d>g (b/a/)g/^f/ g2 | d>c (B/A/)B/c/ d2 | c>B Ac BA | G2 G2 z2 :: 
+!>!D2 !>!G2 !>!B2 | A>(G ^F/G/)A/F/ G2 | G>^F GA Bc | d2 d2 z2 | 
+!>!d2 !>!g2 !>!b2 | a>(g ^f/g/)a/f/ g2 | (3(dcB) cA (3(BAG) | (Ad) G2 z2 :: 
+!>!B2 !>!A2 !>!G2 | (^F/G/)A/F/ G3 G | !>!d2 !>!c2 !>!B2 | (c/d/)e/c/ d3 d | 
+d>(g b>)(a g>)^f | a>(g ^f)g d2 | (3(cBA) (BG) A^F | D2 G4 :| 
+V:2
+|:"^2" G>B dB/A/ B2 | B>A G2 B2 | A>G ^FA GD | B,>G ^FD C2 | 
+G>B dB/A/ B2 | B>A G2 B2 | A>G ^FA GD | B,2 [B,D]2 z2 :: 
+B,G,/B,/ DB,/D/ GD/G/ | C2 D2 B,2 | B,>A, B,^F GA | ^F2 F2 z2 | 
+GD/G/ BG/B/ dB/d/ | c>(B A/B/)c/A/ B2 | B2 (A2 G2) | (C^F) B,2 z2 :: 
+!>!G2 !>!D2 !>!B,2 | D2 B,3 D | !>!B2 !>!F2 !>!D2 | (A/B/)c/A/ B3 B | 
+B>(d g>)(d B>)A | c>(B A)B G2 | "^Stämma Johan Hall, Lottefors." (3(AG^F) (GD) FD | C2 [B,D]4 :|
+

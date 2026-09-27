@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Storberget
+S:Sören Persson
+R:Gånglåt
+O:Dorotea, Lappland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Sören Persson. Uppt. Sören Johansson."
+L:1/8
+M:4/4
+K:D
+V:1
+"^1" (DF) |: A2 AF G2 GE | F2 F2 (DF) (Ad) | c2 cA B2 B^G | A6 (dc) | 
+B2 GB d2 cB | (Ad) FA D2 FA | G2 A,2 (A,C) (EC) |1 D6 (DF) :|2 D6 (ag) |: 
+(fd) Ad f2 gf | (ec) Ac e2 ge | (fd) AF (DF) Ad | e2 A>A A2 ag | 
+(fd) Ad f2 gf | (ec) Ac e2 ge | f2 fd (ce) ac |1 d6 (ag) :|2 d6 z2 |] 
+V:2
+"^2" (A,D) |:"D" [A,F]2 [A,F]2"A7" [G,E]2 [G,E]2 |"D" [A,D]2 [A,D]2 (A,D) (FB) | "A7" [CE]2 [CE]2"E7" [B,D]2 [B,D]2 |
+"A7" [CE]6 (BA) |"G" G2 DG B2 AG |"D" (FA) DF A,2 DF | "A7" [CE]2 [CE]2 (G,A,) (CA,) |1"D" [A,D]6 (A,D) :|"D" [A,D]6 (cB) |:
+"D" (AF) DF A2 BA | "A7" (GE) CE G2 BG |"D" (AF) DA, (A,D) FA |"A7" [Gc]2 [CE]>[CE] [CE]2 cB |
+"D" (AF) DF A2 BA | "A7" (GE) CE G2 BG |"D" [FA]2 [FA][DA]"A7" [GA]2 [GA][EG] |1"D" [FA]6 (cB) :|2 "D" [FA]6"^B.O." z2 |]
+

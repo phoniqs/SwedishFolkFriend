@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:20
+T:Gök-polska
+O:Hälsingland
+R:Polska
+B:Ny samling spelmanslåtar från Hälsingland nr 20
+Z:Karin Helander
+N:Uppteckning och andrastämma av [[Personer/Thore Härdelin den äldre]]
+L:1/16
+M:3/4
+K:G
+V:1
+!open! "^o= flageolet" C4 !open!D4 z4 | e4 d3c B2d2 | !open!C4 !open!D4 z4 | e4 d3c B2d2 | (d2ed) (c2dc) (B2cB) | (A2BA) [GG,]4 "^Fine" z4 :|
+|: G,2B2 {c}B3A B4 | D2d2 {e}d3^c d4 | G,2B2 {c}B3A B4 | D2d2 {e}d3^c d4 | !open!C4 !open!D4 z4 | e4 d3c B2d2 | 
+!open!C4 !open!D4 z4 | e4 d3c B2d2 | (d2ed) (c2dc) (B2cB) |1 (A2BA) [GG,]4 z4 :|2 (A2BA) [G,G]4 z2 B2 |]
+|: d4 d3B d2g2 | b4 b3g d4 | d2^cd a2f2 d4 | (dB)dg b2g2 d4 | {B}d4 d3B d2g2 | 
+b4 b3g d4 | d2^cd a2f2 d2Bd |1 [gB]4 [gB]4 z2 B2 :|2  [gB]4 "^D.C. al Fine" [gB]4  z4 |]
+V:2
+!open!C4 !open!D4 z4 | c4 B3A G2[GB]2 | !open!C4 !open!D4 z4 |  c4 B3A G2[GB]2 | (B2cB) (A2BA) (G2AG) | D2[CD]2 [B,D]4 z4 :|
+|: B,2G2 {A}G3F G4 | G,2B2 {c}B3A B4 | B,2G2 {A}G3F G4 | G,2B2 {c}B3A B4 | !open!C4 !open!D4 z4 | c4 B3A G2[GB]2 | 
+!open!C4 !open!D4 z4 |  c4 B3A G2[GB]2 | (B2cB) (E2FE) (D2ED) |1 (C2DC) [B,D]4 z4 :|2 (C2DC) [B,D]4 z4 |]
+|: D4 E4 F4 | G4 A4 B4 | c2 z2 c2B2 A4 | B4 B2A2 G4 | D4 E4 F4 | 
+G4 A4 B4 | c2 z2 c2A2F2A2 |1 [GG,]4 [GG,]4 z4 :|2 [GG,]4 [GG,]4 z4 |]
+

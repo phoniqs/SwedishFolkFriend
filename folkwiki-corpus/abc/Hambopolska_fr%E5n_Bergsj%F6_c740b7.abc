@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambopolska från Bergsjö
+S:Efter Karl Fahlberg
+S:Efter Helge Nilsson
+O:Bergsjö, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (G,>B,) (DG) BG | (C>E) Gc e2 | (f>e) (dc) BA | (e>d) BG D2 |
+ (G,>B,) (DG) BG | (C>E) Gc e2 | (f>e) (dc) BA | G2 G3 z ::
+ g>g g2 g2 | (fe) A4 | f>f f2 f2 | (ed) B4 |
+ g>g g2 g2 | (fe) A4 | (f>e) (dc) BA | G2 G3 z :| 
+V:2
+|:"^2""G" (D>G,) (B,D) GD |"C" (E>G,) CE G2 |"D7" (A>G) (FA) FD |"G" (c>B) GD B,2 | 
+(D>G,) (B,D) GD |"C" (E>G,) CE G2 |"D7" (A>G) (FA) FD |"G" B,2 [B,D]3 z ::
+"G" B>B B2 B2 | "Am" (dc) E4 |"D7" A>A A2 A2 |"G" (cB) D4 | 
+B>B B2 B2 |"Am" (dc) E4 |"D7" (A>G) (FA) FD | "G" B,2 [B,D]3"^B.O." z :|
+

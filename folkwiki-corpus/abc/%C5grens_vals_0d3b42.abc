@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Ågrens vals
+R:Vals
+O:Bodarne, By, Dalarna
+C:Johan Ågren
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Johan Ågren, (1846-1867)"
+Z:"Johan Ågren var född i Rasmansbo i Garpenberg 1846 och avled knappt 21 år gammal i Bodarne, By socken. Skicklig på fiol men spelade även esskornett i skarpskyttemusikkåren. Ur tidskiften Från By sockengille, 1929."
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1"v D2 F3u G | A4 B2 | A4 d2 | c4 B2 | A,2 C3u E | G6 | e2 d3 c | B4 A2 | 
+D2 F3u G | A4 B2 | A4 d2 | c4 B2 | A,2 (C2 E2) | G4 d2 | (cB) (AG) FE | D6 ::
+v F2 F3u G | A4 F2 | d2 d3u c | d4 c2 | E2 E3u F | G4 C2 | D2 F3u D | A,4 z2 |
+v F2 F3u G | A4 F2 | d2 d3u c | d4 c2 | E2 E3u F | G4 C2 | D3 D D2 | D4 z2 :: 
+F3 (G A2) | F2 (E2 D2) | C2 E2 G2 | B6 | B2 (B3 c) | B2 (A2 G2) | F2 A2 d2 | A6 | 
+F2 F3u G | F2 (E2 D2) | C2 E2 G2 | B6 | d2 (c2 B2) | A2 (B,2 C2) | D3 D D2 | D4 z2 ::
+[K:G]v B6 | (BF) AG FE | D6 | B,6 | A6 | (AG) FE DC | B,6 | G,6 | G2 (F2 E2) | A,4 E2 | 
+E2 (D2 B,2) | G,4 z2 | B6 | (Bd) (cB) AG | (GB) (AG) FE | (DE) (CE) FA | G6 :|
+

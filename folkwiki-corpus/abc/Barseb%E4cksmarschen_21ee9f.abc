@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:1
+T:Barsebäcksmarschen
+C:Per Munkberg
+R:Marsch
+Z:Patrik Månsson, 2023-07-27
+O:Skåne
+M:4/4
+L:1/8
+K:G
+(3DEF | "G"G2 GG BDGB | "G"d2 dc B2 dB | "D7"c2 cB ADFA |
+"G"B2 BA G2 (3DEF | "G"G2 GG BDGB | "G"d2 dc B2 (3ggg | "D"f2 (3fff "A"e2 (3eee | "D"d6 :|
+|: d2 | "G"(g3d) cBAG | "D7"F2 AA A2 fg | "D7"(a3g) fedc | "G"B2 dd d2 ga |
+"G"(b3a) gfed | "C"c2 ee e2 (3fef | "G"g2 (3BAB "D7"c2 (3 FEF | "G"A>G GG G2 :|
+

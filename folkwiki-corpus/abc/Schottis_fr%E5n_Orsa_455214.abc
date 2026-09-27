@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Orsa
+O:Orsa, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:2/4
+K:G
+V:1
+"^1" D |: G2GA B2Bc | d2de (dB)GB | A2AB c2cd | (ed)d^c d2>D2 | 
+G2GA B2Bc | d2de dBGB | A2AB cdef |1 g2g2 g3 D :|2 g2g2 g3 e |:
+[K:C] g2ga g2g^f | ede^f e2e2 | de^fe (dc)BA | GAG^F (EG)ce | 
+g2ga g2g^f | ede^f e2e2 | de^fe (dc)Bd |1 c2c2 c3 e :|2 c2c2 c3 z |] 
+V:2
+"^2" D |: "G" B,2B,D G2GA | B2Bc BGDG | "D7" F2FG A2AB |"G" cBB^A B2>D2 | 
+B,2B,D G2GA | B2Bc BGDG | "D7" F2FG ABcd |1 "G" B2B2 B3 D :|2 "G" B2B2 B3 c |:
+[K:C]"C" e2e^f e2ed | cBcd c2c2 |"G7" Bcdc (BA)G^F | "C" E^FED (CE)Gc | 
+e2e^f e2ed | "^Stämförslag B.O."  cBcd c2c2 |"G7" Bcdc (BA)G^F |1 "C" E2E2 E3 c :|2"C" E2E2 E3 z |]
+

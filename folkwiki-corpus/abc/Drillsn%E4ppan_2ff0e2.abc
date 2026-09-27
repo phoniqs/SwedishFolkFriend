@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T:Drillsnäppan
+C:Tomas Östlund
+R:Polska
+L:1/8
+Q:1/4=110
+M:3/4
+I:linebreak 
+K:D
+z2 z2 A2 |:"D" D>F A>d f>a |"A7" g>f e>c A2 |"G" d>B G>B d>B |"D" A>B A>G F2 |"A7" E>F G>B A>G | 
+"D" F>^E F>G A2 |"A7" E>F G>A c>e |"D" d2 d3 z ::"D" a>f d>A d>f |"A7" e>c A3 c |"G" d>B G>B d>B | 
+"D" A>B A>G F2 |"A7" E>F G>B A>G |"D" F>^E F>G A2 |"A7" E>F G>A c>e |"D" d2 d3 z:|
+

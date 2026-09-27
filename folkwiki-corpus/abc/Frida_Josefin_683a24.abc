@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Frida Josefin
+T:Vals
+C:Gösta Johansson
+R:Vals
+O:Örnsköldsvik, Ångermanland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Gösta Johansson, Örnsköldsvik"
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" CB,A, |: G,2 B,2 D2 | (3(GBG) (DG) Bd | [Ec]6 | [CE]4 G2 | (3(FAF) (DF) Ad | 
+de d3 c | [DB]6 | [Fd]2 z CB,A, | G,2 B,2 D2 | (3(GBG) (DG) Bd | [Ec]6 | [CE]4 G2 | 
+(3(FAF) (DF) Ad | de d3 F | G2 [Bg][Bg] [Bg]2 |1 [Bg]3 CB,A, :|2 [Bg]2 DG Bd |: 
+g4 [Ge]2 | z2 EG ce | d4 [DB]2 | z2 DG Bd | (fe) (dc) AF | (Dd) (cA) EF | 
+(GD) (BG) dB | (gd) (bg) d'b | g4 [Ge]2 | z2 (EG) ce | d4 [DB]2 | z2 (DG) Bd |
+ (fe) (dc) AF | (Dd) (cA) EF | (G[Bg]) [Bg]2 [Bg]2 |1 [Bg]2 (DG) Bd :|2 g3 z z2 |] 
+V:2
+"^2" EDC |:"G" B,2 D2 G2 | B,2 (B,D) GB |"Am" A6 |"C" A4 E2 |"D7" D2 (A,D) FA | 
+FG F3 A | "G" G6 |"D7" A2 z EDC |"G" B,2 D2 G2 | B,2 (B,D) GB |"Am" A6 |"C" A4 E2 |
+"D7" D2 (A,D) FA | FG F3 D |"G" B,2 [B,G][B,G] [B,G]2 |1"G" [B,G]3 EDC :|2"G" [B,G]2 G,B, DG |:
+"C" c4 E2 | z2 CE Gc |"G" B4 G2 | z2 B,D GB | "D7" (AG) FE DC | (A,F) EC A,C |
+"G" (B,G,) DB, GD | (BG) dB gd | "C" c4 E2 | z2 (CE) Gc |"G" B4 G2 | z2 (B,D) GB | 
+"D7" (AG) FE DC | (A,F) EC A,C | "G" (B,[B,G]) [B,G]2 [B,G]2 |1"G" [B,G]2 (G,B,) DG :|2"G" [B,G]3"^B.O." z z2 |]
+

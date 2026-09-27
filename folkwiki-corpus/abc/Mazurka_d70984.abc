@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:1
+T:Mazurka
+M:3/4
+L:1/8
+C: Adolf Sjöström
+O: Jämjö, Blekinge
+Q: 1/4=175
+Z: Peter Svensson
+R: Mazurka
+K:G
+D2 | "G"G2 BG DG    | "D"F2  AF  "Am"E2  | "D"F2 AF   EF    | "G"G2   BG   D2    |
+     "G"G2 BG DG    | "D"F2  AF  "Am"E2  | "D"F2 AF   EF    | "G"G    z    G3 D ||
+     "G"G3 (A B)>(c | d2) .B2 .B2 | "D"c2 A>(F E)>(F | "G"G2)  B>(G D2)   |
+     "G"G3 (A B)>(c | d2) .B2 .B2 | "D"c2 A>(F E)>(F | "G".G2) G2         |]
+

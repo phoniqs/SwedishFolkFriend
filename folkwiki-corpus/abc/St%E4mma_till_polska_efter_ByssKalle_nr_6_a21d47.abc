@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:6
+T:Stämma till polska efter Byss-Kalle (nr 6)
+L:1/8
+R:Polska
+Q:1/4=100
+M:3/4
+I:linebreak $
+U:t=tenuto
+K:D
+V:1 treble nm="Violin" 
+V:2 treble nm="Viola"
+V:1
+A2 |: td2{de} td2 (c/A/)c/e/ | dd B2 (A/B/)c/d/ | 
+t[Ae]2 t[Ae]2 (d/c/)d/f/ | ee{cB} c2 A2 | Af f2 (d/c/)d/e/ |$ dd c2 B2 | Bg ge ed | 
+(c/d/)e/c/ AA (B/A/)B/c/ | cd d2 A2 :: df fd de/f/ |$ (g/f/)e/f/ ge (f/e/)f/g/ | af fd de/f/ | 
+ge ec cA | df fd de/f/ | (g/f/)e/f/ ge (f/e/)f/g/ |$ af db ge | (d/c/)B/c/ [Dd]2 A2 :| 
+V:2
+D2 |: F2 A2 A/F/A/c/ | BB G2 F/G/A/B/ | c2 c2 B/A/B/d/ | cc A2 F2 | Dd d2 B/A/B/c/ |$ BB A2 G2 | 
+Ge ec cB | A/B/c/A/ EC G/F/G/A/ | AA D2 F2 :: Dd dA Fc/d/ |$ e/d/c/d/ ec d/c/d/e/ | fd dB Bc/d/ | 
+ec cA AF | Fd dB Bc/d/ | e/d/c/d/ ec d/c/d/e/ |$ fd Bg ec | B/A/G/A/ D2 F2 :|
+

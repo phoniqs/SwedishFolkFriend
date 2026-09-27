@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Föllingers första komposition
+T:Vals
+C:Göran Olsson Föllinger
+R:Vals
+O:Jämtland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Göran O:n Föllinger, (1886-1969)"
+L:1/8
+M:3/4
+K:F
+V:1
+"^1" d2 |: (d2 b2) a2 | a4 g2 | f3 gfe | d3 ^cdf | 
+e3 fe^c | (A2 ^c2) e2 |1 d3 efg | a4 d2 :|2 d6- | d4 (AB) |: 
+c3 B A2- | A2 (c2 b2) | a3 g f2- | f2 (A2 d2) | c3 B G2 | 
+(G2 A2) B2 | A6- | A4 (Bc) | d3 c B2- | B2 (d2 b2) | a3 g f2- | 
+f2 (A2 d2) | c6- | c2 (G2 A2) |1 F6- | F4 (AB) :|2 F6- | F4 z2 |] 
+V:2
+"^2" B2 |: (B2 d2) c2 | c4 B2 | d3 edA | F3 EFd | 
+^c3 dcA | (E2 A2) G2 |1 F3 Ade | ^c4 B2 :|2 F6- | F4 (FG) |: 
+A3 G F2- | F2 (A2 d2) | c3 B A2- | A2 (F2 B2) | A3 G E2 | 
+(E2 F2) G2 | F4 E2 | _E4 (DF) | B3 F D2- | D2 (B2 d2) | c3 B A2- | 
+A2 (F2 B2) | G4 E2- | E2 B,2 C2 |1 A,6- | A,4 (FG) :|2"^Stämförslag B.O." A,6- | A,4 z2 |]
+

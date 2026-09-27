@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska i G-moll
+C:Erik Englund
+O:Böle, Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Av Erik Englund, Böle. 26/11 1994.
+L:1/8
+M:3/4
+K:Gm
+V:1
+|:"^1" G>B d2 g2 | (3^faf g2 d>c | A>B G>B A>G | (3^FAF D4 | 
+G>B d2 g2 | (3^faf g2 d>c | A>B G>B A>G | (3^FAF G4 :: 
+(d>B) (B>d) f>d | d>c (c/d/)c/A/ F2 | (B>A) (G>B) d>B | B>A (A/B/)A/^F/ D2 | 
+(G>^F) (G>A) B>c | d>g (3^faf d2 | A>B G>B A>^F | (3GAB G2 z2 :| 
+V:2
+|:"^2" D>G B2 B2 | (3AcA B2 ^F>E | C>D B,>D C>B, | (3A,CA, A,4 |
+D>G B2 B2 | (3AcA B2 ^F>E | C>D B,>D C>B, | (3A,CA, B,4 :: 
+(B>F) (F>B) d>B | B>A (A/B/)A/F/ C2 | (G>D) (B,>D) B>G | G>^F (F/G/)F/D/ A,2 | 
+(B,>A,) (B,>D) G>A | B>d (3AcA ^F2 | C>D B,>D C>A, | (3B,CD B,2"^B.O." z2 :|
+

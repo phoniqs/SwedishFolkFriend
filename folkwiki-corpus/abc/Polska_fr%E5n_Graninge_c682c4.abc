@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Graninge
+T:efter Konrad Berglund
+R:Polska
+S:Konrad Berglund
+O:Graninge, Ångermanland
+Z:Karin Helander
+N:Från not hos Ångermanlands spelmansförbund: https://spelmansforbundet.com/spelmanslag/allspelslatar/
+N:"Uppt. och Arr. [[Personer/Arne Isaksson]], Resele, sp. av [[Personer/Erik Rönnlund]], Högsjö"
+M:3/4
+L:1/16
+K:Gm
+V:1
+g3^f d4 A3c | B2AB G6 B2 | A3G ^F3G A3F | G3A (BA)Bc d4 | 
+g3^f d4 A2c2 | B2AB G6 B2 | A3G ^F3G (A2F2) |1 (^F3G) G6 z2 :|2 (^F3G) G6 D2 ||
+|: G3A B3c B2AG | ^F3G A3B A2FA | G3^F G3A B3c | d2d2 ^c2=Bc d2D2 | 
+G3A B3c B2AG | ^F3G A3B A2FA | G3^F G3A B3c |1 (d3^F) G6 D2 :|2 (d3^F) G6 z2 |]
+V:2
+B3A ^F4 F3A | (D2CD) B,6 G2 | D3B, A,3B, ^F3D | (G,2B,D) (G^F)GA B4 | 
+B3A ^F4 F2A2 | (D2CD) B,6 G2 | D3B, A,3B, (C2B,A,) |1 (A,3B,) B,6 z2 :|2 (A,3B,) B,6 G,2 ||
+|: B,3C D3=E D2CB, | A,3B, C3D C2A,C | B,3A, B,3C D3A | B2B2 A2^FA G2G,2 | 
+B,3C D3=E D2CB, | A,3B, C3D C2A,C | B,3A, B,3C (D3A) |1 (B3D) [DG,]6 z2 :|2 (B3D) [DG,]6 z2 |]
+

@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1347
+T:Polska efter Gustaf Tornberg
+T:(SvL Dalarna 1347)
+O:Enviken, Dalarna
+S:Vilhelm Hedlund
+S:Gustaf Tornberg
+R:Polska
+B:Svenska Låtar Dalarna
+N:SvL: Polskan är mycket gammal. Till melodien sjöngs texten: Tre tusen män från Dalorten sprang, etc.
+Q:1/4=152
+M:3/4
+L:1/8
+K:Ddor
+(A>>(B A>))(^G A)(^c|[d)D]2 d>(^/f e)g|(Tg^f) (de) (c>e)|e>d (Bc/B/) [AA]2|(A>>(B A>))(^G A)^c|1 (^cd) [dD]4:|2 (^cd) d3 ue||
+|:f>(g f)e fg|a>>(b a)e ^ce|d>>(e d)^c de|(fg/f/) e^c A2|(fg/f/) e>(^c A)(c|1e)(f/e/) d3 ue:|2e)(f/e/) [dD]4||
+

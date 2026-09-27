@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Säkkijärven polkka
+R:Polka
+S:Viljo Vesterinen
+N:Lätt förenkling av https://spillefolk.dk/nodesamling/visnode.php?key=pk-szkkijzrv&lang=sv
+N:Wikipedia: https://sv.wikipedia.org/wiki/S%C3%A4kkij%C3%A4rven_polkka
+Z:Karin Helander
+L:1/16
+M:2/4
+K:Cm
+V:1
+(3 G=A=B |: "^1""Cm"c2{GA}G2 F2E2 | "G7"{EF}E2D2 DG,=B,D | G2{FG}F2 E2D2 | "Cm"{E}D2C2 =B,CEG | 
+"Cm"c2{GA}G2 F2E2 | "G7" {EF}E2D2 DG,=B,D | G2{FG}F2 E2D2 |1 "Cm"C4 !fine! c2(3G=A=B :|2 "Cm"C4 c4 |:
+"^2""Cm"CDEF G2c2 | "G7"c2{dc}=B2 Bcd2 | G=A=Bc d2e2 | "Cm"d2{ed}c2 c=Bc2 | 
+"Cm" CDEF G2c2 | "G7"c2{dc}=B2 Bcd2 | G2{AG}=FG =A2=B2 | "Cm" c4 c4 ::
+"^3""Cm7" C=B,CD EDE=E | "Fm" F=EFG AGFA | "G7"GG,=B,D GFED | "Cm" EDC=B, CG,=A,B, |
+"Cm7" C=B,CD EDE=E | "Fm" F=EFG AGFA | "G7"GG,=B,D GFED | "Cm" C4 c4 :|
+[K:Fm] |: "^4""Fm" c2cA FGAB | c2cA FGAB | "Fm7"c2{dc}=Bc d2c2 | "C7" BcBA G^FGA | 
+"C7" B2BA G^FGA | B2BA G^FGA | B2{cB}=AB c2B2 | "Fm" ABAG FGAB | 
+"Fm" c2cA FGAB | c2cA FGAB | "Fm7"c2{dc}=Bc f2e2 | "Bbm" dedc B2Bc | 
+"Bbm" d2{de}d2 c2B2 | "Fm" ABAG FGAF | "C7" GAGF =EFGE |1 "Fm" F4 f4 :|2 "Fm" "^D.C al fine" F4  z2 |]
+

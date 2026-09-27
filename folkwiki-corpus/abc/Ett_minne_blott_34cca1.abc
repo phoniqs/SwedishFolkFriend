@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Ett minne blott
+T:Andrastämman
+C:Jon-Erik Hall
+O:Hassela, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]] nr 9
+L:1/16
+M:3/4
+K:E
+V:2
+|: "E" (5:4 EGBeg g2ba g4 | "F#m" (5:4 CFAcf a2gf e4 | "E" (5:4 B,EGBe g2eg "B7" f2d2 | "B7" {Bc} B2AB "E" c2BA G2F2 |
+"E" (5:4 EGBeg g2ba g4 | "F#m" (5:4 CFAcf a2gf e4 | "E" (5:4 B,EGBe g2eg "B7" f2d2 |1{Bc} B2AF "E" G4 [G,E]4 :|2 {Bc} B2AF "E" [G,E]4 z4 |:
+[K:G]"Em" E2B2 "B7" A2B2 "Em" G4 |"B7" ^D2f2 "Em" e2B2 "B7" ^d2ef | "Em" g2eg{fg} "B7" f2^df"Em" e2BG |"Em" EFGA "B7" [^DB]4 [B,F]4 |
+"Em" E2B2 "B7" A2B2 "Em" G2fg | "Am" a2ga{fg} f2ef "B7" ^d2ef | "Em" g2fg{ef} e2^de (BG)EB, |"B7" [A,^D]4 "Em" [G,E]4 z4 ::
+"G" B,2B,D (GB)AG"D7" A4 |"D7" A,2A,C (FA)GF "G" G4 |"B7" B,2F^d (gf)e^d"Em" (eB)GB |"D7" (dc)BA (GB)AG (FE)DC | 
+"G" B,2B,D (GB)AG"D7" A4 |"D7" A,2A,C (FA)GF "G" G4 |"B7" B,2F^d (gf)ed"Em" (eB)GE | "B7" [B,A]2[B,A]2"Em" [B,G]8 :|
+

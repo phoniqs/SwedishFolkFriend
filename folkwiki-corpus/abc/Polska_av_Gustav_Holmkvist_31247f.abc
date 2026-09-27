@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Gustav Holmkvist
+C:Gustav Holmkvist
+O:Gagnef, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+I:linebreak $
+K:Gm
+V:1
+"^1" (D |: G>)(B d3) A | B>(A G3) A | B>(A D>)(^F A>)F | G2 ^F{EF}E D>D | 
+G>B d3 A | B>(A G3) A | B>(A D>)(^F A>)F |1 G2 [B,G]3 D :|2 G2 [B,G]4 |:
+ g>b a2 g2 | f2 d4 | G>(A B2) cc | d2 d4 | 
+g>b a2 g2 | f2 d4 | B>(c d>)(c A>)D | ^F2 [B,G]4 :| 
+V:2
+"^2" A, |: B,>G B3 ^F | G>D B,3 (^F | G>)(^F A,>)(D F>)D | B,2 (A,G,) A,>A, | 
+B,>(G B3) ^F | G>(D B,3) ^F | G>(^F A,>)(D F>)D |1 B,2 [G,D]3 A, :|2 B,2 [G,D]4 |: 
+B>d c2 B2 | A2 ^F4 | B,>(C D2) EE | ^F2 F4 | 
+B>d c2 B2 | A2 ^F4 | "^Stämförslag B.O." G>(A B>)(A ^F>)A, | A,2 [G,D]4 :|
+

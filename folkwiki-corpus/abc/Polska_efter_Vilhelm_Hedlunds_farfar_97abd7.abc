@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1386
+T:Polska efter Vilhelm Hedlunds farfar
+T:(SvL Dalarna 1386)
+S:Vilhelm Hedlund
+B:Svenska Låtar Dalarna Nr 1386
+O:Enviken, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" (d>A) (FA) GE | (FD) (FA) de | (f>e) (fa) gf | (e>d) ^c=B A2 | 
+(d>A) (FA) GE | (FD) (FA) de | (f>e) (^c>d) ec | d2 d4 :: 
+(a>b) (ae) ge | (fd) (e^c) A>c | (d>^c) (de) fd | d^c/d/ ec A2 | (a>b) (ae) ge | 
+(fd) (e^c) A>c | (d>=c) (BA) B>d | (c>B) (AF) Ac | (B>A) (GA,) ^CE | D2 D4 :| 
+V:2
+|:"^2" (A>F) (DF) E^C | (DA,) (DF) A^c | (d>^c) (df) ed | (^c>=B) AG E2 | 
+(A>F) (DF) E^C | (DA,) (DF) A^c | (d>^c) (A>=B) cA | F2 [FA]4 :: 
+(f>g) (f^c) ec | (dA) (^cA) E>G | (F>E) (FG) AF | FE/F/ GE ^C2 | (f>g) (f^c) ec | 
+(dA) (^cA) E>A | (B>A) (GF) G>B | (A>G) (F=C) FA | (G>F) (E^C) E"^B.O."G | F2 [A,F]4 :|
+

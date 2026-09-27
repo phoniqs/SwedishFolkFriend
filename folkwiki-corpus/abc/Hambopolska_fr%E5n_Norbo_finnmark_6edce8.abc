@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska från Norbo finnmark
+S:Ragnar Eriksson
+O:Säter, Dalarna
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. efter Ragge Eriksson, Säter."
+Z:"Uppt. och arr.förslag B.O.  07.12.21."
+N:"Nog vet jag vem som da-ansa med dej för gula byxor hade ha-an uppå sej. Nog vet jag vem som da-ansa med mej för mi-in vän hon hade grö-öna.  :/: Å mitt uppi dansen ky-yste jag dej å mitt uti lagårn fria jag till dej. Skinnbyxorna jag lånat av min far har korna ätit upp så dä finns inge kvar. Skinnbyxorna jag lånat av min far har korna ätit upp så dä finns inge kvar. Här står jag rådlös, naken med min tös och hemma sitter far min brackulös. :/:"
+L:1/8
+Q:1/4=98
+M:3/4
+K:Am
+V:1
+|:"^1" E2 A>(B c>)d | (ed) (Bc) A>c | (cB) (B^G) EG | (Bc) A^G E2 | 
+E2 A>(B c>)d | (ed) (Bc) A>c | (cB) (B^G) EG |1 (Bc) A3 z :|2 (Bc) A3u A |: 
+a2 (a>f) d>f | (fe) (ed) ee | a2 (a>f) d>f | fe (ed) e2 | 
+E2 A>(B c>)d | (ed) (Bc) Ac | (cB) (B^G) EG | (Bc) A^G E2 | 
+a2 a>(f d)f | (fe) (ed) ee | aa af df | (fe) ed e2 | 
+E2 A>(B c)d | (ed) (Bc) Ac | (cB) (B^G) E>G |1 (Bc) A3u A :|2 (Bc) A3 z |] 
+V:2
+|:"^2" A,2 C>(E A>)B | (cB) (^GE) C>E | (A^G) (GE) B,E | (^GA) ED B,2 | A,2 C>(E A>)B | 
+(cB) (^GE) C>E | (A^G) (GE) B,E |1 (DE) C3 z :|2 (DE) C3u C |: 
+f2 (f>d) A>d | "^Nog vet jag vem som da-ansa med dej för gula byxor hade ha-an uppå sej.""^Nog vet jag vem som da-ansa med mej för mi-in vän hon hade grö-öna.  :/:""^Å mitt uppi dansen ky-yste jag dej å mitt uti lagårn fria jag till dej.""^Skinnbyxorna jag lånat av min far har korna ätit upp så dä finns inge kvar.""^Skinnbyxorna jag lånat av min far har korna ätit upp så dä finns inge kvar.""^Här står jag rådlös, naken med min tös och hemma sitter far min brackulös. :/:" (dc) (cB) cc | f2 (f>d) A>d | dc (cA) ^G2 | A,2 C>(E A>)B | (cB) (^GE) CE | (A^G) (GE) B,E | (^GA) ED B,2 | 
+f2 f>(d A)d | (dc) (cB) cc | ff fd Ad | (dc) cA ^G2 | A,2 C>(E A)B | (cB)"^Uppt. och arr.förslag B.O.  07.12.21." (^GE) CE | (A^G) (GE) B,>E |1 (DE) C3u C :|2 (DE) C3 z |]
+

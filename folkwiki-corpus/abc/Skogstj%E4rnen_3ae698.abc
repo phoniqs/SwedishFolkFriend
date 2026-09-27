@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Skogstjärnen
+T:Vals
+C:Bengt Johansson
+O:Ryggen, Falun, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bengt Johansson (1919-1991), Ryggen, Falun."
+L:1/8
+M:3/4
+K:Bb
+V:1
+"^1" F2 |: "Bb" d4 d2 | (dc) (BA) BG | F4 B2 | d4 f2 |"F7" (gf) (ed) cd | e4 g2 | 
+"Bb" (fe) (dc) BA | B2 (FD) FB | d4 d2 | (dc) (BA) BG | (F2 B2) d2 | f4 f2 |
+"F7" (gf) (ed) cd | (ed) (cB) AG | F2 e2 cA |1 "Bb" B3 z F2 :|2 "Bb" B3 z (AB) |:
+[K:F] "F" (cd) (cA) fc | a2 (gf) ed | (cA) (FC) FA | c2 (BA) GF | "C7" (EC) (EG) ce | g3 g g2 |
+"F" (ag) (fe) (fa) | c'3 bag | (fc) (Ac) fg | a2 (gf) ed | (cA) (FC) FA | c2 (BA) GF | 
+"C7" (EC) (EG) ce | (ga) (bc) de | "F" f3 f f2 |1 "F" f3 z AB :|2 "F" f3 gf_e |:
+[K:Bb] "Bb"d2 B3u F | (DF) (BA) GF | "Eb" [EB]3 (!>![Bg] !>![Bg]2) | [Bg]3 bag | "F7" (f2 A2) c2 | F3 edc | 
+"Bb" B2 B,3u D | (FB,) DF Bc | d2 B3u F | (DF) BA GF |"Cm" E3 (!>![eg] !>![eg]2) | [eg]3 bag |  
+"F7" f2 (!>!a3 !>!a) | (ag) fe dc | "Bb" B3 [db] [db]2 |1 "Bb" [db]3 gfe :|2 "Bb" [db]4 z2 |]
+

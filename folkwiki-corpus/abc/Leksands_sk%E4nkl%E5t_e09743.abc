@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Leksands skänklåt
+R:Skänklåt
+O:Leksand, Dalarna
+N:Från Blue Rose.
+M:4/4
+L:1/8
+K:Dm
+V:1
+A2 f2 f2 ed|e2 f2 e2 A2|A2 d2 d2 (c=B)|c2 (cd) c2 A2|A2 f2 f2 ed|
+e2 f2 e2 A2|A2 d2 d2 (c=B)|c2 (cd) c2 A2|A2 f2 f2 (ed)|g2 ga (ge) fg|
+a2 ab a2 ab|(ag) fe d2 ag|f2 ed ed c2|d6 A2::f2 ag f2 ed|
+(cd) cB (AB) AG|(FG) FD (EF) ED|E6 A2|f2 ag f2 ed|
+(cd) cB (AB) AG|(FG) FD (EF) ED|E6 ag|f2 ed ed c2|1d6 A2:|2d8]|
+V:2
+[DA]2 d2 d2 ^c=B|^c2 cd c2 A2|F2 (FG)  F2 (ED|E2) EF E2 E2|A2 d2 d2 ^c=B|
+^c2 cd c2 A2|F2 (FG) F2 (ED|E2) EF E2 (^C<E)|A2 D2 D2 (^c=B)|e2 ef (e^c) de|
+f2 fg e2 fg|(fe) (d^c) A2 (Ac)|d2 ^c=B (cB) AG|[AF]6 D2::d2 fe d2 cB|
+(AB) AG (FG) FE|(DE) D=B, (^CD) CB|^C6 D2|d2 fe d2 AB|
+(AB) AG (FG) FE|(DE) D=B, (^CD) CB|^C6 fe|d2 ^c=B cB AG|1[AF]6 D2:|2[AF]8]|
+

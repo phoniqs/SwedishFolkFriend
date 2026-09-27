@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:38
+T:Polska
+T:(SvL Hälsingland 38)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 38
+O:Hassela, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]] (Nr 18 i Bengt Ohlsons Hall-samling)
+L:1/16
+M:3/4
+K:Bb
+V:1
+|:"^1" D2F2 (ED)EC B,2DF | B2df (g2d2) f2>e2 | (dc)BA (Bc)de f2ga | b2E2 (EB)gb b2ag | 
+f2D2 (DB)fb f2ed | e2C2 (CF)Af (ed)cB | A2C2 (CF)Af (ed)cB |1 
+ (AB)cA B2cd F2>E2 :|2,8 (AB)cA B4 z4 |:[K:F] A2c2 (BA)Bd c2de | f2a2 (g^f)gb a4 | 
+ a2A,2 (A,E)^ca (ag)fe | (fA)(Af) (fe)d^c d2ef | g2G,2 (G,D)=Bg (gf)ed | (eG)Ge (ed)c=B c2>B2 |
+ A2c2 (BA)Bd c2Ac | B2d2 (cB)ce d2Bd | c2ba (gf)ed c2Ac |1 (BG)BG F4 z4 :|2 (BG)BG F5uu _E |] 
+V:2
+|:"^2""Bb" B,2D2"F7" C2A,2 "Bb"B,2B,D |"Bb" F2Bd (B2G2) d2>c2 | (BF)DC (DF)Bc d2ef | "Eb" [Ge]2[Ge]2 [Ge]2Be e2dc |
+"Ab" [Fd]2[Fd]2 [Fd]2Bd d2cB |"F7" [Fc]2[Fc]2 (FA)cd (cB)AG | E2A,2 (A,C)FA (GF)ED |1 
+"F7"(CD)EC "Bb"D2EF "Bb"D2>C2 :|2,8"F7" (CD)EC"Bb" D4 z4 |: [K:F]"F" F2A2"C7" G2GB"F" A2Bc |"F" A2c2"C7" B2Bd"F" c4 | 
+"A7"[E^c]2[Ec]2 (^CE)Ac (cB)AG | "Dm" [Fd]2[Fd]2 (AG)FE F2GA |"G7" [D=B]2[DB]2 (=B,D)GB (BA)GF |"C" [Ec]2[Ec]2 (GF)ED E2>G2 | 
+"F7"F2A2 "C7" (GF)GB A2FA |"Bb" G2B2 "F7" (AG)Ac "Bb"B2GB |"C7" G2dc (BA)GF E2CE |1"C7" (E2C2) "F"A,4 z4 :|2 "C7" (E2C2) "F" A,5 "^B.O." C |]
+

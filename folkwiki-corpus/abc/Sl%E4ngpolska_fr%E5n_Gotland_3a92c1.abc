@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:105
+T:Slängpolska från Gotland
+T:(Sv Folkdanser Del 1)
+O:Gotland
+R:Slängpolska
+S:August Fredin
+Z:http://runeberg.org/folkdans/besk/0105.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 105
+Z:"Sv Folkdanser Del 1 105. Slängpolska från Gotland"
+L:1/16
+M:3/4
+K:F
+V:1
+"^1""^Förspel" f2fe g2gf a2a2 | (gb)eg g4 f2 |][K:F][M:3/4][K:treble]"^Dans" a2 |: f4 (cB)AG F2d2 | B4 (GF)ED C4 | F2FE G2GE F4 | 
+(fe)fa (gf)ed c2a2 | f4 (cB)AG F2d2 | B4 (GF)ED C4 | f2fe g2gf a2a2 |1 (gb)eg g4 f2a2 :|2 
+(gb)eg g4 f2c2 |: f2af (ef)af (ef)af | (eg)bg (eg)bg (ag)fe | f2af (ef)af (ef)af | 
+(eg)bg (eg)bg (ag)fe | (fg)ag (fe)dc (BA)GF | (EF)GA (BA)Bc d2>B2 | (GF)ED E4 F2c2 :: 
+A4 F2FA c2cB | G4 C2EG c2cB | A4 F2FA c2c=B | d2d=B G2AB c4 | f2fe g2ge f2>c2 | 
+(fg)ag (fe)dc (BA)GF | (EF)GA (BA)Bc d2>B2 |1 (GF)ED E4 F2c2 :|2 (GF)ED E4 F2 z2 |] 
+V:2
+"^2""F" A2AG B2BA c2c2 |"C7" e2cB B4"F" A2 |][K:F][M:3/4][K:treble] c2 |:"F" A4 (AG)FC A,2B2 | 
+"C7" G4 (ED)CB, G,4 |"F" A,2A,G, B,2B,G, A,4 | (AG)Ac (BA)GF"C7" E2c2 | "F"A4 (AG)FC A,2B2 | 
+"C7" G4 (ED)CB, G,4 |"F" A2AG B2BA c2c2 |1"C7" e2cB B4"F" A2c2 :|2"C7" e2cB B4"F" A2F2 |: 
+"F" A2cA (GA)cA (GA)cA |"C7" (ce)ge (ce)ge fcBG |"F" A2cA (GA)cA (GA)cA | 
+"C7" (ce)ge (ce)ge (fc)BG |"F" (Ac)fe (dc)BA (GF)ED |"C7" (CD)EF (GF)GA B2>G2 | 
+"C7" (ED)CB, B,4"F" A,2A2 ::"F" F4 C2CF A2AG |"C7" E4 G,2CE E2EG |"F" F4 C2CF A2AG | 
+"G7"=B2BG =B,2DG "C7"E4 |"F" A2AG B2BG A2>F2 | "^Stämförslag B.O."(Ac)fe (dc)BA (GF)ED |"C7" (CD)EF (GF)GA B2>G2 |1 "C7" (ED)CB, B,4"F" A,2F2 :|2"C7" (ED)CB, B,4"F" A,2 z2 |]
+

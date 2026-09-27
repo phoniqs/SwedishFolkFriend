@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:95
+T:Schottis från Idre
+T:(Sv Folkdanser Del 1)
+S:Storbo Jöns
+R:Schottis
+O:Idre, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 95. Schottis från Idre"
+Z:http://runeberg.org/folkdans/besk/0091.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 95
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (e>f)ec A2Bc | d2d2 d2 z2 |:[K:D][M:2/4][K:treble]"^Dans" D2FA (!>!d2!>!d2) | 
+D2FA (d>e)dc | (e>f)ec A2Bc | d2cB (A>G)FE | 
+D2FA (!>!d2!>!d2) | D2FA (d>e)dc | (e>f)ec A2Bc | d2d2 d4 :: 
+a2a2 g2eg | f2d2 e4 | =f2ag f2ed | (c>d)ed (!>!c2!>!A2) |
+ a2a2 g2eg | f2d2 e4 | =f2ag f2ed | (c>d)ec d4 :| 
+V:2
+"^2""A7" c2cA E2GA |"D" [FA]2[FA]2 [FA]2 z2 |:[K:D][M:2/4][K:treble]"D" A,2DF (!>!A2!>!A2) | 
+A,2DF A2AG |"A7" c2cA E2GA | "D"F2AG F2DC | 
+A,2DF (!>!A2!>!A2) | A,2DF A2AG |"A7" c2cA E2GA | "D" [FA]2[FA]2 [FA]4 ::
+"Dm" =f2f2 e2ce |"D" d2B2"A7" c4 |"Dm" d2=fe d2A=F |"A7" E2G=F (!>!E2!>!C2) | 
+"Dm"=f2f2 e2ce | "D"d2B2 "A7"c4 |"Dm" d2"^Stämförslag B.O."=fe d2A=F | "A7"E2GE "Dm" [=FA]4 :|
+

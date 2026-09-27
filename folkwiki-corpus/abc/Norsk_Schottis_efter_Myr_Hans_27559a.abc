@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Norsk Schottis efter Myr Hans
+S:Myr-Hans Nilsson
+O:Alfta, Hälsingland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 39. Norsk schottis efter Myr-Hans Nilsson, Alfta."
+L:1/16
+M:2/4
+K:Dm
+V:1
+|:"^1""^Långsamt" d2A2 B2G2 | (AG)FG A4 | (GF)EG (FE)DF | E2A2 A2>A2 | 
+d2A2 B2G2 | (AG)FG A4 | (GF)EG (FE)DF | E2^c2 d4 :: 
+f2ef a2ff | (e^c)Ac e4 | f2df e2^ce | (de)fd A2Ae | 
+f2ef a2ff | (e^c)Ac e4 | ^f2df e2^ce | d2d2 d4 :| 
+V:2
+|:"^2" F2D2 E2^C2 | (FE)DE F4 | (ED)^CE (DC)A,D | ^C2E2 E2>E2 | 
+F2D2 E2^C2 | (FE)DE F4 | (ED)^CE (DC)A,D | ^C2E2 F4 :: 
+d2^cd f2dd | (^cA)EA c4 | d2Ad ^c2AG | (FG)AF E2Ec | 
+d2^cd f2dd | (^cA)EA c4 | d2Ad ^c2AG |"^B.O." ^F2F2 F4 :|
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Trettondagssnoa
+C:Rolf Jonsson
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Rolf Jonsson"
+L:1/16
+Q:1/4=90
+M:2/4
+K:F
+V:1
+"^1" (AB) |:"F" c2dc (A2F2) | C2F2 A2c2 | C2CF (A2_A2) |"C7" G6 (GA) | B2cB (G2E2) | C2E2 G2c2 | e2>f2 e2d2 |
+"F" c6 (AB) | c2dc (A2F2) | C2F2 A2c2 | f2ef (gf)e^d | "Bb" d6 (de) | f2ef (gf)ed | "F" c2=Bc (d2c2) |
+"C7" B2AB (cB)AG |"F" A2B2"F7" c2>f2 |"Bb" f2ef (gf)ed |"F" c2=Bc (dc)AF | "C7" C2EG (cB)AG |1"F" F2F2 F2(AB) :|2,8
+"F" F2F2 F2 z2 |:[K:Bb]"Bb" bbbb b2a2 | "G7" g2f2 e2d2 |"Cm" eeee e2d2 |"C7" c2B2 A2G2 |"F7" F2CF A2FA | 
+c2Ac f2fe |"Bb" d2dc B2g2 | "F7" f8 |"Bb" bbbb b2a2 |"G7" g2f2 e2d2 |"Cm" eeee e2d2 |
+"C7" c2B2 A2G2 |"F7" F2CF A2FA | c2Ac f2fg | a2>g2 (fe)dc |1"Bb" B2B2 B2 z2 :|2"Bb" B2B2 B2 |] 
+V:2
+"^2" (FG) |: A2BA (F2C2) | A,2C2 F2A2 | A,2A,C (F2F2) | E6 (EF) | G2AG (E2C2) | G,2C2 E2G2 | c2>d2 c2B2 | 
+A6 (FG) | A2BA (F2C2) | A,2C2 F2A2 | A2^GA (BA)GF | B6 (Bc) | d2^cd (ed)=cB | A2^GA (B2A2) | 
+G2^FG (AG)FE | F2G2 A2>d2 | d2^cd (ed)=cB | A2^GA (BA)FC | G,2CE (GE)CB, |1 A,2A,2 A,2(FG) :|2,8 
+A,2A,2 A,2 z2 |:[K:Bb] dddd d2c2 | B2A2 G2F2 | GGGG G2F2 | E2D2 C2B,2 | C2A,C F2CF | A2FA A2AG | F2FE D2B2 | A8 | dddd d2c2 | 
+B2A2 G2F2 | GGGG G2F2 | E2D2 C2B,2 | C2A,C F2CF | A2FA A2AB | c2>B2 (AG)FE |1 D2D2 D2 z2 :|2 "^B.O." D2D2 D2 |]
+

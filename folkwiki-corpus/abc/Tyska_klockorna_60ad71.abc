@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Tyska klockorna
+T:Marsch efter Pelle Fors
+R:Marsch
+S:Pelle Fors
+S:Pelle Björnlert
+O:Vikbolandet, Östergötland
+Z:Karin Helander
+N:Från inspelningar med Pelle Björnlet: https://www.facebook.com/watch/?v=267898381225014
+N:Verkar spelas med stämning A-E-A-E, eller till och med A-E-C#-E, men går säkert bra att spela med den vanliga också.
+M:2/4
+L:1/16
+K:A
+V:1
+ef |: (edcd) (ef)gf | (ed)cd (cd)ef | (gf)ed c2E2 | c4 E2ef | 
+(edcd) (ef)gf | (ed)cd (cd)ef | (gf)ed c2E2 | c4 E4 | 
+!+!c2!+!E2 f4 | !+!c2!+!E2 e4 | !+!c2!+!E2 d4 | !+!c2!+!E2 B4 |
+!+!c2!+!E2 f4 | !+!c2!+!E2 e4 | !+!c2!+!E2 d4 | !+!c2!+!E2 B3C |
+(DEFD) (CDEC) | (DEFD) (CDEC) | E2FG A2cc | E2FG A3C | 
+(DEFD) (CDEC) | (DEFD) (CDEC) | E2FG A2cc |1 E2FG A2ef :|2 E2FG A4 |]
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:516
+T:Polska efter Axel Axelsson
+T:efter fadern
+T:(OA 516)
+B:Sörmländska låtar samlade av Olof Andersson nr 516
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:En variant av polskan – i moll - ingår i Bagges 76 Polskor från Östergötland, n:r 32.
+Z:Anders Larsson 2025-02-28
+M:3/4
+L:1/4
+Q:90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:A
+A/A/4B/4 c/B/ A/B/ | (c/4B/4)c/4d/4 e c/>e/ | e/>g/ g/>a/ a/>f/ |1 (a/4b/4)a/4g/4 e2 :|2  (a/4b/4)a/4g/4 e3/2 e/ |:
+e/>g/ g/a/ a/f/ | (a/4b/4)a/4g/4 e/e/ c/>c/ | c/>e/ (=g/4a/4)g/4f/4 d/e/ |  (=g/4f/4)e/4f/4 d/d/ B |
+(A/4B/4)c/4d/4 e/e/4c/4 A/>c/ |1 (B/4c/4)B/4A/4 G/A/ A/e/ :|2 (B/4c/4)B/4A/4 G/A/ A |]
+

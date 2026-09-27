@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Torsång
+S:Hans Haglöf
+S:Hans Andersson
+O:Torsång, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (22) eft. Hans Andersson Haglöf, Torsång."
+L:1/8
+M:3/4
+K:Am
+V:1
+"^1" (E |: A2) (Ac) e2 | d>(c Bd) g2- | g2 f/e/f/g/ a>f |1T fe e3 E :|2
+T fe e3 A- |: A>g{ag} a>(a f/4e/4f/4e/4f/)a/ |T g2 ec A2- | A>g a>(a f/e/f/)a/ | 
+g/a/g (ec) A2- | A2 d/4c/4d/4c/4B G>B |1 Bc A3 A- :|2 Bc A3 z |] 
+V:2
+"^2" C |: E2 (EA) c2 | B>(A GB) B2- | B2 d/c/d/e/ f>d |1 dB B3 C :|2 
+dB ^G3 F- |: F>e f2 d>f | e2 cA E2- | E>B c>(c A>)c | 
+e/f/e (cA) E2- | E2 AG D>G |1"^Stämförslag B.O." GA [CE]3 F :|2 GA [CE]3 z |]
+

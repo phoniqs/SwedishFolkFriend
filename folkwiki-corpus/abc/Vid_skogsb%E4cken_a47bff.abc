@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Vid skogsbäcken
+C:Lars Fredriksson
+O:Vallsta, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+I:linebreak $
+K:Eb
+V:1
+|:"^1" (ED)EF (G2E2) B2E2 | e2B2 (GF)ED E4 | (ED)EF (G2E2) (AG)FE | (DE)FG F4 B,4 | 
+(ED)EF (G2E2) B2E2 | e2B2 (GF)ED E4 | (ED)EF (G2E2) (AG)FE | (DE)FG F4 E4 :: 
+(A,E)(cE) (A,E)(cE) (A,E)(cE) | (G,E)(BE) (G,E)(BE) (G,E)(BE) | (DB)(fB) (DB)(fB) (DB)(fB) | (EB)(gB) (EB)(gB) (EB)(gB) | 
+(A,E)(cE) (A,E)(cE) (A,E)(cE) | (G,E)(BE) (G,E)(BE) (G,E)(BE) | (B=A)Bc (d2B2) e2B2 | (GF)ED F4 E4 :: 
+g2fe (d2c2) =B2G2 | c2BA (G2F2) E2D2 | (C=B,)CD (E2C2) D2B,2 | (C=B,)CD (ED)EF G4 | 
+g2fe (d2c2) =B2G2 | c2BA (G2F2) E2D2 | (C=B,)CD (ED)EF G2c2 | (ed)c=B d4 c4 :| 
+V:2
+|:"^2" G,2>A,2 B,2G,2 E2G,2 | G2E2 B,2B,A, G,4 | G,2>A,2 B,2G,2 (FE)DC | (B,C)DE D4 A,4 | 
+G,2>A,2 B,2G,2 E2G,2 | G2E2 B,2B,A, G,4 | G,2>A,2 B,2G,2 (FE)DC | (B,C)DE A,4 G,4 :: 
+C2>A,2 A,2C2 C2A,2 | E2>B,2 B,2E2 E2B,2 | F2>B,2 B,2F2 F2B,2 | G2>B,2 B,2G2 G2B,2 | 
+C2>A,2 A,2C2 C2A,2 | E2>B,2 B,2E2 E2B,2 | (DC)DE (F2D2) G2E2 | (B,A,)G,B, A,4 G,4 :: 
+e2dc (=B2=A2) G2D2 | A2GF (E2D2) C2=B,2 | G,2>(=B,2 C2G,2) B,2G,2 | G,2>(=B,2 CB,)CD B,4 | 
+e2dc (=B2=A2) G2D2 | A2GF (E2D2) C2=B,2 | G,2>(=B,2 C=B,)CD E2G2 | (GF)ED F4 E4 :|
+

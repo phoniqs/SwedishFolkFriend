@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Åsksmällen
+C:Göras-Anders
+O:Rättvik, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:A
+V:1
+"^1""^Polska" (d |: c2) E>(d c/d/4c/4B/c/) |{c} d2 (FE/F/) (dc/d/) | e>(e f>)(f g>)g |{g} a2 (g/a/)g/f/ e>d | 
+c2 E>(d c/d/4c/4B/c/) |{c} d2 (FE/F/) (dc/d/) | e>(e f>)(f g>)g |1 {g} a2 a3 d :|2{g} a2 a3 a |: 
+c'>(b c'2) e>a | ag/f/ g3 a | b>(a b2) a>g | f2 d3 f- | 
+f2 e>d c>d | e2 e3 a | g>(a g<e) f>g |1{g} a2 a3 a :|2{g} a2 a3 z |] 
+V:2
+"^2" B |: A2 C>(B AG) | F2 DC/D/ (FE/F/) | B>B d>(d e>)e | c2 e/f/e/d/ c>B | 
+A2 C>B AG | F2 DC/D/ (FE/F/) | B>B d>(d e>)e |1 c2 c3 B :|2 c2 c3 (e |: 
+a>)(g a2) c>f | fe/d/ e3 (f | g>)(f g2) f>e | d2 F3 d- | 
+d2 (c>B) A>B | c2 c3 (f | e>)(f e<B) d>e |1 "^Stämförslag B.O." c2 c3 e :|2 c2 c3 z |]
+

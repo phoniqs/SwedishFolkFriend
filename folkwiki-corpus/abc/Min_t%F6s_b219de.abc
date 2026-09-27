@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Min tös
+T:Schottis
+C:Otto Hultner
+O:Stockholm
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Otto Hultner."
+L:1/16
+M:2/4
+K:D
+V:1
+|:"^1" F>GA>B A>BA>G | F>GA>B A2(f>g) | f2e2 A2(e>f) | (e>d)cB A4 | 
+F>GA>B A>BA>G | F>GA>B A2(f>g) | f2e>g f2e2 | d2d2 d4 :: 
+B2B>c (e>d)d>B | A>FA>d f2(f>a) | (a>g)g>e A2e>g | (g>f)f>e d4 | 
+B2B>c (e>d)d>B | A>FA>d f2(f>g) | f2e>g f2e2 |1 d2d2 d4 :|2 d2d2 d2 (de/f/ |: 
+[K:G] g2)G>G (G>A)B>c | (e>d)d>B (G>B)d>g | f2A>A (A>B)c>e | (e>d)d>B G2 de/f/ |
+g2G>G (G>A)B>c | e>dd>B (G>B)d>g | f2>e2 d>cB>A |1 G2G2 G2 de/f/ :|2 G2G2 G4 |] 
+V:2
+|:"^2" D>EF>G F>GF>E | D>EF>G F2(A>B) | A2G2 G2(G>A) | (A>G)AG F4 | 
+D>EF>G F>GF>E | D>EF>G F2(A>B) | A2G>B A2G2 | F2F2 [FA]4 :: 
+G2G>A (c>B)B>G | F>DF>A d2(d>f) | (f>e)e>c G2c>e | (e>d)d>A F4 | 
+G2G>A (c>B)B>G | F>DF>A d2(A>B) | A2G>B A2G2 |1 F2F2 [FA]4 :|2 F2F2 F2 (FG/A/ |: 
+[K:G] B2)D>D (D>F)G>A | (c>B)B>G (D>G)B>e | d2F>F (F>G)A>c | (c>B)B>G D2 FG/A/ | 
+B2D>D (D>F)G>A | c>BB>G (D>G)B>e | d2>A2 F>ED>C |1 "^Stämförslag B.O." B,2B,2 B,2 FG/A/ :|2 B,2B,2 [B,D]4 |]
+

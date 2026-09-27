@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Vispolska från Stöde
+S:Efter Einar Wiklund, Stöde
+O:Stöde, Medelpad
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" A |: A>(F DF) GB | AB/A/ GA/G/ FA | d2 (A>c) df | ef/e/ de/d/ cA |
+"D" A>(F DF)"G" GB | "A7" AB/A/ GA/G/"D" FA | d2 (A>c) df |1 (e/f/)e/c/ d3 A :|2 (e/f/)e/c/ d3 f |:
+T f2 (A>f) Af | fe/f/ ge/g/ fd |T e2 (A>e) Ae | ed/e/ fd/f/ ed |
+T f2 (A>f) Af | fe/f/ ge/g/ fd | e>f ge/g/ fd/f/ |1 (ec) d3 f :|2 (ec) d3 z |] 
+V:2
+"^2" F |:"D" F>D A,(D/A,/)"G" B,(D/B,/) |"A7" C(D/C/) B,(D/B,/)"D" A,D | (F/G/)F/E/ (F>G) Ad | "D" cd/c/ Bc/B/"A7" AE |
+ F>D A,(D/A,/) B,(D/B,/) | C(D/C/) B,(D/B,/) A,D | (F/G/)F/E/ (F>G) Ad |1 "A7" (c/B/)A/G/"D" F3 F :|2"A7" (c/B/)A/G/"D" F3 d |:
+"D" d2 (D/E/)F/G/ Ad | dc/d/ ec/e/ dB | "A7" c2 (A/^G/)A/B/ cc | cB/c/ dB/d/"D" c/A/B/c/ |
+"D" d2 (D/E/)F/G/ Ad | dc/d/ ec/e/ dB | "A7" G>A BG/B/"D" AF/A/ |1"A7" (GE)"D" F3 d :|2"A7" (GE)"D" F3 z |]
+

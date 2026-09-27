@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:108
+T:Snurrebocken
+T:(Sv Folkdanser Del 1)
+O:okänt ursprung
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 108. Snurrebock"
+Z:http://runeberg.org/folkdans/besk/0109.html
+Z:"Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 108
+B:Musik till Gillesdanser i Norden
+N:Lekstugan 2 (s. 8) beskriver dansen, och tar med en polska av nyckelharpsspelmännen Ström och Skoglund. Svenska Ungdomsringen behåller proveniensen, men byter ut musiken helt, utan att berätta varifrån den nya låten kommer. Vissa likheter finns med Philochoros' 3:e häfte, s. 23, och SvL Skåne 449.
+L:1/8
+Q:1/4=120
+M:3/4
+K:D
+V:1
+"^1""^Förspel" f2 (f>a) g>f | f>e (e>^d) e2 | (A>c) (e>g) f>e | d2 d3 z |: [K:D][M:3/4]"^Dans"[Q:1/4=120] (A>d) (f>a) f>d | 
+(A>d) (f>a) f>d | "^Spelas önskat antal ggr."(A>d) (f>a) g>f | f>e (e>^d) e2 | (A>c) (e>g) e>c | 
+(A>c) (e>g) e>c | (A>c) (e>g) f>e | e>d (d>c) d2 | f2 (f>a) g>f | 
+f>e (e>^d) e2 | (A>c) (e>g) f>e | d>e (f>g) a2 | f2 (f>a) g>f | f>e (e>^d) e2 | 
+(A>c) (e>g) f>e | d2 d4 | z2 z[Q:1/4=50] dcd | B3 dcd | A3[Q:1/4=40] dcd :|"^Slut" [Fd]6 |] 
+V:2
+"^2""D" d2 (d>f) e>d |"A7" d>c (c>B) c2 | (E>A) (c>B) A>G |"D" F2 F3 z |: [K:D][M:3/4]"D" (F>A) (d>f) d>A | 
+(F>A) (d>f) d>A | (F>A) (d>f) e>d |"A7" d>c (c>B) c2 | (E>A) (c>e) c>A | (E>A) (c>e) c>A | 
+(E>A) (c>B) A>G |"D" G>F (F>E) F2 | d2 (d>f) e>d | "A7" d>c (c>B) c2 | (E>A) (c>B) A>G |
+"D" F>A (d>e) f2 | d2 (d>f) e>d |"A7" d>c (c>B) c2 |  (E>A) (c>B) A>G |
+"D" F2 [FA]4 | "^Stämförslag B.O."z2 z FEF | "G" G3 GFG |"D" F3 FEF :|"D" [DA]6 |]
+

@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:53
+T:Polska efter Jons-Axel Nr 53
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polska
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 53. Polska"
+L:1/8
+Q:1/4=112
+M:3/4
+K:G
+V:1
+|:"^1"v (B>c) (B>A) B>c | d2 d2 z2 | b z c' zu b z | f2 A4 | (A>B) (A>G) A>B | c2 c2 z2 | 
+f z e zu d z | B2 G4 | (B>c) (B>A) B>c | d2 d2 z2 | b z c' zu b z | a2 e4 | 
+(gf) a4 | (gB) d4 | f>(e d>)(d e>)f | g2 g2 z2 :: b/b/b/b/ b/b/b/b/ b/b/b/b/ | 
+(3(bc'a) (f2 d2) | a/a/a/a/ a/a/a/a/ a/a/a/a/ | a>b g>d B2 | A>B (c>d) e2 | G>A (B>c) d2 | 
+ (dc) (Ad) fa | g2 g2 z2 ::[K:C] c'c' c'2 e2 | aa a2 B2 | (GA) Bc d2 | 
+ (cd) e^f g2 | c'c' c'2 e2 | aa a2 B2 | (GA) (Bc) dB | c2 c2 z2 :| 
+V:2
+|:"^2" "G" (G>A) (G>F) G>A | B2 B2 z2 | d z e z d z |"D7" A2 F4 | (F>G) (F>E) F>G | A2 A2 z2 | 
+d z c z B z |"G" G2 D4 | (G>A) (G>F) G>A | B2 B2 z2 | d z e z d z |"C" c2 c4 | (ed) c4 | 
+"G" (BG) B4 |"D7" c>(A F>)(F A>)c |"G" B2 B2 z2 ::"G" B2 (c2 d2) |"D7" d2 (c2 A2) | 
+A2 (B2 c2) |"G" c2 (B2 G2) | "C" F>G (A>B) c2 | "G" D>F (G>A) B2 | "D7" (BA) (FA) cd | "G" B2 B2 z2 :: 
+[K:C] "C" ee e2 c2 | "G7" ^ff f2 ^F2 | (D^F) GA B2 | "C" (EG) cd e2 | ee e2 c2 | "G7" ^ff f2 ^F2 | 
+"^Stämförslag B.O." (D^F) (GA) BG |"C" E2 E2 z2 :|
+

@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter en visa
+R:Polska
+S:Efter Erik Ljung
+O:Delsbo, Hälsingland
+B:SMUS
+Z:Håkan Lidén, 2010-06-03
+N: Sjöngs av Korpral Ljung från Järfsö (Järvsö), bodde på Järnvallen, Delsbo socken
+N: Finns på SMUS
+N: Inspelad som "Självspillningslåten" av Jonas Olsson och Örjan Hans-Ers på skivan "Vid foten av Klacken".
+N: Spelbar på svensk säckpipa med transponering.
+N: Samma låt som Polska efter kopral Ljung (SvL Hälsingland 334).
+M:3/4
+L:1/8
+K:Dm
+|: A | d^c de f/e/f/a/ | ge d3 ^f | ^fe df af | d>^f e3 :|[K:D] 
+|: g | fe fa gf | ed cd Bc | Ac dg fa | ge d3 :|]
+

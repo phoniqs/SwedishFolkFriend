@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Höstvisa
+C:Erik Englund
+O:Böle, Jämtland
+R:Visa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Stämma Erik Englund."
+L:1/4
+M:4/4
+K:Dm
+V:1
+"^1" A | f e/d/ ^c d/e/ | d2 A A | d c/B/ A B | G3 B | 
+A E/F/ G A/B/ | A F D D/E/ | F E/F/ G F/G/ | A3 A | 
+f e/d/ ^c d/e/ | d2 A A | d c/B/ A B | G3 B | 
+A E/F/ G A/B/ | A F D D/E/ | F E/D/ E F | D3 d | 
+c G/A/ B c | A2 A d | c G/A/ B c | A3 A | 
+A E/F/ G A/B/ | A d B G | A d/f/ e A/^c/ | d3 |] 
+V:2
+"^2" D |"Dm" A G/F/"A7" E F/G/ |"Dm" A2 F F |"D7" ^F E/D/ C D |"Gm" G, B, D G | 
+"A7" E ^C/D/ E F/G/ |"Dm" F D A, A,/^C/ |"Dm" D ^C/D/"Gm" E D/E/ |"A7" ^C E D C | 
+"Dm" A G/F/"A7" E F/G/ |"Dm" F2 D F |"D" ^F E/D/ C D |"Gm" B, D G, G |
+"A7" E ^C/D/ E F/G/ | "Dm" F D A, A,/^A,/ |"Dm" A G/F/"A7" G A |"Dm" F3 F |
+"C" E E/F/ G A |"F" F2 F B | "C" E E/F/ G E |"F" z F E D |
+"A7" ^C C/D/ E F/G/ |"Dm" F A"Gm" G D | "Dm""^Stämma Erik Englund." F A/d/"A7" ^c E/G/ |"Dm" F3 |]
+

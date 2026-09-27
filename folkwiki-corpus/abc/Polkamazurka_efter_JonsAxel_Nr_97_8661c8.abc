@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:97
+T:Polka-mazurka efter Jons-Axel Nr 97
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Mazurka
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 97. Polka-mazurka"
+L:1/8
+Q:1/4=152
+M:3/4
+K:G
+V:1
+"^1"u e |:v (dc) (Bg) dB | (BA) Ae c2 | (FA) (ce) cA | (AG) Gg d2 | 
+(dc) (Bg) dB | (BA) Ae c2 | (FA) (ce) cA |1 G z [Bg]2 zu e :|2 G z [Bg]2 zu D |: 
+D z B z({c}u (3BAB) | c z c z z3/2u B/ | (AG) (FG) AF | (GB) dg d2 | 
+D z B z({c}u (3BAB) | c z c z z3/2u B/ | (AG) (Fe) cA |1 G z [Bg]2 zu D :|2 G z [Bg]2 z2 |] 
+V:2
+"^2" c |:"G" (BA) (GB) GD |"Am" (FE) EA E2 |"D7" (DF) (FA) FD |"G" (DB,) B,G B2 | 
+(BA) (GB) GD |"Am" (FE) EA E2 |"D7" (DF) (FA) FD |1"G" B, z [B,G]2 z c :| "G" B, z [B,G]2 z B, |:
+"G" B, z D z G2 |"Am" A z A z z3/2 G/ |"D7" (FE) (DB,) CA, | "G" (B,D) GB G2 | 
+"^Stämförslag B.O." B, z D z G2 |"Am" A z A z z3/2 G/ |"D7" (FE) (DF) DC |1 "G" B, z [B,G]2 z B, :|2 "G" B, z [B,G]2 z2 |]
+

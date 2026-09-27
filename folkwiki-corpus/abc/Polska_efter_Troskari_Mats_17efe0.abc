@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Troskari Mats
+T:"Kari-leken"
+S:Efter Troskari Mats
+O:Malung, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:A
+V:1
+"^1""^\"Kari-leken\"" (e/f/ |: e>)e c2 f2 | e>c e2 a2 | g>f ed B>c | (d<e) c3 e/f/ | 
+e>e c2 f2 | e>c e2 a2 | g>a be f>g |1 a2 a3 e/f/ :|2 a2 a3 (f |: 
+e>)d (c<A) (c<A) | e>d (c<A) c<A | d>(c B<G) B>d | (cB) A3 f | 
+e>d (c<A) (c<A) | e>d c<A (c<A) | d>c B<G B>d | cB A3 f | 
+e>d c2 a2 | g>f d2 b2 | a>e c2 d>c |1 Bc/B/ A3 f :|2 Bc/B/ A3 z |] 
+V:2
+"^2" c/d/ |: c>c A2 d2 | c>A c2 c2 | e>d cB G>A | B<c A3 c/d/ | 
+c>c A2 d2 | c>A c2 c2 | e>f gB d>e |1 c2 c3 c/d/ :|2 c2 c3 (d |: 
+c>)B (A<E) (A<E) | c>B (A<E) A<E | B>(A G<E) G>G | (ED) C3 d | 
+c>B (A<E) (A<E) | c>B A<E (A<E) | B>A G<E G>G | ED C3 d | c>B A2 c2 | 
+d>B F2 d2 | c>A E2 F>E |1 DE/"^Stämförslag B.O."D/ C3 d :|2 DE/D/ C3 z |]
+

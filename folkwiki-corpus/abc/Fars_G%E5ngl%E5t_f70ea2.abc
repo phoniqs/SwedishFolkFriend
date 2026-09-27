@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:125
+T:Fars Gånglåt
+C:Eric Öst
+O:Hälsingland
+R:Gånglåt
+Z:Hudiksvalls spelmanslag 125
+Z:2020-02-06
+L:1/16
+M:2/4
+K:Bb
+[Bf]2 |:"Bb" [db]4 [Bf]2>[Fd]2"Bb" | [DB]4 ({Bc}B2)AB |"Eb" [Ge]4 [EB]2>[B,G]2 |"Eb" [G,E]6 G2 | 
+"F7" (F=E)FG (A^G)AB |"F7" (c=B)cd (ed)ef |"F7" (gf)=ef (af)_ec |"Bb" ({Bc}B2)AB (dB)df | 
+"Bb" [db]4 [Bf]2>[Fd]2 |"Bb" [DB]4 ({Bc}B2)AB  |"Eb" [Ge]4 [EB]2>[B,G]2 |"Eb" [G,E]6 G2 | 
+"F7" (F=E)FG (A^G)AB |"F7" (c=B)cd (ed)ef |"F7" (gf)=ef (_ec)AF |1"Bb" B6 [Bf]2 :|2"Bb" B6 FE |]
+|:!segno! "Bb" DFBF dFBF |"Bb" DFBF dFBF |"Bb" DFBd f=egf |"Bb" =efbf dBFD |
+"F7" EFAF cFAF | "F7" EFAF cFAF | "F7" EFAc ecgf |"F7" edcB AGFE |
+"Bb" DFBF dFBF |"Bb7" D_ABA dABA | "Eb" EGBG eGBG |"Ebm" E_GBG cGBG |
+"Bb" DFBF dBfd | "Bb" bfdB fdBF |"F7" ecAF EFAc |1 "Bb" B6 FE :|2"Bb" B6 !fine! [G,D]2 |]
+|: "Gm" [Bg]4 [Bg]2>[Bg]2 |"D7" [A^f]6 fg | "D7" ag^f_e dcBA | "Gm" G2AB"D7" A2D2 |
+"Gm" [Bg]4 [Bg]2>[Bg]2 |"D7" [A^f]6"^Avsluta med 2:a reprisen 2 varv" ag | ^f_edc BAG^F |1 "Gm" [G,G]6 [G,D]2 :|2"Gm" [G,G]6 !D.S.!  =FE  |]
+

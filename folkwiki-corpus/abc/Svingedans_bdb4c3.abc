@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:3
+T:Svingedans
+T:(FMK Ske 18 bild 51)
+B:Folkmusikkommissionen
+R:Svingedans
+S:John Enninger saml
+O:????, Skåne
+B:Ske 18-51
+Z:Åke Persson 2012-03-12
+M:3/4
+L:1/8
+Q:108
+%%printtempo 0
+%%MIDI ratio 2 1
+K:G
+|: de d2 B2 | gf g2 e2 | Ac e2 (FA) | GB d2 B2 | de d2 B2 | gf g2 e2 | d/f/a c'2 zf | g2 g2 z2 :|
+|: b2 a2 g2 | ag f2 e2 | d2 c2 F2 | GB d2 B2 | b2 a2 g2 | ag f2 e2 | d/f/a c'2 zf | g2 g2 z2 :|
+

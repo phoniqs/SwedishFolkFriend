@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Kalle Thor's  låt'n
+T:Schottis
+S:Jonas Sjödin
+O:Långvattnet, Junsele, Ångermanland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Jonas Sjödin, Långvattnet, Junsele."
+L:1/16
+Q:1/4=72
+M:2/4
+K:G
+V:1
+"^1"u D2 |:v B2GB (GD)GB | A2FA (FD)FA | d2FA (FD)FA | d2GBu G2uD2 |
+ B2GB (GD)GB | A2FA (FD)FA | d2de d2FA |1 A2G2 G2D2 :|2 A2G2 G3 z |:
+v CCEG CCEG | B,B,DG [DB]2[DB]2 | D2FA (cA)FA | G2Bdu g2ug2 | 
+CCEG CCEG | B,B,DG [DB]2[DB]2 | D2FA (cA)FA | A2G2 G3 z :| 
+V:2
+"^2"u B,2 |: "G" G2DG (DB,)DG | F2DF (DA,)DF | "D7" F2DF (DA,)DF | "G" G2DGu D2uB,2 | 
+"G" G2DG (DB,)DG | "D7" F2DF (DA,)DF | F2FG F2DC |1 "G" C2B,2 B,2B,2 :|2 "G" C2B,2 B,3 z |:
+"C" v G,G,CE G,G,CE |"G"  G,G,B,D G2G2 | "D7" A,2DF (AF)DC |"G" B,2DGu B2uB2 |
+"C" G,G,CE G,G,CE |"G" G,G,B,D G2G2 | "D7" A,2DF (AF)DC |"G" C2B,2 "^B.O." B,3 z :|
+

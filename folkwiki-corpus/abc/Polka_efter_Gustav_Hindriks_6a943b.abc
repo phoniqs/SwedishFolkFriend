@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polka efter Gustav Hindriks
+O:Dala-Floda, Dalarna
+R:Polka
+S:Gustav Hindriks
+Z:[[Personer/Bengt Ohlson]]
+Z:"2. Polka Trad."
+Z:"DVD efter [[Personer/Ragnar Eriksson]]. Ragges dans: Hoppvals"
+L:1/8
+M:2/4
+K:D
+V:1
+|:"^1""^Ragges dans: Hoppvals" a>f ge | d/d/d/F/ BA | GE Ac | dF A2 |
+a>f ge | d/d/d/F/ BA | GE Ac | dd d z ::
+[K:A] ee/f/ ee/f/ | eA c2 | B/c/d d/e/f | (3(f/g/f/) e (3(f/g/f/) e | 
+ee/f/ ee/f/ | eA c2 | B/c/d e/f/g | aa a z :|
+V:2
+|:"^2""D" c>A"A7" BG |"D" F/F/F/D/ GF |"A7" EC GA |"D" FD F2 | 
+"D" c>A "A7" BG | "D" F/F/F/D/ GF | "A7" EC GA |"D" FF F z ::
+[K:A]"A" cc/d/ cc/d/ | cE A2 |"E7" G/A/B B/c/d |"A" dc dc | 
+cc/d/ cc/d/ | cE A2 | "E7" G/A/B G/A/B |"A" c"^Stämförslag B.O."c c z :|
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:26
+T:Polska efter Spel Olaus (SvL Bohuslän 26)
+R:Polska
+B:Svenska Låtar Bohuslän
+O:Svarteborg, Bohuslän
+S:Albert Fossum
+S:Spel Olaus
+N:A-bas.
+N:SvL: Polskan var efter en gammal spelman från Folkesberg i Svarteborg, kallad Spel Olaus. Denne var samtida med Gömmen.
+N:En annan spelman, Lorn i Rönninge, brukade även spela polskan. Lorn hörde ävenledes till de äldre spelmännen och var före Fossums tid.
+N:Melodin torde - enligt Nils Andersson - vara byggd på efterföljande vallåt (SvL 27).
+N:Jämför med SvL 18.
+N:Skillnad mot versionen i SvL: Drillarna i andra reprisen är här skrivna med trioler (för bättre MIDI).
+M:3/4
+L:1/8
+K:D
+{fgf}ed {de}Td>(c A)c|de (3.f.d.f {ef}(e3/2f//e//)|e>c (3ddf e>c|ed (3BcB [AA]2-|
+[AA][AA,] Td>(c A>)(c|d)e (3fdf ee-|[ec]e a(g (3f)gf|(3ecc (cd- L[dD]2):|
+|:A2 ab/a/ g3/2((3f//g//f//)|eg (3fef [ee](c|d)e (3fdf ((3e/f/e/)(c|e)d (3BcB [AA]2-|
+[AA]2 (3aba g3/2((3f//g//f//)|e>g (3fef e>(c|d>)f (3aba (3fgf|(3ecc (cd- L[dD]2):|
+

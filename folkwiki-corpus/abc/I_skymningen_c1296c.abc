@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:I skymningen
+T:Vals
+C:Jon-Erik Hall
+O:Hassela, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]] (nr 26 i hans Hall-samling)
+L:1/8
+M:3/4
+K:Gm
+V:1
+|:"^1" G3 ABc | d3 cBA | G3 Bdg | b3 ag^f | g3 agf | (ed) cd e2 | d3 edc | (BA) (G^F) AD | 
+G3 ABc | d3 cBA | B3 cde | f3 edc | d3 ^fdc | B3 AGc | (BA) (G^F) AD |  G4 z2 :: 
+(dg) (gd) ba | (ag) (gd) ba | (a^f) (fd) ed | (dc) (cB) BA | (dg) (gd) ba | (ag) (gd) d'c' | (c'b) (ba) ag | d4 z f |
+ (fe) (ea) c'a | (bf) (d'b) fd | (ge) (eg) bg | f4 d2 | (ec) (ce) ge | (dF) (Bd) fd |(eg) (fF) Ac | B4 z2 ::
+ (gb) (a^f) gb | a^f g2 d2 | ed e2 c2 | d6 | (ce) (dc) Bd | cA B2 G2 | (Ac) (BA) GB | (A^F) (DG) Bd |
+ (gb) (a^f) gb | a^f g2 d2 | ed e2 g2 | d6 | (dg) (ec) Bd | cA B2 G2 | (Ac) (BA) GB | (A^F) G4 :| 
+V:2
+|:"^2""Gm" B,3 DGA | ^F3 AGD | B,3 DGB | d3 cBA |"Eb" e3 fed | (cB) AB c2 |"D7" ^F3 cBA | (GD) (B,C) DC |
+"Gm" B,3 DGA | B3 AFE | "Bb"D3 FBc | d3 cBA |"D7" ^F3 AFE | "Gm"D3 CB,A, | "D7"(G,A,) (B,C) DC | "Gm"B,4 z2 ::
+"Gm" (GB) (BB) dc | (cB) (BB) dc |"D7" (^fd) (dc) cB | (BA) (AG) G^F | "Gm" (GB) (BB) dc | (cB) (BA) ^fa | (ag) (g^f) fe |
+ d^F A2 c2 | "F"(eA) (Ae) ae | "Bb"(dd) (Bf) dB | "Eb"(eG) (Ge) ge | "Bb"d4 B2 | "F"(cE) (Ec) ec | "Bb"(BD) (DB) dB | "F"(Ae) (AE) FE | "Bb"D4 z2 :: 
+"Gm"(Bd) (cA) Bd | cA B2 B2 | "Cm"c=B c2 E2 |"Gm" (^FD) (=EF) GA | "D7"(Ac) (BA) GB | AD "Gm"G2 B,2 | "D7"(D^F) (GD) B,D | (^FC) (B,D) GB |
+"Gm"(Bd) (cA) Bd | cA B2 B2 |"Cm" c=B c2 E2 |"Gm" (^FG) (AD) =EF | (GB) (c^F) GB | A^F G2 B,2 | "D7"(CE) (DC) B,D | "D7"(CA,) "Gm"B,4 :|
+

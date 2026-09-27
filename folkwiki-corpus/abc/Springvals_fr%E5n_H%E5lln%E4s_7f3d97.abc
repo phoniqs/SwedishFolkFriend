@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Springvals från Hållnäs
+S:Efter Ceylon Wallin
+O:Hållnäs, Uppland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Från CD med stämförslag B.O."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" D2 |: D2 GG G2 | G2 BB B2 | (3(BcB) (AG) FA | G2 BG D2 | 
+D2 GG G2 | G2 BB B2 | (3(BcB) (AG) FA | G4 D2 :: 
+G2 (B2 e2) | (3(ded) (B2 G2) | F2 (A2 c2) | (Ac) AG F2 | 
+A2 (D2 D2) | (Ac) (AG) FA | G2 (B2 e2) | (3(ded) (B2 G2) | 
+F2 (A2 c2) | (Ac) AG F2 | A2 (D2 D2) | (AB) (AG) FA |1,8 G4 D2 :|2 G4 |] 
+V:2
+"^2" B,2 |:"G" B,2 DD D2 | [G,D]2 GG G2 |"D7" G2 (FE) DC |"G" B,2 GD B,2 | 
+B,2 DD D2 | [G,D]2 GG G2 |"D7" G2 (FE) DC |"G" B,4 B,2 ::
+"G" B,2 (G2 c2) | B2 (G2 D2) |"D7" A,2 (D2 F2) | (FA) FE D2 | 
+D2 (A,2 A,2) | (FA) (FE) DC |"G" B,2 (G2 c2) | B2 (G2 D2) |
+"D7" A,2 (D2 F2) | (FA) FE D2 | "^Stämförslag B.O."D2 (A,2 A,2) | (FG) (FE) DC |1,8"G" B,4 B,2 :|2  "G" B,4 |]
+

@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis i a-moll av Åker Erland Jonsson
+R:Schottis
+O:Malung, Dalarna
+C:Åker Erland Jonsson
+Z:Skåning
+M:2/4
+L:1/16
+K:Am
+V:1
+|: g^fga g^fe2 | ede^f edc2| BABd cBAG | ABcd e2e2 |
+ g^fga g^fe2 | ede^f edc2| BABd cBAG | A2A2 A4 :|
+ |: E2ED EDEG| ABcd e2e2 | cdcA BdBG| ABAG E2E2|
+ E2ED EDEG| ABcd e2e2 |c2cA BdBG| A2A2 A4 :|
+

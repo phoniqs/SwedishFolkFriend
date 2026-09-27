@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Sommarfröjd
+C:Johan Hall
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+K:F
+V:1
+|:"^1" C4 F4 A4 | cdcB A2G2 F2"^Polska"A2 | D4 F4 B4 | dedc B2A2 G2B2 |
+ C2>E2 G2c2 e2f2 | g^fga b2g2 e2c2 |1 f2ef a2f2 c2B2 | A2>B2 c2d2 c4 :|2 B2>A2 G2c2 e2f2 | gage [Af]8 |: 
+a2^ga f4 c2>A2 | dcBA G^FGB d4 | g2^fg e4 c2>G2 | cBAG FEFG A4 | 
+f2ef d4 A2>F2 | G^FGA BABc d4 | c2eg b2>g2 e2c2 | Bceg [Af]8 :: 
+(Fc)(ac) (Fc)(ac) (Fc)(ac) | (Fd)(bd) (Fd)(bd) (Fd)(bd) | (Ec)(gc) (Ec)(gc) (Ec)(gc) | agfe f2c2 A2F2 | 
+(Fc)(ac) (Fc)(ac) (Fc)(ac) | (Fd)(bd) (Fd)(bd) (Fd)(bd) | (Ec)(gc) (Ec)(gc) (Ec)(gc) | agfe g4 f4 :| 
+V:2
+|:"^2" A,4 C4 F4 | ABAG F2E2 C2F2 | B,4 D4 F4 | BcBA G2F2 E2G2 | G,2>C2 E2G2 c2d2 | 
+e^def g2e2 c2B2 |1 A2GA f2c2 A2G2 | F2>G2 A2B2 A4 :|2 G2>F2 E2G2 B2c2 | BcBG [FA]8 |: 
+f2ef c2A2 F4 | BAGF D2G2 B4 | e2de c2G2 E4 | AGFG AGFE F4 | 
+d2cd A4 F2>A2 | BAGF G^FGA B4 | G2ce g2>e2 c2G2 | GABc [FA]8 :: 
+A2>F2 C2A,2 C2F2 | B2>F2 D2B,2 D2F2 | c2>G2 E2C2 E2G2 | cBAG A2F2 C2A,2 | 
+A2>F2 C2A,2 C2F2 | B2>F2 D2B,2 D2F2 | c2>G2 E2C2 E2G2 | cBAG B2cB A4 :|
+

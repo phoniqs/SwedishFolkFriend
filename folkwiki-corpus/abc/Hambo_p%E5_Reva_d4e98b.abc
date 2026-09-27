@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo på Reva
+C:Gerhard Hillerström
+O:Hammarstrand, Ragunda, Jämtland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik: Gerhard Hillerström"
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" D/ |: D>G G>B B>d | e2 d>^c d2 | D>G G>B B>d | d2 c>B c2 | 
+D>F F>A A>d | d>e f2 f>e | e>d f2 f>e | e2 d2- d>D | 
+D>G G>B B>d | e2 d>^c d2 | D>G G>B B>d | d2 c>B c2 | 
+D>F F>A A>d | d>e f3 e | (de/d/) (^c>d) e>f |1 g2 g3 z/ D/ :|2,8 g2 g3 z/ d/ |: 
+d>g g2- g>a | g>f f2- f>g | f>e e>G c>e | e2 d2- d>e | 
+d>c c>F A>c | B>^A B>c d2 | ^c>d e>A B>c | d2 d3 z/ d/ | 
+d>g g2- g>a | g>f f2- f>g | f>e e>G c>e | e2 d2- d>e | 
+d>c c>F A>c | B>^A B>c d2 | e2 e>g f>a |1 g2 g3 z/ d/ :|2 g2 g3 z/ D/ |]3,8 g2 g3 z/ g/ |:
+[K:C] g>e e>c c>G | G>E E4 | g>g a2- a>e | g>f f>d B>f | 
+f>d d>B B>G | G>F F4 | (3B,DF A2- A>G | FG/F/ E2- E>g | 
+g>e e>c c>G | G>E E4 | C2 D2 E2 | F2 A4 | 
+f>a a2- a>b | a>g g2- g>a | g>f f>G A>B |1 c2 c3 z/ g/ :|2[K:G] c2 c3 z/ D/ |]
+

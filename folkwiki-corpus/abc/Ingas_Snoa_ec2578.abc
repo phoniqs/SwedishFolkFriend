@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Ingas Snoa
+T:(andrastämman)
+C:Gunnar Jansson
+O:Brännstjärn, Burträsk, Västerbotten
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Gunnar Jansson, Brännstjärn, Burträsk."
+L:1/8
+M:2/4
+K:G
+V:2
+|:"^2" B,>D G>c | BG/G/ GG | B,D GB | AF/F/ FF | A,>D FG | 
+AB dc | BA GF | GD/D/ DD | B,>D G>c | BG/G/ GG | B,D GB | 
+AF/F/ FF | A,>D FG | AB dc | BA FD | B,B, [B,D]3/2 z/ :: 
+gd c>B | GB/G/ D2 | B,D/G/ B,D/G/ | AF/F/ FF | fd c>B | AF DC/C/ | 
+A,D/F/ A,D/F/ | DB,/B,/ B,B, | gd c>B | GB/G/ D2 | B,D/G/ B,D/G/ | 
+AF/F/ FF | fd c>B | AF DC/C/ | A,D/F/ A,D/F/ | B,B, [B,D]3/2 z/ :|
+ CG,/C/ EC/E/ | GE/G/ cc | B,G,/B,/ DB,/D/ | GD/G/ BB | AF DC/C/ | 
+A,D FD | A,C FE | DB, B,2 | CG,/C/ EC/E/ | GE/G/ cc | B,G,/B,/ DB,/D/ | 
+GD/G/ BB | AF DC/C/ | A,D FD | A,C FE | "^B.O." DB, [B,D]3/2 z/ |]
+

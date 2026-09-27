@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Moster Sara Lisa
+O:Åland, Finland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+N:"Åländska Folkdanser."
+L:1/8
+M:3/4
+K:Bb
+V:1
+"^1""^Förspel" FAc |: e2 d2 c2 | B4 z2 |][K:Bb][M:3/4][K:treble]"^Dans" F>B d>c d>B | F>B d>c B>d | 
+f2 e2 d2 | c6 | F>A c>=B c>A | F>A c>A F>F | e2 d2 c2 | 
+B4 d>c | B2 A2 G2 | F3 FAc | e2 d2 c2 | 
+B4 d>c | B2 A2 G2 | F3 FAc | e2 d2 c2 | B4 z2 |] 
+V:2
+"^2" CFA |: c2 A2 F2 | D4 z2 |][K:Bb][M:3/4][K:treble] D>F B>A B>F | D>F B>F D>B | d2 c2 B2 | A6 | 
+C>F A>G A>F | "^Spelas önskat antal ggr." C>F A>F C>C | c2 A2 F2 | D4 B>F | D2 C2 B,2 | A,3 CFA | 
+c2 A2 F2 | "^:/: Moster Sara Lisa, Moster Sara Lisa, kom å ta dej en sup.:/:""^:/: Lite tilltugg, ät bröd å smör, å ett sjudundrande glas öl.:/:""^:/: Moster Sara Lisa, Moster Sara Lisa, kom å få dej en sväng.:/:""^:/: Jag har så ont i en tå, å därför haltar jag så.:/:" D4 B>F | D2 C2 B,2 | A,3 CFA |  c2 A2 F2 | "^Stämförslag B.O." D4 z2 |]
+

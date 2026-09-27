@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Vickes Johan
+S:Efter Vickes Johan Persson
+O:Malung, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" d>(c B>)(G B>)d | (3dcB c>(d c>)B | A>(g f>)(d f>)a | (3agf g>a (3gfe | 
+d>(c B>)(G B>)d | (3dcB c>(d c>)B | A>(g f>)(d f>)a | (3agf g4 :: 
+d>(g b>)(f g>)B | c>(d e>)(B c>)B | A>(g f>)(d f>)a | (3agf g>a (3gfe | 
+d>(g b>)(f g>)B | c>(d e>)(B c>)B | A>(g f>)(d f>)a | (3agf g4 :| 
+V:2
+|:"^2" B>(A G>)(D G>)B | (3BAG A>(B A>)G | F>(e d>)(A d>)c | (3cBA B>c (3BAG | 
+B>(A G>)(D G>)B | (3BAG A>(B A>)G | F>(e d>)(A d>)c | (3cBA B4 :: 
+B>(d g>)(B d>)B | A>(B c>)(G A>)G | F>(e d>)(A d>)c | (3cBA B>c (3BAG | 
+B>(d g>)(B d>)B | A>(B c>)(G A>)G | F>(e d>)(A d>)"^Stämförslag B.O."c | (3cBA B4 :|
+

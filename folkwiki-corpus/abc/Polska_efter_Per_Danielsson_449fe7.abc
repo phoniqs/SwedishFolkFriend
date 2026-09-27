@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Per Danielsson
+S:Per Danielsson
+S:Trad. Lapp-Nils.
+O:Åre, Jämtland
+L:1/8
+M:3/4
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Per Danielsson var född i Mörsil 1823 och avled i Åre 1922, nästan 100 år. Elev och spelkamrat till Lapp-Nils."
+Z:Jämför SvL Jämtland 1
+Z:"Passande dans: Å'tabakspolska efter Ernst Grip"
+K:G
+V:1
+"^1" (D |: E)F G<A B>G | A>B (3G(AG) F>D | (3F(AF) (3G(BG) (3E(GE) | (3D(CB,) A,>A F>D | 
+EF G<A B>G | A>B (3G(AG) F>D | (3F(AF) (3G(BG) (3E(GE) |1 (F<G) G3 D :|2 (F<G) G3 g |: 
+fa g2 d>B | cd (3ege (3d(cB) | AG FG A>B | (3cdc (3B(AG) A>F | 
+Dg fg d>B | cd (3ege (3d(cB) | AG FG (3ABc |1 cB G3 g :|2 cB G3 z |] 
+V:2
+"^2" A, |: B,D E<F G>E | F>G (3EFE D>A, | (3DFD (3E(GE) (3C(EC) | (3B,A,G, C>C A,>A, | 
+B,D E<F G>E | F>G (3EFE D>A, | (3DFD (3E(GE) (3C(EC) |1 A,<B, B,3 A, :|2 A,<B, B,3 e |: 
+dc B2 G>D | "^Per Danielsson var född i Mörsil 1823.""^och avled i Åre 1922, nästan 100 år.""^Elev och spelkamrat till Lapp-Nils." EA (3cec (3B(AG) | FE DE F>G | 
+(3ABA (3G(FE) F>D | B,B AB G>D | EA (3cec (3B"^Passande dans: Å'tabakspolska efter Ernst Grip"(AG) | F"^Från CD \"Nu dans ma - dance on\"  (B.O.)"E DE (3FDF |1"^Stämförslag B.O." ED B,3 e :|2 ED B,3 z |]
+

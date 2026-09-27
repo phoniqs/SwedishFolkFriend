@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:34
+T:Polska efter Albert Fossum
+T:(SvL Bohuslän 34)
+R:Polska
+O:Svarteborg, Bohuslän
+B:Svenska Låtar Bohuslän
+S:Albert Fossum
+S:Mjölnare Hagström
+S:Mjölnare Gillberg
+N:SvL:Första reprisen framställer hur en sorgsen vallflicka letar efter sina kor. Andra reprisen uttrycker hennes glädje över att ha funnit dem.
+N:* indikerar en ton mellan f och fiss.
+N:A-bas.
+M:3/4
+L:1/8
+K:Am
+vA>B {/B}(c2 "^4"e2)|e>d B2 d2|{/d}B>d (3cAc (3BGB|((3Bdc) A>c (B^G)|
+A>B {/B}c2 "^4"e2|e>d B2 d2|{/d}B>d (3cAc (3BGB|((3Bdc) [AA]4:|
+K:Amix
+|:{/f}(3afa (3geg "^*"fz/d/|((3fag) e2 c>e|(3afa (3geg "^*"fz/d/|((3fag) e2 c>e|
+(3afa (3geg "^*"fz/d/|((3fag) e2 c>e|(3dBd (3cAc B>^G|(3BcB [AA]4:|
+

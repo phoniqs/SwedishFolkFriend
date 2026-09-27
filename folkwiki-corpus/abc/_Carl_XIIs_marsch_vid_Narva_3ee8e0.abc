@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X: 22
+T: Carl XIIs marsch vid Narva
+R: Marsch
+M: 4/4
+L: 1/8
+B: [[Notböcker/Småländsk musiktradition]] nr III-22
+B: Johan Gustaf Lilliegrens notbok
+O: Småland, Tegnaby sn
+Z: Christian Fürst
+Q: 210
+%%printtempo 0
+K: Dm
+e2 f2 ^c2 d2 | ef ed ^c2 A2 | e2 f2 ^c2 d2 | ef ed ^c2 ag |
+f2a2 e2 a2 | gf ed d^c =BA | d2 d2 fe d^c | d2 d2 d2 z2 ::
+de fg a2 af | b2 bg a2 z d | ^cd cd e2 ef | ag fe fe d^c |
+d2 f2 e2 ^c2 | d2 f2 e2 ^c2 | d2 d2 fe d^c | d2 d2 d2 z2 :|
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Röragenvalsen
+T:(A-dur)
+S:Sven Nyhus
+O:Norge
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Trad. Sven Nyhus."
+Z:"A-dur"
+L:1/8
+M:3/4
+K:A
+V:1
+"^1" E2 |: c3 d c2 | B3 c d2 | c4 B2 | A4 E2 | d3 e f2 | e4 d2 | c3 c c2 | c3 ABc | 
+d3 d d2 | d3 ABd | c3 B A2 | e4 d2 | c3 B c2 | d3 EFG | A3 A A2 |1 A3 z E2 :|2 A3 efg |: 
+a3 a a2 | a4 g2 | g4 f2 | f4 e2 | g4 e2 | g4 f2 | f4 e2 | e4 d2 | c3 ABc | 
+d4 c2 | B4 A2 | F3 ABd | c3 B A2 | e3 EFG | A3 A A2 |1 A3 efg :|2 A4 z2 |] 
+V:2
+"^2" C2 |:"A" E3 E E2 |"E7" D3 E F2 |"A" E4 D2 | C4 C2 |"D" F3 G A2 |"E7" G4 F2 | 
+"A" E3 E E2 | E3 CDE |"D" F3 F F2 | F3 CDF |"A" E3 D C2 | c4 B2 |"E7" A3 G A2 | G3 B,CD | 
+"A" C3 C C2 |1"A" C3 z C2 :|2"A" C3 AAB |:"A" c3 c c2 | c4 e2 |"Bm" e4 d2 | d4 B2 | 
+"E7" d4 B2 | d4 d2 |"A" d4 c2 | c4 B2 | A3 CDE |"Bm" F4 E2 | D4 D2 | D3 FGB |"A" A3 E C2 | 
+"E7" G3 B,DE |"A" C3 C C2 |1"A" C3 AAB :|2"A" C4"^B.O." z2 |]
+

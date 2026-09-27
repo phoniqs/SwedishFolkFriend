@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Kvarngubbens vals
+S:Daniels Olof Andersson
+R:Vals
+O:Bingsjö, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad.
+Z:Finns även i D-dur: https://www.stefanlinden.se/S/L/PB/BING/vals%20Kvarngubbens%20vals%20fr%20Bingsjo%20PB0320%20A4.pdf
+L:1/8
+M:3/4
+K:G
+V:1
+"^1"u D2 |: G2 A2u G2 | (B3 c) B2 | B2 c2u B2 | (d3 e) d2 | d2 e2u d2 | 
+(f3 g) f2 | (fe) (dc) BA | G2 (GA) BG | D4 D2 | G2 A2u G2 | (B3 c) B2 | B2 c2u B2 | 
+(d3 e) d2 | d2 e2u d2 | (f3 g) f2 | (fe) (dc) BA | G3 GBd |1 g4 D2 :|2 g4 g2 |: 
+(3(gfg) a2u g2 | c4 e2 | (ed) g2u d2 | B4 d2 | (ed) (cB) AG | F4 A2 | 
+(de) (dc) BA | (GA) Bc d2 | (3(gfg) a2u g2 | c4 e2 | (ed) g2u d2 | 
+B4 d2 | (ed) (cB) AG | F3 DEF | G3 AGF |1 G4 g2 :|2 G4 z2 |] 
+V:2
+"^2" B,2 |: B,2 C2 B,2 | (G3 A) G2 | G2 A2 G2 | (B3 c) B2 | B2 c2 B2 | (d3 e) d2 | 
+(dc) (BA) FD | B,2 (B,D) GD | B,4 B,2 | B,2 C2 B,2 | (G3 A) G2 | G2 A2 G2 | 
+(B3 c) B2 | B2 c2 B2 | (d3 e) d2 | (dc) (BA) FD | B,3 B,DG |1 B4 B,2 :|2 B4 e2 |: 
+(3(ede) f2 e2 | G4 c2 | (cB) d2 B2 | G4 B2 | (cB) (AG) FE | D4 F2 | 
+(Bc) (BA) GD | (B,D) GA B2 | (3(ede) f2 e2 | G4 c2 | (cB) d2 B2 | G4 B2 | 
+(cB) (AG) FE | D3 A,CD | "^Stämförslag B.O." B,3 CB,A, |1 B,4 e2 :|2 B,4 z2 |]
+

@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Jämt schå
+O:Upplands Väsby, Uppland
+R:Snoa
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+N:"Att dansa snoa är jämt schå..."
+L:1/16
+M:2/4
+K:D
+V:1
+|:"^1" (f2>e2) d2cB | A2"^Att dansa snoa är jämt schå . . ."DD (DF)Ad | (f2>e2) d2cd | B2GG GFG2 | A,2C2 E2A2 | 
+c2e2 a2^ga | b2a2 ^g2a2 | f2dd dcd2 | (f2>e2) d2cB | A2DD (DF)Ad | 
+(f2>e2) d2cd | B2GG GFG2 | A,2C2 E2A2 | c2e2 a2^ga | b2a2 B2c2 | (de)dc d4 :: 
+[K:G] b2a2 g2f2 | g2f2 e2d2 | c2ec A2cA | E2AE C2A,2 | D2A,D F2DF | A2FA d2^cd | 
+(ed)^cd (=cA)FA | (AG)BG D4 | b2a2 g2f2 | g2f2 e2d2 | c2ec A2cA | 
+E2AE C2A,2 | D2A,D F2DF | A2FA d2^cd | (ed)^cd (=cA)FA | G2B2 G4 :| 
+V:2
+|:"^2""D" (d2>A2) F2AG | F2A,A, (A,D)FA | (d2>c2) B2AB | "Em" G2EE EDE2 |"A7" A,2A,2 C2E2 | 
+A2c2 c2Bc | d2c2 B2c2 |"D" d2FF FEF2 | (d2>A2) F2AG | F2A,A, (A,D)FA | (d2>c2) B2AB | "Em" G2EE EDE2 | 
+"A7" A,2A,2 C2E2 | A2c2 c2Bc | d2c2 G2A2 | "D" (FG)FE F4 ::
+[K:G]"G" g2f2 e2d2 | e2d2 c2B2 |"Am" A2cA E2AE | C2EC A,2A,2 |"D7" C2DC D2A,D | F2DF F2EF | 
+(GF)EF (AF)DF | "G" (FD)GD B,4 | g2f2 e2d2 | e2d2 c2B2 | "Am" A2cA E2AE | C2EC A,2A,2 |"D7" C2DC D2A,D | 
+F2DF F2EF | (GF)EF (AF)DC | "G" B,2D2 "^B.O."  B,4 :|
+

@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:12
+T:Fan i Banko
+T:(Sv Folkdanser Del 1)
+O:Skåne
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 12. Fan i Banko"
+Z:http://runeberg.org/folkdans/besk/0043.html
+Z:"Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 12
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^Förspel" c>A F2 F2 | G2 G2 z2 |]: [K:G][M:3/4][K:treble]"^Dans -- mazurka" d>B G2 G2 | e>d (c>B) A2 | c>A F2 F2 | 
+G>A (B>c) d2 | d>B G2 G2 | e>d (c>B) A2 | c>A F2 F2 | G2 G2 z2 :: 
+[M:2/4]"^Polka" d/e/d/B/ GG | e/f/e/c/ AA | c/d/c/A/ FF | G/A/B/c/ dg | 
+d/e/d/B/ GG | e/f/e/c/ AA | c/d/c/A/ FF | GG G z :| 
+V:2
+"^2" "D7"A>F D2 C2 | "G"B,2 B,2 z2 |]:[K:G][M:3/4][K:treble] "G"B>G D2 D2 | "D7"c>B (A>G) F2 | A>F D2 C2 | 
+"G"B,>D (G>A) B2 | B>G D2 D2 | "D7" c>B (A>G) F2 | A>F D2 C2 |"G" B,2 B,2 z2 ::
+[M:2/4] "G"B/c/B/G/ DD | "Am" c/d/c/A/ EE |"D7" A/B/A/F/ DC |"G" B,/D/G/A/ Bd |
+"^Spelas önskat ant. ggr." B/c/B/G/ DD | "Am" c/d/c/A/ EE | "D7"A/B/A/F/ DC | "G""^Stämförslag B.O."  B,B, B, z :|
+

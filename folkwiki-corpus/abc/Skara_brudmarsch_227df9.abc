@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Skara brudmarsch
+T:(Lagmansboda brudmarsch)
+O:Västergötland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Från kasett."
+L:1/4
+M:4/4
+K:G
+V:1
+"^1" D |: G>(A G/F/)G/B/ | d2 (fe) | c>e gf | d3 B | 
+G>(A G/F/)G/B/ | d2 cA/F/ | D>F AF |1 G3 D :|2 G3 (G/B/) |: 
+d2 (fa) | (g/a/)g/f/ dd/f/ | e2 cc/e/ | (d/e/)d/B/ GG/B/ | 
+de/d/ (cA) | F2 (D/F/)A/F/ | G>A GF |1 G3 (G/B/) :|2 G3 z |] 
+V:2
+"^2" D |: B,2 (B,D) | G2 (dc) | A2 (cB) | G3 D | 
+B,2 (B,D) | G2 (FD) | A,2 (DC) |1 [B,D]3 D :|2 [B,D]3 (D/G/) |: 
+B2 (Bd) | c2 BB | c2 AA | G2 DD | 
+B2 (AF) | D2 (A,C) | B,2 (B,A,) |1"^Stämförslag B.O." [B,D]3 (D/G/) :|2 [B,D]3 z |]
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Juego
+O:Rumänien
+R:Roumanian hora
+Z:[[Personer/Bengt Ohlson]]
+Z:"Roumanian hora. Rumänien."
+L:1/8
+M:2/4
+K:Dm
+V:1
+"^1""^Förspel" d2 d2 | a a2 a | g2 fe | d4 |]:[K:F][M:2/4][K:treble]"^Dans" d2 d2 | a a2 a | 
+g2 fg | a4 | d2 d2 | a a2 a | g2 fe | d4 :: 
+a3 b | a3 b | ag fg | ag f2 | a3 b | c'3 b | 
+ab c'b |1 a4 :|2 a2 ab |: c'c' c'c' | c'c' c'c' | 
+c'2 ba | b2 ga | bb bb | bb bb | d'2 c'b |1 a2 ab :|2 a4 |] 
+V:2
+"^2" [FA]2 [FA]2 | f f2 f | e2 dA | [FA]4 |]:[K:F][M:2/4][K:treble] [FA]2 [FA]2 | f f2 f | e2 de | 
+f4 | [FA]2 [FA]2 | f f2 f | e2 dA | [FA]4 :: 
+f3 g | f3 g | fe de | fe d2 | f3 g | a3 g | fg ag |1 f4 :|2 f2 fg |: aa aa | aa aa | "^Spelas rätt igenom med repr. önskat antal ggr.""^Tempot ökas något för varje gång." a2 g^f | 
+g2 ef | gg gg | "^Stämförslag B.O." gg gg | b2 ag |1 f2 fg :|2 f4 |]
+

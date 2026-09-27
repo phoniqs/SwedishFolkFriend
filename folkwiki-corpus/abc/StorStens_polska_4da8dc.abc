@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Stor-Stens polska
+S:Tegenborg
+O:Lövsta, Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Tegenborg, Lövsta"
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" (F>G) A2 d>d | (f>"^Stor-Stens polska"d) A3 A | B2 (G>B) d>B | B2 A>G F>F | 
+F>G A2 d>d | f>d A3 f | g>(f e>)(d c>)e |1 e>d d3 z :|2 e>d d3 z/ f/ |: 
+g>(f e>)(d c>)e | (3ded A2 A>d | c>B (G>F) G>B | B>A F2 F3/2 f/ | 
+g>(f e>)(d c>)e | (3ded A2 A>d | c>B (A>g) e>c |1 c>d d3 z/ f/ :|2 c>d d3 z/ g/ |: 
+f>(d A2) A>G | F>D (F>A) d>f | a>f g2 b2 | b>a f3 z/ g/ | 
+f>(d A2) A>G | F>D (F>A) d>f | b>a g>(e c>)e |1 e>d d3 z/ g/ :|2 e>d d3 z |] 
+V:2
+|:"^2" D>E F2 [FA]>[FA] | d>A F3 F | G2 (D>G) B>G | G2 F>E D>D | D>E F2 [FA]>[FA] | d>A F3 A | 
+B>(A G>)(F E>)G |1 [GA]2 [FA]3 z :|2 [GA]2 [FA]3 z/ A/ |: B>(A G>)(F E>)G | (3FGF D2 D>G | 
+A>G (E>D) E>G | G>F [DA]2 [DA]3/2 A/ | B>(A G>)(F E>)G | (3FGF D2 D>G | A>G (E>B) G>E |1 [A,E]2 [A,F]3 z/ A/ :|2 [A,E]2 [A,F]3 z/ (e/ |: 
+d>)(A F2) F>E | (D>A,) (D>F) A>d | f>d [Be]2 [Bg]2 | g>f d3 z/ (e/ | d>)(A F2) F>E | (D>A,) (D>F) A>d | e>(d c>)(B A>)G |1 [GA]2 [FA]3 z/ e/ :|2"^Arr. B.O." [GA]2 [FA]3 z |]
+

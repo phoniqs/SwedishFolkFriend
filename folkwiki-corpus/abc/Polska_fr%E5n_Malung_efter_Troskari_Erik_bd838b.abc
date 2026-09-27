@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Malung efter Troskari Erik
+S:Efter Troskari Erik Persson
+O:Malung, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" ab ga f>e | f(a/g/) ef d>c | de (fg) f2 | dc de f>d | c2 A4 | 
+ab ga f>e | f(a/g/) ef d>c | de (fg) f2 | (d/f/)a gf d>e | c2 d4 :: 
+c2 (AB) GA | F2 DF A2 | E2 (CE) D>c | de (fg) f2 | dc de f>d | c2 A4 | 
+c2 (AB) GA | F2 DF A2 | E2 (CE) D>c | de (fg) f2 | (d/f/)a gf d>e | c2 d4 :| 
+V:2
+|:"^2" fg ef d>c | de cd A>G | FG (AB) A2 | FE FG A>F | E2 C4 | 
+fg ef d>c | de cd A>G | FA (de) d2 | Ac BA F>G | E2 F4 :: 
+A2 (FG) EF | D2 A,D F2 | C2 (A,C) A,>E | FG (AB) A2 | FE FG A>F | E2 C4 | 
+A2 (FG) EF | D2 A,D F2 | C2 (A,C) A,>E | FA (de) d2 | Ac BA"^Stämförslag B.O." F>G | E2 F4 :|
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Å jänta å ja´
+O:Sverige
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Svenska sånglekar nr 103"
+L:1/8
+M:3/4
+K:F
+V:1
+"^1""^Förspel" B | A2 (G>F) E>G | G2 F2 z A [| "^Dans" A2 (G>A) FA | A2 (G>A) FA | A2 (G>F) E>F | 
+(GF) (E>D) CA | A2 (G>A) FA | A2 (G>A) FA | A2 (G>F) E>G | G2 F2 z F |]
+|: "^Spelas önskat antal ggr." F2 (c>c) c>c | B2 (d>c) B>A | G2 (B>B) B>B | (A>c) (c>B) A>G | 
+(F>A) (A>A) A>A | (G>A) (BA) GF | (E>F) (GC) D>E |1 G2 F2 z F :|2 G2 F2 z2 |] 
+V:2
+"^2" G |"C7" F2 (E>D) C>B, |"C7" B,2 "F" A,2 z F [| "F" F2 (E>F) CF | F2 (E>F) CF | "C7" F2 (E>D) C>D | 
+(ED) (C>B,) G,F | "F" F2 (E>F) CF | F2 (E>F) CF | "C7" F2 (E>D) C>B, | "C7" B,2 "F" A,2 z A, |]
+|:"F" A,2 (A>A) A>A | "Gm" G2 (B>A) G>F |"C7" E2 (G>G) G>G |"F" (F>A) (A>G) F>C | 
+"Dm" (A,>F) (F>F) F>F |"Gm" (E>"^Stämförslag B.O." F) (GF) ED |"C7" (C>D) (EG,) B,>C |1 "C7" B,2"F" A,2 z A, :|2"C7" B,2"F" A,2 z2 |]
+

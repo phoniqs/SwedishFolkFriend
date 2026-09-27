@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Mormors brudvals
+T:efter Vilhelm Hedlund
+S:Vilhelm Hedlund
+O:Enviken, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"19. Vals från Enviken efter Wilhelm Hedlund, Enviken"
+L:1/4
+M:3/4
+K:Dm
+V:1
+"^1"u A, |:v A, (D F) | A2 d | (3(d/e/d/) (^c d) | e2 A | f (e d) | ^c2 A | 
+(3(B/c/B/) (A G) | A2 A, | A, (D F) | A2 d | (3(d/e/d/) (^c d) | e2 A | 
+f (e d) | ^c2 A | (3(F/G/F/) (E ^C) |1 D2 A, :|2 D2 c |: 
+c a/a/ a | c a/a/ a | a b3/2u a/ | a2 g | B g/g/ g | B g/g/ g |
+g a3/2u g/ | g2 f | A f/f/ f | A f/f/ f | f g3/2u f/ | e2 d | 
+^c2 B | (A ^c) e | (3(f/g/f/) (e ^c) |1 d2 c :|2 d2 z |] 
+V:2
+"^2" A, |:"Dm" A, (A, D) | F2 F | F (E F) |"A7" G2 E |"Dm" A (G F) |"A7" E2 E |
+"Gm" G (F E) | "A7" ^C2 A, |"Dm" A, (A, D) | F2 F | F (E F) |"A7" G2 E |
+"Dm" A (G F) |"A7" E2 E | "Dm" D (^C"A7" A,) |1"Dm" D2 A, :|2"Dm" D2 A |:
+"F" A c/c/ c | A c/c/ c | c d3/2 c/ | "C7" c2 B | G B/B/ B | G B/B/ B | 
+B c3/2 B/ |"Dm" B2 A | F A/A/ A | F A/A/ A | A B3/2 A/ | "A7" G2 F | 
+E2 D | (^C E) G | A (G E) |1"Dm" F2 A :|2"Dm" F2 "^B.O."z |]
+

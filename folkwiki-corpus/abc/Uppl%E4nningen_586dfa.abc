@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Upplänningen
+T:Polska
+C:Emil Olsson
+O:Uppsala, Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+N:"Stämförslag B.O."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (d>g){g} b2 b>g | (a/g/)a/g/ e2 c>B | (A>d) f2 f>e | (d>c) (B/g/)d/B/ G>B | 
+(d>g){g} b2 b>g | (a/g/)a/g/ e2 c>B | (A>d) f2 f>d | (3cAF G4 ::
+[K:D] (F>A) d2 f>d | c>(e gb) a>f | g>(e fd) Bg | (ec) (3dB^G A>=G | 
+(F>A) d2 f>d | c>(e gb) a>f | g>(e fd) Bg | (ec) d4 :| 
+V:2
+|:"^2""G" (B>d) g2"G7" =f>e |"Am" e2 c2 A>G |"D7" (F>A) d2 c>c |"G" (B>A) (G/B/)G/D/ B,>G | 
+"G" (B>d) g2"G7" =f>e |"Am" e2 c2 A>G |"D7" (F>A) d2 c>B | "D7" (3AFD "G" [B,D]4 ::
+[K:D]"D" D2 F2 A>F | "A7" E>(A ce)"D" d>A |"A7" B>(G"D" AF)"Em" GB |"A7" (AE)"E7" (3^GED"A7" C>E | 
+"D" D2 F2 A>F |"A7" E>(A ce)"D" d>A |"A7" B>(G"D" AF)"Em" GB | "A7" "_Stämförslag B.O."AG"D" [FA]4 :|
+

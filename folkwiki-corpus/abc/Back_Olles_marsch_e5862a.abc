@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Back Olles marsch
+S:Back Olle
+S:Torn Erik
+O:Ål,  Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Torn Erik (1843- )  Övra Heden, Ål."
+Z:"Forslund, Med Dalälven. Del 1. Bok 10. Sid. 181."
+Z:"Uppt. av Carl Gudmundsson 1920."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" D |: G2 G>B | [Dd]2 [Dd]2 |"^Bröllopsmarsch" c>B ce | dc BA | G>D GB | 
+d2 d2 | c>B ce | d3 g :: fa ge | c2 c>e | ed dg | 
+B2 B>d | dc BA | f2 d>f | a>g gg |1 g3 g :|2 g3 z2 |] 
+V:2
+"^2" B, |:"G" B,2 B,>D | [GB]2 [GB]2 |"D7" A2 Ac |"G" BA GD | B,2 B,D | 
+[GB]2 [GB]2 | "D7" A2 Ac |"G" [GB]3 B :: "C" df ec | E2 E>c | "G" cB Bd | 
+G2 G>B | "D7" BA GF | A2 F>A |"G" c>B BA |1 [GB]3 B :|2 "^Stämförslag B.O." [GB]3 z2 |]
+

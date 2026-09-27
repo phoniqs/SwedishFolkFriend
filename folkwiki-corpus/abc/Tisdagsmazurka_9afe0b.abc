@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Tisdagsmazurka
+C:Kurt Sandström
+O:Rossön, Strömsund, Ångermanland
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Kurt Sundström, Rossön."
+L:1/8
+M:3/4
+K:C
+V:1
+"^1" eg |: c'2 (3gc'g (3ege | c2 (3GcG (3EGE | CE Gc eg | f2 f3 z | b2 (3aba (3faf | 
+d2 (3BdB G2 | GB dg bb | c'g (3ege c2 | c'2 (3gc'g (3ege | c2 (3GcG (3EGE | 
+CE Gc eg | a2 a3 f | af af af | ge ge (3egc' | ba gf ed | c2 c'3 z ::
+ a2 (3faf (3cfc | FA cf af | g2 (3ege c2 | cG cc eg | f2 (3dfd (3BdB | 
+G2 (3Bdg b2 | b2 fd Bd | c2 (3ceg c'2 | a2 (3faf (3cfc | FA cf af | g2 (3ege c2 | 
+cG cc eg | f2 (3dfd (3BdB | G2 (3Bdg b2 | b2 fd Bd |1 c2 c3 z :|2 c2 c2 z2 |] 
+V:2
+"^2" ce |: "C" g2 (3ege (3cec | G2 (3EGE (3CEC | G,C EG ce | "G7" d2 d3 z | g2 (3fgf (3dfd | 
+B2 (3GBG D2 | B,D GB df | "C" ge (3cec G2 | g2 (3ege (3cec | G2 (3EGE (3CEC | 
+G,C EG ce | "F" f2 f3 d | c2 A2 cA | "C" c2 G2 c2 |"G7" dc BA GF |"C" E2 e3 z :: 
+"F" f2 (3cfc (3AcA | CF Ac fc | "C" e2 (3cec G2 | EC EG ce | "G7" d2 (3BdB (3GBG | D2 (3DGB d2 | 
+d2 dB GF |"C" E2 (3Gce g2 |"F" f2 (3cfc (3AcA | CF Ac fc | "C" e2 (3cec G2 | 
+EC EG ce | "G7" d2 (3BdB (3GBG | D2 (3DGB d2 | d2 BG FG |1"C" E2 E3 z :|2 "C" E2"^B.O." E2 z2 |]
+

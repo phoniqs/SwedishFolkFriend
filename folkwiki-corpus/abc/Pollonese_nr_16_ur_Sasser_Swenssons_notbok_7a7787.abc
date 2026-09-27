@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:25
+T:Pollonese nr 16 ur Sasser Swenssons notbok
+R:Polonäs
+O:Borrby, Skåne
+S:Efter Sasser Swensson, Borrby
+B:FMK M58, nr 25
+B: FMK - M58 bild 14
+N:Låtarna i notboken har ett löpande nummer där denna låt är nr 25 i ordningen.
+N:Noterat i boken "Qünten nerstämd i D", avser kvinten, alltså E-strängen.
+N:Öppna cirklar noterar noter vilka i uppteckningen är skrivna som tomma cirklar (troligen ändock 1/4-ar) på öppna strängar, möjligen pizzicato.
+N:Hänvisning till "Skåne 754" noterad: alltså SvL Skåne nr. 754. Se [[Musik/77]].
+D:"Rastställen" av Midgren/Skrobe/Quartey
+D:"Scordatura" av Norudde & Wallin
+Z:ABC-transkribering av Torbjörn Lundberg, enligt originalnoten.
+M:none
+L:1/8
+K:D
+[K:C]
+%
+"@-20,30 Stämn."[G,DAd]0 \
+%%staffbreak
+[K:D clef=treble] \
+[M:3/4] \
+|: !open! e02 !open! A02 !open! D02 | !open! e2 ^Bc e2 | (c/e/)f/g/ agfe | (g/f/)e/c/ ecFD | !open! e02 !open! A02 !open! D02 | !open! e02 ^Bc e2 | c/e/f/g/ agfe | (g/f/)e/c/
+  fe e2 "^bis:" :: (G/B/e/B/) (G/B/e/B/) (G/B/e/B/) | (F/A/e/A/) (F/A/e/A/) (F/A/e/A/) "^:bis" | FeBceg | (g/f/)e/c/ e2 D2 :|
+

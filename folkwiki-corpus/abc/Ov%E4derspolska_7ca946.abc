@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Oväderspolska
+C:Tage Nilsson
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Gm
+V:1
+|:"^1" (g>f) (dB) G>B | (d>c) AF D2 | G>(A Bc) dg | (3(=ece) d4 | 
+ (g>f) (dB) G>B | (d>c) AF D2 | G>(A Bc) dB | (3(AFA) G4 ::
+ G>(A Bc) dg | g>^f (3(faf) d2 | (b>a) (gd) fe | d>c (3(AcA) D2 | 
+(B>G) (GB) AG | (G>E) (3(EGE) DC |1 (B,>D) (GA) BG |{^FGF} G2 G4 :|2 (D>G) (Bc) dB | (A<F) G4 |:
+[K:G] (G>B) (Ac) (3B(AF) | (G>B) (df) ag | (e>c) (eg) fe | (e<d) B4 |
+(d>f) (af) dc | (B>G) (Bd) fg | (e>c) (Bd) cA | (3(FEF) G4 :| 
+V:2
+|:"^2""Gm" (d>c) (BG) D>G | "Dm" (A>G) FD A,2 |"Gm" B,>(D GA) Bd |"C" (3(cAc)"D" A4 |
+"Gm" (d>c) (BG) D>G |"Dm" (A>G) FD A,2 |"Gm" B,>(D GA) BG |"Dm" (3(CA,C) "Gm" B,4 ::
+"Gm" B,>(D GA) Bd |"D7" d>c (3(cec) A2 | "Gm" (g>f) (eB)"Cm" dB |"D7" A>^F (3(DFD) A,2 |
+"Gm" (G>D) (DG) DB, |"Cm" (E>C) (3(CEC) B,A, |1 "Gm" (G,>B,) (D^F) GD |"D7"{A,B,A,} B,2 "Gm" B,4 :|2"Gm" (G,>B,) (DG) BG | "Dm" (F<D)"Gm" B,4 |:
+[K:G]"G" (B,>D) (CE)"D7" (3D(CA,) |"G" (D>G) (Bd) fe | "C" (c>G) (ce) dc |"G" (c<B) G4 |
+"D7" (A>d) (fd) cA |"G" (G>D) (GB) de | "C" (c>A) (GB)"Am" AE |"D7" (3(A,CA,)"G" B,4 :| 
+

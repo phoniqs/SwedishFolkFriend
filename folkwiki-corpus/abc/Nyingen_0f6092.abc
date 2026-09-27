@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Nyingen
+R:Snoa
+C:Peter Puma Hedlund
+Z:Karin Helander
+N:Från inspelning med Perry Stenbäck och Peter Puma Hedlund: https://www.youtube.com/watch?v=RWZKWydusm4
+N:Även skiva "Another Way" från 2003 med Peter Hedlund och Rita Leydon: https://www.youtube.com/watch?v=jHIoX8v-ZPw
+M:2/4
+L:1/16
+Q:1/4=72
+K:Dm
+V:1
+"Dm" DEFD "(C)" EFGE | "Dm"FGA2 A3(B | A)GFE D3F | "A7" EFG2 ^C4 | 
+"Dm" DEFD "(C)" EFGE | "Dm" FGA2 A3(B | A)GFE D3F | "Am" EDC2 "Dm" D4 :| 
+|: "Dm" a4 {ba}g4 | {ag}f4 {gf}e4 | defd "(C)" e3d | "A7" ^cde2 A4 | 
+"Dm" a4 {ba}g4 | {ag}f4 {gf}e4 | defd "(C)" e3d |1 "A7" ^cAc2 "Dm" d4 :|2 "A7" ^cAc2 "D" d2^c=B |] [K:D]
+|: "D" ADFG AdcB | "A7" ACEG A3A | ceBc AGFE | "D" FGAB AdcB | 
+"D" ADFG AdcB | "A7" ACEG A3A | ceBc AGFE |1 "D" DFEC DdcB :|2 "D" DFEC D4 |]
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:32
+T:Fjusnäs-polskan
+T:(SvL Hälsingland 32)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 32
+O:Hassela, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]] nr 17
+L:1/16
+M:3/4
+K:Cm
+V:1
+|:"^1" (EG)EC (EG)ce g2ag | (fe)dc (=Bc)de d4 | (fg)ag (fe)dc (=Bc)dB | (GF)AG (FE)DE D4 |
+ (EG)EC (EG)ce g2ag | (fe)dc (=Bc)de d4 | (fg)ag (fe)dc (=Bc)dB | (FG)=Bd c4 z4 :: 
+ (GE)GB (eB)eg (ed)cB | (AF)Ac (fc)fa (fe)dc | (de)fe (dc)Bc (BA)GF | (GA)BA (GF)ED F4 | 
+ (GE)GB (eB)eg (ed)cB | (AF)Ac (fc)fa (fe)dc | (de)fe (dc)Bc (BA)GF | (GA)BA F4 E4 ::
+ (ge)BG (EG)Be (gf)ag | (fd)BF (DF)Bd (fd)gf | (ec)GE (CE)Gc (ed)fe | (dc)=BA (GF)EF D4 | 
+ (ge)BG (EG)Be (gf)ag | (fd)BF (DF)Bd (fd)gf | (ec)GE (CE)Gc (ed)fe | (dc)=BA (GF)DE C4 :| 
+V:2
+|:"^2""Cm" (CE)CG, (CE)Gc e2fe |"G7" (dc)=BA (GF)FG F4 | (de)fe (dc)=BA (GA)GF | "G7" (ED)FE "Cm"(DC)=B,A,"G7" G,4 |
+"Cm" (CE)CG, (CE)Gc e2fe |"G7" (dc)=BA (GF)FG F4 | (de)fe (dc)=BA (GA)GF |"G7" (DE)FG"Cm" E4 z4 ::
+"Eb" (EB,)EG (BG)Be (BA)GE | "Fm"(FC)FA (cA)cf (cB)AF | "Bb7"(Bc)dc (BA)GA (GF)DB, | "Eb" (EF)GF (ED)CB, "Bb7"A,4 |
+"Eb" (EB,)EG (BG)Be (BA)GE | "Fm" (FC)FA (cA)cf (cB)AF | "Bb7"(Bc)dc (BA)GA (GF)DB, |"Bb7" (B,C)DB, A,4  "Eb"G,4 :: 
+"Eb"(eB)GE (B,E)GB (ed)fe | "Bb"(dB)FD (B,D)FB (dB)ed | "Cm"(cG)EC (G,C)EG (c=B)dc | "G7"(=BA)GF (ED)CD =B,4 | 
+"Eb"(eB)GE (B,E)GB (ed)fe | "Bb"(dB)FD (B,D)FB (dB)ed | "Cm"(cG)EC (G,C)EG (c=B)dc | "G7"(=BA)GF "^B.O."(ED)=B,C "Cm"[G,E]4 :|
+

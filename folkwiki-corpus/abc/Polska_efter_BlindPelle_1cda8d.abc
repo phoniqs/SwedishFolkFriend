@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:9
+T:Polska efter Blind-Pelle
+S:Per Selander (1871-1928)
+O:Bergsjö, Hälsingland
+R:Polska
+B:Ny samling spelmanslåtar från Hälsingland nr 9
+Z:Karin Helander
+N:Andrastämma av Hultkläppen.
+L:1/16
+M:3/4
+K:F
+V:1
+A,3^C D2E2 F2A2 | G2EG (FE)D^C D4 | (DE)FG A2=B2 c2BA | (^GA)=BG A2E2 ^C2A,2 | 
+A,3^C D2E2 F2A2 | G2EG (FE)D^C D4 | (DE)FG A2=B2 c2BA | (^GA)=BG A4 A,4 |: A3^c d2e2 f3d | 
+e3d (^cd)ec A4 | (FG)FE F2A2 c2A2 | G3F (EF)GE [A,4F4] | (FG)AB c2F2 A2c2 | 
+(GA)=Bc d2G2 B2d2 | (cd)ef g2c2 e2g2 | a2fa g2eg f2c2 | d3c B2A2 G2f2 | e2g2 [g4B4] [f4A4] :|
+V:2
+A,4 A,2^C2 D2F2 | [^C4E4] (AG)FE F2D2 | (AG)FE F2D2 [A,4E4] | [^G,4E4] A,2^C2 E2A2 | 
+A,4 A,2^C2 D2F2 | [^C4E4] (AG)FE F2D2 | (AG)FE F2D2 [A,4E4] | [^G,4E4] A,2^CE [C4A4] |: A2G2 F2G2 [A2D2][F2A2] |
+A2GF E2D2 ^C2A,2 | D4 D2F2 A2F2 | E3D (G,A,)B,G, C4 | [F4A4] [F2A2][F2A2] [F2A2][F2A2] |
+[G4=B4] [G2B2][G2B2] [G2B2][G2B2] | [G4c4] [G2c2][G2c2] [e2c2][e2B2] | f2df e2cB A2[A2F2] | B3A (GF)ED C2B2 | (cB)GE [c4E4] [c4F4] :|
+

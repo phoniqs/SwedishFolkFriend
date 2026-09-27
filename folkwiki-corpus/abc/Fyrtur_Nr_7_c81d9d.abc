@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:21
+T:Fyrtur Nr 7
+T:(Gamla Dansar i Skåne)
+O:Filborna, Skåne
+R:Fyrtur
+S:Adolf Palm
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Fyrtur (7). Efter Adolf Palm, Filborna."
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (ef)ge (de)fd | (cd)ec d4 |]:[K:D][M:2/4][K:treble]"^Dans" d2fd (ed)cd | 
+(ef)ga g2f2 | (ag)fe (dd')c'b | (ag)fe d4 ::
+[K:A] A2{B}AG (AB)cd | c2{d}cB (cd)ef | (ed)cB (Aa)gf | (ed)cB A4 ::
+[K:D] (ef)ge (de)fd | (cd)ec dfa2 | (ef)ge (de)fd | (cd)ec d4 :| 
+V:2
+"^2" (cd)ec (Bc)dB | (AB)cA F4 |]:[K:D][M:2/4][K:treble] F2dA (cB)AB | (cd)ef e2d2 | 
+(fe)dA (Ff)ed | (ce)cA F4 ::[K:A] C2CB, (CE)AB | A2AG (AB)cd | (cB)AE (Cc)BA | (BA)GE C4 :: 
+[K:D]"^Efter Adolf Palm, Filborna." (cd)ec (Bc)dB | (AB)cA Fdf2 | (cd)ec (Bc)dB | "^Stämförslag B.O." (AB)cA F4 :|
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Vingel-Anders vals
+S:Anders Hansson
+S:Vingel Anders
+O:Bollnäs, Hälsingland
+R:Vals
+Z:Karin Helander
+N:"Efter Anders Hansson, Bollnäs. Arr: G. Öhrberg. Copyright 1938 by A.B. Nordisk Folkmusik, Göteborg, Sweden."
+L:1/8
+M:3/4
+K:Bb
+V:1
+fgfedc | BFDFBF | AFEFAF | BFDFBF | fgfedc | BFDFBF | 
+AFEFAF | B2 z2 z2 :: [K:F] cdcBAG | FAcfaf | g2 bgec | f2 af c2 | 
+cdcBAG | FAcfaf | g2 bgec | [fA]2 z2 z2 :: [K:Bb] [G,DBg]2 [EG,]3 [gB] | [fB]2 [DB,]3 [fB] |
+edcBAc | Bcde f2 | [G,DBg]2 [EG,]3 [gB] | [fB]2 [DB,]3 [fB] | ecAFAc | B2 z2 z2 :|
+V:2
+"Bb" dedBFE | D2 B,DFB | "F7" cecAFA | "Bb" df dBFD | de dBFE | D2 B,DFB | 
+"F7" ce cAFE | "Bb" [DB,]2 "^Fine" z2 z2 :: [K:F] "F" ABAGFC | A,CFAcA | "C7" B2 dcBG | "F" A2 cA F2 | 
+ABAGFC |A,CFAcA | "C7" B2 dc B2 | "F"  "^D.C. al Fine" F2 z2 z2 :: [K:Bb] "Eb" G,B,EGBe | "Bb" B,DFB d2 | 
+"F7" cBAGFE | "Bb" DFBc d2 | "Eb" G,B,EGBe | "Bb" B,DFB d2 | "F7" Be cAFE | "Bb" "^D.C. al Fine" [B,D]2 z2 z2 :|
+

@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Myr Anders
+S:Myr Anders Persson
+O:Stora Skedvi, Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (14) eft. Myr Anders Persson, St. Skedvi, Säter."
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1" A2 (A/B/)A/^G/ E>G | B2 (dB) c>B | A2 c>(e g>)^f | d2 e4 :: 
+A2 c>(e g>)e | f>(e d>)(f a>)g | (g>e) (e>c) c>B | ^G2 A4 :| 
+V:2
+|:"^2" C2 (C>B,) B,>E | ^G2 (BG) A>E | C2 E>(A c>)B | ^F2 [^GB]4 :: 
+C2 E>(A c>)A | d>(A F>)(A f>)e | (e>c) (c>A) A>^G |"^Stämförslag B.O." E2 [CE]4 :| 
+

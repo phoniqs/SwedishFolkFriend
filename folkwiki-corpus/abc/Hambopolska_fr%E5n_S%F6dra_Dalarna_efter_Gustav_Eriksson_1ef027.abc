@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska från Södra Dalarna efter Gustav Eriksson
+S:Gustav Eriksson
+O:Elingsbo, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(32) Hambo-polska från Södra Dalarna efter Gustav Eriksson, Elingsbo."
+L:1/8
+Q:1/4=108
+M:3/4
+K:D
+V:1
+|:"^1" e2 (A>g) fe | d2 (Ad) fd | g2 (A>g) ec | d2 (fd) af | 
+e2 (A>g) fe | d2 (Ad) fd | g2 (A>g) ec | d2 d4 :: 
+A2 (3(ABA) (3G(FE) | D2 (FA) df | a2 g(A c)e | g2 (fe) d>B | 
+A2 (3(ABA) (3G(FE) | D2 (FA) df | a2 g(A c)e | d2 d4 :| 
+V:2
+|:"^2""A7" G2 (E>B) AG |"D" F2 (DF) AF |"A7" A2 (E>B) AG |"D" F2 (AF) dA |
+"A7" (GE) (G>B) AG | "D" (FD) (FA) dA |"A7" (cE) (G>B) AG |"D" F2 [FA]4 ::
+"A7" C2 (C2 B,2) |"D" A,2 (DF) Ad | "A7" c2 A(E G)A |"D" B2 (AG) F>D |
+"A7" C2 (C2 B,2) |"D" A,2 (DF) Ad | "A7" c2  "^Bearb. och arr. B.O." A(E G)A |"D" F2 [FA]4 :|
+

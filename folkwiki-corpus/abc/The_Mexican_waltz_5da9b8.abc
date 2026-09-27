@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:The Mexican waltz
+O:Mexiko
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+N:"Mexico"
+L:1/4
+M:3/4
+K:G
+V:1
+"^1""^Förspel" D E F | G A B | d d/d/ d/d/ | d c A |]:[K:G][M:3/4][K:treble]"^Dans" G G/G/ G/B/ | 
+d B G | F/ z/ z e | d3 | F F/F/ F/A/ | c A F | G/ z/ z e | 
+d3 | G G/G/ G/B/ | d B G | F/ z/ z e | d3 | F F/F/ F/A/ | 
+c A F | G/ z/ z G | G A/B/ c/d/ | e3 | e3 | e2 c | 
+e g2 | d3 | d3 | d2 B | d g2 | c3 | 
+c3 | c3 | c d c | B c ^c | d e f | g G/G/ G/G/ | G2 z :| 
+V:2
+"^2" D _D C | B, D G | F F/F/ F/F/ | F D C |]:[K:G][M:3/4][K:treble] B, B,/B,/ B,/G/ | B G B, | 
+D/ z/ z c | A3 | D D/D/ D/F/ | A F D | B,/ z/ z c | B3 | B, B,/B,/ B,/G/ | B G B, | D/ z/ z c | 
+A3 | D D/D/ D/F/ | A F D | B,/ z/ z B, | B, D/G/ A/B/ | c3 | c3 | c2 G | 
+"^Önskat antal ggr." c e2 | B3 | B3 | B2 G | B d2 | A3 | A3 | A3 | A B A | G A ^A | B c A | 
+"^Stämförslag B.O." B B,/B,/ B,/B,/ | B,2 z :|
+

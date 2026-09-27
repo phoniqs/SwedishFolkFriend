@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Jingle Bells
+T:Bjällerklang
+O:USA
+R:Dans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Utländska danser. USA"
+L:1/8
+M:2/4
+K:F
+V:1
+"^1" B"^Förspel"B B>c | BA A>A | cc BG | F4 |]:[K:F][M:2/4][K:treble]"^Dans" CA GF | C3 ^C | DB AG | 
+D3 D |  "^Spelas önskat antal ggr." DB AG | c3 A | GD EF | G3 C | CA GF | C3 ^C | 
+DB AG | D3 D | DB AG | cA FA | GG A=B | c4 | AA A2 | 
+AA A2 | Ac FG | A4 | BB B>c | BA A>B | AG GA | G4 | AA A2 | 
+AA A2 | Ac FG | A4 | BB B>c | BA A>A | cc BG | F4 :| 
+V:2
+"^2""Bb" DD D>E |"F" DC C>C |"C7" EE DB, |"F" A,4 |]:[K:F][M:2/4][K:treble]"F" A,C B,A, | 
+A,3 A, |"Bb" B,D CB, | B,3 B, | B,D CB, |"C7" E3 F | EB, CD | E3 B, |"F" A,C B,A, | A,3 A, | 
+"Bb" B,D CB, | B,3 B, | B,D CB, |"F" AF CC |"G7" =B,B, CD |"C7" E4 |"F" FF F2 | FF F2 | FA CE | 
+F4 |"Bb" DD D>E |"F" DC C>D |"C7" CB, B,C | B,4 |"F" FF F2 | FF F2 | 
+ "^Stämförslag B.O." FA CE | F4 |"Bb" DD D>E |"F" DC C>C |"C7" EE DB, |"F" A,4 :|
+

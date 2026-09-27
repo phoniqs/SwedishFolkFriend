@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Hultkläppens Sorglåt
+S:Per Hult Alcén, Hultkläppen
+O:Bergsjö, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]] nr 1
+Z:Hultkläppen (1834-1898) tillägnade hustrun denna låt efter hennes död 1877.
+Z:Han gick framför begravningsföljet och spelade den.
+L:1/4
+M:4/4
+K:Dm
+V:1
+"^1"u A |:v f3 (e/g/) | (f e) d c/B/ | A3 (c/B/) | A (c/B/) A (c/B/) | 
+A (c/B/) A =B | c2{d} c B/A/ | G3 B | d2{e} d c/B/ | A (c/B/) A A :: 
+f e/f/ g f/g/ | a3 (g/a/) | b a g f | e2({f} e d) | c2{d} c =B/A/ | f2{g} f e/d/ |
+ a3 (g/a/) | b a g f | (e a) (f/e/) d/^c/ | d2 {ed^c}d2 |1 {ed^c}d3 A :|2 {ed^c}d3 z |] 
+V:2
+"^2" u F |:"Dm"v d2 A2 | A G F E | F2 D2 | F2 D2 |
+"Dm" D2 "G7" (C D) |"C" E2 G2 | E2 E2 | "C7" B2 G2 |"Dm" F2 F2 ::
+"Dm" d2 "Gm" (e d) | "E7" ^c2 e2 |"Gm" d c B A |"C" G2 (G F) | E2 (E G) | "Dm" A2 =B2 | 
+"E7" ^c2 e2 |"Gm" d c B A |"E7" G2  (A G) | "Dm" F2 "Gm" G2 |1"Dm"  F3 F :|2"Dm" "_Stämförslag B.O." F3 z |]
+

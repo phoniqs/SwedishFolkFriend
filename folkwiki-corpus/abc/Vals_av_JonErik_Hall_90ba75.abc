@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:37
+T:Vals av Jon-Erik Hall
+T:(SvL Hälsingland 37)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 37
+O:Hassela, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]] nr 32
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" (=B^c) d2 =c_B | (AG) F2 ED | (^CE) A2 EF | (D^C) E2 CA, | (DE) (FE) GF | (AG) (BA) GF | 
+(EA) ^c2 =Bc | A4 z2 | (=B^c) d2 =c_B | (AG) F2 ED | (^CE) A2 EF | (D^C) E2 CA, | (DE) (FE) GF | 
+(AG) (BA) GF | ED ^C2 A2 |1 D4 z2 :|2 D4 (DE) |: F4 (EF) | G4 (FG) | A4({BA} GF) | G4 (CE) | 
+G4 (FG) | B4 (AB) | d4({ed} c=B) | cc d2 e2 | (fe) (dc) Ad | (cB) (AG) FA | B4({cB} AG) | 
+A4 (=B^c) | (dc) (BA) GF | (EA) (FE) D^C | E4({FE} D^C) |1 D4 (DE) :|2 D4 z2 |: 
+(DE) (FD) E^C | D2 (F2 A2) | (^cd) (ef) ge | f z e4 | (FG) (AF) GE | C2 (F2 A2) | 
+(Bc) (de) fd | c z A4 | (^ca) (ag) eg | (gf) ef d2 | (Bg) (gf) ef | (dc) =Bc A2 | 
+(FB) (df) ed | (cf) (af) ed | (c=B) (_BG) EC | F6 | (^ca) (ag) eg |  (gf) ef d2 | 
+(Bg) (gf) ef | (dc) =Bc A2 | (FB) (df) ed | (cf) (af) ed | (c=B) (_BG) EC | F4 z2 :|
+

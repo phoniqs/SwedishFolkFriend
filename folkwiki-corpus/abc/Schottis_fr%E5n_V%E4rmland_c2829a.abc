@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Värmland
+S:O Olsson
+O:Fryksände, Värmland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. O. Olsson,  Fryksände."
+L:1/16
+M:2/4
+K:A
+V:1
+|:"^1" A>GAB c>BAc | e>fed c2(ea) | b2b2 B>cdB | e2e2({f} ed)c2 |
+A>GAB c>BAc | e>fed c2(ea) | b2b2 d>efg | a2a2 a4 ::
+[K:D] f>ddA B>AFD | C>EAc e2(ef) | g2g2 (A>c) (3(efe) | f2 (3(fgf) d2A2 | 
+f>ddA B>AFD | C>EAc e2(ef) | g2g2 (A>c) (3(efe) | d2f2 d4 :| 
+V:2
+|:"^2" C>B,CE A>ECE | c>dcB A2(ce) | d2d2 G>ABG | c2c2 (cB)A2 | 
+C>B,CE A>ECE | c>dcB A2(ce) | d2d2 B>cdB | c2c2 [ce]4 ::
+[K:D] d>AAF G>FDB, | A,>CEA c2(cd) | A2A2 (E>A) (3(cdc) | A2A2 F2D2 | 
+d>AAF G>FDB, | A,>C"^Stämförslag B.O."EA c2(cd) | A2A2 (E>G) (3(ABA) | F2A2 [FA]4 :|
+

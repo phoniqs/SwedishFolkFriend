@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Lima
+O:Lima, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Lima (1)"
+L:1/16
+M:2/4
+K:Dm
+V:1
+|:"^1" A>^ced{cd} c2A2 | A>^cag{fg} f2d2 | d>fed{^cd} c>Ace | e>dd<^c A4 | 
+A>^ced{cd} c2A2 | A>^cag{fg} f2d2 | d>fed{^cd} c>Ace | e>dd<^c{c} d4 :: 
+d>^cde{e} f2f2 |{g} f>edf{f} e2e2 | A>^GA^c e>=gfe | d>^cdf e2A2 | 
+A>^ced{cd} c2A2 | A>^cag{fg} f2d2 | d>fed{^cd} c>Ace | e>dd<^c{c} d4 :| 
+V:2
+|:"^2" E>A^c=B A2E2 | E>Afe d2A2 | F>AGF E>^CEG | G>FF<E ^C4 | 
+E>A^c=B A2E2 | E>Afe d2A2 | F>AGF E>^CEG | G>FF<E F4 :: 
+F>EFA d2d2 | d>^c=Bd c2c2 | E>DEA ^c>edA | F>EFA G2E2 | E>A^c=B A2E2 | 
+E>Afe d2A2 | F>AGF E>^CEG | G>"^Stämförslag B.O."FF<E F4 :|
+

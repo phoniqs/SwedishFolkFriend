@@ -1,0 +1,33 @@
+%%abc-charset utf-8
+
+X:1
+T:Stor-Sven
+S:Jon-Erik Öst
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z: Arr. Sven Härdelin
+Z:"Polska tillägnad Professor [[Personer/Sven Kjellström]] år 1948."
+L:1/16
+Q:1/4=90
+M:3/4
+K:Cm
+V:1
+|:"^1" [G,Ed]2GE C2C2"^Polska tillägnad Professor Sven Kjellström år 1948." C4 | (=B,C)DB, G,2G,2 G,4 | (C=B,)CD (ED)EF G2>=A2 |{Bc} B2=AG (^FG)AF G4 |
+ [B,Ge]2BG E2E2 (EF)GE | (FG)FE (DE)FD (B,C)DF | (ED)C=B, C2e2 d2>c2 | c2=A2 (Bc)dB G2AB |
+ [G,Ed]2GE C2C2 C4 | (=B,C)DB, G,2G,2 G,4 | (C=B,)CD (ED)EF G2>=A2 |{Bc} B2=AG (^FG)AF G4 | 
+[B,Ge]2BG E2E2 (EF)GE | (FG)FE (DE)FD (B,C)DF | (ED)C=B, (CE)Gc e2g2 | G2=Bd [Ec]4 z4 |:
+ g4 a4 g4 | (fg)fd e2dc (=Bc)dB |G2=Bd c2ec g4 | (fg)fd e2c2 [Gd]4 |
+ g4 [Bb]4 [da]4 | (fg)fd (Bd)fd (Bd)fa | (gf)ed c2ag (fe)dc | (=BG)Bd [Ec]4 z4 ::
+({ga} gf)ga (gf)ed (ec)GE | (c=B)c_d (c_B)AG (AF)CA, | (B,C)DE (FE)FG (AF)DB, | (EB,)G,B, (EG)Be [eg]4 | 
+(ga)ba (gf)ed (ec)GE | (cd)ed (cB)AG (AF)CA, | (B,C)DE (FE)FG (AF)Ac | B2DF [G,E]4 z4 :| 
+V:2
+|:"^2""^pizz." C4 [G,Ec]4 [G,E]4 |"^arco" F2D2 A2F2 [=B,G]4 | (G,A,)G,=B, (CB,)CD (EC)DE | D2^FE (DE)CE [=B,D]2[G,=F]2 | 
+[G,E]4 [B,G]4 [EB]4 | [B,D]2[B,D]2 [A,D]2[A,D]2 [A,F]2[A,F]2 | (C=B,)A,G, A,2A2 F2>G2 | ^F2F2 G2D2 E2D2 |
+"^pizz." C4 [G,Ec]4 G,4 | "^arco" [G,D]2[G,D]2 [D=B]2[DB]2 [Fd]4 | (G,A,)G,=B, (CB,)CD (ED)E^F | D2^FD (ED)CE [G,D]2=F2 | 
+[G,E]4 [B,G]4 [EB]4 | [B,D]2[B,D]2 [A,D]2[A,D]2 [A,F]2[A,F]2 | (C=B,)A,G, (A,C)EG c2[Ec]2 | [G,F]4 [G,E]4 z4 |:
+ (EG)(cG) (FA)(cA) (DG)(=BG) | D2A2 G2GE F2FD | E2DG E2C2 [=B,D]4 |G,2G2 G2E2 [=B,F]4 | 
+(EG)(BG) (FB)(dB) (FA)(BA) | B2d2 F2B2 (AF)DB, | (EG)cG A2F2 G2C2 | [G,D]2[G,G]2 [CG]4 z4 :: 
+[G,E]2[EB][EB] [B,G]2[GB][GB] [G,E]2[Ec][Ec] | [A,E]2[CA][CA] [CA]2[Ec][Ec] [A,F]2[Fc][Fc] | [A,D]2[A,F][A,F] C2[CF][CF] [A,D]2[A,F][A,F] | (G,E)B,G (BE)GB (BG)EB, |
+ [G,E]2[EB][EB] [B,G]2[GB][GB] [G,E]2[Ec][Ec] | [A,E]2[CA][CA] [CA]2[Ec][Ec] [A,F]2[Fc][Fc] | [A,D]2[A,F][A,F] C2[CF][CF] (A,D)FA | [A,A]2[A,F][B,D] [B,E]4 z4 :|
+

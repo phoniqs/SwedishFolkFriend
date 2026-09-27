@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:21
+T:Jägaremarsch
+O:Sverige
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sverige, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:4/4
+K:A
+V:1
+"^1""^Förspel""^Marsch" E2 | c>c c>c c>c Bc | d4 f4 | e>e e>e e>e dB | A2 cB A2 |] 
+[K:A][M:4/4][K:treble] E2 |:"^Marsch""^Dans" A>A A>A A>A GA | B2 G2 E2 z E | B>B B>B B>B AB | c2 A2 E2 z E | 
+c>c c>c c>c Bc | d4 f4 | e>e e>e e>e dG |1 A2 B2 c2 E2 :|2 [M:3/4] A2 cB A2 E2 |: 
+"^Vals" A3 A A2 | A2 G2 A2 | B4 G2 | E4 E2 | B3 B B2 | B2 A2 B2 | c4 A2 | E4 E2 | 
+c3 c c2 | c2 B2 c2 | d6 | f6 | e3 e e2 | e2 d2 G2 |1 A4 B2 | c4 E2 :|2 A4 cB | A4 z2 |] 
+V:2
+"^2" C2 | E>E E>E E>E DE | F4 A4 | G>G G>G G>G ED | C2 ED C2 |]
+[K:A][M:4/4][K:treble] C2 |: C>C C>C C>C EF | G2 E2 B,2 z B, | G>G G>G G>G FG | A2 E2 C2 z C | A>A A>A A>A GA | F4 A4 | 
+G>G G>G G>G EB, |1 C2 D2 E2 C2 :|2[M:3/4] C2 ED C2 C2 |: C3 C C2 | C2 B,2 C2 | D4 D2 | B,4 B,2 | 
+"^Önskat antal ggr." D3 D D2 | D2 C2 D2 | E4 E2 | C4 C2 | E3 E E2 | E2 D2 E2 | 
+F6 | A6 | G3 G G2 | G2 E2 B,2 |1 C4 D2 | E4 C2 :|2"^Stämförslag B.O." C4 ED | C4 z2 |]
+

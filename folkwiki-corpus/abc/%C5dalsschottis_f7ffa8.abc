@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Ådalsschottis
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:Katalog A. Gammal dans, C. Schottis
+L:1/8
+M:4/4
+K:C
+V:1
+|:"^1" G>A G>E c2 c>B | A>B A>F d2d>c | B>c B>A G>G A>B | c>B c>d e2c2 | 
+G>A G>E c2 c>B | A>B A>F d2 d>c | B>c B>A G>G A>B | c2 e2 c2 z3/2 "^Da coda" z/  !coda!::
+[K:G] D>D F>A d>c B>A | G>F G>A B2 G2 | (3(EGE) C>E (A>G) F>E | D>E D>B, G2 G2 | 
+D>E D>C B,>D G>F | E>F E>D C>E A>G | F>G F>E (3DED (3CB,A, | G,2 G2 G2 z2 !D.C.!:|
+|: !coda! [K:F] (3FFF F>c (3EEE E>c | (3FFF F>G A2F2 | G>f ed (3cdc (3BAG | (3FAG (3FED C2>c2 |
+ (3FFF F>c (3EEE E>c | (3FFF F>G A2F2 | G>f ed (3cdc (3BAG | F2[Af]2 [Af]2 z2 :| 
+V:2
+|:"^2" "C" E2E>C E2E>G |"Dm"  F2F>D F2F>A |"G7" G2F2 D2F2 |"C" E2E2 G2E2 | 
+E2E>C E2E>G |"Dm" F2F>D F2F>A |"G7" G2F2 D2F2 |"C" E2G2 E2 z3/2 z/ ::
+[K:G] "D7" C2D>F A2F>D |"G" B,2B,>D G2D2 |"C" C2G,>C E2D>C |"G" B,2B,>G, B,2B,2 | 
+B,2B,>A, G,2B,>D |"C" C2C>B, A,2C>E |"D7" D2D>C A,2C2 |"G" B,2B,2 B,2 z2 :| 
+|: [K:F]"F" .[CF]2.[CF]2 "C7" .[B,E]2.[B,E]2 |"F" .[A,F]2.[A,F]2 .[CF]2.[A,F]2 |"C7" E2G2 E2C2 | "F" A,2C2 A,2A,2 |
+"F".[CF]2.[CF]2 "C7" .[B,E]2.[B,E]2 |"F" .[A,F]2.[A,F]2 "C7" .[CF]2.[A,F]2 | "C7"E2"^Stämförslag B.O." G2 E2C2 | "F" A,2[A,F]2 [A,F]2 z2 :|
+

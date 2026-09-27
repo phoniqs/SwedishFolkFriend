@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:480
+T:Vals efter Axel Axelsson
+T:(OA 480)
+B:Sörmländska låtar samlade av Olof Andersson nr 480
+S: Efter Axel Axelsson
+H:Valsen skall ha kommit från Årdala. Den spelades av Gösta Axelsson och var den enda melodi han lärt sig efter farfadern. De efterföljande av Melker Anderssons låtar ha meddelats av Axel Axelsson.
+R:Vals
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson. 
+Z:Första och andra hus är tillagda vid reprissluten.
+M:3/4
+L:1/4
+Q: 160
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+G,/G,/ |: G, B, D | G B d | g f A |  c2 e/e/ | (3(e/f/e/) d G | B2 d/d/ |
+(3(d/e/d/) c D |  F2 A | (3(c/d/c/) B D | G2 G,/G,/ | G, B, D |  G B d | g f A | c2 e/e/ |
+(3(e/f/e/) d G |  B2 d/d/ | (3(d/e/d/) c D | F2 A | A3/2 G/ B/A/ |1  G2 G,/G,/ :|2 G2 d |:
+g/g/ g/g/ g/g/ | (3(g/a/g/) f e |  (3(e/f/e/) d B | G2 d/d/ | (3(d/e/d/) c A | F2 e/e/ |  e d B |
+G2 d | g/g/ g/g/ g/g/ | (3(g/a/g/) f e |  (3(e/f/e/) d B | G2 d/d/ | (3(d/e/d/) c A | F2 A/A/ |
+A3/2 G/ B/A/ |1 G2 d :|2 G2 z |]
+

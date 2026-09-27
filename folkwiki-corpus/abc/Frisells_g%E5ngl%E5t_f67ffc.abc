@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Frisells gånglåt
+T:(Till budom och sommarens glädje)
+S:Anders Frisell
+O:Mockfjärd, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:2/4
+I:linebreak $
+K:D
+V:1
+"^1"u (FG) |:v (A2>B2) (A2G2) |({FG} F2>D2) F2FG | (AB)AF (A2d2) | f6 (ef) | g2bg f2af | 
+e2ge d2fd | c2ec (E^G)BG | A6 (FG) | (A2>B2) (A2G2) | ({FG} F2>D2) F2FG | (AB)AF (A2d2) | 
+f6 (ef) | g2bg f2af | e2ge d2fd | (c2a2) (Ac)ec |1 d6u (FG) :|2 d6u (ef) |:
+v g2>(a2 gf)ga | (b2g2) (d2B2) | A2>(g2 fe)fg | a6 (3(gag) | (f2e2) (e^d)ef | (g2e2) (c2A2) |
+ d2fd c2ec | B2dB A2ef | g2>(a2 gf)ga | (b2g2) (d2B2) | A2>(g2 fe)fg | 
+a6 (3(gag) | (f2e2) (e^d)ef | (g2e2) (c2A2) | (d2a2) (Ac)ec |1 d6u (ef) :|2 d6 z2 |] 
+V:2
+"^2" (DE) |:"D" (F2>G2) (F2E2) | (D2>A,2) D2DE | (FG)FD (F2F2) | A6 (GA) |"G" B2dB"D" A2cA | "A7" G2BG"D" F2AF | 
+"E7"E2^GE (B,E)GE |"A7" C6 (DE) |"D" (F2>G2) (F2E2) | (D2>A,2) D2DE | (FG)FD (F2F2) | A6 GA |"G" B2dB"D" A2cA |
+"A7" G2BG"D" F2AF |"A7" (E2c2) (EA)cA |1"D" [FA]6 (DE) :|2 "D" [FA]6 (GA) |:
+"G" B2>(c2 BA)Bc | (d2B2) (G2D2) |"D" F2>(e2 dc)de | f6 e2 | "A7" (d2c2) (cB)cd | 
+(e2c2) (A2E2) |"D" F2AF"A7" E2GE | "G"G2BG "D"F2GA | "G"B2>(c2 BA)Bc | (d2B2) (G2D2) | "D" F2>(e2 dc)de | 
+f6 e2 | "A7" (d2c2) (cB)cd | (e2c2) (A2E2) | "D" (F2d2)"A7" (EA)cA |1"D" [FA]6 (GA) :|2"D" [FA]6"^B.O." z2 |]
+

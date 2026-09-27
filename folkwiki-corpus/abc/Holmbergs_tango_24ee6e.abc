@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Holmbergs tango
+O:Sandviken, Gästrikland
+R:Tango
+C:Edvin Holmberg
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Edvin Holmberg, Sandviken."
+L:1/8
+M:4/4
+K:G
+V:1
+"^1" G2 z D G2 D2 | F F z D F2 D2 | F2 z D F2 D2 | G6 Bc |: de z d B2 Bc | de z d B4 | 
+g2 z g f2 e2 | d2 z c A2 AB | cd z c A2 AB | cd z c A4 | f2 z f e2 d2 | e2 z d B2 Bc | 
+de z d B2 Bc | de z d B4 | g2 z g a2 g2 | e6 ef | g2 z g f2 e2 | d2 z d B2 G2 | D2 z c B2 A2 |1 
+G6 Bc :|2,8 G6 ga |: b2 z b a2 g2 | (g f4- f) ef | g2 z g f2 e2 | d6 Bc | 
+d2 z d e2 d2 | (d c4- c) cd | e2 z e f2 e2 | d6 ga | b2 z b a2 g2 | (g f4- f) ef |
+a2 z a g2 e2 | d6 Bc | d2 z d e2 d2 | c a6- a | a2 z a g2 f2 |1 g6 ga :|2,8 g6 |] 
+V:2
+"^2""G" B,2 z G, B,2 G,2 |"D7" C C z A, C2 A,2 | C2 z A, C2 A,2 |"G" B,6 GA |: 
+"G" Bc z B G2 GA | Bc z B G4 | B2 z B A2 G2 |"D7" F2 z F D2 FG | AB z A F2 FG | AB z A F4 | 
+d2 z d c2 B2 |"G" c2 z B G2 GA | Bc z B G2 GA | Bc z B G4 | B2 z B c2 B2 |"C" c6 cd | 
+e2 z e d2 c2 |"G" B2 z B G2 D2 |"D7" C2 z F D2 C2 |1"G" B,6 GA :|2,8"G" B,6 ef |: 
+"Em"g2 z g f2 e2 | "B7"(e ^d4- d) c=d | "C" e2 z e d2 c2 | "G"B6 GA | B2 z B c2 B2 | "D7" (B A4- A) AB | 
+c2 z c d2 c2 | "G" B6 ef | "Em" g2 z g f2 e2 | "B7" (e ^d4- d) c=d | "C" e2 z e d2 c2 | "G" B6 GA | "^Uppt. o arr. B.O."  B2 z B c2 B2 | 
+"Am" A c6- c |"D7" c2 z c B2 A2 |1"G" B6 ef :|2,8"G" B6 |]
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Lindome
+O:Lindome, Halland
+C:efter Albert Drakenberg
+S:efter Albert Drakenberg
+Z:nedtecknad ur minnet av Åke Persson
+Z:arr Åke Persson
+%%score {1|2}
+R:schottis
+Q:140
+M:2/4
+L:1/8
+K:D
+V:1
+"D"DF Ad | fd AF | DF Ad | f2 f2 | "G"ga gf | "A"ef ed | "G"cd cG | "D"B2 A2 |
+"D"DF Ad | fd AF | DF Ad | f2 f2 | "G"ga gf | "A"ef ed | cA Bc | "D"d4 ::
+"D"f2 fa | fd fa | "G"ag gb | B3 d | "A"c2 ce | cA Bc | "D"d2 d/c/d | fd Ad |
+"D"f2 fa | fd fa | "G"ag gb | B3 d | "A"c2 ce | cA Bc | "D"d2 d2 | d4 :|
+V:2
+A,D FA | dA FD | A,D FA | d2 d2 | ef ed | cd cB |AB AE | G2 F2 |
+A,D FA | dA FD | A,D FA | d2 d2 | ef ed | cd cB |A"*"G EG | F4 ::
+d2 df  | dA df | fe eg | G3 B |A2 AB |AG EG| F2 FE/F/ | AF DF |
+d2 df  | dA df | fe eg | G3 B |A2 AB |AG EG| F2 F2 | F4 :|
+

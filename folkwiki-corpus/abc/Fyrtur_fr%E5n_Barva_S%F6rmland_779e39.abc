@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Fyrtur från Barva, Sörmland
+S:Efter [[Personer/Spel-Erker]], Bie, Floda, Sörmland.
+O:Barva, Södermanland
+R:Fyrtur
+Z:[[Personer/Bengt Ohlson]]
+Z:Stämförslag B.O.
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (fa)fd (eg)ec | e2d2 d4 |]:[K:D][M:2/4][K:treble]"^Dans" (DE)FG (AG)FG | 
+A2Bc d2d2 | (DE)FG (AG)FD | [A,E]2[EA]2 [A,E]2[EA]2 | 
+(DE)FG (AG)FG | A2Bc d2g2 | (fa)fd (eg)ec | e2d2 d4 :: 
+f2f2 (fa)gf | e2e2 (eg)fe | d2d2 (df)ed | (ed)cB A4 | 
+f2f2 (fa)gf | e2e2 (eg)fe | (fa)gf (eg)fe | e2d2 d4 :| 
+V:2
+"^2" (df)dA (ce)cA | G2F2 F4 |]:[K:D][M:2/4][K:treble] (A,C)DE (FE)DE | 
+C2EG F2F2 | (A,C)DE (FE)DB, | C2E2 C2E2 | 
+(A,C)DE (FE)DE | C2EG F2e2 | (df)dA (ce)cA | G2F2 F4 :: 
+d2d2 (df)ed | c2c2 (ce)cA | F2F2 (Fd)cB | (cB)AE C4 | 
+d2d2 (df)ed | c2c2 (ce)dc | "^Stämförslag B.O." (df)ed (ce)cA | G2F2 F4 :|
+

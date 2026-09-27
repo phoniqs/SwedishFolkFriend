@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Skänklåt från Orsa
+S:Efter Gössa Anders
+O:Orsa, Dalarna
+R:Skänklåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Gössa Anders."
+L:1/16
+M:2/4
+K:Dm
+V:1
+"^1" (A^c) |: (d2>^c2)({dc} d2e2) |{e} f4 (fg)fd | (ef)ed (^cd)ec | A6 (eg) |
+T (f2>e2) (f2g2) | {g} a4 a4 | (ga)ge (fg)fd |1 e6 (A^c) :|2 e6 (eg) |:T 
+(f2>e2) (f2g2) |{g} a4 a4 | (ga)ge (c=B)ce |T g2^fg({g} a2>g2) | 
+(f2d2) (d2>f2) | (ef)e^c (A2>c2) | (e2d2) (^cd)ec |1 {d^c} d6 (eg) :|2{d^c} d6 z2 |] 
+V:2
+"^2" (EG) |: (F2>E2)({FE} F2A2) |{A} d4 (de)d=B | (^cd)c=B (AB)cA | E6 (^ce) | 
+(d2>^c2) (d2e2) | {e} f4 f4 | (ef)e^c (de)d=B |1 ^c6 (EG) :|2 ^c6 (ce) |: 
+(d2>^c2) (d2e2) |{e} f4 f4 | (ef)ec (G^F)Gc |T e2^de({e} f2>e2) | 
+(d2A2) (F2>d2) | (^cd)cA (E2>G2) |"^Stämförslag B.O." (G2F2) (EF)GE |1 {FE} F6 (^ce) :|2{FE} F6 z2 |] 
+

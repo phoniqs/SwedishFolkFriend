@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:511
+T:Polska efter Axel Axelsson
+T:efter fadern
+T:(OA 511)
+B:Sörmländska låtar samlade av Olof Andersson nr 511
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson 2025-02-19
+M:3/4
+L:1/4
+Q:100
+%%MIDI ratio 2 1
+%%printtempo 0
+K:A
+E/ |: A/>A/ c/c/ e/e/ | (f/4g/4)f/4e/4 f/g/ (a/4b/4)a/4f/4 | e/>c/ A/>c/ (e/4f/4)e/4c/4 |  B/B/ G/B/ (d/4e/4)d/4B/4 |
+A/>A/ c/c/ e/e/ | (f/4g/4)f/4e/4 f/g/ (a/4b/4)a/4f/4 | (e/4f/4)e/4d/4 (c/4B/4)c/4d/4 (e/4f/4)e/4d/4 |1  B/4G/4B/4G/4 A3/2 E/ :|2 B/4G/4B/4G/4 A3/2 e/ ||
+e/e/ a/a/ c'/a/ | (f/4g/4)f/4e/4 f/g/ a/f/ |  (e/4f/4)e/4d/4 c/d/ e/a/ | (g/4f/4)g/4a/4 (b/4a/4)g/4f/4 e |
+e/e/ a/a/ c'/a/ | (f/4g/4)f/4e/4 f/g/ a/f/ |  (e/4f/4)e/4d/4 c/d/ e/c/ |1 (B/4c/4)B/4G/4 A3/2 e/ :|2 (B/4c/4)B/4G/4 A2 |]
+

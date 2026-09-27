@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Skogsrå
+T:Polska
+C:Wiktor Öst
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Arr. D. Daniels"
+L:1/8
+M:3/4
+K:Bb
+V:1
+|:"^1" [G,D]([B,G]/[CA]/) ([DB]/[DA]/)([Dc]/[^FA]/) [DB][CA] | G(B/d/) ga/b/ d2 | (d/c/)e/d/ c/B/d/c/ (B/A/)c/B/ | B(A/G/) ^F/G/A/F/ D2 | 
+[G,D]([B,G]/[CA]/) ([DB]/[DA]/)([Dc]/[^FA]/) [DB][CA] | G(B/d/) ga/b/ d2 | (g/e/)d/c/ d/e/d/c/ BA | (A/c/)B/A/ G4 ::
+ F>f F>e d2 | D>d A,>c BA | (G/^F/)G/A/ B/A/G/F/ (G/A/)B/c/ | dg ed/^c/ d2 | 
+F>f F>e d2 | D>[c^f] A,>[ca] [Bg]2 | (D/E/)D/^C/ D/G/B/d/ gb | ag/^f/ [Bg]4 :: 
+dB/G/ gd/B/ b2 | (a/b/)a/g/ ^f/g/f/e/ d2 | (d/e/)d/c/ B/c/B/G/ (A/B/)A/^F/ | (G/^F/)G/A/ BG/B/ [DA]2 |
+ dB/G/ gd/B/ b2 | (a/b/)a/g/ ^f/g/f/e/ d2 | (d/e/)d/c/ B/c/B/G/ AD | (B/A/)G/^F/ G2 G2 :| 
+V:2
+|:"^2" G>A Bc dc | B>G G2 D2 | G,>B, DG BG | D>A [DA]4 | 
+G>A Bc dc | B,>D GB d2 | G>B, DG d2 | (D/^F/)D/C/ B,4 :: 
+B,>D F>A B2 | C>C D>^F GD | G,>G, B,B, DD | G>B A^F AD |
+ C>C F>A B2 | ^F>F D>F G2 | A>D DG Bd | c(B/A/) G4 :: 
+G,D B,G D2 | ^F>F AA F2 | G>D BG ^FD | B,>D G>B [^Fd]2 | 
+GE/C/ BG/D/ d2 | D>F AF [DA]2 | G,>B, DG DC | "^Arr.  D. Daniels." B,2 [G,D]4 :| 
+

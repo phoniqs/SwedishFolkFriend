@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Avskedslåt från Liden
+C:Oscar Annell
+O:Lidensboda, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. Oscar Annell (1896-1974)  Lidensboda"
+Z:"Arr. Sven Englund."
+L:1/8
+M:4/4
+K:Ab
+V:1
+"^1" (FG) | A2 A2 (GF)(=EG) | F6 (AB) | c2 c2 (BA)(GB) | A6 (cd) | e2 e2 B2 (cd) | c2 c2 F2 (FG) | 
+A2 A2 (Ac)(BA) | B6 (cd) | e2 e2 B2 (cd) | c2 c2 F2 (FG) | A2 A2 (GF)(=EG) | F6 [B,G]2 |]: 
+E2 E2 (EG)(BG) | A2 c2 c4 | C2 C2 (C=E)(GE) | F2 A2 A3 A | G2 B2 B3 A | A2 c2 c4 | 
+E2 E2 (EF)(ED) | C4- C3 F | =E2 G2 G3 F | F2 A2 A3 G | G2 B2 B3 A | A2 c2 c4 | 
+e2 e2 B2 (cd) | c2 c2 F2 (FG) | A2 A2 (GF)(=EG) |1 F6 F2 :|2 F6 (FG) |] 
+V:2
+"^2" z2 | (A,2 C2) (=B,2 _B,2) | [A,F]2 ([B,G]>.[B,G]) [A,F]2 z2 | (A,2 C2) ^C4 | [CF]2 ([DF]>.[DF]) [CF]2 z2 | (G,2 B,2) E2 =E2 | (F2 C2 A,2) A,B, | 
+C4 =D4 | ([G,E]2 [=DF]2 [EG]2) z2 | (G,2 B,2) E2 ([C=E][B,E]) | [A,F]2 [CA]2 [DA]2 C2 | [=B,F]2 [B,F]2 [_B,=E]2 [B,E]2 | [CA]2 ([G,=D]>[_DF]) [CA]2 [DE]2 |]: 
+G,2 (G,B,) D2 B,2 | (A,G,)A,C E3 E | =E2 (GF) E2 CB, | (A,G,)A,C F4 | (G,C)=EF G4 | (A,C)FG AFCA, | 
+G,2 (G,B,) D2 B,2 | [A,E]4- [A,E] (A,B,=B,) | C2 (GF) =E2 CB, | (A,G,)A,C F4 | (G,C)=EF G4 | (A,C)FG AFCA, | 
+G,2 B,2 E2 =E2 | [A,F]2 [CA]2 [CA]2 C2 | [=B,F]2"^Arr. Sven Englund." [B,F]2 [_B,=E]2 [B,E]2 |1 [CA]2 ([DG]>.[DG]) [CA]2 z2 :|2 [CA]2 ([DG]>.[DG]) [CA]2 z2 |]
+

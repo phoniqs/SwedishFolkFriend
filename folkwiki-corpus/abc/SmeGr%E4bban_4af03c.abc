@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:107
+T:Sme-Gräbban
+T:(Sv Folkdanser Del 1)
+S:Olof Alqvist
+O:Genarp, Skåne
+R:Polkett
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 107. Sme-gräbban"
+Z:http://runeberg.org/folkdans/besk/0108.html
+Z:"Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 107
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" B2 AG | FA/A/ AB | c2 BA | G2 z2 |:[K:G][M:2/4][K:treble]"^Dans" B2 AG | 
+FA/A/ AB | "^Spelas önskat antal ggr." c2 BA | GB/B/ BB | B2 AG | 
+FA/A/ AB | c2 BA |1 G2 z2 :|2 G2 z B |: 
+d>B gf | e3 c | A>A fe | d3 B | 
+G>G gf | ed cB | B2 A2 |1 G2 z B :|2 G2 z2 |] 
+V:2
+"^2""G" G2 FE |"D7" DF/F/ FG | A2 FD |"G" B,2 z2 |:[K:G][M:2/4][K:treble]"G" G2 FE | 
+"D7" DF/F/ FG | A2 FD |"G" B,G/G/ GG | G2 FE |
+"D7" DF/F/ FG | A2 FD |1"G" B,2 z2 :|2 "G" B,2 z G |:
+"G" B>G ed |"Am" c3 A |"D7" F>F dc |"G" B3 G | 
+"^Stämförslag B.O." B,>B, ed |"Am" cB AG |"D7" F2 D2 |1"G"  B,2 z G :|2"G" B,2 z2 |] 
+

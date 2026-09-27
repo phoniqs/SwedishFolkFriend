@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Jämtgubben
+C:Gnesta-Kalle
+C:Sölve Strand
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gnesta-Kalle -- Sölve Strand"
+L:1/8
+M:2/4
+K:G
+V:1
+|:"^1"v GB/d/ (g/f/)e/d/ | "^Sno-polka" Bd/B/ (.G.B) | GB/d/ (g/f/)e/d/ | cd/c/ (.A.c) | 
+D>F Ac | ff f(e/f/) | ed f>e | dB/B/ (.B.B) | 
+GB/d/ (g/f/)e/d/ | Bd/B/ (.G.B) | GB/d/ (g/f/)e/d/ | cd/c/ (.A.c) | 
+D>F Ac | ff f(e/f/) | ed ef | gg g z :: 
+[K:D]v af/d/ af/d/ | ce/e/ (.e.e) | ge/c/ ge/c/ | df/f/ (.f.f) | 
+AB cd | (cG) G2 | GA Bc | (BF) F2 | 
+af/d/ af/d/ | ce/e/ (.e.e) | ge/c/ ge/c/ | df/f/ (.f.f) | 
+AB cd |(eB) B2 | cA f>e | dd d z ::
+[K:C]v ^c'2 (ge) | ^c3 (e/g/) | ^ce/g/ ce/g/ | Bd/^f/ Bd/f/ | 
+b2 (g^f) | B3 g | bb b>a | (ag) g2 | 
+^c'2 (ge) | ^c3 (e/g/) | ^ce/g/ ce/g/ | Bd/^f/ Bd/f/ | 
+b2 (g^f) | B3 g | bb b(a/b/) | ^c'c' c' z :|
+

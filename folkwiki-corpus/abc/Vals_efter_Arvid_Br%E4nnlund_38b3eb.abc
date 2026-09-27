@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals efter Arvid Brännlund
+S:Arvid Brännlund
+O:Ragunda, Jämtland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Vals från Ragunda, Jämtland, efter Arvid Brännlund (1880-1960)"
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" B3 c d2 | B3 c d2 | d2 e2 d2 | d3 c B2 | A3 B c2 | 
+A3 B c2 | (cB) (dc) AF |1 G2 Bd g2 :|2 G3 z g2 |: 
+(gb) (gd) BG | (DG) Bd g2 | (gb) (gd) BG | (DF) Ac e2 | 
+(eg) (ec) AF | (DF) AB c2 | (cB) (dc) AF | G2 Bd g2 | 
+(gb) (gd) BG | (DG) Bd g2 | (gb) (gd) BG | (DF) Ac e2 | 
+(eg) (ec) AF | (DF) AB c2 | (cB) (dc) AF |1 G3 z g2 :|2 G4 z2 |] 
+V:2
+|:"^2""G" G3 A B2 | G3 A B2 | B2 c2 B2 | B3 A G2 |"D" F3 G A2 | 
+F3 G A2 | (AG) (BA) FD |1 "G" B,2 DG B2 :|2"G" [B,D]3 z B2 |:
+"G" (Bd) (BG) DB, | (G,B,) DG B2 | (Bd) (BG) DB, | "D" (A,D) FA c2 | 
+(ce) (cA) FD | (A,B,) CD E2 | (ED) (FE) CA, |"G" B,2 DG B2 | 
+(Bd) (BG) DB, | (G,B,) DG B2 | (Bd) (BG) DB, |"D" (A,D) FA c2 | 
+(ce) (cA) FD | (A,B,) CD E2 | "^Stämförslag B.O." (ED) (FE) CA, |1"G" [B,D]3 z B2 :|2"G" [B,D]4 z2 |]
+

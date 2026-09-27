@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Norrbärke gånglåt
+C:Leo Dahlkvist
+O:Norrbärke, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Leo Dahlkvist, Morgårdshammar."
+L:1/16
+M:2/4
+K:A
+V:1
+"^1" A,2 |: C2A,C E2EA | c2cf e2ce | (a2>g2) (fe)dc | d6 E2 | G2EG B2GB | 
+e2f2 e2>f2 | (g2>f2) (ef)ed | (cd)cB A2uE2 | A2EA c2Ac | (e2f2) e2ce | (a2>b2) (ag)fe | 
+f6 f2 | a2ag a2uf2 | (ef)ec A2uc2 | (Bc)dB (EG)BG |1 A6 A,2 :|2 A6 c2 |:
+d2>A2 F2A2 | (dc)de (fa)gf | e2>c2 A2f2 | e4 c2Bc | d2>c2 B2>A2 | G2B2 e2>f2 | 
+(g2>f2) (ef)ed | (cd)cB A2uc2 | d2>A2 F2A2 | (dc)de (fa)gf | e2>c2 A2f2 | 
+e4 c2Bc | d2>c2 B2>A2 | G2B2 e2>f2 | (gf)ed (cd)BG |1 A6 c2 :|2 A6 z2 |] 
+V:2
+"^2" C2 |:"A" E2CE A2CE | A2Ad c2EA | (c2>B2) (AG)FE |"E7" G6 B,2 | E2B,E G2B,E | 
+G2A2 G2>A2 | (B2>A2) (GA)GF |"A" (EF)ED C2uA,2 | E2CE A2EA | (c2d2) c2EA | (c2>d2) (cB)Ac |
+"D" d6 d2 | f2fe f2ud2 |"A" (cd)cA E2uA2 |"E7" (GA)BG (B,D)ED |1"A" [CE]6 C2 :|2"A" [CE]6 E2 |: 
+"D" F2>D2 A,2D2 | (FE)FA (df)ed |"A" c2>A2 E2d2 | c4 A2GA |"E7" B2>A2 G2>F2 | E2G2 B2>c2 | 
+(d2>c2) (Bc)BG |"A" (AB)AE C2uE2 |"D" F2>D2 A,2D2 | (FE)FA (df)ed |"A" c2>A2 E2d2 | 
+c4 A2GA |"E7" B2>A2 G2>F2 | E2G2 B2>c2 | (dc)BG (EF)DB, |1"A" [CE]6 E2 :|2 "A" "^B.O." [CE]6 z2 |]
+

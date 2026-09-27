@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Skattungbyn
+O:Skattungbyn, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad.
+L:1/16
+M:2/4
+K:D
+V:1
+"^1" A2 |:{c} d2(d2 Bd)BG | A2>(B2 cd)ef |{gf} g2ec (Ac)ec | d6 A2 | 
+f2>d2 f2a2 | g2Tf2 e2d2 | (f2>d2) (dc)df |1 e6 A2 :|2 e6 (Ac) |: 
+e2>(A2 c2e2) | a2>(a2 b2c'2) | a2>(e2 g2f2) | d2>(d2 fd)fa | 
+e2>(d2 Bd)BG | A2>(B2 cd)ef |{gf} g2ec (Ac)ec |1 d6 (Ac) :|2 d6 z2 |] 
+V:2
+"^2" E2 |:{E} F2(F2 GB)GE | C2>(E2 AB)cd | e2cA (EA)cA | F6 F2 | 
+d2>A2 d2f2 | e2d2 A2F2 | (d2>B2) (BA)Bd |1 c6 E2 :|2 c6 (EA) |: 
+c2>(E2 A2c2) | c2>(c2 d2e2) | c2>(A2 c2A2) | F2>(A2 dA)df | 
+c2>(B2 GB)GE | C2>(E2 AB)cd | e2cA (EA)cA |1"^Stämförslag B.O." F6 EA :|2 F6 z2 |] 
+

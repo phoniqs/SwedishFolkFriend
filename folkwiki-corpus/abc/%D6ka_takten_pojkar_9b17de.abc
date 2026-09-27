@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:4
+T:"Öka takten pojkar"
+T:Polska Nr 4 efter Spel-Stina
+R:Polska
+O:Torsåker, Gästrikland
+S:Spel-Stina
+Z:Karin Helander
+N:Not från gruppen "Spelstinor": http://spelstinor.se/projektet.html
+N:(Lätt förenklad efter inspelning med [[Personer/Ellinor Fritz]])
+M:3/4
+L:1/16
+K:Dm
+Q:1/4=114
+V:1
+|: a2ba g2ag !trill! f2e2 | f2gf e2fe d2^c2 | d3(^c d2e2) f2a2 | !trill! g2fg a4 (A4 :|
+a3)a a2a2 a2a2 | ^g3g g2g2 g2g2 | f3f f2f2 f2!trill!f2 | e3d (^c2a2) A4 | 
+(a2f2) (f2a2) a2g^f | (g2e2) (e2g2) g2fe | (f2d2) (d2a2) f2d2 | d2^cd (ed)c=B A4 | 
+(A2F2) (F2A2) A2GF | (G2E2) (E2G2) G2FG | A3A ^c2d2 e2g2 | (fe)d^c d2A2 F2D2 | 
+(A2F2) (F2A2) (BA)G^F | (G2E2) (E2G2) (AG)^FG | A3A ^c2d2 e2g2 | (fe)d^c d8 |]
+V:2
+|: f2gf e2fe !trill!d2A2 | d2ed ^c2dc A2G2 | F3(E F2A2) d2f2 | !trill!e2de ^c4 (c4 :|
+A3)A A2A2 A2A2 | ^G3G G2G2 G2G2 | F3F F2F2 F2F2 | E3D (^C2E2) A,4 | 
+(A2F2) (F2A2) (BA)G^F | (G2E2) (E2G2) (AG)FE | (F2D2) (D2A2) F3F | D2^CD (ED)C=B, A,4 | 
+(A,F)(AF) (A,F)(AF) (A,F)(AF) | (A,E)(AE) (A,E)(AE) (A,E)(AE) | F3F G2G2 A3B | (AG)EG F2FD A,2D2 | 
+(A,F)(AF) (A,F)(AF) (A,F)(AF) | (A,E)(AE) (A,E)(AE) (A,E)(AE) | F3F G2G2 A2B2 | (AG)EG F2 z2 [FA,]4 |]
+

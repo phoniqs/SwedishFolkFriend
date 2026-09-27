@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:15
+T:Katrinas slängpolska
+C:Katrina Lundstedt
+O:Hassela, Hälsingland
+R:Slängpolska
+S:Otôrgs-KaisaAbrahamsson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA 15. Slänglpolska av Katrina Lundstedt."
+Z:"Uppt. OKA -86."
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" D2 (FF) EF | D2 FA (3dcd | e2 (ec) (3A(Bc) | d2 (cB) AF | 
+D2 (FF) EF | D2 FA (3dcd | e2 (ec) (3A(Bc) | d2 d3 z :: 
+F2 A2 dc | B2 BA G2 | e2 (ec) (3A(Bc) | d2 (cB) AG | 
+F2 A2 dc | B2 BA G2 | e2 (ec) (3A(Bc) | d2 d3 z :: 
+(d>f) fA d2 | (ee) eF G2 | (G>A) (BG) EC | (DD) FA d2 | 
+(ff) fA d2 | (ee) eF G2 | (G>A) (BG) EC | (DF) D3 z :| 
+V:2
+|:"^2" A,2 (DD) CA, | A,2 DF A2 | c2 (cA) (3E(FG) | F2 (AG) FD | 
+A,2 (DD) CA, | A,2 DF A2 | c2 (cA) (3E(FG) | F2 F3 z :: 
+D2 F2 BA | G2 GF E2 | c2 (cA) (3E(FG) | F2 (AG) FE | 
+D2 F2 BA | G2 GF E2 | c2 (cA) (3E(FG) | F2 F3 z :: 
+"^Variant av melodin till Fjällnäspolska, Svenska Folkdanser del 1." (A>d) dF A2 | (cc) cD E2 | (E>F) (GE) CA, | (A,A,) DF A2 | 
+(dd) dF A2 | (cc) cD E2 | (E>"^Uppt. OKA -86. Stämförslag B.O. -08."F) (GE) CA, | (FA) F3 z :|
+

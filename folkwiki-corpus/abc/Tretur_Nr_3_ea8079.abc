@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:39
+T:Tretur Nr 3
+T:(Gamla Dansar i Skåne)
+B:Gamla Dansar i Skåne
+O:Skåne
+R:Engelska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Tretur (3). Mandelgrens saml. nr. 245."
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" A2AB c2ed | (dc)AF G4 |]:[K:G][M:2/4][K:treble]"^Dans" G2GB d2dB | 
+(cB)cd e2d2 | A2AB c2ed | (dc)AF G4 :: 
+(DF)Ac (dc)AF | G2Bd (gd)BG | (DF)Ac (dc)Ac | (Bg)Af g4 :| 
+V:2
+"^2" F2FG A2cB | (BA)FD B,4 |]:[K:G][M:2/4][K:treble] B,2B,G B2BG | 
+(AG)AB c2B2 | F2FG A2cB | "^Mandelgrens saml. nr. 245."(BA)FD B,4 :: 
+(A,D)FA (BA)FD | B,2GB (dB)GD | "^Stämförslag B.O." (A,D)FA (BA)FA | (Gd)FA B4 :|
+

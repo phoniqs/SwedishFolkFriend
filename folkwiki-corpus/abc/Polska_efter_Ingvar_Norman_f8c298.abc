@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Ingvar Norman
+S:Ingvar Norman
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (13) efter Ingvar Norman, Säter."
+L:1/8
+M:3/4
+U:t=tenuto
+K:G
+V:1
+"^1" (c |: B/c/B/)(A/ G>)(B d>)c | (B/c/B/A/) tGtB d>g | T f>(e c>)(c e3/2){ga}g/ | 
+fa/f/ g{eg}e d>c | B/c/B/(A/ G>)(B d>)c | B/c/B/A/ tGtB d>g |T 
+f>(e d>)(c A>)G |1,8 FE/F/{F} G3 c :|2 FE/F/{F} G3 D |: G>(B d)b (a/g/)f/g/ | 
+ea{fg} fe/f/ g>d |{fg} fe/f/ g(g e)e |1 cB/c/{c} d3 D :|2 cB/c/{c} d3 z |] 
+V:2
+"^2" A |: G>(D B,>)(G B>)A | G>D tB,tG B>e | d>(c A>)(A c>)e | 
+d2 ec B>A | G>D B,>(G B>)A | G>D tB,tG B>e | 
+d>(c B>)(A F>)E |1,8 DC [B,D]3 A :|2 DC [B,D]3 B, |: D>(G B)d (c/B/)A/B/ | 
+cf (dc) B>B | dc/d/ ee cc |1 AG [GB]3 B, :|2 "^Stämförslag B.O." AG [FA]3 z |]
+

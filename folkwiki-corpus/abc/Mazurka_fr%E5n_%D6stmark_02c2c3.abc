@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Mazurka från Östmark
+T:efter Daniel Nilsson
+S:Daniel Nilsson
+O:Sunne, Värmland
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Mazurka från Östmark, Värmland (1) eft. Daniel Nilsson, Sunne."
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" A2 (AG) F>E | (D>F) Ad f2 | (f>e) (eg) c>e | (e>d) fd A2 | 
+A2 (AG) F>E | (D>F) Ad f2 | (f>e) (eg) c>e | (e>d) d4 :: 
+d>B g2 g2 | d>A f2 f2 | (f>e) (ea) c>e | (e>d) fd A2 | 
+d>B g2 g2 | d>A f2 f2 | (f>e) (ea) c>e | (e>d) d4 :| 
+V:2
+|:"^2""D" F2 (FE) D>C | (A,>D) FA d2 |"A7" (d>c) (ce) A>G |"D" (G>F) AF D2 | 
+F2 (FE) D>C | (A,>D) FA d2 | "A7" (d>c) (ce) A>G | "D" (G>F) [FA]4 ::
+"G" B>G B2 B2 |"D" A>F A2 A2 | "A7" (d>c) (ce) A>G |"D" (G>F) AF D2 |
+"G" B>G B2 B2 |"D" A>F A2 A2 | "A7" (d>c) (ce) A>G |"D" "^Stämförslag B.O." (G>F) [FA]4 :|
+

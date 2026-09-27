@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:14
+T:Fjällnäspolska
+T:(Sv Folkdanser Del 1)
+O:Värmland?
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 14. Fjällnäspolska"
+Z:http://runeberg.org/folkdans/besk/0148.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 14
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^Förspel" d>(c B>d) g>f | e>(f e>d) c>c | a>(b a>g) f(e/f/) | g2 g4 |] [K:G][M:3/4][K:treble]"^Dans""^(1)" G2 (G>B) A>F | G2 (B>d) g>g |
+ a>(b a>g) f(e/f/) | g2 (b>g) d>B | G2 (G>B) A>F | G2 (B>d) g>g |a>(b a>g) f(e/f/) | g2 g3 z |] 
+"^(2)" b2 (b>a) g>f | e2 (e>d) c>c | a>(b a>g) f>e | d>(e d>c) B>A | G2 (G>B) A>F | 
+G2 (B>d) g>g | a>(b a>g) f(e/f/) | g2 (b>g) d>B | G2 (G>B) A>F | G2 (B>d) g>g | 
+ a>(b a>g) f(e/f/) | g2 g4 |]"^(3)" d>(c B>d) g>f | e>(f e>d) c>c | a>(b a>g) fe/f/ | 
+g2 (b>g) d2- | d>(c B>d) g>f | e>(f e>d) c>c | a>(b a>g) f(e/f/) | g2 g4 |] 
+V:2
+"^2""G" B>(A G>B) e>d |"Am" c>(d c>G) E>A |"D7" f>(g f>e) dc |"G" B2 B4 |] [K:G][M:3/4][K:treble]"G" B,2 (B,>D) C>A, | 
+B,2 (D>G) B>d | "D7"f>(g f>e) d(c/d/) | "G"B2 (d>B) G>D | B,2 (B,>D) C>A, | B,2 (D>G) B>d | 
+"D7"f>(g f>e) dc | "G" B2 B3 z |] "G" g2 (g>f) e>d | "Am" c2 (c>B) A>A | "D7" f>(g f>e) d>c |"G" B>(c B>A) G>D | 
+B,2 (B,>D) C>A, | B,2 (D>G) B>d | "D7" f>(g f>e) dc | "G" B2 (d>B) G>D | B,2 (B,>D) C>A, | 
+B,2 (D>G) B>d | "D7" f>(g f>e) dc | "G" B2 B4 |]"G" B>(A G>B) e>d | "Am" c>(d c>G) E>A | "D7" f>(g f>e) dc |"G" B2 (g>d) B2- | B>(A G>B)"^Hambo" e>d |"Am" c>(d c>G) E>A | "D7" f>(g f>e) d"^Stämförslag B.O."c |"G" B2 B4 |]
+

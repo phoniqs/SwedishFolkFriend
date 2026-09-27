@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Grind Hans jässpôdspolska
+S:Efter Petters Erik Eriksson
+O:Rättvik, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^(Förenkl. utan \"krus\")" G- |: G2 c2 d>e | (3f2 (e2 c2)"^Grin Hans jässpôdspolska" A2- | A2 (f>e) d>c | (B>c) (tdtB) G2- | 
+G2 c2 d>e | (3f2 (e2 c2) A2- | A2 (f>e) d>c |1 "^Tr." (BA/B/) c3 G- :|2"^Tr." (BA/B/) c3 c- |: 
+c>(e gf) e>d | (c>f) (ag) f>e | d>(e f/g/)f/e/ d>c | (B>c) (tdtB) G2- | 
+G2 (gf) e>d | (c>f) (ag) f>e | d>(e f/g/)f/e/ d>c |1"^Tr." (BA/B/) c3 c- :|2"^Tr." (BA/B/) c3 z |] 
+V:2
+"^2" D- |: D2 E2 G>c | (3d2 (c2 A2) F2- | F2 A2 B>A | G2 (tBtG) D2 | D2 E2 G>c | 
+(3d2 (c2 A2) F2- | F2 A2 B>A |1 (GF) E3 D :|2 (GF) E3 E |: 
+E>(c ed) c>G | (E>c) (fe) d>c | B>(c dc) B>A | (G>A) (tBtG) D2- | 
+D2 (ed) c>G | (E>c) (fe) d>c | B>(c dc) B>A |1 (GF) E3 E :|2"^Stämförslag B.O." (GF) E3 z |] 
+

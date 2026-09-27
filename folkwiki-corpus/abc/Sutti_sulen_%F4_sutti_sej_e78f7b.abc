@@ -1,0 +1,32 @@
+%%abc-charset utf-8
+
+X:33
+T:Sutti sulen ô sutti sej
+T:(Huppleken Sv Folkdanser Del 1)
+O:Dala-Floda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Huppleken tur 3, polska 2, fördans, polska 2.
+Z:"Sv Folkdanser Del 1 33. Huppleken från Dala-Floda"
+Z:http://runeberg.org/folkdans/besk/0170.html
+Z:Spelas en gång för varje "köp"
+Z:Från inspelning av [[Personer/Olof Tillman]] 1957
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 33
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Tur 3.  Fördans.  Polska 2." A- | A z/ (c/ d2) f>e | (c<e) g3 g | a>(f d>)(f e>)d | c2 A3 A- | 
+A z/ c/ d2 f>e | c<e g3 b | a>(f d>)(f e>)d | c2 A4 |] 
+A z/ f/ a2 a>g | b>b a2 g>e | g>g f2 d>f | e>e d>(d c>)A | 
+A z/ f/ a2 a>g | b>b a2 g>e | g>g f2 d>f | e<c d2 z A- |] 
+A z/ g/ f2 d>f | e>e d>(d c>)A | A z/ g/ f2 d>f | e>c A>^G A2- | 
+A z/ g/ f2 d>f | e>e d>(d c>)A"^Spelas en gång för varje \"köp\"." | A z/ g/ f2 d>f | e<c d3 z |] 
+V:2
+"^2" F- | F z/ G/ F2 d>c | A<c e3 e | f>(d F>)(d c>)B | A2 E3 F- | 
+F z/ G/ F2 d>c | A<c e3 g | f>(d F>)(d c>)B | A2 E4 |] 
+F z/ d/ f2 f>e | g>g f2 e>c | e>e d2 F>d | c>c B>(B A>)E | 
+E z/ d/ f2 f>e | g>g f2 e>c | e>e d2 F>d | c<A F2 z F- |] 
+F z/ e/ d2 F>d | c>c B>(B A>)E | "^Från inspelning av Olof Tillman 1957." E z/ e/ d2 F>d | c>A E>D E2- | 
+E z/ e/ d2 F>d | c>c B>(B A>)E | E"^Stämförslag B.O." z/ e/ d2 F>d | c<A F3 z |]
+

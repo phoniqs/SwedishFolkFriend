@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:111
+T:Tosingadansen
+T:(Sv Folkdanser Del 1)
+S:Gerda Runnquist-Jakobson
+O:Blekinge
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 111. Tosingadansen"
+Z:http://runeberg.org/folkdans/besk/0113.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 111
+L:1/8
+Q:1/4=106
+M:2/4
+K:C
+V:1
+"^1" G/"^Förspel"c/ | ee/c/ GG/E/ | CC/B/ cc | dd/f/ ee/g/ | (g/f/)d/B/ c |] [M:2/4][K:treble][Q:1/4=106]"^Dans" G/c/ |:
+ ee/c/ GG/E/ | CC/B/ cc | dd/f/ ee/g/ | (g/f/)a/g/ (f/e/)d/c/ | 
+ee/c/ GG/E/ | "^Spelas rätt igenom med repr. önskat antal ggr."CC/B/ cc | dd/f/ ee/g/ | (g/f/)d/B/ cC :: [Q:1/4=95] d>B GG |
+ e>c GG | (f/g/)f/e/ d>c | (B/c/)A/B/ G z | d>B GG | e>c GG | 
+f>d (B/G/)B/d/ |1 c3 z :|2[M:3/4]"^Vals" c3 Gce |: g3 a g2 | (g^f) ge c2 | f3 edc | 
+(cB) dB G2 | g3 a g2 | (g^f) ge c2 | (fe) (dc) Bd |1 c3 Gce :|2 c4 z2 |] 
+V:2
+"^2" E/G/ | "C"cc/G/ EE/C/ | G,G,/C/ EE |"G7" BB/d/ cc/e/ |"G7" (e/d/)B/G/"C" E |] 
+[M:2/4][K:treble] E/G/ |: "C"cc/G/ EE/C/ | G,G,/C/ EE |"G7" BB/d/"C" cc/e/ | "G7" (e/d/)f/e/"C" (d/c/)G/E/ | 
+cc/G/ EE/C/ | G,G,/C/ EE |"G7" BB/d/"C" cc/e/ | "G7" (e/d/)B/G/"C" EE :: 
+"G7"B>G DD | "C"c>G EE | "G7"(d/e/)d/c/ B>A | (G/A/)F/G/ B, z | 
+B>G DD | "C"c>G EE | "G7" d>B (G/D/)G/F/ |1"C" E3 z :|2[M:3/4][Q:1/4=140] "C"E3 EGc |: "C"e3 f e2 | (ed) ec E2 | "G7"d3 cBA | 
+(AG) BG D2 | "C"e3 f e2 | "^Stämförslag B.O."(ed) ec E2 | "G7" (dc) (BA) GF |1  "C"E3 E Gc :|2 "C"E4 z2 |]
+

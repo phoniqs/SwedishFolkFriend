@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Västerbacken
+C:Roland Nordlund
+O:Alfta, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. Roland Nordlund, Långhed, Alfta."
+Z:"Stämma: Gunnar Östergårds."
+L:1/16
+M:2/4
+K:G
+V:1
+"^1" (Bc) |: d2(ed) B2G2 | (DE)(DC) B,2D2 | G2(FG) A2G2 | (F2[FA]2)"^Stämma: Gunnar Östergårds." [FA]4 | c2(dc) A2cA | 
+F2(AF) D2d2 | f2(gf) e2d2 | (c2B2) [DB]4 | d2(ed) B2G2 | (DE)DC B,2D2 | G2(FG) A2G2 | 
+(F2E2) E4 | (G,E)cE (G,E)(cE) | (G,D)BD (G,D)(BD) | d2(ed) cA(FA) | G2B2 [B,G]2(Bc) :: 
+d2(ed) B2d2 | [Bg]4u [Bg]2uB2 | d2(ed) c2B2 | [Ec]6 A2 | (cd)cB c2d2 | [Af]4 ([Af]2e2) | 
+d2(ed) c2dc | [DB]6 c2 | d2(ed) B2d2 | [Bg]4u [Bg]2uB2 | d2(ed) c2B2 | [Ec]8 |
+v (G,E)cE (G,E)(cE) | (G,D)BD (G,D)(BD) | d2(ed) cA(FA) |1 G2B2 [B,G]2(Bc) :|2 G2B2 [B,G]4 |] 
+V:2
+"^2" (GA) |: B2(cB) G2D2 | (B,C)B,A, G,2B,2 | B,2(A,B,) D2B,2 | (A,2D2) [A,D]4 | A2(BA) F2AF | 
+D2(FD) A,2F2 | d2(ed) c2B2 | (A2G2) [G,G]4 | B2(cB) G2D2 | (B,C)B,A, G,2B,2 | B,2(A,B,) D2B,2 | 
+(D2C2) A,4 | (CG,)EC (CG,)(EC) | (B,G,)GB, (B,G,)(GB,) | B2(cB) AF(DF) | D2G2 D2(GA) :: 
+B2(cB) G2B2 | [DB]4u [DB]2uG2 | B2(cB) A2G2 | [G,E]6 C2 | (AB)AG A2F2 | [Dd]4 ([Dd]2c2) | 
+B2(cB) A2BA | [G,G]6 A2 | B2(cB) G2B2 | [DB]4u [DB]2uG2 | B2(cB) A2G2 | [G,E]8 | 
+v (CG,)EC (CG,)(EC) | (B,G,)GB, (B,G,)(GB,) | B2(cB) AF(DC) |1 B,2G2 D2(GA) :|2 B,2G2 [G,D]4 |]
+

@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Vårlåt
+C:Erik Englund
+R:Gånglåt
+O:Böle, Jämtland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Erik Englund, Böle, 1985."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" (Bc) |: d2 (d/e/)d/c/ | Bd gf | e2 (e/f/)e/c/ | A2 (AG) | F>G AB | 
+ce dc | B2 (B/c/)d/e/ | d2 (dc) | B2 (B/A/)B/c/ | d2 (gf) | f>e ec | 
+e2 gf/e/ | d2 (Bd) | dc AF | G2 (F/D/)F/A/ |1 G2 (Bc) :|2 G2 (g>f) |: 
+fe ee | ec/e/ (a/g/)f/e/ | ed dd | d^c/d/ (e/d/)=c/B/ | A2 (AA) | 
+d>(c B/c/)A/F/ | G>A Bc | d2 (g>f) | fe ee | ec/e/ (a/g/)f/e/ | ed dd | 
+d^c/d/ (e/d/)=c/B/ | BA AA | d>(c B/c/)A/F/ | GF/G/ (AF) |1 G2 (g>f) :|2 G4 |] 
+V:2
+"^2" (GA) |: B2 (B/c/)B/A/ | GB Bd | c2 (c/d/)c/A/ | E2 (FE) | D>E FG | 
+Ac BA | G2 (G/A/)B/c/ | B2 (BA) | G2 (G/F/)G/A/ | B2 (Bd) | d>c cG | 
+c2 ed/c/ | B2 (GB) | F2 (DC) | B,2 (A,C) |1 [B,D]2 (GA) :| [B,D]2 (B>d) |: 
+dc cc | cG/c/ (f/e/)d/c/ | cB BB | B^A/B/ (c/B/)=A/G/ | F2 (FF) | 
+F2 FD/C/ | B,>D GA | B2 (B>d) | dc cc | cG/c/ (f/e/)d/c/ | cB BB | 
+B^A/B/ (c/B/)=A/G/ | GF FF | F2 FD/C/ | B,2 (CA,) |1 [B,D]2 (B>d) :|2 "^B.O." [B,D]4 |]
+

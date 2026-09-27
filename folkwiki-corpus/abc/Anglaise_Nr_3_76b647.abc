@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:3
+T:Anglaise Nr 3
+R:Anglais
+O:Brunnby, Skåne
+S:Ola Hansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Anglaise (3)"
+Z:"Efter Ola Hansson, Brunnby. C. E. Berndts saml."
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (dc)Bc (de)fg | (ec)AF G4 |]:[K:G][M:2/4][K:treble]"^Dans" D2DG B2Bc | 
+A2Ac B2G2 | D2DG B2Bc | (AG)AB G2 z2 :: 
+(dc)Bc d2ef | g2fg d4 | (dc)Bc (de)fg | (ec)AF G2 z2 :| 
+V:2
+"^2" (BA)GA (Bc)de | (cA)FD B,4 |]:[K:G][M:2/4][K:treble] B,2B,D G2GA | F2FA G2D2 | B,2B,D G2GA | 
+(FE)FD B,2 z2 ::"^Efter Ola Hansson, Brunnby.""^C. E. Berndts saml." (BA)GA B2cd | e2de B4 | 
+(BA)GA (Bc)de | (c"^Stämförslag B.O."A)FD B,2 z2 :|
+

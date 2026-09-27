@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:10
+T:Krokvalsen efter Katrina Lundstedt
+S:Katrina Lundstedt
+S:Otôrgs-KaisaAbrahamsson
+O:Hassela, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA. 10. Krokvalsen"
+Z:"Uppt. OKA."
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" A2 |: d2 (dc) df | A3 BAG | F2 (FE) FA | D4 (EF) | G2 (G2 F2) | 
+E4 (FG) | A3 GBA | FA D3 A | d2 (dc) df | A3 BAG | F2 (FE) FA | 
+D4 (EF) | G2 (G2 F2) | E4 (FG) | A3 GEF | D4 A2 :: 
+(FG) (EG) EG | (GF) (DF) DF | (FG) (EG) EG | 
+(GF) (DF) DF | D2 FA d2 | D2 (F2 E2) |1 D6 :|2 D4 z2 |] 
+V:2
+"^2" F2 |:"D" F2 (FE) FA | F3 GFE | D2 (DC) DF | A,4 (CD) |"A7" E2 (E2 D2) | C4 (DE) | 
+"D" F3 EGF | DF A,3 F | F2 (FE) FA | F3 GFE | D2 (DC) DF | 
+A,4 (CD) |"A7" E2 (E2 D2) | C4 (DE) | C3 ECD |"D" A,4 F2 ::
+"D" d4 "A7" c2 |"D" B4 A2 |"D" (DE) (CE)"A7" CE |
+"D" (ED) A,D A,D | "D" A,2 DF A2 |"D" "^Stämförslag B.O. -08." F2 (A2 "A7" G2) |1 "D"F6 :|2 "D"F4 z2 |]
+

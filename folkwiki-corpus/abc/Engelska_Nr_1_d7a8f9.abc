@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:9
+T:Engelska Nr 1
+T:(Gamla Dansar i Skåne)
+O:Filborna, Skåne
+R:Engelska
+S:Adolf Palm
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Engelska (1). Efter Adolf Palm, Filborna."
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (fa)fd (eg)ec | c2d2 d2 z2 |]:[K:D][M:2/4][K:treble]"^Dans" (AF)DF (AF)DF | A2d2 d2d2 | 
+(AF)DF (AG)FG | E2E2 E2 z2 | (AF)DF (AF)DF | A2d2 d2f2 | (fa)fd (eg)ec | c2d2 d2 z2 :: 
+f2d2 (df)af | e2A2 (Ac)eg | f2d2 (df)af | (ed)cB B2A2 | 
+f2d2 (df)af | e2A2 (Ac)eg | (fa)fd (eg)ec | c2d2 d2 z2 :| 
+V:2
+"^2" (df)dA (ce)cA | G2F2 F2 z2 |]:[K:D][M:2/4][K:treble] (FD)A,D (FD)A,D | F2F2 F2F2 | 
+(FD)A,D (FE)DE | C2C2 C2 z2 | (FD)A,D (FD)A,D | F2F2 F2d2 | (df)dA (ce)cA | G2F2 F2 z2 :: 
+d2A2 (Ad)fd | c2E2 (EA)ce | "^Efter Adolf Palm, Filborna." d2A2 (Ad)fd | (cB)AE E2C2 | 
+d2A2 (Ad)fd | c2E2 (EA)ce | (df)dA (ce)cA | "^Stämförslag B.O." G2F2 F2 z2 :|
+

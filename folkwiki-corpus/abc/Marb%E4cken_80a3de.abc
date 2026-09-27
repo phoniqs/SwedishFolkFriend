@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:24
+T:Marbäcken
+R:Polska
+Z:Karin Helander
+Z:Gammal polska, upptecknad och arrangerad  av [[Personer/Thore Härdelin Den Äldre]]
+B:Ny Samling Spelmanslåtar från Hälsingland Nr 24
+O:Hälsingland
+M:3/4
+L:1/16
+K:Gm
+V:1
+|: "Gm"G2g2 g2^fg (ag)=fe | d2B,2 B,2d2 (ed)cB | "D7"c2A,2 A,2c2 (dc)BA | "Gm"B,2d2 "D7"A,2c2 "Gm"G,2B2 | B2AG ^FGAF DCB,A, |
+G,2g2 g2^fg (ag)=fe | d2B,2 B,2d2 (ed)cB | "D7"c2A,2 A,2c2 (dc)BA | "Gm"B,2d2 "D7"A,2c2 "Gm"G,2B2 |1 (BA)G^F [G8B,8] :|2 BAG^F [G6B,6] A2 |] 
+|: "Gm"B2G2 (DG)(BG) (DG)(BG) | "D7"(D^F)(AF) (DF)(AF) (DF)(AF) | "Gm"B2G2 (DG)(BG) (DG)(BG) | "D7"(D^F)(AF) (DF)(AF) DCB,A, | 
+"Gm"G,2g2 g2^fg (ag)=fe | d2B,2 B,2d2 (ed)cB | "D7"c2A,2 A,2c2 (dc)BA | "Gm"B,2d2 "D7"A,2c2 "Gm"G,2B2 | (BA)G^F [G6B,6] A2 | "Bb"B2BB (dB)fB (dB)bB | 
+"F7"A2AA (cA)eA (cA)gA |"Bb"B2BB (dB)fB (dB)bB | "F7"A2AA (cA)eA (cA)gA | "Gm"G3B d2g2 d2B2 | (AG)^FG A4 G4 :|
+|: "Gm"d2[gd][gd] [g2d2][gd][gd] [g2d2][gd][gd] | "D7"[b2d2][ad][ad] [a2d2][ad][ad] [a2d2][ad][ad] |"Gm"[a2d2][bd][bd] [b2d2][bd][bd] [b2d2][bd][bd] | ag^fg a2d'2 [d4D4] | dcAB G2B2 [d4D4] | 
+D2DD .G.D.G.B [d4D4] | .g.^f.g.b .a.g.=f.e .d.c.B.A |G^FGB AGFE D2C2 | "Bb"B2BB (dB)fB (dB)bB | 
+"F7"A2AA (cA)eA (cA)gA | "Bb"B2BB (dB)fB (dB)bB | "F7"A2AA (cA)eA (cA)gA | "Gm"G3B d2^f2 g2a2 | babg a4 [g4B4] :|
+V:2
+|: G,2d2 [d4D4] (de)dc | B2G,2 G,2B2 (cB)AG | ^F2D2 D2A2 (BA)G^F | [B4G4] [A4^F4] [D4B,4] | D2CB, A,B,CA, D4 |
+D2d2 [d4D4] dedc | B2G,2 G,2B2 (cB)AG | ^F2D2 D2A2 (BA)G^F | D2[B2G2] C2[A2^F2] B,2[G2B2] |1 (DC)B,A, [G,8D8] :|2 DCB,A, [G,6D6] [D2A2] |]
+|: d2B2 ([G,D]B)(gB) ([G,D]B)(gB) | d2A2 (DA)(^fA) (DA)(^fA) | d2B2 ([G,D]B)(gB) ([G,D]B)(gB) | d2A2 (DA)(^fA) dcBA | 
+G2d2 [d4D4] (de)dc | B2G,2 G,2B2 (cB)AG | ^F2D2 D2A2 (BA)G^F | D2[B2G2] C2[A2^F2] B,2[G2B2] | (DC)B,A, [G,6D6] [=F2A2] | [B,2D2][B,D][B,D] ([B,D][Fd])(.[Fd].[B,D]) ([B,D][Fd])(.[Fd].[B,D]) | 
+|[A,2F2][A,F][A,F] ([A,F][Fe])(.[Fe].[A,F]) ([A,F][Fe])(.[Fe].[A,F]) |  [B,2D2][B,D][B,D] ([B,D][Fd])(.[Fd].[B,D]) ([B,D][Fd])(.[Fd].[B,D]) | |[A,2F2][A,F][A,F] ([A,F][Fe])(.[Fe].[A,F]) ([A,F][Fe])(.[Fe].[A,F]) | G,3B, D2G2 D2B,2 | (^F=E)DE [A4D4] [D4G,4] :| 
+|: B2[Bg][Bg] [B2g2][Bg][Bg] [B2g2][Bg][Bg] | [B2g2][^fA][fA] [f2A2][fA][fA] [f2A2][fA][fA] | [^f2A2][gB][gB] [g2B2][gB][gB] [g2B2][gB][gB] | ^f=ede [A2f2][A2f2] [A4^F4] | DCA,B, G,2B,2 [G4B4] |
+D2DD GDGB [A4^F4] | d2dg .f.e.d.c .B.A.G.^F | D2DG FEDC B,2A,2 | [B,2D2][B,D][B,D] ([B,D][Fd])(.[Fd].[B,D]) ([B,D][Fd])(.[Fd].[B,D]) | 
+[A,2F2][A,F][A,F] ([A,F][Fe])(.[Fe].[A,F]) ([A,F][Fe])(.[Fe].[A,F]) | [B,2D2][B,D][B,D] ([B,D][Fd])(.[Fd].[B,D]) ([B,D][Fd])(.[Fd].[B,D]) | |[A,2F2][A,F][A,F] ([A,F][Fe])(.[Fe].[A,F]) ([A,F][Fe])(.[Fe].[A,F]) | G,3B, D2[D2d2] [D2d2][D2d2] | dcdB [^F4c4] [D4G,4] :|
+

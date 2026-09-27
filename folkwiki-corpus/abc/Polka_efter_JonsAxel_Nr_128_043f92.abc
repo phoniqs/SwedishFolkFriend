@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:128
+T:Polka efter Jons-Axel Nr 128
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polka
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 128. Polka"
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1
+|:"^1"v eG G/A/G | Af f2 | fB (c/B/)A/B/ | cg g2 | eG G/A/G |
+ Af f2 | fB (c/B/)A/B/ |1 ce c2 :|2 ce c d |:[K:G]v .d>.e .d.c | 
+A3 B | G>B .d.e | d3 g | g.f .f.a | c3 e | .e.d .d.g | B3 d |
+ .d>.e .d.c | A3 B |  G>B .d.e | d3 e | d>e .d.e | f3 (e/d/) | 
+e.d .e.f |1 gg g d :|2 gg g2 |: [K:C]v .e.c .c.A | .A.G G/A/G | 
+A.^F F/E/F | .A.G G/^F/G | .e.c .c.A | .A.G G/A/G | .A.A .B.B | ce c2 :| 
+V:2
+|:"^2" "C" GE E/^F/E | "Dm" ^FA A2 | "G7" BG G^F | "C" Ec c2 | GE E/^F/E | 
+"Dm" ^FA A2 | "G7" BG G^F |1 "C" EG E2 :|2 "C" EG E G |: [K:G] "D7" .F>.G .F.E | 
+C3 D | "G" B,>G .B.c | B3 B | "D7" B.A .A.c | A3 c |"G"  .c.B .B.d | G3 G |
+"D7"  .F>.G .F.E | C3 D | "G" B,>G .B.c | B3 G |"D7" F>G .F.G | 
+A3 (G/F/) |"A7" .A.G"D7" .A.c |1 "G" BB B G :|2 "G" BB B2 |: 
+[K:C]"C" .c.A"F" .A.^F |"C" .^F.E E/F/E |"G7" .^F.D D/C/D |"C" .^F.E E/D/E | 
+"C" .c.A"F" .A.^F |"C" .^F.E E/F/E |"G7" .^F.F"^Stämförslag B.O." .G.G |"C" EG E2 :|
+

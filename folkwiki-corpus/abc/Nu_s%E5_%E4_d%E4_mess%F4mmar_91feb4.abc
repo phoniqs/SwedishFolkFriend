@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:15
+T:Nu så ä dä messômmar
+T:Vals efter Jons-Axel Nr 15
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Vals
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 15. Vals. Nu så ä dä messômmar---. midsommar, messömmar"
+L:1/8
+Q:1/4=132
+M:3/4
+K:G
+V:1
+"^1"u D2 | G3 ABg |  d2 (B2 G2) | A2 (D2 A2) | B4 G2 | c3 def | 
+g2 (d2 B2) | ^c2 g3u c | d4 D2 | G3 ABg | d2 (B2 G2) | 
+A2 (D2 A2) | B4 G2 | (g3 f) e2 | d2 (B2 G2) | A3 dcA | G6 |]
+v g2 (g3 f) | (ag) ec G2 | d2 (d3 ^c) | (ed) BG D2 | G2 (F2 A2) | 
+(f3 e) d2 | d3 edc | B4 G2 | g2 (g3 f) | (ag) ec G2 | d2 (d3 ^c) | 
+(ed) BG D2 | f3 edc | Bd c2 F2 | G3 FGA | G4 |] 
+V:2
+"^2" D2 |"G" B,3 DGB | G2 (D2 B,2) |"D7" C2 (A,2 C2) |"G" D4 B,2 |"C" E3 Gcd |"G" B2 (G2 D2) | 
+"A7" A2 A3 G |"D" F4 D2 |"G" B,3 DGB | G2 (D2 B,2) |"D7" C2 (A,2 C2) |"G" D4 B,2 | 
+"C" (e3 d) c2 |"G" B2 (G2 D2) |"D7" C3 FDC |"G" B,6 |] 
+"C" e2 (e3 ^d) | (fe) cG E2 | "G" B2 (B3 ^A) | (cB) GD B,2 | "D7" D2 (C2 F2) |
+(A3 G) F2 | F3 GFE |"G" G4 D2 |"C" e2 (e3 ^d) | (fe) cG E2 | 
+"G" B2 (B3 ^A) | (cB) GD B,2 |"D7" A3 GFE | "^Stämförslag B.O." DF D2 C2 |"G" B,3 A,B,C |"G" B,4 |]
+

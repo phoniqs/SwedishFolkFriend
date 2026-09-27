@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1351
+T:Polska efter Vilhelm Hedlund
+S:Vilhelm Hedlund
+O:Enviken, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Vilhelm Hedlund.  Jmf. SL. nr. 1351.
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1"{ef} e>(d c2) A>c | (B^G) E4 |{AB} A>(^G A)(B c)d | e4 x2 |
+{ef} e>(d c2) A>c | (B^G) E4 | {AB} A>(^G A)(B c)A | (B^G) A4 ::
+{ef} e>(e a)(a g>)e |{ef} e>(d f)(d e>)d | c>(B A)(B c>)e | de/d/ c2 B>e | 
+e>(e a)(a g>)e |{ef} e>(d f)(d e>)d | c>(B A)(B c)A | (B^G) A4 :| 
+V:"
+|:"^2" c>(B A2) E>A | (^GE) B,4 | C>(B, C)(D E)F | (F^G) G4 | 
+c>(B A2) E>A | (^GE) B,4 | C>(B, C)(D E)C | (DB,) C4 :: 
+c>(c f)(f e>)c | c>(B d)(B c>)B | A>(E C)(E A>)c | Bc/B/ A2 ^G>c | 
+c>(c f)(f e>)c | c>(B d)(B c>)B | A>(E C)(E A)E | (DB,)"^B.O." C4 :|
+

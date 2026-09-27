@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Gratulation
+O:Ilsbo, Hälsingland
+R:Marsch
+C:Ingemar Lundberg
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. o Arr.  Ingemar Lundberg, Ilsbo"
+Z:"Tillägnad Märtha Johansson på högtidsdagen."
+L:1/8
+M:4/4
+K:C
+V:1
+|:"^1" E>D B,/C/E/G/ c2 d/c/B/c/ | e>d dA F3 A | cB B/c/B/A/ GD/E/ FE/F/ | A>G FG/F/ E4 | 
+E>D B,/C/E/G/ c2 d/c/B/c/ | e>d dA F3 A | cB B/c/B/A/ GD/E/ FE/F/ | GG B,A,/B,/ C3 z :: 
+[K:G] D>C B,/D/G/B/ d>d cB | A>G FG/F/ E4 | F>E D/F/A/B/ c>B cd | e>e dA [DB]4 | 
+D>C B,/D/G/B/ d>d cB | A>G FG/F/ E4 | F>E D/F/A/B/ c>B ce | d>d FE/F/ G4 :| 
+V:2
+|:"^2" G,>B, G,C E2 F/E/D/E/ | G>F FE D3 F | AG G/A/G/F/ DG,/B,/ DB, | F>D B,D/B,/ C4 | 
+G,>B, G,C E2 F/E/D/E/ | G>F FE D3 F | AG G/A/G/F/ DG,/B,/ DB, | B,B, G,G, E3 z :: 
+[K:G] B,>A, G,/B,/D/G/ B>G F=F | E2 CE/C/ A,4 | D>C A,/D/F/G/ A>G FB | c>c AF G4 | 
+B,>A, G,/B,/D/G/ B>G F=F | "^Tillägnad Märtha Johansson på högtidsdagen." E2 CE/C/ A,4 | D>C A,/D/F/G/ A>G FA | F>F A,C/D/ B,4 :|
+

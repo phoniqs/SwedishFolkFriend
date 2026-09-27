@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Till Göran
+C:Felspel
+O:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:Av spelgruppen "Felspel".
+Z:"Till Göran Edströms 50-årsdag 17 februari  1993."
+%%score 1 2
+L:1/8
+M:2/4
+I:linebreak $
+K:D
+V:1
+"^1" A | d>A (F/G/)A/F/ | (DE) E(E/F/) | G>B (A/B/)A/F/ | GG/E/ EC | D3 A | 
+d>A (F/G/)A/F/ | (DE) E(E/F/) | G>B (A/B/)c/d/ | (e/f/)e/c/ d A |]: 
+f>e (d/e/)f/g/ | (a>f) dB | (Ae) eB | e>f gb | a>f ge | (Ad) dA :: 
+d>f aa/f/ | (g>e) cA | G>B dd/B/ | (A/B/)A/F/ EA | 
+d>f aa/f/ | (ge) cA | G>B dd/B/ | (A/B/)A/F/ EA | 
+d>A (F/G/)A/F/ | DE EE/F/ | G>B (A/B/)c/d/ |1 (e/f/)e/c/ dA :|2 (e/f/)e/c/ d z |] 
+V:2
+"^2" F | F>F (D/E/)F/D/ | (A,C) C(C/D/) | E>E (F/G/)F/D/ | EE/C/ CA, | [A,F]3 F | 
+F>F (D/E/)F/D/ | (A,C) C(C/D/) | E>E (C/E/)A/B/ | (c/d/)c/A/ F F |]: 
+d>A (F/A/)d/e/ | (f>d) BG | (Ec) cG | c>d eg | f>d cA | (EF) FF :: 
+F>d ff/d/ | (e>c) AE | B,>G BB/G/ | (F/G/)F/D/ CF | 
+F>d ff/d/ | (ec) AE | B,>G BB/G/ "^Till Göran Edströms 50-årsdag""^17 februari  1993." | (F/G/)F/D/ CF | 
+F>F (D/E/)F/D/ | A,C CC/D/ | E>E (C/E/)A/B/ |1 (c/d/)c/A/ FF :|2"^Stämförslag B.O." (c/d/)c/A/ F z |]
+

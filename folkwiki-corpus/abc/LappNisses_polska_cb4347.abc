@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Lapp-Nisses polska
+S:Olles-Jonke
+O:Enånger, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 30. Lapp-Nisses polska efter Olles-Jonke"
+L:1/8
+Q:1/4=140
+M:3/4
+K:A
+V:1
+|:"^1" A,>C C/ z E/ E/ z A/ |"^Enånger" (f>e) c2 z2 | A,>C C/ z E/ E/ z A/ | (f>e) d2 z2 | 
+E>G G/ z B/ B/ z e/ | g2 g2 z2 | a>f d/ z f/ d/ z f/ | (f>e) c2 z2 :: 
+e2 (f>e) c>B | [Ac]/ z [Ac]/ [Ac]/ z [Ac]/ [Ac]/ z [Ac]/ | [GB]/ z [GB]/ [GB]/ z [GB]/ [GB]/ z [GB]/ | [Ac]/ z [Ac]/ [Ac]/ z [Ac]/ [Ac]/ z [Ac]/ | 
+e2 (f>e) c>B | [Ac]/ z [Ac]/ [Ac]/ z [Ac]/ [Ac]/ z [Ac]/ | [GB]/ z [GB]/ [GB]/ z [GB]/ [GB]/ z [GB]/ | A2 A4 :: 
+a>g a z f2 | d>c d z B2 | E>G B/ z e/ G/ z B/ | A>B (c>d) e2 | 
+a>g a z f2 | d>c d z B2 | E>G B/ z e/ G/ z B/ | A2 A4 :| 
+V:2
+|:"^2" C>E E/ z A/ A/ z c/ | (d>c) A2 z2 | C>E E/ z A/ A/ z c/ | (d>c) B2 z2 | 
+B,>E E/ z G/ G/ z B/ | d2 d2 z2 | f>d A/ z d/ A/ z d/ | (d>c) A2 z2 :: 
+c2 (d>c) A>E | C/ z C/ C/ z C/ C/ z C/ | B,/ z B,/ B,/ z B,/ B,/ z B,/ | C/ z C/ C/ z C/ C/ z C/ | 
+c2 (d>c) A>E | C/ z C/ C/ z C/ C/ z C/ | B,/ z B,/ B,/ z B,/ B,/ z B,/ | C2 C4 :: 
+f>e f z d2 | B>A B z G2 | B,>E G/ z B/ E/ z D/ | C>E (A>B) c2 | 
+f>e f z d2 | B>A B z G2 | B,>E G/ z B/ E/ z D/ |"^B.O." C2 C4 :|
+

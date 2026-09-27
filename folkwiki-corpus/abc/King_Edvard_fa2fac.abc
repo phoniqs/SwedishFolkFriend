@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:King Edvard
+T:Gånglåt
+C:Olle Wallman
+O:Saxdalen, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Olle Wallman, Saxdalen."
+Z:"Låten kom till på potatislandet hösten -92. O.W."
+L:1/8
+Q:1/4=80
+M:2/4
+K:G
+V:1
+"^1"u D |:v (B,>D) (G/F/)G/A/ | BB/e/ (dB) | c2 (E/D/)E/=F/ | E3 E | DD/E/ FF/G/ | 
+(A/G/)A/B/ (cd) | (f>e) d/c/B/c/ | ed/c/ (BD) | (B,>D) (G/F/)G/A/ | BB/e/ (dB) | c2 (E/D/)E/F/ | 
+E3 E | DD/E/ FF/G/ | (A/G/)A/B/ cd | (f>e) (d/c/)A/F/ |1 G3u D :|2 G3u (c/d/) |:
+v (e>c) (Gc) | (e/c/)e/a/ (ge) | (d>B) (GD) | B,3 (A/B/) | (c>B) (AG) | (F/E/)F/e/ (dc) |
+ (B>A) (Bc) | d3 (c/d/) | (e>c) (Gc) | (e/c/)e/a/ (ge) | (d>B) (GD) | 
+B,3 (A/B/) | (c>B) (AG) | (F/E/)F/e/ (dF) | G2 BA/F/ |1 G3v (c/d/) :|2 G3 z |] 
+V:2
+"^2"u B, |:"G" (G,>B,) DD/F/ | GG/A/ (BG) |"Am" E2 CC/D/ | C3 C |"D7" A,A,/C/ DD/E/ | 
+FF/G/ (AB) | (A>G) FE/F/ | "G" AG/F/ (GB,) | (G,>B,) DD/F/ | GG/A/ (BG) |"Am" E2 CC/D/ | C3 C | 
+"D7" A,A,/C/ DD/E/ | FF/G/ AB | (A>G) (F/E/)D/C/ |1"G" B,3 B, :|2"G" B,3 (E/G/) |: 
+"C" (c>G) (EG) | cc/d/ (ec) | "G" (B>G) (DB,) | G,3 (F/G/) | "D7" (A>G) (FE) | DD/F/ (AF) | "G" (G>F) (GF) | 
+"G7" =F3 (E/G/) |"C" (c>G) (EG) | (cc/)d/ (ec) |"G" (B>G) (DB,) | G,3 (F/G/) | "D7" (A>G) (FE) | 
+"^Stämförslag B.O." DD/F/ (AD) |"G" B,2"D7" DC/A,/ |1 "G" B,3 (E/G/) :|2"G" B,3 z |]
+

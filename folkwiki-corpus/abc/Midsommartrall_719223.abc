@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Midsommartrall
+T:Gånglåt
+C:Brodd-Albin Johansson
+O:Vika, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:Av Albin Brodd, Vika.
+%%score 1 2
+L:1/16
+M:2/4
+I:linebreak $
+K:C
+V:1
+"^1"u G2 |:v g2ga (g2f2) | e2G2 c2e2 | F2FG (F2E2) | (D2>E2) (FE)DC | B,2D2 G2B2 | ({e} d^c)de (f2a2) |
+(a2{ga}g2) (^fg)ag | [ce]4 (EG)ce | g2ga (g2f2) | e2G2 c2e2 | F2FG (F2E2) | 
+(D2>E2) (FE)DC | B,2D2 G2B2 |({de} d^c)de f2ag | (fe)dc (BG)Bd |1 [Ec]6u G2 :|2 [Ec]6u c2 |:
+v a2ab (a2g2) | f2c2 f2a2 | (ga)ge (cd)cG | E2c2 a2g2 | (fg)fe (de)dc | 
+(B2G2) (Bd)BG | (A2F2) (Ac)AF |  G4 (EG)ce | a2ab (a2g2) | f2c2 f2a2 | (ga)ge (cd)cG | 
+E2c2 a2g2 | (fg)fe (de)dc | B2G2 B2d2 | c4({d} cB)cd |1 [Ec]6u c2 :|2 [Ec]6 z2 |] 
+V:2
+"^2" G,2 |:"C" C2EF G2AB | c2G2 E2C2 | "G7" D2DE (D2C2) |({B,C} B,A,)B,C (DC)B,A, | G,2B,2 D2G2 | 
+({Bc} BA)Bc (d2G2) | "C" c2ce (dc)Bc | G2EF (GF)ED | C2EF G2AB | c2G2 E2C2 | "G7" D2DE (D2C2) | 
+({B,C} B,A,)B,C (DC)B,A, | G,2B,2 D2G2 |({Bc} BA)Bc d2fe | (dc)BA (GF)ED |1 "C" [CG]6 G,2 :|2 "C" [CG]6 C2 |: 
+"F" A,2A,C (F2C2) | A2F2 c2F2 |"C" (EF)EC (G,C)EG | c2G2 f2e2 |"G7" (de)dc (Bc)BA | 
+G2B,D (GB)dB |"F" F2A,C (FA)cA |"C" (EF)ED (CD)C_B, |"F" A,2A,C (F2C2) | A2F2 c2F2 |"C" (EF)EC (G,C)EG | 
+c2G2 f2e2 |"G7" (de)dc (Bc)BA | G2dc (BA)GF |"C" (ED)EF (GF)ED |1"C" [CG]6 C2 :|2"C" [CG]6 z2 |]
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Röragenvalsen
+T:(G-dur)
+S:Sven Nyhus
+O:Norge
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Trad. Sven Nyhus."
+Z:"Från LP. Förenklad version med ändrad tonart. B.O."
+Z:"G-dur"
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" D2 |: B3 c B2 | A3 B c2 | B4 A2 | G4 D2 | c3 d e2 | d4 c2 | B3 B B2 | B3 GAB | 
+c3 c c2 | c3 GAc | B3 A G2 | d4 c2 | B3 A B2 | c3 DEF | G3 G G2 |1 G3 z D2 :|2 G3 def |: 
+g3 g g2 | g4 f2 | f4 e2 | e4 d2 | f4 d2 | f4 e2 | e4 d2 | d4 c2 | B3 GAB | 
+c4 B2 | A4 G2 | E3 GAc | B3 A G2 | d3 DEF | G3 G G2 |1 G3 def :|2 G4 z2 |] 
+V:2
+"^2" B,2 |:"G" D3 D D2 |"D7" C3 D E2 |"G" D4 C2 | B,4 B,2 |"C" E3 F G2 |"D7" F4 E2 | 
+"G" D3 D D2 | D3 B,CD |"C" E3 E E2 | E3 B,CE |"G" D3 C B,2 | B4 A2 |"D7" G3 F G2 | F3 A,B,C | 
+"G" B,3 B, B,2 |1"G" B,3 z B,2 :|2"G" B,3 GGA |:"G" B3 B B2 | B4 d2 |"Am" d4 c2 | c4 A2 | 
+"D7" c4 A2 | c4 c2 |"G" c4 B2 | B4 A2 | G3 B,CD | 
+"Dm" E4"^Från LP. Förenklad version med""^ändrad tonart.  B.O." D2 | C4 C2 | C3 EFA | 
+"G" G3 D B,2 |"D7" F3 A,CD |"G" B,3 B, B,2 |1"G" B,3 GGA :|2"G" B,4 z2 |]
+

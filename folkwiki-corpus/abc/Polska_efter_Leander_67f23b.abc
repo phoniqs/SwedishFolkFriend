@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Leander
+S:Efter Leander
+O:Häggenås, Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Elon Eliasson, Föllinge.
+Z:"Passande dans: Slängpolska efter Ernst Grip."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (BA/B/) (dB) G>B | (cB/c/) (ec) A>g | (fe/f/) (af) d(e/f/) | (gf/g/) (bg) dc | 
+(BA/B/) (dB) G>B | (cB/c/) (ec) A>g | (fe/f/) (af) d(e/f/) | g2 g4 :: 
+(d>b) (b>g) dg | (g>f) (fe) c>c | d2 (d>c) AF | G2 (GD) B,D | 
+(G,>b) (b>g) dg | (g>f) (fe) c>c | d2 (d>c) AF | G2 G4 :| 
+V:2
+|:"^2" (DG) (BG) D>G | (EA) (cA) E>E | (DF) (Ad) cA | (GB) (dc) BA | 
+(DG) (BG) D>G | (EA) (cA) E>E | (DF) (Ad) cA | B2 B4 :: 
+(B>g) (g>d) Bd | (d>c) (cA) E>E | F2 (F>D) CA, | B,2 BG DB, | 
+D>g (g>d) Bd | (d>c) (cA) E>E |"^Stämförslag B.O." F2 (F>D) CA, | B,2 B,4 :|
+

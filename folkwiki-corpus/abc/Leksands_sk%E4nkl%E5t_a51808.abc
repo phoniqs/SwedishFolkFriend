@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Leksands skänklåt
+R:Skänklåt
+O:Leksand, Dalarna
+S:Kers Per Persson
+S:Kungs Levi
+N:Från Stefan Lindén.
+M:2/4
+L:1/8
+K:Dm
+a(a/=b/) a(^f/d/)|{/d}g(g/a/) Tg(e/c/)|cPf Tf(e/d/)|{/d}T^ce/c/ A2|
+{efg}a(a/=b/) a(^f/d/)|{/d}g(g/a/) Tg(e/c/)|cf {/g}Tf(e/d/)|T^ce/c/ d2:|
+|:Af Tf(e/d/)|de e(c/A/)|Ad Td(c/=B/)|{c=B}ce/c/ A2|
+Af Tf(e/d/)|de e(c/A/)|Ad Td(c/=B/)|{c=B}ce/c/ A2|
+Af Tf(e/d/)|{ef}gg/a/ (Pg/e/)f/g/|{/g}Ma(a/=b/) a(a/b/)|
+{a=b}(a/g/)f/e/ da/g/|Mfe/d/ (Pe/d/)c|1Md3 ([AD]:|2Pd3]|
+|:(A|Mf)a/g/ Mfe/d/|(c/d/)Pc/B/ (A/B/)A/G/|F>G (PF/E/)D/^C/|(D/E/)F/G/ A2|
+{/e}Mfa/g/ Mfe/d/|(c/d/)Pc/B/ (A/B/)A/G/|F>G (PF/E/)D/^C/|(D/E/)F/G/ A2|
+{afe}fe/d/ e/d/c|1Md3:|2Md4]|
+

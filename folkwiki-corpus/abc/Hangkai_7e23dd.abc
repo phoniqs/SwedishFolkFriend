@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Hangkai
+T:Båtmotorn
+C:Michael Boman
+M:2/4
+L:1/16
+O:Malå, Lappland
+Q:1/4=110
+K:D
+|"D"  A2AA F2A2 | f2e2d4 | A2A2 G2F2 | "A" G2A2A4 
+| G2GG E2G2 | g2f2 e3d | c3B A2G2 | "D" B2A2F4 
+| A2AA F2A2 | f2e2d4 | d2d2 e2d2 | "G" c2B2g4 
+| g3g f2e2 | "D"d2d2f4 | "A" A3B c2A2 | "D" e2d2d4
+|: "A" c3d e2c2 | "D"d3e f2d2 | "G" g3g f2e2 | "D" d3e f2d2 
+| "A" c3d e2c2 | "D" d3e f2d2 | "A" g3A c2e2 | "D" e2d2d4 
+:|: "D" A2F2 B2F2 | "A" G2A2B4 | "A7" B3d c2B2 | "D" A2d2A4 
+| A2F2 B2F2 | "A" G2A2B4 | "A7" A3d c2e2 | "D" d4d4 :| 
+

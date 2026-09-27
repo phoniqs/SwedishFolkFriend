@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T:Marsch efter Berg
+O:Älvdalen, Dalarna
+R:Marsch
+B:Spelmansmusik
+M:2/4
+L:1/8
+K:A
+|:"A"(e/>f/)e/c/ A{/A}A|(e/f/)e/d/ (c/d/)e/=g/|"D"(f{gf})e/d/ "A"(c{dc})A/c/|"E"(B{cB})A/G/ "A"(B{cB}A)|!fermata!A2 z2:|
+|:"A"(e/f/)e/d/ eg|"D"a(a/b/) ag/e/|"E"gg/a/ (f{gf})e/d/|"A"ee/c/ AA/c/|"E"(B{cB})A/G/ "A"BA|A2 z2:|
+

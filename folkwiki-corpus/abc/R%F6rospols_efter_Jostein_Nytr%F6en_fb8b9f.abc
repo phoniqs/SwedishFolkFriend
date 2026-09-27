@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Rörospols efter Jostein Nytröen
+R:Rörospols
+O:Norge
+S:Jostein Nytröen
+Z:[[Personer/Bengt Ohlson]]
+Z:Röros - pols (1) efter Jostein Nytröen
+L:1/8
+M:3/4
+K:A
+V:1
+"^1" (d/ |: c2) (e>c) A>c | d2 (f>d) B>a | g2 (b>g) e>g | a2 c'>a e>d | 
+c2 (e>c) A>c | d2 (f>d) B>a | g2 (b>g) e>g |1 a2 a3 z/ d/ :|2 a2 a3 z/ (a/ |: 
+c'2) (c'>a) a>f | (f>e) (e>c) A>c | {c} d2 (d>B) G>B | e2 (e>c) A>a | 
+c'2 (c'>a) a>f | (f>e) (e>c) A>c |{c} d2 (d>B) G>B |1 "^Stämförslag B.O." A2 A3 z/ a/ :|2 A2 A3 z |] 
+V:2
+"^2" (B/ |: A2) (c>A) E>A | B2 (d>B) F>f | e2 (g>e) d>e | c2 e>c A>B | 
+A2 (c>A) E>A | B2 (d>B) F>f | e2 (g>e) d>e |1 c2 [ce]3 z/ B/ :|2 c2 [ce]3 z/ (e/ |: 
+a2) (a>e) e>d | (d>c) (c>A) E>A |{A} B2 (B>G) E>G | c2 (c>A) E>e | 
+a2 (a>e) e>d | (d>c) (c>A) E>A | {A} B2 (B>G) E>D |1 C2 C3 z/ e/ :|2 C2 C3 z |]
+

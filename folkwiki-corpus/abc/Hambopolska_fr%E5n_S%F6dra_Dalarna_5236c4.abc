@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska från Södra Dalarna
+T:efter Nils Höglund
+S:Nils Höglund
+O:Stora Skedvi, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(24) Hambo-polska från Södra Dalarna efter Nils Höglund, Stora Skedvi, Säter."
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" (g |: f>)(e d2) F>B | A>(G E2) A>c | e>(c AB/A/) G>A | F>(E D>F) A>d | 
+f>(e d2) F>B | A>(G E2) A>c | e>(c AB/A/) G>E |1 (ED) D3 g :|2 (ED) D3 B |: 
+A>(G F>)(A d>)c | B2 GB g2- | g>f e>(d c>)e | d2 fd A2- | 
+A>G F>(A d>)c | B2 GB g2- | g>f e>(d c>)e |1 ed d3 B :|2 ed d3 z |] 
+V:2
+"^2" e |:"D" d>(A F2) D>G | "A7"F>E C2 E>G | A>G EF/E/ C>E |"D" D>B, A,>D F>A | 
+d>A F2 D>G | "A7" F>E C2 E>G | A>G EF/E/ C>A, |1"A7" A,[A,F]"D" [A,F]3 e :|2"A7" A,[A,F]"D" [A,F]3 G |: 
+"D" F>E D>(F A>)F |"Em" G2 EG B2- |"A7" B>d c>B A>G |"D" F2 AF F2- | 
+"^Bearb. o. Stämförslag    B.O." F>E D>F A>F |"Em" G2 EG B2- |"A7" B>d c>B A>G |1 "A7" GF"D" [FA]3 G :|2"A7" GF"D" [FA]3 z |]
+

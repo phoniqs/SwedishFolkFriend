@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Badar'n
+O:Ilsbo, Hälsingland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+C:Ingemar Lundberg
+Z:"Komp. o. Arr. Ingemar Lundgren, Ilsbo."
+L:1/8
+M:2/4
+K:Bb
+V:1
+|:"^1" B,D/F/ B>A | G>F E>D | F>E E>C | A,2 A,2 | C>F F>A |1 [EFA]>[EFc] [EFc]2 | D>F F>[DFB] | 
+[DFB]>[DFBd] [DFBd]2 :|2,8 A>B c>A | B2 F2 | B4 |:[K:Eb] [B,EG]3 F | E>F G>A | [DFB]2 [DFB]2 | 
+z3/2 =A/ B>=B | [EGc]2 [EGc]2 | [EGc]>[EG=B] [EGc]>d | [FGc]2 [FG=B]2 | [FG=B]4 | [=EGB]4 | B>=A B>c | B2 A2 | A4 |1 
+[=A,CEG]3 F | E>C D>E | F4 | F2 ^F2 :|2 [=A,CEG]2 [A,CEG]2 | [A,DF]>[A,E] [A,D]>[A,F] | [G,B,E]4- | [K:Bb] [G,B,E]2 [=A,CEF]2 |:
+[K:Eb] B=A/B/ c>B | A>G F>E | ED/E/ F>E | C>E D>C | D^C/D/ F>E |1,8 
+D/E/D/C/ B,A, | G,>B, E>F | [B,EG]2 [B,EG]2 :|2,8 D/E/D/C/ B,A, | G,2 B,2 | [G,B,E]4 |] 
+V:2
+|:"^2" F,B,/D/ G>F | D>B, B,>A, | A,>C C>A, | [F,C]2 [F,C]2 | A,>C C>E |1 E>C C2 | B,>D D>F | F>D D2 :|2,8 E>C C>E | D2 B,2 | D4 |:
+[K:Eb] E3 B, | G,>B, E>F | [A,B,D]2 [A,B,D]2 | z3/2 C/ D>F | E2 C2 | A,2 G,2 | =B,2 D2 | [F,G,=B,D]4 | [B,C=E]4 | [G,B,=E]4 | 
+[A,CF]2 [A,CF]2 | [F,A,C]4 |1 [F,=A,]2 [F,A,C]2 | [=A,C]2 [A,CE]2 | B,2 C2 | A,2 [A,B,D]2 :| =A,2 C2 | B,>C A,>B, | G,4- | 
+[K:Bb] G,2 [E,F,=A,]2 |:[K:Eb] G^F/G/ E>G | E>G D>_D | C=B,/C/ A,>C | A,>C B,>A, | B,=A,/B,/ D>C |1,8 B,>C A,>B, | G,/E,/G,/B,/ G,>B, | E2 E2 :|2,8 B,>C A,>B, | B,2 E2 | [G,E]4 |]
+

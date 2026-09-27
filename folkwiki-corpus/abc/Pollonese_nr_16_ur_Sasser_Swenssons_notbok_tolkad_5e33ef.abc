@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:25
+T:Pollonese nr 16 ur Sasser Swenssons notbok (tolkad)
+R:Polonäs
+O:Borrby, Skåne
+S:Efter Sasser Swensson, Borrby
+B:FMK M58
+N: Noterat i boken "Qünten nerstämd i D", avser kvinten, alltså E-strängen. Låt originaluppteckning inspirera till när att spela tonen D med tredje fingret eller på lös "kvintsträng".
+Z:ABC-transkribering av Torbjörn Lundberg, omtolkad från originalnoten.
+M:none
+L:1/8
+K:D
+[K:C]
+%
+"@-20,30 Stämn."[G,DAd]0 \
+%%staffbreak
+[K:D clef=treble] \
+[M:3/4] \
+|: "D"d2 A2 D2 | d2 "G"B"A"c "D"d2 | (c/d/)e/f/ "G"gf "A"ed | "D"(f/e/)d/c/ dc FD | d2 A2 D2 | d2 "G"B"A"c "D"d2 | c/d/e/f/ "G"gf "A"ed | "D"(f/e/)d/c/
+  "A"ed "D"d2 "^bis:" :: "G"(G/B/d/B/) (G/B/d/B/) (G/B/d/B/) | "D"(F/A/d/A/) (F/A/d/A/) (F/A/d/A/) "^:bis" | Fd "G"B"A"c "D"df | (f/e/)d/c/ d2 D2 :|
+

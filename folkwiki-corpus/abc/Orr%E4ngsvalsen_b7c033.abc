@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Orrängsvalsen
+C:Leif Göras
+O:Rättvik, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Leif Göras."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1"u DGB |:v d2 (^cd) ed | B2 (AG) AB | c2 (B2 A2) | E4 G2 | F2 (DF) Ac | B4 A2 | 
+G2 (B2 c2) | d4 D2 | D2 (B,D) GB | d2 (Bd) gf | e2 (d2 c2) | E4 G2 | F2 (DF) Ac | B4 A2 | 
+G3 g g2 |1 g3u DGB :|2,8 g4u f2 |:[K:D]v (fe) (dc) ed | A2 (d2 f2) | g2 B3u e | 
+(ef) (gf) ed | c2 E3u c | c2 (A2 c2) | (de) (fe) dB | A2 (Bc) de | f2 A3u f | 
+f2 (ed) ef | g2 B3u e | (ef) (gf) ed | c2 aa a2 | g2 (f2 e2) | d3 d d2 |1 d4 f2 :|2,8 d3 |] 
+V:2
+"^2"u B,DG |:"G"v B2 (AB) cB | G2 (DB,) DG |"Am" E2 (D2 C2) | C4 E2 |"D7" D2 (A,D) FE | 
+D4 C2 |"G" B,2 (D2 G2) | B4 B,2 | B,2 (G,B,) DG | B2 (GB) dB |"Am" c2 (A2 E2) | C4 E2 | 
+"D7" D2 (A,D) FE | D4 C2 |"G" B,3 B B2 |1"G" [GB]3u B,DG :|2,8"G" [GB]4u A2 |: 
+[K:D]"D" (AG) (FE) GF | D2 (F2 A2) |"Em" B2 E3u G | (GA) (BA) GF |"A7" E2 C3u A | 
+A2 (E2 G2) | "D" (FG) (AG) FD | F2 (GA) Bc | d2 F3u A | A2 (GF) GA |"Em" B2 E3u G | 
+(GA) (BA) GF |"A7" E2 cc c2 | B2 (A2 G2) |"D" F3 F F2 |1"D" [FA]4"^B.O." A2 :|2,8"D" [FA]3 |]
+

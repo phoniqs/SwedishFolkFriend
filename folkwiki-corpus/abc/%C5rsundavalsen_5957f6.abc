@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Årsundavalsen
+S:A Andersson
+O:Årsunda, Gästrikland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. A. Andersson."
+L:1/8
+M:3/4
+K:D
+V:1
+"^1"u (fg) |: a2 (fd) AF | D2 (FA) dc | B2 (GF) GA | B4 (ef) | g2 (ec) AG | 
+E2 (Ac) ec | d2 (de) fg | a4 (fg) | a2 (fd) AF | D2 (FA) dc | B2 (GF) GA | 
+B4 (ef) | g2 (ec) AG | E2 (Ac) ec | d2 (df) af | d4u (fg) :: 
+a4 f2 | d2 e2 f2 | g4 B2 | B6 | (Ae) (ae) ae | (Ae) (ae) ae | 
+(df) (af) af | d2 f2 g2 | a4 f2 | d2 e2 f2 | g4 B2 | B6 | 
+(Ae) (ae) ae | (Ae) (ae) ae | (df) (af) af |1 d4u (fg) :|2 d4 z2 |] 
+V:2
+"^2"u (de) |: f2 (dA) FD | A,2 (DF) BA | G2 (B,A,) B,D | G4 (cd) | 
+e2 (cA) GE | C2 (EA) cA | F2 (FA) de | f4 (de) | f2 (dA) FD | 
+A,2 (DF) BA | G2 (B,A,) B,D | G4 (cd) | e2 (cA) GE | C2 (EA) cA | F2 (FA) dA | F4u (de) :: 
+f4 d2 | F2 A2 d2 | B4 G2 | G6 | (EA) (cA) cA | (EA) (cA) cA | 
+(FA) (dA) dA | F2 d2 e2 | f4 d2 | F2 A2 d2 | B4 G2 | G6 | (EA) (cA) cA | 
+(EA) (cA) cA | "^Stämförslag B.O." (FA) (dA) dA |1 F4u (de) :|2 F4 z2 |]
+

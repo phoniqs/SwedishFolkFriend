@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Mazurka av Sigvard Nordström
+C:Sigvard Nordström
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Sigvard Nordström"
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1"v D2 (F>D) F>A | d2 (A>F) D>F | d>(d c>d) e>d | B2 (!>!G z !>!G) z | A,2 (C>A,) C>E | c2 c>B A2 | 
+(3(ABA) (^G>A) B>A | F2 (!>!D z !>!D) z | D2 (F>D) F>A | d2 (A>F) D>F | d2 (c>d) e>d | [DB]4 G2 | 
+B2 (G>B) G>B | A2 (F>A) F>A | c2 (c>A) B>c | d2 d4 ::v f2 (!>!d z !>!A) z | F2 (!>!D z !>!A,) z | 
+A>(A ^G>A) B>A | G2 G>F E2 | g2 (!>!e z !>!c) z | A2 (!>!G z !>!E) z | A>(A ^G>A) B>A | F2 F>E D2 | 
+f2 (!>!d z !>!A) z | F2 (!>!D z !>!A,) z | d2 (c>d) e>d | B2 G4 |1 B2 (G>B) G>B | A2 (F>A) F>A | 
+c2 (c>A) B>c | d2 d4 :|2 g2 (!>!e z !>!c) z | f2 (!>!d z !>!A) z | A2 B2 (3c(Bc) | d2 d4 |] 
+V:2
+|:"^2""D"v A,2 (D>A,) D>F | A2 (F>D) A,>D | F>(F E>F) G>F |"Em" E2 (!>!B, z !>!B,) z | 
+"A7" C2 (E>C) E>A | A2 A>E C2 | C2 (B,>C) D>C |"D" D2 (!>!A, z !>!A,) z | A,2 (D>A,) D>F | 
+A2 (F>D) A,>D | F2 (E>F) G>F |"G" G4 [B,D]2 | G2 (D>G) D>G |"D" F2 (D>F) D>F | 
+"A7" A2 (A>E) G>A |"D" F2 [FA]4 ::"D" v d2 (!>!A z !>!F) z | f2 (!>!d z !>!A) z | F2 (E>F) G>F | 
+"A7" E2 E>D C2 | e2 (!>!c z !>!A) z | G2 (!>!E z !>!C) z | E2 (D>E) F>G | "D" A2 A>G F2 | 
+d2 (!>!A z !>!F) z | f2 (!>!d z !>!A) z | F2 (G2 A2) |"G" G2 [B,G]4 |1 G2 (D>G) D>G | 
+"D" F2 (D>F) D>F |"A7" G2 (G>E) F>G |"D" F2 [FA]4 :|2"A7" c2 (!>!A z !>!G) z | 
+"D" A2 (!>!F z !>!D) z |"A7" C2 "^Arr. B.O." (!>!E2 !>!G2) |"D" F2 [FA]4 |]
+

@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:778
+T:Polska efter Mattias Jonasson
+T:(SvL Härjedalen 778)
+S:Efter Mattias Jonasson
+B:Svenska Låtar Härjedalen nr 778
+O:Härjedalen
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Rev. av [[Personer/Göran Olsson Föllinger]]"
+L:1/8
+M:3/4
+K:C
+V:1
+"^1" G- |: G>(E C>)(E G>)c | B>(A G>)(B d>)e | ga/g/ fa/f/ ec/e/ | dB/d/ cA/c/ (BG) | 
+G>(E C>)(E G>)c | B>(A G>)(B d>)e | ga/g/ fa/f/ ec/e/ |1 dB/d/ c3 G- :|2 dB/d/ c3 (e |: 
+g2) fa/f/ eg/e/ | dB/d/ cA/c/ (BG) | Gg fa/f/ ec | dB G4 |
+ G,g fa/f/ eg/e/ | dB/d/ cA/c/ BG | g2 fa/f/ ec/e/ |1 dB c3 e :|2 dB c3 z |] 
+V:2
+"^2" E- |: E>(C G,>)(C E>)A | G>(D B,>)(G B>)c | ef/e/ df/d/ cA/c/ | BG/B/ AF/A/ (GD) | 
+E>(C G,>)(C E>)A | G>(D B,>)(G B>)c | ef/e/ df/d/ cA/c/ |1 BG/F/ E3 E :|2 BG/F/ E3 (c |: 
+e2) df/d/ ce/c/ | BG/B/ AF/A/ (GD) | B,e df/d/ cE |
+ BD B,4 | De df/d/ ce/c/ |  BG/B/ AF/A/ GD | "^Stämförslag B.O." e2 df/d/ cA/c/ |1 BG E3 c :|2 BG E3 z |] 
+

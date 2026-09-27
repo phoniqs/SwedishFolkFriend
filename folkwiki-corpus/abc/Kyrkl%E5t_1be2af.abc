@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Kyrklåt
+C:Arne Modén
+O:Rätan, Jämtland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Arne Modén, Rätan, Jämtland."
+Z:"Från LP."
+L:1/8
+Q:1/4=69
+M:2/4
+K:A
+V:1
+"^1" E |: A3 G/A/ | B3 B/c/ | dd f>d | (d/c/)c/B/ AA/B/ | 
+ce d>c | (c/B/)B/G/ EG/A/ | Bd c(B/G/) |1 A3 E :|2 A3 (c/d/) |: 
+ea f>e | (e/d/)d/B/ GB/c/ | (d/c/)d/f/ (e>d) | (d/c/)e/c/ Ac/d/ | 
+ea f>e | (e/d/)d/B/ GG/A/ | Bd c(B/G/) |1 A3 (c/d/) :|2 A3 z |] 
+V:2
+"^2" E |: C3 C | D3 D | AB d>B | AE CC | 
+EA F>E | DD B,C | DF ED |1 C3 E :|2 C3 A |: 
+cc d>c | BG EG | BB c>B | AE CA | 
+cc d>c | BG EE | "^Stämförslag B.O." DF ED |1"^Från LP." C3 E :|2 C3 z |]
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:22
+T:Klapp-polka
+O:Sverige
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sverige, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" D/"^Förspel"G/ | BB BA/B/ | c2 ee/e/ | dd c>F | G2 |]
+[K:G][M:2/4][K:treble]"^Dans" D/G/ | BB BA/B/ | c2 Bc/B/ | AA AG/A/ | BG GD/G/ | 
+BB BA/B/ | c2 ee/e/ | dd c>F | G2 z B/c/ |] 
+dd ee | d3 B/c/ | dd ee | d3 D/G/ | 
+BB BA/B/ | c2 ee/e/ | dd c>F | G2 z |] 
+V:2
+"^2" B,/D/ | GG =FF | E2 GG/G/ | FF D>C | B,2 |][K:G][M:2/4][K:treble] B,/D/ | GG GF/G/ | 
+A2 GA/G/ | FF FE/F/ | GD DB,/D/ | "^Önskat ant. ggr." GG =FF | E2 GG/G/ | FF D>C | B,2 z G/A/ |] 
+BB cc | B3 G/A/ | BB cc | B3 B,/D/ | GG =FF | E2 GG/G/ |"^Stämförslag B.O." FF D>C | B,2 z |]
+

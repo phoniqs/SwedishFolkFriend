@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis i A-dur från Boda
+O:Boda, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Trad."
+L:1/16
+M:2/4
+K:A
+V:1
+|:"^1" Acea g2{fg}f2 | ecAc e2{cB}c2 | d2d2 EGBG | A2Ac e4 | 
+Acea g2{fg}f2 | ecAc e2{cB}c2 | d2d2 EGBG | A2A2 A4 ::
+"^pizz." .e2.A2 .e2.A2 |"^arco." efed{cd} c2Bc | d2d2 EGBG | A2Ac e4 | 
+"^pizz." .e2.A2 .e2.A2 |"^arco." efed{cd} c2Bc | d2d2 EGBG | A2A2 A4 :| 
+V:2
+|:"^2" CEAd c2c2 | AECE A2A2 | G2G2 DEGE | C2CE A4 | 
+CEAd c2c2 | AECE A2A2 | G2G2 DEGE | C2C2 C4 :: 
+"^pizz." .e2.A2 .e2.A2 |"^arco." cdcB A2GA | G2G2 DEGE | C2CE A4 |
+"^pizz." .e2.A2 .e2.A2 | "^arco." cdcB A2GA | G2G2 DEGE | "^Stämförslag B.O." C2C2 C4 :|
+

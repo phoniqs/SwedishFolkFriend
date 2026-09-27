@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:1
+T:Kneppen
+T:Springar
+R:Springlek
+O:Norge
+C:Jens Synnes
+Z:ABC av Lennart Sohlman
+M:3/4
+L:1/8
+K:Gm
+G>B {B}d2 (c>A)|Bd g2d2|{d}(3cAc (3BGB A>G|{G}F>D (3ECE D2|!
+G>B {B}d2 (c>A)|Bd g2d2|{d}(3cAc (3BGB d>B|(A^F) G4::!
+g>a {a}(3bgb a>^f|d>c (3ABc d2|g>f (3dBc d>"+"=e|c2d4|!
+g>a {a}(3bgb a>^f|d>c (3ABc d2|(3cAc (3BGB d>B|(A^F) G4:|]
+

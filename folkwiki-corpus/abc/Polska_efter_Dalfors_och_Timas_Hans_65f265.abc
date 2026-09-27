@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Dalfors och Timas Hans
+S:Hans Dalfors
+S:Timas Hans Hansson
+O:Ore, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+I:linebreak $
+U:t=tenuto
+K:D
+V:1
+|:"^1" (D2>F2) (AB)AG F2A2 | (td2te2) f6 g2 |T f2ef (g2b2) f2g2 | efec (d2A2) F2(AF) | 
+D2>F2 (AB)AG F2A2 | td2te2 f6 g2 |T f2ef (g2b2) f2g2 |1 efec d8 :|2 efec d6 f2 |: 
+f2gf (e2>f2) g2 z c | efed (c2d2) f2>A2 | f2gf e2>f2 g2 z c | efed (c2d2) f2>A2 | ABAG (E2G2) B2>G2 | 
+GAGF (D2F2) A4- | ABAG (E2G2) B2>G2 | GAGF (D2F2) A2 z f | e2 z d c2d2 e2 z g | b2 z c e4 d4 :| 
+V:2
+|:"^2" A,2>D2 (FG)FE D2F2 | tA2tc2 d6 e2 | d2cd (e2g2) d2e2 | cdcA (A2F2) D2(FD) | 
+A,2>D2 (FG)FE D2F2 | tA2tc2 d6 e2 | d2cd (e2g2) d2e2 |1 cdcA [FA]8 :|2 cdcA [FA]6 d2 |: 
+d2ed (c2>d2) e2 z A | GAGF (E2F2) A2>F2 | d2ed c2>d2 e2 z A | GAGF (E2F2) A2>F2 | FGFE (C2E2) G2>E2 | 
+EFED (A,2D2) F4- | FGFE (C2E2) G2>E2 | EFED A,2D2 F2 z d | c2 z B A2B2 c2 z e |"^Stämförslag B.O." g2 z A G4 [FA]4 :| 
+

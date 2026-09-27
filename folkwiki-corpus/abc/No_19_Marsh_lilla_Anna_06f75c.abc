@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:19
+T:No 19 Marsh lilla Anna
+T:ur Sven Johnssons notbok
+B:Sven Johnssons notbok 
+L:1/8
+M:2/4
+O:Mörrum, Blekinge
+Q:1/4=120
+R:Marsch
+Z:Göran Gustafsson
+K:G
+D | B>A GF | AG ^CD | F>E EE | E2 z E | c>F FF | FF ED | B>G GG | G2 z D | 
+B>A GF | AG ^CD | F>E EE | E2 z E | DEFG | ABc^c | d>D BA | d2 G :: 
+A | A2 FG | A2 d2 | dcBc | d2 z A | A2 FG | A2 fd | c(d/c/) Bc | dD/D/ DD | 
+A2G2 | FD/D/ DD | c2B2 | AD/D/ DD | B3 A | A2 G2 |  c3 B | B2 A2 | G3 E | D2 G2 | 
+A2 D2 | B3 z | B3 A | A2 G2 | c3 B | B2 A2 | G3 E | D2 G2 | B2 A2 | G2 z :|
+

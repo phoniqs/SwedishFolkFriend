@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:549
+T:Körepolska
+T:(SvL Skåne 549)
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 64
+B:Svenska Låtar Skåne Nr 549
+O:Skåne
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 64. Körepolska 2 Sv.L. Skåne nr. 549."
+L:1/8
+M:3/4
+K:Am
+V:1
+"^1""^Förspel" A2 (Ac) BA | ^G2 A4 |:[M:3/4][K:treble]"^Dans" A2 (Ac) BA | 
+ B2 (Bd) cB |A2 (Ac) BA | ^G2 A4 ::
+ e2 (ce) dc | d2 (Bd) cB | e2 (ce) dc | d2 (Bd) cB | 
+A2 (Ac) BA | B2 (Bd) cB | A2 (Ac) BA | ^G2 A4 :| 
+V:2
+"^2" "Am"C2 (CE) DC |"E7" B,2 "Am"C4 |:[M:3/4][K:treble] "Am"C2 (CE) DC | 
+"E7"D2 (DF) ED | "Am"C2 (CE) DC | "E7"B,2 "Am"C4 :: 
+"Am"c2 (Ac) BA |"E7" B2 (^GB) AG |"Am" c2 (Ac) BA |"E7" B2 (^GB) AG |
+"Am" C2 (CE) DC | "E7" D2 (DF) ED | "Am" C2"^Stämförslag B.O." (CE) DC |"E7" B,2"Am" C4 :|
+

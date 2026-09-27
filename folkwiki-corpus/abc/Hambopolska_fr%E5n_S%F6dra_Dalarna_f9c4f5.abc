@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska från Södra Dalarna
+T:efter Viktor Brandt
+S:Viktor Brandt
+O:Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(14) Hambo-polska från Södra Dalarna efter Viktor Brandt, Norn, Hedemora"
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" D2 G2 B>c | (d>c) (AF) D2- | D2 (G>B) d>c | (AF) D4 :: 
+(de/d/) B2 e2 | u (dc) (Bc) d2 | B>c d2 g2 | dc (Bc) d2 | 
+(Bd) (dc) Ac | (Bd) (dc) Ac | (cB) (dB) GB | (A/B/)A/F/ G4 :| 
+V:2
+|:"^2""G" B,2 D2 G>A | "D7" (B>A) (FD) A,2 |"G" B,2 (D>G) B>A |"D7" FD A,4 ::
+"G" Bc/B/ G2 c2 | BA (GA) B2 | G>A B2 B2 | BA GA B2 |
+"G" GB (BA)"D7" FA |"G" DG (GF)"D7" DF |"G" "_Stämförslag B.O."AG (BG) DD | "D7" C2 "G" B,4 :| 
+

@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:75
+T:Möllaredansen
+T:(Sv Folkdanser Del 1)
+Z:[[Personer/Bengt Ohlson]]
+Z:http://runeberg.org/folkdans/besk/0073.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 75
+Z:"Sv Folkdanser Del 1 75. Möllaredansen"
+Z:"Sverige, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+O:Sverige
+R:Långdans
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" cc/c/ cc | BA G2 | B2 A2 | G4 |][K:G][M:2/4][K:treble]"^Dans" G>A Bc | 
+dd/e/ dc | B2 A2 | G3 D | G>A Bc | dd/e/ dc | 
+B2 A2 | G3 B |]: dd/d/ dd | cB A2 | 
+cc/c/ cc | BA G2 | B2 A2 |1 G3 B :|2 G4 |] 
+V:2
+"^2""D7" AA/A/ AA |"G" GD B,2 |"D7" G2 D2 |"G" B,4 |][K:G][M:2/4][K:treble]"G" B,>D GA | 
+BB/c/ BA |"D7" G2 D2 |"G" B,3 D | "^Spelas önskat antal ggr." B,>D GA | BB/c/ BA |
+"D7" G2 D2 | "G" B,3 G |]:"G" BB/B/ BB |"D7" AG F2 | 
+AA/A/ AA |"G" GD B,2 |"D7" G2 D2 |1 "^Stämförslag B.O.""G" B,3 G :|2"G" B,4 |]
+

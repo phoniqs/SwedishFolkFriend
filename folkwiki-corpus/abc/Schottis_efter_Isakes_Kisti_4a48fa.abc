@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis efter Isakes Kisti
+T:(Fredmans Britas schottis)
+O:Dala-Floda, Dalarna
+R:Schottis
+S:Isakes Kisti
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Dala-Floda (2) eft. Isakes Kisti."
+L:1/16
+Q:1/4=80
+M:2/4
+K:D
+V:1
+|:"^1""^\"Fredmans Britas schottis\"" D>FA2 F>Ad2 | F>Ad2 A>df2 | e>(fe>)(d c>)dc>B | A>(BA>)(G F>)GF>E | 
+D>FA2 F>Ad2 | F>Ad2 A>df2 | e>(fe>)(d c>)ABc |1 d2f2 d4 :|2 d2f2 d3 f |: 
+a2fd A2df | a2gf g2>(e2 | g2)ec A2ce | g2fe f2>(f2 | a2)fd A2df | a2a2 b4 | 
+(b>a)gf eABc |1 d2f2 d3 f :|2 d2f2 d4 |: A>BAF A2d2 | B>cBG B2(ed) | 
+c>def (ge)ce |1 (d>c)de f2d2 :|2 d2f2 d4 |: {g} f>edf A2df |({g} f>e)e^d e2>f2 | 
+gece A2ce |{f} e2d2 d4 |{fg} f>edf A2df |({g} f>e)^de g2>b2 | b>afa agec | d2f2 d4 :| 
+V:2
+|:"^2" A,>DF2 D>FA2 | A,>DF2 D>FA2 | c>(dc>)(B A>)BA>E | C>(DC>)(E C>)DC>A, | A,>DF2 D>FA2 | 
+A,>DF2 D>FA2 | c>(dc>)(B A>)EGA |1 F2A2 F4 :|2 F2A2 F3 d |: f2dA F2Ad | f2ed e2>(c2 | e2)cA E2Ac | 
+e2dc d2>(d2 | f2)dA F2Ad | f2f2 g4 | (g>f)ed cEGA |1 F2A2 F3 d :|2 F2A2 F4 |: F>GFD F2A2 | 
+G>AGD G2(cB) | A>Bcd (ec)AG |1 (F>E)FG A2F2 :|2 F2A2 F4 |: d>AFA F2Ad | (d>c)cB c2>d2 | 
+ecAc E2AG | G2F2 F4 | d>AFA F2Ad | (d>B)AB B2>g2 | "^Stämförslag B.O." g>fdf fecA | F2A2 F4 :|
+

@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:21
+T:Gånglåt efter Katrina Lundstedt
+S:Katrina Lundstedt
+S:Otôrgs-KaisaAbrahamsson
+O:Hassela, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA 21. Gånglåt. Uppt. OKA -86."
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/16
+M:2/4
+K:G
+V:1
+|:"^1" G2DG B2AG | (FG)AB A4 | (DF)AB (cB)cA | (FD)FA d2(dB) | G2DG B2AG | 
+(FG)AB A4 | (DF)AB (cB)cA |1[M:3/4] (FA)dF G8 :|2[M:3/4] (FA)dF G6 AB |:
+[M:2/4] (c2e2) e2ce | (e2d2) d2Bd | (cB)cd c2(Bc) | (A2d2) (Bc)dB | G2AB (c2e2) | 
+e2ce (e2d2) | d2Bd (cB)cA | (FA)dF G2AB |1 G6 (AB) :|2 G6 z2 |] 
+V:2
+|:"^2""G" D2B,D G2FE |"D7" (DE)FG F4 | (A,D)FG (AG)FD | (CA,)DF"G" B2(BG) | D2B,D G2FE | 
+"D7" (DE)FG F4 | (A,D)FG (AG)FD |1[M:3/4]"D7" (CD)FD"G" B,8 :|2[M:3/4]"D7" (CD)FD"G" B,6 FG |: 
+"C" (G2c2) c2Gc |"G" (c2B2) B2GB |"D7" (AG)AB A2(GA) |"D7" (F2A2)"G" (GA)BG | D2EF (A2c2) | 
+"C" c2Gc (c2B2) |"G" B2GB"D7" (AG)FD |"D7" (CD)FD"G" B,2CD |1"G" B,6 (FG) :|2"G" B,6 "^B.O." z2 |]
+

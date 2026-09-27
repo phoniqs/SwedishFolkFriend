@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:1
+T:Klockarpolskan, stämma
+R:Polska
+Z:Anton Teljebäck 
+S:efter Elsa Siljebo
+%%MIDI ratio 24 16
+M:3/4
+L:1/8
+K:Dm
+|: (3A(=BA) (3G(AG) (3F(GF) | E>G ^C2 E>(G | F)>(c =B)>(G A)>F | (3G(AG) (3F(GF) E>^C |
+(3A(=BA) (3G(AG) (3F(GF) | E>G ^C2 E>(G | F)>(c =B)>(G A)>F | (G<E) F4 :|
+|:F>(A c)>(A c)>(A | G)>(A B)>(G B)>(G | F)>(G (3ABA) GF | F(E/F/ G<E) (=C2 | 
+F)(>A c)>(A c)>(A | G)>(A ^c)>(A ^c)>(G | F)>(G (3ABA) G>F | ED/E/ F4 :|
+

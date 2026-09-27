@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Pipar-Jonkes polska
+S:Pipar-Jonke
+O:Norrbo, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Pipar-Jonke i Norrbobyn, Norrbo.
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" a>b a3 g | f>e (df) A2 | d>e d3 c | B>A (GF) E2 | 
+e>f e3 d | c>B A2 (c>e) | a>b a>g f>e | d>e (f/e/f/g/) a2 | 
+a>b a3 g | f>e (df) A2 | d>e d3 c | B>A (GF) E2 | 
+e>f e3 d | c>B A2 (c>e) | a>b a>g f>e | [Fd]2 [Fd]3 z :: 
+(3(fgf) d2 B2- | B>g e>c A2- | A>(B c>d) e>c | d>e (f/e/f/g/) a2 | 
+(3(fgf) d2 B2- | B>g ec A2- | A>(B c>d) e>c | [Fd]2 [Fd]3 z :| 
+V:2
+|:"^2" f>g f3 e | d>A (FA) F2 | F>G F3 A | G>F (ED) B,2 | 
+c>d c3 B | A>G E2 (A>c) | c>d c>B A>G | F>A (d>e) f2 |
+ f>g f3 e | d>A (FA) F2 | F>A F3 A | G>F (ED) B,2 | 
+c>d c3 B | A>G E2 (E>A) | c>d c>B A>G | [FA]2 [FA]3 z :: 
+(3(ded) A2 F2 | G>e c>A E2- | E>G A>B c>A | F>A d>e f2 | 
+(3ded A2 F2 | G>e cA E2- | E>G A>B c>A |"^Stämförslag B.O." [FA]2 [FA]3 z :| 
+

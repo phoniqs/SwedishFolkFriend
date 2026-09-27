@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:28
+T:Långdans Nr 2
+T:(Gamla Dansar i Skåne)
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Långdans (2) efter Pehr Christiansson, Lerberget. Mandelgrens saml."
+B:Gamla Dansar i Skåne
+S:Per Christiansson
+O:Lerberget, Skåne
+R:Långdans
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (cA)EA (ce)df | (ag)ec d4 |]:[K:D][M:2/4][K:treble]"^Dans" (DF)Ad (DF)Ad | 
+(DG)Bd (DG)Bd | (cA)EA (ce)df | (ag)ec d4 :: 
+(fe)dc B2G,2 | (gf)ed c2A,C | (DF)Ac (df)eg | (fa)ge d4 :| 
+V:2
+"^2" (AE)CE (Ac)Ad | (fe)cA F4 |]:[K:D][M:2/4][K:treble] (A,D)FA (A,D)FA | (B,D)GB (B,D)GB | 
+(AE)CE (Ac)Ad | (fe)cA F4 :: 
+"^Efter Pehr Christiansson, Lerberget.""^Mandelgrens saml." (dc)BA G2B,2 | (ed)cB A2CA, | (A,D)FG (Ad)ce | (d"^Stämförslag B.O."f)ec F4 :|
+

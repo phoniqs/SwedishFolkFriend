@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Jon-Erik Hall
+T:(SvL Hälsingland 1)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 1
+O:Hassela, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]] nr 13
+L:1/16
+M:3/4
+K:Gm
+V:1
+|: (G^F)GA B2Bc"D7" A2AF |"Gm" (GA)Bc"Bb" d2de"F7" c2cA | (Bc)de f2gf (ed)cB | "D7" (AB)cd"Gm" B2BG"D7" A2A^F |
+ (D^F)GA B2Bc"D7" A2AF |"Gm" (GA)Bc"Bb" d2de"F7" c2cA | (Bc)de f3g/f/ (ed)cB |"F7" (AB)cd"Bb" [DB]4 z4 ::
+ (fd)Bd (fd)Bd b2(ag) | (gf)=ef (gf)_ef d2B2 | (ec)Ac (ec)Ac a2(gf) | (fe)de (fd)Bc (dF)(Bd) | 
+(fd)Bd (fd)Bd b2(ag) | (gf)=ef (gf)_ef d2B2 | (AB)cd (ef)ga b2(gf) |"F7" (ec)AF [DB]8 ::
+"Gm" (dc)BA (GD)(GD) [GB]4 | "D7" (cB)AG (^FD)(FD) [FA]4 | (G^F)GA (Bd)cB (AG)F=E | (DG,)B,D (GA)BG"D7" A4 | 
+"Gm" (dc)BA (GD)(GD) [GB]4 |"D7" (cB)AG (^FD)(FD) [FA]4 |"Gm" (G^F)GA (Bd)cB (AG)(F=E) | "D7" (Dc)BA"Gm" G8 :| 
+V:2
+|: "Gm" (B,A,)B,D G2GA ^F2FD | (B,D)GA B2Bc A2A^F |"Bb" (DG)Bc d2ed (cB)AG | (^FG)AB G2G=E F2FD |
+"Gm" (G,A,)B,^F G2GA F2FD | (B,D)GA B2Bc A2A^F |"Bb" (DA)Bc d3e/d/ (cB)AG | (FG)AF [B,F]4 z4 ::
+"Bb" (dB)FB (dB)FB g2(fe) | (ed)^cd (=cB)AB F2D2 |"F7" (cA)FA (cA)FA f2(ed) | "F7" (dc)=Bc"Bb" (_BF)DE (B,D)(FB) | 
+(dB)FB (dB)FB g2(fe) | (ed)^cd (=cB)AA F2D2 | "F7" (FG)AB (cd)ef"Bb" d2(ed) | (cA)FE"Bb" [B,F]8 :: 
+(BA)GD B,2D2 G4 | (AG)^FD A,2D2 F4 | "Gm" (DC)D^F (GB)AG (F=E)DC | (B,D)GB (D^F)GD F4 | 
+(BA)G^F B,2D2 G4 | (AG)^FD A,2D2 F4 | (DC)D^F (GB)AG (F=E)DC |"^B.O." (A,^F)DC B,8 :|
+

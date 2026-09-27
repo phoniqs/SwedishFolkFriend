@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:7
+T:Dansa fyra
+T:(Sv Folkdanser Del 1)
+O:Sverige
+R:Polska
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 7
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser del 1 7. Dansa fyra"
+Z:"Sverige, Gillesdanser i Norden."
+Z:http://runeberg.org/folkdans/besk/0138.html
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel""D" F>A A>A A2 |"Em" G>B B>B B2 |"A7" A>c c>c c>c |"D" e2 d4 |: 
+[K:D][M:3/4][K:treble]"^Dans""D" d>c d>e f>e |"G" d>c B>c d>B |"A7" A>A A>A B>G |"D" G2 F4 | 
+"D" d>c d>e f>e |"G" d>c B>c d>B |"A7" A>A A>A B>G |"D" G2 F4 | 
+"D"F>A A>A A2 | "Em"G>B B>B B2 | "A7" A>c c>c c>c |"D" e2 d4 |
+"D" F>A A>A A2 |"Em" G>B B>B B2 | "A7" A>c c>c c>c |"D" e2 d4 :| 
+V:2
+"^2" D>F F>F F2 | E>G G>G G2 | E>A A>A A>A | G2 F4 |:
+[K:D][M:3/4][K:treble] F>E F>G A>G | B>A G>A B>G | C>C C>C G>E | E2 D4 | 
+F>E F>G A>G | B>A G>A B>G | C>C C>C G>E | E2 D4 | 
+D>F F>F F2 |"^Spelas 4 ggr."E>G G>G G2 |E>A A>A A>A | G2 F4 | 
+D>F F>F F2 | E>G G>G G2 |  E>A A>A A>A | "^Stämförslag B.O." G2 F4 :|
+

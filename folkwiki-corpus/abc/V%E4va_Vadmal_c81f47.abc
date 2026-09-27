@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:120
+T:Väva Vadmal
+T:(Sv Folkdanser Del 1)
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 120. Väva  Vadmal  1"
+Z:http://runeberg.org/folkdans/besk/0281.html 
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 120
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel" d>d g2 g2 | f>e f2 f2 | A>c e2 e2 | f2 d4 |] 
+[K:D][M:3/4][K:treble]"^Dans" e2 A2 B>c | d2 d4 | e2 A2 B>c | d2 d4 | 
+e2 A2 B>c | "^Spelas rätt igenom 14 ggr."d>c d>e f>d | e2 A2 B>c | d2 d4 | 
+d>d g2 g2 | f>e f2 f2 | A>c e2 e2 | d>f a4 | 
+d>d g2 g2 | f>e f2 f2 | A>c e2 e2 | f2 d4 |] 
+V:2
+"^2""G" G>G B2 B2 |"D" A>G A2 A2 |"A7" E>A G2 G2 |"D" A2 F4 |] 
+[K:D][M:3/4][K:treble]"A7" c2 E2 G>A |"D" F2 F4 |"A7" c2 E2 G>A |"D" F2 F4 |
+"A7" c2 E2 G>A | "D" F>E F>A d>A |"A7" c2 E2 G>A |"D" F2 F4 |
+"G" G>G B2 B2 | "D" A>G A2 A2 |"A7" E>A G2 G2 |"D" F>d f4 |
+"G" G>G B2 B2 |"D" A>G A2 A2 | "A7"  E"^Stämförslag B.O.">A G2 G2 |"D" A2 F4 |]
+

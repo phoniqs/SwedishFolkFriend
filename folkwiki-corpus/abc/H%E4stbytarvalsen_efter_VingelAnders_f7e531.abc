@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Hästbytarvalsen efter Vingel-Anders
+S:Vingel Anders
+O:Hälsingland
+R:Vals
+Z:Karin Helander
+N:Från handskriven not med titel "HÄSTBYTARVALSEN EFTER VINGELANDERS (JANSSON-VIKSTRÖM)"
+L:1/8
+M:3/4
+K:D
+V:1
+(AG |: F2) .[A,D].[A,D].[A,D].[A,D] | .[A,D]2 (FA) dc | B2 .[GB,].[GB,].[GB,].[GB,] | [GB,]4 (ed | c2) .[GA].[GA].[GA].[GA] | 
+(AB) (cd) ef | (ef) (gf) ed | (cB) (AG) BA | F2 .[A,D].[A,D].[A,D].[A,D] | .[A,D]2 FA dc | B2 .[GB,].[GB,].[GB,].[GB,] | 
+[GB,]4 (ed | c2) [GA][GA][GA][GA] | (AB) (cd) ef |(ef) (gA) ce |1 d4 AG :|2 d4 cd |: 
+[K:A] (e^d) (ef) (e=d) | (ce) (ac) ea | (ag) (eg) bg | (ba) (ga) ec | (e^d) (ef) e=d | (ce) (ac) ea | 
+(ag) (eg) bg |1[ac]4 (cd) :|2 [ac]4 f=g |: [K:D] (af) (df) af | (dA) (FA) dA | (cA) (EA) ce | 
+(dA) (FA) df | (af) (df) af | (dA) (FA) dA | (cA) (EA) ce |1 [dF]4 fg :|2 "^Da Capo" [dF]4 |] 
+V:2
+(FE |: "D" D2) .A,.A,.A,.A, | .A,2 DF BA | "G" G2 .[EB,].[EB,].[EB,].[EB,] | [EB,]4 (cB | "A7" A2) .[CE].[CE].[CE].[CE] | 
+(CE) (AB) cd | (cd) (ed) cB | (AG) (FE) GF | "D" D2 .A,.A,.A,.A, | A,2 DF FE | "G" G2 .[EG,].[EG,].[EG,].[EG,] | 
+[EG,]4 (cd | "A7" A2) CCCC | (CE) (AB) cd | (cd) (eG) EG |1 "D" [FA,]4 FE :|2 "D" [FA,]4 AB |: 
+[K:A] "A" (cB) (cd) cB | (Ac)(eA)ce | "E7" (cB)(de)ge | (dc)(Be)cA | "A" (cB) (cd) cB | (Ac)(eA)ce |
+"E7" (cB)(de)dB |1 "A" [cE]4 AB :|2 "A" [Ec]4 de |: [K:D] "D" (fd) ([AF]d) fd | (FE) (A,F) AF | "A7" (AG) (CG) Ac | 
+"D" (AF) (DF) (Ad) | (fd) ([FA]d) fd | (FD) (A,F) AF | "A7" (AG) (A,G) AG |1 "D" [FA,]4 de  :|2 "D" [FA,]4 |]
+

@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:104
+T:No 4, Gånglåt
+T:ur Sven Johnssons notbok
+B:Sven Johnssons notbok 
+L:1/8
+M:2/4
+O:Mörrum, Blekinge
+Q:1/4=100
+R:Gånglåt
+Z:Göran Gustafsson
+K:G
+!p! dd | (dB)dd | (dB)dg | b(a/g/) fa | e2 ee | (ec)ee | (ec)ee | a(b/a/) gf | g z || !mf! aa | (ad)fa | gggg | (g^c)eg | 
+f2 ff | (fA)df | eeee | (eA)^ce | d z dd ||!p! (dB)dd | (dB)dg | b(a/g/) fg | e2 ee | (ec)ee | (ec)ee | a(b/a/) gf | g z z | 
+[K:C] !p! e/e/ | dc/B/ BA/A/ | GE GA/A/ | GEG A/A/ | GE Ge/e/ | dc/c/BA | GE GG/A/ | B(B/c/) d(e/d/) | c z !fermata!|]
+

@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Sommarkväll i Dalom
+C:Karl Ivar Pettersson
+O:Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik: Karl Ivar Pettersson Text: Thore Skogman"
+L:1/8
+M:2/2
+K:G
+V:1
+"^1""^På" B2 |:"^sommar´n  i  Dalarna" d2 d>c B2 B>c | "^då är det fest,       till" d2"^Schottis" d>g b3 g | "^Dalom är   var  och  en  en" a2 a>g f>de>f |"^välkommen gäst.   Då" g2 g>a b3 B | 
+"^bilkaravaner        till" d2 d>c B2 B>c |"^Masriket går,      och" d2 d>g b3 g | "^det är ju likadant vart-" a2 a>g f>de>f |1,8"^-enda    år." g2 b2 g2 z"^Ty" B :|2 g2 b2 g2 z"^I" G |:
+"^Hedemo - ra,        i" c2 c>d e3 G |"^Borlänge  sta´,     i" B2 B>c d3 G | "^Säter och Leksand och hos" A2 A>G F>DE>F |"^Rättvikarna.         Ja" G2 G>A B3 G | 
+"^då är det tjim,     och" c2 c>d e3 G |"^då   är  det  tjo,     på" B2 B>c d3 G | "^midsommarn ska man nog i" A2 A>G F>DE>F |1"^Dalom bo.          Man" G2 B2 G2 z G :|2,8 G2 B2 G2 |]:
+[K:C]"^Spel - männen""^Kullor    och" e4 e3 ^f |"^fi  -  lar" g4 e4 | "^Sommarkväll i Dalom," ^f>ef>e d2 d2 |"^Sommarkväll i Dalom." e>de>d c2 c2 | 
+"^Folk - massor" e4"^I stora" e3 ^f |"^kla  -  sar""^i    -    lar," g4 e4 | "^vinglar dom så glatt i Gustav Vasas spår.""^Sommarkväll i Dalom är nånting som slår." ^f>ef>e d>fe>d | c2 e2 c2 z2 :| 
+V:2
+"^2" G2 |:"^midsommar - natten" B2 B>A G2 G>A |"^är vacker och lång, ut-" B2 B>d g3 e | "^-i   varje  by  man  reser" f2 f>e d>Ac>d |"^midsommarstång, och" B2 B>c d3 G | 
+"^kryper till sängs först när" B2 B>A G2 G>A |"^solen går opp,      och" B2 B>d g3 e | "^huve´ det hänger som en" f2 f>e d>Ac>d |1,8 B2 d2 B2 z G :|2"^hängselstropp." B2 d2 B2 z C |: 
+"^spelar i dur,     och" E2 E>G c3 C |"^inte    i    moll,      i-" D2 D>G B3 D | "^-bland blir nog en och annan yr i sin boll.   Om" F2 F>E D>A,C>D | B,2 B,>D G3 C | 
+"^någon är skum,  och" E2 E>G c3 C |"^ilsken och dum,   så" D2 D>G B3 D | "^ordnar    poliserna      i" F2 F>E D>A,C>D |1 B,2 D2 B,2 z C :|2,8 "^fin - kan  rum." B,2 D2 B,2 |]:
+[K:C] c4 c3 d |"^ma - sar," e4 c4 | "^folk från alla   länder" d>^cd>=c B2 B2 |"^finns vid Siljans stränder." c>Bc>G E2 E2 | 
+c4 c3 d | e4 c4 | d>^cd>=c B>dc>G |"^Stämförslag B.O." E2 G2 E2 z2 :|
+

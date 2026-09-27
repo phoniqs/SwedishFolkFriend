@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Erik Rimström
+O:Hälsingland
+S:Efter Erik Rimström
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Bengt Ohlson lokaliserar polskan till Järvsö, men Erik Rimström kom från Bollnäs finnmark?
+L:1/16
+M:3/4
+K:Gm
+V:1
+|:"^1" G2>(B2 d2>)(^f2 g2>)a2 | b2bg (a^f)df (gf)ga | b2bg (a^f)df g4 | d2ed (c2B2) A2c2 | B2AB d2dc (BA)(G^F) | 
+G2GB d2d^f g2ga | b2bg (a^f)df (gf)ga | b2bg (a^f)df g4 | d2dB c2cB (AB)(dc) | (BA)G^F G8 ::
+{BcBA} B4 d2>(c2 BA)G^F | G2B2 (Ad)A^F D4- | D2cd c2AB A2^F2 | G2(DC) (B,C)DB, G,4 | 
+(d^c)de (d2=c2) B2A2 | G2g2 (^fg)af g4 | d2dB c2cB (AB)(dc) | (BA)G^F G8 :| 
+V:2
+|:"^2" B,2>(D2 G2>)(A2 B2>)c2 | d2dB (cA)^FA (BA)Bc | d2dB (cA)^FA B4 | B2cB (A2G2) ^F2A2 | G2^FG B2BA (GF)(DA,) | 
+B,2B,D G2GA B2Bc | d2dB (cA)^FA (BA)Bc | d2dB (cA)^FA B4 | B2BG A2AG (^FG)(BA) | (GD)B,A, B,8 ::
+{DEDC} D4 B2>(A2 G^F)DC | D2G2 (^FA)FD A,4- | A,2AB A2^FG F2D2 | B2(G^F) (GA)BF D4 |
+ (BA)Bc (B2A2) G2^F2 | D2B2 (AB)cA B4 | B2BG A2AG (^FG)(BA) |"^B.O." (GD)B,A, B,8 :|
+

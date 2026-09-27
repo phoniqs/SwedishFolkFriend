@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Jämtlands brudmarsch efter Olof Nilsson
+S:Olof Nilsson
+O:Åsarna, Jämtland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Olof Nilsson, Åsarna. Arr. Arthur Nestler."
+L:1/8
+Q:1/4=84
+M:2/4
+K:D
+V:1
+"^1" [DA] |: Ad d/c/d/e/ | dA/G/ FE | Dg fe/f/ | gf ed | 
+fa ag/a/ | ba gf | fe ef |1 e>A Bc :|2 e3 f |: 
+g2 gf/g/ | bg fe | de/f/ df/a/ | gf ed | 
+[Ae][ce] [ce][Be]/[ce]/ | aA Bc | de/g/ fe/f/ |1 d2 de/f/ :|2 [Dd]3 |] 
+V:2
+"^2" z |: [FA]2 F/E/F/G/ | FE DG | [FA]A dc/d/ | ed AF | 
+[df]2 [df][de]/[df]/ | [dg][df] ed | dc cc |1 [Ec]2 GE :|2 [Ec]3 =c |: 
+[GB]2 [GB][GA]/[GB]/ | G2 AG | FG/A/ FA/d/ | ed AF | 
+[Ec]2 [EA][EA] | [EA]G GE | FG AG |1 FE/F/ D=c :|2 [FA]3 |] 
+

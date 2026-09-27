@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:35
+T:Ryska polonäsen Nr 4
+T:(Gamla Dansar i Skåne)
+O:Hjortshög, Skåne
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Ryska polonäsen (4) efter J. A. Guldstrand, Hjortshög."
+B:Gamla Dansar i Skåne
+S:J A Guldstrand
+R:Polonäs
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" g | ed/c/ (B/d/)c/A/ | AG G |][K:G][M:2/4][K:treble]"^Dans" c |: 
+BA/B/ cA/F/ | GD/B,/ G,c | BA/B/ cB | BA Ac | 
+BA/B/ cA/F/ | GD/B,/ G,g | ed/c/ (B/d/)c/A/ | AG G c :: 
+(B/c/)d/B/ Gc | (B/c/)d/B/ GB | BA/B/ cB | BA Ac | 
+(B/c/)d/B/ Gc | (B/c/)d/B/ Gg | ed/c/ (G/d/)c/F/ |1 AG G c :|2 AG G g |: 
+fe/f/ gd/B/ | gd/B/ Gg | fe/f/ gf/e/ | ed dg | 
+fe/f/ gd/B/ | gd/B/ Gg | ed/c/ (B/d/)c/A/ |1 AG G g :|2 AG G z |] 
+V:2
+"^2" e | cB/A/ (G/B/)A/F/ | DB, B, |][K:G][M:2/4][K:treble] A |: GF/G/ AF/D/ | B,B, DA | GF/G/ AG | 
+GF FA | GF/G/ AF/D/ | B,B, De | cB/A/ (G/B/)A/F/ | DB, B, A :: (G/A/)B/G/ DA | (G/A/)B/G/ DG | 
+GF/G/ AG | GF FA | (G/A/)B/G/ DA | (G/A/)B/G/ DB | cB/A/ (E/F/)F/D/ |1 CB, B, A :|2 CB, B, e |: 
+dc/d/ BB/G/ | BB/G/ De | dc/d/ ed/c/ | cB Be | dc/d/ BB/G/ | 
+"^Efter J. A. Guldstrand, Hjortshög." BB/G/ De | cB/A/ (G/B/)A/F/ |1 DB, B, e :|2 "^Stämförslag B.O." DB, B, z |]
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Jässpôdpolska 2
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad.
+L:1/8
+M:3/4
+I:linebreak $
+U:t=tenuto
+K:D
+V:1
+"^1""^Jässpôs-polska 2" (g |: f2)({g} (3f/g/f/ e/f/) g>e | d2 (tdtF) A>d | c2 (tctE) A>c | d2 (tdtF) A>d | 
+f2({g} (3f/g/f/ e/f/) g>e | d2 (tdtF) A>d | c2 (tctE) A>c |1 d2 d3 g :|2 d2 d3 f- |: 
+f>a d'2 f2 | {gf} g2 (tbtg) e2- | e>(d c>)(b a>)g |({a} (3g/a/g/ f/g/) (a>f) d>f | 
+f>a d'2 f2 | {gf} g2 (tbtg) e2- | e>(d c>)(b a>)c |1 d2 d3 f- :|2 d2 d3 z |] 
+V:2
+"^2" (e |: d2) (dc) c>A | F2 (tFtD) F>B | A2 (tAtC) E>G | F2 (tFtD) F>A | 
+d2 (dc) c>A | F2 (tFtD) F>B | A2 (tAtC) E>G |1 F2 [FA]3 e :|2 F2 [FA]3 d- |: 
+d>f f2 d2 | e2 (tgte) B2- | B3/2 (B/ A>)(d c>)e | d2 (f>d) A>d | 
+d>f f2 d2 | e2 (tgte) B2- | B3/2 (B/ A>)(d c>)G |1"^Stämförslag B.O." F2 [FA]3 d :|2 F2 [FA]3 z |]
+

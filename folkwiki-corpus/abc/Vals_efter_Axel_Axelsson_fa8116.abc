@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:513
+T:Vals efter Axel Axelsson
+T:efter fadern
+T:(OA 513)
+B:Sörmländska låtar samlade av Olof Andersson
+R:Vals
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson 2025-02-26
+M:3/4
+L:1/4
+Q:140
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+"^\n" D{/c} B/A/ B/c/ | d c c | D3/2 F/ A/B/ | c B B |
+G G/B/ d/g/ | b a a | d f/d/ f/a/ |1 g2 z :|2  g2 d |:
+d g/B/ d/g/ | g f/e/ f | d f/d/ f/a/ |  a g/f/ g |
+d g/B/ d/g/ | g f/e/ f | d/d/ f/d/ f/a/ |1  g2 d :|2 g2 z |]
+

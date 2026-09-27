@@ -1,0 +1,47 @@
+%%abc-charset utf-8
+
+X:82
+T:Polska från Särna-Idre - Käringa ma stavin
+T:(Sv Folkdanser Del 1)
+O:Särna, Idre, Dalarna
+R:Polska
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 82
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 82. Polska från Särna-Idre"
+Z:http://runeberg.org/folkdans/besk/0083.html
+Z:Text: Åtta potter römme, fyra marker smör, 
+Z:Käringa ma stavin.
+Z:I Hågadalin.
+Z:datt ner i alle bäcken. 
+Z:så sprang ho´ hemat, då feck ho´ gröt.
+Z:I alle bäcken. 
+Z:Käringa ma säcken.
+Z:Först datt ho´ ner, så vart ho´ blöt,
+Z:Käringa ma säcken
+Z:kinna syster Kari, Ola hade för´.
+Z:langt opp i Hågadalin.
+Z:Käringa ma stavin
+Z:Men så feck ho´ ont i bälga
+Z:Käring på Tim-tam-tuk
+Z:lejde säg en getargut.
+Z:Gut´n skulle gete vecka ut,
+Z:Sjöl skull ho´ gete helga.
+Z:langt opp i Hågadalin.
+Z:Käringa ma stavin.
+Z:I Hågadalin.
+z:skä vi ha ta bröllop, som vi hade för.
+Z:Åtta potter römme, fyra marker smör,
+Z:Käringa ma stavin
+Z:Ont i bälga.
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel" z2 z ABc | (cd) d4"^\"Käringa ma stavin--\"""^Dans" | a2 (ba) f>g | a2 g2 f2 | a2 (ba) f>g | 
+a2 g2 f2 | d>(e fg) a>f | (ef) ga f2 | d>(e fg) a>f | 
+(ef) ga f2 | d2 f2 e>d | c4 d2"^Mellan- och efterspel" |] z2 z ABc | (cd) d4 |] 
+V:2
+"^2" z2 z AGE | (EF) F4 | f2 (gf) d>e | f2 e2 d2 | f2 (gf) d>e | 
+f2 e2 d2 | F>(A de) f>d | (cd) ef d2 | F>(A de) f>d | 
+(cd) ef d2 | A2 d2 c>A | (G2 E2) F2 |] z2 z EA z "^Stämförslag B.O." | (EF) F4 |] 
+

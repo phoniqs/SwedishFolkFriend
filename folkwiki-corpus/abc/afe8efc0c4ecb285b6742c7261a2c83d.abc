@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:56
+L:1/4
+M:none
+K:C clef=none
+%
+"@-20,30 Stämn."[A,EA^c]0 \
+%%staffbreak
+[K:C clef=treble] \
+[M:3/4]\
+|:B,CD|
+

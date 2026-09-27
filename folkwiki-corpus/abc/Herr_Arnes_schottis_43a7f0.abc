@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Herr Arnes schottis
+R:Schottis
+C:Christer Samuelsson
+N:Komp. 9 augusti 2015 av Christer Samuelsson till Arne Blombergs 75 års dag
+M:2/4
+L:1/16
+Q:1/8=140
+K:G
+V:1
+|: "G"D>G,B,>D G>FG>A | B2{AB}A2 G4 | "D7"A>DF>A c>Bc>d | "C"{ef}e2dc "G"B4 |
+V:2
+|: G,2G,2 B,>CD>F | G2F2 D4 | F>A,D>F A>GF>D | {cd}c2BA D4 |
+V:1
+"G"{def}g2dB G4 | "Am"e>ec2 A4 | "A"{f}e2ed edef | "G"gagf g4:|
+V:2
+{GA}B2BG D4 | c>cA2 F4 | {d}c2cB cBcd | BcBA B4 :|
+V:1
+|: "C"e>cG>c e>gf>e | "G"d>BG>B d>ed>B | "D7"c>AF>A A>cB>A | "G"G>AB>c d2(3(def) |
+V:2
+|: c2(c>G) c>ed>c| B2(D>G) B>cB>G | A>FD>F D>A,D>F | G>FG>A B2d2 |
+V:1
+"C"g>ec>e e>gf>e | "G"d>BG>B d>ed>B | "D7"c>AF>A A>cB>A | "G"G2BA G4 :|
+V:2
+c2(c>G) c>ed>c | B2(D>G) B>cB>G | A>FD>F D>A,G,>A, | B,2DF D4 :|
+

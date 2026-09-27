@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:32
+T:Polska efter en gammal soldat Ax
+T:(SvL Bohuslän 32)
+R:Polska
+O:Svarteborg, Bohuslän
+O:Alnäs, Kville, Bohuslän
+S:Albert Fossum
+S:Soldat Ax
+N:SvL: En gammal soldat och spelman vid namn Ax från Alnäs i Kville socken spelade polskan.
+N:SvL: Låten förekommer såväl i Värmland som Dalsland. Jmf SvL Värmland 165 och Dalsland 21.
+M:3/4
+L:1/8
+K:D
+A>(G F)A df|ec Ac eg|f>a ge/g/ fe/f/|ec/e/ dB [AA-]2|
+A>(G F)A df|ec Ac eg|f>a ge/g/ fe/f/|(A/c/)[ce] [dD]4:|
+|:{/f}a>(f d)f a>(g|e)(d (3c)Ac [ee]2|ef (3gag (3fgf|(3ece de fg|
+af df ag|e(d (3c)Ac ce|ef ga/g/ fg/f/|(e/c/)[ce] [dD]4:|
+

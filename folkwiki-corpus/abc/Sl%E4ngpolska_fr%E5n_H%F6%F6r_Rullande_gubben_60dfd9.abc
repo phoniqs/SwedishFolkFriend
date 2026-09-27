@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X: 1
+T:Slängpolska från Höör ("Rullande gubben")
+R:Slängpolska
+Z:Patrik Månsson, 2025-10-24
+O:Höör, Skåne
+S:TBC
+S:Efter en inspelning av Rolf Perleij
+N:Är du rullande gubben
+N:får du låna mitt hus
+N:Har du pengar på fickan
+N:Får du känna min mus
+N:Ja e rullande gubben
+N:Jag vill låna ditt hus
+N:Jag har pengar på fickan
+N:Jag vill känna din mus
+M:3/4
+L:1/16
+K:Am
+|: "Am"A2c2 c2dc "G"B2G2 | "G"G2B2 B2cB "Am"A4 :|
+|: "Am"e4 e3f "C"e2c2 | e2g2 "F"g2ga g2e2 | 
+| "E"e4 e3f  "Am"e2c2 | c2dc "G"B2cB "Am"A4 :|
+

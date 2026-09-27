@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:6
+T:Angläs Nr 6
+T:(Gamla Dansar i Skåne)
+O:Skåne
+R:Anglais
+S:Carl Gabriel Malmberg
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Angläs (6). Efter C. G. Malmberg, Trolle Ljungby. C. E. Berndts saml."
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+I:linebreak $
+K:D
+V:1
+"^1""^Förspel" (ed)cB A2g2 | (ba)ge d4 |]:[K:D][M:2/4][K:treble]"^Dans" (AB)A^G A2F2 | 
+D2d2 (dc)df | (ed)cB A2g2 | (ba)ge d4 ::
+[K:G] g2>d2 (Bd)gb | d'2b2 b2ab | (c'b)ag f2d'2 | d2fa g4 :| 
+V:2
+"^2" (cB)AE C2e2 | (gf)cA F4 |]:[K:D][M:2/4][K:treble] (FG)F^E F2D2 | A,2F2 (F^E)Fd | (cB)AE C2e2 | 
+(gf)cA F4 ::[K:G]"^Efter C. G. Malmberg, Trolle Ljungby.""^C. E. Berndts saml." B2>B2 (GB)dg | b2g2 g2fg | (ag)fe d2f2"^Stämförslag B.O." | A2c2 B4 :|
+

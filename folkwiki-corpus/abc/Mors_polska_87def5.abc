@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Mors polska
+O:Gästrikland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Komp. och arr. av [[Personer/Joel Rådberg]], Sandviken
+L:1/8
+M:3/4
+I:linebreak $
+K:Bb
+V:1
+|:"^1" G>A B2 A2 | G>B d2 (g>^f) | d>c B2 (d>B) | c>d ef/e/ [^Fd]2 | 
+G>A B2 A2 | G>B d2 (g>^f) | d>c B2 (d>c) | [DA]2 [G,G]4 :: 
+d2 BB dd | f>e ce/c/ d2 | ^f2 dd ff | a>g =e^f/e/ [^Fd]2 | 
+d2 BB dd | f>e ce/c/ d2 | g2 d2 (BG) | A^F/A/ [G,G]4 :| 
+V:2
+|:"^2" [B,D]>A, [G,D]2 [CD]2 | E>D ^F2 (E>D) | B,>A, G,2 ([FB]>D) | [A,F]2 GA [Dc]2 | 
+[B,D]>A, [G,D]2 [CD]2 | E>D ^F2 (E>D) | B,>A, G,2 ([B,G]>D) | [C^F]2 [B,D]4 :: 
+[B,F]2 [DF]2 [B,F]2 | [CE]2 [A,F]2 [B,F]2 | [CD]2 [C^F]2 [CD]2 | [^C=E]2 [A,G]2 [DA]2 | 
+[GB]2 [DF]2 [B,F]2 | [=CE]2 [A,F]2 [CD]2 | [G,D]2 [C^F]2 ([G,G]B,) | [CD]2 [B,D]4 :|
+

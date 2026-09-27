@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals efter Timas Anders
+R:Vals
+S:Timas Anders Hansson
+O:Ore, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Timas Anders. Uppt. [[Personer/Karl Sporr]]."
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" A2 |: d2{de} d^c A2 | f2{fg} fe d2 | g2{ga} g^f g2 | a2{ab} a^g a2 | c2({cd} c=B) ce | 
+f2({fg} fe) fa | a2({ab} ag) eg | f6 |{ab} a2 c>e (3(gag) |1 f4 A2 :|2 
+f4 (fe) |: d4 (f/g/f/e/) | c4 (fe) | (d^c) (de) fg | a4 (g/a/g/^f/) | 
+d4 (f/g/f/e/) | c4 (fe) | (d^c) (df) ec |1 d4 (fe) :|2 d4 |] 
+V:2
+"^2" D2 |: F2 FE D2 | A2 AG F2 | B2 BA B2 | ^c2 c=B c2 | E2 (ED) EG | 
+A2 (AG) Ac | c2 (cB) GB | A6 | c2 E>A (3(BcB) |1 A4 D2 :|2 
+A4 (AG) |: F4 A2 | E4 (AG) | (FE) (FG) A=B | ^c4 B2 | 
+G4 A2 | E4 (AG) | (FE) (FA) GE |1 F4"^B.O." (AG) :|2 F4 |]
+

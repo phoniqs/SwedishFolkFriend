@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Silvbergs  brudmarsch
+C:Emil Barkman
+O:Sandåkern, Silvberg, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Emil Barkman, Sandåkern, Silvberg, Dalarna."
+L:1/8
+M:2/4
+K:D
+V:1
+"^1" A |: (fg/f/) (dB) | A2 (FG/F/) | (EF) (GF) | E3 e | (ga/g/) (ec) | A2 (GE) | D2 F2 | A3 A | 
+(fg/f/) (dB) | A2 (FG/F/) | (EF) (GF) | E3 e | (ga/g/) (ec) | A2 (GE) | D2 F2 |1 D3 A :|2 D3 F |: 
+(AB/A/) (FA) | d2 (dc) | (Bc/B/) (GB) | e3 d | (cd/c/) (Ac) | a2 (a>g) | (ba) (fd) | A3 F | 
+(AB/A/) (FA) | d2 (dc) | (Bc/B/) (GB) | e3 d | (cd/c/) (Ac) | a2 (a>b) | (ba) (ef) | d3 F ::
+(fd) (AF) | D2 (FA) | (AG) (EC) | A,3 A, | (A,>C) (EA) | c2 (Bc/B/) | (AG) (EG) | 
+F3 A | (fd) (AF) | D2 (FA) | (AG) (EC) | A,3 A, | (A,>C) (EA) | c2 (Bc/B/) | (AG) (EF) |1 D3 F :|2 D3 z |] 
+V:2
+"^2" F |:"D" A2 (AG) | F2 D2 |"A7" (CD) (ED) | C3 A | c2 (cA) | G2 (EC) |"D" A,2 D2 | F3 F | 
+A2 (AG) | F2 D2 |"A7" (CD) (ED) | C3 A | c2 (cA) | G2 (EC) |"D" A,2 D2 |1"D" A,3 F :|2 "D" A,3 D |:
+"D" D2 (A,D) |"D7" F2 (FE) |"G" D2 (B,D) | "Em" G3 B | "A7" A2 (EA) | c2 (c>e) | "D" (gf) (dA) | F3 D | 
+D2 (A,D) |"D7" F2 (FE) | "G" D2 (B,D) | "Em" G3 B | "A7" A2 (EA) | c2 (c>d) | (dc) (AA) | "D" [FA]3 D :: 
+"D" A2 (FD) | A,2 (DF) | "A7" F2 (GE) | E3 C | (G,>A,) (CE) | A2 G2 | E2 (CE) |"D" D3 F | A2 (FD) | 
+A,2 (DF) |"A7" F2 (GE) | E3 C | (G,>A,) (CE) | "^Stämförslag B.O." A2 G2 | E2 (CA,) |1 "D" A,3 D :|2"D" A,3 z |]
+

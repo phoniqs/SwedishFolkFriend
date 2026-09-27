@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Soldat Glads polska
+S:Efter Sjungar Lars
+O:Lima, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Sjungar Lars Larsson
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1""^Soldat Glads polska" d(e ef) f>a | (ag) (gf) f>e | d2 (ef) f>a |({ga} gf/g/) a4 :: 
+(eg)({fg} fd) e>c | (Ac) (BG) A>c | (eg)({fg} fd) e>c | (A<c) d4 :| 
+V:2
+|:"^2" F(A Ad) d>f | (fe) (ed) d>c | F2 (Ad) d>f |({ef} ed/e/) c4 :: 
+(ce) (dB) c>A | (EA) (GE) C>E | (ce) (dB) c>A |"^Stämförslag B.O." (E<=G) F4 :| 
+

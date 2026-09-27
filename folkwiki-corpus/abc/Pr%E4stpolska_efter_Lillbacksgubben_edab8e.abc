@@ -1,0 +1,36 @@
+%%abc-charset utf-8
+
+%%abc-charset utf-8
+X:604
+T:Prästpolska efter Lillbacksgubben
+R:Polska
+S:Lillbacks Olof Olsson
+B:Svenska Låtar Hälsingland nr 604
+B:Register för Hälsinglands Spelmansförbunds låtar nr 67
+D:Emil Olsson, Hugo Westling: Spelmanslåtar från Hälsingland (Sonet LP)
+O:Galven, Alfta, Hälsingland
+N:YouTube-klipp
+N:Stämma av Emil Olsson
+N:Se även +
+Z:Lennart Sohlman, Älta, Sweden
+M:3/4
+L:1/8
+Q:1/4=110
+K:Gm
+V:1
+|:G>^F   D2       BA         | G>(B   d2)      g2-       | g^f/g/ a>g =fe | d>c         B>A G^F  | G>^F   D2       BA         | 
+G2     e2       c2           | BA/B/  d2 D>G  | (^F/G/)A/F/ G3 D  :: G>(B   d>)(^f   g)a        | b2     b>a      ag         | 
+g^f/g/ a>g =fe | d>c         B>A G^F  | G>(B   d>)(^f   g)a        | b2     b>a      ag         | g^f/g/ a>g =fe | 
+d>c         B>A B2   | B>[Fd] [Fd][Fd] [Fd][Fd] | d>[Ec] [Ec][Ec] [Ec][Ec] | c>[Fd] [Fd][Fd] [Fd][Fd] | d>[Ec] [Ec][Ec] [Ec][Ec] |
+c>d    d2       B2           | A>c    BA       G^F       | G>g    g2 B2     | A>c         B>A G^F  |
+G>c    c2       A2           | c>d    e2       c2        | BA/B/  d2 D>G   | (^F/G/)A/F/ G4      :|
+V:2
+|: "Gm" [DB,]>[DA,] [DB,]2 [GB,][DA,] | B,>D G2 [GB]2 | dc/d/ "Dm" e>c AG | F>E D>C B,A, |
+"Gm" [DB,]>[DA,] [DG,]2 [DB,][DG,] | "Cm" [CE]2 [EA]2 [CE]2 | "Gm" [DA]2 "D7" [^FA]2 [A,D]2 | [^FC]>[DA,] "Gm" [B,D]4 ::
+"Gm" B,>D G>B d>f | g2 "Dm" g>f fe | "Cm" c=B/c/ e>c AG | "Gm" [AF]>[AE] D[DA,] [B,D][DA,] |B,>D G>B d>f | 
+g2 "Dm" g>f fe | "Cm" c=B/c/ e>c AG | "Gm" [AF]>[AE] D[DA,] [B,D]2 |
+"Bb" [B,F]>[B,F] [B,F][B,F] [B,F][B,F] | [B,F]>"F7"[A,F] [A,F][A,F] [A,F][A,F] | \
+[A,F]>"Bb"[B,F] [B,F][B,F] [B,F][B,F] | [B,F]>"F7"[A,^F] [A,F][A,F] [A,F][A,F] |
+"D7"D>D ^F2 "Gm"G2 | "D7"^F>A GD [DB,][DA,] | "Gm"[DB,]>d d2 [GB,]2 | "D7"[^FA,]>A "Gm"G>D [DB,][DA,] |
+"Cm"[DB,]>G G2 [EG,]2 | G>=B c2 [AE]2 | "Gm"GD/G/ "D7"[A^F]2 [FC]2 | [DA,][DA,] "Gm"[DA,]2 [DG,]2 :|
+

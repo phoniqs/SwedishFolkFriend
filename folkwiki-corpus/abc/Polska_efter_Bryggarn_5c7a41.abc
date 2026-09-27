@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Bryggarn
+S:Grubb Anders Jonsson
+O:Delsbo, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 31. Polska efter Anders Jonsson (Bryggarn)"
+L:1/8
+Q:1/4=140
+M:3/4
+K:G
+V:1
+|:"^1" G>(F G>)(B d>)g | b>(a"^Delsbo" g>)(f g>)b | a>(f d2) d2 | ab/a/ (g>d) B>d | 
+G>(F G>)(B d>)g | b>(a g>)(f g>)b | a>(f d2) d>f | ab/a/ g2 z2 :: 
+c>(B c2) e>c | c(d/c/) B2 d2 | (dA) (Ad) fa | af/a/ gb g2 | 
+c>(B c2) e>c | c(d/c/) B2 d2 | (dA) (Ad) fa | af/a/ g2 z2 :| 
+V:2
+|:"^2" B,>(A, B,>)(D G>)B | d>(c B>)(A B>)d | c>(A F2) F2 | cd/c/ (B>G) D>G | 
+B,>(A, B,>)(D G>)B | d>(c B>)(A B>)d | c>(A F2) F>A | cd/c/ B2 z2 :: 
+E>(D E2) G>E | E(F/E/) D2 G2 | (FD) (DF) Ac | cA/c/ Bd B2 | 
+E>D E2 G>E | E(F/E/) D2 G2 | (FD) (DF) Ac | cA/c/ B2"^B.O." z2 :|
+

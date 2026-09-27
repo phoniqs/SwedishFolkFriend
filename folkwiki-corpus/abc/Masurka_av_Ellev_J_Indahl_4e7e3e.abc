@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Masurka av Ellev J. Indahl
+C:Ellev J Indahl
+O:Norge
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Ellev J. Indahl, Norge."
+Z:"Uppt. från CD- "Geir Egil Larsen og tjukke slekta"
+L:1/8
+Q:1/4=130
+M:3/4
+K:Bb
+V:1
+|:"^1" F>f (=eg) f2 | F>d (^cd) B2 | (D>F) (BF) d>B | g>f (ec) A2 | F>e (df) e2 | A>c (=Bd) c2 | (A>G) (Fe) c>A | 
+B>d (gd) f2 | F>f (=eg) f2 | F>d (^cd) B2 | (D>F) (BF) d>B | A2 G4 | (E>G) (BG) c>G | (D>F) (BF) d>B | 
+(A>g) (fe) c>A | B2 [DB]4 :: (G>B) (eg) b>g | f>g (fd) B2 | (A>g) (fe) c>A | B>c (de) f2 | (G>B) (eg) b>g | 
+f>g (fd) B2 | (A>g) (fe) c>A | B2 [DB]4 :: [K:Eb] (G,>B,) (EB,) G>E | (B>G) (eB) G>E | (G,>B,) (EG) F>E | 
+D2 A4 | (B,>D) (FD) A>D | c>B (AF) D2 | (B,>D) (FA) G>F | E2 G4 | (G,>B,) (EB,) G>E | (B>G) (eB) G>E | 
+(G,>B,) (EG) F>E | D2 C4 | (A,>C) (EC) F>E | (G,>B,) (EB,) G>E | (D>c) (BA) F>D | E2 E4 :| 
+V:2
+|:"^2" D>d (^c=e) d2 | D>B (AB) F2 | (B,>D) (FD) B>F | e>d (cA) F2 | E>c (=Bd) c2 | E>A (GB) A2 | 
+(F>E) (CF) E>C | F>B (eB) d2 | D>d (^c=e) d2 | D>B (AB) F2 | (B,>D) (FD) B>G | F2 E4 | 
+(B,>E) (GE) G>E | (B,>D) (FD) F>D | (E>e) (cA) F>E | D2 [B,D]4 :: (E>G) (Be) g>e | d>e (dB) F2 | 
+(E>e) (dc) A>E | D>F (Bc) d2 | (E>G) (Be) g>e | d>e (dB) F2 | (E>e) (cA) F>E | D2 D4 :: 
+[K:Eb] B,2 (B,G,) E>B, | G2 (GE) B,>G, | B,2 (B,E) D>C | B,2 D4 | A,2 (DB,) F>B, | A>F (DB,) A,2 | 
+A,2 (DF) D>B, | G,2 E4 | B,2 (B,G,) E>B, | G2 (GE) B,>G, | 
+B,2 (B,E) D>C | B,2 A,4 | A,2 (CA,) C>A, | G,2 (B,G,) E>B, | (A,>"^Stämförslag B.O."A) (FD) B,>A, | G,2 G,4 :|
+

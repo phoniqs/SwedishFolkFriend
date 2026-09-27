@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska i Gm
+T:efter Jon Åman
+S:Jon Åman
+O:Jälkarbyn, Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (28) eft. Jon Åman, Jälkarbyn, Hedemora."
+N:Antagligen en variant av +
+L:1/8
+M:3/4
+K:Gm
+V:1
+[K:Dm] "^1" (D |: G>)(A{c} B)A/G/ ^F>A | (B/A/)B/c/{c} d3 d- | d2T g^f/g/{g} a>g | T f>(e d>)(c B>)A | 
+G>(A{c} B)A/G/ ^F>A | (B/A/)B/c/{c} d3 d- | d2T g^f/g/{g} a>g |1 {fg} f2 d3 D :|2
+{fg} f2 d3 d- |: d2 (g/a/)g/^f/ g>=f |{f} a2 (f/g/)f/e/!trill! f>e | d2 (g/a/)g/^f/ g>=f |
+{f} a2 (f/g/)f/e/{fe} f>e | (3d2 (c2 A2) B>c | (3:2:4(dc) (_e2 c2){c} d2- | d2 (B/c/)B/A/ ^F>G | 
+(A<B) (GA) (B/A/)(B/c/) |{c} d>(c B/c/)B/A/ G>A |1 ^F2 G3 B :|2 ^F2 G3 z |] 
+V:2
+[K:Dm] "^2" D- |: D>(^F G)F/E/ D>F | (G/^F/)G/A/ [FA]3 B- | B2 d^c/d/ f>e | d>(c B>)(A G>)^F | 
+D>(^F G)F/E/ D>F | (G/^F/)G/A/ [FA]3 B- | B2 d^c/d/ f>e |1 d2 [^FA]3 D- :|2 
+d2 [^FA]3 B- |: B2 (d/_e/)d/^c/ d>=c | f2 (c/d/)c/=B/ c>_B | A2 (B/c/)B/A/ B>A | 
+c2 (A/B/)A/^G/ A>A | (3B2 (A2 ^F2) G>A | (3:2:4(BA) (c2 A2){A} B2- | B2 (G/A/)G/^F/ D>E | 
+(^F<G) (DF) (G/F/)(G/A/) | {A} B>(A G/A/)G/D/ B,>C |1 "^Stämförslag B.O." A,2 [B,D]3 G :|2 A,2 [B,D]3 z |] 
+

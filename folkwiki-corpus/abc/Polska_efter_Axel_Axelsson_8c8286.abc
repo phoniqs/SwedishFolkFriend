@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:485
+T:Polska efter Axel Axelsson
+T:(OA 485)
+B:Sörmländska låtar samlade av Olof Andersson nr 485
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson. 
+Z:De fyra första takterna i B-delen är markerade som "bis" i uppteckningen. Eftersom jag inte har möjlighet att göra detta i ABC, har jag skrivit ut dessa takter.
+M:3/4
+L:1/4
+Q: 90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+d/4f/4f/4f/4 A/4d/4d/4d/4 F/4A/4A/4A/4 | G/4B/4B/4B/4 F/4A/4A/4A/4 E/4A/4A/4A/4 | D/4E/4F/4G/4 A/4B/4c/4d/4 e/4f/4g/4e/4 | d/>f/ (e/4d/4)c/4B/4 A |
+d/4f/4f/4f/4 A/4d/4d/4d/4 F/4A/4A/4A/4 | G/4B/4B/4B/4 F/4A/4A/4A/4 E/4A/4A/4A/4 | D/4E/4F/4G/4 A/4B/4c/4d/4 e/f/ | (g/4f/4)e/4d/4 c/d/ d ::
+f/4d/4A/4d/4 f/4d/4A/4d/4 f/a/ | (b/4a/4)g/4f/4 g/e/ e | e/4c/4A/4c/4 e/4c/4A/4c/4 e/a/ | (a/4g/4)e/4g/4 f/d/ d |
+f/4d/4A/4d/4 f/4d/4A/4d/4 f/a/ | (b/4a/4)g/4f/4 g/e/ e | e/4c/4A/4c/4 e/4c/4A/4c/4 e/a/ | (a/4g/4)e/4g/4 f/d/ d |
+d/4f/4f/4f/4 A/4d/4d/4d/4 F/4A/4A/4A/4 | G/4B/4B/4B/4 F/4A/4A/4A/4 E/4A/4A/4A/4 | D/4E/4F/4G/4 A/4B/4c/4d/4 e/f/ | (g/4f/4)e/4d/4 c/d/ d :|
+

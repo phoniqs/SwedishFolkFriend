@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Båtsman Bisslings polska
+C:Lars Erik Jansson
+O:Upplands Väsby, Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+N:"Bisslings torp står ännu kvar men båtsman själv har kastat loss och seglat.."
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1" (G>E) "^Bisslings torp står ännu kvar" "^men båtsman själv har kastat loss och seglat . . ."  C>E G>c | {c} e2 e3 c | c (3(A/c/A/) (F>A) c>f | {f} a2 a3 g | (f/g/f/e/) (f>d) (B>G) | (D>B,) (G,>B,) D>G | 
+B2 (B/c/B/A/) F>A | (A>G) (G>E) C>E | (G>E) C>E G>c |{c} e2 e3 c | c (3(A/c/A/) (F>A) (c>f) | {f} a2 a3 g | 
+(f/g/f/e/) (f>d) B>G | (D>B,) (G,>B,) D>G | (B>d) f (3(d/e/d/) B>d |1 {d} c2 c3 z :|2{d} c2 c3 _B |:
+[K:F] (A>F) (C>B,) (A,>C) |{C} F2 F3 C | (A,>C) (F>A) c>d |  c (3(B/c/B/) G3 A | (G>F) (E>C) E>G | (c>e) g2 (g>f) | 
+(e>g) (b>g) (e>g) |{g} fe/f/ a>f c>B | (A>F) (C>B,) (A,>C) |{C} F2 F3 C | (A,>C) (F>A) (c>d) | c (3(B/c/B/) G3 A | 
+(G>F) (E>C) E>G | (c>e) g2 (g>f) | (e>g) (b>g) (e>g) |1 g(e/g/) f3 B :|2 g(e/g/) f3 z |] 
+V:2
+|:"^2""C" E>C G,>C E>G | c2 c3 A | "F"  A>F C>F A>c | "Dm" f2 f3 e |"G7" d>c d>B G>E | F>D B,>D G>B | 
+G2 G>F D>F | "C" F>E E>C G,>C | E>C G,>C E>G | c2 c3 A |"F" A>F C>F A>c | "Dm" f2 f3 e | 
+"G7" d>c d>B G>E | F>D B,>D G>B | G>B dB G>F |1"C" E2 E3 z :|2"C" E2 E3 G |: 
+[K:F]"F" F>C A,>D C>G, | A,2 A,3 A, | C>F A>c A>B | "C7"  AG E3 F | E>D C>G, B,>C | E>G B2 B>A | 
+G>B e>B G>B |"F" AG/A/ c>A F>G | F>C A,>D C>G, | A,2 A,3 A, | C>F A>c A>B |  "C7"  AG E3 F | 
+E>D C>G, B,>C | E>G B2 B>A | G>c e>c G>B |1"C7" BG/B/"F" A3"^B.O." G :|2  "C7"  BG/B/"F" A3 z |]
+

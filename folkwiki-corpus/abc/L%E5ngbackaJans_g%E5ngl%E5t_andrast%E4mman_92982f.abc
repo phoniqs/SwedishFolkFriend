@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Långbacka-Jans gånglåt (andrastämman)
+S:Jan Holmgren
+O:Uppland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Jan Holmgren, Rasbo."
+L:1/8
+M:2/4
+K:G
+V:2
+"^2" (G,/B,/)D/G/ |:"G" B2 (!>!B>!>!B) | BG Ac | B2 (B/c/)B/G/ | D2 (B,/D/)G/B/ | "D7" A>G AF | 
+D2 A,/D/F/A/ |"G" c>B BG | D2 (G,/B,/)D/G/ | B2 (!>!B>!>!B) | BG Ac | B2 (B/c/)B/G/ | 
+D2 (B,/D/)G/B/ | "D7" A>G AF | DA, CD | "G" B,A,/B,/"D7" (DC) |1,8 [B,D]2 "G" (G,/B,/)D/G/ :|2"G" [B,D]3 G, |: 
+"G" B,D/D/ (!>!D!>!D) | DC B,D |"C" CE/E/ (!>!E!>!E) | ED CE | "D7" DF/F/ (!>!F!>!F) | 
+FA, CD | "G" (B,/A,/)B,/C/ (G/F/)E/C/ | B,3 G, | B,D/D/ (!>!D!>!D) | DC B,D | "C" CE/E/ (!>!E!>!E) | 
+ED CE | "D7" DF/F/ (!>!F!>!F) | FA, CD | "G" B,A,/B,/ "D7" (DC) |1"G" [B,D]3 G, :|2"G" [B,D]3 G |:
+"G" BG/B/ (dB) | G2 D2 | GD/G/ (BG) | D2 B,2 |"D7" DA, DF | AF DA, |
+"G" B,G,/B,/ DB,/D/ | [GB]3 G | BG/B/ (dB) | G2 D2 | GD/G/ (BG) | D2 B,2 | 
+"D7" DA, DF | AF DA, | "G"B,G,/B,/"D7" (DC) |1 "G"[B,D]3 G :|2 "G" B,2"^B.O." z2 |]
+

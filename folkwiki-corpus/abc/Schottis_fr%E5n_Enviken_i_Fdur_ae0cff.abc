@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Enviken i F-dur
+R:Schottis
+O:Enviken, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"27. Schottis från Enviken"
+L:1/16
+M:2/4
+K:F
+V:1
+|:"^1" F2Ac f2fe | (ed)dB G4 | c2eg (bg)eg | (fe)fg (af)cA | 
+F2Ac f2fe | (ed)dB G4 | c2eg (bg)eg |1,8"F" f2f2 f4 :|2"F" f2f2 f3 f |:
+[K:C] a2af d2df | e2ec A2A_B | c2Ac _B2^GB | A2E2 C2A,2 | 
+a2af d2df | e2ec A2A_B | c2Ac _B2^GB |1 A2A2 A3 f :|2 A2A2 A3 G |] 
+V:2
+|:"^2""F" A,2CF A2Ac |"Gm" (cB)BG D4 |"C7" E2Gc (ec)GB |"F" (A^G)AB (cA)FC | 
+A,2CF A2Ac | "Gm" (cB)BG D4 |"C7" E2Gc (ec)GB |1,8 "F" A2A2 A4 :|2 "F" A2A2 A2>d2 |:
+[K:C]"Dm" f2fd A2Ad | "Am" c2cA E2E^G |"Am" A2EA "E7" ^G2ED |"Am" C2A2 E2C2 |
+"Dm" f2fd A2Ad |"Am" c2cA E2E^G |"Am" A2EA "E7" ^G2ED |1 "Am" C2C2 "^B.O." C2>d2 :|2 "Am" C2C2 "C7" C2>_B,2 |]
+

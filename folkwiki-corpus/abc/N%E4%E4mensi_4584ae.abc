@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Näämensi
+O:Malå, Lappland
+C:Michael Boman 2019
+R:Hambo
+H:Näämensi är dialekt och betyder, "Nej så är det inte".
+M:3/4
+L:1/8
+Q:140
+K:D
+V:1
+"D" AdA2GF|"G" G2B2B2|"A" ABcBA2 |"D" defed2 |
+"D" AdA2GF|"G" G2B2B2|"A" ABcBA2 |1 "D" d2d2z2:|2 "D" d2d2d2|
+|: "A" e2ecAg|"D" f2fed2|"A" e2ecAc|"D" dcdef2|
+"A" e2ecAg|"D" f2fed2|"A" e2ecAc |1 "D" d2d2d2:|2 "D" d2d2d2|
+|: "A" c2cde2|"D" d2def2|"G" g2gfe2|"D" f2fed2|
+"A" c2cde2|"D" d2def2|"G" g2f"A"ece |1 "D" d2d2d2:|2 "D" d2d2z2|
+V:2
+d2d2d2|B2G2G2|cdedc2|FGAGF2|
+d2d2d2|B2G2G2|cdedc2|1A2A2z2:|2A2A2A2|
+|:A2B2A2|F2G2F2|A2B2A2|FEFGA2|
+A2B2A2|F2G2F2|A2BAGA|1F2F2F2:|2F2F2F2
+|:A2B2A2|F2G2A2|B2A2G2|A2G2F2|
+A2B2A2|F2G2A2|B2AGFG|1F2F2F2:|2F2F2z2|
+

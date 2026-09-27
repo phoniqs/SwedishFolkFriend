@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Olof Tillman
+S:Olof Tillman
+O:Dala-Floda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Arr. [[Personer/Lille Bror Söderlund]]
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" ([DA]>d) (F>A) (D>F) | (G>B) (E>G) B,2 | (A,>C) (E>A) (c>e) | (d>f) (A>G) F>A | 
+([FA]>d) (F>A) (D>F) | (G>B) E>G B,2 | (A,>C) (E>A) (c>e) | d2 d4 ::
+T gf/g/ (b>g) e>g | T fe/f/ (a>f) d>f | eg (Bd) ce |(d>A) (F>A) D2 |
+T gf/g/ b>g e>g |T fe/f/ a>f d>f | (eg) (Bd) (ce) | d2 d4 ::
+[K:G]{f} g>d B2 B>d | c>e A2 A>G | (FA) (df) (af) | g>b d4 | 
+{f} g>d B2 B>d | [Ec]>e A2 A>G | (FA) (df) (af) | g2 [Bg]2 z2 :| 
+V:2
+|:"^2" F2 (D>C) B,>A, | (B,>E) (G>B) (e>d) | [Ec]2 [Ec]2 A,2 | [DA]2 (F>E) D>A, | 
+D2 C2 =C2 | (B,>E) (G>B) (e>d) | [Ec]2 [Ec]2 [GA]2 | [FA]2 [FA]4 :: 
+[G,DB]A/B/ (d>B) G>B | [DA]G/A/ f>d [FA]2 | [GB]2 [^GB]2 A2 | [FA]2 (D>F) (D/C/B,/A,/) | 
+[G,DB]A/B/ d>B G>B | [DA]G/A/ f>d [FA]2 | [DB]2 ([G,D][DB]) [GA]2 | [FA]2 [FA]4 ::
+[K:G] B>B (G2 F2) | [G,E]2 [CE]2 [^CE]2 | (DF) ([FA]d) (fd) | B>d ([GB]2 [FA]2) |
+B>A (G2 ^G2) | (A>G) F2 E2 | (DF)"^Arr. Lille Bror Söderlund." ([FA]d) (fd) | [DB]2 [G,D]2 z2 :|
+

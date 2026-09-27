@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:6362
+T:Jämtpolska efter Per Viksten
+R:Polska
+O:efter Gunnar Daehli, n Tröndelag
+Z:Abc Lennart Sohlman
+N:SvL JH nr 178
+N:Förslag till stråkfrasering/arr L Sohlman
+M:3/4
+L:1/8
+Q:1/4=150
+K:D
+V:1
+(A>G) (F>G) EG|(F>G) (A>B) cd|(e>f) (g>e) fd|(3c(Bc) (3d(cB) (A2-|!
+{B}A>G) (F>G) EG|(F>G) (A>B) cd|(e>f) (g>e) dd|[1(3(cBc) [d4D4]:|[2(3(cBc)[d3D3](A|:!
+d>)(f a>)f  (f>e)|e>(g b>)(g e>)c|(3d(ef) (3g(eg) (3f(ed)|(3c(Bc) (3d(Bd) c>A|!
+d>(f a>)f  (f>e)|e>(g b>)(g e>)c|(3d(ef) (3g(eg) (3f(ed)|[1(3(cBc) [d3D3](A:|[2 (3(cBc)[d4D4]|]
+V:2
+(F>E) (D>E) CE|(D>E) (F>G) AF|A2 (e>c) dA|A2 F2 (E2|!
+F>E) (D>E) CE|(D>E) (F>G) AF|A2 (e>c) dA|[1(3(GEG) [F4A4]:|[2(3GEG) [F3A3](E|:!
+A>)(d f>)d (d>A)|A>(e g>)(e c>)A|(3A(cd) (3e(ce) (3d(cA)|(3A(GA) (3B(GB) A>F|!
+A>(d f>)d (d>A)|A>(e g>)(e c>)A|(3A(cd) (3e(ce) (3d(cA)|[1(3(GEG) [F3A3](E:|[2(3(GEG)[F4A4]|]
+

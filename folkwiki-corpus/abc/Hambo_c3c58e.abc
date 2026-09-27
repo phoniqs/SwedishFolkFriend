@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:4
+T:Hambo
+O:Sandviken, Gästrikland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+C:Edvin Holmberg
+B:Låtar för fiol av Edvin Holmberg
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (G,>B,) (DG) BG | (A,>C) EA c2 | (D>F) (Ad) cF | (G>d) (BG) DB, | 
+(G,>B,) (DG) BG | (A,>C) EA c2 | (D>F) (Ad) cF | G2 g4 :: 
+(g>d) (BG) DB, | (e>c) AE C2 | (D>F) AF d2 | (G>B) dB g2 | 
+(g>d) (BG) DB, | (e>c) AE C2 | (D>F) (AF) dF | G2 G4 :: 
+(B>c) (BA) GD | (c>d) cB A2 | (F>G) (FE) DC | (B,>C) B,A, G,2 | 
+(d>e) (dc) BG | (e>f) ed c2 | (f>e) (dc) FA | G2 g4 :| 
+V:2
+|:"^2" (B,>D) (GB) dB | (C>E) Ac e2 | (A,>D) (FA) FD | (B,>B) (GD) B,G, | 
+(B,>D) (GB) dB | (C>E) Ac e2 | (A,>D) (FA) FD | B,2 B4 :: 
+(d>B) (GD) B,G, | (c>A) EC A,2 | (A,>D) FD A2 | (B,>D) GD B2 | 
+(d>B) (GD) B,G, | (c>A) EC A,2 | (A,>D) (FD) AD | B,2 B,4 :: 
+(G>A) (GD) B,G, | (A>B) AE C2 | (d>e) (dc) AF | (D>E) DC B,2 | 
+(B>c) (BA) GD | (c>d) cA E2 | (d>c) (AF) DC | "^Stämförslag B.O." B,2 B4 :|
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambopolska efter Ingvar Norman
+S:Ingvar Norman
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(9) Hambo-polska från Södra Dalarna"
+L:1/8
+M:3/4
+K:A
+V:1
+"^1"u c |: (e>a) (c>e) A>c | (de/d/) B2 d>E | (E>G) (B>e) G>B | (Bc/B/) (A>c) e>c | 
+(e>a) (c>e) A>c | (de/d/) B2 d>E | (E>G) (B>e) G>B |1 (Bc/B/) A3u c :|2 (Bc/B/) A3v f |:
+[K:D] a>(gT f>e) d>c | cd/c/ B2 G>f | f>g (e>A) c>e | ef/e/ (d>F) A>f | 
+a>gT f>e d>c | cd/c/ B2 G>f | f>g (e>A) c>e |1 ef/e/ d3v f :|2 ef/e/ d3 |] 
+V:2
+"^2" A |:"A" c>e (A>c) E>A |"Bm" FG/F/ D2 F>B, |"E7" B,>E (G>B) E>D | "A" DE/D/ (C>E) A>A | 
+c>e (A>c) E>A |"Bm" FG/F/ D2 F>B, |"E7" B,>E (G>B) G>E |1 "A" DE/D/ C3 A :|2 "A" DE/D/ C3 d |: 
+[K:D]"D" f>(e d>A) F>A |"Em" AB/A/ G2 E>A |"A7" A>B (G>E) A>G |"D" GA/G/ (F>D) F>d | 
+"^Stämförslag B.O." f>e d>A F>A | "Em" AB/A/ G2 E>A |"A7" A>B (G>E) A>G |1"D" GA/G/ F3 d :|2"D" GA/G/ F3 |]
+

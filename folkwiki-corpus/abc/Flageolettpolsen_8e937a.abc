@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Flageolettpolsen
+S:Hilmar Alexandersen
+O:Nord-Tröndelag, Norge
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fageolettpolsen efter Hilmar Alexandersen, Nord-Tröndelag, Norge. Från CD Frå setervoll til dansargolv. Geir Egil Larsen og tjukke slekta."
+L:1/8
+M:3/4
+K:A
+V:1
+"^1" (e |:"^Flag." e'2) e'>(e c'>)e | a>(e c/e/c) A>c | (c>B) (B>c) d>e | (fg/f/) e3 e | 
+"^Flag." e'2 e'>(e c'>)e | a>e c/e/c A>c | c>B (B>c) d>G |1 Bc/B/ A3 e :|2 Bc/B/ A4 |: 
+A2 c>e a>g | g2 f/>g/f/e/ f>e | E2 G>B g>f | e2 e>^d e>c | 
+A2 c>e a>g | g2 f/>g/f/e/ f>e | d>c (Be) f>g | {g} a2 a3 z :| 
+V:2
+"^2" c |: a2 a2 e>c | c2 A2 E>A | A>G (G>A) B>c | d2 c3 c | 
+a2 a2 e>c | c2 A2 E>A | A>G (G>F) E>D |1 D2 [CE]3 c :|2 D2 [CE]4 |: 
+E2 (A>c) c>e | e2 (d>c) d>B | "^Från CD  Frå setervoll til dansargolv.""^Geir Egil Larsen og \"tjukke slekta\"." B,2 (E>G) B>d | c2 (c>B) c>A | 
+E2 (A>c) c>e | e2 (d>c) d>c | (B>A) (GB) d>e | "^Stämförslag B.O." c2 [ce]3 z :|
+

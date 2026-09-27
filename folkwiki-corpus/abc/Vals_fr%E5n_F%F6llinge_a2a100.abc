@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals från Föllinge
+S:Efter A Wikman
+O:Föllinge, Jämtland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Lämplig dans: Stigvals efter Ernst Grip."
+L:1/8
+M:3/4
+K:A
+V:1
+"^1" fed |: c2 (.A.A) AA | (AB) (cd) e=f | f2 (.d.d) dc | d3 bba | g2 (.e.e) ee | 
+(ef) (ga) b=c' | c'2 (.a.a) ag | a3 fed | c2 (.A.A) AA | (AB) (cd) e=f | f2 (.d.d) dc | 
+d3 bba | g2 (.e.e) ee | (ef) (ga) b=c' | c'2 (.a.a) ag |1 a2 z fed :|2 a4 e2 |: 
+e2 (cA) ce | e2 (cA) ce | e2 (^de) fe | B4 B2 | B2 (GE) GB | B2 (GE) GB | 
+B2 (^AB) cB | A4 e2 | e2 (cA) ce | e2 (cA) ce | e2 (^de) fe | B4 B2 | 
+B2 (GE) GB | B2 (GE) GB | (gf) (ed) cB |1 A4 e2 :|2 A4 z2 |] 
+V:2
+"^2" ccB |: A2 E2 E2 | (CD) (EF) =G^G | A2 (.F.F) FE | F3 ddc | B2 G2 G2 | (GA) (Bc) d^d | 
+e2 (.c.c) cB | c3 ccB | A2 E2 E2 | (CD) (EF) =G^G | A2 (.F.F) FE | F3 ddc | B2 G2 G2 | 
+(GA) (Bc) d^d | e2 (.c.c) cB |1 c2 z ccB :|2 c4 c2 |: c2 (AE) Ac | (cA) (EC) EA | c2 (Bc) dc | 
+G4 G2 | G2 (EB,) EG | (GE) (DB,) DE | G2 (FG) ED | C4 c2 | "^Lämplig dans: Stigvals efter Ernst Grip." c2 (AE) Ac | (cA) (EC) EA |
+ c2 (^Bc) dc  | G4 G2 | G2 (EB,) EG | (GE) (DB,) DE | (BA) (GF) ED |1"^Stämförslag B.O." C4 c2 :|2 C4 z2 |]
+

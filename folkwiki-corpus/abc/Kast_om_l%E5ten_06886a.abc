@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Kast om låten
+R:Polka
+O:Alfta, Hälsingland
+S:Bengt Jonsson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 3. Kast om låten"
+L:1/8
+M:2/4
+K:G
+V:1
+|:"^1" .d(B/c/ .d)B/c/ | .de/d/ (c/"^Alfta"B/)A/B/ | .cA/B/ .cA/B/ | .cd/c/ (B/A/)G/B/ | 
+.dB/c/ .dB/c/ | .de/f/ .gf/e/ | .d(e/d/) (c/B/)c/A/ | .G.B .G z :: 
+b2 a/g/f/e/ | .d.B .G.g | g/f/e/d/ (^c/d/)(e/f/) | .g.b .d z | 
+b2 a/g/f/e/ | .d.B .G.g | g/f/e/d/ ^c/d/e/f/ | .g.g .g z :: 
+[M:3/4] G>A (B>c) B>A | c>B (A>B) A>G | F>G (A>G) F>A | d>c (B>c) B>A | 
+G>A (B>c) B>A | c>B (A>B) A>G | F>G (A>G) F>A | G2 G2 z2 :| 
+V:2
+|:"^2" .BG/A/ .BG/A/ | .Bc/B/ (A/G/)F/G/ | .AF/G/ .AF/G/ | .AB/A/ (G/F/)D/G/ | 
+.BG/A/ .BG/A/ | .Bc/d/ .ed/c/ | .B(c/B/) (A/G/)F/D/ | .B,.D .B, z :: 
+g2 f/e/d/c/ | .B.G .D.e | e/d/c/A/ (F/A/)(c/d/) | .B.d .G z | 
+g2 f/e/d/c/ | .B.G .D.e | e/d/c/A/ F/A/c/d/ | .B.B .B z :: 
+[M:3/4] B,>D (G>A) G>F | A>G (F>G) F>E | D>E (F>E) D>F | B>A (G>A) G>D | 
+B,>D (G>A) G>F | A>G (F>G) F>E | D>E (F>E) D>C | B,2 B,2"^B.O." z2 :|
+

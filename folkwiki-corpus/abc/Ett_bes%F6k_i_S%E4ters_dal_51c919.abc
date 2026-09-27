@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Ett besök i Säters dal
+T:Gånglåt
+C:Jon-Erik Hall
+O:Hassela, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]] (Nr 35 i Hall-samlingen)
+Q:80
+L:1/16
+M:4/4
+K:Dm, F
+V:1
+|: A2A2 d2^cB (A2G2) F2[A,E]2 | F4 E2E2 D8 | A2A2 f2ed ^c2de d2A2 |  [eg]4 [df]2[df]2 [^ce]8 |
+ a2ba g2ag f2d2 e2^c2 | d2ed c2dc B2G2 A2F2 | D^CDF A2=B^c d2A2 g4 | f2ed e2^c2 d2d2 d4 :: 
+(FE)FA c2F2 d2cB A2F2 | f2ef (ag)fe (g2B2) B4 | (G^F)GA B2G2 e2dc B2G2 | (CD)EF G2AB (d2A2) A4 | 
+(FE)FA c2F2 d2cB A2F2 | (fe)fg (aA)^ce (gf)ef d4 | (d^c)de (gf)ed =cafc A2F2 |1 
+(CD)EF (GA)BA E2AG F4 :|2 (CD)EF (GA)Bd c2ag f4 |: (ba)g^f (gB)dg (ag)=fe (fA)cf |
+ (ed)c=B (c_B)GE FA,CF (Ac)(fa) |  (ba)g^f (gB)dg (ag)=fe (fA)cf | (ed)c=B (c=b)ge [Af]2[Af]2 [Af]4 :| 
+V:2
+|:"Dm" A,2A,2 [A,F]2[A,A][A,G] ([A,F]2[A,E]2) [A,D]2^C2 | [A,A]4"Am" [A,G]2[A,G]2 "Dm" [A,F]8 | A,2A,2 [DA]2[EA][FA] [GA]2[GA]2 [FA]2[FA]2 | "Am" [G^c]4 [FA]2[FA]2 [A,E]8 | 
+"Dm" f2gf e2fe "Am" [FA]2[FA]2 [GA]2[GA]2 |"Gm" B2cB A2BA"Dm" [CE]2[CE]2 [A,F]2[A,F]2 | [A,D]2[A,D]2 [^CE]2[^CE]2 [DF]2[DF]2 "Gm" [G,DB]4 | "Dm"[DA]2[EA][FA] "A7"[GA]2[GA]2 "Dm"[FA]2[FA]2 [FA]4 :: 
+"F" [A,F]2[A,F]2 [CA]2[CA]2 [A,F]2[A,F]2 [CA]2[CA]2 | [FA]2[FA]2 [Ac]2[Ac]2"C7" [GB]2[CE]2 [CE]4 | 
+[CE]2[CE]2 [EG]2[EG]2 [CE]2[CE]2 [EG]2[EG]2 | "F" [CE]2[CE]2  [GB]2[GB]2  [FA]2[CA]2 [CA]4 | 
+ [A,F]2[A,F]2 [CA]2[CA]2 [A,F]2[A,F]2 [CA]2[CA]2 | [A,F]2[A,F]2 "Am" [^CA]2[^CA]2 "Dm" [DF]2[DF]2 [DF]4 | "Bb" [B,D]2[B,D]2 [B,G]2[B,G]2 "F" [A,F]2[A,F]2  [CA]2[CA]2 |1 
+"C7" [G,E]2[G,E]2 [CG]2[CG]2 [B,E]2[B,E]2 "F" [A,F]4 :|2 "C7" [G,E]2[G,E]2 [CG]2[CG]2 [GB]2[GB]2 "F" [FA]4 |: "Bb" (GA)BA BGBd "F" (FG)AG (AF)Ac |
+"C7" (cB)A^G B=GEC "F" CA,A,C (FA)(cf) | "Bb" (dc)BA BGBd "F" (cB)AG (AF)Ac | "C7" (cB)A^G BceB"F" [Fc]2[Fc]2 [Fc]4 :|
+

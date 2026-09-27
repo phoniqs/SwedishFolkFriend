@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:533
+T:Vals efter Axel Axelsson, efter fadern
+T:(OA 533)
+B:Sörmländska låtar samlade av Olof Andersson nr 533
+R:Vals
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:Melker Andersson hade lärt valsen av en flicka som spelade fiol
+Z:Anders Larsson 2025-04-19
+M:3/4
+L:1/4
+Q:130
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+B3/2 A/ B | c3/2 B/ c | d3/2 e/ d | B D d |  B3/2 G/ D | B D d | B3/2 G/ D |
+B3/2 A/ B |  c3/2 B/ c | d3/2 c/ d | e2 z | e c A |  F E F | G/F/ G/B/ A/F/ |1 G2 z :|2 G2 e |:
+e/d/ B/d/ B/G/ | e/d/ B/d/ B/G/ | e/d/ B/d/ c/A/ | F2 F |  A3/2 f/ f | f3/2 e/ e | A3/2 f/ e | d3/2 d/ d/c/ ::
+B/c/ d G | G/A/ B D | D/E/ F/G/ A/B/ | c2 c |  c/e/ e/F/ F/A/ | A2 c | c/B/ B/d/ G/B/ | D2 c |
+B/c/ d G | G/A/ B D | D/E/ F/G/ A/B/ | c2 c |  c/e/ e/c/ A/c/ | c/B/ B/d/ G/B/ | B/A/ A/c/ F/A/ | G2 z :|
+

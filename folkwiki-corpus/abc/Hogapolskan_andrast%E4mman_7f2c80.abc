@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Hogapolskan (andrastämman)
+C:Hilding Nordin
+O:Sörhoga, Forsa, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Uppt. och arr. [[Personer/John Eriksson]]
+L:1/16
+Q:1/4=108
+M:3/4
+K:Dm
+V:2
+|:"^2" D4 F4 D4 | [EA]4 [Ae]4 [^ce]4 | e2fe d2fd ^c2A2 | [GA]4 [FA]4 D2^C2 | 
+D4 F4 D4 | [EA]4 [Ae]4 [^ce]4 | e2fe d2fd ^c2A2 | [GA]4 [FA]8 :: 
+D4 F4 A4 | (!>!A2>!>!A2) B2A2 [GA]2[EA]2 | ^C4 E4 A4 | (BA)FD BAFD (BA)FD | 
+F4 A4 [DA]4 | [Af]4 (3(^CEA) (3eAE (3(CEA) (3eAE | (3(^CEA) (3eAE (3(CEA) (3eAE (3(CEA) (3(eAE) | (3(^CEA) (3eAE (3(CEA) (3eAE (3(CEA) (3(eAE) | 
+!>!F2>!>!E2 D2^C2 =B,2D2 | [^CE]4 [CE]4 [CE]4 | (ag)fe x8 | [Dd]4 [FA]8 :: 
+[Af]2[Af][Af] ([Ag][Af])[Af][Af] ([Ag][Af])[Af][Af] | [Be]2[Be][Be] ([ce][Be])[Be][Be] ([ce][Be])[Be][Be] | [DA]2[DA][DA] ([DB][DA])[DA][DA] ([DB][DA])[DA][DA] | [FA]2G2 [EA]4 [^CE]4 |
+ D4 D4 D4 | G2GG (AG)GG AGGG | [A,F]4 [A,F]4 [A,E]4"^Uppt. och arr. John Eriksson." | [A,G]2[A,E]2 [A,F]4 [A,F]4 :| 
+

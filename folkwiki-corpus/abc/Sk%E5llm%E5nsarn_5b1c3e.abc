@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Skållmånsarn
+T:Schottis
+C:Hilding Nordin
+O:Forsa, Hälsingland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+N:"Av Hilding Nordin, Sörhoga, Forsa."
+N:"Arr. [[Personer/John Eriksson]]."
+L:1/16
+M:2/4
+I:linebreak $
+K:D
+V:1
+|:"^1" D2FA d2FA | ABAF G2[A,E]2 | [A,E]2Ac (ec)Ac | d2fd (AG)FE | 
+D2FA d2FA | ABAF G2[A,E]2 | [A,E]2Ac (ec)Ac | e2d2 d4 :: 
+faaf efdf | cfBf A2A2 | Agec A2A2 | AdAF D2D2 | 
+faaf efdf | cfBf A2A2 | Agec Acec | d2d2 d4 :: 
+DFAF [FB]2[FA][FA] | [Fd]2[FA][FA] [FB]2[FA]2 | (GA)(eA) (GA)(eA) | (DA)(fA) (DA)(fA) | 
+DFAF [FB]2[FA][FA] | [Fd]2[FA][FA] [FB]2[FA]2 | AGEC A,CEC | E2D2 [A,D]4 :| 
+V:2
+|:"^2" A,2DF A2DF | FGFD E2C2 | [CE]2GA (cA)GA | F2AF (FE)DC | 
+A,2DF A2DF | FGFD E2C2 | [CE]2GA (cA)GA | [GA]2[FA]2 [FA]4 :: 
+dffd caBa | AaGA FAdA | (GA)(cA) (GA)(cA) | (FA)(dA) (FA)(dA) | 
+dffd caBa | AaGA FAdA | (GA)(cA) (GA)(cA) | [FA]2[FA]2 [FA]4 :: 
+[DA]2[Dd][Dd] [Dd]2[Dd]2 | [DA]2[Dd][Dd] [Dd]2[Dd]2 | ([A2E2]G2) ([A2E2]G2) | ([A2D2]F2) ([A2D2]F2) | 
+[DA]2[Dd][Dd] [Dd]2[Dd]2 | [DA]2[Dd][Dd] [Dd]2[Dd]2 | agec Acec | "^Arr. John Eriksson." [GA]2[FA]2 [FA]4 :|
+

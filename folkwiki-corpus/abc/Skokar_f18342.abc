@@ -1,0 +1,42 @@
+%%abc-charset utf-8
+
+X:101
+T:Skokar
+T:(Sv Folkdanser Del 1)
+R:Långdans
+O:Viken, Höganäs, Skåne
+S:Efter [[Personer/Kristian Schönhult]], Viken.
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 101. Skokar"
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 101
+Z:http://runeberg.org/folkdans/besk/0251.html
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" d>c AF | G4 |:[K:G][M:2/4][K:treble]"^Dans""^(1)" B>A Bc | d3 c | Bd gf | e2 d2 | B>A Bc | d3 B | d>c AF | G4 ::
+"^(2)" D2 Bc | B2 AB | c>A FA | GB D2 | D2 c2 | B2 AB | d>c AF | G4 ::
+"^(3)" D>F Ac | B2 A2 | D>F Ac | c2 Bc | d2 ef | g3 f | e>d cB |1 B2 A2 :|2 A4 |:
+"^(4)" d2 d2 | e2 e2 | f>e f>a | g2 g2 | d2 d2 | e2 e2 | f>e f>a | g4 ::
+"^(5)" B>c BA | GF GA | B>A FA | G4 | e2 d2 | c2 BA |1 GB dc | B2 A2 :|2 GB dG | A4 |: 
+"^(6)" D>F "^Spelas:  1-5,  2-9,  8-11."Ac | B2 A2 | D>F AB | c2 Bc | d2 eg | fa g2 | 
+d2 eg | fa g2 | d2 dc | B2 GB | d>c AF | G4 ::
+"^(7)" g2 d2 | BA G2 | DF Ag | fa g2 | g>f ge | fg ag | f>e ce | d4 ::
+"^(8)" d>d d2 | c'2 a2 | d>d d2 | b2 g2 | fa g2 | Bc dg | f>e dc | AF G2 ::
+"^(9)" d>d d2 | g2 f2 | e2 d2 | cB (A2 | A3) B | c2 ag | f>e ce | d4 ::
+"^(10)" d>^c d>e | f2 f2 | e>d e>f | g2 g2 | A>G AB | c2 ed | c>A FA | G4 ::
+"^(11)" g2 d2 | BA G2 | DF Ag | fa g2 | 
+g>f ge | fg ag |1 f>e ^ce | d4 :|2 f>e df | g4 |] 
+V:2
+"^2" "D7"B>A FD | "G"B,4 |:[K:G][M:2/4][K:treble] "G"G>F GA | B3 A | GB ed | c2 B2 | G>F GA | B3 G | "D7"B>A FD | "G"B,4 :: 
+"G"B,2 GA | G2 FG | "D7"A>F DC | "G"B,D B,2 | B,2 A2 | G2 FG | "D7"B>A FD | "G"B,4 :: 
+"D7"A,>D FA | G2 F2 | A,>D FA | "G"A2 GA | B2 cd | B3 A | c>B AG |1 "D7"G2 F2 :|2 "D7"F4 |: 
+"G"B2 B2 | "Am"c2 c2 | "D7"d>^c d>=c | "G"B2 B2 | B2 B2 | "Am"c2 c2 | "D7"d>^c d>=c | "G"B4 :: 
+"B7"^D>E DF | "Em"EB, EF | "B7"^D>F DF | "Em"E4 |"G" c2 B2 | A2 GF |1 B,G BA |"D7" G2 F2 :|2"G" B,G BB, |"D7" C4 |:
+"D7" A,>D FA | G2 F2 | A,>D FG | A2 GA | A2 ce | "G" dc B2 |"D7" F2 GB |"G" Ac B2 | B2 BA | G2 DG |"D7" B>A FD |"G" B,4 ::
+"G" B2 G2 | DC B,2 | "D7" A,D FB |"D7" Ac"G" B2 |"G" B>A BG |"D7" AB cB | A>G EG |"D7" F4 ::
+"D7" A>A A2 | a2 f2 | "G" B>B B2 | g2 d2 |"D7" cd B2 |"G" GA BB |"D7" d>c BA |"D7" FD"G" B,2 ::
+"G" B>B B2 | e2 d2 | c2 B2 | "D7"AG (F2 | F3) G | A2 fe | d>c Ac |"G" B4 ::
+"D" F>E F>A | d2 d2 |"A7" G>F G>B | e2 e2 | E>D EG |"Am" A2 cB |"D7" A>E DC |"G" B,4 :: 
+"G"B2 G2 | GD B,2 | "D7"A,D FB | "G"Ac B2 | "^Stämförslag B.O." B>A BG |"D7" AB cB |1"A7" A>G EG |"D7" F4 :|2 "D7" A>G FA |"G" B4 |]
+

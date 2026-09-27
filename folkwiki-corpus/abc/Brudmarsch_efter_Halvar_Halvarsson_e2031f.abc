@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch efter Halvar Halvarsson
+S:Halvar Halvarsson
+O:Klövsjö, Jämtland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Arr. Artur Nestler"
+L:1/8
+Q:1/4=80
+M:2/4
+K:D
+V:1
+"^1" f |: a>d' af | d3 A | d>A df | e3 d' | b2 ge |
+ cA Bc |1 d/>e/d/c/ de | fg af :|2 d/>e/d/c/ df | [Fd]3 f |: 
+a>b{ab} ag | fa d'c' | b>c'{bc'} ba | g3 f | e>f ed |1 
+ce ag | f>g ab | {ab} af g^g :|2 cA Bc | d/>e/d/c/ df | [Fd]3 |] 
+V:2
+"^2" A |: [df]2 [df]A | F2 FD | D>F Ad | c/>d/c/B/ c/d/e/f/ | 
+g2 ec | AG FE |1 F>E FG | AG FA :|2 F>E FE | [DA]3 d |: 
+A>G FE | DE FA | G2 G/>A/G/F/ | E/F/G/A/ Bd | c>A GF |1 
+EG FE | D>E FG | Ad dB :|2 EC A,2 | F/>G/F/E/ FE | [DA]3 |] 
+

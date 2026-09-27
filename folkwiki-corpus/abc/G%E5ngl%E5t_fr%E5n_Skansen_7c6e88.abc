@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:6
+T:Gånglåt från Skansen
+C:Eric Öst
+O:Hälsingland
+R:Gånglåt
+B:Spelmanshälsning
+Z:[[Personer/Bengt Ohlson]]
+Z:"Från LP."
+L:1/16
+Q:1/4=71
+M:2/4
+K:D
+V:1
+"^1" A2 |: "D" (A2d2) (dc)de | f2e2 d2c2 | "Em" (B2e2) (e^d)ef | g2f2 e2d2 | "A7" c2>d2 e2f2 | g2A2 c2e2 | 
+"D" f2>(e2 d2B2) | A6 A2 | "D" (A2d2) (dc)de | f2e2 d2c2 | "Em" (B2e2) (e^d)ef | g2f2 e2d2 | "A7" c2>d2 e2f2 | 
+g2A2 c2e2 | "D" d2cd "A7" (f2e2) |1 "D" d6 A2 :|2 "D" d6 e2 |:[K:A] "A" [ce]4 [ce]2Bc | "E7" [de]4 ([de]c)BA | 
+"E7" (GB)eg (b2g2) | "A" (a2e2) (dc)BA | "A" [ce]4 [ce]2Bc | "E7" [de]4 ([de]c)BA | "E7" (GB)eg (b2g2) |1 "A" a6 e2 :|2 
+"A" a6 a2 |: "D" (fa)fd (fa)fd | "A" (ea)ec (ea)ec | "E7" (Bd)eg (b2g2) | "A" (a2e2) (dc)BA | "D" (fa)fd (fa)fd | "A" (ea)ec (ea)ec | "E7" (Bd)eg (b2g2) |1 "A" a6 e2 :|2 "A" a6 z2 |] 
+V:2
+"^2" F2 |: (F2A2) (A^G)Ac | d2c2 B2A2 | (G2B2) (BA)Bd | e2d2 c2B2 | A2>B2 c2d2 | ^c2E2 G2c2 | 
+d2>(c2 B2G2) | F6 F2 | (F2A2) (A^G)Ac | d2c2 B2A2 | (G2B2) (BA)Bd | e2d2 c2B2 | A2>B2 c2d2 | 
+^c2E2 A2G2 | F2EF (A2G2) |1 F6 F2 :| F6 c2 |:[K:A] A4 A2GA | B4 (BA)GF | (EG)Be (g2e2) | 
+(c2c2) (BA)EC | A4 A2GA | B4 (BA)GF | (EG)Be (g2e2) |1 c6 c2 :|2 c6 c2 |: (df)dA (df)dA | 
+(ce)cA (ce)cA | (GB)de (g2e2) | (c2c2) (BA)EC | (df)dA (df)dA | (ce)cA (ce)cA | (GB)de (g2e2) |1 "^B.O." c6 c2 :|2 c6 z2 |] 
+

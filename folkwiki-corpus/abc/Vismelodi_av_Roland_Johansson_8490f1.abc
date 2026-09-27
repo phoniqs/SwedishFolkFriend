@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Vismelodi av Roland Johansson
+O:Säter, Dalarna
+R:Visa
+C:Roland Johansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Roland Johansson, Säter."
+L:1/4
+M:3/4
+K:C
+V:1
+"^1" G, | C/>E/ G E | F B,3/2 D/ | F F/>G/ B/>G/ | E2 G | A/>F/ C A | G E3/2 E/ | D/>E/ F B, | 
+C2 G, | C/>E/ G E | F B,3/2 D/ | F F/>G/ B/>G/ | E2 G | A/>F/ C A | G E3/2 E/ | 
+D/^F/ A/c/ B/A/ | G/>A/ G/F/ E/D/ | E/>F/ G E | F A3/2 A/ | G/>A/ G/F/ E/D/ | C c z |]
+"^Mellanspel" D/>E/ F D | E/>D/ E/>F/ G | ^F/>G/ A F | G2 F | E/>F/ G E | F A3/2 A/ | G/>A/ G/F/ E/D/ | C c z |] 
+V:2
+"^2" G, |"C" G,2 C |"G7" D2 G, | B,2 D |"C" C2 E |"F" F2 C |"C" C2 G, |"G7" B,2 G, | 
+"C" [CE]2 G, |"C" G,2 C |"G7" D2 G, | B,2 D |"C" C2 E |"F" F2 C |"C" C2 G, |"D7" A, C D | 
+"G7" B,2 B, |"C" C2 C |"F" A, C2 |"G7" B,2 G, |"C" E [CE] z |]"G7" B,2 G, |"C" C2 E | 
+"D7" D2 C |"G" B,2 B, |"C" C2 "C7"_B, |"F" A, C2 |"G7" "^Uppt. o. arr. B.O." B,2  G, | "C" E [CE] z |]
+

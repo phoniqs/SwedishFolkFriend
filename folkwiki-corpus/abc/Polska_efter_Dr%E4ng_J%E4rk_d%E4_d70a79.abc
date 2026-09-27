@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Dräng Järk d.ä.
+S:Dräng Järk den äldre
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" B- |: B>(A Bc) d2- | d>(B dg) b2- | b>a (a>g) g>f | f2 e3 e- | e>c AB c2- | 
+c>B Ad f2- | f>e f>g f>e | d2 B3 B- | B>A Bc d2- | d>B dg b2- | b>a b2 a>g | f2 e3 c- | 
+c>e a3 f | g>(B d3) g | f>(e d>c) A>F | G2 G4 :| B>A (Bd) d2- |: d>B (Bd) d2- | 
+d>c (ce) e2- | e>c (ce) e2- | e>a (a>g) f>e | d2 d/e/d/^c/ d>B | Bc (c>A) F>A |1 
+G>A B/A/B/c/ d2- | d>B (Bd) d2- :|2 G2 G4 |: g>f g2 B>d | d>c ce e2 | D>E F/E/F/G/ A>F | 
+G>A B/A/B/c/ d>d | g>f g2 B>d | d>c ce e2 | D>E F/E/F/G/ A>F | G2 G4 :| 
+V:2
+"^2" G- |: G>F GA B2- | B>G Bd g2- | g>f (f>e) e>d | d2 c3 c- | c>A FG A2- | A>G FA d2- | 
+d>c d>e d>c | B2 G3 G- | G>F GA B2- | B>G Bd g2- | g>f g2 f>e | d2 c3 G- | G>c e3 c | 
+d>(G B3) e | d>(c B>A) F>D | [B,D]2 [B,D]4 :| G>F (GB) B2 |: B>G (GB) B2- | B>E (Ec) c2- | 
+c>E (Ec) c2- | c>f (f>e) d>A | F2 F/G/F/E/ F>G | GA (A>F) D>C |1 
+B,>D G/F/G/A/ B2- | B>G (GB) B2 :|2 [B,D]2 [B,D]4 |: B>A B2 G>F | F>E Ec c2 | A,>^C D>(E F>)D | 
+B,>D G>(A B>)B | B>A B2 G>F | F>E Ec c2 | "^Stämförslag B.O."  A,>^C D>(E F>)D | [B,D]2 [B,D]4 :|
+

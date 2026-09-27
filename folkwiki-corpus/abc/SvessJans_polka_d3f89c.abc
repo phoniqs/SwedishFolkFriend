@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Svess-Jans polka
+S:Sveds-Johan Jansson
+O:Svärdsjö, Dalarna
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:Polka-slunga från Södra Dalarna efter Sveds-Johan Jansson, f.1841, Svärdsjö.
+L:1/8
+M:2/4
+K:A
+V:1
+"^1" e/d/ |: cE AC | (A/B/)c/d/ ee/f/ | eB d/c/B | Aa (g/f/)e/d/ | cE AC | (A/B/)c/d/ ee/f/ | 
+eB d/c/B |1 AA A e/d/ :|2 AA A2 |:[K:E] ([EB]/B/)(e/B/) ([GB]/B/)(e/B/) | [EB][Ba] [Bg]>g | gf a/g/f |
+ fe g/f/e | ([EB]/B/)(e/B/) ([GB]/B/)(e/B/) | [EB][Ba] [Bg]>g | gf a/g/f |1 ee e2 :|2
+ ee e e/=d/ || [K:A] cE AC | (A/B/)c/d/ ee/f/ | eB d/c/B | Aa (g/f/)e/d/ | cE AC | 
+(A/B/)c/d/ ee/f/ | eB d/c/B | AA A3/2 G/ |]:[K:D] FG ^GA | [Af]2 d>f | fe g/f/e | 
+ed f/e/d | FG ^GA | [Af]2 d>f | fe g/f/e |1 dd d3/2 G/ :|2 dd d z |] 
+V:2
+"^2" c/B/ |:"A" [Ae][Ae] [EA][EA] | (C/E/)A/B/ cc/d/ |"E7" BG B/G/E |"A" [CE][Ae] (e/d/)c/B/ | [Ae][Ae] [EA][EA] | (C/E/)A/B/ cc/d/ |
+"E7" BG B/G/E |1"A" [CE][CE] [CE] c/B/ :|2 "A" [CE][CE] [CE]2 |:[K:E] "E" (G,/E/)(B/E/) (B,/E/)(B/E/) | [G,E][EB] [Be]>e | "B7" ed f/d/B | 
+"E" AG B/A/G | (G,/E/)(B/E/) (B,/E/)(B/E/) | [G,E][EB] [Be]>e |"B7" ed f/d/B |1 "E" GG [GB]2 :|2 
+"E" GG [GB] c/B/ || [K:A]"A" [Ae][Ae] [EA][EA] | (C/E/)A/B/ cc/d/ |"E7" BG B/G/E |"A" [CE][Ae] (e/d/)c/B/ | 
+[Ae][Ae] [EA][EA] | (C/E/)A/B/ cc/d/ | "E7" BG B/G/E |"A" CC [CE]3/2 E/ |]:[K:D]"D" DE ^EF | [Fd]2 [FA]>d |"A7" dc e/c/A |
+"D" GF A/G/F |"^Stämförslag B.O." DE ^EF | [Fd]2 [FA]>d | "A7" dc e/c/A |1"D" FF [FA]3/2 E/ :|2"D" FF [FA] z |]
+

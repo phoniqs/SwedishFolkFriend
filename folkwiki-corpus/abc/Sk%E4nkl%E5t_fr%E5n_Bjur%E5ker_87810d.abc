@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Skänklåt från Bjuråker
+C:Mattias Blom
+R:Skänklåt
+O:Bjuråker, Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:2/4
+Q:100
+K:G
+V:1
+"^1" (DG) |: B4 G2DG | B4 G2DG | (B2G2) (DG)Bd | g6 (Bd) |
+c2cB A2ce | c2cB A2AG | FAD2 (FD)FA |1 [B,G]6 (DG) :|2 [B,G]6 (Bc) |: 
+d2dB (d2g2) | e2>(d2 c2)cB | ABAG (FG)AB | c6 (AB) | 
+c2cB (c2e2) | c2>(B2 A2)AG | FAD2 (FD)FA |1 [B,G]6 (Bc) :|2 [B,G]6 z2 |] 
+V:2
+"^2" (B,D) |: "G"G4 D2B,D | G4 D2B,D | (G2D2) (B,D)GB | B6 (GB) | 
+"D7"A2AG F2Ac | A2AG F2FE | "D7" D2A,2 D2C2 |1 "G" [G,D]6 (B,D) :|2 "G" [G,D]6 (GA) |:
+"G" B2BG (B2B2) | "C" c2>(B2 A2)AG | "D7" F2FE (DE)FG | A6 (FG) | 
+A2A^G (A2c2) | A2>(G2 F2)FE |"^Stämförslag B.O." D2A,2 D2C2 |1"G" [G,D]6 (GA) :|2"G" [G,D]6 z2 |]
+

@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Frösö
+O:Frösö, Jämtland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" D |: G>A Bc | d>c Bd | g>f ge | (d/e/)d/c/ BB/e/ | 
+(d/e/)d/B/ GF/G/ | AA F(E/D/) |1 G3 D :|2 G3 B |: 
+(A>G) (F/G/)A/B/ | c3 d | (B>A) (G/A/)B/c/ | d3 g | 
+(e>d) (c/B/)c/e/ | (d/e/)d/B/ GF/G/ | AA F(E/D/) |1 G3 B :|2 G3 z |] 
+V:2
+"^2" B, |: B,>D GA | B>A GB | e>d ec | (B/c/)B/A/ GG/c/ | 
+(B/c/)B/G/ B,B,/D/ | FF DC |1 [B,D]3 B, :|2 [B,D]3 G |: 
+(F>E) (D/E/)F/G/ | A3 B | (G>D) (B,/D/)G/A/ | B3 e | 
+(c>G) (E/D/)E/c/ | (B/c/)B/G/ B,B,/G/ | FF DC"^Stämförslag B.O." |1 [B,D]3 G :|2 [B,D]3 z |] 
+

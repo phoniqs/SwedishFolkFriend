@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Svensk Annas vals
+O:Rättvik, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Allm. version."
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" AFG |: A2 f3 e | d2 c2 B2 | A2 F3 G | A3 AFG | A2 f3 e | 
+d2 c2 d2 | e3 fe^d | e3 AFG | A2 f3 e | d2 c2 B2 | A2 F3 G | 
+A3 A^GA | B2 g3 f | e2 B2 c2 | d3 edc |1 [Fd]3 AFG :|2 [Fd]3 FFG |: 
+A4 f2 | A4 A2 | B4 g2 | B4 d2 | c2 E2 F2 | G3 FGA | 
+B2 A2 G2 | F3 FFG | A4 f2 | A4 A2 | B4 g2 | B4 d2 | 
+c3 dcB | A2 f2 e2 | d3 edc |1 [Fd]3 FFG :|2 [Fd]3 z2 z |] 
+V:2
+"^2" FDE |:"D" F2 A3 A |"G" B2 A2 G2 |"D" F2 D2 E2 | F3 FDE | F2 A3 B | 
+A2 G2 F2 |"A7" G3 AGF | G3 FDE |"D" F2 A3 A |"G" B2 A2 G2 |"D" F2 D2 E2 | 
+F3 FEF |"A7" G2 B3 A | G2 E2 G2 | F3 GFE |1 "D" [DA]3 FDE :|2"D" [DA]3 DDE |:
+"D" F4 A2 |"D7" D2 E2 F2 |"G" G4 B2 |"Em" E4 G2 | "A7" A2 C2 D2 | 
+E3 DEF | G2 F2 E2 |"D" D3 DDE | F4 A2 |"D7" D2 E2 F2 |"G" G4 B2 |"Em" E4 G2 | 
+"A7" A3 BAE | C2 A2 G2 |"D" F3 GFE |1"D" [DA]3 DDE :|2"D" [DA]3"^B.O." z2 z |]
+

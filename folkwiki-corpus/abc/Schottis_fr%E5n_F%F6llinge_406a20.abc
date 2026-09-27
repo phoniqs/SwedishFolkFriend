@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Föllinge
+S:A Wikman
+R:Schottis
+O:Föllinge, Jämtland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Föllinge (2) eft. A. Wikman."
+L:1/16
+M:2/4
+K:A
+V:1
+|:"^1" e>fed c2cB | A>cea c'2c'2 | c'>b(b/d'/b) e2ge | a2ae c2A2 | 
+e>fed c2cB | A>cea c'2c'2 | c'>b(b/d'/b) e2ge | a2a2 a4 :: 
+f2fa a>ggf | f>eea a>ecA | d2E2 E>GBG | B>AAc e4 | 
+f2fa a>ggf | f>eea a>ecA | d2E2 E>GBG | (Bc/B/)A2 A4 :| 
+V:2
+|:"^2" c>dcB A2AE | C>EAc e2e2 | e>d(d/e/d) G2BG | c2cA E2C2 | 
+c>dcB A2AE | C>EAc e2e2 | e>d(d/e/d) G2BG | c2c2 c4 :: 
+d2df f>eed | d>cce e>cAE | G2B,2 B,>EGE | E>CCA c4 | 
+d2df f>eed | d>cce e>cAE |"^Stämförslag B.O." G2B,2 B,>EGE | E2C2 C4 :|
+

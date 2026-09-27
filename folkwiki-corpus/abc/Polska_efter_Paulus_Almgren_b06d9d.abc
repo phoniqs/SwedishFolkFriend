@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Paulus Almgren
+S:Myrås-Pålle
+O:Torp, Medelpad
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Paulus Almgren (1864-1961), Torp
+Z:Uppt. Thorsten Karlsson
+Z:Arr. Sven Englund
+L:1/16
+M:3/4
+K:Gm
+V:1
+"^1" D2 |: G2>(A2 B4) G2B2 | (Ac)A^F G6 D2 | (G^F)GA (BA)Bc (d^c)d=e | f2fe (=eg)e^c d2>D2 | 
+G2>(A2 B4) G2B2 | (Ac)A^F G6 D2 | (G^F)GA (BA)Bc d2dB |1 (Ac)A^F G6 D2 :|2 (Ac)A^F G6 d2 |: 
+d2g2 (d2g2) (ga)gf | d2f2 (d2f2) (fg)fe | d4 (A2>c2) B2G2 | A2BA G2AG ^F2D2 |
+ d2g2 (d2g2) (ga)gf | d2f2 (d2f2) (fg)fe | d2ed c2dc B2G2 |1 (Ac)A^F G6 d2 :|2 AcA^F G6 z2 |] 
+V:2
+"^2" D2 |: B,2(A,2 G,4) B,2D2 | (C2A,2) [B,D]4 DCB,A, | (B,A,)B,D (G2A2) (BA)Bc | d2A2 G2A2 [^FA]4 | 
+B,2(A,2 G,4) B,2D2 | (C2A,2) [B,D]4 DCB,A, | (B,A,)B,D (G2B2) B2G2 |1 ^F2C2 [B,D]6 D2 :|2 ^F2C2 [B,D]6 B2 |:
+ B4 (G2B2) B2A2 | A2D2 (F2A2) (AB)AG | ^F4 (D2F2) G2D2 | C2DC B,2CB, A,2A,2 | 
+(B,2D2) (G2B2) B2A2"^Uppt. Thorsten Karlsson""^Arr. Sven Englund." | A2D2 (F2A2) (AB)AG | ^F2D2 E2DE =E4 |1 ^F2DC [B,D]6 B2 :|2 ^F2DC [B,D]6 z2 |]
+

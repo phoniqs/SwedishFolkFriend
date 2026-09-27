@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:73
+T:Mazurka från Jämtland
+T:(Sv Folkdanser Del 1)
+O:Jämtland
+R:Mazurka
+S:Lovisa Olsson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 73. Mazurka från Jämtland"
+Z:http://runeberg.org/folkdans/besk/0072.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 73
+Z:"Dansen efter Lovisa Olsson, Åsarna."
+L:1/8
+M:3/4
+U:t=tenuto
+K:G
+V:1
+"^1""^Förspel" (e>d) (^c>d) e>f | g2 g3 z |:[K:treble][K:G][M:3/4]"^Dans" B>c d2 b2 | (f>a) g>f g2 | B>c d2 g2 | f2 e>d e2 | 
+(A>B) (c>d) e>d | d>(c' f2) f>e |1 d>(c' f2) f>a | a2 g>f g2 :|2 (e>d) (^c>d) e>f | g2 g3 g |: 
+g>a g2 (B>g) | g>a g2 (B>d) | (c>B) (A>d) f>a |1 (g>f) (g>d) B>G :|2 g2 g4 |:
+[K:C] (e>d) c2 a>g | (g>e) e4 | (e>d) c2 a>g | (g>^f) f4 | (d>e) (^f>g) a>g | 
+(g>b) b4 |1 (b>a) a>^g a2 | (a>g) g>^f g2 :|2 (b>a) (g>B) e>d | c2 c4 |] 
+V:2
+"^2""D7" (c>A) (F>A) c>d |"G" B2 B3 z |:[K:treble][K:G][M:3/4]"G" G>A B2 d2 | (A>c) B>A B2 | G>A B2 B2 |"Am" d2 c>B c2 |
+"D7" (F>G) (A>B) c>A | A>(a c2) c>B |1 A>(a c2) c>c | "G" c2 B>A B2 :|2"D7" (c>A) (F>A) c>d |"G" B2 B3 B |:
+"G" B>c B2 (G>B) | B>c B2 (G>B) | "D7" (A>G) (F>A) d>c |1"G" (B>A) (tB>tB) G>D :|2"G" B2 B4 |: 
+[K:C]"C" (c>G) E2 ^f>e | (e>c) c4 | "^Önskat antal ggr." (c>G) E2 ^f>e |"G7" (e>d) d4 | 
+(B>c) (d>e) ^f>e | (B>^f) f4 |1 "^Stämförslag B.O." (g>^f) f>e f2 |"C"  (^f>e) e>d e2 :|2 "G7"(g>d) (B>G) B>G |"C" E2 E4 |]
+

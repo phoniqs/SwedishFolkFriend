@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Ångermanland
+S:Viktor Nordin
+O:Bjärtrå, Ångermanland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Viktor Nordin, (1888-1953),  Bjärtrå."
+L:1/16
+Q:1/4=76
+M:2/4
+K:A
+V:1
+|:"^1" E>AcB A2c2 | (ce)ac e2ea | g2Bc d2cB | (BA)Ac E4 | 
+E>AcB A2c2 | (ce)ac e2ea | g2Bc d2cB | (BA)AG A4 :: 
+(fg/f/)df a2gf | ecAc e2e2 | E2(GB) d2d2 | e>cAc e2e2 | 
+(fg/f/)df a2gf | ecAc e2e2 | E2GB (dB)GB |({Bc} BA){B}AG A4 :| 
+V:2
+|:"^2" C>EAF E2A2 | (Ac)eA c2cf | e2GA B2GE | (DC)CE C4 | 
+C>EAF E2A2 | (Ac)eA c2cf | e2GA B2GE | (DC)CB, C4 :: 
+d2Ad f2ed | cAEA c2c2 | B,2(EG) B2B2 | c>AEA c2c2 | 
+d2Ad f2ed | cAEA c2c2 | B,2EG (BG)ED | (DC)CB,"^B.O." C4 :|
+

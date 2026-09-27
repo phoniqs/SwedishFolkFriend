@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Skommar Fars gånglåt
+S:Skommar Far
+O:Rättvik, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Skommar-far."
+L:1/16
+M:2/4
+K:A
+V:1
+"^1" (Ac) |: "A" e2c2 e2a2 | (ef)edT c2Bc |"E7" d2dc (BG)B2 | "A" (ef)edT c2(Ac) | 
+e2c2 e2a2 | (ef)edT c2Bc |"E7" d2dB (EG)BG |"A" A6 (Ac) ::
+"A" [Ae]2[Ae]2"D" [Af]4 | "A"{ef} [Ae]2>(d2T c2)(Bc) |"E7" d2dc (BG)B2 |"A" (ef)edT c2Ac | 
+"A" [Ae]2[Ae]2"D" [Af]4 |{ef} [Ae]2>(d2T c2)(Bc) |"E7" d2dB (EG)BG |1"A" A6 (Ac) :|2 "A" A6 z2 |] 
+V:2
+"^2" (EA) |: c2A2 c2e2 | (cd)cB A2GA | B2BA (GE)G2 | (cd)cB A2EA | 
+c2A2 c2e2 | (cd)cB A2GA | B2BG (DE)GE | [CE]6 (EA) :: 
+[Ec]2[Ec]2 [Fd]4 | [Ec]2>(B2 A2)GA | B2BA (GE)G2 | (cd)cB A2EA | 
+[Ec]2[Ec]2 [Fd]4 | [Ec]2>(B2 A2)GA | B2BG (DE)GE |1 "^Stämförslag B.O." [CE]6 (EA) :|2 [CE]6 z2 |]
+

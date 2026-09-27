@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:9
+T:Slängpolska efter Hagströms-Erske
+O:Hassela, Hälsingland
+R:Slängpolska
+S:Erik Forslin
+S:Katrina Lundstedt
+S:Otôrgs-KaisaAbrahamsson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA. 09. Slängpolska efter Erik Forslin, (Hagströms-Erske) Hassela"
+Z:"Uppt. OKA -86."
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" (e>d) (c>f) ed | (c>B) (A>d) cB | (A>G) (A>B) cd | 
+(f>e) (d>c) BA | G>B E2 E2 | (e>d) (c>f) ed | 
+(c>B) (A>d) cB | (A>G) (A>B) cd | (f>e) (d>c) BA | (G>B) A2 A2 :: 
+(A>c) (B>d) cA | (A>c) (B>d) cA | (A>c) (B>d) cA | (B>G) A3 z :| 
+V:2
+|:"^2" (c>B) (A>d) cB | (A>G) (F>B) AG | (F>E) (F>G) AB | 
+(d>c) (B>A) GF | E>G B,2 B,2 | (c>B) (A>d) cB | (A>G) (F>B) AG | 
+(F>E) (F>G) AB | (d>c) (B>A) GF | (E>D) C2 C2 :: 
+(E>A) (G>B) AE | (E>A) (G>B) AE |"^Uppt. OKA -86. Stämförslag B.O. -08." (C>E) (D>F) EC | (D>B,) C3 z :|
+

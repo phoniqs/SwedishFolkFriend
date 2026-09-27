@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Jöns Jonas polska efter Laggar Anders
+S:Laggar Anders
+S:Jöns Jonas Hansson
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^\"Jöns Jonas´ polska\"" (c |: B>)(d B2) B>G | c>(e c2) c>B | A>(d f2) f>e | (e>c) d3 B | 
+d>(g b2) b>g | e>g c'2 c'>a | f>e (d>c) A>F |1 G2 G3 c :|2 G2 G3 (c |:
+T B>A) (G>B) e>d | (c>TB) (A>B) c>d | (f>e) (d>c) A>F | G>(gT f>e) d>c |
+T (B>A) (G>B) e>d | (c>TB) (A>B) c>d | (f>e) (d>c) A>F |1 G2 G3 c :|2 G2 G3 z |] 
+V:2
+"^2" (A |: G>)(B G2) G>E | A>(c A2) A>G | F>(A d2) d>c | (c>A) B3 G | 
+B>(d g2) g>d | c>e a2 a>e | d>c (B>A) F>D |1 B,2 B,3 A :|2 B,2 B,3 (A |: 
+G>D) (B,>G) c>B | (A>G) (F>G) A>B | (d>c) (B>A) F>D | B,>(e d>c) B>A | 
+(G>D) (B,>G) c>B | (A>G) (F>G) A>B | (d>c) (B>A) F>D |1 B,2 B,3 A :|2 "^Stämförslag B.O." B,2 B,3 z |]
+

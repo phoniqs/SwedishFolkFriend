@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:En kvällsvisa
+T:(Gånglåt från Sättna)
+O:Lidensboda, Medelpad
+S:Lina Skog
+S:Ante Tjärblom
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Text av kantor Th. Lindström, Fränsta, Medelpad, juli 1961. 
+Z:Melodi: Gånglåt från Sättna, Medelpad, efter Ante Tjärblom. Ursprungsmelodin från Lidensboda, sjungen av Lina Skog i Västanå.
+Z:Text: Nu leken är lyktad och dagen går ända. När glädje och gamman får bo i vårt sinn. Att plikterna fylla, men snart vi mötas igen. Vår dag var fri och glad. Nu vandra vi åstad. Hav tack då min vän. Ack stunderna ila. I drömmarnas värld vi så ljuvligt slumra in."
+L:1/8
+M:4/4
+K:D
+V:1
+A, |: D2 DF A2 FA | d>c dB A2 FD | G2 BB A2 FD |1 E>F GE/C/ D3 A, :|2
+ E>F GE/C/ D3 F |: E>D C/D/E/F/ G3 A | F>E D/E/F/G/ A3 F |
+ G2 BB A2 FD |1 E>F GE/C/ D3 F :|2 E>F GE/C/ D4 |] 
+V:2
+A, |: [A,D]2 [A,D]^C [=CF]2 [CF][CF] | [B,G]2 [B,G][B,G] [A,F]2 [A,F][A,F] | [B,E]2 [B,G][B,G] [A,F]2 [A,F][A,F] |1 [A,E]2 [G,E][G,E] [A,F]3 A, :|2
+ [A,E]2 [G,E][G,E] [A,F]3 D |: [CE]2 [A,E][A,E] EA, CE | [A,F]2 [A,F][A,F] F D ^C C |
+  [B,E]2 [B,G][B,G] [A,F]2 [A,F][A,F] |1 [A,E]2 [G,E][G,E] [A,F]3 D :|2"^Stämförslag B.O." [A,E]2 [G,E][G,E] [A,F]4 |] 
+

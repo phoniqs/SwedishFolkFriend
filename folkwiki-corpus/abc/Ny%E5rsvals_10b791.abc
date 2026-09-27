@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:29
+T:Nyårsvals
+T:Vals efter Jons-Axel Nr 29
+C:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Vals
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 29. Vals. Nyårs-vals av Axel Eriksson"
+L:1/4
+Q:1/4=132
+M:3/4
+I:linebreak $
+K:G
+V:1
+|:"^1"v g B d | g3/2 g/ g | "^Nyårs-vals av Axel Eriksson" g B d | g3/2 g/ g | f au a | a bu a | 
+g B e | d3/2 d/ d |v g B d | g3/2 g/ g | g B d | g3/2 g/ g | f au a | 
+a (b c') | d' d'u d' | g z2 ::v d bu b | b (a b) | c'3/2 c'/ c' | 
+e3/2 e/ e | d gu g | f (e f) | a3/2 g/ g | d3/2 d/ d | d bu b |"G7" b (a b) |
+c'3/2 c'/ c' | e3/2 e/ e | d gu g | f (e f) | g3/2 g/ g | g z2 :| 
+V:2
+|:"^2""G" B D G | B3/2 B/ B | B D G | B3/2 B/ B |"D7" A c c | c d c |"G" B G c | B3/2 B/ B | 
+B D G | B3/2 B/ B | B D G | B3/2 B/ B |"D7" A c c | c (d e) | f f c | "G" B z2 :: "G" B g g | "G7" g (f =f) | 
+"Am" e3/2 e/ e | c3/2 c/ c | "D7" A e e | d (^c =c) | "G" c3/2 B/ B | G3/2 G/ G | B g g | "G7" g (f =f) | 
+"Am" e3/2 e/ e | "^Stämförslag B.O." c3/2 c/ c |"D7" A e e | d (c A) | "G" B3/2 B/ B | B z2 :|
+

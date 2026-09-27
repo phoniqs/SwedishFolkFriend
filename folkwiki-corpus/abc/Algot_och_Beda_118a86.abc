@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Algot och Beda
+C:Pelle Schenell
+O:Hälsingland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Pelle Schenell"
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1""^Hambo-polska" d2 d2 d2 | (d/c/B/c/) d3 d | d>g B>d G>B | (B>A) (A>^G) A>B | c2 c2 c2 | 
+(c/B/A/B/) c3 c | (c>a) (f>d) e>d | (c>B) (B>A) B>c | d2 d2 d2 | (d/c/B/c/) d3 d | 
+d>g B>d G>B | (B>A) (A>^G) A>B | c2 c2 c2 | (c/B/A/B/) c3 c | (c>a) (f>d) e>f | g2 g2 z2 :: 
+B>A (G>B) D2 | c>B (A>c) E2 | (A>G) (F>A) D>F | G>A (B/A/B/c/) d2 | B>A (G>B) D2 | 
+c>B (A>c) E2 | (D>F) (A>d) f>a | g2 g4 :: [K:C] c2 B2 A2 | G>e e2 z2 | c2 B2 A2 | 
+G>^f f2 z2 | d2 c2 B2 | B>a a2 z2 | (a>g) (^f>e) f>a | a>g (e>d) e2 | c2 B2 A2 | 
+G>e e2 z2 | c2 B2 A2 | G>^f f2 z2 | d2 c2 B2 | (B>a) a2 z2 | (a>g) g2 B>d | c2 c2 z2 :| 
+V:2
+|:"^2" B2 B2 B2 | (B/A/G/A/) B3 B | B>d G>B D>G | (G>F) (F>^E) F>G | A2 A2 A2 | (A/G/F/G/) A3 A | 
+(A>f) (d>B) c>B | (A>G) (G>F) G>A | B2 B2 B2 | (B/A/G/A/) B3 B | B>d G>B D>G | (G>F) (F>^E) F>G | 
+A2 A2 A2 | (A/G/F/G/) A3 A | (A>f) (d>B) c>A | B2 [GB]2 z2 :: (D>C) (B,>D) G>F | (E>D) (C>E) A>G | 
+(F>E) (D>F) C>D | B,>D (G>A) B2 | (D>C) (B,>D) G>F | 
+(E>D) (C>E) A>G | (C>D) (F>A) c>d | B2 [GB]4 :: [K:C] (C>E) (G>c) B>A | G2 E>^F G2 | (C>E) (G>c) B>A | 
+B2 D>E ^F2 | (G,>B,) (D>G) B>d | (d>e) ^f2 z2 | (^f>e) (d>^c) d>f | ^f>e (c>B) c2 | (C>E) (G>c) B>A | 
+G2 E>^F G2 | (C>E) (G>c) B>A | B2 D>E ^F2 | (G,>B,) (D>G) B>d | (d>^f) f2 z2 | (c>B) B2 D>^F | E2 [CE]2 z2 :|
+

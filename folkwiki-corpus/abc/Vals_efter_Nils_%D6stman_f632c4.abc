@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals efter Nils Östman
+R:Vals
+O:Rogsta, Hälsingland
+S:Nisse Östman
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 24. Vals efter Nils Östman"
+L:1/8
+Q:1/4=160
+M:3/4
+K:G
+V:1
+"^1" (Bc) |: (d2 B2) b2 | g4 (fe) |"^Rogsta" (d2 G2) g2 | f4 e2 | 
+(d2 F2) e2 | (de) (dc) Bc | (dc) (Bc) AF |1,8 G4 (Bc) :|2 G4 G2 |: 
+(GB) (BG) Bd | (ga) ge c2 | (cA) (DF) Ac | (ed) ^cd B2 | 
+(GB) (BG) Bd | (ga) (ge) ce | (dc) (Bc) AF |1 G4 G2 :|2 G4 D2 |: 
+_B4 (A<G) | A4 (F<D) | (GF) (GA) _BG | D6 | 
+(DE) FG A=B | A3 GFE | DD E2 F2 |1 G4 D2 :|2 G4 |] 
+V:2
+"^2" GA |: (B2 G2) d2 | B4 (dc) | (B2 D2) B2 | A4 G2 | 
+(F2 D2) G2 | (FG) (FE) DE | (FE) (DE) CA, |1,8 [B,D]4 (GA) :|2 [B,D]4 B,2 |: 
+(B,D) (DB,) DG | (Bc) BG E2 | (AF) (A,D) FA | (cB) ^AB G2 | 
+(B,D) (DB,) DG | (Bc) (BG) EG | (BA) (^GA) FD |1 [B,D]4 B,2 :|2 [B,D]4 B,2 |: 
+G4 D2 | F4 A,2 | (_B,A,) (B,C) DB, | G,6 | 
+(A,C) DE FG | F3 EDC | A,A, C2 D2 |1 "^B.O." [B,D]4 B,2 :|2 [B,D]4 |]
+

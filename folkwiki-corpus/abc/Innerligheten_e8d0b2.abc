@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Innerligheten
+T:Polska
+R:Polska
+O:Järvsö, Hälsingland
+C:Jonas Olsson
+S:Örjan Hans-Ers
+Z:Karin Helander
+N:Från not på Bollnäsbygdens spelmanslag hemsida: https://spelmanslaget.nu/wp-content/uploads/2011/04/Innerligheten.pdf
+N:"Innerligheten, polska, Jonas Olsson, Järvsö 2002, bearb för spelmanslag: Ö Hans-Ers. Copyright, all rights reserved"
+N:Inspelning med Jonas Olsson, skiva "Spelman från Järvsö" från 2012: https://www.youtube.com/watch?v=E74Rak1TI-s
+M:3/4
+L:1/8
+K:D
+V:1
+(vA |: (3:2:2 d2 e) ([fA]2 (3 f)(ed | (3 cde ) (3:2:2 (d2 c) (3:2:2 (B2 A) | B2 ([BD]2 (3:2:2 [BD]2) (B | 
+(3:2:2 c2 d) ([Ae]2 (3 e)(dc | (3 Bcd) (3:2:2 (c2A) (3:2:2 B2G | A2 ([AD]2 (3 A)(GF | (3 GAB) (cd) (3:2:2 A2 G |
+ (3:2:2 (F E2) ([EA,]2 (3 E)(DE | FD) B,2 (3 D2B, |1 (3:2:2 (C D2) (D2 (3:2:2 D2) (A :|2 (3:2:2 (C D2) (D2 (3 D)(DC |:
+ (3 B,A,B,) (DF) (3:2:2 E2 C | (3:2:2 (D F2) (F2 (3 F)(EF | (3 GAB) (Ad) (3:2:2 F2 A | (3:2:2 (A E2) ([A,E]2 (3:2:2 [A,E]2) (f |
+ GF/G/) ([A,E]2 (3[A,E])(DE | FD) B,2 (3:2:2 D2B, |1 (3:2:2 CD2 (D2 (3 D)(DC :|2 (3:2:2 (CD2) D4 |]
+V:2
+(uG |: "D" (3:2:2 F2 A) ([dD]2 (3 d)(cB | "A"(3 ABc) (3:2:2 (B2 A) (3:2:2 (G2 F) | "G" G2 (G2 (3:2:2 G2) (G | 
+"A" (3:2:2 A2 B) (c2 (3 c)(BA | "G" (3 GAB) "A" (3:2:2 (A2F) (3:2:2 G2E | "D" F2 (F2 (3 F)(EC | "Em" (3 B,EG) "F#m" (AG) "G" (3:2:2 F2 E |
+"A" (3:2:2 (D C2) (C2 (3 C)(B,C | "D/F#" DB,) "G" G,2 (3 B,2G, |1 "A" (3:2:2 (G, A,2) "D" (A,2 (3:2:2 A,2) (G :|2 "A" (3:2:2 (G, A,2) "D" (A,2 (3 A,)(B,A, |:
+"G" G,2) (B,D) "A" (3:2:2 C2 A, | "Bm" A,2 (D2 (3 D)(CA, | "G" (3 B,CD) "D/A" D2 (3:2:2 D2 F | "A" (3:2:2 (F C2) (C2 (3:2:2 C2) (A, |
+"G" B,A,/B,/) "A" (C2 (3C)(B,C | "D" DB,) "G" G,2 (3:2:2 B,2G, |1 "A" (3:2:2 A,A,2 "D" (A,2 (3 A,)(B,A, :|2 "A" A,2 "D" A,4 |]
+

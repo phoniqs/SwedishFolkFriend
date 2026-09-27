@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Sparf Fars polska
+R:Polska
+O:Rättvik, Dalarna
+S:Sparf Anders Andersson
+B:Spelmansmusik
+M:3/4
+L:1/8
+K:A
+"A"A,>(C E>)(A {cB}c2|"D"d>)(f "A"e2) (c2|"E"TcB/c/) d>(E G>)B|"A"B>(A {/A}c2) (A2|
+"A"A,)>(C E>)(A {cB}c2|"D"d>)(f "A"e2) (c2|"E"TcB/c/) d>(E G>)B|"A"(TBA/G/) A4:|
+|:"D"{/f}a>g (a>b) (a>=g)|"D"{gfe}f2 d3 (f|"A"{ag}a2) e>(f e>)d|"A"{cB}c2 A4|
+"E"{g}Tf>(e d)>(c B)>A|"E"G2 E4|"E"E(E F)>(F G)>B|"A"A>(B c/B/c/d/) e>e|
+"D"{/f}a>(g a)>(b a)>=g|"D"{gfe}f2 d3 (f|"A"{ag}a2) e>(f e>)d|"A"{cB}c2 A4|
+"E"{g}Tf>(e d)>(c B)>A|"E"G2 E4|"E"E(E F)>(F G)>G|"A"{AG}A2-A4:|
+

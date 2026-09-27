@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1122
+T:Polska efter modern
+T:(SvL Dalarna 1122)
+O:Rättvik, Dalarna
+R:Polska
+R:Vallåt
+B:Svenska Låtar Dalarna
+S:Höök Olof Andersson
+N:SvL: Låten användes av modern som vallåt.
+N:Jfr SvL Dalarna nr 51 och 263.
+N:Höök Olle
+M:3/4
+L:1/8
+K:Dm
+Q:144
+v[ee](^c A)(c d)>(e|f)>(e (3d)^cd [ee]2|e^c de fg|1(a>b) g(b/g/) a2:|2(a>b) g(b/g/) av(e]|
+|:vf)g ag ef/e/|(d{ed)}^c Ac e2|fg ag ef/e/|(d{ed)}^c Ac e2|ve>(c d)>e f(a/g/)|1e^c [dD]3 v(e:|2e^c [dD]4]|
+

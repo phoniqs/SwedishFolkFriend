@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:114
+T:Polska av Ingvar Norman
+T:(Dalarnes Bergslag 114)
+C:Ingvar Norman
+O:Säter, Dalarna
+R:Polska
+B:Låtar från Dalarnes Bergslag Nr 114
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (19) av Ingvar Norman, Säter."
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" (A/B/ |: A>)(F A>)(g{fg} f>)e | d2 g2 a2- | a>(f g>)(g{fg} f>)e |1 (df) e3 A/B/ :|2 (df) e3 A- |: 
+A>(f a2) a(b/a/) | f>(a g2) (g/a/g/)f/ | d>(e f>)(a f/>a/f/)d/ | (d{^cd}c) A4 | 
+A>(f a2) a(b/a/) | f>(a g2) (g/a/g/)f/ | d>(e f>)(a f/a/f/)d/ | (d{^cd}c) A4 |
+{AB} A>(F A>)(g{fg} f>)e | d>(g a2) a2 | a>(a f2) g>f |1 e^c{c} d3 A- :|2 e^c{c} d3 z |] 
+V:2
+"^2" F/G/ |: F>(D F>)(=B A>)G | F2 =B2 ^c2- | ^c>c e>(e{de} d>)A |1 Fd ^c3 F/G/ :|2 Fd ^c3 F- |: 
+F>d f2 f>f | d>f e2 e>d | A>^c d>(f d>)A | A{GA}G E4 | 
+F>d f2 f>f | d>=B ^c2 c>A | F>G A>(d A)F | F{EF}E ^C4 |
+{FG} F>(D F>)(=B A>)G | F>=B ^c2 c2 | ^c>(c A2) =B>A |1 "^Stämförslag B.O." GE [FA]3 F :|2 GE [FA]3 z |] 
+

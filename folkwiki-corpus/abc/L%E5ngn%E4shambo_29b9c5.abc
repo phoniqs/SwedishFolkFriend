@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Långnäshambo
+T:efter Werner Röstberg
+S:Werner Röstberg
+R:Hambo
+O:Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+N:"(Polska eller hambo efter Werner Röstberg)"
+L:1/8
+M:3/4
+U:t=tenuto
+K:C
+V:1
+|:"^1" E2 (tE2 tE2) | (E>D) C4 | C>D E3 G | (3(FAF) D4 | D>E F3 A | (F>G) FE D2 | D>E F3 A | 
+(3(GcG) E4 | E2 (tE2 tE2) | (E>D) C4 | C>D E3 G | A2 A4 | A>B c2 (BA) | (Gc) G4 | 
+(D>E) F2 E>D | C2 C4 :: A>(B c2) BA | B>E E2 E2 | A>(B c2) BA | (A>B) (eB) eB | A>(B c2) Bc | 
+d>(e f2) ed | (B>c) (ed) cB | (A>c) BE E2 | A>(B c2) BA | B>E E2 E2 | A>(B c2) BA | (A>B) (eB) eB | 
+ A>(B c2) Bc | d>(e f2) ed | (B>c) (ed) c>B |1 A2 A4 :|2 A2 G4 |: G2 G4 | A2 A4 |
+ B2 B3 (A | G>)g ec GE | G2 G4 | A2 A4 | B>g fd AB | c2 c4 :| 
+V:2
+|:"^2""C" G2 (tG2 tG2) | (G>F) E4 | E>F G2 E2 |"G7" D2 B,4 | B,>C D2 B,2 | 
+D2 DC B,2 | B,>C D2 D2 |"C" E2 C4 | G2 (tG2 tG2) | (G>F) E4 | E>F G2 E2 | 
+"F" F2 F4 | F>G A2 (GF) |"C" E2 C4 |"G7" (B,>C) D2 C>B, |"C" C2 [CE]4 ::"Am" E2 A2 EC | 
+"E7" D2 (^GD) GD |"Am" E2 A2 EC |"Am" E2 "E7" (B^G) "E7" BG | "Am" E2 A2 ^GA |"Dm" B2 d2 cB | 
+"E7" ^G2 (BA) GE |"Am" C2 "E7" (ED) "E7" B,D |"Am" E2 A2 EC | "E7" D2 (^GD) GD | "Am" E2 A2 EC | "Am" E2 "E7" (B^G) "E7" BG | 
+"Am" E2 A2 ^GA |"Dm" B2 d2 cB |"E7" ^G2 (BA) G>E |1"Am" C2 C4 :|2 "Am" C2"G7" C4 |: "C" E>(F ED) CE | "Dm" F>(G FE) F^F | 
+"G7" G>(A GE) FD | "C" E>c GE CG, | "C" E>"^Stämförslag B.O." (F ED) C_B, | "Dm" A,>(D FA) dA | "G7"G>B AG DF |"C" E2 E4 :|
+

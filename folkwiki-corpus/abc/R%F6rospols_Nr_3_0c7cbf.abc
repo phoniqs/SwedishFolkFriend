@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Rörospols Nr 3
+T:(I bryllupsgaarden)
+O:Norge
+R:Rörospols
+Z:[[Personer/Bengt Ohlson]]
+Z:"Norge. Röros - pols (3)"
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^I bryllupsgaarden." (f/ |: a2) (^g>a) b>g |{g} a2 f>d (3Adf |{f} g2 e>c (3ABc | (d<A) (GF) ED |
+{f} a2 (^g>a) b>g |{g} a2 f>d (3Adf |{f} g2 e>c (3ABc |1 (c<d) d3 z/ d/ :|2 (c<d) d3 z/ f/ |: 
+g2 g>b f2 | f>g (ef) d2- | d>c A>(c B>)^G | (3ABc (3AB^G A>f |
+{f} g2 g>b f2 | f>g (e<f) d>f |{f} g2 e>c (3ABc |1 c<d d3 z/ f/ :|2 c<d d3 z |] 
+V:2
+"^2" d/ |: f2 (e>f) g>e | f2 d>A (3FAd | e2 c>A (3GAG | F<D (BA) GF | 
+f2 e>f g>e | f2 d>A (3FAd | e2 c>A (3GAG |1 F2 [FA]3 z/ d/ :|2 F2 [FA]3 z/ (d/ |: 
+e2) e>g d2 | (d>e) (cd) F2 | B>(A E>)(A ^G>)E | C2 (3E^GE C>d | 
+e2 e>g d2 | d>e (c<d) F>d | e2 c>A (3GAG |1 "^Stämförslag B.O." F2 [FA]3 z/ d/ :|2 F2 [FA]3 z |]
+

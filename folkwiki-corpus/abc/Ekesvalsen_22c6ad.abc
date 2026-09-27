@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Ekesvalsen
+C:Melker Dalborg
+R:Vals
+O:Ekshärad, Värmland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Ekes-valsen av Melker Dalborg"
+Z:"Trolldans i Ekesberget, Ekshärad."
+Z:"Tillägnas Ekshärads spelmanslag 1933."
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" "Dm"(AB) (AG) FE |D2 F2u "^Trolldans i Ekesberget, Ekshärad." A2 | (3(d^cd) e2 d2 | A3 G F2 | "A7" A,2 (^CA,) CE | (GA) GF E2 | 
+"Dm" (D^C) (DE) FG |"A7" (AG) E^C A,2 |"Dm" (AB) (AG) FE | D2 F2 A2 | (3(d^cd) e2 d2 | A3 G F2 | "A7" A,2 (^CA,) CE | 
+(GA) (GF) E2 | A,2 (^CA,) CE | "Dm" D4 z2 :: "Dm" a2 (df) ad | "C" g2 (ce) (ge) |"Dm" f2 (Ad) fd |"Am" e2 c2 A2 |
+"Gm" d2 (FB) dF | "F" c2 A2 F2 |1 "C7" B2 (EG) BG |"F" A4 z2 :|2 "C7" B2 (CE) GE | "F" F4 z2 |: "Dm" (AB) AF D2 | (AB) AF D2 | 
+"C7" (Bc) BG E2 | (Bc) BG E2 | "A7" (ef) e^c A2 | (ef) e^c A2 | "Dm" (d^c) (de) fg | (ab) af d2 | (AB) AF D2 | 
+(AB) AF D2 | "C7" (Bc) BG E2 | (Bc) BG E2 | "A7" (ef) e^c A2 | a3 ge^c |"Dm" d3 AFA | D4 z2 :| 
+V:2
+|:"^2" D2 [FA]2u [FA]2 | (AB) (AG) FE | (3(FEF) (3(GAG) (3(FED) | F3 E D2 | ^C2 E2 E2 | 
+(EF) (ED) ^CE | F2 F2 A2 | (fe) ^cA E2 | D2 [FA]2 [FA]2 | (AB) (AG) FE | 
+(3(FEF) (3(GAG) (3(FED) | F3 E D2 | ^C2 E2 E2 | (EF) (ED) ^CE | (^CE) (EA) AG | F4 z2 :: 
+(3[Af][Af][Af] [Af]2 [Af]2 | (3[ce][ce][ce] [ce]2 [ce]2 | (3[Fd][Fd][Fd] [Fd]2 [Fd]2 | 
+g2 e2 c2 | (3[db][db][db] [db]2 [db]2 | (3[ca][ca][ca] [ca]2 [ca]2 |1 (3[Bg][Bg][Bg] [Bg]2 [Bg]2 | f4 z2 :|2 (3[Bg][Bg][Bg] e2 e2 | [Af]4 z2 |:
+"^pizz" .f2 .d2 .A2 | .f2 .d2 .A2 | .g2 .e2 .c2 | .g2 .e2 .c2 | .g2 .e2 .^c2 |  .g2 .e2 .^c2 |
+"^arco" (fe) (fg) ab | (fg) fd A2 | "^pizz" .f2 .d2 .A2 | .f2 .d2 .A2 | .g2 .e2 .c2 | .g2 .e2 .c2 | .g2 .e2 .^c2 | "^arco"^c2  "^Tillägnas Ekshärads spelmanslag 1933." e2 e2 | [Fd]2 [Fd]2 [Fd]2 | [Fd]4 z2 :|
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Rörospols Nr 2
+O:Norge
+R:Rörospols
+Z:[[Personer/Bengt Ohlson]]
+Z:"Norge. Röros - pols (2)"
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" (A |: d2) (d>c) A>A | f2 (f>d) e>f | (3geg (3fdf e>c | d>(f e>c) A>A | 
+d2 (d>c) A>A | f2 (f>d) e>f | (3geg (3fdf e>c |1 (c<d) d3 A :|2 (c<d) d3 f |: 
+a2 (a>f) g>e | f2 f>d e>f | (3geg (3fdf e>c | d>f e>c A>f | 
+a2 a>f g>e | f2 f>d e>f | (3geg (3fdf e>c |1 c<d d3 f :|2 c<d d3 z |] 
+V:2
+"^2" D |: F2 (F>E) D>D | d2 d>B c>d | (3ece (3dBd c>A | F>d c>A E>E | 
+F2 F>E D>D | d2 d>B c>d | (3ece (3dBd c>A |1 E<F F3 D :|2 E<F F3 d |: 
+f2 (f>d) e>c | d2 d>B c>d | (3ece (3dBd c>A | F>d c>A E>d | 
+f2 f>d e>c | d2 d>B c>d | (3ece (3dBd c>A |1 E<F F3 d :|2 "^Stämförslag B.O." E<F F3 z |]
+

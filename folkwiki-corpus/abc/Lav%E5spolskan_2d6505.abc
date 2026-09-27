@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Lavåspolskan
+C:Lars Fredriksson
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+Q:1/4=90
+M:3/4
+K:Dm
+V:1
+|:"^1" (cd)cB (c2a2) a2g2 | f2ef (gf)ed d2c2 | B2AB d2cB A2G2 | F2EF (GF)ED D2C2 | 
+F2EF G2FG A4 | B2AB c2Bc d4 | (fa)gf (ed)cB A2G2 | FEDE G4 F4 :: 
+(Fc)(ac) :: (Ec)(gc) :: (DA)(fA) :| 
+(fa)(gf) (ef)ge ^c4 | (B,F)(dF) (B,F)(dF) (B,F)(dF) | (A,F)(cF) (A,F)(cF) (A,F)(cF) | c2dc (BA)GF E2D2 | CDEF G4 F4 :: 
+A2EG F2DF E2A,2 | a2eg f2df e2A2 | (d^c)de (fe)fg a2f2 | f2ed (^cd)(ec) A4 |
+ A2EG F2DF E2A,2 | a2eg f2df e2A2 | (d^c)de (fe)fg a2f2 | e2d^c d8 :| 
+V:2
+|:"^2" (AB)A^G (A2c2) c2e2 | d2cd (ed)cB B2A2 | G2^FG B2AG =F2E2 | D2^CD (ED)CB, B,2A,2 | 
+D2^CD E2DE F4 | G2FG A2GA B4 | (Ac)BA (GF)ED C2B,2 | CB,G,B, B,4 A,4 :: 
+(A,F)(cF) :: (G,E)(cE) :: (A,F)(dF) :| 
+(df)(ed) (^cd)ec A4 | (dB)FD (B,D)FB d2B2 | (cA)FC (A,C)FA c2A2 | A2BA (GF)ED C2B,2 | A,B,CD B,4 A,4 :: 
+^C2CE D2A,D C2C2 | ^c2ce d2Ad c2E2 | (FE)FA (d^c)de f2d2 | d2AF (EF)(GE) ^C4 | 
+^C2CE D2A,D C2C2 | ^c2ce d2Ad c2E2 | (FE)FA (d^c)de c2A2 |"^B.O." G2FE [FA]8 :|
+

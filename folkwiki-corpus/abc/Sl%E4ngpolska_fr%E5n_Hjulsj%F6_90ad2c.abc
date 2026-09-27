@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Slängpolska från Hjulsjö
+S:August Andersson
+O:Hjulsjö, Västmanland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter August Andersson, Heds socken
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1""^Lämpl. t. Färnebo-polska." (A,>D) (D>F) F>A | AA/A/ (B>A) G>E | (E>c) (c>G) G>F | (F>d) (d>A) F>D | 
+(A,>D) (D>F) F>A | AA/A/ (B>A) G>E | Ec/c/ Ec/c/ Ec/c/ | d2 d4 :: 
+ab/a/ g2{fg} fe |({e} d>F) Ad f2 | (e>A) ce g2 | (f>A) df a2 | 
+ab/a/ g2{fg} fe | (d>F) Ad f2 | (e>A) (3ceg b/b/a/c/ | d2 d4 :| 
+V:2
+|:"^2" D2 A,2 D>F | F2 (G>F) E>B, | C2 A2 E>A | D2 (A>F) D>A, | D2 A,2 D>F | F2 (G>F) E>B, | 
+A,2 C2 G>A | F2 [FA]4 :: fg/f/ e2 dB | (A>D) FA d2 | (c>E) Ac e2 | (d>F) Ad f2 | fg/f/ e2 dB | (A>D) FA d2 | (c>E) (3Ace e>c | "^Stämförslag B.O." F2 [FA]4 :|
+

@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:91
+T:Mormors bröllopsvals
+T:efter August Strömberg (SmM II:91)
+R:Vals
+O:Jät, Småland
+S:August Strömberg
+B:Småländsk Musiktradition
+N:Ca 1890.
+M:3/4
+L:1/8
+K:Gm
+(G^F) (GA) (Bc)|(A=F) (AF) D2|(DE) (DC) (B,A,)|(G,A,) (B,C) D2|
+(G^F) (GA) (Bc)|(A=F) (AF) D2|(DE) (DC) (B,A,)|G,2 G2 z2:|
+|:g(^f g)(a b)(c'|a)(=f a)(f d2)|d(e d)(c B)(A|G)(A B)(c d2)|
+g(^f g)(a b)(c'|a)(=f a)(f d2)|d(e d)(c B)(A|G2) g2 z2:|
+|:d(B F)(B d2)|c(A F)(A c2)|B(G E)(G B)(G|F)(D B,)(D F2)|
+d(B F)(B d2)|c(A F)(A c2)|B(A G)(B A)(D|^F2) G2 z2:|
+

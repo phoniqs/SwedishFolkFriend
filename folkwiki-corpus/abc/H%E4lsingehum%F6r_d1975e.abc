@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Hälsingehumör
+C:Einar Westberg
+O:Hudiksvall, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+Q:1/4=98
+M:3/4
+K:Dm
+V:1
+|:"^1" A2de (f2a2) g2f2 | e2A^c "^Polska"e2ce a4 |u a2ba g2f2 e2^c2 | (A^c)ec (d2A2) F2A2 |
+ A2de (f2a2) g2f2 | e2A^c e2ce a4 |u a2ba g2f2 e2^c2 | (A^c)ec d8 :: 
+e2c'=b c'2_bg (ec)(Bc) | A2cf a2d'2 c'4 | d2^cd (^f2d'2) =c'2a2 | G2Bd g2e'2 d'4 | 
+d2fb (d2g2) f2d2 | A2cf (a2d'2) c'2a2 | b2d'b g2bg e2(ge) |1,8 c2eg [Af]8 :|2 c2eg [Af]4u c2 z2 |: 
+(Fc)(ac) (c'c)(ac) (Fc)(ac) | (Ec)(gc) (bc)(gc) (Ec)(gc) | (DA)(fA) (aA)(fA) (DA)(fA) | (^CA)(eA) (gA)(eA) (CA)(eA) | 
+(DB)(fB) (bB)(fB) (DB)(fB) | (Fc)(ac) (c'c)(ac) (Fc)(ac) | b2ba (g2f2) e2d2 | (ce)ge [Af]8 :| 
+V:2
+|:"^2""Dm" F2A^c (d2f2) e2d2 |"A7" ^c2EA c2Ac e4 |u ^c2dc B2A2 G2E2 | "A7"(EA)^cA"Dm" (F2E2) D2F2 | 
+F2A^c (d2f2) e2d2 |"A7" ^c2EA c2Ac e4 |u ^c2dc B2A2 G2E2 | "A7" (E2G2) "Dm"[FA]8 ::
+"C7" (c2>=B2) (_B2G2) E2C2 |"F" (F2>A2) c2a2 f4 | "D7" (^F2>A2) (d2c2) A2F2 |"Gm" D2GB d2a2 g4 |
+"B" (DB)(fB) (DB)(fB) (DB)(fB) | "F" (Fc)(ac) (Fc)(ac) (Fc)(ac) | "C7"e2ge c2ec G2(BG) |1,8"C7" (G2B2) "F"[Fc]8 :|2 "C7" (G2B2) "F"[Fc]4u F2 z2 |:
+"F" A4 (A2G2) F2A2 |"C7" G4 G2F2 E4 |"Dm" F4 (F2E2) D2F2 | "A7" E4 E2D2 ^C4 |
+"B" B,4 (D2F2) B2d2 |"F" A,4 (C2F2) A2c2 |"C7" e2>"^Stämförslag B.O."f2 e2d2 c2B2 | "C7" (G2B2) "F"[Fc]8 :|
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Daniels Anders
+S:Daniels Anders Jansson
+O:Enviken, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Uppt. I. Norman.
+L:1/8
+M:3/4
+K:Gm
+V:1
+"^1" (D |: G>)(^F G>)(A B)c | d>(e d)c B2 | D>(^F A>)(c B>)A | G>^F G2 D2 | 
+G>(^F G>)(A B)c | d>(e d)c B2 | D>(^F A>)(c B>)A |1 (G>^F) G3 D :|2 (G>^F) G4 |:
+[K:G] (g>e) (3ceg a>g | (d>B) (3GBd e>d | A>(F D>)(F (3A)(Bc) | d>B (3GBd g2 | 
+(g>e) (3ceg a>g | (d>B) (3GBd e>d | A>(F D>)(F (3A)(Bc) | (d>B) G4 :| 
+V:2
+"^2" (G, |: B,>)(A, B,>)(D G)A | B>(c B)G D2 | A,>(D ^F>)(A F>)D | B,>A, B,2 G,2 | 
+B,>(A, B,>)(D G)A | B>(c B)G D2 | A,>(D ^F>)(A F>)D |1 (B,>A,) B,3 G, :|2 (B,>A,) B,4 |: 
+[K:G] (e>c) (3Gce f>e | (B>G) (3DGB c>B | F>(D A,>)(D (3F)(GA) | B>G (3DGB d2 | 
+(e>c) (3Gce f>e | (B>G) (3DGB c>B | F>(D A,>)(D (3F)(GA)"^B.O." | (B>G) B,4 :|
+

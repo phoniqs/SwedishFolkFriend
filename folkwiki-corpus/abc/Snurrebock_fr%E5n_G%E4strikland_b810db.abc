@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Snurrebock från Gästrikland
+S:Maja Färlin
+O:ÖSterfärnebo, Gästrikland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Maja Färlin, 1892. Österfärnebo.
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1" G2 (c>e) d>c | (BA) (GF) EF | G2 (c>e) d>c | (BA) G2 z2 :| 
+G2 e2 (3dde | f2 d2 B2 | G2 e2 (3dde | f2 d2 B2 | (d>B) A2 z2 | (G>F) E2 z2 | G2 c4 |] 
+V:2
+|:"^2" E2 (G>c) B>A | (GF) (ED) CD | E2 (G>c) B>A | (GF) E2 z2 :| 
+E2 c2 (3BBc | d2 B2 G2 | E2 c2 (3BBc | d2 B2 G2 | (B>G) F2 z2 | (E>D) C2 z2"^Stämförslag B.O." | D2 E4 |]
+

@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Rättvik
+R:Polska
+O:Rättvik, Dalarna
+B:Spelmansmusik
+M:3/4
+L:1/8
+K:D
+|:"D"A2 Az/(B/ A>)G|(GF) ((F>{GF})E) F>A|(A/d)z/ d>e d>c|"A"((c{dc})B) B>G B2|
+"A"e2 e>f e>d|((d{ed})c) c>B cz/e/|a2 a>f g>e|"D"{cd}(c/B/c/)z/ d4:|
+|:"G"{gagf}g2 ez/(g/ e)z/g/|"D"((f{gf})e) d>c d>f|"A"(f{gf})e ez/(A/ B>)c|"D"d>(f d>)f a2|
+"G"{gagf}g2 ez/(g/ e)z/g/|"D"((f{gf})e) d>c d>f|"A"(f{gf})e ez/(A/ B>)c|"D"(cd) d4:|
+

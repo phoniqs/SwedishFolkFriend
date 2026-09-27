@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:1
+T:Hålabäckpolka
+C:Yngve Persson (efter Änke-Nissen)
+R:Polka
+O:Blekinge
+Z:Peter Svensson
+M:2/4
+L:1/16
+Q:1/4=105
+K:G
+|: "G"D2GB d3B  | "D"B2A2 AAA2 | "D"D2FA cAFA | "G"GGGB GGG2  |
+   "G"D2GB d3B  | "D"B2A2 AAA2 | "D"D2FA cAFA | "G"G2G2 G4   :|
+|: "C"c2cc c2c2 | "G"cBBc d2d2 |"D" D2FA cAFA | "G"GGGB d2d2  |
+   "C"c2cc c2c2 | "G"cBBc d2d2 | "D"D2FA cAFA | "G"G2G2 G4   :|
+

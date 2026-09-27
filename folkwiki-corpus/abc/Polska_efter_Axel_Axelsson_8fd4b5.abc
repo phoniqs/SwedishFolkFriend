@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:482
+T:Polska efter Axel Axelsson
+T:(OA 482)
+B:Sörmländska låtar samlade av Olof Andersson nr 482
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson 
+Z:Takt ett och två i B-delen är markerade som "bis" i uppteckningen. Eftersom jag inte har möjlighet att göra detta i ABC, har jag skrivit ut dessa takter.
+M:3/4
+L:1/4
+Q: 90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:A
+|:A/4B/4c/4d/4 e/a/ g/a/ | f/4g/4f/4e/4 (f/4g/4)a/4f/4 f/e/ | (c/4A/4)c/4e/4 (a/4g/4)a/4e/4 d/4c/4B/4A/4 | c/4B/4A/4G/4 A/E/ C/A,/ |
+A/4B/4c/4d/4 e/a/ g/a/ | f/4g/4f/4e/4 (f/4g/4)a/4f/4 f/e/ | (c/4A/4)c/4e/4 (a/4g/4)a/4e/4 d/4c/4B/4A/4 | c/4B/4A/4G/4 A A ::
+A/4E/4A/4c/4 A/4E/4A/4c/4 d/B/ | B/4G/4B/4d/4 B/4G/4B/4d/4 d/c/ | A/4E/4A/4c/4 A/4E/4A/4c/4 d/B/ | B/4G/4B/4d/4 B/4G/4B/4d/4 d/c/ |
+A/4B/4c/4d/4 e/a/ g/a/ | f/4g/4f/4e/4 (f/4g/4)a/4f/4 f/e/ | c/4A/4c/4e/4 (a/4g/4)f/4e/4 d/4c/4B/4A/4 | c/4B/4A/4G/4 A A :|
+

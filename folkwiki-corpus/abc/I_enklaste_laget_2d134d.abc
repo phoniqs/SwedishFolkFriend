@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:I enklaste laget
+T:Schottis
+O:Hedemora, Dalarna
+R:Schottis
+C:Bengt Ohlson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bengt Ohlson, Hedemora."
+L:1/16
+Q:1/4=70
+M:2/4
+K:C
+V:1
+|:"^1""C" e>dcB c2G2 |"F" A>GFE"Dm" F2A2 |"G7" G>ABc d>fed |"C" c>Bcd e2c2 | e>dcB c2G2 |"F" A>GFE"Dm" F2A2 |
+"G7" G>ABc d>fed | "C" c2c2 c4 ::"Am" A2AB c2cd | e>fec A2A2 | "E7" B>cB^G E>GBG |"Am" A>Bcd e2c2 | A2AB c2cd | 
+e>fec A2A2 | "E7" B>cB^G E>GBG |1 "Am" A2A2 A4 :|2"Am" A2^G2"G7" =G4 [| "C" e>dcB c2G2 |"F" A>GFE"Dm" F2A2 |"G7" G>ABc d>fed | 
+"C" c>Bcd e2c2 | e>dcB c2G2 |"F" A>GFE"Dm" F2A2 |"G7" G>ABc d>fed |"C" c2c2 c2>_B2 |]: [K:F] "F" A4- A Bcd | c4- c Acf | 
+a>gfe d>cBA |"C7" (c>B)GE C4 | G4- G ABc | e4- e def | g>fed c>BAB | "F" (d>c)=Bd c4 | A4- A Bcd | 
+c4- c Acf | "F" a>gfe "F7" g>fef |"Bb" (e2d2) d4 |{de} d>^cde g>fed | "F" c>BAc f2f2 |"C7" e>dcA B>GEG |"F" F2F2 F4 :|
+V:2
+|:"^2" c>GED E2C2 | F>CA,G, A,2C2 | _B,>DGA _B>dBG | E>DEG c2E2 | c>GED E2C2 | F>CA,G, A,2C2 | 
+_B,>DGA _B>dBG | E2E2 E4 :: C2CE A2A_B | c>dcA E2E2 | ^G>AGE _B,>EGE | C>EA_B c2A2 | C2CE A2A_B | 
+c>dcA E2E2 | ^G>AGE _B,>EGE |1 C2C2 C4 :|2 C2^C2 D4 [| c>GED E2C2 | F>CA,G, A,2C2 | 
+_B,>DGA _B>dBG | E>DEG c2E2 | c>GED E2C2 | F>CA,G, A,2C2 | _B,>DGA _B>dBG | E2E2 E2>E2 |]: [K:F] .[A,F]2.[A,F]2[A,F]2 z2 | .[FA]2.[FA]2[FA]2 z2 | 
+f>edc B>AGF | (A>G)EC G,4 | .[B,E]2.[B,E]2[B,E]2 z2 | .[EB]2.[EB]2[EB]2 z2 | e>dcB A>G^FG | (B>A)^GB A4 | .[A,F]2.[A,F]2[A,F]2 z2 | 
+.[FA]2.[FA]2[FA]2 z2 | f>edc e>dcd | (c2B2) B4 | B>ABc e>dcB | A>GFA c2c2 | c>BAF G>ECB, | A,2A,2 A,4 :|
+

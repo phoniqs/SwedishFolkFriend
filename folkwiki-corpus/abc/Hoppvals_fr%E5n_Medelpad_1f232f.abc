@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:237
+T:Hoppvals från Medelpad
+T:(SvL Medelpad 237)
+S:Ola Ersson
+B:Svenska Låtar Medelpad Nr 237
+O:Attmar, Medelpad
+R:Hoppvals
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Ola Ersson, Attmar.
+L:1/16
+M:2/4
+K:Dm
+V:1
+|:"^1" e2^ce f2ed | (^cd)ec c2d2 | d2eg f2ed | (ed)eg g2a2 |
+ a2eg f2ed | (^cd)ec c2d2 | d2eg f2ed | (^cd)ec d4 :|
+|: A,2aa a2a2 | (^ge)g=b a4 | =g2eg (fa)fd | (ef)e^c c2A2 | 
+A4 e2a2 | (^ge)g=b a4 | g2eg (fa)fd | (eg)e^c [Fd]4 :| 
+V:2
+|:"^2" G2EG A2GF | (EF)GE E2F2 | A2^ce d2AF | (GF)GB B2^c2 |
+ e2^ce d2AF | (EF)GE E2F2 | A2^ce d2AF | (EF)GE [FA]4 :|
+|: E2^cc c2c2 | (dB)ed ^c4 | e2^ce (df)dA | (^cd)cA E2^C2 |
+ ^C4 A2^c2 | (dB)ed ^c4 | e2^ce (df)dA |"^Stämförslag B.O." (^ce)cA [DA]4 :|
+

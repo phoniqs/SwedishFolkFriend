@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Lantbrevbärar - snoa (G-dur)
+R:Snoa
+C:Tage Önander
+Z:[[Personer/Bengt Ohlson]]
+Z:"Text o. musik Tage Önander"
+Z:"Obs. Ändrad till sångbar tonart!"
+L:1/8
+M:2/4
+K:G
+V:1
+|:"^1""^Obs. Ändrad till sångbar tonart!" B>c de | d3 g | b>"^B.O."a gB | dc c2 | A>B cd | 
+c3 f | fe/f/ g/f/e/d/ | ed B2 | B>c de | d3 g | gf/g/ a/g/f/g/ | 
+fe e2 | ec'/c'/ c'c' | db/b/ ba/g/ | fd ef |1 g3 d :|2 g3 G |:
+[K:C] e>d cd | ea ge | ^f>e dc | A3 c | BG/B/ dB/d/ | 
+^fd/f/ bg | cG/c/ ec/e/ | ge/g/ c'g | e>d cd | ea ge | 
+^f>e dc | A3 c | BG/B/ dB/d/ | ^fd/f/ ba | g^f/g/ ab | c' z c'2 :| 
+V:2
+|:"^2""G" G>A Bc | B3 B | d>c BG |"D7" BA A2 | F>G AB | 
+A3 c | dc/d/ e/d/c/B/ |"G" cB G2 | G>A Bc | B3 B | BA/B/ c/B/A/B/ |
+"C" dc c2 | ce/e/ ee |"G" Bd/d/ dc/B/ |"D7" AB cd |1 "G" B3 G :|2"G" B3 E |:
+[K:C]"C" c>G EG | c^f ec |"F" d>c BA |"Dm" ^F3 A | "G7" GD/G/ BG/B/ | 
+BG/B/ dB | "C" EC/E/ GE/G/ | cG/c/ ec | c>G EG | c^f ec |
+"F" d>c BA | "Dm" ^F3 A | "G7" GD/G/ BG/B/ | BG/B/ dc | BA/B/ cd | "C" e z e2 :|
+

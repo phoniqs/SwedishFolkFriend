@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:92
+T:Hambopolkett efter Jons-Axel Nr 92
+C:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Hambo
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 92. Hambopolkett av Axel Eriksson"
+L:1/8
+Q:1/4=152
+M:3/4
+K:D
+V:1
+|:"^1"v a>(a f>)(f d>)d | B>(B"^Av Axel Eriksson" A4) | g>(g e>)e c2 | a>(a f>)f d2 | 
+a>(a f>)(f d>)d | B>(B A4) | g>(g e>)(e c>)c | d2 d2 z2 ::
+v A>f A>f A>f | B>g B>g B>g | A>c c2 (c>B) | B>A f2 f2 | 
+A>f A>f A>f | B>g B>g B>g | A>c c2 (A>c) | (e>d) d2 z2 :| 
+V:2
+|:"^2""D" f>(f d>)(d A>)A | G>(G F4) |"A7" c>(c A>)A E2 |"D" d>(d A>)A F2 | 
+f>(f d>)(d A>)A | G>(G F4) |"A7" c>(c A>)(A G>)G |"D" F2 F2 z2 ::
+"D" D2 (E2 F2) |"Em" G2 (F2 E2) | "A7" E>A A2 (A>G) | "D" G>F d2 d2 | 
+d2 (^c2 =c2) | "Em" B2 (A2 G2) | "A7" E>G G2 (E>G) | "D" (G> "^Stämförslag B.O."F) F2 z2 :|
+

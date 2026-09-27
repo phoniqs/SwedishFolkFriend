@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Helsinki-Hambo
+C:Erik Öst
+O:Hälsingland
+R:Hambo
+L:1/4
+Q:1/4=120
+M:3/4
+K:Gm
+N:Eric Öst - Sommar på Skansen (1973)
+Z:Ivan Nitkin, 2026-01-17
+V:1
+|:"^Gm" g3/4^f/4 g3/4e/4 d3/4c/4 | B3/4A/4 G3/4A/4 B3/4G/4 |"^D" A3/4D/4 ^F3/4A/4 d3/4F/4 |"^Gm" G3/4^F/4 G3/4G/4 D3/4G/4 |
+"^Gm" g3/4^f/4 g3/4e/4 d3/4c/4 | B3/4A/4 G3/4A/4 B3/4G/4 |"^D" A3/4D/4 ^F3/4A/4 d3/4F/4 |"^Gm" G G z1 :|
+|:"^Gm" d3/4g/4 b b3/4g/4 |"^D" a3/4^f/4 d d |"^Cm" c3/4e/4 g g3/4e/4 |"^Gm" d3/4B/4 G G |
+"^D" A3/4c/4 e e |"^Gm" G3/4B/4 d d |"^D" D3/4^F/4 A3/4c/4 B3/4A/4 |[1"^Gm" G3/4A/4 B3/4c/4 d ] :| [2"^Gm" G G z1 ] ||
+

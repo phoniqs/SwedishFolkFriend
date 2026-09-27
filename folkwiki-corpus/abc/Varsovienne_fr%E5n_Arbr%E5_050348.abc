@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Varsovienne från Arbrå
+O:Arbrå, Hälsingland
+R:Varsovienne
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 8. Varsovienne från Arbrå"
+Z:"Spelas 3 ggr. Tredje gången sänks tempot på polskan något (andra reprisen)."
+L:1/8
+M:3/4
+K:C
+V:1
+"^1""^Förspel" e>d B2 c2 | A4 z2 |]:[M:3/4][K:treble]"^Dans" A>B c2 d2 | e6 | e>d B2 c2 | A6 :| 
+G>c e2 e2 | G>c e2 e2 | g>e c2 e2 | d6 | G>B d2 d2 | G>B d2 d2 | 
+f>d B2 d2 | c6 |]"^Vals" G3 EGc | e3 dcB | A3 FAc | f3 edc |
+B3 GBd | g3 g g2 | (gf/g/) a2 g2 | e4 c2 | G3 EGc | e3 dcB | 
+A3 FAc | f3 edc | B3 GBd | g3 g g2"^Spelas 3 ggr." | (ga/g/) f2 d2 | c6 |] 
+V:2
+"^2" c>B ^G2 A2 | [CE]4 z2 |]:[M:3/4][K:treble] E>^G A2 B2 | [^GB]6 | c>B ^G2 A2 | [CE]6 :| 
+E>G c2 c2 | E>G c2 c2 | e>c G2 c2 | B6 | D>G B2 B2 | D>G B2 B2 | d>B G2 F2 | E6 |] E3 CEG | 
+c3 BAG | F3 CFA | d3 cBA | G3 DGB | B3 B B2 | (BA/B/) c2 B2 | c4 G2 | E3 CEG | 
+c3 BAG | F3 CFA | d3 cBA | G3 DGB | B3 B B2"^Stämförslag B.O." | (Bc/B/) A2 F2 | E6 |]
+

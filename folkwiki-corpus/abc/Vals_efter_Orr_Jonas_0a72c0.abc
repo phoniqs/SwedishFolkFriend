@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:5
+T:Vals efter Orr Jonas
+O:Norrbo, Hälsingland
+R:Vals
+S:Orr-Jonke
+Z:Karin Helander
+N:Andrastämma av [[Personer/Thore Härdelin den äldre]]
+B:Tredje samlingen spelmanslåtar från Hälsingland nr 5
+Q:180
+L:1/8
+M:3/4
+K:A
+V:1
+|: E2 A2 c2 | [e3A3][eA][e2A2] | ((3 fgf) e2 c2 | [e3A3][eA][e2A2] | E2 G2 B2 | 
+[D3d3] [dD] [d2D2] | ((3 fgf) e2 c2 | [e3A3][eA][e2A2] | E2 A2 c2 | [e3A3][eA][e2A2] | 
+((3 fgf) e2 c2 | [e3A3][eA][e2A2] | E2 G2 B2 | d3 c B2 | (gf)(ed)cB | [A4A,4] z2 :|
+|: a2 g2 f2 | d3 ddf | f2 g2 a2 | c3 cce | (ed)(dB)(BG) | 
+E2 G2 B2 | (BA)(AB)cd | e4 a2 | a2 g2 f2 | d3 ddf |
+ f2 g2 a2 | c3 cce | (ed)(dB)(BG) | E2 G2 B2 | (BA)(GA)cB | [A4C4] z2 :| 
+V:2
+|: E2 C2 A,2 | c3 c c2 | c2 c2 A2 | (cB)(AG)FE | D2 E2 G2 | 
+[E3B3] [EB] [E2B2] | ((3 ded) c2 A2 | c2 (AG)FE | [c4e4] [c2A2] | c3 c c2 | 
+((3 ded) c2 A2 | c2 (AG)FE | d2 B2 G2 | E3 F G2 | (dB) (Gf) eG | [C4E4] z2 :| 
+|: f2 e2 d2 | f2 dB F2 | d2 d2 c2 | e2 cA E2 | (GB) (BG) (GE) | 
+B,2 E2 G2 | E2 (FG)AB | c4 [c2e2] | f2 e2 d2 | FB [B2D2] [B2D2] |
+dc c2 [c2e2] | EA [A2E2] [A2E2] | cB B2 d2 | d2 B2 G2 | (GF)(ED)CB, | [A,4E4] z2 :|
+

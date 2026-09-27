@@ -1,0 +1,37 @@
+%%abc-charset utf-8
+
+X:1
+T:Domherren
+T:Vals
+C:Roland Johansson
+O:Säter, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. Bertil Bengtsson, arr. B.O."
+Z:"Av Roland Johansson, Säter."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" B,C^C |: D4 ^C2 | D4 G2 | B6 | G3 AGF | E4 F2 | G4 c2 | B6- | B3 Bc^c | 
+d4 c2 | A2 B2 c2 | d4 B2 | G4 A2 | B4 A2 | A2 ^D2 E2 | B2 A2 F2 | 
+E2 DB, C^C | D4 ^C2 | D4 G2 | B6 | G3 AGF | E4 F2 | G4 c2 | B6- | 
+B3 GF=F | E4 F2 | G2 A2 ^A2 | B2 g2 f2 | e2 dG F=F | E2 G3 c | 
+B2 B3 A |1,8 G6- | G3 B,C^C :|2 G6- | G3 gf^e |: e4 c2 | G2 (CE) Ge | 
+d4 B2 | G2 (G,B,) Dd | c4 B2 | A3 ^GA_B | B6 | g2 f2 ^e2 | e4 c2 | 
+G2 (CE) Ge | d4 B2 | G2 (G,B,) Dd | c3 d^de | f2 b3 a | g3 g g2 |1 
+g3 gf^e :|2 g3 d^c=c |:[K:D] B3 ^ABc | d2 c2 B2 | A3 FAd | f3 ^efg | 
+f2 e3 g | f2 e3 ^e | f6- | f3 dc=c | B3 ^ABc | d2 c2 B2 | A3 FAd | 
+f3 ^efg | f2 e3 g | f2 A2 e2 |1 d6- | d3 dc=c :|2 d6- |[K:G] d3 |] 
+V:2
+"^2" G,A,^A, |:"G" B,4 ^A,2 | B,4 D2 | G6 | B,3 FED |"C" C4 D2 | E4 ^D2 |"G" D6- | D3 DE^E | 
+"D7" F4 E2 | D2 F2 A2 |"G" G4 D2 |"Em" B,4 D2 |"A7" ^C4 E2 | ^C2 B,2 C2 |"D7" D2 C2 A,2 | 
+A,2 B,G, A,^A, |"G" B,4 ^A,2 | B,4 D2 | G6 | B,3 FED |"C" C4 D2 | E4 E2 |"B7" ^D6- | D3 ED^C | 
+"C" C4 D2 | E2 F2 G2 |"G" G2 B2 A2 | G2 FE D^C |"Am" C2 E3 E |"D7" D2 D3 C |1,8"G" B,6- | 
+B,3 G,A,^A, :|2"G" B,6- | B,3 BA^G |:"C" G4 E2 | C2 (G,C) EG |"G" B4 G2 | D2 (DG,) B,G | 
+"D7" F4 D2 | C3 B,C^C |"G" D6 | B2 A2 ^G2 |"C" G4 E2 | C2 (G,C) EG |"G" B4 G2 | D2 (DG,) B,G | 
+"D7" F3 GAB | A2 d3 c |"G" B3 B B2 |1"G" B3 BA^G :|2"G" B3 BA^G |:[K:D]"G" G3 ^FGA | 
+B2 A2 G2 |"D" F3 DFA | d3 ^GAB |"A7" A2 G3 B | A2 G3 ^G |"D" A6- |"D7" A3 BA^G |"G" G3 ^FGA | 
+B2 A2 G2 |"D" F3 DFA | "^Uppt. Bertil Bengtsson, arr. B.O." d3 ^GAB |"A7" A2 G3 B | A2 E2 G2 |1"D" F6- | 
+F3 BA^G :|2"D" F6- |[K:G] F3 |]
+

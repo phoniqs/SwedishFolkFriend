@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:2
+T:Knäppvals efter J G Rosenlund
+T:(för lyssning, noterad för normalstämning)
+R:Omstämt
+O:Tving, Blekinge
+M:3/4
+L:1/4
+Q:150
+%%printtempo 0
+%%MIDI ratio 2 1
+K:A
+|: (E | E/D/) C/E/ (A/B/) | c2 (d/c/) | B B ((3f/e/d/) | !+!c !+!A !+!E |
+       (E/D/) C/E/ (A/B/) | c2 (d/c/) | B {c}B/A/ (B/c/) | A2 :|
+|: !+![A,E] | !+![A,E] !+!c !+!A | !+![A,E] !+!c !+!A | [EB] B ((3f/e/d/) | !+!c !+!A !+!E |
+   !+![A,E] !+!c !+!A | !+![A,E] !+!c !+!A | [EB] {c}B/A/ (B/c/) | A2 :|
+

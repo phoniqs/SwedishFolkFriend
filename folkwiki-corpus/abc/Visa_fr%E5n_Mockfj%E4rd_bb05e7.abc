@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Visa från Mockfjärd
+O:Mockfjärd, Dalarna
+R:Visa
+Z:[[Personer/Bengt Ohlson]]
+Z:KEF  X:47
+L:1/8
+M:2/4
+K:Gm
+V:1
+"^1" D |{^F} GG ee | d2({G} ^F/=E/)F/G/ | Ac{dcBA} BA |{^F} G3 (A/B/) | 
+c2({dcBA} Bc) | d2({cBA} BG) | c2({dcB} AF) | B3 d |: 
+g2({a} g/^f/)g/a/ | b2({a} g/^f/)g/b/ | ag g{agf=e}f | d3{BABA} B | 
+G>(^F G)A/B/ | d2{cBA} BA/G/ |({G} ^F/=E/)F/G/ (AF) |1 G3 d :|2 G3 z |] 
+V:2
+"^2" D | DB, EC | [^FA]2 D2 | ^FA DC | B,3 D | 
+F2 (FA) | B2 (GD) | F2 (FE) | D3 D |: 
+B2({c} B/A/)B/c/ | d2({c} B/A/)B/d/ | dB BA | ^F3 D | 
+B,>(A, B,)D/G/ | ^F2 GF/E/ | DD ^F(D/C/) |1 [B,D]3 D :|2"^B.O." [B,D]3 z |] 
+

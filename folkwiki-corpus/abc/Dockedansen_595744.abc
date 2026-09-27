@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:8
+T:Dockedansen
+T:(Sv Folkdanser Del 1)
+O:Skåne
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 8. Dockedansen"
+Z:http://runeberg.org/folkdans/besk/0140.html
+Z:"Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 8
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1""^Förspel" A^c | e2 f2 de | (^cA) (=Bc) de | d2 d2 A^c |: 
+[K:F][M:3/4][K:treble]"^Dans" e2 f2 de | (^cA) (=Bc) de | d2 ^c2 Ac | e2 f2 de | 
+(^cA) (=Bc) de | d2 d2 fg | a2 (fa) ag | e2 (^cd) gf | 
+d2 (=B^c) de | ^c2 (A=B) cd | e2 f2 de | 
+(^cA) (=Bc) de |1 d2 z2 A^c :|2 d4 z2 |] 
+V:2
+"^2" EA | "A7"A2 A2 =B^c | (AE) (GA) "Dm"FG |"Dm" F2 F2 EG |:
+[K:F][M:3/4][K:treble]"A7" A2 A2 =B^c | (AE) (GA)"Dm" FG |"Dm" F2"A7" E2 EG |"A7" A2 A2 =B^c |
+"A7" (AE) (GA)"Dm" FG | "Dm" F2 F2 de | "Dm"f2 (df) fe | "A7"^c2 (A=B) ed |
+"Dm" =B2 (GA) B^c | "A7"A2 (EG) A=B | A2 A2 =B^c | (AE) (GA) "Dm"FG |1 "Dm" F2"^Stämförslag B.O." z2 EA :|2 "Dm"F4 z2 |]
+

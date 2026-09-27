@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Knis Kalles Minne
+C:Sven Nyhus
+R:Gånglåt
+O:Norge
+Z:Karin Helander
+N:Från inspelning med Sven Nyhus: https://www.youtube.com/watch?v=xxZNMq5rhAk
+L:1/16
+M:2/4
+Q:100
+K:A
+V:1 
+E2 |: A3E A2(AB) | (cd)(BG) A2(Ac) | e2(cA) (dc)(df) | f2e2 (ec)(ea) |
+!trill! g3f e2(ea) | !trill! g2(fe) a2(ec) | (df)(ag) (af)(df) | f2(ec) A2(ef) | 
+e3d B2(Bc) | d2(dc) (BA)(GF) | E3G (BG)(Be) | !trill!g2(ef) g2(bg) | 
+a3g a2(ec) | d2(fd) (fe)(cA) | E2(EG) (Bd)(BG) |1 A6 E2 :|2 A6 (Ad) |: [K:D]
+f3g  f2e2 | d2A2 F2D2 | G3A (GF)(GA) | B3A G2F2 | 
+E3F (ED)(EF) | G2E2 C2E2 | A2(Ac) (eg)(ec) | (dc)(de) (fe)(fg) | 
+a3b a2g2 | f2d2 A2F2 | (DF)(AF) (BA)(dA) | B3A G2F2 | 
+E3A (cA)(ce) | g3f (ef)(ed) | (cd)(cB) (Ac)(ec) |1 d6 (Ad) :|2 d6 |]
+

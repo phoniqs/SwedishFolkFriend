@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Björndans från Hedemora - Säter
+O:Hedemora, Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Bygdedanser sid. 15."
+%%score 1 2
+L:1/8
+M:3/4
+I:linebreak $
+K:Dm
+V:1
+|:"^1""^Långsamt" AA a2 a2 | ge g2 g2 | fe f2 a2 | fd e4 :: 
+AA f2 f2 | ed e2 g2 | fe f2 (ag) | e^c d4 :| 
+V:2
+|:"^2" FF f2 f2 | e^c e2 e2 | d^c"^Spelas önskat antal ggr." d2 f2 | dB ^c4 :: 
+FF d2 d2 | ^cB c2 e2 | d"^Obs. Taktindeln. ändrad. Stämförslag B.O."^c d2 (fe) | ^cA [FA]4 :| 
+

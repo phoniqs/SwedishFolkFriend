@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:19
+T:Fyrtur Nr 5
+T:(Gamla Dansar i Skåne)
+S:Nils Olsson Höganäs
+R:Fyrtur
+O:Höganäs, Skåne
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Fyrtur (5)"
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (ec)Bc (Ac)fa | (gf)df g2 z |][K:G][M:2/4][K:treble]"^Dans" B |: (GF)GB (GB)df | 
+(gf)gd B2d2 | (ec)Bc (Ac)fa |1 (gf)df g2 z B :|2 (gf)df g2 z e |:
+[K:D] c2c2 d2f2 | A2A2 (ce)df | c2e2 (dc)df |1 A2A2 d2 z e :|2 A2A2 d2 z c |:
+[K:G] (dc)Bc A2f2 | (gf)gb (gf)gb | (af)dc c2B2 |1 (Ac)fa g2 z c :|2 (Ac)fa g2 z2 |] 
+V:2
+"^2" (cA)GA (FA)cf | (ed)Ac B2 z |][K:G][M:2/4][K:treble] G |: (B,A,)B,D (DG)Bd | (BA)BB G2B2 | 
+(cA)GA (FA)cf |1 (ed)Ac B2 z G :|2 (ed)Ac B2 z c |:[K:D] A2G2 F2A2 | E2E2 (GA)FA | A2G2 (FE)FA |1 E2E2 F2 z c :|2 E2E2 F2 z A |:
+[K:G]"^Efter Nils Olsson, Höganäs." (BA)GA F2A2 | (BA)Bd (dc)dg | (fd)BA A2G2 |1 "^Stämförslag B.O." (FA)dc B2 z A :|2 (FA)dc B2 z2 |]
+

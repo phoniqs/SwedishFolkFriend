@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Uppland
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1"v (G>B) (B>d) d>g | (g>b) (b>g) d>c | e>(d c>)(e g>)e |1 d2 B3 z :|2 
+d2 B3u B |: c>B A2 g2 | (f>e) d3u B | c>B A2 g2 | 
+(f>e) d3u g | (f>e) (d>c) B>c |1 A2 G3u B :|2 A2 G3 z |] 
+V:2
+|:"^2""G" (D>G) (G>B) B>d | (d>g) (g>d) B>A |"C" c>(G E>)(c e>)c |1"G" B2 G3 z :|2 
+"G" B2 G3 G |: "D7" A>G F2 e2 | (d>A) F3 G | "Stämförslag B.O." A>F D2 B2 | (A>G) F3 e | (d>c) (B>A) G>F |1 "D7" D2"G" B,3 G :|2"D7" D2"G"  B,3 z |]
+

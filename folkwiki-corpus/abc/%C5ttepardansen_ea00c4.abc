@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:52
+T:Åttepardansen
+O:Norge
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Norge, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" c>BA>e d>cB>A | G2G2 G2 z2 |]:[K:G][M:2/4]"^Dans"[K:treble]"^(1)" d>^cd>e d>cd>e | d2d2 B4 | c2cB A4 | 
+d2dc B4 | d>^cd>e d>cd>e | d2d2 B4 | c>BA>e d>cB>A |1 G2G2 G2 z2 :|2 G2G2 G2A>B"^(2)" |: 
+c>BA>B c>BA2 | d>cB>c d>cB2 | e2e2 egfe | e2d2 d4 | 
+d>^cd>e d>cd>e | d2d2 B4 | c>BA>e d>cB>A |1 G2G2 G2A>B :|2 G2G2 G2 z G |:
+[K:C]"^(3)" e2ed (cB)cE | A2A^F D2>C2 | (B,C)DE (^FG)AB | (cd)e^f g2>G2 | 
+e2ed (cB)cE | A2A^F D2>C2 | (B,C)DE (^FG)AB |1 c2c2 c2 z G :|2 c2c2 c2 z2 |] 
+V:2
+"^2" A>GF>G F>AF>D | B,2B,2 B,2 z2 |]:[K:G][M:2/4][K:treble] B>^AB>c B>AB>c | B2B2 G4 | A2AG F4 | 
+B2BA G4 | B>^AB>c B>AB>c | B2B2 G4 | A>GF>A F>AF>D |1 B,2B,2 B,2 z2 :|2 B,2B,2 B,2F>G |: 
+A>GF>G A>GF2 | B>AG>A B>AG2 | c2c2 cedc | c2B2 B4 | B>AB>c B>AB>c | B2B2 G4 | A>GF>A F>AF>D |1 B,2B,2 B,2D>G :|2 B,2B,2 B,2 z B, |:
+[K:C] c2cG (ED)EC | "^1:a 4 ggr. 2:a 4 ggr. 3:e 2 ggr." ^F2FD A,2>A,2 | (G,A,)B,C (DE)^FG | (EG)cd e2>E2 | c2cG (ED)EC | ^F2FD A,2>A,2 | 
+(G,A,)B,C (DE)^FG |1 "^Stämförslag B.O." E2E2 E2 z E :|2 E2E2 E2 z2 |]
+

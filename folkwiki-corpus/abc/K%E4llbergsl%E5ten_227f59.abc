@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Källbergslåten
+C:Udd Axel Johansson
+O:Hedemora, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gånglåt av Udd Axel Johansson, Hedemora."
+Z:"Tillägnad Lilly Berglund, Källberget, St. Skedvi på 40-årsdagen. Komp. den 21 juni 1964."
+L:1/16
+M:2/4
+K:Bb
+V:1
+"^1""^Tillägnad Lilly Berglund, Källberget, St. Skedvi på 40-årsdagen.""^Komp. den 21 juni 1964." F2 |: (B2>c2) (BA)Bc | d2ed (c2B2) | (E2>F2) (ED)EF | G2^FG (B2G2) | (F2>G2) (AB)cd | 
+(e2f2) (a2g2) | f2gf e2fe | d6 F2 | (B2>c2) (BA)Bc | d2ed (c2B2) | (E2>F2) (ED)EF | 
+G2^FG (B2G2) | (F2>G2) (AB)cd | (e2f2) (a2g2) | f2gf (e2A2) |1 B6 F2 :|2 B6 d2 |: 
+f4 (fg)fe | (d2f2) (b2a2) | (g2e2) (ed)ef | e6 (cd) | e4 (ef)ed | (c2e2) (a2g2) | 
+(g2f2) (f=e)fg | f4 (gf)=ef | "B" (d2B2) (BA)Bc | B4 (cB)AB |"^Ess" (G2E2) (ED)EF | 
+G4 (Bc)BG |"B" (F2B2) (B2d2) | f4 d4 | "F7" (e2F2) (FA)cA |1 B6 d2 :|2 B6 z2 |] 
+V:2
+"^2" D2 |:"B" (D2>E2) (D^C)DF | B2cB (F2D2) |"^Ess" (G,2>A,2) G,2G,B, | E2DE (G2E2) | "F7" (A,2>C2) (FG)AB | 
+(A2c2) (f2c2) | A2BA c2dc |"B" B6 D2 | (D2>E2) (D^C)DF | B2cB (F2D2) | "^Ess" (G,2>A,2) G,2G,B, | 
+E2DE (G2E2) |"F7" (A,2>C2) (FG)AB | (A2c2) (f2c2) | A2BA (A2F2) |1 "B" D6 D2 :|2"B" D6 B2 |:
+"B" d4 (de)dc | (B2d2) (g2f2) |"^Ess" (e2c2) (c=B)cd | c6 (AB) | "F7" c4 (cd)cB | (A2c2) (f2e2) | 
+(e2d2) (d^c)de | d4 (ed)^cd | (B2D2) (D^C)DE | D4 (ED)^CD | (E2G,2) G,2G,B, | 
+E4 (GA)GE | (D2F2) (F2B2) | "^Stämförslag B.O." d4 B4 | (F2C2) (CF)AF |1 "B" D6 B2 :|2"B" D6 z2 |]
+

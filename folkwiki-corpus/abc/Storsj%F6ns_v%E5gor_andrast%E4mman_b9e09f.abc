@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Storsjöns vågor (andrastämman)
+C:Joel Rådberg
+O:Sandviken, Gästrikland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Komp. och arr. Joel Rådberg, Sandviken
+L:1/16
+M:3/4
+K:F
+V:2
+"^2" (AG) |: A2A,2 (A,2C2) A2F2 | (AG)AB (cB)AG (A2F2) | (DF)DB, (DF)DB, (CF)AF | 
+(G=B)dB (FB)dB (EG)EC | A2A,2 (A,2C2) A2F2 | (AG)AB (cB)AG (A2F2) | (DF)Bd (dc)BA (GF)ED |1 (CD)EC A,6 (AG) :|2,8 (CD)EC A,8 |:
+[K:C] (GF)ED (^DE)CG, E2E2 | F4 (A,4 C4) | G4 (_B,4 D4) | E4 (C4 E4) | 
+(GF)ED (^DE)CG, E2E2 | F4 (A,4 C4) | _B,AGF (ED)CB, (AG)FE |1 (DC)_B,G, [CE]8 :|2 [K:F] (DC)_B,G, [CE]6 (AG) |:
+[K:C] C2E2 (G2E2) (G2E2) | D2F2 (A2F2) (A2F2) | _B4 A4 G4 | E4 C4 E4 | 
+C2E2 (G2E2) (G2E2) | D2F2 (A2F2) (A2F2) | _B4 A4 (D2F2) | G2F2 _B,4 [CG]4 :: 
+[K:F]"^pizz." .C2.B,2 .A,2.C2 .B,2.A,2 | .D2.C2 .B,2.D2 .C2.B,2 | .C2.E2 .B2.G2 .E2.B2 | (Ac)(AF) (DF)(DB,) (FA)(FA,) |
+"^pizz." .C2.B,2 .A,2.C2 .B,2.A,2 | .D2.C2 .B,2.D2 .C2.B,2 | "^arco." E2dc (Bd)cB (Ac)FA |1 (GE)CB, A,8 :|2 (GE)CB, A,4 [Fc]4 |]
+

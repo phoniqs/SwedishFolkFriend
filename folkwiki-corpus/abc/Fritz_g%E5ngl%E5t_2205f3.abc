@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Fritz gånglåt
+T:(Andrastämman)
+C:Fritz Nystedt
+O:Dorotea, Lappland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Fritz Nystedt, (1922-1967) Dorotea."
+L:1/8
+M:2/4
+K:Eb
+V:2
+|:"^2" "Eb" GA/G/ (EB,) | EG, B,E |"Ab" A,2 (A,C) | A,3 =A | 
+"Bb7" BA GF | A,G, A,B, |"Eb" G,2 (G,B,) | E3 G | 
+GA/G/ (EB,) | EG, B,E |"Ab" A,2 (A,C) | A,3 =A | 
+"Bb7" BA GF | A,G, A,B, | "Eb" G,2 (!>!A,"Bb7"!>!A,) |"Eb" G,3 G ::
+"Ab" A2 (A>B) | cc BA |"Eb" G2 (GE) | G3 (D/E/) | 
+"Bb7" DF DB, | A,G, A,B, |"Eb" G,2 (G,B,) | E3 G |
+"Ab" A2 (A>B) | cc BA | "Eb" G2 (GE) | G3 (D/E/) | 
+"Bb7" DF DB, | A,G, A,B, |"Eb" G,2 (!>!A,"Bb7"!>!A,) |1"Eb" G,3 G :|2"Eb" G,3 E |: 
+"Cm" c2 (G/F/)E/D/ | E2 ED/E/ | "G7" F2 (F>D) | =B,3 B, | 
+=B,2 (DE) | F2 (G>F) |"Cm" (FE) (E/D/)E/F/ | E3 E | 
+c2 (G/F/)E/D/ | E2 ED/E/ | "G7" F2 (F>D) | =B,3 B, | 
+=B,2 (DE) | F2 (G>F) | "Cm" "_Stämförslag B.O." (FE) (E/D/)E/F/ |1"Cm" [G,E]3 E :|2"Cm" [G,E]2"Bb7" F2 |]
+

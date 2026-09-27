@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:1
+T:Hultkläppens A-dursvals
+T:(Vals från Tallön)
+S:Hultkläppen
+O:Bergsjö, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Per Alcén (1834 - 1898), Bergsjö."
+Z:"Eftersom pojkar på Bergsjömål kallades "kläppar" fick Per Alcén som son till Hult heta "Hultkläppen" hela livet."
+N:En annan källa är Öhrn-Jante, också från Bergsjö
+L:1/8
+M:3/4
+U:t=tenuto
+K:A
+V:1
+"^1"u A2 |:v (Ac) (te2 td2) | (c3 B) A2 | (Ac) e2 dc | B2 BB B2 | (Bc) (de) fe | (eg) (.g.g) .g.g | 
+(gf) (ed) cB | A2 aa a2 | (Ac) (te2 td2) | (c3 B) A2 | (Ac) e2 dc | B2 BB B2 | 
+(Bc) (de) fe | (eg) (.g.g) .g.g | (gf) (ed) cB | A3 a a2 |1 a4 A2 :|2 a3u aag |: 
+f2 (td2 td2) | d3 faf | e2 (tc2 tc2) | c3 efe | g2 (tB2 tB2) | (Bc) (de) fe | 
+(gf) (ed) cB | A3 aag | f2 (td2 td2) | d3 faf | e2 (tc2 tc2) | c3 efe | 
+g2 (tB2 tB2) | (Bc) (de) fe | (gf) (ed) cB | A3 a a2 |1 a3u aag :|2 a4 z2 |] 
+V:2
+"^2"u E2 |:v"A" (EA) (tc2 tB2) | (A3 E) C2 | (EA) c2 BA |"E7" G2 GG G2 | (EF) (GA) BG | (GB) (.B.B) .B.B | 
+(BA) (GF) ED |"A" C2 cc c2 | (EA) (tc2 tB2) | (A3 E) C2 | (EA) c2 BA |"E7" G2 GG G2 | 
+(EF) (GA) BG | (GB) (.B.B) .B.B | (BA) (GF) ED | "A" C3 c c2 |1"A" c4 E2 :|2"A" c3u ffe |:
+"D" d2 (tA2 tA2) | F3 dfd | "A" c2 (tA2 tA2) | E3 cdc |"E7" B2 (tG2 tG2) | (EF) (GA) BG | 
+(BA) (GF) ED |"A" C3 ffe |"D" d2 (tA2 tA2) | F3 dfd | "A" c2 (tA2 tA2) | E3 cdc |"E7" B2 (tG2 tG2) | 
+(EF) (GA) BG | "^Allm. trad." (BA) (GF) ED | "A""^Stämförslag B.O." C3 c c2 |1"A" c3u ffe :|2"A" c4 z2 |]
+

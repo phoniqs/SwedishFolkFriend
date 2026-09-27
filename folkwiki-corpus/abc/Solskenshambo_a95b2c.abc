@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Solskenshambo
+C:Hugo Westling
+O:Bollnäs, Hälsingland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Hugo Westling"
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" G,2 (B,>D) G>B | (d>g) (d>B) G>B | (c>B) (c>e) c>A | E2 (A2 G2) | (F>E) (F>G) F>E | 
+D2 F>A d2 | (B>A) (B>c) B>A | G2 B>d g2 | G,2 (B,>D) G>B | (d>g) (d>B) G>B | 
+(c>B) (c>e) c>A | E2 (A2 G2) | (F>E) (F>G) F>E | D2 F>A d2 | c2 (D>c) B>A | G2 G4 :: 
+[K:D] (a>f) (d>a) f>d | (f>d) (A>f) d>A | (g>e) (B>g) e>B | G2 (e2 d2) | (c>A) (E>c) A>E | 
+C2 E>A c2 | (d>A) (F>d) A>F | D2 F>A d2 | (a>f) (d>a) f>d | (f>d) (A>f) d>A | 
+(g>e) (B>g) e>B | G2 (e2 d2) | (c>A) (E>c) A>E | C2 (E>A) c>e | (ga/g/) (A>g) f>e | d2 d4 :| 
+V:2
+|:"^2""G" D2 (G,>B,) D>G | (B>d) (B>G) D>G |"C" (A>G) (A>c) A>E | C2 (F2 E2) | 
+"D7" (D>^C) (D>E) D>=C | A,2 D>F F2 | "G" (D>^C) (D>E) =D>C | B,2 D>G d2 | D2 (G,>B,) D>G | 
+(B>d) (B>G) D>G | "C" (A>G) (A>c) A>E | C2 (F2 E2) | "D7" (D>^C) (D>E) D>=C | A,2 D>F F2 | F2 (A,>F) D>C | 
+"G" B,2 B,4 ::[K:D]"D" (f>d) (A>f) d>A | (d>A) (F>d) A>F |"Em" (e>B) (G>e) B>G | E2 (c2 B2) | 
+"A7" (A>E) (C>A) E>C | A,2 C>E E2 | "D" (A>F) (D>A) F>D | A,2 D>F F2 | (f>d) (A>f) d>A | 
+(d>A) (F>d) A>F | "Em" (e>B) (G>e) B>G | E2 (c2 B2) |"A7" (A>E) (C>A) E>C | A,2 (C>E) A>c | "^B.O." e2 (c>B) A>G | "D" F2 F4 :|
+

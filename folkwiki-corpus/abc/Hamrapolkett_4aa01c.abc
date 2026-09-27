@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Hamra-polkett
+S:Sigge Mattsson
+O:Hamra, Orsa Finnmark, Dalarna
+R:Polkett
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Sigge Mattsson, Hamra, Orsa Finnmark."
+Z:"Uppt. från CD"
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" d |: G>B dg | b3 a | g>f ed | c5/4d/4 cB | A2u f>uf | f3 a | 
+g>f ed | B3 D | G>B dg | b3 a | g>f ed | c5/4d/4 cB | A2u f>uf | 
+fd ba | g2 (f/e/)f/a/ | g2 g2 :: DG/B/ (d/B/)e/B/ | dd/B/ d/B/d | 
+DG/B/ (d/B/)e/B/ | dc/B/ c/B/c | DF/A/ (fe) | DF/A/ (ed) | 
+cd/c/ (EF) | GE/D/ (ED) | DG/B/ (d/B/)e/B/ | dd/B/ d/B/d | DG/B/ (d/B/)e/B/ |
+"D7" dc/B/ c/B/c | DF/A/ (fe) | DF/A/ (ed) | cd/c/ (EF) | G2 G2 :| 
+V:2
+"^2" B |:"G" D>G Bd | g3 f | e>d cB |"D7" A5/4B/4 AG | F2u A>uA | A3 f |"G" e>d cB | 
+G3 B, | D>G Bd | g3 f | e>d cB |"D7" A5/4B/4 AG | F2u A>uA | AF dc |"G" B2"D7" (Ac) | 
+"G" B2 B2 ::"G" B,D/G/ (B/G/)c/G/ | BB/G/ B/G/B | B,D/G/ (B/G/)c/G/ |"D7" BA/G/ A/G/A | A,D/F/ (AG) | 
+FA/d/ (cA) | FG/F/ (CD) |"G" B,B,/A,/ (CB,) | B,D/G/ (B/G/)c/G/ | BB/G/ B/G/B | 
+B,D/G/ (B/G/)c/G/ | BA/G/ A/G/A | A,D/F/ (AG) |"Stämförslag B.O." FA/d/ (cA) | FG/F/ (CD) |"G" B,2 [B,D]2 :|
+

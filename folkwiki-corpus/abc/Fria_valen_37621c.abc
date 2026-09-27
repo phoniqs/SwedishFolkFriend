@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:16
+T:Fria valen
+T:(Sv Folkdanser Del 1)
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 16. Fria valen"
+Z:http://runeberg.org/folkdans/besk/0152.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 16
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" g2g2 (ag)fe | d2d2 (dc)BA | G2B2 (dc)BA | G2G2 G4 |]: [K:G][M:2/4][K:treble]"^Dans""^(1)" G2B2 B2B2 | (AB)AG F2D2 | 
+G2G2 A2B2 | (cd)cB A2Bc | d2Bd g4 | c2Ac e4 | (ed)Bd (dc)AF | (AG)DB, G,4 :|
+"^(2)"c2>B2 A2A2 | B2>A2 G2G2 | A2>G2 (FD)EF |(GA)Bc (de)fg | c2>B2 A2A2 | B2>A2 G2G2 |
+ A2BA (GF)GE | D2ED (^CD)EF |]"^(3)" g2g2 (ag)fe | d2d2 (dc)BA | G2g2 g2g2 | (ab)ag f2d2 |
+ g2g2 (ag)fe | d2d2 (dc)BA | G2B2 (dc)AF | G2G2 G4 |:"^Marsch" [FA]4 [Fd]4 | [GB]4 [EB]4 | 
+ E4 A4 | (GF)EF (DE)FG | [FA]4 [Ad]4 | G2A2 B4 | B2d2 (^cA)ce | d4 z4 :| 
+V:2
+"^2""G" B2B2 (fe)dc | B2B2 (BA)GD | B,2G2 (FA)FD | B,2B,2 B,4 |]: [K:G][M:2/4][K:treble]"G" B,2G2 G2G2 |"D7" (FG)FE D2A,2 |
+"G" B,2B,2 D2G2 |"D7" (AB)AG F2GA | "G" B2GB B4 |"C" A2EA c4 |"G" (cB)GB"D7" (BA)FD |"G" (CB,)GD B,4 :| 
+"D7"A2>E2 C2C2 | "G" G2>D2 B,2B,2 | "D7" F2>E2 (DA,)CD | "G" (B,D)GA (Bc)AB | "D7" A2>E2 C2C2 | "G" G2>D2 B,2B,2 | 
+"D7" F2GF (ED)E^C | A,2B,A, (G,A,)CD |]"G" B2B2 (fe)dc | B2B2 (BA)GD | B,2B2 B2B2 | "D7" (cd)cB A2F2 | 
+"G" B2B2 (fe)dc | B2B2 (BA)GD | "G" B,2G2 "D7" (FA)FD | "G" B,2B,2 B,4 |: "D7" D4 A4 | "G" E4 D4 | 
+"A7" ^C4 E4 |"D" (ED)^CD (A,C)DE |"D7" D4 C4 | "G"  B,2D2 G4 | "A7" G2"^Stämförslag B.O."B2 (AE)AG | "D" F4 z4 :|
+

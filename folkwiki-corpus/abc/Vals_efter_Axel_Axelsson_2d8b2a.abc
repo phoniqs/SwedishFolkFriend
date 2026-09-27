@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:523
+T:Vals efter Axel Axelsson
+T:'verldens liksta vals'
+T:(OA 523)
+B:Sörmländska låtar samlade av Olof Andersson nr 523
+R:Vals
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:Efter Janne Lundkvist i Runtuna; en stalldräng vid Runtuna gård som spelade fiol. Lundkvist kallade låten för 'verldens liksta vals'.
+Z:Anders Larsson 2025-03-03
+M:3/4
+L:1/4
+Q:140
+%%MIDI ratio 2 1
+%%printtempo 0
+K:C
+C E G | e3/2 f/ e/d/ | e c A | F3/2 G/ F/E/ |  F G/A/ B/c/ | d3/2 e/ d/c/ | d B G | G3/2 A/ G/E/ |
+C E G | e3/2 f/ e/d/ | e c A | F3/2 G/ F/E/ |  F G/A/ B/c/ | d/>d/ d/d/ d/d/ | d/G/ G/G/ A/B/ |1
+c2 z :|2  c2 G |: G/c/ e/c/ G/c/ | e/f/ g/e/ g/e/ | d/B/ d/B/ G/B/ |  d/e/ f/e/ f/d/ |
+G/c/ e/c/ G/c/ | e/f/ g/e/ g/e/ | d/B/ d/B/ G/B/ |1  c2 G :|2 c2 z |]
+

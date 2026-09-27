@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:17
+T:Lilla kärestan min
+T:Vals efter Jons-Axel Nr 17
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Vals
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 17. Vals. Lilla kärestan min"
+L:1/8
+Q:1/4=132
+M:3/4
+K:G
+V:1
+"^1"u D2 |: B,3 DGB | e3 dcB | A4 E2 | A4 G2 | F3 Ade | (fe) (dc) BA | (GF) (AG) FE | 
+D4 D2 | B,3 DGB | e3 dcB | A4 E2 | A4 G2 | F3 Ade | (fe) (dc) BA | G2 z G G2 | G2 z2u D2 :: 
+B3 B B2 | (DG) (GB) (Bd) | d2 (ed) cB | A4 A2 | (fe) (ed) dc | (cB) (AB) cd | e2 (fe) d^c | d4 d2 | 
+g3 g g2 | (gd) (BG) (Bg) | f4 e2 | e4 e2 | d2 (ed) ^cd | (fe) (dc) BA | G3 G G2 |1 G2 z2u D2 :|2 G2 z2u B2 |: 
+d3 c B2 | d3 c B2 | g3 f e2 | d2 z2 AB | c3 B A2 | f2 z2 Bc | e2 (d2 B2) | e2 (d2 B2) | 
+d3 c B2 | d3 c B2 | g3 f e2 | d2 z2 AB | c3 B A2 | f3 e f2 | g3 g g2 |1 g2 z2u B2 :|2 g2 z4 |] 
+V:2
+"^2" B,2 |:"G" G,3 B,DG | c3 BAG |"Am" E4 C2 | E4 E2 |"D7" D3 FAc | (dc) (AF) DC | "G" (B,A,) (CB,) A,G, |"D7" (DE) (DC) B,A, |
+"G" G,3 B,DG | c3 BAG |"Am" E4 C2 | E4 E2 | "D7" D3 FAc | (dc) (AF) DC |"G" B,2 z B, B,2 |"G" B,2 z2 B,2 ::
+"G" G3 G G2 | (B,D) (DG) (GB) | B2 (cB) AG |"D7" F4 F2 | (dc) (cB) BA | (AG) (FG) AB | c2 (dc) B^A |"G" B4 B2 | 
+B3 B B2 | (BG) (DB,) (DB) |"Am" d4 c2 | c4 c2 |"D7" F2 (GF) ^EF | (AG) (FE) DC |"G" B,3 B, B,2 |1 "G" B,2 z2 B,2 :|2"G" B,2 z2 G2 |:
+"G" B3 A G2 | B3 A G2 |"C" e3 d c2 |"G" B2 z2 FG | "D7" A3 G F2 | A2 z2 ^GA |"G" c2 (B2 G2) | c2 (B2 G2) | 
+B3 A G2 | B3 A G2 |"C" e3 d c2 | "G" B2 z2 FG |"D7" A3 G F2 | "^Stämförslag B.O." A3 G A2 |"G" B3 B B2 |1"G" B2 z2 G2 :|2 "G" B2 z4 |]
+

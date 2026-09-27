@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:På Lindö loge
+T:Vals
+O:Upplands Väsby, Uppland
+R:Vals
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+N:"Där gick dansen då det begav sig..."
+L:1/8
+M:3/4
+K:Bb
+V:1
+|:"^1" (Bd) (Ac) (BF) | (DF) (3(E/F/E/) "^Där gick dansen då det begav sig . . ." D CB, | G,2 C3 E | G2 C2 B,2 | A,2 (CF) Ac | e (3(c/e/c/) AF Ac |
+c (3(B/c/B/) AB dB | F2 (DB,) DF | (Bd) (Ac) (BF) | (DF) (3(E/F/E/) D CB, | G,2 C2 E2 | G2 c2 B2 | (AG) (FE) CA, | 
+(CF) (Ae) Ac | B2 D2 F2 |1 B4 z F :|2,8 B6 |: (G,B,) (EG) Be | g2 a2 b2 | f2 (dB) FD | (B,D) (FB) de | 
+(3(cdc) (AF) CA, | (CF) (Ae) Ac |1 (B2{AB)} (dB) FD | B,2 (A,2 _A,2) :|2 B2 (D2 F2) | B6 |: (dB) (FD) B,D | (FB) (dB) ed | 
+(cA) (FC) A,C | (FA) (ce) dc | B2 (GD) B,G, | (B,D) (GB) dB | (BA) (dA) ^FA | (D^F) (Ac) BA | G2 (G,B,) EG | 
+(BG) (EB) GE | (DB,) (DF) Bd | f2 (=ef) gf | (fe) (cA) FE | (CA,) (CF) Ac | (BD) (FB) df | [db]6 :| 
+V:2
+|:"^2""Bb" F2 E2 D2 | B,2 A,2 _A,2 |"Cm" C2 E3 G |"C7" C2 A,2 G,2 |"F" C2 FA cF | AF CA, CE | 
+"Bb" ED CD FD | [B,D]2 FD FB | F2 E2 D2 | B,2 A,2 _A,2 |"Cm" C2 E2 G2 |"C7" c2 e2 d2 | 
+"F7" cB AG FE | A,C FA CE | "Bb" D2 FE DC |1 "Bb" [B,D]4 z D :|2,8 "Bb" [B,D]6 |:"Eb" E3 EGB | e2 f2 g2 | 
+"Bb" d2 (BF) DB | F3 FBc |"F7" A2 FE EC | E3 GFE |1"Bb" D2 (BF) DB, | 
+"Bb" D2"F" (E2"Bb7" F2) :|2"Bb" D2 (FE) DC |"Bb" [B,D]6 |:"Bb" B4 F2 | D2 F2 B2 | 
+"F7" A4 F2 | C2 F2 A2 |"Gm" G4 D2 | G,2 B,2 D2 |"D7" ^F4 D2 | A,4 D2 |"Eb" B,4 E2 | G2 E2 B,2 | 
+"Bb" F4 D2 | B,2 D2 F2 | "F7" E4 C2 |  E2 F2 E2 |"Bb" D2 "^B.O." (B,D) FB |"Bb" [DB]6 :|
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Hamboposka från Södra Dalarna
+T:efter Wilhelm Andersson
+S:Wilhelm Andersson
+O:Stora Skedvi, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(23) Hambo-polska från Södra Dalarna efter Wilhelm Andersson, Stora Skedvi."
+L:1/8
+M:3/4
+K:F
+V:1
+"^1"u A |: c>(B A>c) f>A | c>(B A>c) f>a | B>(A G>c) e>g | f>(e f>c) B>A | 
+c>(B A>c) f>A | c>(B A>c) f>a | B>(A G>c) e>g | (gf) f3u A ::
+(B>A) (B>d) c>B | (B>A) (A>c) f>a | (a>g) (g>b) e>g | (f>a) (c>f) A>c |
+(B>A) (B>d) c>B | (B>A) (A>c) f>a | (a>g) (g>b) e>g |1 (gf) f3u A :|2 (gf) f3u g |:
+[K:Bb] (f>d) Bd/f/ b>d | (f>d) Bd/f/ b>d | fg/f/ (e>c) A>c | (B>c) (d>e) f>g | 
+(f>d) Bd/f/ b>d | (f>d) Bd/f/ b>d | fg/f/ (e>c) A>c |1 (cB) B3u g :|2 (cB) B3 |] 
+V:2
+"^2" F |:"F" A>(G F>A) A>F | A>(G F>A) A>c |"C7" G>(F E>G) B>c |"F" A>(^G A>F) =G>F | 
+A>(G F>A) A>F | A>(G F>A) A>c |"C7" G>(F E>G) c>B |"C7" (BA)"F" A3 F :: 
+"C7" (G>^F) (G>B) A>G | "F" (G>F) (F>A) c>f | "C7" (f>e) (e>c) B>c |"F" (A>c) (F>A) C>F | 
+"C7" (G>^F) (G>B) A>G | "F" (G>F) (F>A) c>f | "C7" (f>e) (e>c) B>c |1"C7" (BA) "F" A3 F :|2"C7" (BA) "F" A3 c |: 
+[K:Bb]"Bb" (B>F) DF/B/ d>F | (B>F) DF/B/ d>B |"F7" de/d/ (c>A) F>E |"Bb" (D>F) (B>c) d>c | 
+(B>F) DF/B/ d>F | "^Stämförslag B.O." (B>F) DF/B/ d>B | "F7" de/d/ (c>A) F>E |1 "F7" (ED) "Bb" D3u c :|2 "F7" (ED) "Bb" D3 |]
+

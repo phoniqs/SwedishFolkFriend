@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Själevad
+R:Polska
+O:Själevad, Ångermanland
+S:Olov Nilsson
+Z:Karin Helander
+N:Från https://spelmansforbundet.com/wp-content/uploads/2021/02/Polska_fran_Sjalevad.pdf
+N:Uppteckning och arrangemang O. Ståhl
+N:Efter Olov Nilsson, Landsjö, Arnäs, Född 1882
+M:3/4
+L:1/8
+K:D
+V:1
+|: "^uppt. och arr. O. Ståhl" D>F A>d f>d | A>c e>g b2 | !trill! g>f e>d "^efter Olov Nilsson, Arnäs. Född 1882"c>B | !trill! B>A A>G F2 | 
+D>F A>d f>d | A>c e>g b2 | !trill! g>f e>d c>B | c>d d4 :|
+|: g>b b>b b>g | f>a a>a a>f | g>b b>b b>g | f>a a>a a>f |
+e>g g>g g>e | d>c d>f a2 | g>f e>d c>B | c>d d4 :|  
+V:2
+|: A,>D F>A d>A | G>A c>e g2 | !trill! e>d c>B A>G | !trill! G>F F>E D2 |
+A,>D F>A d>A | G>A c>e g2 | !trill! e>d c>B A>G | [A,G]>[A,F] [A,F]4  :|
+|: [G,G]>[dg] [dg]>[dg] [dg]>d | [Dd]>[df] [df]>[df] [df]>d | [G,G]>[dg] [dg]>[dg] [dg]>d | [Dd]>[df] [df]>[df] [df]>d |
+ A,>[ce] [ce]>[ce] [ce]>A| F>E F>A [df]2 | e>d c>B A>G | [A,G]>[A,F] [A,F]4 :|
+

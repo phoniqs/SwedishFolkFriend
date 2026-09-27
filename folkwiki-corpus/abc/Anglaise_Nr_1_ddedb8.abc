@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Anglaise Nr 1
+T:(Gamla Dansar i Skåne)
+O:Höganäs, Skåne
+R:Anglais
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Anglaise (1)"
+S:Nils Olsson Höganäs
+B:Gamla Dansar i Skåne
+L:1/8
+M:2/4
+K:C
+V:1
+"^1""^Förspel" d>c BA | (G/B/)d/B/ c2 |]:[M:2/4][K:treble]"^Dans" (E/F/)^F/G/ (A/G/)F/G/ | 
+cE AG | z/ G/B/d/ FD | (B/A/)F/D/ C2 :: 
+e>c Ge | Ge fe | d>c BA | (G/B/)d/B/ c2 :| 
+V:2
+"^2" BA GD | DG/F/ E2 |]:[M:2/4][K:treble] CD/E/ (F/E/)D/E/ | GC FE | z/ D/G/B/ DB, | 
+(G/F/)D/B,/ G,2 ::"^Efter Nils Olsson, Höganäs." cG Ec | Ec dc | BA GF | 
+"^Stämförslag B.O." DG/F/ E2 :|
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Gruvlåten
+T:Gammal Bergsmanspolska
+S:Efter Spel-Stina
+O:Gästrikland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Lämplig dans: Polska från Åmåt."
+L:1/16
+M:3/4
+K:Em
+V:1
+|: vB4 e2>f2 e4 | d4({a} gf)ga g4 | (f2>e2) ^d2e2 f2a2 | (gf)e^d e2e2 B4 |
+ B4 e2>f2 e4 | d4({a} gf)ga g4 | (f2e2) b2g2 f2e2 | (^de)fd e4 z4 ::
+[K:C]vA2cA B2dB "^Lämplig dans: Polska från Åmot." c2ec | d2^fd e2d2 c2B2 | (AB)cA B2^G2 E4 | (AB)cA B2^G2 E4 | 
+ A2cA B2dB c2ec | d2^fd e2d2 c2B2 | (AB)cd e2Bd c2(BA) | (^GA)BG A4 z4 :| 
+V:2
+|:"Em" vE4 G2>A2 G4 |"D7" F4 "Em"(BA)Bc "Em"B4 |"B7" (^d2>^c2) B2c2 d2f2 |"Em" (eB)GF G2G2 E4 | 
+E4 G2>A2 G4 |"D7" F4 "Em" (BA)Bc "Em"B4 | (B2G2) e2B2 A2G2 |"B7" (FG)AF"Em" G4 z4 :: 
+[K:C] "Am"vE2AE "E7" ^G2BG "Am" A2cA |"Dm" B2dB"E7" c2B2"E7" ^G2E2 | "Am"(CE)AE "E7" ^G2E2 B,4 | "Am" (CE)AE "E7" ^G2E2 B,4 | 
+"Am"E2AE "E7" ^G2BG "Am"A2cA |"Dm" B2dB"E7" c2B2 ^G2E2 | "Am" (CE)AB "^Stämförslag B.O."c2^GB A2(EC) |"E7" (B,C)DB,"Am" C4 z4 :|
+

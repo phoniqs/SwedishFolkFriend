@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Steklåt från Grytnäs
+S:Jan Andersson
+O:Skräddarbo, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. [[Personer/Karl Sporr]] eft. Jan Andersson, Skräddarbo"
+L:1/8
+M:4/4
+K:A
+V:1
+|:"^1""^Långsam marsch"v e>(A ce) a2 c2 | e>(d Bd) d>(c Ac) | e>(A ce) a2 c2 | 
+e>(d Bd) d>(c Ac) | .E.F .G.A .B.c .d.B | G4 A4 ::
+[K:D]v D2 (3(FAd) .f2 (3(f/g/f/ e/f/) | g>(e ce) (ed) (df) | 
+D2 (3(FAd) f2 (3(f/g/f/ e/f/) | g>(e ce) d3 z :|[K:A] |] 
+V:2
+|:"^2" c>(E Ac) e2 A2 | c>(B GB) B>(A EA) | c>(E Ac) e2 A2 | c>(B GB) B>(A EA) | 
+.B,.C .D.E .F.G .B.G | (E2 D2) C4 ::
+[K:D] A,2 (3(DFA) .d2 (dc/d/) | "^Spelades förr när steken bars in.""^Begagnas än i dag vid \"fyllkalas\",""^d.v.s. då någon fyller år.  (Sporr 1941)" e>(c AG) (GF) (FA) | 
+A,2 (3(DFA) d2 (dc/d/) | "^Arr. B.O." e>(c AG) F3 z :|[K:A] |]
+

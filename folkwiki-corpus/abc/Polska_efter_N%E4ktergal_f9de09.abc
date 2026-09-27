@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Näktergal
+S:Kers Erik Ersson
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (7) eft. Kers-Erik Ersson  Näkterdal, Säter."
+L:1/8
+M:3/4
+K:Bb
+V:1
+"^1" (A/c/ |: B>)(A G>)(b a>)g | (g{fg}f) d2 B>c | B>(A G>)(b a>)g | 
+(g{fg}f) d3 A/c/ | B>(A G>)(b a>)g | g{fg}f d2 B>d | 
+f/g/f/d/ (B/F/)B/d/ f>e |1,8 c/e/c/A/ B3 A/c/ :|2 c/e/c/A/ B3 c |:[K:F] ab/a/ f>(f c>)c | 
+Bc/B/ A2 F>d | d>c (c/=B/)c/e/ d>_B |1T BA A3 c :|2 T BA A3 |] 
+V:2
+"^2" ^F |: G>(D B,>)(d c>)e | ed B2 G>A | G>D B,>(d c>)B | 
+BA ^F3 F | G>(D B,>)(d c>)e | ed B2 F>B | 
+d/e/d/B/ (F/D/)F/B/ d>c |1,8 A/c/A/F/ D3 ^F :|2 A/c/A/F/ D3 A |: [K:F] fg/f/ c>(c A>)A | 
+GA/G/ F2 C>B | B>A (A/^G/)A/c/ B>=G |1 GE E3 A :|2 "^Stämförslag B.O." GE [^CE]3 |] 
+

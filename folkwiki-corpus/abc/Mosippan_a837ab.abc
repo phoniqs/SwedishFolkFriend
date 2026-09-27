@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Mosippan
+T:Härjedalens blomma
+R:Vals
+C:Roland Cedermark
+Z:Karin Helander
+N:Från Musescore, med anteckning "Johan Svensson, Akalla bykören": https://musescore.com/johey/scores/51348
+N:Text: Otto Mann
+N:Inspelning med Roland Cedermark från 1989: https://www.youtube.com/watch?v=4tLM54pNpYw
+M:3/4
+L:1/4
+Q:180
+K:D
+V:1
+A [| "D" F A d | "D7" f e f | "G" g3 | "Em" B2 B | "A7" A>A c | e e>g | "D" (f3 | f2) A | 
+"D" F A d | "D7" f ef | "G" g3 | "Em" B3 | "A7" A A A | g f e | "D" (d3 | d) z d | 
+"G" B B c | "G#dim" d c>B | "D" B3 | A2 A | "E7" B B c | d e f | "A7" (e3 | e2) A | 
+"D" F A d | "D7" f e f | "G" g3 | "Em" B2 B | "A7" A A A | g fe | "D" (d3 | d) z z |]
+[| "D" f3 | a2 f | "D7" e3 | d3 | "G" B B c | e d>B | "D" (A3 | A3) | 
+"A" e2 e | "F#7" f2 e | "Bm" e3 | d3 | "E7" B B c | d e f | "A7" (e3 | e3) | 
+"D" f2 f | a2 f | "D7" e3 | d3 | "G" B B c | e d>B | "D" (A3 | A2) d | 
+"G" B B c | "G#dim" d e =f | "D" f3 | A2 A | "Em" g2 g | "A7" f2 e | "D" (d3 | d) z2 |]
+

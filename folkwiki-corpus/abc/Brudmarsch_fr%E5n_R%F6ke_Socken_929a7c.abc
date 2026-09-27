@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Röke Socken
+C:Lennart Thörn
+R:Marsch
+Z:Patrik Månsson, 2008-07-24, Uppdaterad med stämmor 2020-03-14, Andreas G
+O:Röke,Skåne
+L:1/8
+Q:1/4=78
+M:2/4
+K:C
+V:1 treble nm="Violin Melodi" snm="Vln. Mel."
+V:2 treble nm="Violin 2" snm="Vln. 2"
+V:3 treble nm="Violin 3" snm="Vln. 3"
+V:1
+EF | G2 (A/G/^F/G/) | c2 d/c/B/c/ | e4 | G2 ef | g2 cc | ed cB | c2 dd | d2 EF | G2 A/G/^F/G/ | 
+c2 d/c/B/c/ | e4 | c2 ee | d2 gg | ^f2{/g} f/g/a/f/ | g2 gg |1 g2 :|2 g2 GG |: f2 (d/c/B/c/) | 
+d2 (f/e/f/g/) | e4 | c2 gg | a2 gg | ag fe | (d4 | g2) GG | c2 (d/c/B/c/) | A2 (B/c/d/e/) | f4 | 
+A2 ff | e2 ee | fd cB | c2 cc |1 c2 GG :| c2 z2 |] 
+V:2
+CD | E2 FD | E2 (F/E/D/E/) | G4 | E2 cd | e2 GG | GF ED | E2 ^FF | G2 CD | E2 FD | 
+E2 (F/E/D/E/) | G4 | E2 cc | B2 BB | A2{/B} (A/B/c/A/) | B2 BB |1 B2 :|2 B2 GG |: 
+G2 (F/E/D/E/) | F2 (A/G/A/B/) | c4 | G2 EE | F2 EE | FE Ac | (c4 | B2) GF | E2 (F/E/D/E/) | 
+F2 G_B | A4 | F2 AA | G2 cc | dB GF | E2 FF |1 E2 GG :| E2 z2 |] 
+V:3
+G,B, | C2 G,2 | C2 G,B, | C2 G,2 | C2 EG | c2 E2 | G2 G,2 | G2 cc | B2 ED | C2 G,2 | C2 G,B, | 
+C2 G,2 | E2 GG | G2 GG | D2 D^F | G2 D2 |1 G,2 :|2 G,2 GG |: B2 G2 | G2 FG | G4 | E2 CC | C2 C2 | 
+DC D"^Orginal not."[FA] | (^F4 | G2) ED | C2 G,2 | C2 EG | F4 | F2 FF | G2 G2 | (BG) ED | 
+C2 CC |1 C2 GG :| C2 z2 |] 
+

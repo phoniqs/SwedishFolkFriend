@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Mas Gustav
+S:Mas Gustav
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (46) efter Mas Gustav (1833-1906) Mattshyttan, Säter"
+L:1/8
+M:3/4
+K:Am
+V:1
+"^1" (e |: a>)(g e2) c>d | (Bc) A3 B | c>(B A>B) c>e | d2 e3 e | 
+a>(g e2) c>d | Bc A3 B | c>(B A>B) c>d |1 Bc/B/ A3 e :|2 Bc/B/ A3 c |: 
+e>(d c>B) c>d | ef d2 B>d | e>d c2 A>c | cB B3 c | 
+e>(d c>B) c>d | ef d2 B>d | e>d c2 A>B |1 ^G2 A3 c :|2 ^G2 A3 z |] 
+V:2
+"^2" (c |: f>)(e c2) A>B | (^GE) C3 D | E>(D C>D) E>A | ^F2 ^G3 c | 
+f>(e c2) A>B | ^GE C3 D | E>(D C>D) E>F |1 D2 C3 c :|2 D2 C3 (A |: 
+c>)(B A>^G) A>B | (cd) B2 ^G>B | c>(B A2) E>A | (^F^G) G3 A | 
+c>(B A>^G) A>B | cd B2 ^G>B | c>B A2 E>D |1 B,2 C3 A :|2 "^Stämförslag B.O." B,2 C3 z |]
+

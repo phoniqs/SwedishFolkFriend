@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:522
+T:Gånglåt efter Axel Axelsson
+T:(OA 522)
+B:Sörmländska låtar samlade av Olof Andersson nr 521
+R:Gånglåt
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson 2025-03-01
+H:Från uppteckningen: I ett sällskap sjöng en yngling denna gånglåt med följande text:
+H:”Och det är sant att nitton skräddare väger ett pund”.
+H:Skräddaren och spelmannen Johan Edvard Andersson I Nyköping, som var med i sällskapet, kände sig kränkt och ’lappade’ till ynglingen med orden: ”Jag ska visa att en skräddare väger mer än ett skålpund”.
+M:2/4
+L:1/4
+Q:130
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+d/ | B/d/ B/d/4d/4 | c/e/ e/c/ | B/c/ A/F/4F/4 |  G/g/4g/4 g/d/ |
+B/d/ B/d/4d/4 | c/e/ e/c/ | B/d/ d/4c/4A/4F/4 |  G z/ ::
+g/4f/4 | g/G/ G/g/4f/4 | e/c/ c/a/4g/4 |  f/d/ e/f/ | g/4f/4g/4a/4 b/4a/4g/4f/4 |
+g/G/ G/g/4f/4 | e/c/ c/a/4g/4 |  f/d/ e/f/ | g z/ :|
+

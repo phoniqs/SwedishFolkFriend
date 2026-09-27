@@ -1,0 +1,38 @@
+%%abc-charset utf-8
+
+X:1
+T:Hassela-valsen
+C:Jon-Erik Hall
+O:Hassela, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]] nr 21
+L:1/8
+M:3/4
+K:Eb
+V:1
+|: B2({c} B=A) Bc | (AB) (GA) FG | (EG) (Be) gb | b4 g2 | a2({b} ag) ac' | 
+(c'a) (fd) B2- | B(=A c3) B | B4 G2 | F2({G} F=E) FB | (df) (fd) Bd | 
+(dc) (ec) =Ac | B4 z2 | B2({c} B=A) Bc | (AB) (GA) FG | G2({A} G^F) GA | 
+(FG) (EF) DE | (ED) (C=B,) CE | (Gc) (ed) c=B | g3 G=Bd | c4 z2 ::
+g3 eBG | E3 GBe | (gf) (ag) fe | df c2 c2 | B3 AFD | 
+B,3 DFA |(cB) (dc) BA | Gc B2 B2 | g3 eBG | E3 GBd | c3 AFC | 
+(A,C) (FA) ce | d3 cBG | (AB,) (DF) Ad | (cB) (AF) df | e4 z2 ::
+g3 b^fg | e3 gde | c3 e=Bc | A4 F2 | d3 fcd | B3 cAB | 
+G3 AFG | (EB,) (EG) Be | G3 b^fg | E3 gde | C3 e=Bc | 
+A4 c2 | B3 cde | (fg) (ag) fe | (dc) (BA) cd | e4 z2 :: 
+(DF) (A=B) df | (ag) (^fg) ec | (ed) (^cd) =BG | (cB) (=AB) GE | 
+(DF) (A=B) df | (ag) (^fg) ec | (ed) (^cd) =BG | c4 z2 :| 
+V:2
+|: "Eb" G2({A} G^F) GA | (FG) (EF) DE | (B,E) (GB) eg | g4 e2 | "Bb7" f2({g} f=e) fa | (af) (dB) (AF) | 
+D(F A3) G |"Eb" G4 E2 |"Bb" D2({E} D^C) DB, | (B,F) (dF) DF | "F7" (=A,F) (cF) EF |"Bb7" (DB,) (AF) DA, |
+"Eb" E2({A} G^F) GA | (FG) (EF) DE | "Cm" E2({F} ED) EF | (DE) (CD) =B,C | 
+(GF) (ED) EG, | (CE) (GF) E=B, |"G" (G,=B,) (DB,) DG | "Cm" [CE]4 z2 ::
+"Eb" E3 BGE | G,3 B,EG |"Ab" (Bd) (fe) dc | BD A2 A2 |"Bb7" D3 FDB, | [A,D]3 B,DF |
+(AD) (BA) GF |"Eb" EA G2 G2 | E3 BGE | G,3 B,EB |"Ab" A3 FCA, | (A,A,) (CF) Ac | 
+"Bb7" B3 ADE | (FD) (B,D) FB | (AF) (DB,) FA |"Eb" G4 z2 :: 
+"Eb" e3 gde |"Cm" c3 e=Bc |"Fm" A3 cGA | (F2 C2) A,2 |"Bb7" B3 dAB | D3 AB,D | 
+"Eb" E3 FDB, | (EG,) (B,E) GB |"Eb" E6 |"Cm" C6 |"Fm" A,6 | (C2 E2) A2 |
+"Bb7" (B,D) (FA) Bc | (de) (fe) dc | (BA) (GF) EA |"Eb" G4 z2 :: 
+"Ddim" ([A,F][Fd]) ([Fd][A,F]) [A,F][Fd] |"Cm" ([G,E][Ec]) ([Ec][G,E]) [G,E][Ec] | "G7" ([G,D][D=B]) ([DB][G,D]) [G,D][DB] |"Eb" ([G,E][EB]) ([EB][G,E]) [G,E][EB] | 
+"Ddim" ([A,F][Fd]) ([Fd][A,F]) [A,F][Fd] |"Cm" ([G,E][Ec]) ([Ec][G,E]) [G,E][Ec] | "G7" ([G,D][D=B]) ([DB][G,D]) [G,D][DB] |"Cm" [Ec]>[CE] [CE]2 z2 :| 
+

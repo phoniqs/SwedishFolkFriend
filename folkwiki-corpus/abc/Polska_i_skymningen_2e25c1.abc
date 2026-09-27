@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:11
+T:Polska i skymningen
+O:Sandviken, Gästrikland
+R:Polska
+B:Låtar för fiol av Edvin Holmberg
+C:Edvin Holmberg
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1" (3EAc e2 d2 | f>(d e2) c2 | E2 (^GB) e>d | (cd) Bc A2 | 
+(3EAc e2 d2 | f>(d e2) c2 | E2 (^GB) e>d | (c^G) A4 :: 
+(g>f) (dB) G>B | (c>B) cd e2 | E2 (^GB) e>d | (c>d) Bc A2 | 
+(a>f) (dA) F2 | (g>e) (cG) E2 | (3(FEF) (3(GFG) (3e(dB) | B2 c4 :| 
+V:2
+|:"^2" A2 c2 B2 | A2 c2 A2 | B,2 (E^G) B>G | (EF) DE C2 | 
+A2 c2 B2 | A2 c2 A2 | B,2 (E^G) B>G | (ED) C4 :: 
+B,2 (D2 F2) | (E>D) EG c2 | B,2 (E2 ^G2) | (A>E) DE C2 | 
+[FA]4 [DA]2 | [Ec]4 [CE]2 | "^Stämförslag B.O." B,2 (D2 F2) | D2 E4 :|
+

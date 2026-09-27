@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Vårvisa
+C:Roland Johansson
+R:Visa
+O:Säter, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Text och musik Roland Johansson, Säter."
+Z:"Uppt. från CD."
+L:1/4
+M:3/4
+K:G
+V:1
+"^1""^Introd." g | e2 g | c'2 g | b2 a | g2 e | d2 c' | b2 a | g3- | g2 d |]:
+"^Sång" d2 g | a2 b | a3 | e2 g | f2 d | a2 ^a | b3- | b2 d | 
+d2 g | a2 b | a3 | e2 g | f2 d | b2 a | g3- | g2 d :|
+"^Refräng" e2 g | c'2 g | b2 a | g2 e | d2 f | a2 ^a | b3- | b2 d | 
+e2 g | c'2 g | b2 a | g2 e | d2 c' | b2 a | g3- | g2 |] 
+V:2
+"^2" d |"C" c2 c | e2 c |"G" d2 c | B2 B | F2 e | d2 c |"G" B3- |"G" B2 B |]: 
+"G" B2 B | "G7" c2 d | "Am" c3 | c2 e | "D7" d2 A | c2 ^c | "G" d3- | d2 B | 
+B2 B |"G7" c2 d | "Am" c3 | c2 e | "D7" d2 A | d2 c | "G" B3- | B2 B :|
+"C" c2 c | e2 c |"G" d2 c | B2 B | "D7" F2 A | c2 ^c |"G" d3- |"G7" d2 B |
+"C" c2 c | e2 c |"G" d2 c | B2 B | "D7" F2 e | "^Stämförslag B.O." d2 c |"G" B3- | B2 |]
+

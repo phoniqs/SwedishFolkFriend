@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Båtviksvalsen
+C:Lars Erik Jansson
+O:Upplands Väsby, Uppland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+N:"I Båtviken hänger fiskarn´s nät på tork bland stojande sommargäster..."
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" A,2 |:  "^I Båtviken hänger fiskarn´s nät på tork" "^bland stojande sommargäster . . ." D2 (DE) (FG) | F3 E D2 | (^CE) (A^c) (eg) | [Af]3 e d2 | (Bc) (BA) (GB) | 
+(Ad) (AF) (DF) |1 (FE) (ED) (^CD) | [A,E]4 A,2 :|2,8 (FE) (EA,) ^CE | D4 (AB) |: 
+(3(cdc) AF Ac | (3(faf) cA FA | (Bc) (BA) (GF) | (EF) (ED) (^CA,) |
+ (D^C) (DE) (FG) | (A^c) (de) (fg) | (3(fgf) eA ^ce |1 d4 AB :|2 d4 (F/A/c/f/) |: 
+a4 a2 | (ab) (ag) (fe) | g3 g g2 | (ga) (gf) (ed) | f2 fe d2 | 
+(dA) (AF) (DF) |1 (FE) (ED) (^CD) | E4 (F/A/c/f/) :|2 (FE) (EA,) (^CE) | D4 z2 |] 
+V:2
+"^2" A,2 |:"Dm" A,2 A,^C DE | D3 ^C A,2 |"A7" A,^C EG ^ce |"Dm" d3 A F2 | "Gm" GA GF EG | 
+"Dm" FA FD A,D |1"E7" D^C C=B, A,B, |"A7" ^C2 =B,2 A,2 :|2,8"A7" D^C CE EG |"Dm" [A,F]4 FG |: 
+"F" A2 FC FA | A2 FC A,C | "Gm" GA GF ED |"A7" ^CD C=B, A,E | "Dm" A,G, A,^C DE | FG A^c de | 
+"A7" d2 ^cE GA |1"Dm" [A,F]4 FG :|2"Dm" [A,F]4 A,/C/F/A/ |:"F" c4 c2 | cd cB AG | 
+"C7" B3 B B2 | "A7" Bc BA GF |"Dm" A2 AG F2 | AF FD A,D |1"E7" D^C C=B, A,B, | 
+"A7" ^C4 A,/=C/F/A/ :|2"A7" D^C CE EG |"Dm" [A,F]4"^B.O." z2 |]
+

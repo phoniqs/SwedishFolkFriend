@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Långdans från Sollerön
+O:Sollerön, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/4
+M:3/4
+K:Dm
+V:1
+"^Förspel - långsamt" d f e | d3 |]:[K:F][M:3/4][K:treble]"^Dans - långsamt" A ^c d | e3/2 g/ f | d (f/e/) d/^c/ | 
+d3/2 ^c/ A- | A ^c d | e3/2 g/ f | d (f/e/) d/^c/ | d3 :: 
+"^Något snabbare" .a .g .e |T g3/2 e/ f | .f .a .g | eT g/e/ f | d f e | d3 :| 
+V:2
+F A G | F3 |]:[K:F][M:3/4][K:treble] ^C E F | G3/2 B/ A | F (A/G/) F/E/ | F3/2 E/ ^C- | ^C E F | 
+"^Spelas önskat antal ggr." G3/2 B/ A | F (A/G/) F/E/ | F3 :: 
+.f .e .^c | e3/2 ^c/ d | .d .f .e | ^c e/c/ d | "^Stämförslag B.O." F A G | F3 :|
+

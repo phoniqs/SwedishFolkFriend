@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:494
+T:Knuss-Olles livsstycke
+O:Hälsingland
+R:Polska
+Z:Hudiksvalls spelmanslag 190
+Z:2018-02-04
+Z:Andrastämma av [[Personer/Thore Härdelin den äldre]]
+B:25 spelmanslåtar från Hälsingland nr 3
+L:1/16
+M:3/4
+K:Am
+V:1
+"Am" (AB)cB A2E2 C2A,2 |"Am" c2Bc"E7" (dc)BA"Am" e2E2 |"Am" (ED)FD{EF} E2C2"E7" B,2A,2 | "Am" E2DE{F"Dm"G} F2D2"G" B,2G,2 |
+"C" (G,C)EC"G7" (DE)FD"C" (EF)GE | "Am" (AB)cA"E7" (Bc)dB"Am" c2C2 |"C" (G,C)EC"G7" (DE)FD"C" (EF)GE | "Am" (AB)cA"E7" (Bc)dB"Am" (cB)A^G |
+"Am" A2a^g a2AB c2ec |"E7" (BA)^GA B4"Am" A4 :: "C" G2ce g4 g4 |"C" G2ce g2eg"G7" f2d2 | "G7" G2Bd f2[df]2 [Bf]2[df]2 | 
+"G7" G2Bd f2df"C" e2c2 | "C" (Gc)ec (Gc)ec (Gc)ec |"E7" (^GB)eB (^GB)eB (^GB)eB | "C" (Gc)ec (Gc)ec (Gc)ec |
+"E7" (^GB)eB (^GB)eB e2E2 | "Am" (ED)FD{EF} E2C2"E7" B,2A,2 | "Dm" a2gf"Am" e2d2 c2B2 |"E7" (A^G)BG"Am" A2E2 C2A,2 |"G7" G,2ge f2d2 B2G2 | 
+"C" (Gc)ec"G7" (de)fd"C" e4 |"Am" (AB)cA"E7" (Bc)dB"Am" (cB)A^G |"Am" A2a^g a2AB c2ec | "E7" (BA)^GA B4"Am" A4 :| 
+V:2
+A,^G,A,B, C2E2 A2c2 | A2^GA BAG^F E2e2 | CB,DB, C2A,2 ^G,2A,2 | C2B,C D2B,2 [G,D]2[G,D]2 | 
+[CE]2[CE]2 [B,D]2[B,D]2 [CE]2[CE]2 | [Ec]2[Ec]2 [^GB]2[GB]2 A2[A,E]2 | 
+[CE]2[CE]2 [B,D]2[B,D]2 [CE]2[CE]2 | [Ec]2[Ec]2 [^GB]2[GB]2 A2[A,E]2 | [A,E]2cd c2EG A2cA | 
+^G2FE [DE]4 [CE]4 :: E2Gc e2c2 B2A2 | E2Gc e2ce f2d2 | D2GB d2c2 B2A2 | D2GB d2Bd c2[CE]2 | 
+[Ec]2[Ec]2 [Ec]2[Ec]2 [Ec]2[Ec]2 | [EB]2[EB]2 [EB]2[EB]2 [EB]2[EB]2 | 
+[Ec]2[Ec]2 [Ec]2[Ec]2 [Ec]2[Ec]2 | [EB]2[EB]2 [EB]2[EB]2 [B,^G]2[B,G]2 | CB,DB, C2A,2 ^G,2A,2 | 
+f2ed c2B2 A2^G2 | CB,DB, C2B,2 A,2C2 | G2d^c d2B2 [G,D]4 | [CE]2[CE]2 [B,D]2[B,D]2 [CE]4 | 
+[Ec]2[Ec]2 [^GB]2[GB]2 [EA]4 | [A,E]2cd c2E^G A2cA | ^G2EE [B,D]4 [CE]4 :|
+

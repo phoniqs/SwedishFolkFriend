@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Bröllopsmarsch av Jon-Erik Hall
+C:Jon-Erik Hall
+O:Hassela, Hälsingland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]] (nr 37 i hans Hall-samling)
+Q:100
+L:1/8
+M:4/4
+K:D
+V:1
+"^1" A |:"D" [Fd][Ae] [df][eg] [fa]2 [fd'][fd'] |"G" [fb]2 [fd'][fb]"D" [fa]2 [df]2 | "A7" [cg]2 [cg][ce]"D" [df]2 [Af][Fd] |"E7" [Ae]2 [B^g][Bb]"A" [ca]3 A | 
+"D" [Fd][Ae] [df][eg] [fa]2 [fb][fd'] |"G" [fb]2 [fd'][fb]"D" [fa]2 [df]2 | "G" [eg][df] [ce][cb]"A7" [ca][ca] [Ae][Af] |"D" [Fd]2"A7" [Ec][Ee]"D" [Fd]3 A :: 
+"A7" [A,G][A,E]/[A,F]/ [A,G][Gc] [ce][eg] [df][Ae] |"D" [Fd][da] [Af][Fd] [DA][Fd] [DA][A,F] | "A7" [A,G][A,E]/[A,F]/ [A,G][Gc] [ce][eg] [df][Ae] |"D" [Fd][da] [Af][Fd] [A,A]3 A | 
+[Fd][Ae] [df][eg] [fa]2 [fd'][fd'] |"G" [fb]2 [fd'][fb]"D" [fa]2 [df]2 | "A7" [eg][df] [ce][cb] [ca][ca] [Ae][Af] |1"D" [Fd]2"A7" [Ec][Ee]"D" [Fd]3 A :|2 "D" [Fd]2"A7" [Ec][Ee]"D" [Fd]3 ^f/=e/ |:
+[K:Bb]"Bb" dF Bc d2 e>d | "F7" cF d>c"Bb" (B/c/)B/G/ FG/F/ |"F7" EA, CD E2 c>B |"F7" A>E B>G"Bb" (F/G/)F/E/ Df/e/ | 
+"Bb" dF Bc"D" d=e ^fg/f/ |[K:D]"A7" eA f>e "D" (d/e/)d/B/ AB/A/ | "A7" GE/F/"D" GA/G/ FD/E/ FG/F/ | "A7"Eg/e/ cB/c/ "D"d3 z :| 
+V:2
+"^2" A, |: AG FE Dd AF | Gd BG FA, DF | A,A EG A,A DF | CG B,^G [A,A]2 =GA, |
+ AG FE Dd AF | Gd BG FA, DF | CD EG GE CA, | [DA]2 [A,G]2 D3 A, :: 
+EC/D/ DA, GE FG | AF dA FA FD | EC/D/ EA, GE FG | AF DA, [CE]3 A, | 
+AG FE Dd AF | Gd BG FA, DF | CD EG GE CA, |1 [DA]2 [A,G]2 D3 A, :|2 [DA]2 [A,G]2 D3 d/c/ |:
+[K:Bb] BD DF B2 A>B | FE B>A (G/A/)G/E/ DE/D/ | CA, A,B, C2 A>G | F>A, E>E (D/E/)D/C/ B,d/c/ | BD DF ^FA d=e/d/ | 
+[K:D] cG d>c (B/c/)B/G/ FG/F/ | EC/D/ EF/E/ DA,/C/ DE/D/ |  CE/G/ AG/E/ F3 z :|
+

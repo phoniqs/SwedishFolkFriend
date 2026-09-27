@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X: 2
+T: Vals
+C: Jon Magnusson 2011-03-04
+Z: Transcribed to abcby Jon Magnusson 080812
+M: 3/4
+L: 1/8
+K: Gm
+Q:150
+[V:1] D2|:"Gm" G^F GA BG|"D" AD D=E ^FD|"Gm" G^F GA Bc|"D" d4 A2|
+[V:2] G,2|:B,A, B,D GB|A^F DC A,D|B,A, B,D GA|"D" ^F4 D2|
+[V:1] "Bb" B2dc BA|"Gm" BG GA BG|[1 "D"AB AG ^FG|"D" A4 D2:|[2 "D" A2 AG ^FA|"Gm" G6|]
+[V:2] F2BF DB,|G,B, B,C DB,|[1 DA, A,B, DE|^F4 G,2:|[2 A,2 DC A,C| B,6|]
+[V:1]|:"F" A2 F=E F2|"Bb" DF Bd fd|"Cm" e2 cd ec|"Dm" d4 A2|"Bb" B2 dc BA|"Gm" BG GA BG|"D" AB AG ^FG|A4 D2|
+[V:2]|: F2 C=B, C2|B,D FB dB|c2 GF EG|F4 D2|F2 BA FE|GD DB, G,B,|A,D DC A,C|D4 A,2|
+[V:1]"Cm" C2 CD EF|G4 E2|"D" D2 D=E ^FG|A4 "Bb" B2|"F" A2 Ac BA|"Gm" G6:|
+[V:2]G,2 G,B, CD|E4 C2|A,2 A,=B, DE|^F4 D2|F2 FC B,A,|B,6:|
+

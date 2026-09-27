@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:På fäbodvallen
+C:Selim Bengtlars
+R:Vals
+O:Malung, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Salim Bengtlars."
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" A2"^Malungs-vals" |: f3 gfe | d2 A2 F2 | G4 B2 | d3 dcB | A2 c2 e2 | g4 b2 | a3 baf | d4 A2 | 
+f3 gfe | d2 A2 F2 | G4 B2 | d3 dcB | A2 c2 g2 | f4 e2 | d3 d d2 |1 d4 A2 :|2 d4 d2 |: 
+G2 BG BG | d2 c2 B2 | A2 dA dA | f2 e2 d2 | c2 ec ec | a2 a3 g | f6 | d4 d2 | G2 BG BG | 
+d2 c2 B2 | A2 dA dA | f2 e2 d2 | c2 ec ec | a2 a3 c | d3 d d2 |1 d4 d2 :|2 d4 A2 |: 
+a2 a3 b | a3 gfe | d2 d3 e | d4 B2 | A2 A3 c | e4 g2 | g2 f3 e | f4 A2 | a2 a3 b | 
+a3 gfe | d2 d3 e | d4 B2 | (A^G) (AB) cd | e2 f2 e2 | d3 d d2 |1 d4 A2 :|2 d4 z2 |] 
+V:2
+"^2" F2 |: A3 BAG | F2 D2 A,2 | B,4 G2 | B3 BAE | C2 E2 A2 | c4 e2 | f3 gfd | A4 F2 | 
+A3 BAG | F2 D2 A,2 | B,4 G2 | B3 BAE | C2 G2 B2 | A4 G2 | F3 F F2 |1 F4 F2 :|2 F4 F2 |: 
+D2 D2 G2 | B2 A2 G2 | D2 F2 A2 | d2 c2 B2 | E2 A2 c2 | c2 c3 B | A6 | F4 F2 | D2 D2 G2 | 
+B2 A2 G2 | D2 F2 A2 | d2 c2 B2 | E2 A2 c2 | c2 c3 A | F3 F F2 |1 F4 F2 :|2 F4 F2 |: 
+f2 f3 g | f3 edc | B2 B3 c | B4 G2 | E2 E3 A | c4 e2 | e2 d3 c | d4 F2 | f2 f3 g | 
+f3 edc | B2 B3 c | B4 G2 | C2 (CE) GA | "^Stämförslag B.O." G2 A2 G2 | F3 F F2 |1 F4 F2 :|2 F4 z2 |]
+

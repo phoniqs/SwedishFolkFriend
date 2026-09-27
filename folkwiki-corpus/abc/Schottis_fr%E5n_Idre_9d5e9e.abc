@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X: 95
+T:Schottis från Idre
+R:Schottis
+O:Idre, Dalarna
+B:Spelmansmusik
+M:2/4
+L:1/8
+K:D
+"D"D(F/>A/) dd|D(F/>A/) (d/>e/)(d/>c/)|"A"(e/>f/)(e/>c/) A(B/>c/)|"D"d(c/>B/) (A/>G/)(F/>E/)|
+"D"D(F/>A/) dd|D(F/>A/) (d/>e/)(d/>c/)|"A"(e/>f/)(e/>c/) A(B/>c/)|"D"ddd z:|
+|:"D"aa "A"g(e/>g/)|"D"(fd) "A"e2|"Dm"=f(a/>g/) Tf(e/>d/)|"Gm"(c/>d/)(e/>d/) "A"cA|
+"D"aa "A"g(e/>g/)|("D"fd) "A"e2|"Dm"=f(a/>g/) "Gm"Tf(e/>d/)|"A"(c/>d/)(e/>c/) "Dm"d2:|
+

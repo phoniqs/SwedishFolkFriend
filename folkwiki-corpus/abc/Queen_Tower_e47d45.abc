@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Queen Tower
+R:Slängpolska
+C:Leija Lautamaja
+O:Finland, Helsinki
+L:1/4
+Q:1/4=120
+M:3/4
+K:Bm
+N:[[Grupper/Floating Sofa Quartet]]
+Z:Ivan Nitkin, 2026-01-17
+V:1
+|:"^Bm" .B .F .D |"^A" C/4D/4B,/4C/4 A,/B,/ C/4B,/4A,/ |"^Em" E3/4D/4 E/F/ D/E/ |"^F#m" E/4F/4E/4D/4 E/F/ D/C/ |
+"^Bm" B,3/4C/4 D/E/ F |"^G" B/4^A/4B/4c/4 "^A"d/4c/4B/4=A/4 "^D" F/E/ |"^Em" F3/4E/4 D/C/ B,/4A,/4B,/4C/4 |"^F#m" D/4C/4B,/4A,/4 A,/B,/"^Bm" B, :|
+|:"^G" G,/4B,/4C/4D/4 F/4D/4C/4B,/4 G,/4B,/4C/4D/4 |"^Bm" F/4D/4C/4B,/4 ~F/D/ ~F/D/ |"^Em" !6!G,/4B,/4C/4D/4 E/4D/4C/4B,/4 F/4D/4C/4B,/4 |"^F#m" D/4C/4B,/4A,/4 A,/B,/"^Bm" B,|
+"^G" G,/4B,/4C/4D/4 F/4D/4C/4B,/4 G,/4B,/4C/4D/4 |"^Bm" F/4D/4C/4B,/4 ~F/D/ ~F/D/ |"^Em" !6!G,/4B,/4C/4D/4 E/4D/4C/4B,/4 F/4D/4C/4B,/4 |"^F#m" D/4C/4B,/4A,/4 A,/B,/"^Bm" B, :||
+

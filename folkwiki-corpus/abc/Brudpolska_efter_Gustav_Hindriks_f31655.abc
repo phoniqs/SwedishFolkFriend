@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:36
+T:Brudpolska efter Gustav Hindriks
+T:(Huppleken Sv Folkdanser Del 1)
+S:Efter Gustav Hindriks
+O:Dala-Floda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 36. Huppleken från Dala -Floda efter Gustav Hindriks, Dala-Floda 1984"
+Z:Huppleken tur 7, dalpolska, polska 4.
+Z:Spelas 2 ggr  med repriser
+Z:Text: Vi ska dansa, vi ska sjunga, Sen ska vi ta på själva brua, sen ska vi ta på bruppigo. (brudpigorna)på själva brua, -å bruppigo
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 36
+Z:http://runeberg.org/folkdans/besk/0171.html
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1""^Tur 7,  Dalpolska.  Polska 4." A z/ c/ e2 c2 | d z/ e/ =f2 d2 | =g2 (3(gfg) a>f | (f<e) e4 :: 
+e2 e z/ (f/ e>)d | (d<c) A2 A>c | (c<B) E2 G>B | A>(G A>)(B c>)d | 
+e2 e z/ (f/ e>)d | (d<c) A2 A>c | (c<B) E2 G>B | (B<A) A4 :| 
+V:2
+|:"^2" E z/ A/ c2 A2 | F z/ A/ d2 A2 | e2 (3(e^de) f>=d | (d<c) c4 :: 
+c2 c z/ (d/ c>)B | (B<A) E2 E>A | "^Efter Gustav Hindriks, Dala-Floda 1984." (A<G) D2 E>D | C>(B, C>)(E A>)B | 
+c2 c z/ (d/ c>)B | (B<A) E2 E>A | "^Stämförslag B.O."(A<G) D2 E>D | (D<C) C4 :|
+

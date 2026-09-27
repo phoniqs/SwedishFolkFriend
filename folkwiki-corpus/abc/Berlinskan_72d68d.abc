@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:3
+T:Berlinskan
+T:(Sv Folkdanser Del 1)
+R:Mazurka
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 3
+Z:[[Personer/Bengt Ohlson]]
+Z:"3. Berlinskan"
+Z:http://runeberg.org/folkdans/besk/0039.html
+L:1/4
+M:3/4
+K:D
+V:1
+"^1""^Förspel" A/>c/ e e | A/>c/ e e | g/>e/ c a | d z z |]: 
+[K:D][M:3/4][K:treble]"^Dans" A/>d/ f f | A/>d/ f f | a/>f/ d d | c z z | 
+A/>c/ e e | A/>c/ e e | g/>e/ c a | d z z :: 
+A/>d/ f f | f z z | a/>f/ d d | c z z | 
+A/>c/ e e | e z z | g/>e/ c a | d z z :| 
+V:2
+"^2" E/>A/ c c | E/>A/ c c | e/>c/ A c | F z z |]:
+[K:D][M:3/4][K:treble] F/>A/ d d | F/>A/ d d | f/>d/ A A | G z z | 
+E/>A/ c c | E/>A/ c c | e/>c/ A c | F z z :: 
+F/>A/ d d | d z z | f/>d/ A A | G z z | 
+E/>A/ c c | c z z | "^Stämförslag B.O." e/>c/ A c | F z z :|
+

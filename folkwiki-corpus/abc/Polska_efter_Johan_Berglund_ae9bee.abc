@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:769
+T:Polska efter Johan Berglund
+T:(SvL Härjedalen 769)
+S:Efter Johan Berglund
+O:Ljusnedal, Härjedalen
+B:Svenska Låtar Härjedalen Nr 769
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" A>d f>a g>e | c>d (3e(ge) f>a | (3g(eg) f>d e>c | d>e fe/d/ (c<A) | 
+A>d f>a g>e | c>d (3e(ge) f>a | (3g(eg) f>d e>c | (c<d) d4 :: 
+A2 G2 FD/F/ | EC DF/D/ (A,2 | A,)G E>C D>F | E2 (3DFD (A,2 | 
+A,)A G2 FD/F/ | EC DF/D/ A,2 | A2 E>(C D>)F | A,C/E/ D4 :| 
+V:2
+|:"^2" F>A d>f e>c | A>B (3c(ec) d>f | (3e(ce) d>A c>A | F>G AG/F/ (E<C) | 
+F>A d>f e>c | A>B (3c(ec) d>f | (3e(ce) d>A c>A | (E<F) F4 :: 
+F2 E2 DA,/D/ | CA, A,D/A,/ (D2 | D)E C>A, A,>D | C2 (3A,DA, (D2 | 
+D)F E2 DA,/D/ | CA, A,D/A,/ D2 | E2 C>(A, A,>)D | "^Stämförslag B.O." EC/A,/ [A,F]4 :|
+

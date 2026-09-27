@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Valsjö-Tigern
+S:Valsjö-Tigern
+S:Grubb Anders Jonsson
+O:Bjuråker, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Grubb-Anders Jonsson, (bryggarn), Delsbo.
+Z:"Tigern" Olof Larsson från byn Valsjön i nordligaste Hälsingland spelade ofta tillsammans med Mattias Bloms far, Mats Israelsson-Blom (1853-1893), Överälve, Delsbo. Namnet "Tigern" kom från ett knektställe, "Tigers".
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" (cd) e>(d c>)d | (e=g) (f>e) d>c | (3(c/d/c/) B/c/ d>(E G>)B | A>(f e>)(d c>)B | 
+(cd) e>(d c>)d | (e=g) (f>e) d>c | (3(c/d/c/) B/c/ d>(E G>)B | BA/G/ A3 z :: 
+e>(d c>a) c>a | (a/b/a/g/) (B>g) B>g | (3(g/a/g/) f/g/ (a>A) d>f | fe/^d/ (e>g) e>g | 
+(g/a/)g/f/ (d>f) d>f | fe/^d/ (ea) c2- | cB/c/ d>(E G>)B | BA/G/ A3 z :| 
+V:2
+|:"^2""A" (AB) c>(B A>)B | "Bm" (ce) (d>c) B>A | "E7" AG/A/ B>(D E>)D |"A" C>(d c>)(B A>)G | 
+(AB) c>(B A>)B | "Bm" (ce) (d>c) B>A | "E7" AG/A/ B>(D E>)D | "E7" DC/B,/ "A" C3 z ::
+"A" c>(B A>c) A>c | "E7" (c>B) (G>B) G>B |"D" (B>c) (d>D) F>A | "A" dc/B/ (c>e) c>e | 
+"D" (B>A) (F>A) F>A |"A" dc/B/ (ce) A2- | "E7" AG/A/"^Stämförslag B.O." B>(D E>)D | "E7" DC/B,/ "A" C3 z :| 
+

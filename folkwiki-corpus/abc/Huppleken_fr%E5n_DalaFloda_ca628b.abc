@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:30
+T:Huppleken från Dala-Floda
+T:Variant av "Carl-Johans marschen"
+S:Efter Gustav Hindriks
+O:Dala-Floda, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:Huppleken Inledning, "Sv Folkdanser Del 1 30. Huppleken från Dala-Floda"
+Z:Från inspelning av Gustav Hindriks, Dala-Floda 1983.
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 30
+Z:http://runeberg.org/folkdans/besk/0166.html
+L:1/8
+M:2/4
+K:D
+V:1
+"^1" (D/"^Gånglåt 1."F/) |: A>d dd | d2 (f/a/)f/d/ | (dc) (c/B/)c/d/ | e2 (e/f/)e/d/ | 
+(cA) (A/B/)A/^G/ | (AB) cA/c/ | ed df |1 [Fd]3 (D/F/) :|2 [Fd]3 A |: 
+(df) a2 | (gf) e2 | (e/f/)g/a/ b2 | (g/e/)c/e/ d2 | df ag | fe/f/ (gf) | 
+ed c>a | aa a2 | (ba) fd | (d/e/)d/c/ d2 | fd dB | (B/d/)B/G/ B2 | gf fe | 
+(e/f/)e/c/ A>B | cA/c/ ed/c/ |1 df ([Fd]2 | [Fd]) z2 A :|2 df ([Fd]2 | [Fd]) z z2 |] 
+V:2
+"^2" (A,/D/) |: F>A AA | A2 (d/f/)d/B/ | (BA) A/^G/A/B/ | c2 (c/d/)c/B/ | (AE) E/F/E/D/ | 
+(EG) AE/A/ | GF FA |1 [DA]3 (A,/D/) :|2 [DA]3 F |: 
+(Ad) f2 | (ed) c2 | (c/d/)e/f/ g2 | (e/c/)A/G/ F2 | Ad fe | dc/d/ (ed) | 
+cB A>c | cc c2 | (dc) dA |"^Spelas tills alla kommit upp på ring." (F/G/)F/E/ F2 | dB BG | (G/B/)G/D/ G2 | ed dc | 
+(c/d/)c/A/ E>G"^Från inspelning av Gustav Hindriks, Dala-Floda 1983." | AE/A/ GF/E/ |1 FA ([DA]2 | [DA]) z2 F :|2 "^Stämförslag B.O." FA ([DA]2 | [DA]) z z2 |]
+

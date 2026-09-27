@@ -1,0 +1,33 @@
+%%abc-charset utf-8
+
+X:1
+T:Trollflykt
+C:Wiktor Öst
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Stämma [[Personer/Theodor Ohlson]].
+Z:"Homo-trollen"
+L:1/16
+Q:1/4=98
+M:3/4
+K:F
+V:1
+|:"^1" ABA^G A2>b2 a4 | ABA^G A2>^g2 f4 | Adfd Aege Adfd | e2>d2 ^cdec A4 | 
+ABA^G A2>b2 a4 | ABA^G A2>^g2 f4 | Adfd Aege Adfd | e2^ce d8 ::
+ ABcB A2a2 g2f2 | efge [EB]8 | Ecbc Ecbc Ecbc | Fcac Fcac Fcac | 
+ABcB A2a2 g2f2 | efge [EB]8 | EDEF GABc d2b2 | ageg [Af]8 :: 
+Fcac bcac Fcac | E^cgc Ecgc Ecgc | Adfd Aege Adfd | A^cec acec Acec | 
+Fcac bcac Fcac | E^cgc Ecgc Ecgc | Adfd Aege Adfd |e2^ce [Fd]8 :: 
+^CGBG CGBG CGBG | DFAF DFAF DFAF | E^cgc Ecgc Ecgc | AEDE FEFG A4 | 
+^CGBG CGBG CGBG | DFAF DFAF DFAF | AEDE FEFG A2F2 | E2^CE D4 [Fd]4 :| 
+V:2
+|:"^2" [FA][GA][FA][EA] F2>[Gd]2 [Fd]4 | [EA][FA][EA][_EA] =E2>[^ce]2 [DA]4 | FAdA GA^cA FAdA | [_Ad]4 [G^c]4 AGFE |
+ FGFE [FA]2[df]2 e2[_Ad]2 | [EA][FA][EA][_EA] =E2>[^ce]2 [DA]4 | FAcA GA^cA FAdA | [G^c]4 [FA]4 [A,D]4 :: 
+FGAG [FA]2[df]2 [Be]2[_Ad]2 | [G^c]4 [^CG]8 | E4 G4 B4 | A4 F4 C4 |
+FGAG [FA]2[df]2 [Be]2[_Ad]2 | [G^c]4 [^CG]8 | Ecbc Gcbc B2d2 | cBGB [Fc]8 :: 
+A,6 C2F2A2 | ^A,6 B2^A2G2 | FAdA FAdA FAdA | EA^cA gege GA^cA |
+A,6 C2F2A2 | ^A,6 B2^A2G2 | FAdA FAdA FAdA | EA^cA gege GA^cA ::
+A,6 C2F2A2 | ^A,6 B2^A2G2 | FAdA FAdA FAdA | EA^cA gege GA^cA |
+A,6 C2F2A2 | ^A,6 B2^A2G2 | FAdA FAdA FAdA | EA^cA gege GA^cA :|
+

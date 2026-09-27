@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Aros hambo
+C:Hugo Westling
+O:Bollnäs, Hälsingland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Hugo Westling, Enånger"
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" A |:"D" (d>f) A2 A>G | (F>A) D2 D>F | (A,>D) (F>A) d>f |"Em" f2 (e>^d) e>B | (e>g) B2 B>A | 
+(G>B) E2 E>C | "A7"(A,>C) (E>A) c>e |"D" e2 (d>c) d>A | (d>f) A2 A>G | F>A D2 D2 | (F>E) (D>F) A>=c | 
+"G" (B>A) (G>A) B>B | (d>c) d2 B>B |"D" (A>^G) A2 F>F | "A7"(G>E) (C>E) A>c |1 "D" d2 d2 z A :|2 "D" d2 d2 z =c |:
+[K:G]"G" (B>A) (G>A) B>d |"Am" (c>B) (A>B) c>d |"D7" (3(e^de) g2 f>e |"G" d2 B4 | "C" (3(cBc) (e>c) A>c |"G" (B>A) (G>A) B>d | 
+"A7" (^c>B) (A>c) e>g |"D7" (3(fgf) (e>f) d>c | "G" (B>A) (G>A) B>d |"Am" (c>B) (A>B) c>d |"D7" (3(e^de) g2 f>e |
+"G" d2 B4 | "C" (3(cBc) (e>c) A>c |"G" (B>A) G>A B>d |"Am" (3cBc (3ecA"D7" E>F |1"G" G2 G2 z A :|2 "G" G2 G2 z2 |] 
+V:2
+"^2" D |: (F>A) F2 F>E | (D>F) A,2 A,>D | (F>A,) (D>F) A>d | d2 (c>B) c>G | (G>B) G2 G>F | 
+(E>G) B,2 B,>E | (E>A,) (C>E) A>G | G2 (F>E) F>F | (F>A) F2 F>E | D>F A,2 A,2 | (D>C) (A,>D) F>A | 
+(G>D) (B,>D) G>G | (B>^A) B2 G>G | (F>E) F2 D>D | (E>C) (A,>C) E>G |1 F2 F2 z D :|2 F2 F2 z A |:
+[K:G] (G>D) (B,>D) G>B | (A>E) (C>E) A>B | (3(cBc) e2 d>c | B2 G4 | (3(A^GA) (c>A) E>A | (G>D) (B,>D) G>B |
+(A>G) (E>G) A>B |(3(ABA) (G>A) F>A | (G>D) (B,>D) G>B | (A>E) (C>E) A>B | (3(cBc) e2 d>c | B2 G4 |
+(3(A^GA) (c>A) E>A | (G>D) (B,>D) G>B | (3A^GA (3cAE C>D |1 B,2 B,2 z F :|2 B,2 "^B.O." B,2 z2 |] 
+

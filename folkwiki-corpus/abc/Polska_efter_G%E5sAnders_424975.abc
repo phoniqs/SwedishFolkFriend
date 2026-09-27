@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:114
+T:Polska efter Gås-Anders
+T:(SvL Uppland nr 114)
+S:Gås-Anders
+B:Svenska Låtar Uppland Nr 114
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Text: Hör du flicka lilla, vill du ha mej ...."
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1"v (C>E) (G>c) e>c | c>d B2 G2 | (B>d) (f>d) B>d | c>e (g>e) c2 | 
+(C>E) (G>c) e>c | c>d B2 G2 | (B>d) (f>d) B>d | (d<B) c3 z :: 
+v{g} f2 (d>B) G>c | e2 (c>G) E>G | (F>E) (D>G) B>d | (c>B) (c>e) g>a | 
+ f2 (d>B) G>c | e2 (c>G) E>G | (F>E) (D>G) B>d | (d<B) c3 z :| 
+V:2
+|:"^2""C" (G,>C) (E>G) c>G | "G7" E>F D2 B,2 | (G>B) (d>B) G>F |"C" E>G (c>G) E2 | 
+(G,>C) (E>G) c>G | "G7" E>F D2 B,2 | (G>B) (d>B) G>F |"C" (F<D) E3 z ::
+{e} "G7" d2 (B>G) D>G |"C" c2 (G>E) C>E |"G7" (D>C) (B,>D) G>F | "C" (E>D) (E>G) c>c | 
+"G7" d2 (B>G) D>G |"C"  c2 (G>E) C>E |"G7" (D>C) (B,>D) G>F |"C" (F"^Stämförslag B.O."<D) E3 z :|
+

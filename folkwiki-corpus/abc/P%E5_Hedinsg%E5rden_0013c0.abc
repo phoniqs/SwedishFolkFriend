@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:På Hedinsgården
+T:Gånglåt
+C:Gunn-Britt Karlsson
+O:Vikarbyn, Rättvik, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Gun-Britt Karlsson"
+Z:"Uppt. fr. kassett. Stämförslag B.O."
+L:1/16
+M:2/4
+K:C
+V:1
+g2 |: c'4 (c'd')c'g | (e2c2) (Bc)eg | a4 (a_b)af | d6 c2 | B4 (Bc)de | (fg)fd (B2G2) | 
+c4 (cd)ef | (ga)gf (e2g2) | c'4 (c'd')c'g | (e2c2) (Bc)eg | a4 (a_b)af | 
+d6 c2 | B4 (Bc)de | (fg)fd (B2G2) | c2ec (BA)Bd |1 c6 g2 :|2 c6 (GF) |: 
+(E2C2) (CE)Gc | (e2c2) (cd)cB | (A2F2) (FA)de | (f2d2) (de)dc | (B2>G2) (GB)dg | 
+b4 (b2>a2) | g2ag f2df | e6 (GF) | (E2C2) (CE)Gc | (e2c2) (cd)cB | (A2F2) (FA)de | 
+(f2d2) (de)dc | (B2>G2) (GB)dg | b4 (b2>a2) | g2ag f2dB |1 c6 (GF) :|2 c6 z2 |] 
+V:2
+e2 |: "C" e4 (ef)ec | (G2E2) DEGc | "Dm" f4 (fg)fd | A6 A2 |"G7" G4 (GA)Bc | (de)dB (G2D2) | 
+"C" E4 (EG)cd |"G7" (ef)ed (c2e2) |"C" e4 (ef)ec | (G2E2) (EG)ce |"Dm" f4 (fg)fd | 
+A6 A2 | "G7" G4 (GA)Bc | (de)dB (G2D2) |"C" E2GE"G7" (DC)DF |1"C" E6 e2 :|2"C" E6 (ED) |: 
+"C" (C2G,2) (G,C)EG | (c2G2) (EF)EG |"Dm" (F2D2) (DF)Ac | (d2B2) (Bc)BA |"G7" (G2>D2) (DG)Bd | 
+g4 (g2>f2) | e2fe d2Bd |"C" c6 (ED) | (C2G,2) (G,C)EG | (c2G2) (EF)EG |"Dm" (F2D2) (DF)Ac | 
+(d2B2) (Bc)BA |"G7" (G2>D2) (DG)Bd"^Uppt. fr. kassett.    Stämförslag B.O." | g4 (g2>f2) | e2fe d2BG |1"C" E6 (ED) :|2"C" E6 z2 |]
+

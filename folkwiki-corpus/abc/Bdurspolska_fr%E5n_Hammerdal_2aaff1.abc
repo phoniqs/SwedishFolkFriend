@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:B-durspolska från Hammerdal
+S:Från CD "Nu dans ma"
+O:Hammerdal, Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Lämplig dans: Schlakapolska efter Ernst Grip"
+L:1/8
+M:3/4
+U:t=tenuto
+K:Bb
+V:1
+|:"^1" (G>^F) (G>A) B>c | (d>B) AB/A/ G>g | (g>d) (d>B) G>A | Bc/B/ (A>G) ^F>D | 
+(G>^F) (G>A) B>c | (d>B) AB/A/ G>g | (g>d) (d>B) G>B |1 (A^F) G3 D :|2,8 (A^F) G3 =f |: 
+(f>d) (B>F) D>F | ED/E/ (G>B) e>g | (g>f) (f>F) A>c | BA/B/ (d>f) b>f | 
+(f>d) (B>F) D>F | ED/E/ (G>B) e>g | (g>f) (f>F) A>c |1 B2 B3 f :|2 B2 (B2 tA2) |] B2 B3 z |] 
+V:2
+|:"^2" (B,>A,) (B,>D) G>A | (B>G) D2 B,>B | (B>G) (G>D) B,>^F | G2 (^F>D) C>A, | 
+(B,>A,) (B,>D) G>A | (B>G) D2 B,>B | (B>G) (G>D) B,>G |1 (^FD) B,3 B, :|2,8 (^FD) B,3 d |: 
+(d>B) (F>D) B,>A, | G,2 (C>E) G>c | (c>A) (A>E) E>F | D2 (F>B) d>d | (d>B) (F>D) B,>A, | 
+G,2 (C>E) G>c | "^Stämförslag B.O." (c>A) (A>E) E>F |1 D2 [B,D]3 d :|2  D2 [B,D]2 tD2 |] D2 [B,D]3 z |]
+

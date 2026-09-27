@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:57
+T:Kiviks marknad
+T:(Sv Folkdanser Del 1)
+O:Skåne
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 57. Kiviks marknad"
+Z:http://runeberg.org/folkdans/besk/0236.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 57
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" g/a/ | bg gf/g/ | af fe/f/ | ge dc | e2 d |] 
+[K:D][M:2/4]"^Dans" A/d/ [| fd dc/d/ | fd dc/d/ | ee a>g | (f/g/)f/e/ dA | 
+fd dc/d/ | fd dc/d/ | (e/f/)g/e/ (c/d/)e/c/ | dfd (c/d/) |: 
+ee a>g | (f/g/)f/e/ dc/d/ | ee a>g | (f/g/)f/e/ dc/d/ | 
+bg gf/g/ | af fe/f/ | ge dc |1 e2 dc/d/ :|2 e2 d z |] 
+V:2
+"^2" e/f/ | "G"ge ed/e/ |"D" fd dc/d/ |"A7" ec BA |"A7" G2 "D" F |]
+[K:D][M:2/4] F/A/ [|"D" dA FE/F/ | dA FE/F/ |"A7" cc c>e |"D" (d/e/)d/A/ FD | 
+"^Spelas önskat antal ggr." dA FE/F/ | dA FE/F/ |"A7" (c/d/)e/c/ (A/B/)c/A/ | "D" FAF (A/B/) |:
+"A7" cc c>e |"D" (d/e/)d/A/ FA/B/ |"A7" cc c>e | "D" (d/e/)d/A/ FA/B/ |
+"G" dB BA/B/ |"D" f"^Stämförslag B.O."d dc/d/ |"A7" ec BA |1 "A7" G2"D" FA/B/ :|2"A7" G2"D" F z |]
+

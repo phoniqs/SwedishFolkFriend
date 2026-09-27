@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:2
+T:Anglaise Nr 2
+T:(Gamla Dansar i Skåne)
+O:Lerberget, Skåne
+R:Anglais
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Anglaise (2)"
+Z:"Efter Pehr Christiansson, Lerberget. Mandelgrens saml. nr. 16."
+B:Gamla Dansar i Skåne
+S:Per Christiansson
+%%score 1 2
+L:1/16
+M:2/4
+I:linebreak $
+K:G
+V:1
+"^1""^Förspel" (cd)cB (cA)FA | (DF)AF G4 |]:[K:G][M:2/4][K:treble]"^Dans" (GB)dg (bg)dB | 
+(A^G)Ac (B^d)ef | (gf)ge (f^d)Bd | (eg)f^d e4 :: 
+(de)d^c (dB)GB | (DG)BG (cA)FA | (cd)cB (cA)FA | (DF)AF G4 :| 
+V:2
+"^2" (AB)AG (AF)DF | (A,D)FD B,4 |]:[K:G][M:2/4][K:treble] (DG)Bd (gd)BG | (FE)FA (FA)B^d | 
+(e^d)e^c (dB)FB | (Ge)^dB G4 :: 
+(Bc)B"^Efter Pehr Christiansson, Lerberget.""^Mandelgrens saml. nr. 16."A (BG)DG | (B,D)GD (AF)DF | (AB)AG (AF)DF |"^Stämförslag B.O." (A,D)FD B,4 :|
+

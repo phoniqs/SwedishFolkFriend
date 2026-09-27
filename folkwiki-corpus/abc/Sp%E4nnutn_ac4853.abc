@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Spännut´n
+O:Östmark, Värmland
+S:Georg Hallstensson
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Spännut´n (Östmark), Spänntut´n (Fryksände)"
+Z:Variant av Wienerkreutzerpolka
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" db ef | g z g |][K:G][M:2/4][K:treble]"^Dans" B/c/ |: dg B (3(B/c/B/) | AB c2 | ca c (3(c/d/c/) | 
+Bc d2 | dg B (3(B/c/B/) | AB c2 | a>g fe |1 d z d B/c/ :|2 
+d z d d/d/ |: de fg | a2 ad/d/ | de fg | b2 b2 | 
+g(b/g/) f(b/f/) | e(b/e/) d2 | db ef |1 g z g d/d/ :|2 g z g z |] 
+V:2
+"^2" Bd cd | B z B |][K:G][M:2/4][K:treble] G/A/ |: BB G (3G/A/G/ | FG A2 | Ac A (3A/B/A/ | GA B2 | 
+BB G (3G/A/G/ | FG A2 | f>e dA |1 F z F G/A/ :|2 F z F F/F/ |: FA de | f2 fF/F/ | "^Efter Georg Hallstensson, Östmark." FA de |  g2 g2 | 
+ eg/e/ d(g/d/) | cc B2 | Bd cd |1 B z B F/F/ :|2 "^Stämförslag B.O." B z B z |]
+

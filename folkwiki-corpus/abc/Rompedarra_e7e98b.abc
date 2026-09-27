@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Rompedarra
+O:Skåne
+R:Mazurka
+N:Efter fiolspelmannen Ivan Karlsson, Ystad
+N:2:a stämma av Sylve Björk, Ludvigsborg
+Z:Patrik Månsson, 2024-03-06
+L:1/16
+M:3/4
+K:G
+V:1
+|: "G" G3A B4 B4 | d3c B4 B4 | G3A B4 B4 | "D7" d3B c4 c4 | A3B c2d2 d2e2 | f3e d4 d4 |
+V:2
+|: B,3D G4 G4 | B3A G4 G4 | B,3D G4 G4 | F3G A4 A4 | F3G A2B2 B2c2 | d3c A4 A4 |
+V:1
+|1 "D7" f2e2 d2c2 B2c2 | "G" e3d B4 B4 :|2 "D7" f2e2 d2c2 B2A2 | "G" G4 G4 z4 |: b4 a4 g4 | "D7" (3f2g2f2 c4 c4 |
+V:2
+|1 d2c2 B2A2 G2A2 | c3B G4 G4 :|2 d2c2 B2A2 G2D2 | [DB,]4 [DB,]4 z4 |: d4 c4 B4 | A4 F4 F4 |
+V:1
+"C" g4 f4 e4 | "G" (3e2f2e2 B4 B4 | G3B d2B2 d2B2 | "C" c3e g2e2 g2e2 | "D7" d3f a2f2 a2f2 | "G" g4 g4 z4 :|
+V:2
+e4 d4 c4 | B4 G4 G4 | B,3D G4 G4 | E3G c4 c4 | F3A d4 d4 | [DB,]4 [DB,]4 z4 :|
+

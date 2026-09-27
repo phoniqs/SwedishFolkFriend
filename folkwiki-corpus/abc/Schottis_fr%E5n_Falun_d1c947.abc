@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Falun
+C:Bengt Johansson
+O:Ryggen, Falun, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bengt Johansson (1919-1991), Ryggen, Falun."
+L:1/16
+M:2/4
+K:G
+V:1
+|:"^1" D2GB d2Bd | g2fe (!>!d2!>!B2) | c2ag f2fe | (d>c)BA (!>!G2!>!D2) |
+ D2GB d2Bd | g2fe (!>!d2!>!B2) | A2ag (f>d)ef | g2g2 g2 z2 ::
+ d>edc !>!B2!>!G2 | e>fed !>!c2!>!A2 | a>bag f>edc | B>cBA !>!G2!>!D2 | 
+d>edc !>!B2!>!G2 | e>fed !>!c2!>!A2 | D>FAd (f>a)df | g2g2 g2 z2 :| 
+V:2
+|:"^2""G" B,2DG B2GB | e2dc (!>!B2!>!G2) |"D7" A2fe d2dc | "D7" (B>A)GD "G" (!>!B,2!>!B,2) | 
+"G" B,2DG B2GB | e2dc (!>!B2!>!G2) | "D7" F2fe (d>A)cd | "G" B2B2 B2 z2 :: 
+"G" B>cBA !>!G2!>!D2 |"Am" c>dcB !>!A2!>!E2 | "D7" f>gfe d>cBA | "G" G>AGD !>!B,2!>!B,2 | 
+B>cBA !>!G2!>!D2 |"Am" c>dcB !>!A2!>!E2 | "D7" A,>DFA"^Stämförslag B.O." (d>f)Ac |"G" B2B2 B2 z2 :|
+

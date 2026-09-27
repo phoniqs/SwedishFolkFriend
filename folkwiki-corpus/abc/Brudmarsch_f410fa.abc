@@ -1,0 +1,36 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch
+C:Alfred Rönnqvist
+R:Marsch
+O:Jämtland
+Z:[[Personer/Bengt Ohlson]]
+Z:Komp. 1932 av Alfred Rönnqvist (f. 1913)
+Z:Arr. Alfred Rönnqvist.
+L:1/8
+Q:1/4=82
+M:2/4
+U:t=tenuto
+K:G
+V:1
+"^1" D |: G2 (G/A/)B/c/ | d2 (gf) | ee/f/ gf/e/ | d3 B | eE ^DE | c2 (dc) | (B>c) (B/A/)G/B/ | 
+A3 D | G2 (G/A/)B/c/ | d2 (gf) | ee/f/ gf/e/ | d3 d | e2 (tEtE) | 
+F2 (tFtF) | G2 (tGtG) |1,8 G3 D :|2 G3 z |: (Bd) dc/B/ | (Ac) cB/A/ | 
+(GB) BA/G/ | (F/G/)A/F/ D2 | (df) fe/d/ | (^cd) ef/e/ | d2 (tdtd) |1 d3 z :|2 
+d3 (e/f/) | g2 (fe) | d2 (cB) | e2 (dc) | B3 B | e2 (tEtE) | 
+F2 (tFtF) | G2 (tGtG) | G3 z |] 
+V:2
+"^2" D |: [B,D]2 (B,/D/)G/A/ | B2 (tdtd) | cc/d/ ed/c/ | B3 G | (E C2) C | 
+[FA]2 [FA]2 | (G>A) (G/F/)E/G/ | (F>E) D z | B,2 (B,/D/)G/A/ | B2 (tdtd) | 
+cc/d/ ed/c/ | BA G=F | (EC) C2 | C2 (tDtD) | 
+[B,D]2 (t[B,D]t[B,D]) |1,8 [B,D]3 D :|2 [B,D]3 z |: (GB) BA/G/ | (FA) AG/F/ | 
+(EG) GF/E/ | (D/E/)F/D/ F2 | (FA) AG/F/ | (EF) GA/G/ | A2 (tAtA) |1 A3 z :| A3 z | 
+B2 (tctc) | B2 (AG) | c2 (BA) | ^G3 G | G2 C2 | C2 (tCtC) | 
+D2 (tEt_E) | D3 z |] 
+V:3
+"^3" D |: G,2 (G,D) | G,2 B,2 | C2 C2 | B,(A,G,) z | C2 A,2 | D2 A,2 | G,2 B,2 | (D>E) D/C/B,/A,/ | 
+G,2 (B,D) | G,2 B,2 | C2 C2 | B,2 G,2 | C2 A,2 | D2 (A,D) | G,2 G,2 |1,8 G,3 D :|2 G,3 z |: 
+G,2 G,2 | D2 D2 | B,2 E2 | D2 A,2 | A,2 D2 | A,2 ^C2 | D2 (tDtD) |1 D3 z :|2 D3 z | 
+G,2 A,2 | B,2 (CD) | C2 (D^D) | E2 D2 | C2 A,2 | D2 D2 | G,2 (tG,tG,) | G,3 z |]
+

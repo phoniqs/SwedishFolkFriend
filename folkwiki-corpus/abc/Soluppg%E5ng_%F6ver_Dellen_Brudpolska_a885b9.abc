@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:24
+T:Soluppgång över Dellen. Brudpolska.
+S:From-Olle
+B:25 spelmanslåtar från Hälsingland Nr 24
+R:Polska
+O:Hälsingland
+Z:Karin Helander
+N:Andrastämma av [[Personer/Thore Härdelin den äldre]]
+M:3/4
+L:1/8
+K:C
+V:1
+|: g2 g^f/g/ a=f | f>e e4 | [d2D2] de fd | (c/B/)A/B/ cG EC | 
+g2 g^f/g/ a=f | f>e e4 | [d2D2] da fd | (c/B/)A/B/ c2 z2 :| 
+[K:G] |: d2 d>g fg | de/d/ cd/c/ B2 | d2 d>g bg | dB/d/ cA/c/ B2 !fermata! | 
+GA/B/ cA/c/ BG/B/ | AF/A/ [G3G,3] B || [K:C] d2 d>c BA/B/ | cG (E/G/)c/e/ ((3 g^fg) | 
+a2 ag (^f/g/)a/f/ | g2 G>=F EF | G2 G>c ec | (GA/G/) (FG/F/) [E2G,2] |
+G2 G>c ec | (GA/G/) (FG/F/) [E2G,2] | {fg} a2 g>e fd | GA/B/ [c2E2] z2 |]
+V:2
+|: [B3D3G,3] z Bd | d>c c4 | [A2F2] [A2F2] DF | [F2G,2] CE Gc | 
+[B3D3G,3] z Bd | d>c c4 | [A2F2] [A2F2] [A2F2] | [F2G,2] [E2G,2] z2 :| 
+[K:G] |: [D2B2] [DB]>[DB] [cD][BD] | [BD][c/D/][B/D/] [AD][B/D/][A/D/] G2 | B2 B>B dB | BG/B/ AF/A/ G2 !fermata! |
+EF/G/ [E2A2] [G2G,2] | CA,/C/ [B,3D3] z || [K:C] B,D GB d2 | CE Ac [e2E2] |
+D^F Ad [^f2A2] | [G,2=F2] [F2A,2] [F2B,2] | [E2G,2] [EG,]>[EG,] [GG,][EG,] | [EG,][F/G,/][E/G,/] [DG,][E/G,/][D/G,/] C2 |
+[E2G,2] [EG,]>[EG,] [GG,][EG,] | [EG,][F/G,/][E/G,/] [DG,][E/G,/][E/G,/] C2 | f2 e>^c dB | GF/D/ [C2G2] z2 |]
+

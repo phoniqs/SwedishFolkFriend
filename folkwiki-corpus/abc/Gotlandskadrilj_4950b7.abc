@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:26
+T:Gotlandskadrilj
+T:(Sv Folkdanser Del 1)
+O:Gotland
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 26. Gotlandskadrilj Philochoros"
+Z:http://runeberg.org/folkdans/besk/0193.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 26
+L:1/4
+Q:1/4=384
+M:2/2
+K:G
+V:1
+"^1""^Förspel" B/c/ | d B d B | d B d c/d/ | e c f d | g2 g |][K:G][M:2/2][K:treble]"^Dans" B/c/ |: 
+"^(1)" d B d B | d B d c/d/ | e c e c | e c e f/g/ | a f a f | a f d e/f/ | g d g b | g3 z ::
+"^(2)" G G G B/G/ | E E E2 | E E E G/E/ | E D D2 | c c c d/c/ | B B B c/B/ | D F/A/ D F/A/ | A G G2 | 
+G G G B/G/ | E E E2 | E E E G/E/ | E D D2 | c c c d/c/ | B B B c/B/ | D F/A/ D F/A/ | A G G2 :|
+"^(3)" G2 G, B,/C/ | D E D B |A2 A, A,/B,/ | C D C A | G2 G, B,/C/ | D G/B/ d c/B/ | A A A B/A/ | G G G z |]
+"^(4)" B2 G2 | A A A z | c2 F2 | G G G z | B2 G2 | A A A z | D F/A/ D F/A/ | A G G f/g/ |] 
+[K:D]"^(5)" a a a b/a/ | f f f g/f/ | e A e A | d/e/ f/g/ a f/g/ | a a a b/a/ | f f f g/f/ | e A e A | d2 d2 |]
+[K:G]"^(6)" B G D D/G/ | B, G D B | A d F A | D F A,2 | B G D D/G/ | B, G D B | A d F A | G2 G f/g/ |]
+[K:D]"^(7)""D" a a a b/a/ | f f f g/f/ | e A e A | d/e/ f/g/ a f/g/ | a a a b/a/ | f f f g/f/ | e A e A | d2 d2 |:
+[K:G]"^(8)" G D/G/ B G | G D/G/ B G | A A d d | B B G2 | G D/G/ B G | G D/G/ B G | A A d d | B B G2 | A A d d | B B G G | 
+A A d d | G2 g2 | e c c/B/ c | d B B/^A/ B | c A A/^G/ A | G/A/ B/c/ d2 | e c c/B/ c | d B B/^A/ B | c A A/^G/ A |1 G2 G2 :|2 G2 g2 |]
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Strut'n
+T:Senpolska
+C:Mats Holmgren
+O:Ångermanland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+N:Strutn, Struten
+L:1/8
+M:3/4
+K:G
+V:1
+"^1"u D |: (3DB,D B2 G>F | (F>G) A3u c | (3cBc (ed) cA | (AG) (BG) D>D | 
+(3DB,D B2 G>F | (F>G) A3u c | (3cBc (ed) cA |1 F2 G2 zu D :|2 F2 G2 zu d |: 
+ (3dBG (D>G) Bd | (d>c) c3u c | (3cAF (D>F) Ac | c>B B3u d |
+ (3dBG (D>G) Bd | d>c e3u g | (3fed (c>A) F>d |1 F2 G3u d :|2 F2 G3 z |] 
+V:2
+"^2"u B, |:"G" B,2 D2 B,>C |"D7" (C>D) F3u F | F2 (AF) DC |"G" (CB,) (DB,) B,>B, | 
+B,2 D2 B,>C |"D7" (C>D) F3u F | F2 (AF) DC |1"D7" A,2"G" B,2 zu B, :|2 "D7" A,2"G" B,2 zu B |:
+"G" (3BGD (B,>D) GB |"Am" (B>A) A3u A | "D7" (3AFD (A,>D) FA | "G" A>G G3u B | 
+(3BGD (B,>D) GB |"C" B>A c3u e |"D7" (3dcA (F>D)"^B.O." C>F |1 "D7" A,2"G"  B,3u B :|2"D7" A,2"G" B,3 z |]
+

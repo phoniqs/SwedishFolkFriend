@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Vårlåt
+T:Gånglåt
+C:Alfred Rönnqvist
+O:Vigge, Jämtland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Alfred Rönnqvist"
+Z:"Uppt. fr. kassett. Stämförslag B.O."
+L:1/8
+M:2/4
+K:C
+V:1
+"^1" G |: (EG) G^F/G/ | AG E>G | (Ac) cB/c/ | dc B>A | (AG) G^F/G/ | 
+cG/F/ ED/C/ | E>D DD | D3 G | (EG) G^F/G/ | AG E>G | (Ac) cB/c/ | 
+dc B>A | (AG) G^F/G/ | cG/F/ ED/C/ | D>C CB, |1 C3 G :|2 C3 G |: 
+G>c cd | e2 (dc) | A>f fe | d2 (Ac) | (B/c/)B/A/ (G/F/)A/G/ | 
+FE/F/ AG/F/ | F>E ED | E3 G | G>c cd | e2 (dc) | A>f fe | 
+d2 (Ac) | (B/c/)B/A/ (G/A/)B/c/ | d2 (Bd) | d>c cB |1 c3 G :|2 c3 z |] 
+V:2
+"^2" e |:"C" (ce) e^d/e/ | fe c>e | "F" (fa) a^g/a/ | ba g>f | "C" (fe) e^d/e/ |
+ ge/d/ cB/A/ | "G7" c>B BA | B3 e |"C" (ce) e^d/e/ | fe c>e |"F" (fa) a^g/a/ | 
+ba g>f |"C" (fe) e^d/e/ | ge/d/ cG/E/ | "G7" F>E ED |1 "C" E3 e :|2"C" E3 c |:
+"C" c>e ef | g2 (fe) | "F"f>a ag | f2 (fa) | "G7" (g/a/)g/f/ (e/d/)f/e/ | 
+dc/d/ fe/d/ | "C" d>c cB | c3 c | c>e ef | g2 (fe) | "F" f>a ag | f2 (fa) | 
+"G7"(g/a/)g/"^Uppt. fr. kassett.  Stämförslag B.O."d/ (B/d/)g/a/ | f2 (df) |"C" f>e ed |1"C" e3 c :|2"C" e3 z |]
+

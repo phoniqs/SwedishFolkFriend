@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Timas Hans
+S:Timas Hans Hansson
+O:Ore, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Kan för undra uka mor ska säja nu,
+Z:Hon får väl så: dä får väl gå ändå. 
+Z:Trall ------  
+Z:då hon får en sådan slarv till måg."
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" A>(^c d)(e f)e | (g>f) df e2 | (cB) (GA) Bd | (d^c) A4 :| 
+(F>A) (c>B) GB | (d>B) AF D2 | fg/f/ (e>d) ^cd | ed/^c/ df a2 | 
+(F>A) (c>B) GB | (d>B) AF D2 | fg/f/ (ed) ^cd | ed/^c/ d4 |] 
+V:2
+|:"^2" E>(G A)(^c d)c | (e>d) =Bd ^c2 | (AG) (EF) GB | (BA) E4 :| 
+(D>F) (A>G) EG | (B>G) FD A,2 | de/d/ (^c>=B) AB | ^cA/G/ Ad f2 | 
+(D>F) (A>G) EG | (B>G) FD A,2 | de/d/"^Stämförslag B.O." (^c=B) AB | ^cA/G/ [FA]4 |]
+

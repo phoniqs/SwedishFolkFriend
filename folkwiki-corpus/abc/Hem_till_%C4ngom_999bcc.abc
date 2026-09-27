@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Hem till Ängom
+T:(Andrastämman)
+C:Joel Böhlen
+O:Lidensboda, Sundsvall, Medelpad
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Joel Böhlén. Stämma: B.O."
+L:1/8
+M:2/4
+K:A
+V:2
+"^2"u A |:v "A" c2 (c/d/)c/A/ | E2 C2 | (A,/C/)(E/C/) (A,/C/)(E/C/) | "E7" (B,/D/)(E/D/) (B,/D/)(E/D/) | B2 (GE) | 
+B,3 B, | (B,/E/)(G/E/) (B,/E/)(G/E/) | "A" (C/E/)A/B/ cd/e/ | c2 (c/d/)c/A/ | E2 C2 | (A,/C/)(E/C/) (A,/C/)(E/C/) | 
+"E7" (B,/D/)(E/D/) (B,/D/)(E/D/) | eB d>c | (BA) GE/F/ | GE/B,/ B,C/D/ |"A" C3u c :: 
+"A" A>G AB | cA EC | "D" F2 (FE) | D3 c |"E7" Bd/B/ (GF) | 
+ED B,G |"A" Ae cB | A2 (CE) | A>G AB | cA EC | "D" F2 (FD) | 
+A,3 D | "E7" B,E GB | eg eB |"A" c2 (d/c/)B/c/ |"A" c3u c ::
+"A"v c2 (e>d) | cA EC |"E7" E2 G2 | D3 B |v e>f ge | BG AB |
+"A" cd/c/ (AF) | E2 C2 | c>d ed | cB AA | "D" F>G A>G | FE DD |
+"E7" B,E/G/ (Bd) | eg Bd |"A" cA/B/ (AE) |1"A" C3u c :|2 "A" C3"^B.O." z |]
+

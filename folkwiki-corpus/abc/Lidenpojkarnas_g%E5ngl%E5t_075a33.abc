@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Lidenpojkarnas gånglåt
+R:Gånglåt
+O:Liden, Medelpad
+Z:[[Personer/Bengt Ohlson]]
+Z:"Okänd komp."
+L:1/8
+M:2/4
+K:G
+V:1
+|:"^1" d2 (Bc) | d2 (ga) | b2 (gd) | B2 (Bd) | (d>c) (cB) | 
+AA Bc | (e>d) (dc) | B2 (GB) | d2 (Bc) | d2 (ga) | b2 (gd) | 
+B2 (Bd) | (d>c) (cB) | A2 (df) | (a>g) (.g.g) |1 g3 z :|2,8 g3 d |: 
+(g>b) (.d'.d') | b3 a | (a>g) (gf) | (f>e) (.e.e) | (c>a) (.a.a) | 
+a3 g | (g>f) (fe) | (e>d) (.d.d) | c2 (.e.e) | (e>a) (.a.a) | B2 (.d.d) | 
+(d>g) (.g.g) | A2 (df) | a2 (c'f) | (a>g) (.g.g) |1 g3 d :|2,8 g3 z |] 
+V:2
+|:"^2" "G" B2 (GA) | B2 (Bc) | d2 (dB) | G2 (GB) | "D7" (B>A) (AG) | FF GA |
+"G" (c>B) (BA) | G2 (DG) | B2 (GA) | B2 (Bc) | d2 (dB) | G2 (GB) | 
+"D7" (B>A) (AG) | F2 (FA) | "G" (c>B) (.BB) |1"G" [GB]3 z :|2,8 "G" [GB]3 G |:
+"G" (B>d) (.g.g) | d3 f | "C" (f>e) (ed) | (d>c) (.c.c) |"D7" (A>f) (.f.f) | 
+f3 e | (e>d) (dc) |"G" (c>B) (.B.B) |"Am" A2 (.c.c) | (c>e) (.e.e) |"G" G2 (.B.B) | 
+(B>d) (.d.d) | "D7" F2 (FA) | c2 (dA) |"G" (c>B) (.B.B) |1"G" [GB]3 B :|2,8"G" [GB]3"^B.O." z |]
+

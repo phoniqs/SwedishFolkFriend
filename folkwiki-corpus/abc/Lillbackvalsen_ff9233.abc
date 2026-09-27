@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Lillback-valsen
+S:Sigvard Stolt
+O:Galven, Alfta, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Sigvard Stolt,  Galven,  Alfta."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1"u D2 |: G2 (FG) AF | G4 B2 | d2 (cd) ec | d4 d2 | 
+(D2 F2) A2 | (cB) cd e2 | (ed) (Bc) AF |1 G4 D2 :|2 G4 g2 |: 
+(gf) (ed) ef | (gf) ga b2 | (ba) (fd) ef | g4 g2 | (gf) (ed) ef | 
+(gf) ga b2 | (ba) (fd) ef | g4 gf | e2 c2 ce | d2 B2 gf | 
+e2 c2 ce | d2 B2 Bd | (dc) (Bc) AF |1 G4 g2 :|2 G4 z2 |] 
+V:2
+"^2" C2 |: B,2 (A,B,) CA, | B,4 G2 | B2 (AB) cA | B4 B2 | 
+(A,2 C2) F2 | (AG) AB c2 | (cA) (FD) CA, |1 [B,D]4 C2 :|2 [B,D]4 B2 |: 
+(ed) (cB) cd | (BA) Bc d2 | (gf) (dA) cd | B4 B2 | (ed) (cB) cd | 
+(BA) Bc d2 | (gf) (dA) cd | B4 Bd | c2 E2 Ec | B2 G2 Bd | c2 E2 Ec | 
+B2 G2 GB | "^Stämförslag B.O." (BA) (FD) CA, |1 [B,D]4 B2 :|2 [B,D]4 z2 |]
+

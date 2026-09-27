@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Hälsingetag
+T:Hambo
+C:Theodor Ohlson
+O:Hälsingland
+R:Hambo
+Z:Karin Helander
+N:https://www.youtube.com/watch?v=dRZYeps7Fk0
+L:1/16
+M:3/4
+K:Bb
+V:1
+|: !f! "Bb" "^Livligt" f2=ef b3f d3B | F2=EF d3c B3A | "Cm" G^FGz c=Bcz edez | [ceg]7 ec3B | 
+"F7" B4 (A3^G A3B) | A8 !>! "A7" [^C=EG]4 | "Bb" !>! [GD]4 (F3=E F3G) | F8 "F7" [Acef]3z | "Bb" f2=ef b3f d3B |
+F2=EF d3c B3A | "Cm" G^FGz c=Bcz edez | [ceg]8 !>![ceg]3z | "Bbdim" (3 (b2a2b2) c'3b g3=e | 
+"Bb" (3 (f2=e2f2) b3f d3B | "F7" F3G A3F d3c | "Bb"B2 z2 !>! [Bdfb]2 z2 z4 :: !crescendo(! "Gm" (3 .[GBd]2.[GBd]2.[GBd]2 (3 .[GBd]2.[GBd]2.[GBd]2 (3 .[GBd]2.[GBd]2.[GBd]2 | "Cm" (3.[Gce]2.[Gce]2.[Gce]2 (3.[Gce]2.[Gce]2.[Gce]2 (3.[Gce]2.[Gce]2.[Gce]2 !crescendo)! | 
+!mf! "Gm" !>! [ecG]4 d3B G3B | D4 G4 B4 | "D7" A4 A3^G A3B | A4 ^F4 D4 | "Gm" B3A G3B d3B | "D7" (A2B2A2^F2E2D2) | 
+"Gm" (3 .[GBd]2.[GBd]2.[GBd]2 (3 .[GBd]2.[GBd]2.[GBd]2 (3 .[GBd]2.[GBd]2.[GBd]2 | "Cm" (3.[Gce]2.[Gce]2.[Gce]2 (3.[Gce]2.[Gce]2.[Gce]2 (3.[Gce]2.[Gce]2.[Gce]2 |  "Gm" !>! [ecG]4 d3B G3B | D4 G4 B4 | "D7" [^Fd]4 c3B A3c |  "A7b9" !>! [^CGB]6 z2 "D9" [=C^FA]4 | 
+"Gm" [B,DG]3^F G3B "Cdim" [EA]3B |1 "Gm"G2 z2 [B,DG]2 z2 "D7"[A,CD]4 |]2 "Gm" G2 z2 !>![GBdg]2 z2 z4 |: !f! "F7" (3 (f2=e2f2) (3 (a2g2f2) (3 (_e2d2c2) | (3 (E2=E2F2) d3c A3F | 
+"Bb" B3c d3f "Bbdim" [=eb]3g | "Bb" [fd]7 dc3B | "F7" A3A [ge]3A [ge]3A | [ge]7 ed3c | "Bb" B3d [gB]3d [gB]3d | 
+[gdB]8 "F#7" !>! [^f^c^A]4 | "F7" !>! (3 (f2=e2f2) (3 (a2g2f2) (3 (_e2d2c2) | (3 (E2=E2F2) d3c A3F | "Bb"B3c d3f "Bbdim" [b=e]3g | 
+"Bb" [fd]7 dc3B | "Eb" E2 z2 (3 (g2^f2g2) "C7" [b=e]2z2 | "Bb" [DFB]2 z2 (3 (f2=e2f2) [dfb]2 z2 | "F7" (3 (f2=e2f2) (3 (a2g2f2) (3 (_e2d2c2) | "Bb" B2 z2 !>! [bfdB]2 z2 z4 :|
+

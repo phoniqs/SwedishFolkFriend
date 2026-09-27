@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:119
+T:Årdalapolskan
+T:Hamburgska
+R:Polska
+O:Årdala, Sörmland
+S:A G Rosenberg
+B:AG Rosenbergs Sörmlandssamling nr 119
+Z:Karin Helander
+N:Från not hos Stockholms Spelmansgille: https://media.getanewsletter.com/47804f07-8823-4e6c-b9bb-fc1500c80ec4.pdf
+N:"Årdala ligger i centrala Sörmland. Melodin var nr 119 i A.G. Rosenbergs Sörmlands-smaling från c:a 1875. (Troligen dock upptecknad c:a 1830). ur "Jumbileumslåtar 2007"
+N:"Arr. av [[Personer/Allan Westin]], Stockholm, 2010"
+M:3/4
+L:1/8
+K:Dm
+V:1
+|: A2 A>B A>G | {FG}F>E F2 D2 | d2 d>e f>d | d>c A3 z :|
+|: A>d d2 d2 | d>c c4 | A>A A>B A>G | 
+F>G A2 A2 | F2 F>F GE | E>F D3 z :| 
+V:2
+|: "Dm" D2 F>G F>E | D>E D2 A,2 | "Bb" B,2 B,>C D>F | "F" F>E C3 z :| 
+|: "Dm" D>F F2 F2 | "C" F>E E4 | "F" F>F F>G F>E | 
+"Dm" D>E F2 F2 | "Dm" D2 D>D "A7" E^C | "A7" ^C2 "Dm" [DA,]3 z :|
+

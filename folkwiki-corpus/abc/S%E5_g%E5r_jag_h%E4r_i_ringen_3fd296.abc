@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Så går jag här i ringen
+O:Sverige
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Svenska sånglekar Nr 92."
+L:1/8
+M:2/4
+K:F
+V:1
+"^1""^Förspel""^Marsch" F2 A>F | EG CE | G2 B>E | F3 z/"^Dans" C/ |]: C>F FF | F2 A>F | E2 G>E | 
+C3 z/ C/ | C>G GG | G2 B>d | d2 c>A | F3 z/ C/ | F2 A>F | EG CE | 
+G2 B>G | Fd cA | F2 A>F | EG CE | G2 B>E |1 F3 z/ C/ :|2 F3 z |] 
+V:2
+"^2""F" A,2 C>D |"C7" CE G,C | E2 C>B, |"F" A,3 z/ A,/ |]:"F" A,>C CC | C2 F>C |"C7" C2 E>C | 
+G,3 z/ G,/ | G,>B, B,B, | B,2 E>G |"F" G2 F>C | "^Spelas 3 ggr." A,3 z/ A,/ |"F" A,2 C>D | 
+"C7" CE G,C | E2 C>B, |"F" A,G FC | A,2 C>D |"C7" CE G,C | "^Stämförslag B.O." E2 C>B, |1 "F" A,3 z/ A,/ :|2"F" A,3 z |]
+

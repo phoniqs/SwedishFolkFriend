@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:36
+T:C-dursvalsen (vals av Jon-Erik Hall)
+T:(SvL Hälsingland 36)
+S:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 36
+O:Hassela, Hälsingland
+R:Vals
+Z:Göran Gustafsson
+M:3/4
+L:1/8
+K:C
+!invisible!|: (E | G2) {/A}G^F G2 | (=FE) DE F2 | (EG) (ce) ga | (g4f2) | e3d cB | (e4d2) | 
+(dc) (ce) cA | G4z (E | G2) {/A}G^F G2 | (=FE) DE F2 | EG ce ga | (g4f2) | 
+e3d cB | e4 d2 | dc ce dG |1 c4 !fine!z :|2 c4 z2 |: A3B cB | A2 (.e2.c2) | 
+A3B cB | A2 (.e2.c2) | B3c dB | (c4B2) | A3^G BG | (E4C2) | [AEA,]3B cB | A2 (.e2.c2) |
+B3c dc | B2 (.f2.e2) | d3c Bd | c4 B2 | (BA) (A^G) BG |1 "_D.C. al Fine e poi Coda" A4 z2 :|2 A4 z |]
+!coda!E | F2 a^g a2- | a=g fe f2 | C2 g^f g2- | g=f ed e2 | G,2 fe fe | 
+dc BA BA | GF EF GA | G2 c2 E2 | F2 a^g a2- | a=g fe f2 | 
+C2 g^f g2- | g=f ed e2 | G,2 fe fe | dc BA BA | GF EG AB | c4 z :|
+

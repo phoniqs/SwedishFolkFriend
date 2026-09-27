@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Villsjön
+C:Ivar Thorn
+O:Bergvik, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Av Ivar Thorn, Bergvik, (1970).
+Z:Stämförslag J. Hall
+%%score 1 2
+L:1/8
+M:3/4
+I:linebreak $
+K:F
+V:1
+|:"^1"vv (a/g/)f/e/ (fc) Ac | (d/c/)B/A/"^Polska" (BA) GF | E>G ce ge | (f/e/)f/g/ (a/g/)f/e/ fc |
+ (a/g/)f/e/ (fc) Ac | (d/c/)B/A/ (BA) GF | E>G ce ge |1 (g/b/)e/g/ f2uu c2 :|2,8 (g/b/)e/g/ f4 |:
+vv d>B FB df | (c/d/)c/B/ (Ac) fa | ga/b/ ef/g/ cd/e/ | fa (g/f/)e/d/ cf | 
+d>B FB df | (c/d/)c/B/ (Ac) fa | ga/b/ ef/g/ cd/e/ | f2 f4 ::
+vv D>E FA FD | (G>A) (B/A/)G/F/ ED | ^C>E AG FE | DE F/E/F/G/ A2 |
+ D>E FA FD | G>A Bd BG | A>^c eg fe |1 d2 d4 :|2 d2 c4 |] 
+V:2
+|:"^2" (c/B/)A/G/ (AF) CF | (B/A/)G/^F/ (GD) B,D | C>E Gc ec | (A/G/)A/B/ (c/B/)A/G/ AF | 
+(c/B/)A/G/ (AF) CF | (B/A/)G/^F/ (GD) B,D | C>E Gc ec |1 (e/g/)c/B/ [Fc]2 [CF]2 :|2,8 (e/g/)c/B/ [Fc]4 |:
+B>F DF Bd | (A/B/)A/G/ (FA) cf | ef/g/ cd/e/ EF/G/ | Ac (B/A/)G/F/ Ed | 
+B>F DF Bd | (A/B/)A/G/ (FA) cf | ef/g/ cd/e/ EF/G/ | [Fc]2 [Fc]4 ::
+A,>^C DF DA, | (B,>C) (G/F/)E/D/ ^CB, | [A,E]2 [^CE]2 DC | A,^C (D/C/)D/E/ [CE]2 |
+ A,>^C DF DA, | B,>C GB GD | E>A ^ce AG |1 [FA]2 [FA]4 :|2"^Stämförslag J. Hall" [FA]2 [G,E]4 |]
+

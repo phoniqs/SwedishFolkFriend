@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:204
+T:Polska 204 ur Sven Donats notbok (variant)
+R:Polska
+O:Småland
+S:Efter Torgny Lundberg
+N:Spelas med fördel i Em med nedstämd G-sträng.
+Z:ABC-transkribering av Torbjörn Lundberg.
+M:none
+K:Em
+[K:C]
+%
+"@-20,30 Stämn."[E,DAe]0 \
+%%staffbreak
+[K:Em clef=treble] \
+[M:3/4] \
+L:1/8
+E/F/G/F/ E2 e2 | df/d/ BB/A/ GF | E/F/G/F/ E2 e2 |1 df/d/ B3 E :|2 df/d/ B3 F |]
+"^bis:" |: G2 G/F/G/A/ BB | G/B/A/G/ F/A/G/F/ GE "^:bis" | E/F/G/A/ Be/d/ eE | G/F/E/D/ DE E2 :|
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Slängpolska från Enånger
+S:Efter Johan Sjödin, Finnika.
+O:Enånger, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (B>G) (G>B) d>B | B>A A2 A2 | (f>d) (d>f) a>g | (f>e) d4 | 
+(B>G) (G>B) d>B | B>A A2 A2 | (f>d) (d>f) a>f |1 g2 g3 z :|2 g2 g3 (g |: 
+b2) (b>g) a>g | g2 (g>c) e>e | d2 (d>c) B>A | G2 (B>d) g>g |
+ b2 (b>g) a>g | g2 (g>c) e>e | d2 (f>e) c>A |1 G2 [B,G]3 g :|2 G2 [B,G]3 z |] 
+V:2
+|:"^2" (G>B,) (B,>G) B>G | G>F F2 F2 | (d>F) (F>d) f>e | (d>A) F4 | 
+(G>B,) (B,>G) B>G | G>F F2 F2 | (d>F) (F>d) f>d |1 B2 B3 z :|2 B2 B3 (B |: 
+d2) (d>B) d>B | c2 (c>E) c>A | F2 (F>A) F>D | B,2 (G>B) B>B | 
+d2 (d>B) d>B | c2 (c>E) c>A | F2 (d>A) F>D "^Stämförslag B.O." |1 B,2 [G,D]3 B :|2 B,2 [G,D]3 z |]
+

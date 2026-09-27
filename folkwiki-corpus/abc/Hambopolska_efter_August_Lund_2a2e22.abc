@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska efter August Lund
+S:August Lund
+O:Husby, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(42) Hambopolska från Södra Dalarna efter August Lund, Husby."
+L:1/8
+M:3/4
+K:F
+V:1
+|:"^1" (3(c/d/c/ =B/c/) (a>g) f>e | e2 d>^c d2 | g2 (B/>c/B/A/) B>e | d2 (c/>d/c/=B/) c2 | 
+(3(c/d/c/ =B/c/) (a>g) f>e | e2 d>^c d2 | g>(c =B>)(c d>)e | f2 f3 z :: 
+a>(A ^G>)(A ^c>)e | a>g (f>e) d2 | g>(G ^F>)(G =B>)d | g>f (e>d) c2 | 
+(cd/c/) (=B>c) d>e | (f>e) f>g a2 | g>(c =B>)(c d>)e |1 [Af]2 [Af]3 z :|2 [Af]2 [Af]2 (3fga |:
+[K:Bb] b>B B2 (3Bdf | a>g g2 (3Ace | g>f f2 (3FAc | e>d d2 (3fga | 
+b>B B2 (3Bdf | a>g g2 (3Ace | g>(f a>)(g e>)c |1 [DB]2 [DB]2 (3fga :|2 [DB]2 [DB]4 |] 
+V:2
+|:"^2" A2 (c>B) A>c | c2 B>A B2 | B2 (G>F) G>c | B2 (A>G) A2 | 
+A2 (c>B) A>c | c2 B>A B2 | e>(A G>)(A B>)c | A2 A3 z ::
+ ^c>(E ^D>)(E A>)^c | ^c>B (A>G) F2 | =B>(D ^C>)(D G>)B | =B>A (G>F) E2 | 
+E2 (D>E) F>G | (A>G) A>B c2 | B>(F E>)(F G>)A |1 F2 F3 z :|2 F2 F2 (3ABc |: 
+[K:Bb] d>F F2 (3FBd | f>e e2 (3EAc | B>A A2 (3CEA | c>B B2 (3ABc | 
+d>F F2 (3FBd | f>e e2 (3EAc | e>(d f>)(d c>)A |1 F2 F2 (3ABc :|2"^B.O." F2 F4 |]
+

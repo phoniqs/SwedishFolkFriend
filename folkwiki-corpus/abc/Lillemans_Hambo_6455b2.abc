@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Lillemans Hambo
+C:Nisse Eriksson
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Nisse Eriksson"
+Z:Har spelats in av Bröderna Lindqvist: https://www.youtube.com/watch?v=vTdP9uq0Ep0
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" (a>g) (f>e) d>c | (B>G) e2 e>d | (c>B) (A>g) c>e | (d>c) (d>e) f>g | (a>g) (f>e) d>c | 
+(B>G) e2 e>d | (c>B) (A>g) c>e | d2 d2 z2 ::[K:A] (c>d) e2 f>e | (d>c) (B>d) f>a | 
+(g>f) (3(e^de) f>e | c>e A2 A2 | c>d e2 f>e | (d>c) (B>d) f>a | (g>f) (3(e^de) f>g | a2 a2 z2 :: 
+[K:G] d2 (d>c) B>c | (d>g) (B>d) G>d | e2 (e>d) c>d | (e>a) (c>e) A>e | f2 (f>e) d>f | 
+(a>c') (f>a) d>f | (g>f) (g>b) a>f | g>e (d>G) B2 | d2 (d>c) B>c | (d>g) (B>d) G>d | 
+e2 (e>d) c>d | (e>a) (c>e) A>e | f2 (f>e) d>f | (a>c') (f>a) d>^c | (d>f) a2 a>b | g2 g2 z2 :| 
+V:2
+|:"^2""D" (d>B) (A>G) F>A |"Em" (G>E) B2 B>A |"A7" (G>F) (E>c) E>G |"D" (F>E) (F>A) d>e | 
+(d>B) (A>G) F>A |"Em" (G>E) B2 B>A | "A7" (G>F) (E>c) E>G | "D" F2 F2 z2 ::[K:A]"A" (A>B) c2 d>c | 
+"Bm" (B>F) (D>F) B>d |"E7" (B>A) G2 A>G |"A" E>A C2 C2 | A>B c2 d>c | 
+"Bm" (B>F) (D>F) B>d |"E7" (B>A) G2 A>B |"A" c2 c2 z2 ::[K:G]"G" B2 (B>A) G>A | 
+(B>d) (G>B) D>B |"Am" c2 (c>A) E>A | (c>e) (A>c) E>c |"D" A2 (A>G) F>A | (c>e) (A>c) F>A | 
+"G" (B>A) (B>d) c>A | B>G (F>D) G2 | B2 (B>A) G>A | (B>d) (G>B) D>B |"Am" c2 (c>A) E>A | 
+(c>e) (A>c) E>c |"D7" A2 (A>G) F>A | (c>e) (A>c) F>E | (F>A) c2 c>d |"G" B2 B2"^B.O." z2 :|
+

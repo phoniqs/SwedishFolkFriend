@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Sillretag
+O:Upplands Väsby, Uppland
+R:Hambo
+C:Lars Erik Jansson
+C:Per-Erik Ericsson
+Z:[[Personer/Bengt Ohlson]]
+N:"Av Lars Erik Jansson och Per-Erik Ericsson."
+N:"En rediger hambo uti Medelpadsskogarna..."
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1" "C" (G,>C) (E>D) (C>E) | (G>C) (E>G) (c>e) | g(a/g/) ^f>g a>e |"G7" g2 f4 | (G,>B,) (D>C) (B,>D) | (G>B) (d>G) (B>d) | g(a/g/) ^f>g a>g |
+"C" f2 e4 | (G,>C) (E>D) (C>E) | (G>C) (E>G) (c>e) |"C7" ga/g/ ^f>g a>g |"F" f2 a4 | "Dm" (a>f) d>A F2 |"C" (E>G) c>e g2 | "G7" (f>d) B>G B>d |"C" d>c c4 ::
+"F" F2 A3 z |"C" A>G ^F>G E2 | "G7" G,2 F3 z | "C" F>E ^D>E C2 | "F" F2 A3 z |"C" A>G ^F>G E>E | "D" D>^F A>c B>A | "G7" (AG) G4 | "F" F2 A3 z |
+"C" A>G ^F>G E2 | "G7" G,2 F3 z | "C" F>E ^D>E C2 | "F" F2 A3 z | "C" A>G ^F>G E>C | "G7" (G,>B,) D>F E>D | "C" (D>C) C3 z ::[K:F] "F" (a>g) (f>e) (d>c) | 
+A>c F3 C | (3(A,CF) (3(A,CF) (3(A,CF) | "C7" (E>F) G>A B2 | (g>f) (e>d) (c>B) | G>E C3 B, | (G,>C) E>D C>B, | "F" A,>C F>d c2 | (a>g) (f>e) (d>c) | 
+A>c F3 C | "F7"(3(A,CF) (3(A,CF) (3(A,CF) | "Bb" E>D D3 z | "Gm" (g>f) (e>g) (f>d) | "F" c>f a3 a |"C7" (b>g) e>c e>g | "F" (g/a/g/e/) f3 z :| 
+V:2
+|:"^2" C>E G>F E>G | E>G, C>E G>c | ef/e/ ^d>e f>c | e2 d4 | B,>D F>E D>F | D>G B>D G>B | Bc/B/ A>B c>B | A2 G4 | 
+C>E G>F E>G | E>G, C>E G>c | ef/e/ ^d>e f>e | c2 f4 | f>d A>F D2 | C>E G>c e2 | d>B G>D F>G | F>E E4 :: 
+A,2 F3 z | F>E D>E C2 | B,2 D3 z | D>C B,>C G,2 | A,2 F3 z | F>E D>E C>C | A,>D ^F>A F>D | CB, B,4 |
+A,2 F3 z | F>E D>E C2 | B,2 D3 z | D>C B,>C G,2 | A,2 F3 z | F>E D>E C>C | B,>D F>A G>F | F>E E3 z ::
+[K:F] f>e d>c B>A | F>A C3 A, | A,2 C2 F2 | C>D E>F G2 | e>d c>B A>G | E>C G,3 E | C>E G>F E>D | C>F A>B A2 | 
+f>e d>c B>A | F>A C3 F | F2 E2 _E2 | C>B, B,3 z | e>d B>e d>B | A>c f3 f | e>c G>E G>B | BG A3"^B.O." z :|
+

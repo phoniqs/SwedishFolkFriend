@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:24
+T:Getabockadansen Nr 1
+T:(Gamla Dansar i Skåne)
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Getabockadansen (1) efter Ola Hansson, Smedstorp, Brunnby. C. E. Berndts saml."
+B:Gamla Dansar i Skåne
+S:Ola Hansson
+R:Långdans
+O:Brunnby, Skåne
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel" e2 (AB) cA | c4 d2 |]:[K:D][M:3/4][K:treble]"^Dans" A2 (ab) ag | 
+(fe) (fg) ef | (dc) e2 gf | c4 d2 :: 
+e2 (AB) cA | (cd) (dc) df | e2 (AB) cA | c4 d2 :| 
+V:2
+"^2" G2 (EG) AE | E4 F2 |]:[K:D][M:3/4][K:treble] F2 (fg) fe | (dc) (de) cd | (BA) G2 BA | E4 F2 :: 
+"^Efter Ola Hansson, Smedstorp, Brunnby.""^C. E. Berndts saml." G2 (EG) AE | (EF) (FE) FA | "^Stämförslag B.O." G2 (EG) AE | E4 F2 :|
+

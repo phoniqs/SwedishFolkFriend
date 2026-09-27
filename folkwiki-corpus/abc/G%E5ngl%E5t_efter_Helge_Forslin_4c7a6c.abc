@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt efter Helge Forslin
+S:Helge Forslin
+R:Gånglåt
+O:Borgsjö, Medelpad
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. fr. CD.  Stämförslag B.O."
+L:1/8
+Q:1/4=94
+M:2/4
+K:Dm
+V:1
+"^1" (A/B/) |:"F" c>a fc | AF CA, | "Bb" B,>D FB | d3 d | "C7" c>b ge | 
+c=B/c/ (de) | "F" fe/f/ (af) | c>B AB | c>a fc | AF CA, | "Bb" B,>D FB | 
+ d3 d | "C7" c>b ge | c=B/c/ (de) | "F" fe/f/ (ag) |1,8 "F"[Af]3 (A/B/) :|2 "F" [Af]2 "Dm" (D/F/)A/d/ |: 
+"Dm" f2 (ed) | A2 (D/F/)A/d/ |"Gm" B>A GF | E>D ^CB, | "A7" A,>^C EG | A>^c eg | 
+"Dm" (f/A/)d/f/"A7" (e/A/)^c/e/ |"Dm" d>A FA | f2 (ed) | A2 (D/F/)A/d/ |"Gm" B>A GF | 
+E>D ^CB, | "A7" A,>^C EG | A>^c eg | "Dm" (f/A/)d/f/"A7" (e/A/)^c/e/ |1"Dm" [Fd]2 (D/F/)A/d/ :|2 "Dm" [Fd]2"F" (F/A/)c/f/ |:
+"F" a2"C7" g2 |"F" f2"Bb" (D/F/)B/d/ | "Bb"f2"F" e2 |"Bb" d2 (B,/D/)F/B/ | df/d/ (Bd) | "F" cf/c/ (Ac) |
+"C7" (b/g/)e/c/ (B/c/)e/g/ | "F" fa/f/ (3(c/d/c/) A/c/ |"F" a2"C7" g2 | "F" f2"Bb" (D/F/)B/d/ | "Bb"f2"F" e2 |
+"Bb" d2 (B,/D/)F/B/ | df/d/ (Bd) | "F" cf/c/ (Ac) | "C7" (b/g/)e/c/ (B/c/)e/g/ |1"F" [Af]2 (F/A/)c/f/ :|2"F" [Af]3 |]
+

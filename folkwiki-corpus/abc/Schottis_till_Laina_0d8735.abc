@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis till Laina
+O:Hälsingland
+R:Schottis
+C:Bertil Westling
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 21. Schottis - Till Laina av Bertil Westling"
+L:1/8
+M:4/4
+K:Dm
+V:1
+"^1" (3A=B^c |: d2 AG F2 DF | E2 ^CE D2 A,2 | D2 DE F2 F2 | G2 FG [EA]4 | 
+d2 de f2 f2 | g2 fg a2 ba | f2 df e2 A^c |1 d2 d2 d2 (3A=B^c :|2 d2 d2 d2 DE |: 
+F2 F2 F2 GF | E2 E2 E3 F | G2 G2 G2 AG | FE FE D2 A,2 | 
+F2 A2 A2 GF | E2 G2 B2 d2 | ^c2 A2 Ac ec |1 d6 DE :|2 d6 A2 |: 
+[K:D] d2 f2 a2 ba | g2 B2 e3 d | c2 a2 B2 g2 | A2 f2 dc dB | 
+A2 df a2 ba | g2 B2 e3 d | c2 a2 A2 Bc |1 d2 d2 d3 A :|2 d2 d2 d3 z |] 
+V:2
+"^2" F2 |: A2 FE D2 A,D | ^C2 A,G, A,2 C2 | A,2 A,^C D2 D2 | E2 DE ^C4 | 
+F2 FA d2 d2 | e2 de ^c2 dc | d2 Ad ^c2 EG |1 F2 F2 [FA]2 F2 :|2 F2 F2 [FA]2 A,^C |: 
+D2 D2 D2 ED | ^C2 C2 C3 D | E2 E2 E2 FE | AG AG F2 E2 | 
+D2 F2 F2 ED | ^C2 E2 G2 B2 | A2 E2 EG AG |1 [FA]6 A,^C :|2 [FA]6 D2 |: 
+[K:D] F2 A2 d2 ed | B2 E2 G3 B | A2 c2 G2 B2 | F2 A2 FE FE | 
+D2 FA d2 ed | B2 E2 G3 B | A2 c2 E2 FG |1 F2 F2 [FA]3 D :|2 F2 F2"^B.O." [FA]3 z |]
+

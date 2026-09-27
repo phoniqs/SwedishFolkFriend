@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Eklund i svängen
+T:Schottis
+O:Upplands Väsby, Uppland
+R:Schottis
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+N:"Han bodde vid en vägkrök och tog  understundom en svängom..."
+L:1/8
+M:2/2
+K:F
+V:1
+"^1" C>B, |: A,>CF>A c>Af>"^Han bodde vid en vägkrök och tog""^sig understundom en svängom . . ."e | d>cA>F C2 C>B, | A,>CF>C A,>CF>C | B,>CE>C B,2 B,>A, | 
+G,>CE>G c>eg>f | e>dc>B G2 G>F | E>CE>G c2 (3(c=Bc) | d>cA>F C2 C>B, | A,>CF>A c>Af>e | 
+d>cA>F C4 | A,>^CC>E A>^ce>c | {c} d2 AF D4 | B,>DF>B d2 fd | c>AF>A (3(c=Bc) d>c | B>AG>F E>Gc>E |1 
+F2 A2 F2 C>B, :|2 F2 A2 F3 z |:[K:Bb] D2 D>E F>DF>B | d2 d2 B4 | D2 D>E (3(F=EF) G>F | F2 E2 C4 | F2 F>G A>^GA>B | 
+c2 A>c f4 | f2 g>f e>cA>c | (3(BAB) d>B F4 | D2 D>E F>DF>B | d2 d2 B4 | d>fe>d c>BA>B |
+A2 G2 G4 | E2 G>c e2 e2 | D>FF>B d2 d>B | C>FF>A A>cf>A |1 B2 d2 B4 :|2 B2 d2 B4 |] 
+V:2
+"^2" A,>G, |:"F" A,>A,C>F A>Fd>c | B>AF>C A,2 A,>G, | A,>A,C>A, A,>A,C>A, | 
+"C7" G,>B,C>B, G,2 G,>A, | G,>G,C>E G>ce>d | c>BG>E C2 C>B, | C>G,C>E G2 (3(GFG) | 
+"F" B>AF>C A,2 A,>G, | A,>A,C>F A>Fd>c | B>AF>C A,4 |"A7" A,4 E4 | "Dm" F2 FD A,4 |"Bb" B,>B,D>F B2 dB | 
+"F" A>FC>F A2 B>A | "C7" G>FE>D C>EG>B, |1 "F" A,2 C2 A,2 A,>G, :|2 "F" A,2 C2 A,3 z |: 
+[K:Bb]"Bb" B,2 B,>C D>B,D>F | B2 B2 D4 | B,2 B,>C D2 E>D |"F7" D2 C2 A,4 | A,2 A,>C F>=EF>G | 
+A2 F>A A4 | A2 B>A G>FC>E | "Bb" D2 B>F D4 | B,2 B,>C D>B,D>F | B2 B2 D4 | B>dc>B A>GF>G | "Eb" F2 E2 E4 | 
+"Cm" G,2 C>E G2 G2 | "Bb" B,>DD>F B2 B>G |"F7" A,>CC>F F>AF>E |1 "Bb" D2 F2 D4 :|2"Bb" D2 F2"^B.O." D4 |]
+

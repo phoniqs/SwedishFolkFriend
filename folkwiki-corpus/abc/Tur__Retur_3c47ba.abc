@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Tur - Retur
+C:Eric Öst
+O:Hälsingland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik och arr. Eric Öst."
+L:1/16
+M:2/4
+K:G
+V:1
+|:"^1" B2BA G2GE | (DE)DC (B,D)GA |"^Schottis" B2BA G2GF | (EF)ED (CE)AB | c2cB A2AG | 
+(FE)FA E4 | (FE)FA E4 | (ED)^CE (DF)GA | B2BA G2GE | (DE)DC (B,D)GA | B2BA G2GF | 
+(AG)FG E4 | EcBc d2c2 | DB^AB c2B2 | (AB)cA (EG)FA | G2[B,G]2 [B,G]2 z2 ::
+[K:D] (DF)FA (Ad)fa | bafd A2A2 | Acce egg2 | Addf faa2 | (DF)FA (Ad)fa | bafd A2A2 | 
+(ag)ec (Ag)fe | d2d2 d2 z2 ::[K:G] gfg2 d^cd2 | e^de2 cBc2 | (dc)Bd (cB)AF | 
+GABc d2d2 | gfg2 d^cd2 | e^de2 cBc2 | (dc)Bd (cA)EF | G2[B,G]2 [B,G]2 z2 :| 
+V:2
+|:"^2" G2GD B,2B,G, | (B,C)B,A, (G,B,)B,D | G2GD B,2B,D | (CD)CB, (A,C)CE | A2AG F2FE | 
+(DC)DF C4 | (DC)DF C4 | (G,B,)^A,C (B,D)B,D | G2GD B,2B,G, | (B,C)B,A, (G,B,)B,D | 
+G2GD B,2B,D | (CE)CE C4 | CEGE G2E2 | B,GFG A2G2 | (FG)AF (CE)DC | B,2[G,D]2 [G,D]2 z2 ::
+[K:D] (A,D)DF (FA)df | dfdA F2[DF]2 | CEAc cee2 | DFFA Adf2 | (A,D)DF (FA)df | dfdA F2[DF]2 | 
+(cB)AE (CB)AG | F2[DA]2 [DA]2 z2 ::[K:G] [Bd][Bd][Bd]2 B^AB2 | [Ac][Ac][Ac]2 A^GA2 | (FE)DF (ED)CD | 
+B,DGA B2B2 | [Bd][Bd][Bd]2 B^AB2 | [Ac][Ac][Ac]2 A^GA2 | (FE)DF (AF)CA, | B,2[G,D]2 [G,D]2 z2 :|
+

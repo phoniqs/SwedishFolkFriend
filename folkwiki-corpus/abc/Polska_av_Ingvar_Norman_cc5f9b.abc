@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:359
+T:Polska av Ingvar Norman
+C:Ingvar Norman 
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Nr. 359"
+L:1/8
+Q:1/4=96
+M:3/4
+K:Dm
+V:1
+|:"^1" d>(^c d>)(e f>)d | e>(^c A2) c>e | e>(^c A2) a>g |1 
+(e>f) d^c A2 :|2 (ef) d4 |: d>(f a2) af | ^c>(e g2) af |1 
+d>(e f>)(d e>)^c | (df) e^c A2 :|2 d>(f a>)(f e>)^c | ^c2 d4 |] 
+V:2
+|:"^2" F>(E F>)(A d>)A | (^c>A) E2 G>A | A>(G E2) ^c>A |1 
+(G>A) FE ^C2 :|2 (GA) F4 |: A>(d f2) fd | A>(^c e2) ec |1 
+A>(^c d>)(A G>)E |"^Stämförslag B.O." F2 GE ^C2 :|2 A>(d f>)(d A>)E | E2 F4 |]
+

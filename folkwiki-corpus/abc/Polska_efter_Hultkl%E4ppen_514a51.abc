@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Hultkläppen
+S:efter Per Hult Alcén, Hultkläppen
+O:Bergsjö, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Stämförslag: B.O.
+Z:Efter [[Personer/Grubb Anders Jonsson]], (bryggarn), Delsbo.
+L:1/16
+M:3/4
+K:Dm
+V:1
+|:"^1" A2^ce a4 e2>g2 | f2ed (^cd)ec A2>A,2 | A,4 (^C2>E2) E2A2 | A2F2 (DF)DF E4 | 
+A2=B^c (d2e2) f2a2 | (a2e2) (fe)fg a2e2 | f2ed ^c2ec (Ad)fd | (A^c)ec A4 A,4 |
+ A,4 (^C2E2) E2A2 | A2F2 (DF)DF E4 | A2=B^c (d2e2) f2(gf) | e2d^c d8 :: 
+f4 F4 F2>F2 | E2>g2 g2e2 ^c2e2 | f4 d4 d2>f2 | a4 (^ga)(=bg) a4 | 
+a4 a2eg (fe)(d^c) | d2f2 (eg)e^c A4 | a4 a2eg (fe)(d^c) | 
+d2d2 (^cd)ec A4 | F2FA G2GB A2g2 | (ef)e^c d8 :| 
+V:2
+|:"^2" ^C2EA ^c4 A2>B2 | A2GF (EF)GE ^C2>C2 | ^C4 (E2>A2) A2F2 | F2D2 A,2A,D ^C4 | 
+^C2DE (F2G2) A2^c2 | (^c2A2) (dc)de c2A2 | A2GF E2GE (DF)AF | (^CE)GE C4 C4 | 
+^C4 (E2A2) A2F2 | F2D2 A,2A,D ^C4 | ^C2DE (F2G2) A2(BA) | G2FE [FA]8 :: 
+A4 D4 D2>D2 | ^C2>^c2 c2A2 E2A2 | d4 A4 A2>d2 | ^c4 (=Bc)(dB) c4 | 
+f4 f2^ce (dc)(AG) | F2A2 (GB)GE ^C4 | "^Stämförslag B.O." ^c4 c2AB (AG)(FE) | 
+F2F2 (EF)GE ^C4 | D2DF E2EG F2d2 | (^cd)cA [FA]8 :| 
+

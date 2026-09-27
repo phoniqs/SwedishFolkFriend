@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Titanolåten
+T:Gånglåt
+C:Sigmund Dehli
+O:Norge
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Sigmund Dehli, Norge."
+L:1/8
+M:4/4
+K:D
+V:1
+"^1" (fg) |: (ga) a2 d3 e | (ef) f2 f2 (ef) | (fg) g2 c3 d | e6 a2 | (ac') c'2 (ea) a2 | 
+(ce) e2 (Ac) c2 | E2 Ac e2 cA | dd de f2 (fg) | (ga) a2 d3 e | (ef) f2 f2 (ef) | (fg) g2 c3 d | 
+e6 a2 | (ac') c'2 (ea) a2 | (ce) e2 (Ac) c2 | E2 Ac e2 cA |1 d2 f2 d2 (fg) :|2 d2 f2 d2 f2 |:
+ f2 gf e2 fe | d2 ed c2 dc | B3 G G2 A2 | B6 e2 |  e2 fe d2 ed | c2 dc B2 cB |
+ B2 GB (d2 B2) | A6 f2 | f2 gf e2 fe | d2 ed c2 dc | B3 G G2 A2 | B6 B2 | 
+B2 GB (d2 B2) | A2 FA d2 ef | (g3 e) (cA) ce |1 d2 f2 d2 f2 :|2 d2 f2 d2 z2 |] 
+V:2
+"^2" (de) |: "D" (ef) f2 A3 c | (cd) d2 d2 (cd) |"A7" (de) e2 G3 A | c6 e2 | (ea) a2 (ce) e2 | 
+(Ac) c2 (EA) A2 | C2 EA c2 AE | "D" FF FA d2 (de) | (ef) f2 A3 c | (cd) d2 d2 (cd) | "A7" (de) e2 G3 A | 
+c6 e2 | (ea) a2 (ce) e2 | (Ac) c2 (EA) A2 | C2 EA c2 AE |1 "D" F2 A2 F2 (de) :|2 "D" F2 A2 F2 d2 |: 
+d2 ed c2 dc | B2 cB A2 BA | "G" G3 D D2 F2 | G6 c2 | "A7" c2 dc B2 cB | A2 BA G2 AG | 
+"G" G2 DG (B2 G2) | "D" F6 d2 | d2 ed c2 dc | B2 cB A2 BA | "G" G3 D D2 F2 | G6 G2 | 
+G2 DG (B2 G2) |"D" F2 DF A2 cd |"A7" (e3 c) (AE) GA |1 "D" F2 A2 F2 d2 :|2 "D" F2 A2"^B.O." F2 z2 |]
+

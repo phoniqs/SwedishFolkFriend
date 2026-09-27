@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Sommarlåt
+R:-
+O:Österbotten
+M:4/4
+K:C
+I:linebreak $
+!p! !fermata!A8 ||"Em"!mf!"^1" .e2 d2"Am" cdBc |"Dm" .A2 .A.A"G" .B2 .B.B | 
+"Cpower" .G2 (3FGF"Am" E3 E |"F" A2 cd"C" .e2 dc |$"G" decd"E" PB3 A |"Am" A2 cd"C" .e2 dB | 
+"G" BAAG"F" GA G/A/G/F/ |"Em" E4 z2 E2 |$"Am" (AB)cd"E" edcB |"F" .A2 G2"G" B2 Ac | 
+"Am" egge a2 z2 |"Gpower" z2 A2"Am" .c2 d2 |$"G" B3 B"Em" G3 G |"Am" A6 AB | 
+"C" .c2 c2"G" Bc/B/ AG |"Am"{G} A8 || A8 ||$!p! !fermata!A8 ||"Dm""^2"!mf! .e2 d2"G" cdBd | 
+"Cpower" e3 e"Am" .d2 B2 |"F" c2 BA"C" ABGA |"G" B3 z"E" E4 |$"Am" A3 A"C"{/GA} .G2 D2 | 
+"G" G2 (3E/F/E/D"F" D3 C |"Em" EFDF EF/E/ DC |"Am" E3 z"E" z2 d2 |$"F" cdBc"G" A2 cd | 
+"Am" e2 dc .e2 d2 |"Gpower"{/cd} c2 Ac"Am"{/Bc} .B2 A2 |"G" G3 E c3 B |$"Am" A3 G A4 | 
+"C" G3 G"G" B3 B |"Am" A3 G A4 || A8 ||!p! E8 |] 
+

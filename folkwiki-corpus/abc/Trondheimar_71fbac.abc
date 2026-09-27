@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:47
+T:Trondheimar
+O:Norge
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Norge, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+Q:1/4=144
+M:3/4
+K:F
+V:1
+"^1""^Förspel" ga bc eg | f4 |][K:F][M:3/4][K:treble][Q:1/4=144]"^Dans" AB |: cc ff af | 
+c4({d} (3c=Bc) | d2 c2 c2 | c3 AFA | c2 =Bc dc | Ac fa g^f | 
+ga bc eg |1 f4 AB :|2 f4 z2 |: [M:2/4][Q:1/4=96] (d/^c/)d/f/ e/c/A | 
+(a/e/)f/d/ e/^c/A | (F/A/)E/A/ (D/F/)A/d/ |1 (^c/e/)A/c/ dD :|2 (^c/e/)A/c/ d=c/B/ |: 
+Af ca | cd/c/ (B/A/)G/F/ | Eg ga/g/ | (e/f/)g/e/ fc/B/ | 
+Af ca | cd/c/ (B/A/)G/F/ | Eg gb/g/ |1 (e/f/)g/e/ fc/B/ :|2 (e/f/)g/e/ f2 z |] 
+V:2
+"^2" ef gB cB | A4 |][K:F][M:3/4][K:treble] FG |: AA cc fc | A4 A2 | B2 A2 A2 | A3 FCF | A2 GA BA | 
+FA cf ed | ef gB cB |1 A4 FG :|2 A4 z2 |:[M:2/4] (F/E/)F/d/ ^c/A/E | (f/^c/)d/A/ c/A/E | 
+D^C (A,/D/)F/A/ |1 AE F z :|2 AE FA/G/ |: FA Ac | AB/A/ (G/F/)E/D/ | Ce ef/e/ | cB AA/G/ | FA Ac | 
+AB/A/ (G/F/)E/D/ | Ce eg/e/ |1 cB AA/G/ :|2"^Stämförslag B.O." cB A2 z |]
+

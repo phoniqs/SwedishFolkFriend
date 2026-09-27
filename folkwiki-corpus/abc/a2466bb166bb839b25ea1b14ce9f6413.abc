@@ -1,0 +1,11 @@
+%%abc-charset utf-8
+
+X:3
+M:3/4
+L:1/8
+K:G
+|: G2 G2 {B}(3(ABA) | G2 B2 {d}g2 | {g}a2 a2 {g}e2 | {f}g2 b2 {g}d2 |
+{a}G2 G2 {B}(3(ABA) | G2 B2 {d}g2 | {g}a2 a2 {g}e2 | {f}g2 g2 z2 :|
+|: {B}d2 d2 {B}g2 | {f}e2 e2 {d}c2 | a2 a2 {g}e2 | {f}g2 b2 {g}d2 |
+{B}d2 d2 {B}g2 | {f}e2 e2 {d}c2 | a2 a2 {g}e2 | {f}g2 g2 z2 :|
+

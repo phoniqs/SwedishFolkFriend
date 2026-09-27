@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:104
+T:Polska efter Carl Herman Erlandsson
+T:(SvL Uppland 104
+S:Carl Herman Erlandsson
+B:Svenska Låtar Uppland Nr 104
+O:By, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (37) eft. C. H. Erlandsson, By."
+L:1/8
+M:3/4
+U:t=tenuto
+K:Am
+V:1
+|:"^1" E2 (A/B/)A/^G/ A>B | B2 (c3/2{dc}B/) c>d | d2 (e/f/)e/d/ e>^f | 
+^f2 (gf/g/) a>=f |1 (f<e) e4  :|2 (f<e) e4- | e z e4- |: 
+e2 (e/f/)e/d/ e>d | (Bc) (tAtB) c>d | d2 (e/f/)e/d/ e>d | (Bc) (3A2 G2 E2- | 
+E2 (e/f/)e/d/ e>d | (Bc) tAtB c>d | d2 (e/f/)e/d/ e>d | (B<c) A4 :| 
+V:2
+|:"^2" C2 (E/F/)E/D/ E>^G | ^G2 (A>G) A>B | B2 (c/d/)c/B/ c>d | 
+d2 (ed/e/) f>d |1 (d<B) B4 :|2 (d<B) ^G4- | ^G z (G4 |: 
+c2) (c/d/)c/B/ c>B | (^GA) (tEtG) A>B | B2 (c/d/)c/B/ c>B | ^GA (3E2 D2 C2- | 
+C2 (c/d/)c/B/ c>B | "^Sv. Låtar Uppland nr. 104." (^GA) tEtG A>B | B2 (c/d/)c/B/ c>B |"^Stämförslag B.O." (^G<E) [CE]4 :| 
+

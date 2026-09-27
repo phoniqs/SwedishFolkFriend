@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Lillfinken
+C:Bernhard Westling
+R:Schottis
+O:Enånger, Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av B. Westling, Enånger"
+L:1/8
+M:4/4
+K:G
+V:1
+"^1" D |: G>B d>B G>B d>g | b>a"^Schottis" g>e d2 B>d | c>d c>A D>F A>d | f>e d>c B>d G2 | 
+G>B d>B G>B d>g | b>a g>e d2 B>d | c>d c>A D>F A>d |1 G2 G2 G3 D :|2 G2 G2 G3 G |: 
+E>G c>e g2 f>e | d>e d>B G2 B2 | D>F A>d f2 a2 | G>G B>d g2 b2 | 
+E>G c>e g2 f>e | d>e d>B G2 B2 | D>F A>d f>a f>d |1 g2 g2 g3 G :|2 g2 g2 g3 d |: 
+b>b g>g d>d B>B | G>G F>G A2 A2 | D>D F>A d2 d2 | G>G B>d g2 d2 | 
+b>b g>g d>d B>B | G>G F>G A2 A2 | D>F A>d f>e c>A |1 G2 G2 G3 d :|2 G2 G2 G3 z |] 
+V:2
+"^2" B, |: D>G B>G D>G B>d | g>f e>c B2 G>B | A>B A>F A,>D F>B | d>c B>A G>B D2 | 
+D>G B>G D>G B>d | g>f e>c B2 G>B | A>B A>F A,>D F>C |1 B,2 B,2 B,3 B, :|2 B,2 B,2 B,3 B, |: 
+C>E G>c e2 d>c | B>c B>G D2 G2 | A,>D F>A d2 f2 | B,>B, D>G B2 d2 | 
+C>E G>c e2 d>c | B>c B>G D2 G2 | A,>D F>A d>f d>A |1 B2 B2 B3 B, :|2 B2 B2 B3 G |: 
+g>g d>d B>B G>G | D>D C>D F2 F2 | A,>A, D>F A2 A2 | B,>B, D>G B2 G2 | 
+g>g d>d B>B G>G | D>D C>D F2 F2 | A,>D F>A d>A F>D |1 "^B.O." B,2 B,2 B,3 G :|2 B,2 B,2 B,3 z |]
+

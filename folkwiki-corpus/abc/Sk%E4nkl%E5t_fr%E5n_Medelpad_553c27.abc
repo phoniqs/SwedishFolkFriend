@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Skänklåt från Medelpad
+S:Axel Eriksson
+O:Haverö, Medelpad
+R:Skänklåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Axel Eriksson (1910-1977)  Haverö."
+Z:"Upptecknad i augusti 1977 av Tord Åkerlund. Axel Eriksson (1910-1977), kallades Lill-Axel i Haverö. Han sa att den var efter hans morfar Andreas Lång (1855-1924)."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" B/c/ |: d>c Bc | d2 d2 | d^c/d/ ef | gd BG | 
+ga/g/ fe | d^c/d/ fe | cB/c/ ed | B3 B/c/ :: 
+d>d bb | a2 g2 | gf/g/ ba/g/ | e2 dB |
+ c2 BA | e2 dB | d>c AF |1 G3 B/c/ :|2 G3 z |] 
+V:2
+"^2" G/A/ |:"G" B2 GA | B2 B2 |"D7" A2 Ac |"G" B2 GD |
+"C" B2 dc |"G" B2 dc |"Am" A2 "D7" cB | "G" G3  G/A/ ::
+"G" B2 dd | "D7" c2 "G" B2 | "G" B2 dc/B/ | "C" c2 "G"BG | 
+"D7" A2 GF |"G" c2 BG | "D7" B"^Stämförslag B.O."A FD |1"G" [B,D]3 G/A/ :|2 "G" [B,D]3 z |] 
+

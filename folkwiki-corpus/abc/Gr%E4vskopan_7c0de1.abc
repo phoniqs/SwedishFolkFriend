@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Grävskopan
+T:(Andrastämman)
+C:Ludgo-Pelle
+O:Södermanland
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Ludgo Pelle."
+L:1/16
+Q:1/4=91
+M:2/4
+K:D
+V:2
+"^2" D2 |:"D" A,2DF (EG)FE | (D2A,2) (DF)Ad | "A7" (c2A2) (EA)cA | "D" F2AF (FE)DC | 
+A,2DF (EG)FE | (D2A,2) (DF)Ad |"A7" (c2A2) (EA)cA |1 "D" F2F2 [FA]2 D2 :|2,8 "D" F2F2 [FA]2 F2 |:
+[K:A] "A" E2Ac A2EA | d2c2 (cB)A2 | "E7" G2BG BGD2 | "A" E2AE AEC2 | 
+E2Ac A2EA | d2c2 (cB)A2 | "E7" G2BG (GF)ED |1 "A" C2C2 [CE]2 C2 :|2,8 [K:D]"A" C2[CE]2 C2 |:
+[K:G] "G" d2dd (dc)BA | (cB)GD B,2GB | d2dc B2AB | "C" G2EEu E2uE2 | 
+"D7" A2AG (FE)DC | A,2DF A2FA | d2dc (AG)FD |"G" B,2DG (B,D)GB | 
+d2dd (dc)BA | (cB)GD B,2GB | d2dc B2AB | "C" c2EEu E2uE2 |
+"D7" A2Ac (AG)FE | A2AG (FE)DC | (A,D)FA c2Bc |1"G" B2B2 [GB]2 G2 :|2 "G" B2B2 [GB]2"^B.O." z2 |]
+

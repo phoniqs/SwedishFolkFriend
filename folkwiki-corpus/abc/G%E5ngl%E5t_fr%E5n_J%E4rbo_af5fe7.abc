@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Järbo
+O:Järbo, Sandviken, Gästrikland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:2/4
+K:D
+V:1
+|:"^1" "D" D2 FD/F/ | A2 (FA) | dA/d/ fd/f/ | a2 (fa) |"A7" (g/a/)g/f/ (ge) | 
+cd/c/ (BA) | "D" d2 (d/e/)d/B/ | AG FE | D2 FD/F/ | A2 (FA) | dA/d/ fd/f/ | 
+a2 (fa) |"A7" (g/a/)g/f/ (ge) | cd/c/ (Bc) |"D" d2u dud |"D" d4 ::
+v"D" f2 (f/e/)d/e/ | (fe) (df) | a2 (gf) |"Em" e4 |v "A7" c2 (c/d/)c/B/ | 
+(AB) (cA) |"D" d2 (fa) | "A7" a2 (a/g/)f/e/ | "D" f2 (f/e/)d/e/ | (fe) (df) | a2 (gf) |
+"Em" b2 (g/a/)g/e/ |"D" a2 (af) |"A7" ga/g/ (ec) |"D" d2 (d/e/)"A7" uf/ue/ | "D" d4 :| 
+V:2
+|:"^2" A,2 DA,/D/ | F2 (DF) | AF/A/ dA/d/ | f2 (df) | (e/f/)e/^d/ (ec) | 
+AB/A/ (GE) | F2 (F/G/)F/E/ | FE DA, | A,2 DA,/D/ | F2 (DF) | AF/A/ dA/d/ | 
+f2 (df) | (e/f/)e/^d/ (ec) | AB/A/ (GE) | F2 FF | [FA]4 :: 
+d2 (d/A/)F/A/ | (dA) (FA) | f2 (ed) | BG EB, | A2 (A/B/)A/G/ | 
+(EF) (GE) | F2 (Ad) | c2 (f/e/)d/A/ | d2 (d/A/)F/A/ | (dA) (FA) | f2 (ed) | 
+g2 (e/f/)e/c/ | f2 (fd) | "^Stämförslag B.O."cd/c/ (AG) | F2 uGuG | F4 :|
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:20
+T:Fyrtur
+T:(Sv Folkdanser Del 1)
+O:Hyllinge, Skåne
+R:Fyrtur
+S:Johannes Nord
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 20. Fyrtur eft. Johannes Nord, Hyllinge."
+Z:http://runeberg.org/folkdans/besk/0162.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 20
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel""D" (AF)Ac"G" (BG)Bd |"A7" (cd)ec"D" d4 |]: [K:D][M:2/4][K:treble]"^Dans" "D"(dc)ed f4 | 
+(fe)gf a4 | (^ga)ba (fd)fa |"A7" (ag)ec"D" d2A2 | (dc)ed f4 | 
+(fe)gf a4 | (^ga)ba (fd)fa |"A7" (ag)ec"D" d4 ::
+"D" (AF)Ac"G" (BG)Bd | "A7" (cd)ec"D" (de)fd |"D" (AF)Ac"G" (BG)Bd |"A7" (cd)ec"D" d2d2 |
+"D" (AF)Ac"G" (BG)Bd |"A7" (cd)ec "D"(de)fd |"D" (AF)Ac "G" (BG)Bd |"A7" (cd)ec "D" d4 :| 
+V:2
+"^2" (FD)FA (GD)GB | (AB)cA F4 |]:[K:D][M:2/4][K:treble] (FE)GF A4 | 
+(dc)ed f4 | (ef)gf (dA)df | (fe)cA F2D2 | (FE)GF A4 | 
+(dc)ed f4 | (ef)gf (dA)df | (fe)cA F4 :: 
+(FD)FA (GD)GB | (AB)cA (FA)dA | (FD)FA (GD)GB | (AB)cA F2F2 | 
+(FD)FA (GD)GB | (AB)cA (FA)dA | (FD)FA (GD)GB | "^Stämförslag B.O." (AB)cAF4 :|
+

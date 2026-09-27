@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska av Fredrik Wikström
+C:Fredrik Wikström
+O:By, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Diktad" till ett bröllop i kyrkbyn 1863.
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (3ded (B>D) G>B | "^Diktad till ett bröllop i kyrkbyn 1863" (3ded (B>D) G>B | e2 (c>A) F>A | (G>F) (G>A) B>c | 
+(3ded (B>D) G>B | (3ded (B>D) G>B | e2 (c>A) F>A | G2 G4 ::
+[K:C] E>G c2 E2 | G>c B2 D2 | G>B d2 G2 | c(B/c/) e2 c2 | 
+E>G c2 E2 | G>c B2 D2 | G>B d2 (e>d) | c2 c4 :| 
+V:2
+|:"^2""G" B2 (G>B,) D>G | B2 (G>B,) D>G |"D7" A2 (F>D) C>D |"G" (B,>A,) (B,>D) G>A | 
+B2 (G>B,) D>G | B2 (G>B,) D>G | "D7" A2 (F>D) C>D | "G" B,2 B,4 ::
+[K:C]"C" C>E E2 C2 |"G7" E>A G2 B,2 | D>G ^F2 D2 | "C" E>A G2 E2 | 
+C>E E2 C2 | "G7" E>A G2 B,2 | D>G ^F2 (G>F) |"C" "^Stämförslag B.O." E2 E4 :|
+

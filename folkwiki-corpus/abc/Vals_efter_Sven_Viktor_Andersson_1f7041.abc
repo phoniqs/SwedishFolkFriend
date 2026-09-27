@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:311
+T:Vals efter Sven Viktor Andersson
+T:(OA 311)
+B:Sörmländska låtar samlade av Olof Andersson nr 311
+R:Vals
+S:Efter Sven Viktor Andersson
+O:Täbylund, Åker, Södermanland
+Z:Anders Larsson 2025-06-19
+H:Från uppteckningen: "En person vid namn Larsson hade sjungit låten för Andersson. Larsson spelade ej."
+M:3/4
+L:1/4
+Q:140
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+V:1
+(f/>e/ |: d) F3/2 G/ | A2 f/>e/ | d G3/2 A/ |  B3 |
+(g/a/) (g/f/) e/d/ | (d/c/) c/d/ c/B/ | B/A/ A/B/ A/G/ |  G/F/ F [FA] | D/>E/ F G | A2 f/e/ |
+d G3/2 A/ |  B3 | (g/f/) (g/a/) (b/a/) | (g/f/) (e/d/) c | (c/B/) A/g/ f/e/ |1  d2 :|2 d2 z |:
+(A/F/) (A/d/) (f/d/) | (A/F/) (A/d/) (f/d/) |  (g/b/) (g/e/) (c/e/) | (d/A/) (d/e/) f |
+(A/F/) (A/d/) (f/d/) | (A/F/) (A/d/) (f/d/) |  (g/b/) (g/e/) (c/e/) |1 d2 z :|2 d2 |]
+

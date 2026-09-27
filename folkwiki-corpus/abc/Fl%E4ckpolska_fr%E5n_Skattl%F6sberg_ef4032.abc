@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Fläckpolska från Skattlösberg
+O:Skattlösberg, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Från kasett 1986-09-28."
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" A>F D2 B2 | A>F D2 d2 | c>B (A>B) c2 | B>A (G>A) B2 | 
+A>F D2 B2 | A>F D2 d2 | (c>e) (g>e) c>e | (e>d) d4 :: 
+(A>B) (c>d) e>f | g2 B2 B2 | B>A c2 c2 | B>A d2 d2 | 
+(A>B) (c>d) e>f | g2 B2 B2 | (B>A) c2 B>A | d2 d4 :| 
+V:2
+|:"^2" F>D A,2 G2 | F>D A,2 B2 | A>G E>G A2 | G>F E>F G2 | 
+F>D A,2 G2 | F>D A,2 F2 | (A>c) (e>c) A>G | G>F F4 :: 
+(C>E) (A>B) c>d | e2 G2 G2 | G>E A2 A2 | G>E F2 F2 | 
+(C>E) (A>B) c>d | e2 G2 G2 | (G>E) A2"^Stämförslag B.O." G>E | F2 F4 :|
+

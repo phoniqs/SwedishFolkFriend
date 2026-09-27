@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Erik Kleofas Hedbom
+S:Erik Kleofas Hedbom
+O:Dormsjö, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna  (53) eft. Erik Kleofas Hedbom (1842-1916) Garpenberg"
+L:1/8
+M:3/4
+K:D
+V:1
+"^1"u A |:v d2 (F>A) d>g | f2 (af) d>f | g2 (b>g) e>d | c2 (cB) A>A | 
+d2 (F>A) d>g | f2 (af) d>f | g2 (b>g) e>d |1 cB/c/ d3u A :|2 cB/c/ d3v (A |: 
+d>)(f a>)(b a>)g | fe/f/ d2 A>A | c>(e g>)(a g>)f | (f>e) (e/f/)e/c/ A>A | 
+d>(f a>)(b a>)g | fe/f/ d2 A>A | c>(e g>)(a g>)e |1 cB/c/ d3v A :|2 cB/c/ d3 z |] 
+V:2
+"^2"u D |:v F2 (D>F) A>c | d2 (fd) A>d | e2 (g>e) c>B | A2 (AE) C>D | 
+F2 (D>F) A>c | d2 (fd) A>d | e2 (g>e) c>A |1 (GE) [FA]3u D :|2 (GE) [FA]3v D |: 
+A>(d f>)(g f>)e | dc/d/ A2 F>D | E>A c>(d c>)d | d>c (c/d/)c/A/ E>D | 
+A>d f>(g f>)e | dc/d/ A2 F>D | E>A c>(d c>)A |1 GE [FA]3v D :|2 "^B.O." GE [FA]3 z |] 
+

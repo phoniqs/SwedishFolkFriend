@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:19
+T:Fyrmannadans
+T:(Sv Folkdanser Del 1)
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 19
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 T:19. Fyrmannadans"
+Z:http://runeberg.org/folkdans/besk/0160.html
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^Förspel" "G" B2 (G>B) e>B | "D7"d2 c>A F2 | D2 (F>A) d>F | "G" G2 G3 e |] 
+[K:G]|: "^Dans" "G" (d>B) (G>g) f>e |"D7" (d>c) F2 F>e | (d>c) F2 F>e | (d>B) G2 G>e | 
+"G" (d>B) (G>g) f>e |"D7" (d>c) F2 F>e | (e>d) (f>e) c>A |1"G" G2 G3 e :|2 "G" G2 G3 z |: 
+"G" B2 (G>B) e>B |"D7" d2 c>A F2 | D2 (F>A) d>F |"G" G2 B>d g2 | 
+B2 (G>B) e>B | "D7" d2 c>A F2 | D2 (F>A) d>F |"G" G2 G3 z :| 
+V:2
+"^2" G2 (D>G) B>G | B2 A>F D2 | A,2 (D>F) A>D | B,2 B,3 c |] 
+[K:G]|: (B>G) (D>B) A>G | (F>D) C2 C>G | (F>D) C2 C>A | (G>D) B,2 B,>c | 
+ (B>G) D>B A>G | (F>D) C2 C>G | (G>F) (A>F) D>C |1 B,2 B,3 c :|2 B,2 B,3 z |: 
+ G2 (D>G) B>G | B2"^Spelas önskat ant. ggr." A>F D2 | A,2 (D>F) A>D | B,2 D>G B2 | 
+G2 (D>G) B>G | B2 A>F D2 |  A,2 (D>F) A>D | "^Stämförslag B.O." B,2 B,3 z :|
+

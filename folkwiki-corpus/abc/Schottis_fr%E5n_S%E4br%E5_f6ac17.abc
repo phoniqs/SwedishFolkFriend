@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Säbrå
+T:efter Hjalmar Eriksson
+R:Schottis
+S:Hjalmar Eriksson
+S:Sven Brundin
+O:Kragom, Säbrå, Ångermanland
+Z:Karin Helander
+N:Från https://spelmansforbundet.com/wp-content/uploads/2021/02/Schottis_fran_sabra.pdf
+N:Upptecknad efter Hjalmar Eriksson, Kragom, Säbrå
+N:Uppteckning och arrangemang Gustaf Landin, Härnösand
+N:Efter Sven "Svente" Brunding, Kragom, Säbro
+M:2/4
+L:1/16
+K:D
+V:1
+A2 |: "^uppt. och arr. Gustaf Landin Härnösand" d2d2 d>FA>d | f2(fg) f2A2 | g>ag>f "^efter Sven Svente Brundin, Kragom, Säbrå" e2A2 | f>gf>e d2A2 |
+d2d2 d>FA>d | f2(fg) f2A2 | g>ag>f eABc |1 d2f2d2A2 :|2 d2f2d2 z2 |:
+b2gd B2b2 | a2fd A2a2| g2ec a2ge| (d2f2) a4 |
+ b2gd B2b2 | a2fd A2a2| g2ec a2ge| d2f2d2 z2 :|
+V:2
+F2 |: F2F2 F>DF>F| d2(de) d2F2 | e>fe>d c2F2| d>ed>c F2F2 | 
+F2F2 F>DF>F| d2(de) d2F2 | e>fe>d cEGA | F2A2F2F2 :| F2A2F2 z2 |:
+g2dB G2g2| f2dA F2f2 | e2cA c2ec | (A2d2) f4 |
+g2dB G2g2| f2dA F2f2 | e2cA c2ec |  F2A2"_78 08 18 Gld."F2 z2 :|
+

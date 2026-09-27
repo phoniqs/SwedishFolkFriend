@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt efter Gränges Kalle
+R:Gånglåt
+O:Nås, Dalarna
+S:Gränges Kalle
+B:Spelmansmusik
+M:2/4
+L:1/16
+K:A
+E2|"A"A2AB c2cd|e2a2 efe(d|c2)a2 e2ed|cdcA "E"BcBG|"A"(3(A2c2A2) E4|
+A2AB c2cd|e2a2 efe(d|c2)a2 eaed|cecA "E"BdBG|"A"A6:|
+|:(3(Ace)|"A"a3b a2ga|"D"fafd B3a|"E"{ab}aggb e3a|"D"fafd "E"BABd|"A"dcce A3c|"E"BcdB "A"A2A2|A2ce a4-|
+"A"a3b a2ga|"D"fafd B3a|"E"{ab}aggb e3a|"D"fafd BABd|"A"dcce A3c|cedB "E"(5(GAG)(FG)|"A"A6:|
+

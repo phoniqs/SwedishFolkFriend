@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska efter Johan F Hedström
+S:Johan F Hedström
+O:Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(41) Hambo-polska från Södra Dalarna efter Johan F. Hedström, Lågfors, Hedemora"
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (d |: g2) (d>B) G>B | (3(efe) d2 B>d | (c>B) (c>A) F>A | G2 (G>A) B>d | 
+g2 (d>B) G>B | (3(efe) d2 B>d | (c>B) (c>A) F>A |1 (AG) G3 d :|2 (AG) G3 d |: 
+g>(a g>B) d>g | f>e e2 c2 | f>e (d>F) A>c | e>d (d>G) B>d | 
+g>a (g>B) d>g | f>e e2 c2 | f>e (d>F) A>c |1 cB G3 d :|2 cB G3 z |] 
+V:2
+"^2" B |: d2 (B>G) D>G | (3cdc B2 G>B | A>^G (A>F) D>C | B,2 B,>D G>B | 
+d2 B>G D>G | (3cdc B2 G>B | A>^G (A>F) D>C |1 CB, B,3 B :|2 CB, B,3 G |: 
+B>(c B>G) B>d | d>c c2 A2 | A>G (F>D) F>A | c>B (B>D) G>B | 
+B>c (B>G) B>d | d>c c2 A2 | A>G (F>D) F>A |1 FD B,3 G :|2 FD B,3"^B.O." z |]
+

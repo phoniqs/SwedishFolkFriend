@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals från Södra Dalarna
+T:efter Hampus August
+R:Vals
+O:Husby, Dalarna
+S:Hampus August Andersson
+Z:[[Personer/Bengt Ohlson]]
+Z:"(3) Vals från Södra Dalarna efter Hampus August Andersson, Husby."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (Bc) |: d2 (Bd) Bd | b4 (ab/a/) | g2 (Bd) Bd | e4 (de/d/) | 
+c2 (Ac) Ac | f4 (ef/e/) | d2 (AB) cd | c2 (BA) Bc | d2 (Bd) Bd | 
+b4 (ab/a/) | g2 (Bd) Bd | e4 (de/d/) | c2 (Ac) Ac | f4 (ef/e/) | 
+d2 (^cd) ef |1 g4 (Bc) :|2 g4 B2 |: (de/d/) B2 Bd | 
+(db) (bg) ge | (de/d/) B2 Bd | (db) (bg) dB | (cd/c/) A2 Ac | 
+(ca) (ag) gf | (fe) (ed) ef |1 (gf) (ge) dB :|2 g4 z2 |] 
+V:2
+"^2" (GA) |: "G" B2 (GB) GB | d4 (cd/c/) | B2 (GB) GB | c4 (Bc/B/) |
+"D7" A2 (FA) FA | A4 (GA/G/) | F2 (FG) AB |"G" A2 (GF) GA | 
+B2 (GB) GB | d4 (cd/c/) | B2 (GB) GB | c4 (Bc/B/) | "D7" A2 (FA) FA | 
+A4 (GA/G/) | F2 (EF) GA |1"G" B4 (GA) :|2"G" B4 G2 |:"G" (Bc/B/) G2 GB | 
+(Bd) (dB) BG | (Bc/B/) G2 GB | (Bd) (dB) GD | "D7" (AB/A/) F2 FA | 
+(Ac) (cB) BA | (AG) (GF) GA |1 "G" (BA) (BG) BG :|2 "G" B4"^B.O." z2 |]
+

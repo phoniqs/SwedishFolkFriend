@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Trolleboschottis
+R:Schottis
+O:Esbo, Finland
+C:Gösta Sundqvist
+S:[[Platser/Finland]]
+M:2/4
+L:1/16
+K:D
+|: "_D" A>fe>d c>de>f |"_Em" g2B2 B3d |"_A7" cA^GA f3e |"_D" d4 A4 |
+ "_D" A>fe>d c>de>f |"_Em" g2B2 B3d |"_A7" cA^GA f3e |"_D" d4 "_Fine" z4 :|
+"_D" ffff fedB | A2A2 AFAd |"_A7" c2c2 cAce |"_D" f2f2 d4 |
+"_D" ffff fedB | A2A2 AFAd |"_A7" c2c2 cAce |1 "_D" f2f2 f2 z2 :|2 "_D" f2f2 f2Bf |] [K:G]
+"_G" b2b2 b3a | g6 Bd | g2g2 g3f | "_C" e6 Ac | "_D7" f2Ac e2Ac | f2f2 f2Ac |
+"_D7" f2Ac e2Ac | d2d2 d2Bd | b2b2 b3a | g6 Bd | g2g2 g3f | "_C" e6 Ac |
+"_D7" f2Ac e2Ac | f2f2 f3e | d2Ac B2A2 |1 "_G" G6 Bd :|2 "_G"  G6 "_D.C. al Fine"z2 |]
+

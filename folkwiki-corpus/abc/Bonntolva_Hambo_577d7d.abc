@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Bonntolva Hambo
+L:1/8
+Q:1/4=150
+M:3/4
+K:F
+R:Hambo
+V:1
+"^Swing" A2 B2 |:"F" cd cB AB | c2 f3 A | cd cB AB |"C" (3cdc B2 B2 | Bc BA GA | Bf e3 d |1 
+cd cd cB |"F" AG Ad cc :|2 (3ded cc de |"F" f2 f4 |:"Bb" bf df bd | bf df b2 |"F" af cf ac | 
+af cf a2 |"C" ga gf ed | c2 c3 d |1"C7" cd cB AG |"F" AG Ad c2 :|2"C7" cd cc de |"F" .f2 f4 |] 
+V:2
+z4 |: F,2 [F,C]2 [F,C]2 | F,2 [F,C]2 [F,C]2 | F,2 [F,C]2 [F,C]2 | C,2 [C,G,]2 [C,G,]2 | 
+C,2 [C,G,]2 [C,G,]2 | C,2 [C,G,]2 [C,G,]2 |1 C,2 [C,G,]2 [C,G,]2 | F,2 [F,C]2 [F,C]2 :|2 
+C,2 [C,G,]2 [C,G,]2 | F,2 [F,C]2 [F,C]2 |: B,2 [DF]2 [DF]2 | B,2 [DF]2 [DF]2 | A,2 [CF]2 [CF]2 | 
+A,2 [CF]2 [CF]2 | G,2 [B,CE]2 [B,CE]2 | G,2 [B,CE]2 [B,CE]2 |1 G,2 [B,CE]2 [B,CE]2 | 
+A,2 [CF]2 [CF]2 :|2 G,2 [B,CE]2 [B,CE]2 | .[A,CF]2 [A,CF]4 |]
+

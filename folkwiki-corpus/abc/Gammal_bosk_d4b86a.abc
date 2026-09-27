@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:24
+T:Gammal bosk
+T:(Sv Folkdanser Del 1)
+S:Olof Thor
+O:Hede, Härjedalen
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 T:24. Gammal - bosk eft. Olofs Thols, Hede." (Stavningsvariationer: Olov? Thols? Tools?)
+Z:http://runeberg.org/folkdans/besk/0045.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 24
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1" E>E (3^GEG A2 | (3BAB (3cAc B>d | c>(B A>)(B c>)e | (3dBd (3cAc B>^G | 
+E>E (3^GEG A2 | (3BAB (3cAc B>d | c>B A>B c>e | (3d^cd e3 z :: 
+e>a e>d e>c | B>d (3cAc (3BA^G | e>a e>d e>c | B>d (3cAc (3BA^G | 
+E>E (3^GEG A2 | (3BAB (3cAc B>d | c>B A>B (3cAc | (3BA^G A3 z :| 
+V:2
+|:"^2" B,>B, D2 C2 | (3^G^FG (3AFA G>B | A>(E C>)(E A>)c | (3B^GB (3A^FA G>E | 
+B,>B, (3EB,E C2 | (3^G^FG (3AFA G>B | A>E C>E A>c | (3B^AB ^G3 z :: 
+c>e c>B c>A | ^G>B (3AEA (3GED | B,>C D>E ^G>E | D>F (3ECE (3DCB, | 
+B,>B, (3EB,E C2 | (3^G^FG (3AFA G>B |"^Stämförslag B.O." A>E C>E (3AEA | (3^GED C3 z :|
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:9
+T:Barrsätra vals
+O:Sandviken, Gästrikland
+R:Vals
+C:Edvin Holmberg
+Z:[[Personer/Bengt Ohlson]]
+B:Låtar för fiol av Edvin Holmberg
+Z:"Det är i dag lördagskväll, man blir så underligt säll, och bonden släpper sin brunte på bet. Nu skägget har rakats bort, en lördagskväll är så kort, man glömmer gårdagens sorg och förtret. Min lilla tös mot mej ler, när jag uppå henne ser, för oss det finns inga sorger då alls. Och när man tagit en tår, att då stå stilla ej går, när som det spelas upp Barrsätra vals."
+L:1/8
+M:3/4
+K:C
+V:1
+"^1" Gce |: a2 g2 e2 | c3 Gce | g2 f2 d2 | B3 GBd | g2 f2 d2 | B2 e3 d |1 
+c6- | c2 z Gce :|2 c6- | c2 z ccB |: A2 d3 A | d3 cBA | G2 c3 G | c3 cBA | 
+G2 B3 A |1 G2 a2 g2 | e6- | e2 z ccB :|2 G2 e2 d2 | c6- | c2 z cde |:
+[K:F] (fg) (ag) fe | (de) (fe) dc | (Bc) (BA) G^F | G3 FED | (CD) (EF) GA | 
+(Bc) (de) ag | (fg) (fe) fd | c3 cde | (fg) (ag) fe | (de) (fe) dc | (Bc) (BA) G^F | 
+G3 FED | (CD) (EF) GA | (Bc) (de) ag | f3 f f2 |1 f3 cde :|2 f3 z z2 |] 
+V:2
+"^2" EGc |:"C" f2 e2 c2 | G3 EGc |"G7" e2 d2 B2 | F3 DFA | B2 A2 G2 | F2 G2 F2 |1"C" E6- | 
+E2 z EGc :|2"C" E6- | E2 z AAG |:"F" F2 A2 F2 | F3 AGF |"C" E2 G2 E2 | E3 GFE | 
+"G7" D2 F2 F2 |1"G7" D2 B2 B2 |"C" G6- |"C" G2 z AAG :|2"G7" D2 G2 F2 |"C" E6- | 
+"C" E2 z FFG |:[K:F]"F" (AB) (cB) AG |"Dm" (FG) (AG) FA |"Gm" (GA) (GD) DC | B,3 DCB, | 
+"C7" (G,B,) (CD) EF | (GA) (Bc) cB |"F" (AB) (AG) AG | F3 EFG | (AB) (cB) AG |"Dm" (FG) (AG) FA | 
+"Gm" (GA) (GD) DC | B,3 DCB, |"C7" (G,B,) (CD) EF |  "^Stämförslag B.O." (GA) (Bc) cB |"F" A3 A A2 |1"F" A3 EFG :|2 "F" A3 z z2 |]
+

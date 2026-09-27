@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Idreschottis nr. 5
+S:Jont Einar Ersson
+O:Idre, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Jont Einar Ersson, 1998."
+Z:"Tillägnad Jont Erik, min far."
+L:1/16
+M:2/4
+I:linebreak $
+K:G
+V:1
+|:"^1" B2dB G2G2 | (cB)"^Tillägnad Jont Erik, min far."cd e2c2 | f2af d2d2 | (gf)ga b2g2 | 
+B2dB G2G2 | (cB)cd e2c2 | f2af (df)af | g2g2 g4 ::
+[K:Bb] g2gd B2B2 | c2cB A4 | D2D^F A2A2 | (G^F)GB d4 | 
+g2gd B2B2 | c2cB A4 | D2D^F (Ac)AF | G2G2 G4 :| 
+V:2
+|:"^2" "G" G2BG D2D2 | "Am" E2EF G2E2 | "D7" A2cA F2F2 | "G" B2Bc d2B2 | 
+G2BG D2D2 | "Am" E2EF G2E2 |"D7" A2cA F2cA | "G" B2B2 B4 ::
+[K:Bb]"Gm" d2dB G2G2 |"D7" A2AG ^F4 | A,2A,D ^F2F2 | "Gm" D2DG B4 | 
+d2dB G2G2 | "D7" A2AG ^F4 | "^Stämförslag B.O."  A,2A,D ^F2DC | "Gm" B,2B,2 B,4 :|
+

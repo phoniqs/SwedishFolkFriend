@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Södertörn
+R:Brudmarsch
+O:Södertörn, Södermanland
+N:Spelad av spelmannen Hugo Sandberg från Södertörn; inspelad på fonografrulle av Yngve Laurell kring år 1919-1920. Inspelningen är utgiven på cd skiva "Äldre svenska spelmän", Caprice Records 1999, CAP 21604.
+Z:Anna Svensk
+M:2/4
+L:1/16
+Q:115
+K:D
+|: D2FA d2f2 | b2a2 e2f2 | a2g2 B2c2 | {c}e2d2 A4 |
+D2FA d2f2 | b2a2 e2f2 | a2g2 B2c2 | c2d2 d4 |
+K:A
+| e2f2 e2c2 | Acea c'4 | {c'}b2d'2 f2g2 |a2c'2 e4 |
+e2f2 e2c2 | Acea c'4 | {c'}b2d'2 f2g2 |g2a2 [c4a4] :|
+

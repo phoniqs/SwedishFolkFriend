@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Anundsjö
+S:Sven E Svensson
+R:Schottis
+O:Anundsjö, Ångermanland
+Z:Karin Helander
+N:Från uppteckning av Roland Sundelin: https://spelmansforbundet.com/wp-content/uploads/2021/02/sch_anundsjo.pdf
+N:Spelad av Sven E Svensson
+M:3/4
+L:1/8
+K:G
+|: "uppt. Roland Sundelin" G>A B>c d2 g>B | d2 d>c B2 G2 | d2 d>c A2 F2 | "^spelad av Sven E Svensson" d2 d>c B2 G2 |
+G>A B>c d2 g>B | d2 d>c B2 G2 | d>^c d>e d>=c A>F | G2 G2 G4 :| [K:D]
+|: F>G A>B A2 F>A | d>c d>e f2 d2 | a>^g a>b a>=g e>c | d>c d>e f2 d2 |
+   F>G A>B A2 F>A | d>c d>e f2 d2 | a>^g a>b a>=g e>c | d2 d2 d4 :|
+

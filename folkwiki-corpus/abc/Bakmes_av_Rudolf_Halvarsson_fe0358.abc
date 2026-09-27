@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Bakmes av Rudolf Halvarsson
+C:Rudolf Halvarsson
+O:Fränsta, Medelpad
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" D2 G2 B2 | d^c/d/ ed B"^Polska"G | FF/F/ Fe dF | GG/G/ Ge dB | 
+D2 G2 B2 | d^c/d/ ed BG | FF/F/ Fe dF | AG G4 :|
+|: gf/g/ ag ec | d^c/d/ ed BG | FF/F/ Fe dF | GG/G/ Ge dB |
+ gf/g/ ag ec | d^c/d/ ed BG | FF/F/ Fe dF | AG G4 :| 
+V:2
+|:"^2" B,2 D2 G2 | BA/B/ cB GD | CC/C/ CG FC | DD/D/ Dc BG | B,2 D2 G2 | BA/B/ cB GD | 
+CC/C/ CG FD | CB, B,4 :: e^d/e/ fe cG | BA/B/ cB GD | CC/C/ CG FC | DD/D/ Dc BG | e^d/e/ fe cG | 
+BA/B/ cB GD | CC/C/ CG FD | "^B.O." CB, B,4 :| 
+

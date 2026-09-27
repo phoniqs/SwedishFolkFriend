@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Upp genom Ödmården
+T:Polska
+S:Anders Woxberg
+O:Gästrikland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+Q:1/4=80
+M:3/4
+K:G
+V:1
+"^1"u D2 |:v G2FG (D2C2) B,2>C2 | (3(B,CB,) G,B, D2B,D G2(AB) | c2Bc (A2G2) F4 |u (F2A2) (GF)GE D2EF | 
+G2FG (D2C2) B,2>C2 | (3(B,CB,) G,B, D2B,D G2(AB) | c2Bc (e2d2) D2>G2 | (FG)AF G6u D2 ::
+v G2Bd g4 f4 |u (f2e2) (ef)ge c2AB | c2Bc (e2d2) c2>B2 | A2G2 (FG)AF D2B,D | 
+G2Bd g4 f4 |u (f2e2) (ef)ge c2AB | c2Bc (e2d2) D2>G2 |1 (FG)AF G6u D2 :|2 (FG)AF G6 z2 |] 
+V:2
+"^2" G,2 |:"G" B,2A,B, (B,2A,2) G,2>A,2 | (G,2B,2) B,2G,B, D2(FG) | "D7" A2^GA (F2E2) D4 | "D7" (D2F2) (ED)EC"G" B,2G,A, |
+"G" B,2A,B, (B,2A,2) G,2>A,2 | (G,2B,2) B,2G,B, D2(FG) | "D7" A2^GA (c2B2) A2>E2 |"D7" (D2C2)"G" B,6 G,2 ::
+"G" B,2DG B4 d4 |"Am" (d2c2) (cd)ec A2FG | "D7" A2^GA (c2B2) A2>=G2 | F2E2 (DE)FD A,2G,A, |
+"G" B,2DG B4 d4 |"Am" (d2c2) (cd)ec A2FG | "D7" A2^GA (c2B2) A2>E2 |1"D7" (D2C2)"G" B,6 G,2 :|2"D7" (D2C2)"G""^Arr. B.O." B,6 z2 |]
+

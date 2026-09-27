@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:133
+T:Polska efter Gås-Anders
+T:(SvL Uppland nr 133)
+S:Gås-Anders
+B:Svenska Låtar Uppland Nr 133
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sista polskan"
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1"v G>(B d>)(d B>)B | d>d B2 d2 | c>(c e>)(e c>)c | e>e c2 e2 | 
+(e>d) (g>e) c>e | e>d G2 B2 | BA/B/ (c>A) F>A | (A>G) G3 z ::
+v g2 f2 d>f | af/a/ g2 B>d | c>(B A>B) c>d | (e>d) d4 | 
+g2 f2 d>f | af/a/ g2 B2 | (3dBd (3cAc (3BGB | (3AFA G3 z :| 
+V:2
+|:"^2"v"G" B,>(G B>)(B G>)G | B>B G2 B2 |"C" E>(G c>)(c G>)G | c>c G2 c2 | 
+"G" (c>B) (d>c)"C" G>c |"G" c>B D2 G2 | "D7" GF/G/ (A>F) D>C |"D7" (C>B,) "G" B,3 z ::
+"D7" v e2 d2 A>d |"G" cA/c/ B2 G>B |"D7" A>(G F>G) A>B |"G" (c>B) B4 |
+"D7" B2 c2 A>c |"G" cA/"^Stämförslag B.O."c/ B2 G2 | "D7" (3BGB (3AFA (3GDG |"D7" (3FDC"G" B,3 z :|
+

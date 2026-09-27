@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Längtan till Hälsingland
+T:Polska
+C:Susan Reistad
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+Q:1/4=96
+M:3/4
+K:Cm
+V:1
+|:"^1" (ga)g^f (g2>e2) d2c2 | (GA)G^F (G2>E2) C2E2 | (G,=B,)(DB,) (GB,)(DB,) (G,B,)(DB,) | (C=B,)CD (ED)EF G2g2 | 
+(ga)g^f (g2>e2) d2c2 | (GA)G^F (G2>E2) C2E2 | (G,=B,)(DB,) (GB,)(DB,) (G,B,)(DB,) | C4 C8 ::
+ (Bc)B=A (B2>g2) e2c2 | (Bc)B=A (B2<G2) E2G2 | (B,D)(FD) (AD)(FD) (B,D)(FD) | (ED)EF G2E2 B,4 |
+(Bc)B=A (B2>g2) e2c2 | (Bc)B=A (B2<G2) E2G2 | (B,D)(FD) (AD)(FD) (B,D)(FD) | E4 E8 ::
+(A,E)(cE) (A,E)(cE) (A,E)(cE) | (G,E)(BE) (G,E)(BE) (G,E)(BE) | (G,D)(=BD) (G,D)(BD) (G,D)(BD) | (G,E)(cE) (G,E)(cE) (G,E)(cE) | 
+(A,E)(cE) (A,E)(cE) (A,E)(cE) | (G,E)(BE) (G,E)(BE) (G,E)(BE) | (G,D)(=BD) (G,D)(BD) (G,D)(BD) | c4 c8 :| 
+V:2
+|:"^2" "Cm"(cd)c=B (c2>A2) G2E2 | (cd)c=B (c2>A2) G2c2 |"G7" =B2>A2 G2F2 D2F2 | "Cm" E2>F2 G2c2 "G7" =B2d2 |
+"Cm" (cd)c=B (c2>A2) G2E2 | (cd)c=B (c2>A2) G2c2 |"G7" =B2>A2 G2F2 D2F2 | "Cm" E4 [G,E]8 :: 
+"Eb"(GA)G=F (G2>c2) B2A2 | (GA)G=F (G2<E2) B,2E2 |"Bb7" F2>F2 D2C2 B,2A,2 | "Eb" (G,2>B,2) E2B,2 [G,G]4 |
+ (GA)G=F (G2>c2) B2A2 | (GA)G=F (G2<E2) B,2E2 | "Bb7" F2>F2 D2C2 B,2A,2 |"Eb" G,4 G,8 ::
+"Ab" C4 (E2A2) c2e2 |"Eb" B4 (G2E2) G2B2 | "G7" =B2>A2 G2F2 D2F2 |"Cm" E4 (EF)ED C2A2 |
+"Ab" c4 (A2E2) A2c2 |"Eb" B4 (G2E2) G2B2 | "G7" =B2>A2 G2F2 D2F2 |"Cm""^Arr. B.O." E4 [G,E]8 :| 
+

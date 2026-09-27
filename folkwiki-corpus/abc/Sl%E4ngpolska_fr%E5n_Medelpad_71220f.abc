@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Slängpolska från Medelpad
+O:Medelpad
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1""^Slängpolska" d>(c B>G) B>d | (dc) (c<e) A2 | a>(g f>d) f>a | ag (g<b) d2- | 
+d>c B>G B>d | dc (c<e) A>a | a>g f>d e>f | g2 g2 z2 ::
+ b>a g>B d>g | gf (f<a) a2- | a>g f>d f>a | ag (g<b) b2- | 
+b>a g>B d>g | gf (f<a) a2- | a>g f>d e>f | g2 g2 z2 :| 
+V:2
+|:"^2" B>A G>D G>B | BA (A<c) F2 | f>(e d>A) d>c | cB (B<d) B2- | 
+B>A G>D G>B | BA (A<c) F>f | f>e d>A c>d | B2 B2 z2 :: 
+g>d B>G B>e | ed (d<f) f2- | f>e d>A d>c | cB (B<g) g2- | g>d B>G B>e | 
+ed (d<f) f2- | f>e d>A"^Stämförslag B.O." c>d | B2 B2 z2 :|
+

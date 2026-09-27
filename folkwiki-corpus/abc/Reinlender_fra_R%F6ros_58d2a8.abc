@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Reinlender fra Röros
+O:Röros, Norge
+R:Reinländer
+Z:[[Personer/Bengt Ohlson]]
+Z:"Rheinleder fra Röros 2"
+L:1/16
+M:2/4
+K:G
+V:1
+|:"^1" G2{Bc}B2 D2{Bc}B2 | A>GFA G2{GA}G2 | F>GAB c>AFA | G>ABc dcBA | 
+G2{Bc}B2 D2{Bc}B2 | A>GFA G2{GA}G2 | F>GAB cdef | g>agf{f} g4 :: 
+g>bag{g} f2{fg}f2 | e>gfe{e} d2d2 | B>dBG A>GFA | G2B2{B} d4 |
+g>bag{g} f2{fg}f2 | e>gfe{e} d2d2 | B>dBG A>GFA | G2{A}GF{F} G4 :| 
+V:2
+|:"^2""G" D2G2 B,2G2 |"D7" F>EDC"G" B,2B,2 |"D7" A,>CDF A>FDC |"G" B,>DGA BAGD | 
+D2G2 B,2G2 | "D7" F>EDC"G" B,2B,2 |"D7" A,>CDF ABcd |"G" B2B2 B4 ::
+"G" B>dcB"D7" c2c2 | "C" c>edc"G" B2B2 | "G" G>BGD "D7" F>EDC | "G" B,2D2 G4 | 
+"G" B>dcB "D7" c2c2 |"C" c>edc"G" B2B2 | "G" G>BGD "D7" F>EDC | "G" B,2"^Stämförslag B.O."B,2 B,4 :|
+

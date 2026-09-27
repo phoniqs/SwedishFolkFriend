@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:515
+T:Vals efter Axel Axelsson
+T:efter fadern
+T:(OA 515)
+B:Sörmländska låtar samlade av Olof Andersson nr 515
+R:Vals
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:Valsen uppges ha kommit från Bogsta.
+Z:Anders Larsson 2025-02-28
+M:3/4
+L:1/4
+Q:140
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+D G A | B3/2 c/ B | B c B | d3/2 e/ d |  d e f | g3/2 a/ g | g3/2 a/ g | f2 A- |  A d3/2 c/ | B2 D |
+D G A | B3/2 c/ B |  B c B | d3/2 e/ d | d e f | g3/2 a/ g |  g3/2 a/ g | f2 A- | A B3/2 A/ | G2 z ::
+G g g | f A/c/ A/c/ | A e e | d G/B/ G/B/ |  D B B | c F/A/ F/A/ | A e e | d G/B/ G/B/ |
+G g g | f A/c/ A/c/ | A e e | d G/B/ G/B/ |  D B B | c c/A/ F/A/ | A3/2 G/ B/A/ | G2 z :|
+

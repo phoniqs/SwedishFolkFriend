@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:59
+T:Polska efter Jons-Axel Nr 59
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polska
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 59. Polska"
+L:1/8
+Q:1/4=112
+M:3/4
+K:C
+V:1
+|:"^1""C"v (3(gag) e2u c2 |"F" (3(cdc) A2u F2 |"G7" (A>G) G2 B>d | "C" d>c (c>e) g2 | 
+(3(gag) e2u c2 |"F" (3(cdc) A2u F2 |"G7" (A>G) G2 B>d | "C" (d>c) c2 z2 ::
+"F" f2 (f>a) f>a |"C" e2 (e>g) e>g |"G7" (d>e) (f>d) B>d | "C" c>c (e>g) c'2 |
+"F" f2 (f>a) f>a |"C" e2 (e>g) e>g |"G7" (d>e) (f>d) B>d | "C" (d>c) c2 z2 :| 
+V:2
+|:"^2" c4 G2 | F4 C2 | F2 D2 G>F | F>E (E>G) c2 | 
+c4 G2 | F4 C2 | F2 D2 G>F | (F>E) E2 z2 :: 
+A4 A2 | G4 G2 | (B>c) (d>B) G>F | E>E (G>c) e2 | 
+A4 A2 | "^Stämförslag B.O." G4 G2 | (B>c) (d>B) G>F | (F>E) E2 z2 :|
+

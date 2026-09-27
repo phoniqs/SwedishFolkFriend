@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Näktergal
+T:(Variant av "Vårvindar friska")
+S:Kers Erik Ersson
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"6. Polska från Södra Dalarna eft. Kers-Erik Ersson Näktergal, Säter."
+Z:DVD efter [[Personer/Ragnar Eriksson]]: "Ragges dans: Polska från Södra Dalarna"
+L:1/8
+M:3/4
+U:t=tenuto
+K:Dm
+V:1
+"^1" A- |: (3A2 (d2 e2) ^c> e | (3e2 (f2 g2) e>g | (ga) a>(g{ag} a>)f | (ef) (tdte) ^cA- | 
+(3A2 (d2 e2) ^c>e | (3e2 f2 g2 e>g | ga a>(g{ag} a>)f |1 e<f d3 A- :|2 e<f d3 g |: 
+a2"^Tr."({b} ag/a/){a} c'>g | (3a2 g2 a2 e>e | f2"^Tr."{g} fe/f/{f} g>e |{fe} (3f2 d2 e2 A2- | 
+(3A2 d2 e2 ^c>e | (3e2 f2 g2 e>g | ga a>(g{ag} a>)f |1 e<f d3 g :|2 e<f d3 z |] 
+V:2
+"^2" E- |: (3E2 F2 G2 E>^c | (3^c2 d2 e2 c>e | ef f>(e f>)d | ^cd (t=Btc) AE- | 
+(3E2 (F2 G2) E>^c | (3^c2 d2 e2 c>e | ef f>(e f>)d |1 ^c<d [FA]3 E :|2 ^c<d [FA]3 e |: 
+f2 (fe/f/) a>e | (3f2 e2 f2 ^c>c | d2 d^c/d/ e>c | (3d2 =B2 ^c2 E2- | 
+(3E2 F2 G2 E>^c | (3^c2 d2 e2 c>e | ef f>(e f>)d |1 "^Stämförslag B.O." ^c<d [FA]3 e :|2 ^c<d [FA]3 z |] 
+

@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:49
+T:Vanha Kulta
+O:Finland
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Finland, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/4
+M:4/4
+K:F
+V:1
+"^1""^Förspel" B G G/G/ G | F2 F2 |][K:F][M:4/4][K:treble]"^Dans" c c c3/2 B/ | A F F F | c c c3/2 B/ | 
+A F F F | d B B/B/ B | c A A/A/ A | B G G/G/ G | F2 F2 |] 
+V:2
+"^2" G E C/C/ B, | A,2 A,2 |][K:F][M:4/4][K:treble]"^Spelas önskat antal ggr." A A A3/2 G/ | 
+F C B, A, | A A A3/2 G/ | F A, B, C | B D D/D/ D | A F F/F/ F | "^Stämförslag B.O." G E C/C/ B, | A,2 A,2 |]
+

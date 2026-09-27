@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Bojäntans hemfärd från fäbodvallen
+C:Lars Fredriksson
+O:Vallsta, Arbrå, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+N:Andra stämma: [[Personer/Oscar Bergqvist]]
+L:1/16
+Q:1/4=80
+M:2/4
+K:Eb
+V:1
+|:"^1" (g>a)"^Lungt och långsamt"g^f (g2e2) | c4 G4 | (c>_d)c=B (c2G2) | E4 C4 | 
+"^något hastigare"(E>F) ED (E2C2) | (D>E)DC (D2=B,2) |1 C2>(D2 ED)EF | G6 z2 :|2 C2>(D2 ED)C=B, | C6 z2 |: 
+"^Långsamt, lockande korna" (c2=B2) G4 | (e2d2) =B4 | g4 f4 | e2dc (=B2G2) | c2BA G2FE | D2EF (G2c2) | 
+(c2e2) (ed)c=B | c6 z2 ::"^Livligt" (DB)(aB) (FB)(aB) | (DB)(aB) (FB)(aB) | (EB)(gB) (GB)(gB) | 
+(EB)(gB) (GB)(gB) |1 f2fe d2dc | B2Bc (d2B2) | e2>d2 c2B2 | G4 E4 :|2 
+(f>g)f=e (f2g2) | (a2B2) (c2d2) | e4 (BA)GF | [G,E]6 z2 |] 
+V:2
+|:"^2""Cm" (e>f)ed (e2c2) | G4 E4 | (e>f)ed (e2c2) | G4 E4 | (C>D)C=B, (C2G,2) | 
+"Gm" (=B,>C)B,A, (B,2G,2) |1"Cm" G2>(F2 ED)C=B, | [=B,D]6 z2 :|2"Cm" E2>(F2 GF)ED | E6 z2 |: 
+"Gm" (E2D2) =B,4 | (c2=B2) G4 | e4 d4 | c2=BA (G2E2) |
+"Cm" A2GF E2DC |"Gm" =B,2CD (E2G2) | "Cm" (G2c2) (c=B)GF | E6 z2 ::
+"Bb7" (B,D)FA (d2B2) | (FG)FE (D2C2) |"Eb" (B,E)GB (e2B2) | (GA)GF E4 |1 "Bb" a2ag f2fe | d2dc (B2G2) |"Eb" G2>B2 A2G2 | E4 G,4 :|2 "Bb7" (d>e)dc"^Andra stämma: Oscar Bergqvist." (d2e2) | (f2d2) (A2F2) |"Eb" G4 (GF)ED | 
+[B,G]6 z2 |] 
+

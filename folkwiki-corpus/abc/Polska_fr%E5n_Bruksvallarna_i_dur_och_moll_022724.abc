@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:4466
+T:Polska från Bruksvallarna i dur och moll
+N:efter Fritiof Mesch, Linsell som lärt polskan av Glötespelmannen Johan Persa Bergström
+R:Polska
+O:Härjedalen 
+C:uppt. efter Fritiof Mesch 
+N:En polska vars ursprung troligtvis kan spåras till spelmannen Johan Berglund i Bruksvallarna (1826-1867) enligt uppgift från Per Myhr vid uppteckningstillfället 1909, när Nils Andersson fick tillfälle att möta denne.
+N:En variant upptecknades redan 1899 av Einar Övergaard hos spelmannen Olof Andersson i Glöte (1846-1919). OA härstammade från Lillhärdal, men bosatte sig i  Glöte och fick där tillfälle att spela med Per Myhr.
+N:Föreliggande version, med omkastade repriser, lärde sig Fritiof Mesch av Johan Persa Bergström, som också spelade i lag med Per Myhr.
+N:Låten har också spelats av Per Myhrs son Jonas Myhr i Funäsdalen, och även förts vidare av Tage Magnusson, Glöte, som benämnt låten just "Polska från Bruksvallarna".
+Z:abc-transkr L Sohlman
+Z:Förslag till arr: L Sohlman
+M:3/4
+L:1/8
+Q:150
+K:Dm
+V:1
+A2 G2 ((3FDF)|((3ED^C) D2 A,2-|A,>(A E>)^C D2|E2 ((3FGF) ((3EDE)|!
+A2 G2 ((3FDF)|((3ED^C) D2 A,2-|A,>(A E>)^C D>F|((3ED^C) D4:||:!
+K:D
+(A>d) (f>a) g>e|c>d ((3ege) (f>a)|((3geg) (f>d) (3g(ec)|d>e (f>d) (c>A)|!
+A>(d f>a) g>e|c>d ((3ege) (f>a)|((3geg) (f>d) (3g(ec)|{c}d2 d4:|]!
+V:2
+F2 E2 D2|^C2 A,2 uA,2-|A,>(A, G>)E F2|uG2 v(3(ABA) uG2|!
+F2 E2 D2|^C2 A,2 A,2-|A,>(A, G>)E F>A|(3(GFE) [F4A4]::!
+K:D
+D>(F A2) A>G|E>F v(3(GEG) (uF>A)|(3(GEG) (F>A) (3A(GE)|F>A (A>F) uE2|
+D>(F A2) A>G|E>F (3(GEG) (uF>A)|(3(GEG) (F>A) (3A(GE)|{E}F2 [F4A4]:|]
+

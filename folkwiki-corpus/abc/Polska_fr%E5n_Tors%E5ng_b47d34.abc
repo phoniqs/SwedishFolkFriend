@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Torsång
+T:"Ryggsäcken"
+S:Hans Haglöf
+R:Polska
+O:Torsång, Dalarna
+Z:Uppteckning [[Personer/Tommy Gjers]] 2003
+Z:Arrangemang [[Personer/Ellinor Fritz]]
+Z:"Ryggsäcksfabriken Haglöfs i Torsång har legat där i snart hundra år."
+Z:Till ABC av Karin Helander
+M:3/4
+L:1/16
+K:D
+V:1
+|: v f4 d2d2 d2ef | g4 e2e2 e4 | f2(ef) g2(f2 e2)d2 | (c>d)cB (AB)AG (FD)FA |
+f4 d2d2 d2ef | g4 e2e2 e4 | f2(ef) g2f2 e2d2 | (cB)ce d8 :|
+|: v ({A}d2>)f2 a4 (b>a)gf | e2f2 g4 (ag)fe | d2>e2 f2f2 (gf)ed | (c>d)cB (AB)AG (FD)FA |
+d2>f2 a4 (b>a)gf | e2f2 g4 (ag)fe | d2ef g2(ba) gf(ed) | (cB)ce d8 :|
+V:2
+|: v d4 A2A2 A2cd | e4 c2c2 c4 | d2cd e2(d2 c2)B2 | (AB)AG (FG)FE (DA,)DF |
+A4 F2F2 F2GA | B4 G2G2 G4 | A2GA B2A2 G2F2 | (ED)EG [F8A8] :|
+|: v ({F}A2>)d2 f2>(f2 g)fed | c2d2 e2>(e2 f)edA | F2>A2 d2d2 (ed)cB | (AB)AG (FG)FE (DA,)DF |
+A2>d2 f2>(f2 g)fed | c2d2 e2>(e2 f)edA | F2GA B2dc (BA)GF | (ED)EG F8 :|
+

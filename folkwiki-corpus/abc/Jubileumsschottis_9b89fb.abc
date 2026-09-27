@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:212
+T:Jubileumsschottis
+C:Janne Krantz
+O:Hälsingland
+R:Schottis
+Z:Hudiksvalls spelmanslag 212
+Z:2017-01-06
+L:1/8
+Q:1/4=60
+M:4/4
+K:D
+V:1
+f>e |:"D" d2 B>A F>d A>F |"G" G>B"D" A>F"Em" G>F E>D |"A7" C2 (3A,CE A>G FE | "D" D>E F>D"A7" E2"D" f>e |
+"D" d2 B>A F>d A>F |"G" G>B"D" AF"Em" G>F E>D | "A7" C2 (3A,CE A>G FE |1"D" D2 d2 d2 f>e :|2"D" D2 d2 d2 z2 |:
+[K:A]"E" e>e"B7" ^d>e f>e d>e | "A" (3Ace (3aec"^/D" f>d"^/A" e>c |"E7" d2 B>d"^/A" c>A"^/E" B>G |"D" F>D A,>c"E7" B4 | "E7" e>e"B7" ^d>e f>e d>e |
+"A" (3Ace (3aec"^/D" f>d"^/A" e>c |"E7" d2 B>d"A" c>B A>c |1 "E7" B>A G>B"A" A2 z2 :|2[K:D]"E7" BA G>B"A" A2 f>e | [K:G]"D" D2 d2 d2 z2 |: 
+"G" G>G F>G"^C/E" C>C (3B,CE |"^G/D" B>B A>B"C" c>d e>f |"^D/H/A/G" g2 a2 b3 b | "A7" a>g f>e"D7" d>c B>A |"G" G>G F>G"^C/E" C>C (3B,CE |
+"^G/D" B>B A>B"C" c>d e>f | "^D/H/A/G" g2 a2 b3 b |1"D7" f>g a>f"G" g2 [Bg] z :|2"D7" f>g a>f"G" g2 f>e |[K:D] |] 
+V:2
+d>c |: A2 G>F D>F F>D | D>G F>D E>D B,>B, | C2 (3A,CE E>E DC | A,>C D>A, C2 F>E | A2 G>F D>F F>D | 
+D>G FD E>D B,>B, | C2 (3A,CE E>E DC |1 D2 F2 F2 B>A :|2 D2 F2 F2 z2 |:
+[K:A] B>G F>G B>B B>B | (3FAc (3ecA d>A c>A | B2 G>B A>E G>E | D>A, A,>F G4 | B>G F>G B>B B>B | 
+(3FAc (3ecA d>A c>A | B2 G>B A>G E>E |1 G>F E>G E2 z2 :|2[K:D] GF E>G E2 d>c |[K:G] A,2 F2 F2 z2 |: 
+D>D D>D G,>G, (3G,A,C | G>G F>G G>B c>d | d2 e2 g3 g | f>e d>c B>A G>F | D>D D>D A,>A, (3G,A,C | 
+G>G F>G A>B c>d | d2 e2 g3 g |1 d>e f>d d2 [Ge] z :|2 d>e f>d d2 d>c |[K:D] |]
+

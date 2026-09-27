@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:55
+T:Polska efter Pelle Schenell
+T:(SvL Hälsingland 55)
+R:Polska
+S:Pelle Schenell
+O:Gnarp, Hälsingland
+B:Svenska Låtar Hälsingland
+N:SvL: Låten är, enligt Schenell, mycket allmän i nordöstra Hälsingland.
+N:SvL: Melodin är av jämförelsivis nyare datum och visar släktskap med mazurkan. Särskilt gäller detta sista reprisen samt de båda reprisernas slutfall, vilka är karaktäristiska för denna melodiform.
+M:3/4
+L:1/8
+K:A
+vc>[EA,] [EA,]>c c(B/c/)|[dF]>[FA,] [FA,]>d a(g/a/)|b>g ef g(f/g/)|a>g fe dc|
+c>[EA,] [EA,]>c c(B/c/)|[dF]>[FA,] [FA,]>d a(g/a/)|b>g ef g(f/g/)|1a2 a2 z2:|2a2 a2 zue]|
+|:a>c' (ea) ce|e>a (ce) Ac|c>B g2 (3(gfg)|a>g fe dc|
+a>c' (ea) (ce)|e>a ce Ac|c>B g2 (3(gfg)|1a2 a2 zue:|2a2 a2z2]|
+

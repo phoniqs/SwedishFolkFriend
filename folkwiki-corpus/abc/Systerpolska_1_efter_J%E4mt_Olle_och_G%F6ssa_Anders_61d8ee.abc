@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Systerpolska 1 efter Jämt Olle och Gössa Anders
+S:Jämt Olof Ersson
+S:Gössa Anders
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:D
+V:1
+|:"^1""^\"Systerpolska nr. 1\"" A2 d2 fa |{ga} ge/g/ (fd) c(A/c/) | e3/2(B/4c/4 B/A/)B/c/ d>B | (BA) (AG) EF | 
+(D>F) (Ad) f>a | ge/g/ (fd) c(A/c/) | e3/2(B/4c/4 B/A/)B/c/ d>B | BG/B/ A4 :: 
+{fg} f2 (df) d(f/g/) | f2 (e/f/)e/d/ e>f | g>(a{ga} gf) e>d | (c/d/)c/B/ tGtB A2 | 
+{fg} f2 (df) d(f/g/) | f2 (e/f/)e/d/ e>f | (ga) (b>a) fg | ec/e/ d4 :| 
+V:2
+|:"^2" F2 A2 df | ec/e/ (dA) G(E/G/) | c3/2(G/4A/4 G/F/)G/A/ B>G | (GF) (FE) CD | 
+(A,>D) (FA) d>f | ec/e/ (dB) A(E/A/) | c3/2(G/4A/4 G/F/)G/A/ B>G | GE/G/ F4 :: 
+d2 (Ad) A(d/e/) | d2 (c/d/)c/B/ c>d | e>(f ed) c>B | (A/B/)A/G/ tEtG F2 | 
+d2 (Ad) A(d/e/) | d2 (c/d/)c/B/ c>d | (ef) (g>f) dc |"^Stämförslag B.O." AE/G/ F4 :| 
+

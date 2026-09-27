@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Hörnefors gånglåt
+C:Danne Norgren
+O:Hörnefors, Västerbotten
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danne Norgren, Hörnefors. Arr. Sivert Snaar."
+L:1/4
+M:4/4
+K:D
+V:1
+"^1"A |: "^Ej för fort." d2 A3/2 G/ | F2 c B | A2 E F | G3 A, | c2 E F | G A/G/ F E | 
+D3/2 E/ F G | A B/A/ F A | d2 A3/2 G/ | F2 c B | A2 E F | G3 A, | 
+c2 E F | G A/G/ F E | D2 d/c/ d/e/ |1,8 d3 A :|2 d3 z |: 
+[Ag]2 g/e/ c/A/ | E A/c/ e g | [Af]2 f/d/ A/F/ | D F/A/ d f | e2 e3/2 c/ | A B c A | 
+d f/d/ A d/A/ | F A/F/ D F | [Ag]2 g/e/ c/A/ | E A/c/ e g | [Af]2 f/d/ A/F/ | 
+D F/A/ d f | e2 e3/2 c/ | A B c A | d c/d/ e c |1 d3 z :|2 d3 |] 
+V:2
+"^2" F |:"D" F2 F3/2 E/ | D2 E D |"A7" C2 C D | E3 G | G2 G A | B c/B/ A G |
+"D" F3/2 E/ D E | F G/F/ D F | F2 F3/2 E/ | D2 E D |"A7" C2 C D | E3 G | 
+G2 G A | B c/B/ A G | "D" F2 F/E/ F/G/ |1,8"D" [DF]3 F :|2"D" [DF]3 z |:
+"A7" [Ge]2 e/c/ A/E/ | C E/A/ c e | "D" [Fd]2 d/A/ F/D/ | A, D/F/ A d |"A7" G2 G3/2 G/ | 
+E G A E |"D" z2 d f/d/ | A d/A/ F A | "A7" [Ge]2 e/c/ A/E/ | C E/A/ c e |"D" [Fd]2 d/A/ F/D/ | 
+A, D/F/ A d |"A7" G2 G3/2 G/ | E G A E |"D" A2 "A7" c A |1"D" [Fd]3 z :|2 "D" [Fd]3 |] 
+

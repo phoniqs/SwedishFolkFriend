@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:18
+T: Polska.
+C:Thore Härdelin den äldre
+O:Hälsingland
+R:Polska
+Z:Karin Helander
+B:25 spelmanslåtar från Hälsingland nr 18
+L:1/16
+M:3/4
+K:Eb
+V:1
+G2=A=B c2G2 E2C2 | c2=Bc d2dB G4 | g4 e3d c2c2 | =BcdB G2GF E2D2 | 
+G2=A=B c2G2 E2C2 | c2=Bc d2dB G4 | G4 E3D C2C2 | (=B,G,)B,D C8 :| 
+|: (BcB=A) B2g2 (ABf2) | _ABAG A2f2 (GBe2) | (EG)BG (EA)cA (EG)BG | (Bd)fd e2c=A B4 | 
+(BcB=A) B2g2 (ABf2) | _ABAG A2f2 (GBe2) | b4 a2ca g2B2 | (cB)=AB (FB)df !fermata! b4 | 
+G2[e2b2] D2[B2a2] E2[B2g2] | [D2B2f2]dB [G,4E4e4] z4 :: (ga)g^f g2b2 g2e2 | (fg)f=e f2a2 f2d2 | (G=B)cd e2g2 e2c2 | 
+[d4D4] [G3G,3][G,F] [E2G,2][D2G,2] | G2=A=B c2d2 e2c2 | d3d f2a2 [f4c'4] | g3e c2c2 (=BG)Bd | [c4E4] [c4E4] z4 :|
+V:2
+G2_GF E2E2 C2G,2 | E2DE F2F2 [D4=B,4] | [D4G,4] [G3G,3][FG,] [E2G,2][E2G,2] | [D4G,4] [D2G,2][D2G,2] C2=B,2 |
+G2_GF E2E2 C2G,2 | E2DE F2F2 [D4=B,4] | E4 C3G, E2E2 | [G,4F4] [E8G,8] :|
+|: E8 D4 | D8 E4 | !>!G,4 !>!A,4 !>!B,4 | !>!F4 !>!E4 !>!D4 | 
+G8 ^F4 | =F8 E4 | G4 F4 E4 | E4 (DF)Bd !fermata! d4 | 
+B2g2 A2f2 G2e2 | B,2[B,2A2] [G4B,4] z4 :: [B4E4] [B2E2][B2E2] [B2E2][B2E2] | [B4D4] [B2D2][B2D2] [B2D2][B2D2] | [c4E4] [c2E2][c2E2] [c2E2][c2E2] |
+(D=B)(gB) (DB)(gB) (DB)(gB) | G2_GF E2D2 C4 | F3F d2f2 a4 | [G,4E4] [G,4E4] [G,4F4] | [C4G4] [C4G4] z4 :|
+

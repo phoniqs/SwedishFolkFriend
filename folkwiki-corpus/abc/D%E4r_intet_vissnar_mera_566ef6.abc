@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Där intet vissnar mera
+T:(Erikas brudpolska)
+O:Västergötland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Musik: Hans Kennemark
+Z:Angivet "Hälsingland" i Bengt Ohlsons samling?
+L:1/8
+M:9/8
+K:A
+V:1
+"^1" E- |: E2 (A- A B2)"^Erikas brudpolska" c2 A | F2 (A- A G2) A2 B | (cd)e- edc B2 A | B3 [EB]3- [EB]2 E- |
+ E2 (A- A B2) c2 A | F2 (A- A G2) A2 B | (c^d)e- efg (ab)g |1 (ef^d) e3- e2 E- :|2 ef^d e3- e2 e- |:
+ e2 (B- B2 c/B/A/) G2 B | d2 c/B/ c3 A2 c | e2 (B- B2 c/B/A/) G2 B | d2 c/B/ c3 A3- |
+ A2 c/e/ a3 a2 b | a2 (=g/e/ f2) (3(^g/f/e/ f2) d/f/ | a2 g/f/ e3 c2 A |1 (Bc"^5"BAB) c3- c2 e- :|2
+ (Bc"^5"B AB) c3- c [DA]2 | fga e3 c2 A | F G2 A3- A3 |] 
+V:2
+"^2" A, |: A,2 C- C D2 E2 C | D2 F- F E2 C2 E | ABc- cBA F2 ^D | E3 [B,E]3- [B,E]2 C- | C2 E- E G2 A2 F |
+ D2 F- F ^E2 F2 G | ABc- c^de (fg)e |1 BAF G3- G2 A, :|2 BAF G3- G2 G- |: 
+G2 E- E2 F/E/D/ B,2 D | F2 E/D/ E3 C2 E | B2 G- G2 A/G/F/ E2 G | B2 A/G/ A3 E3- | 
+E2 A/B/ c3 c2 d | c2 B/=G/ A2 (3(e/d/c/ d2) A/d/ | f2 e/d/ c3 A2 E |1 GA"^5"G FG A3- A2 G- :|2 
+GA"^5"G FG A3- A [DA]2 | def c3 A2 F | E D2 [CE]3- [CE]3 |]
+

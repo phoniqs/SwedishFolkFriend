@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch av Jonas Höglin
+C:Jonas Höglin
+O:Högen, Liden, Medelpad
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:2/4
+K:Dm
+V:1
+|:"^1" A>B AG | (FE) (D/F/)A/d/ | f>g fe | (dA) (F/A/)d/f/ | a>^g ab | 
+af ed | e2 (.A>.A) | A2 (=B^c) | d>e dA | (FE) (D/F/)A/d/ | f>g fe | 
+(dA) (F/A/)d/f/ | a>^g ab | aA ^ce | d>(e d/^c/)d/e/ |1 d4 :|2 d2 (fg) |: 
+a>b ag | fg af | g2 (.c>.c) | c2 (de) | f>g fe | de fd | 
+e2 (.A>.A) | A2 (=B^c) | d>e dA | (FE) (D/F/)A/d/ | f>g fe | 
+(dA) (F/A/)d/f/ | a>^g ab | aA ^ce | d>(e d/^c/)d/e/ |1 d2 (fg) :|2 d4 |] 
+V:2
+|:"^2" "Dm"F>G FE | (D^C) (A,/D/)F/A/ | d>e dA | FF (D/F/)A/d/ | f>e fg | fd AF | 
+"A7"A2 (.[^CE]>.[CE]) |  [^CE]G FE | "Dm" F>G FE |  (D^C) A,/D/F/A/ | d>e dA | FF (D/F/)A/d/ |
+"A7" ^c>=B cd | ^cE GA | "Dm" F>(G F/E/)F/G/ |1"Dm" F4 :|2"Dm" F2 (AB) |:
+"F" c>d cB | AB cA |"C" B2 (.E>.E) | E2 (FG) | "Dm" A>B AG | FG AF |
+"A7" G2 (.E>.E) | E2 (GA) |"Dm" F>G FE | (D^C) A,/D/F/A/ | d>e d^c | (AF) D/F/A/d/ |
+"A7" ^c>=B cd | ^cE GA |"Dm" F>(G F/E/)F/G/ |1"Dm" F2 (AB) :|2"Dm""^B.O." F4 |]
+

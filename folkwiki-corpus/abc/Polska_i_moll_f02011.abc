@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska i moll
+C:Eiwor Kjellberg
+O:Järvsö, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"2. Polska i moll."
+Z:"Komp. Eiwor Kjällberg"
+L:1/16
+Q:1/4=90
+M:3/4
+K:G
+V:1
+|:"^1" B,2>c2 B2AG E4 | E2>g2 f2ed B4 | e4 (Bc)BA G2>E2 | F4 (EF)ED B,4- | 
+B,2>c2 B2AG E4 | E2>g2 f2ed B4 | e4 (Bc)BA G2>E2 | F2DF E6 z2 :: 
+(EB)(gB) (EB)(gB) (EB)(gB) | (DB)(fB) (DB)(fB) (DB)(fB) | (EB)(gB) (EB)(gB) (EB)(gB) | (DB)(fB) (DB)(fB) (DB)(fB) | 
+B,2>c2 B2AG E4 | g2>f2- f2ed (B4 | e4) (Bc)BA G2>E2 | F2DF E6 z2 :| 
+V:2
+|:"^2" G,2>G2 F2ED B,4 | B,2>B2 A2GF D4 | G4 (GA)GF E2>B,2 | A,4 (B,C)B,A, G,4- | 
+G,2>G2 F2ED B,4 | B,2>B2 A2GF D4 | G4 (GA)GF E2>B,2 | C2A,C B,6 z2 :: 
+(G,E)(BE) (G,E)(BE) (G,E)(BE) | (B,F)(AF) (B,F)(AF) (B,F)(AF) | (G,E)(BE) (G,E)(BE) (G,E)(BE) | (B,F)(AF) (B,F)(AF) (B,F)(AF) | 
+G,2>G2 F2ED B,4 | B2>A2- A2GF (D4 | G4) (GA)GF E2>B,2 | C2A,C B,6"^B.O." z2 :|
+

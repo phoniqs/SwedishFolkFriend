@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Den ros du gav mej
+T:Tango
+R:Tango
+C:Michael Jary
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik: Michael Jary. Text: Bruno Balz. Svensk text: Rick Holmson"
+Z:":/: Den ros du gav mej skall alltid blomma! En kyss utav dej finns gömd i den En stund som denna, blir ord så tomma, ty ingen vet om vi möts igen. Man får ej vända, när havet kallar! Det är den enda rätta brud för sjömannen. Den ros du gav mej skall alltid blomma! Den ros du gav mej var ju kärleken/ Någonstans vid en kaj gör ett skepp sig till avfärd berett. Nedanför står en tös som en sjöman sitt hjärta har gett. Ingenting blev det sagt när till sist han blir kallad ombord. Men när han står uppe på däck hör hon hans avskedsord:  :/:"
+L:1/8
+M:2/4
+Q:80
+K:F
+V:1
+"^1""^Text: Bruno Balz  Svensk text: Rick Holmson" D/C/ | A,D/C/ A,D/C/ | B,D/C/ B,D/C/ | B,D/C/ B,D/C/ | A,C FA | B2 A2- | AA c>B | A2 G2- | 
+GC EG | d2 c2 | cd c>B | A4- | AC FA | B2 A2- | AA c>B | A2 G2- | GC EG | d2 c2- | 
+cd c>G | F4- | Ff ff | e2 d2- | de f>d | d2 c2- | cA AA | A2 G2 | e2 d2 | d>c BG | 
+EC FA | B2 A2- | AA c>B | A2 G2- | GC EG | d2 c2 | d>c BG | F4- |!fine! F CF _A/G/ || 
+[K:Ab] F2 z A/G/ | F2 z A/G/ | FA/G/ FA/F/ | G2 z G/F/ | =E2 z G/F/ | =E2 z G/F/ | =EG/F/ EG/E/ | F2 z A/G/ | 
+F2 z A/G/ | F2 z A/G/ | FA/G/ FA/F/ | B4 | B3/2=A/4B/4 dG | A3/2G/4A/4 cF | G^F/G/ AG |[K:F] cC F=A |] 
+V:2
+"^2" d/c/ |"F" Fd/c/ Fd/c/ |"C7" Gd/c/ cd/c/ | Gd/c/ cd/c/ |"F" F z z2 |"Bbm" FF"F" F/c/d/e/ | f z"Am" ^d2 | ee"C7" e/g/e/d/ | 
+c z z2 |"Gm" GG"C7" G/c/d/e/ |"Gm" g z"C7" c2 | "F" F/c/d/e/ f/e/d/_d/ | c z z2 |"Bbm" FF"F" F/c/d/e/ | f z"Am" ^d2 | ee"C7" e/g/e/d/ | c z z2 |"Gm" GG"C7" G/c/d/e/ |
+"Gm" g z"C7" e2 |"F" c z"Bb" B2 |"F" A z z2 | "Bb" B/BB/ BF | B2 B2 | "Bb" F/FF/"F" FC | F z z2 |"Dm" d/dd/"G7" gd | g/gg/ GG |"C7" c>e dB | 
+G z z2 | "Bbm" FF"F" F/c/d/e/ | f z "Am" ^d2 | ee"C7" e/g/e/d/ | c z z2 |"Gm" GG"C7" G/c/d/e/ | "Gm" g z "C7" c2- | "F" c z"Bb" B2 |"F" A"C7" A"F"F "C7" c ||
+[K:Ab]"Fm" Ad/c/ F"C7"c |"F" Ad/c/ F"C7"c |"Fm" A"C7"c "Fm" f z | "Gm" dB d z |"C7" cd/c/ G"Bbm"B |"C7" cd/c/ G"Bbm"B | "C7"c"Bbm"G "C7"c z | "Fm" cc "C7" Fc | 
+"Fm" Ac/B/ F"C7"c |"Fm" Ac/B/ F"C7"c |"Fm" f"C7"c "Fm"f z |"Bb" dg"Bbm" fd/c/ |"Bbm" B z z B |"Fm" c z z A | "G7" GA/G/ "Fm" FG"^   Arr.försl. B.O." | [K:F] "C7" =E z !D.C.!z2 |]
+

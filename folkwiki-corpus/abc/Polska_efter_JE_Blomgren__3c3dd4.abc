@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:468
+T:Polska efter J.E. Blomgren 
+R:Polska
+B:FMK - katalog Sk8 bild 25 nr 46
+Z:Nils L
+O:Hässlunda, Skåne
+S:efter Johan Eric Blomgren
+M:3/4
+L:1/16
+K:Am
+"^*"|: A2B2 c2dc B2^G2 | A2AB c2cd efed | cdef g2fg agfe | gfed edcB c4 :|
+|: e2fe d2cd e4 | c2Bc dcBA B2^G2 | A^GAB cBcd e2c2 | BA^GB A4 A,4 :|
+%%text *ossia:
+A2B2 c2dc B2^G2 | c2d2 e2f2 e2d2 | cdef g2fg agfe | ^defd e4 E4 :|
+

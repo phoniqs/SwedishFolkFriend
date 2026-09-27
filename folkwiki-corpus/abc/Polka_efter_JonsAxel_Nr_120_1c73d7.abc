@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:120
+T:Polka efter Jons-Axel Nr 120
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polka
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 120. Polka"
+L:1/8
+Q:1/4=120
+M:2/4
+K:G
+V:1
+"^1" B/G/ |:v DB DG | [GB]>[FA] (F/D/)F |T e>d F/F/F |T e>d G/G/G | DB DG | 
+[GB]>[FA] (F/D/)F |T e>d d>F | GB G z :: G,B, DG | bg/g/ gud | 
+G,B, DG | dc/c/ cuA | DF Ad | af/f/ fud | DF Ac | cB/B/ BuG | 
+G,B, DG | bg/g/ gud | G,B, DG | dc/c/ cuA | DF Ad | af/f/ fud | 
+DF Af | g2 z2 :: (G/B/d/g/) (b/g/d/B/) | dd (B/A/)B | cc (A/F/)A |
+BB (G/D/)G | (G/B/d/g/) (b/g/d/B/) | dd (B/A/)B | cc (A/F/)A | GB G z :| 
+V:2
+"^2" G/D/ |:"G" B,G G,D |"D7" D>D (C/B,/)C | c>A d/d/d |"G" c>A B/B/B | B,G G,D | 
+"D7" D>D (C/B,/)C | c>A F>D |"G" B,D B, z ::"G" DG, B,D | dB/B/ BG | DG, B,D |"D7" FE/E/ ED | 
+A,D FA | cA/A/ AF | A,D FA | AG/G/ GD | DG, B,D | "G" dB/B/ BG | DG, B,D |"D7" FE/E/ ED | A,D FA | 
+cA/A/ AF | A,D FA |"G" B2 z2 ::"G" DG Bd | BB (G/F/)G | "D7" AA (F/D/)F |"G" GG (D/B,/)D | DG Bd | 
+"^Stämförslag B.O." BB (G/F/)G |"D7" AA (F/D/)C | "G" B,D B, z :|
+

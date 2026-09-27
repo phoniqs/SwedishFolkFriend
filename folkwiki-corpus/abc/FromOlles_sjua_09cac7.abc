@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:7
+T:From-Olles sjua
+T:"Sjuan"
+O:Järvsö, Hälsingland
+R:Polska
+S:From-Olle
+Z:Hudiksvalls spelmanslag 214
+Z:2019-11-28
+Z:Stämman till stora delar från [[Personer/Thore Härdelin den Äldre]]
+B:25 spelmanslåtar från Hälsingland nr 7
+L:1/16
+M:3/4
+K:C
+V:1
+"C" [G,Ec]4"G7" [G,DB]4"C" [G,Ec]4 |"C" c2BA"G7" G2AB"C" c4 |"Dm" a4"C" g2e2"G7" fefa | "C" g4 G2>F2 E2G2 |
+"C" [G,Ec]2[G,Ec]2"G7" [G,DB]2[G,DB]2"C" [G,Ec]4 | "C" c2BA"G7" G2AB"C" c4 |"Dm" a2fa"C" g2eg"G7" f2d2 |"G7" cBAB"C" c6 z2 :: 
+"C" e2ce"E7" d2Bd"Am" c2A2 |"G" d2Bd"D7" c2Ac"G" B2G2 |"G" G2AB"Am" c2Ac"G" B2G2 | 
+"G" DGBG DGBG DGBG |"D7" D^FAF D^FAF D^FAF |"G" DGBG DGBG DGBG |"D7" D^FAF D^FAF D^FAF | 
+"G" G2Bd g2dB G4 |"G" g^fga g4 G4 | "Dm" a4"A7" g2>e2"Dm" =f2d2 |"G7" cBAB"C" c6 z2 :| 
+V:2
+[CE]4 [B,D]4 [CE]4 | [G,E]4 [B,F]2[B,F]2 [CE]4 | f4 e2c2 dcdf | e4 E2>D2 C2E2 | 
+[CE]2[CE]2 [B,D]2[B,D]2 [CE]4 | [G,E]4 [B,F]2[B,F]2 [CE]4 | f2df e2ce d2B2 | 
+[G,F]2[G,D][G,F] [G,E]6 z2 :: [Ec]4 [^GB]4 [EA]4 | D4 [^FA]4 [GB]4 | B,2CD E2CE D2B,2 | 
+G,B,DB, G,B,DB, G,B,DB, | A,D^FD A,D^FD A,D^FD |G,B,DB, G,B,DB, G,B,DB, | A,D^FD A,D^FD A,D^FD |
+g2dB G2Bd g4 | BABc [DB]4 [G,D]4 | f4 e2>^c2 d2A2 | [G,F]2[G,D][G,F] [G,E]6 z2 :|
+

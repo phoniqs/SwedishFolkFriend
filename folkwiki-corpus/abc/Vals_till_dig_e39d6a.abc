@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals till dig
+C:Gunnar Persson
+O:Nor, Gästrike-Hammarby, Gästrikland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Gunnar Persson, Nor Gästrike-Hammarby."
+L:1/8
+M:3/4
+K:C
+V:1
+"^1"u G2 |: [ce]4 [ce]2 | [Bd]4 [Bd]2 | c[FA] [FA]3 c | G4 [CE]2 | (3(FAF) D3u F | B4 A2 | ^F4 A2 | [B,G]4 G2 | 
+[ce]4 [ce]2 | [Bd]4 [Bd]2 | c[FA] [FA]3 c | G4 [CE]2 | (3(FAF) D3u F | B4 A2 | (G,B,) (DG) Bd |1v [Ec]6 :|2v [Ec]3 z z2 |:
+v E4 A2 | c4 e2 | ED D3 B, | [Ec]4 B2 | E2 D z zu B, | [Ec]4 B2 |A2 E3u C | A,6 |v 
+E4 A2 | c4 e2 | ED D3 B, | [Ec]4 B2 | E2 D z zu B, | [Ec]4 B2 | A3 A A2 |1u A6 :|2u G6 |u [Ec]4u e2 |: 
+(3(dfd) A z2u d | [FA]4 d2 | (3(cec) G z2u c | [EG]4 c2 | (3(BdB) D3u F | B4 d2 | c2 E z2u A | G4 e2 | 
+(3(dfd) A z2u d | [FA]4 d2 | (3(cec) G z2u c | [EG]4 c2 | (3(BdB) D3u F | B4 d2 | (fd) (BG) DB, |1 C2 c2u e2 :|2 C2 c2 z2 |] 
+V:2
+"^2"u E2 |:"C" G4 G2 |"E" E4 E2 |"F" FC C3 F |"C" C4 G,2 |"G7" D2 B,3u D | F4 D2 | 
+"D7" C4 E2 |"G7" D4 E2 |"C" G4 G2 |"E" E4 E2 |"F" F C C3 F |"C" C4 G,2 |"G7" D2 B,3u D | 
+F4 F2 | (fd) (BG) DB, |1"C"v C6 :|2 "G" C3 z z2 |:"Am"v C4 E2 | A4 c2 |"E7" cB B3 ^G | 
+^G4 E2 | c2 B z zu ^G | ^G4 E2 | "Am" c2 A3u E | [CE]6 |v C4 E2 | A4 c2 |"E7" cB B3 ^G | 
+^G4 G2 | c2 B z zu ^G | E4 D2 |"Am" C3 C C2 |1"Am"u C6 :|2"G"u B,6 | 
+"C"u C4u c2 |:"F" A2 F z2u A | C4 A2 |"C" G2 E z2u G | C4 E2 |"G7" F2 B,3u D | G4 F2 |"C" E2 C z2u F | E4 c2 |
+"F" A2 F z2u A | C4 A2 | "C" G2 E z2u G | C4 E2 | "G7" F2 B,3u D | G4 F2 | (DG) (FD) B,G, |1 "C" E2 [CE]2u c2 :|2 "C" "^Arr. B.O." E2 [CE]2 z2 |]
+

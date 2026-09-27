@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:76
+T:Hambopolska efter Jons-Axel Nr 76
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Hambo
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 76. Hambopolska"
+L:1/8
+Q:1/4=120
+M:3/4
+K:C
+V:1
+|:"^1"v G2 (e>B) c>A | G2 GE C2 |{G} A2 GF D2 |{G} A2 GE C2 | 
+G2 (e>B) c>A | G2 GE C2 | A2 (GF) DB, | C2 c2 z2 ::
+[K:F]{=B,}v C z{E} F z{^G}u A z |{=B} c z A4 | {A} B z G4 |{^G} A z F4 |
+{=B,} C z{E} F z{^G}u A z |{=B} c z A4 |{A} B z G4 | F2 F2 z2 :| 
+V:2
+|:"^2""C" E2 (c>G) A>F | E2 EC G,2 |"G7" F2 ED B,2 |"C" F2 EC G,2 | 
+E2 (c>G) A>F | E2 EC G,2 | "G7" F2 (ED) B,G, |"C" E2 E2 z2 ::
+[K:F]"F" A, z C z F z | A z F4 | "C7" E z C4 | "F" C z A,4 | 
+A, z C z F z |"^Stämförslag B.O." A z F4 | "C7" E z C4 | "F" A,2 A,2 z2 :|
+

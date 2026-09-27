@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Hultkläppen
+S:efter Per Hult Alcén, Hultkläppen
+O:Bergsjö, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Stämma: [[Personer/Helmer Gladh]]
+Z:Upptecknad av [[Personer/Helge Nilsson]], Bergsjö
+Z:Efter [[Personer/Grubb Anders Jonsson]], Delsbo
+L:1/16
+Q:1/4=89
+M:3/4
+K:Dm
+V:1
+|:"^1" A2ce a4 e2>g2 | f2ed (^cd)ec A4 | A,4 ^C2>E2 E2A2 | A2F2 (DF)DF E4 | 
+A2(B^c) d2e2 e2a2 | a2e2 (fe)fg a2e2 | f2ed ^c2ec (Ad)fd | (A^c)ec A4 A,4 | 
+A,4 ^C2E2 E2A2 | A2F2 (DF)DF E4 | A2(B^c) d2e2 f2gf | e2d^c d8 :: 
+f4 [FA]4 [FA]4 | E2>g2 g2e2 [^ce]4 | f4 d4 d2>f2 | a4 (^ga)bg a4 | 
+a4 a2eg (fe)d^c | d2f2 (eg)e^c A4 | a4 a2eg (fe)d^c | 
+d2d2 (^cd)ec A4 | F2FA G2GB A2g2 | (ef)e^c d8 :| 
+V:2
+|:"^2" E2Ac e4 c2>e2 | d2AF EFGE ^C4 | ^C4 E2>A2 A2F2 | F2D2 A,DA,D ^C4 | 
+^C2DE F2A2 A2^c2 | ^c2A2 (dc)de c2A2 | d2^cF A2cA (FA)dA | (EA)^cA E4 ^C4 |
+ ^C4 E2A2 A2F2 | F2D2 A,DA,D ^C4 | ^C2DE F2G2 A2BA | G2FE F8 :: 
+A4 C4 C4 | A2>e2 e2^c2 [EA]4 | d4 [FA]4 [FA]2>^c2 | e4 defd ^c4 | 
+^c4 c2AB (AG)FE | F2A2 (^ce)cA [^CE]4 | f4 f2^ce (AG)FE | 
+F2F2 (AB)^cA [^CE]4 | "^Upptecknad av Helge Nilsson, Bergsjö""^efter Grubb Anders Jonsson, Delsbo.""^B.O." D2DF E2EG F2e2 | (^cd)cG F8 :|
+

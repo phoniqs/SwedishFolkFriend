@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Vilhelmina-polketten
+S:Birger Sundin
+O:Vilhelmina, Lappland
+R:Polkett
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Birger Sundin, Domsjö, Ångermanland."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" B/c/ |: dd ed | G3 B/c/ | dd ed | A3 A/B/ | cc BA | f2 f>e | d>e dc | B3 B/c/ | 
+dd ed | G3 B/c/ | dd ed | A3 A/B/ | cc BA | f2 f>e | dc BA |1 G3 B/c/ :|2 G3 z |: 
+d/B/G/B/ d/B/G/B/ | dg g>f | fe eB | cB A2 | A/F/D/F/ A/F/D/F/ | Af f>e | ed dc | BG G2 | 
+d/B/G/B/ d/B/G/B/ | dg g>f | fe eB | cB A2 | A/F/D/F/ A/F/D/F/ | Af f>e | dc BA |1 G3 z :|2 G3 d/c/ |: 
+BG BG | B3 A/B/ | cE cE | c3 B/c/ | dd ed | f2 f>e | d>e dc | B3 d/c/ | BG BG | 
+B3 A/B/ | cE cE | c3 B/c/ | dd ed | f2 f>e | dc BA |1 G3 d/c/ :|2 G3 z |] 
+V:2
+"^2" G/A/ |: BB cB | D3 G/A/ | BB cB | F3 F/G/ | AA GF | A2 A>G | F>G FE | D3 G/A/ | BB cB | 
+D3 G/A/ | BB cB | F3 F/G/ | AA GF | A2 A>G | FE DC |1 B,3 G/A/ :|2 B,3 z |: 
+B/G/D/G/ B/G/D/G/ | Be e>d | dc cG | AG F2 | F/D/A,/D/ F/D/A,/D/ | Fd d>c | cB BA | GD D2 | B/G/D/G/ B/G/D/G/ | 
+Be e>d | dc cG | AG F2 | F/D/A,/D/ F/D/A,/D/ | Fd d>c | BA FD |1 B,3 z :|2 B,3 B/A/ |: 
+GD GD | =F3 F/G/ | EC EC | E3 D/E/ | FF GF | A2 A>G | F>G FE | D3 B/A/ | GD GD | =F3 F/G/ | EC EC | 
+E3 D/E/ | FF GF | A2 A>G | FE DC |1 "^B.O." B,3 B/A/ :|2 B,3 z |]
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Mazurka efter Karl Berggren
+O:Säter, Dalarna
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Karl Berggren."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (D |: G>)(F G>)(A B>)c | d>(c B>)(A G>)G | c>(B c>)(d e>)=f | g>(=f e>)(d c>)c | 
+d>(^c d>)(e f>)g | a>(g f>)(e d>)d | d>(e d>)(c A>)c | B>(c B>)(A G>)D | 
+G>(F G>)(A B>)c | d>(c B>)(A G>)G | c>(B c>)(d e>)=f | g>(=f e>)(d c>)c | 
+d>(^c d>)(e f>)g | a>(g f>)(e d>)d | d>(e d>)(c A>)F |1 G2 [B,G]3 D :|2 G2 [B,G]3 (c |: 
+B2) D>(G B>)d | c>(d c>)(B A>)B | c2 D>(F A>)c | B>(c B>)(A G>)A | 
+B2 D>(G B>)d | c>d (cB) A2 | e2 d>(B c>)A |1 (A<F) [B,G]3 c :|2 (A<F) [B,G]3 z |] 
+V:2
+"^2" (G, |:"G" B,>)(A, B,>)(D G>)A | B>(A G>)(D B,>)B, |"C" E>(D E>)(G c>)d | e>(d c>)(G E>)E | 
+"D7" F>(E F>)(G A>)B | c>(B A>)(G F>)F | F>(G F>)(E C>)E | "G" D>(E D>)(C B,>)G, | 
+B,>(A, B,>)(D G>)A | B>(A G>)(D B,>)B, |"C" E>(D E>)(G c>)d | e>(d c>)(G E>)E | 
+"D7" F>(E F>)(G A>)B | c>(B A>)(G F>)F | F>(G F>)(E C>)A, |1"G" B,2 [G,D]3 G, :|2 "G" B,2 [G,D]3 (A |:
+"G" G2) B,>(D G>)B | "D7" A>(B A>)(G F>)G | A2 A,>(D F>)A | "G" G>(A G>)(D B,>)D | 
+G2 B,>(D G>)B |"D7"  A>B (AG) E2 | "^Stämförslag B.O." c2 B>(G A>)F |1 "G"(D<C) [G,D]3 A :|2 "G" (D<C) [G,D]3 z |]
+

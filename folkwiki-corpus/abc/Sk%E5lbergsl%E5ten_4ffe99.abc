@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Skålbergslåten
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad.
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (c |: B/>c/B/)(A/ B2) e>d | (dB) G2 G>c | B>(A B2) e>d | (dB) c3 d | c>(B c2) d>d | d<f f3 A- | 
+A>f- f>f e>c | ef/e/ d2 d>c | B/>c/B/(A/ B2) e>d | dB G2 G>c | B>A B2 e>d | dB c3 d | 
+c>(B c2) d>d | d<f f2 e>d | d>B c/d/c/A/ F>F |1 G2 G3 c :|2 G2 G3v (D- |: 
+D>B) B3u D | (D>B) B3 B- | B(c/B/ A)(B/A/ G)(A/G/) | (FG/F/) E2 E>E | (E>c) c3u E | (E>c) c3u c | 
+(c/d/4c/4B/c/) e>(e d>)d | (cd/c/) B2 B>D | (D>B) B3u D | (D>B) [DB]3 B- | B(c/B/ A)(B/A/ G)(A/G/) | 
+(FG/F/) E2 E>c | c>(B c2) d>d | (d<f) f2 e>d | d>(B c/d/)c/A/ F>F |1 G2 G3 D- :|2 G2 G3 z |] 
+V:2
+"^2" (A |: "G" G>)(F G2) c>B | (BG) B,2 B,>A | G>(F G2) c>B |"D7" (BG) A3 B | A>(G A2) A>A | A<c c3 F- | 
+F>d- d>d c>A |"G" cd/c/ B2 B>A | G>F G2 c>B | BG B,2 B,>A | G>F G2 c>B | "D7" BG A3 B | 
+A>(G A2) G>G | F<A A2 G>F | F2 A/B/A/F/ D>C |1 "G" [B,D]2 [B,D]3 A :|2 "G" [B,D]2 [B,D]3 (B,- |:
+"G" B,>G) G3 B, | (B,>G) G3 G- | G2 (D2 B,2) |"Am" (DE/D/) C2 C>C | "D7" (C>A) A3 C | (C>A) A3 A | 
+A2 c2 B>B | "G" (AB/A/) G2 G>B, | (B,>G) G3 B, | (B,>G) G3 G- | G2 (D2 B,2) |"Am" (DE/D/) C2 C>A |
+"D7" A2 A2 G>G | (F<A) A2 G>F | "^Stämförslag B.O." F2 (A/B/)A/F/ D>C |1"G" [B,D]2 [B,D]3 B,- :|2"G" [B,D]2 [B,D]3 z |]
+

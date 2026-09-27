@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Åtta Man Engel
+O:Korsholm (Österbotten), Finland
+R:Galopp
+Z:[[Personer/Bengt Ohlson]]
+N:"45 Folkdanser, Brage, Helsingfors."
+N:"1:a 2 ggr. 2:a 2 ggr. 1:a 2 ggr. 2:a 2 ggr. 1:a 2 ggr. 2:a 2 ggr. 1:a 1 ggr. 2:a 1 ggr. Därefter polskan 2 ggr. m. repr."
+N: Polskedelen är hämtad från A.F. Stares notbok 1806.
+L:1/16
+M:2/4
+K:D
+V:1
+"^1 Förspel" "A7" a2>g2 "^Galopp" f2e2 |"D" d2d2 d2 z2 |: [K:D][M:2/4][K:treble]"^Dans""D" b2>"^(1)"a2 g2f2 |"A7" A2ce (cA)ce |"A7" a2>g2 f2e2 | 
+"D" d2fa (fd)fa |"D" b2>a2 g2f2 |"A7" A2ce (cA)ce |"A7" a2>g2 f2e2 |"D" d2d2 d2 z2 :: 
+"^(2)""D" D2FA (FD)FA |"G" G2Bd (BG)Bd |"A7" A2ce (cA)ce |"D" (fe)dc (dc)BA |
+"D" D2FA (FD)FA | "G" G2Bd (BG)Bd |"A7" A2ce (cA)ce |"D" d2d2 d2 z2 ::
+[M:3/4]"^Polska""D"  (DC)DE  (FE)DE F2D2 | "D"(FE)FG (AG)FG A2F2 | "D"A2FA d2Ad f2df | "A7"(fe)dc "D"d4 "D"D4 ::
+"D" d2fd"A7" (Ac)ec"A7" (Ac)ec | "D" Adfd"A7" (Ac)ec"A7" (Ac)ec | "A7"(AB)cd "A7"(ef)ge "D"(fa)fd | "A7"(eg)ec "D"d4 "D"D4 :| 
+V:2
+"^2" f2>e2 d2A2 | F2F2 F2 z2 |:[K:D][M:2/4][K:treble] g2>f2 e2d2 | E2Ac (AE)Ac | f2>e2 d2A2 | 
+F2df (dA)df | g2>f2 e2d2 | E2Ac (AE)Ac | f2>e2 d2A2 | F2F2 F2 z2 :: "^1:a 2 ggr. 2:a 2 ggr. 1:a 2 ggr. 2:a 2 ggr. 1:a 2 ggr. 2:a 2 ggr. 1:a 1 ggr. 2:a 1 ggr. Därefter polskan 2 ggr. m. repr."A,2DF (DA,)DF | D2GB (GD)GB | 
+E2Ac (AE)Ac | (dc)BA (BA)GF | A,2DF (DA,)DF | D2GB (GD)GB | E2Ac (AE)Ac | F2F2 F2 z2 :: 
+[M:3/4] z4 z4 z4 | (DC)DE (FE)DE F2D2 | F2DF A2FA d2Ad | (dA)FE F4 A,4 :: 
+F2AF (EA)cA (EA)cA | (FA)dA (EA)cA (EA)cA | (EG)AB (cd)ec (df)dA |"^Stämförslag B.O." (ce)cA F4 A,4 :|
+

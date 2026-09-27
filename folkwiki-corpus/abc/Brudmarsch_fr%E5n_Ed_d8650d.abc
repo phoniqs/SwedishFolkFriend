@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Ed
+C:Lars Erik Jansson
+O:Upplands Väsby, Uppland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Q:100
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" D |: (G,B,) (D/G/)B/d/ | g2 dc/B/ | (A>c) (c/e/)c/A/ | [CE]3{EF} E | (DF) (Ad) | 
+(fa) (dc) | (c>B)u BuB | B3{DE} D | (G,B,) (D/G/)B/d/ | g2 dc/B/ | (A>c) (c/e/)c/A/ | 
+[CE]3{EF} E | (DF) (Ad) | (fa) (c'f) | (a>g)u gug |1,8 g3 D :|2 g4 | 
+b2u b>ub | g2 gf/g/ | a2u aua | f3 d | (A^c) (ef) | (gb) (a^c) |
+ (e>d)u dud | d2 (e/f/)g/a/ | b2u b>ub | g2 gf/g/ | a2 (b/a/)^g/a/ | 
+f3 d | (A,^C) (EA) | (^ce) (ac) | (ed) (A/G/)F/E/ | DC B,A, |] 
+V:2
+"^2" D |:"G" (B,D) (DG) |"G7" B2 (GD) |"Am" (CE) (EC) | A,3 C |"D7" (A,C) (DF) | (Ac) (AF) | 
+"G" (ED) (DC) | DC B,A, |"G" (B,D) (DG) |"G7" B2 (GD) | "Am" (CE) (EC) | A,3 C |"D7" (A,C) (DF) | 
+(Ac) (dA) |"G" (cB) (BA) |1,8"G" B3 D :|2"G" B4 |
+"G" d2u d>ud | B2 BA/B/ | "D" c2u cuc | A3 F |"A7" (^CE) (GA) | 
+(Bd) (^cA) | "D" (GF) (FE) |"D7" F2 (G/A/)B/c/ | "G" d2u d>ud | B2 BA/B/ |
+"D" c2 (d/c/)B/c/ | A3 F |"A7" E2 (^CE) | (A^c) (AE) | "D" (G"^Stämförslag B.O."F)  (F/E/)D/C/ | 
+"D7" FE DC |]
+

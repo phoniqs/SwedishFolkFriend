@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Järpströmmen
+C:Jonas Petter Nahlin
+L:1/16
+M:3/4
+O:Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Av Jonas Petter Nahlin (1908-1981)
+Z:Arr [[Personer/Göran Olsson Föllinger]]
+K:Eb
+V:1
+"^1" (3(Bcd |: e2)E2 G2B2 e2B2 | (AG)"^Polska"FE (DE)FD B,4 | (AF)DB, (A,B,)DF (AF)DB, | 
+(ED)EF (GA)=AB (cB)AB | e2E2 G2B2 e2B2 | (AG)FE (DE)FD B,4 | 
+(AF)DB, (A,B,)DF (AF)DB, |1,8 (A,B,)DF [G,E]6 (3Bcd :|2 (A,B,)DF E8 |: 
+(G,E)(BE) (B,E)(BE) (G,E)(BE) | (A,E)(cE) (CE)(cE) (A,E)(cE) | (DB)(fB) (FB)(fB) (DB)(fB) | 
+(EB)(gB) (GB)(gB) (EB)(gB) | (G,E)(BE) (B,E)(BE) (G,E)(BE) | (A,E)(cE) (CE)(cE) (A,E)(cE) |
+{Bc} B2B,2 D2F2 A2cB | (AF)DB, [G,E]8 :: (C=B,)CD (ED)EF G2E2 | 
+(c=B)cd (ed)ef g4 | [Ge]4 [Gd]4 [Ec]4 | (=Bc)dB G2E2 D2=B,2 | (C=B,)CD (ED)EF G2E2 | 
+(c=B)cd (ed)ef g4 | (gf)af g2e2 d2c2 |1 (ed)c=B [G,Ec]6 z2 :|2 (ed)c=B c6 z2 |] 
+

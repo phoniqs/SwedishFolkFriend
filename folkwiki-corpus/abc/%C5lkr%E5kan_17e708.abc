@@ -1,0 +1,40 @@
+%%abc-charset utf-8
+
+X:1
+T:Ålkråkan
+T:Hambopolska
+O:Upplands Väsby, Uppland
+R:Hambo
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+N:"Tillägnad vännen Albin Lundin, Adelsö, vars fiskebåt bär detta stolta namn..."
+L:1/8
+M:3/4
+K:G
+V:3
+"^1" D |:"G"  G>B{B} "^Tillägnad vännen Albin Lundin, Adelsö," d2 d>c | (B>c)  (B>A) G2 | "C" c>e "^vars fiskebåt bär detta stolta namn . . ." g2 (g>f) | "Am" (e>f) (e>d) (c>A) | 
+"D7" d>f  a2 (a>g) | (g>f) (f>g) (f>e) | (e>d)  (d>e) (d>c) | "G" c3/2B/4c/4 (d>B) (G>D) | 
+G>B{B} d2 (d>c) |(B>c) (B>A) G2 |  "C"c>e g2 (g>f) | "Am"(e>f) (e>d) (c>A) | 
+"D7" d>f a2 (a>g) | (g>f) (f>g) (f>e) | (e>d) (d>c{dc)} A>F |1,8 "G"(F<G) G3 D :|2 "G"(F<G) G3 z |: 
+"C" c>C (E>G) (c>e) | g>g (f>a) (g>e) |"G" e>d (d/e/d/B/) G>D | (G,>B,) (D>G) (B>c) | 
+"D7"({Bc} BA/B/) c2 A>F | (D>F) (A>d) (f>e) | (e>d) (d>e) (d>c) |"G" (cB/c/) d>B G2 | 
+"C" ({cd)} c>C (E>G) (c>e) | g>g (f>a) (g>e) |"G" e>d (d/e/d/B/) (G>D) | (G,>B,) (D>G) (B>c) | 
+"D7"({Bc} BA/B/) c2 A>F | (D>F) (A>d) (f>e) | (e>d) (d>c){AB} A>F | "G" (F<G) G3 z :: 
+[K:C] "C"  G>c e2 (e>d) | (d>c) (c>G) (E>C) |"F" ^F>A c2 (c>B) |"Dm" (B>A) (A>^F) (D>C) | 
+"G7"(B,>D) (G>B) (d>c) | (B>G) (B>d) (g>a) | (g>^f) (f>e) (f>g) | "C" ^f>e e3 E | 
+G>c e2 (e>d) | (d>c) (c>G) (E>C) | "F"^F>A c2 c>B |"Dm" (B>A) (A>^F) (D>C) | 
+"G7"(B,>D) (G>B) (d>c) | (B>G) (B>d) g3/2^f/4g/4 | (a>g) (^f>d) (B>d) |1 "C" (d<c) c4 :|2,8[K:G] "C" (d<c) c3 z |] 
+V:2
+"^2" B, |: D>G B2 B>A | G>A G>D B,2 | E>A c2 c>d | c>d c>G E>F |
+ F>A c2 c>B | B>A A>B A>G | G>F F>G F>A | A3/2G/4A/4 B>G D>B, | 
+D>G B2 B>A | G>A G>D B,2 | E>A c2 c>d |  c>d c>G E>F |
+ F>A c2 c>B | B>A A>B A>G | G>F F>D C>A, |1,8 A,<B, B,3 B, :|2  A,<B, B,3 z |:
+ E>G, C>E G>c | e>e d>f e>c | c>B B>G D>B, | B,>D G>B d>A | 
+GF/G/ A2 F>D | A,>D F>A c>G | G>F F>G F>A | AG/A/ B>G D2 |
+ E>G, C>E G>c | e>e d>f e>c | c>B B>G D>B, | B,>D G>B d>A | 
+GF/G/ A2 F>D | A,>D F>A c>G | G>F F>D C>A, | A,<B, B,3 z :: 
+[K:C] E>G c2 c>^F | ^F>E E>C C>G, | D>^F A2 A>G | G>^F F>D A,>A, |
+ G,>B, D>G B>A | G>D G>B d>c | B>A A>G A>B | A>G G3 C | 
+E>G c2 c>^F | ^F>E E>C C>G, | D>^F A2 A>G | G>^F F>D A,>A, |
+ G,>B, D>G B>A | G>D G>B d3/2c/4d/4 | B>A G>^F D>F |1 ^F<E E4 :|2,8 [K:G] ^F<E "^B.O." E3 z |]
+

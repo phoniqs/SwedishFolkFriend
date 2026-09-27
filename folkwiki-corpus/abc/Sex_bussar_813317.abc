@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:39
+T:Sex bussar
+O:Finland-Sverige
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Finland-Sverige, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (c/d/) | e>d cB/c/ | d2 d z |]:[K:D][M:2/4][K:treble]"^Dans" fe dc | B3 (c/d/) | ed cB | 
+B>A A2 | fe dc | B3 (c/d/) | e>d cB/c/ |1 d2 d z :|2 d2 d (f/g/) |: 
+a2 (a/b/)a/g/ | f d2 c/d/ | e A2 d/e/ | f d2 f/g/ | 
+a2 (a/b/)a/g/ | f d2 c/d/ | eA Bc |1 ed d (f/g/) :|3 ed d z |] 
+V:2
+"^2" (A/B/) | c>B AG | F2 F z |]:[K:D][M:2/4][K:treble] dc BA | G3 (A/B/) | cB AE | E>C C2 | 
+dc BA | G3 (A/B/) | c>B AG |1 F2 F z :|2 F2 F (d/e/) |: f2 (f/g/)f/e/ | 
+d"^Sista reprisen spelas  3  ggr." F2 A/B/ | c E2 F/A/ | d F2 d/e/ | f2 (f/g/)f/e/ | d F2 A/B/ | 
+cE GA |1 "^Stämförslag B.O." GF F (d/e/) :|3 GF F z |]
+

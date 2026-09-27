@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska i viston
+R:Polska
+O:Västergötland
+B:Spelmansmusik
+M:3/4
+L:1/8
+K:Dm
+"Dm"(F/E/D/^C/) D2 F2|"A7"(G/F/E/F/) A3 ^c|"Dm"{/e}(d^c) (de) (fd)|"Gm"(f/e/f/g/) "A"e4:|
+|:"Dm"(a3/2b//a//) a2 f2|"C"d(e/c/) "F"A3 F|cc BB AA|"A"(A,/^C/E/C/) "Dm"(D/F/A/F/) "A"!fermata!E2|
+"Dm"(a3/2b//a//) a2 f2|"C"d(e/c/) "F"A3 F|cc BB AA|"A"(A,/^C/E/C/) "Dm"D4:|
+

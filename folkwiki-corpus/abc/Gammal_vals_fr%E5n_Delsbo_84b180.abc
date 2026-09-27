@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:10
+T:Gammal vals från Delsbo
+S:Dells Karl
+O:Delsbo, Hälsingland
+R:Vals
+Z:Karin Helander
+B:Tredje samlingen spelmanslåtar från Hälsingland nr 10
+N:Uppteckning och andrastämma av [[Personer/Thore Härdelin den äldre]]
+N:"Efter Dells Karl."
+L:1/8
+M:3/4
+K:C
+V:1
+|: ef | g2 {a}g^f g2 | c'4 ef | g2 {a}g^f g2 |  e4 c2 | (GA)(Bc)de | 
+f4 d2 | (dc)(cB)cd | e4 ef | g2 {a}g^f g2 | c'4 ef | g2 {a}g^f g2 |  
+e4 c2 | (GA)(Bc)de | f4 d2 | (cB)(ce)dB |1 c4 :|2 c3 z Bc || [K:G]
+|: d2 {e}d^c d2 | (gf) ga b2 | b2 dd d2 | (gf) ga b2 | e2 c'bag | f4 (3 efe | 
+d2 e2 f2 || [K:C] [gB]4 ef | g2 {a}g^f g2 | c'4 ef | g2 {a}g^f g2 | e4 c2 | 
+(GA)(Bc)de | f4 d2 | (cB)(ce)dB |1 c4 Bc :|2 [cG]4 z2 |]
+V:2
+|: cd | e2 {f}e^d e2 | e2 g2 cd | e2 {f}e^d e2 | G2 c2 a2 | (D^F)(GA)Bc | 
+B2 d2 G2 | (BG)(AG)AB | G2 c2 cd | e2 {f}e^d e2 | c2 e2 cd | e2 {f}e^d e2 | 
+c4 A2 | (D^F)(GA)Bc | B2 d2 G2 | (GF)(EG)FD |1 [CE]4 :|2 [CE]3 z GA || [K:G]
+|: (dc)BA G2 | (dc)BA G2 | g2 BB B2 | (dc)BA G2 | c2 (ed)cB | (AB)(cB)AG |
+F2 A2 d2 || [K:C] [DG,]4 cd |  e2 {f}e^d e2 | c2 e2 cd | e2 {f}e^d e2 |  [cg]2 [ec]2 e2 | 
+f2 {g}fe f2 | B2 d2 G2 | (GF)(EG)FD |1 [CE]4 GA :|2 [CE]4 z2 |]
+

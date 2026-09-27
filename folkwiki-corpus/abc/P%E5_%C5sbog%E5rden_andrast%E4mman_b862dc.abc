@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:På Åsbogården (andrastämman)
+C:Jörgen Persson
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Jörgen Persson"
+L:1/8
+M:2/4
+K:G
+V:2
+"^2" (3(B/c/B/) |: AB cB | dB BG | (A/^G/)A/B/ cB | AG FE | DA,/D/ FD/F/ | 
+F3 D | DB,/D/ GD/G/ | B3 (3(B/c/B/) | AB cB | dB BG | (A/^G/)A/B/ cB | AG FE | 
+DA,/D/ FD/F/ | F3 c | d>A (F/A/)F/D/ |1,8 B,B, B, (3(B/c/B/) :|2 B,B, B, z |:
+[K:C] c>G EG | (c/B/)c/d/ cE | d>A ^FA | (d/c/)d/e/ dA | 
+g>d Bd | (g/^f/)g/a/ gd | (B/A/)B/c/ Bd | (c/B/)c/d/ cE | 
+c>G EG | (c/B/)c/d/ cE | d>A ^FA | (d/c/)d/e/ dA | 
+g>d Bd | (g/^f/)g/a/ gd | Bc/B/ GD |1 EG E z :|2,8 EG E (3(B/c/B/) |] c/G/ |: 
+[K:C] EE CE | GE cd/c/ | A^F DF | A^F dd/c/ | Bc dd/c/ | BA GG/D/ | 
+B,D ^FB | (c/d/)c/G/ Ec/G/ | EE CE | GE cd/c/ | A^F DF | A^F dd/c/ | 
+Bc dd/c/ | BA GG/D/ | B,D/^F/ B,D/F/ |1 EG E c/G/ :|2 "^B.O." EG E z |]
+

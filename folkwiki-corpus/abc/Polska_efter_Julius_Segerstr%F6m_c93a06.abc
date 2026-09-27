@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Julius Segerström
+S:Julius Segerström
+O:Ål, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+I:linebreak $
+K:Am
+V:1
+|:"^1" E2 (A>B) c>e | a2 (gf) e2- | e2 (d>e) c2 | (3cdc (B^G) E2- | 
+E2 A>B c>e | a2 gf e2- | e2 d>e c>c | B<^G A4 :: 
+E2 A>B c2 | (3cdc (B>^G) E>G | A2 c>d e>g | f<d e4 :| 
+(3aba g2 e2- | e2 de c2 | (3cdc (B>^G) E>G | B>c (Ac) e>e | 
+ab/a/ g2 e2- | e2 de c2 | (3cdc (B>^G) E>G | B<c A4 |] 
+V:2
+|:"^2" C2 E>^G A>c | f2 ed c2- | c2 B>c A2 | (3ABA (^GE) B,2- | 
+B,2 E>^G A>c | f2 ed c2- | c2 B>c A>A | ^G<D C4 :: 
+C2 E>^G A2 | (3ABA (^G>E) B,>E | C2 A>B c>e | d<B ^G4 :| 
+(3fgf e2 c2- | c2 Bc A2 | (3ABA (^G>E) B,>E | ^G>A (EA) c>c | 
+fg/f/ e2 c2- | c2 Bc A2 | (3ABA (^G>E) B,>E | "^Stämförslag B.O." ^G<A C4 |]
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Järvsö-polka
+O:Järvsö, Hälsingland
+R:Polka
+C:Pelle Engman
+Z:[[Personer/Bengt Ohlson]]
+Z:"Pelle Engman"
+N:Sannolikt dragspelaren Pelle Engman, aktiv på första halvan av 1900-talet
+L:1/8
+M:2/4
+K:F
+V:1
+|:"^1" FA/c/ dc | AF/A/ cf | ag/a/ be | gf/g/ af | FA/c/ dc | 
+AF/A/ cf | ag/a/ be | gf/f/ f2 ::[K:C] GA/G/ FG/F/ | EC/E/ Gc |
+ ed/e/ fd | dc/d/ ec | GA/G/ FG/F/ | EC/E/ Gc | ed/e/ f_B | dc c2 ::
+[K:Bb] B,D/D/ DF/F/ | FB/B/ Bd | CE/E/ EG/G/ | Gc/c/ ce | F>A cf | 
+a4 | F>A ce | dB FD | B,D/D/ DF/F/ | FB/B/ Bd | CE/E/ EG/G/ | 
+Gc/c/ ce | F>A cf | a3 a/g/ | fa/g/ fg/a/ | bf b2 :| 
+V:2
+|:"^2" "F" CF/A/ BA | FC/F/ Ac | "C7"  cB/c/ dc | "F"BA/B/ cA | CF/A/ BA | 
+FC/F/ Ac |"C7" cB/c/ dc | "F" BA/A/ A2 ::[K:C] "C" EF/E/ DE/D/ | CG,/C/ EG |
+"G7" c_B/c/ dB | "C" FE/F/ GE | EF/E/ DE/D/ | CG,/C/ EG | "G7" c_B/c/ dF |"C" FE E2 ::
+[K:Bb]"Bb" DF/F/ FB,/B,/ | B,D/D/ DF |"Cm" EG/G/ GC/C/ | CE/E/ EG | "G7" A,>C FA | 
+c>A FE | C>E FA | "Bb" BF DB, | DF/F/ FB,/B,/ | B,D/D/ DF |"Cm" EG/G/ GC/C/ | 
+CE/E/ EG | "F7" A,>C FA | c3 c/B/ | Ac/B/ "^B.O."AB/c/ |"Bb" d"F7"B "Bb" d2 :|
+

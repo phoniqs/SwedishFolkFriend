@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1248
+T:Polska efter Söderholm
+T:(SvL Dalarna 1248)
+R:Polska
+O:Bingsjö, Dalarna
+S:Hjort Anders Olsson
+S:Söderholm
+B:Svenska Låtar Dalarna
+N:Drillarna ska vara 'c{dc}', men är ändrade för att fungera bättre i MIDI.
+M:3/4
+L:1/8
+K:A
+Q:132
+{/a}v(g/a/)b/a/ fa/f/ d(f|e)a/e/ ce/c/ [Ae]Tc|B/c/d/B/ GB/G/ E(G|A)B cd e(a|
+g/a/)b/a/ fa/f/ df|ea/e/ ce/c/ [Ae](Tc|B/)c/d/B/ GB/G/ EG/B/|{AB}A2 A,2A,2:|
+|:CE B,E A,2|B>(c d/)c/d/f/ e2|B>c df/d/ ce/c/|BA/G/ AA/E/ [EC-]2|
+CE B,E A,2|B>(c d/)c/d/f/ e2|B>c df/d/ ce/c/|{ED}EG/B/ [AA]4:|
+

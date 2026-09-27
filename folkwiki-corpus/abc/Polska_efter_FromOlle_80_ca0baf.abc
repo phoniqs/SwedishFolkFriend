@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:110
+T:Polska efter From-Olle (80)
+O:Järvsö, Hälsingland
+R:Polska
+S:From-Olle
+Z:Hudiksvalls spelmanslag 110
+Z:2018-02-03
+L:1/8
+M:3/4
+K:D
+V:1
+"D" D>F Ad fa |"G" G>G"D" FD/F/"A7" E2 |"D" D>F Ad fa |"Em" g>g"D" fd/f/"A7" e2 | 
+"Em" e>f gf ed |"A7" c>B Ac ea |"D" d>d"A7" cB/c/"G" dB |"A" BA/^G/ A4 ::
+"D" D>F Ad cd | "G" B>A G/F/E/F/ G2 |"Em" E>G Bd ce |"D" d>B AG FE |
+"D" D>F Ad fa | "G" b/a/g/f/ e2 d2 | "A7" c/B/A/G/ F2 E2 |"A7" F/E/D/C/"D" D4 ::
+"D" D>E FG AB/c/ |"D" d>e f/e/f/g/ a2 | "Em" ee/f/ gg/a/ gf |"A7" e/f/e/d/ c/d/c/B/ A/B/A/F/ |
+"D" D>F Ad fa |"G" b/a/g/f/ e2 d2 | "A7" c/B/A/G/ F2 E2 |"A7" F/E/D/C/"D" D4 :| 
+V:2
+A,>D FA df | D>D DB,/D/ C2 | A,>D FA df | e>e dA/d/ c2 | B>d ed BB | A>G EA ce | A>A AG/A/ BG | 
+GE/^D/ E4 :: A,>D FA AA | G>F E/D/C/D/ D2 | B,>E GB Ac | A>G FE DC | A,>D FA df | g/f/e/d/ c2 B2 | 
+A/G/F/E/ D2 C2 | D/C/B,/A,/ A,4 :: A,>C DE FG/A/ | A>c d/c/d/e/ f2 | BB/d/ ee/f/ ed | 
+c/d/c/B/ A/B/A/G/ F/G/F/D/ | A,>D FA df | g/f/e/d/ c2 B2 | A/G/F/E/ D2 C2 | D/C/B,/A,/ A,4 :|
+

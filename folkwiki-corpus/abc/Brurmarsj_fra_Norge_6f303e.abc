@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Brurmarsj fra Norge
+S:Torger Olstad
+O:Norge
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Frå Torger Olstads notebok"
+L:1/8
+M:4/4
+K:D
+V:1
+"^1" (3ABc |: d2 d>d d>e fd | (3fec A>A A2 fd | B2 ge d2 (3fec |1 
+d2 d>d d2 (3ABc :|2 d2 d>d d3 c/d/ |:[K:A] (3ece (3fdf (3ece a2 | 
+(3ece (3fdf (3ece a2 | (3agf e>^d e>f g>e |1 a2 a>a a3 c/d/ :|2 
+a2 a3/2 a/ a3 e/f/ |:[K:D] gb/g/ eg/e/ ce/c/ AA | d2 (3fdf a2 g/f/e/f/ | 
+gb/g/ eg/e/ ce/c/ AA | d2 (3fdf (3afa d'2 | (3afa (3bgb (3afa d'2 | 
+(3afa (3bag f2 (3gec |1 d2 d>d d3 e/f/ :|2 d2 d>d d2 z2 |] 
+V:2
+"^2" (3AGE |: F2 F>F F>G AF | (3AGE C>C C2 AF | G2 BG F2 (3AGE |1 
+F2 F>F F2 (3AGE :|2 F2 F>F F3 A/B/ |:[K:A] (3cAc (3dAd (3cAc e2 | 
+(3cAc (3dAd (3cAc e2 | (3cBA G>F G>A B>G |1 c2 c>c c3 A/B/ :|2 
+c2 c>c c3 c/d/ |:[K:D] eg/e/ ce/c/ Ac/A/ EE | F2 (3AFA d2 e/d/c/d/ | 
+eg/e/ ce/c/ Ac/A/ EE | F2 (3AFA (3dAd f2 | (3dAd (3ece (3dAd f2 | 
+(3dAd (3edc A2 (3cAG |1 F2 F>F F3 c/d/ :|2"^Stämförslag B.O." F2 F>F F2 z2 |]
+

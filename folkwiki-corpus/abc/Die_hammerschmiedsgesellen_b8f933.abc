@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Die hammerschmiedsgesellen
+R:Dans
+O:Tyskland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Utländska danser. Tyskland."
+L:1/4
+M:3/4
+K:A
+V:1
+"^1""^Förspel" E/E/ | A G A | E F C | D D E | G3 | D D E | F2 G | (A3 | A) z |] 
+[K:A][M:3/4][K:treble]"^Dans" E/E/ |: A G A | E F C | D D E | G3 | D D E | G3 | C C E | 
+A2 E/E/ | A G A | E F C | D D E | G3 | D D E | F2 G | (A3 | A) z E | 
+F2 d | d2 d | c c c | A2 A | B B B | G2 E | c c c | A2 A | F2 d | 
+d2 d | c c c | A2 A | B B B | G2 G |1 (A3 | A) z E/E/ :|2 (A3 | A) z z |] 
+V:2
+"^2" C/C/ | E D E | C D A, | B, B, C | E3 | B, B, C | D2 E | ([CE]3 | [CE]) z |] 
+[K:A][M:3/4][K:treble] C/C/ |: E D E | C D A, | B, B, C | E3 | B, B, C | E3 | A, A, C | E2 C/C/ | 
+E D E | C D A, | B, B, C | E3 | B, B, C | D2 E | ([CE]3 | [CE]) z C | D2 F | F2 F | A A A | E2 E | 
+G G G | "^Spelas enl. önskan 3- 6- eller 9 ggr." E2 D | A A A | E2 E | D2 F | F2 F | A A A | E2 E | 
+G G G | E2 D |1 ([CE]3 | [CE]) z C/C/ :|2 "^Stämförslag B.O." ([CE]3 | [CE]) z z |]
+

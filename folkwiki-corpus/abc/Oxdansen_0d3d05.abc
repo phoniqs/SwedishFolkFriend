@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:78
+T:Oxdansen
+T:(Sv Folkdanser Del 1)
+R:Långdans
+O:Karlstad, Värmland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 78. Oxdans"
+Z:http://runeberg.org/folkdans/besk/0076.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 78
+L:1/8
+M:2/4
+K:C
+V:1
+"^1""^Förspel" e/g/ | fd BG | cc ce/g/ | fd BG | c3 z |] 
+[M:2/4][K:treble]"^Dans" G/c/ |: ef/e/ dc | d3 d/e/ | fg/f/ ed | c3 G/c/ | ef/e/ dc | 
+d3 d/e/ | fg/f/ ed | c3 c/e/ | ga/g/ fe | fg af | 
+ef/e/ dB | ce Gc/e/ | ga/g/ fe | fg af | ef/e/ dB | 
+c3 e/g/ |"^Spelas 7 ggr. Sista turen med örfil."  fd BG | cc ce/g/ | fd BG | g3 e/g/ | 
+fd BG | cc ce/g/ | fd BG |1 c3 G/c/ :|7 c3 z |] 
+V:2
+"^2" c/e/ | "G7"dB GF |"C" EE Ec/e/ | "G7"dB GF |"C" E3 z |][M:2/4][K:treble] E/G/ |:
+"C" cd/c/ BA | "G7" B3 B/c/ | de/d/ cG |"C" E3 E/G/ | cd/c/ BA |
+"G7" B3 B/c/ | de/d/ cG |"C" E3 G/c/ | "C" ef/e/ dc |"Dm" de fd |
+"G7" cd/c/ BF |"C" Ec EG/c/ | ef/e/ dc |"Dm" de fd |"G7" cd/c/ BF | 
+"C" E3 c/e/ |"G7" dB GF |"C" EE Ec/e/ |"G7"  dB GF |"C" e3 c/e/ | 
+"G7" dB GF   |"C" EE Ec/e/ |"G7" d"^Stämförslag B.O."B GF |1"C" E3 E/G/ :|7 "C" E3 z |]
+

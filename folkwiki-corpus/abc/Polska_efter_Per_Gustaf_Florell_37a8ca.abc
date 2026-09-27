@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Per Gustaf Florell
+S:Efter Per Gustaf Florell
+O:Nås, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" (e/ |: f>)(e d>)(^c A>)e | f>(e d^c/d/) e>g | f>(e d>)(e f>)a |1 (gf/g/) a2 A2 :|2 
+(gf/g/) a5/2 ^c/ |: d>e f2 a2 | a>g e>(g f>)e | d>e f2 a2 |
+ a>g e>(g f>)e | d>^c d>(e f>)g |1 a<^c d5/2 c/ :|2 a<^c d5/2 z/ |] 
+V:2
+"^2" ^c/ |: d>(^c A>)(G E>)c | d>^c =BA/B/ c>e | d>A F>(A d>)f |1 ed/e/ ^c2 E2 :|2 
+ed/e/ ^c5/2 E/ |: F>A d2 f2 | f>e ^c>(e d>)A | F>G A2 ^c2 |
+ ^c>=B G>(B A>)G | F>E F>(G A>)"^Stämförslag B.O."=B |1 ^c<A [FA]5/2 E/ :|2 ^c<A [FA]5/2 z/ |]
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Pål-Eriks polska
+S:Timas Hans Hansson
+O:Ore, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:Gm
+V:1
+"^1""^\"Pål-Eriks polska\"" (D |: G>)(B d>)(cT B>)A | G>(BT d)c/d/ g>g | T f>(e d/e/)d/c/T B>A |T (c>B) (tGt^F) D>D | 
+G>(B d)d/c/T B>A | G>(B d)c/d/ g>g |T f>(e d/e/)d/c/T BA/B/ |1 c^F G3 D :|2 c^F G3 (A |: 
+B>)(cT B)A/B/ g>g |T f>(d e2)T c>A | F2{GF=E} FA/c/ f(g/f/) | ed/c/ d3 (A | 
+B)c/B/T AG/^F/ GG/A/ |T BA/G/ (G/^F/)A/F/ D2 |T g^f/g/ d2({A} (3B/A/B/) (d/B/) |1 T AG/^F/ G3 A :|2"^Stämförslag B.O."T AG/^F/ G3 z |] 
+V:2
+"^2" (B, |: D>)(G B>)(A G>)^F | D>(G B)A/B/ e>e | d>(c B/c/)B/A/ G>^F | (A>G) (tDtC) A,>B, | 
+D>(G B)B/A/ G>^F | D>(G B)A/B/ e>e | d>(c B/c/)B/A/ G^F/G/ |1 AD [B,D]3 B, :|2 AD [B,D]3 (C |: 
+D2) (D>G) B>B | d>(B c2) A>F | C2 CF/A/ d(e/d/) | cB/A/ ^F3 (F | 
+G)A/G/ ^FD/C/ B,D/F/ | GD/B,/ (B,/A,/)C/A,/ A,2 | dc/d/ B2 G(B/G/) |1 ^FD/C/ [B,D]3 C :|2 ^FD/C/ [B,D]3 z |]
+

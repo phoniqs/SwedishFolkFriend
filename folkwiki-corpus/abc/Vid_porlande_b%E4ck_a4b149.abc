@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Vid porlande bäck
+C:Pelle Schenell
+O:Gnarp, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+Q:1/4=89
+M:3/4
+K:Gm
+V:1
+|:"^1" g4 d8 |({c} Bd)BG (Ac)A"^Polska"^F G4 | (D^F)Ad (^fa)fd (c2A2) | B2>A2 (GA)Bc d4 |
+ g4 d8 | ({c} Bd)BG (Ac)A^F G4 | (D^F)Ad (^fa)fd c2A2 | (BA)G^F G6 z2 :: 
+(d2>B2) (FD)FB d2B2 | c2>A2 (FA)cA B4 | (d2>B2) (GD)GB d2B2 | A2>^F2 (DF)Ad D4 | 
+(d2>B2) (FD)FB d2B2 | c2>A2 (FA)cA B4 | (G^F)GA (BA)Bc d2g2 | (Ac)BA G6 z2 :: 
+d2=e^f g2ab ^c2b2 | a2>g2 (g^f)af d4 | c2de A2Bc d2B2 | A2G2 ^F2AF D4 | 
+d2=e^f g2ab a4 | c2de g2eg c4 | d2Bd B2GB (d2B2) | A2d^f [Bg]6 z2 :| 
+V:2
+|:"^2" (d2B2) G8 | (DG)DB, (CE)CA, B,4 | (A,C)D^F (DF)AF (D2C2) | D2>C2 (B,C)DE [G,D]4 | 
+(d2B2) G8 | (DG)DB, (CE)CA, B,4 | (A,C)D^F (DF)AF D2C2 | (DC)B,A, B,6 z2 :: 
+(B2>F2) (DB,)DF F2D2 | E4 E2(FE) D4 | (G2>D2) (B,G,)B,D G2D2 | D4 (^FD)FA DCB,A, | 
+(B,2>F2) (DB,)DF F2D2 | E4 E2FE D4 | (B,A,)B,C (DC)DE G2B2 | C-EDC B,6 z2 :: 
+^F2_dc B2c=d =E2G2 | c2>B2 (BA)cA ^F4 | A2Bc ^F2GA G2D2 | C2B,2 A,2CA, [A,C]4 |
+ ^F2_dc B2c=d [Dc]4 | E2Gc e2ce G2EC | B,2G,B, D2B,D (G2D2) | D2BA [Gd]6 z2 :|
+

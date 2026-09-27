@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:1
+T:Höglandsschottis
+R:Polska
+C:Jan Ekedahl
+O:Gotland
+D:Gunnfjauns kapell, "Naudljaus" (1995)
+M:2/4
+L:1/16
+K:Dm
+"A"A2a2 "Gm"gfed|"A"A2g2 "Dm"f2ed|"A"^cdec "Dm"defd|"E"e^f^ge "A"a2A2|
+"A"A2a2 "Gm"gfed|"A"A2g2 "Dm"f2ed|"A"^cdec "Dm"defd|1 "A"e2a2 "Dm"d4:|2 "A"e2a2 "Dm"d2^cd|
+[K:D]|:"A"e3e "D"dcBA|"G"defd "A"e2fg|"D"f2ed "G"d2BG|"Em"d2Bd "A"e2A2|
+"A"e3e "D"dcBA|"G"defd "A"e2fg|"D"f2ed "G"d2BG|"Em"d2BA "A"A4:|
+

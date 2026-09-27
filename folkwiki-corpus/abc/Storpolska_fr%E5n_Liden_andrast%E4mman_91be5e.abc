@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Storpolska från Liden (andrastämman)
+S:Nils Olof Höglund
+O:Liden, Medelpad
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Eft. Nils Olof Höglund (1859-1952), Järkvissle.
+Z:Uppt. Helmer Lidhammar
+Z:Arr. Sven Englund
+L:1/16
+M:3/4
+K:Dm
+|:"^2" A,2>^C2 D2E2 F2(ED) | E2G2 [FA]4 [A,F]4 | F2AF (G2B2) A2d2 | (e2d2) [^ce]8 :: 
+A,2>(=B,2 C2)B,C D2^G,2 | A,2CE D2F2 [CE]4 | (^G,=B,)DF E2^GE F2A2 |1 [^G=B]4 [GB]8 :|2 [^G=B]4 [GB]8 |:
+ [Ae]2>B2 ^c2e2 d2A2 | G2E2 [^CE]4 [CE]4 | E2>F2 G2B2 A2G2 | E2GE ^C2DE F2E2 | 
+D2EF G2FG A2B2 | A2G2 [FA]4 (FE)FG | A2cA G2BG F2(AF) | (E2G2) [A,F]6 z2 :: 
+(A,D)FD (A,D)(FD) (A,D)(FD) | (A,^C)EC (A,^C)(EC) (A,^C)(EC) :| 
+A,2>^C2 D2E2 F2A2 | (G2E2) [A,F]4 A,2^C2 | [A,D]4 [A,G]4 [A,F]4 | [G,E]4 [A,F]6 z2 |
+ ([A,F]4 [DA]4) (d2A2) | ([GB]4 [^G=B]4) ^c4 | ([Fd]4 [Af]4) a4 | ([Bg]4 [=B^g]4) [^ca]4 |
+ (fg)ag f2ed ^cAGF | E2GE F2ED ^C2DE | ([A,F]4 [B,G]4) [=B,^G]4 | [^CA]4 [A,F]8 |] 
+

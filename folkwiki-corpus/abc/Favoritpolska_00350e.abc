@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:57
+T:Favoritpolska
+T:Polska efter Jons-Axel Nr 57
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polska
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 57. Polska. Favorit-polska"
+L:1/8
+Q:1/4=108
+M:3/4
+U:t=tenuto
+K:D
+V:1
+"^1"u a |:v (b>a) (f>d) a>f | (a>f) d3u f | (e>f) (g>A) B>c |1 d>c (d>f) a2 :|2 d2 d2 z2 |: 
+v A2 (tB2 tc2) |{e} d>c (d>e) f2 |({g} f>e) (c>e) g>f | d2 f>f a2 | 
+A2 (tB2 tc2) |{e} d>c (d>e) f2 |({g} f>e) (c>e) g>f | d2 d'2 z2 :| 
+V:2
+"^2" f |: "D" (g>f) (d>A) f>d | (f>d) A3 d | "A7" (c>B) (A>F) G>E |1"D" F>E (F>A) d2 :|2 "D" F2 F2 z2 |: 
+"A7" A2 (t^G2 t=G2) |"D" F>^E (F>A) d2 |"A7" (d>c) (A>c) c>A |"D" F2 d>d f2 | 
+"A7" A2 (t^G2 t=G2) |"D" F>E (F>A) d2 |"A7" (d>c) (A>c) c>A | "D" F2 "^Stämförslag B.O." [Fd]2 z2 :|
+

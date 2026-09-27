@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:106
+T:Vals efter Carl H Erlandsson
+T:(SvL Uppland 106)
+B:Svenska Låtar Uppland Nr 106
+R:Vals
+O:Dalarna
+S:Carl Herman Erlandsson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Jmf. Sv.L. Uppland nr. 106."
+Z:"Trad. Ingvar Norman m. fl. i S. Dalarna."
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1"v a3 ^gbg | (a3 ^g) e2 | (gf) (df) ag |1 e2 (c2 d2) :|2 e6 |:
+v e3 gfd | (3(fgf) (ec) ec | (ed) (BE) ^GB | (A^G) (AB) cd |
+ e3 gfd | (3(fgf) (ec) ec | (ed) (BE) ^GB | A6 :| 
+V:2
+|:"^2""Am" c4 B2 | c4 A2 | "Dm" (BA) (FA) cB |1"Am" A2 (A2 B2) :|2"E7" ^G6 |:
+"Am" c4"Dm" B2 | "Am" A4 A2 |"E7" (^GE) (DB,) DE | "Am" (CB,) (CE) AB | 
+"Am" c4"Dm" B2 |"Am" A4  A2 |"E7" (^GE) "^Stämförslag B.O." (DB,) DE |"Am"  C6 :|
+

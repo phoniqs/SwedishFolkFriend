@@ -1,0 +1,35 @@
+%%abc-charset utf-8
+
+X:1
+T:Back-Ols Eriks hambo
+C:Lars Erik Jansson
+O:Upplands Väsby, Uppland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Lars Erik Jansson, Upplands Väsby."
+Z:"Uppt. från kassett."
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" D2 (FA) de | f2 (fe) dc | B2 (BA/B/) d>B | B2 A4 | G2 (EG) B>G | 
+F2 (DF) A>F | (A,^C) (EA) ^ce | d2 (dA) F>E | D2 (FA) de | f2 (fe) dc | 
+B2 (BA/B/) d>B | B2 A4 | G2 (EG) B>G | F2 (DF) A>D | (A,^C) (EA) ^ce | d2 d4 :: 
+(c=B/c/) (ed) c_B | (GE) (CD) CB, | (A,C) (FA) dc | (cA) F4 | (B,C) (EG) cB | 
+(BG) (ED) CB, | (A,C) (FA) cf | (ag) (fe) d>^c | (c=B/c/) (ed) c_B | (GE) (CD) CB, | 
+(A,C) (FA) cB | (AB) AG F2 | B,2 (DF) Bd | (cA) (fA) dc | (=Bc) (_BE) AG | F2 F4 ::
+[K:Bb] (f=e/f/) (bf) dB | (FD) (B,D) GF | (EG,) (CE) Gc | (ed) c2 c>B | (AF) (Ac) fg | 
+(ag) (fc) Ac | (f=e) (fg) f_e | (ed) d4 | (f=e/f/) (bf) dB | (FD) (B,D) GF | 
+(EG,) (CE) Gc | (ed) c2 c>B | (AF) (Ac) fg | (ag) f3u e | (ed) (cB) A>c | B2 B4 :|[K:F] |] 
+V:2
+|:"^2""Dm" A,2 (DF) A^c | d2 (dc) BA | "Gm"G2 (G^F/G/) B>G | "Dm"G2 F4 | "A7" E2 (^CE) G>E | "Dm" D2 (A,D) F>D | 
+"A7" (EA,) (^CE) GA |"Dm" F2 (FE) D>^C | A,2 (DF) A^c | d2 (dc) BA |"Gm" G2 (G^F/G/) B>G | 
+"Dm" G2 F4 |"A7" E2 (^CE) G>E |"Dm" D2 (A,D) F>D |"A7" (EA,) (^CE) AG |"Dm" F2 F4 :: 
+"C7" E2 (GF) ED | C2 (G,B,) A,G, |"F" A,2 (CF) BA | (AF) A,4 |"C7" (G,A,) (B,C) ED | 
+(GE) (CB,) A,G, |"F" (FA,) (CF) Ac | (cB) (AG) F>F |"C7" E2 (GF) ED | C2 (G,B,) A,G, | 
+"F" A,2 (CF) AG | F2 FC A,2 |"Gm" G,2 (B,D) GB | "F" (AF) (AF) BA |"C7" G2 (EG,) CB, | 
+"F" A,2 A,4 ::[K:Bb]"Bb" d2 (fd) BF | D2 (FD) ED |"Cm" C2 (G,C) EG | (GF) E2 E>D | 
+"F7" C2 (CF) AB | (cB) (AF) EF | A2 (AB) AG |"Bb" (GF) F4 | d2 (fd) BF | 
+D2"^Stämförslag B.O." (FD) ED |"Cm" C2 (G,C) EG | (GF) E2 E>D | 
+"F7" C2 (CF) AB | (cB) A3 G | F2 (ED) C>E |"Bb" D2 D4 :|[K:F] |]
+

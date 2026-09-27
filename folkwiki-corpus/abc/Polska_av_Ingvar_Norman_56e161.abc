@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Ingvar Norman
+C:Ingvar Norman
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (48) av Ingvar Norman, Säter."
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1"v a2 (ab) g>e | (fe) (fg) e>g | a2 (fg/f/) e>^c | df (e^c) A2 |v 
+a2 (ab) g>e | (fe) (fg) e>g | a2 (f>e) d>e | ^c2 d3 z ::
+v d2 (de) ^c>d | (ef) (de) f>g | a2 (fg/f/) e>^c | df (e^c) A2 |
+v d2 (de) ^c>d | (ef) (de) f>g | a2 (fg/f/) e>d | ^c2 d3 z :| 
+V:2
+|:"^2"v f2 (fg) e>^c | (d^c) (de) c>e | f2 d2 ^c>A | FA (GE) ^C2 |
+v f2 (fg) e>^c | (d^c) (de) c>B | ^c2 A2 F>G | E2 [FA]3 z ::
+v F2 (FG) E>F | (GA) (FA) d>e | f2 d2 ^c>A | Fd (^cA) E2 |
+v F2 (FG) E>F | (GA) (FG) A>B |"^Bearb. o. Stämförslag B.O." ^c2 A2 G>F | E2 [FA]3 z :|
+

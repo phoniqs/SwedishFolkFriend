@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:2
+T:Öfver Stock och Sten
+T:efter Nils Andersson
+R:Galopp
+S:Efter Nils Andersson, Elmhult
+O:Elmhult, Skåne
+B:ur FMK M55g
+Z:ABC-transkribering av Åke Persson
+M:2/4
+L:1/8
+Q:1/4=150
+K:D
+d |: d>B G>B | D>G B>d | d>B G>B | D>G B>d | d2 A>d | d2 A>d | d2 A>d | B>A G>d |
+d>B G>B | D>GB>d | d>B G>B | D>G B>d | d2 A>f | f2 d>a | a2 e>f | d2 z2 ::
+[K:G] c2 zB | ABcd | e2 zd | defg | gz fg | fz ef | ez de | d2 zz/B/ | 
+c2 zB | ABcd | e2 zd | defg | g>z Be | d>z AB | G>B d>B | G2 z2 ::
+"Trio" bz gz | dz Bz | Aeee | ez zz/c/ | Afff | ffed | gbge | dz zz/d/ |
+bz gz | dz Bz | Geee | ez zz/c/ | Afff | ffed | gz bz | gz x2 :|
+

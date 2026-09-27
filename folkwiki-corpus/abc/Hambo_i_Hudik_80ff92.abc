@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:227
+T:Hambo i Hudik
+O:Hudiksvall, Hälsingland
+R:Hambo
+C:Urban Linderdahl
+Z:Hudiksvalls spelmanslag 227
+Z:2016-06-05
+L:1/8
+M:3/4
+K:G
+V:1
+"G"v G2 (G>B) d>ug |"G"v b2 b>a g2 |"G"v G2 (G>B) d>B |"D7"v c2u A4 | "D7"v F2 (F>A) d>f |
+"D7"v a2 a>g f2 |"D7"v d2 (d>e) d>c |"D7"v c2"G"u B4 | "G"v G2 (G>B) d>g |"G"v b2 b>au g2 |
+"G"v G2 (G>B) d>B |"C"v c2u c4 | "D7"v d2 (d>e) f>g |"D7"v a2 (a>g) f>e |"D7"v (3(ded)u (^c>d) e>f | "G"v g2u g4 ::
+"C"v g2 (g>e) c>e |"G"v g2 d>B G2 |"D7"v d2 (c>A) F>A | "G"v G2 G>B d2 |
+"C"v g2 (g>e) c>e |"G"v g2 d>B G2 |"D7"v d2 (c>A) F>A | "G"v G2u G4 :| 
+V:2
+B,2 (B,>D) G>B | [dg]2 d>c B2 | B,2 (B,>D) G>D | F2 F4 | D2 (D>F) A>c | f2 f>e d2 | F2 (F>G) F>D | 
+F2 G4 | B,2 (B,>D) G>B | [dg]2 d>c B2 | B,2 (B,>D) G>D | E2 E4 | A2 (A>B) c>d | f2 (f>e) d>c | 
+(3(ABA) (^G>A) c>c | B2 B4 :: e2 (e>c) G>c | d2 B>G D2 | F2 (A>F) D>[A,F] | B,2 B,>D G2 | 
+e2 (e>c) G>c | d2 B>G D2 | F2 (A>F) D>C | B,2 B,4 :|
+

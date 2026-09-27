@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Dal-Jerks Gånglåt
+S:Dal Jerk
+S:Perols Gudmund
+O:Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Perols Gudmund (allm. version)."
+L:1/16
+M:2/4
+K:D
+V:1
+"^1" (Ad) |: (f2>a2) (ab)a^g | a2ba (gf)ec | (d2>f2) (fg)fe | f2gf (ed)cB | (Bd)BG (Bd)BG | 
+B2gf (ed)cB | (B2A2) (DF)AF | (DF)AF (AB)AG | (FD)FA d2ef | g2ge c2Ac |1 d6 (Ad) :|2  d6 D2 |: 
+(DF)AF (DF)AF | A2BA (GF)ED | (D2>C2) (CD)CB, | C4 (A,C)EF | G2>B2 B2B2 | B4 (A2>E2) | 
+(E2>D2) (DE)DC |1 D6 D2 :|2 D6 (Ad) |: (f2a2) (ab)a^g | a2ba (gf)ed | (d2>c2) (cd)cB | 
+c4 (Ac)ef | g2>b2 b2b2 | b4 (a2>g2) | (g2>f2) (fg)fe | (fd)AF (DF)Ad | (f2a2) (ab)a^g | 
+a2ba (gf)ed | (c2>B2) (Bd)BG | B6 (AG) | F2A2 d2f2 | (ab)af g2ec | d4 (cd)ec |1 d6 (Ad) :|2 d6 z2 |] 
+V:2
+"^2" (FA) |: "D"(d2>f2) (fg)fe | f2gf (ed)cA | (F2>d2) (de)dc | d2ed (cB)AG | "G" (GB)GD (GB)GD | 
+G2ed (cB)AG | "D"(G2F2) (A,D)FD | (A,D)FD (FG)FE | (DA,)DF F2Ad |"A7" e2ec A2EG |1 "D" F6 (FA) :|2 "D" F6 A,2 |:
+"D" (A,D)FD (A,D)FD | F2GF (ED)CB, |"A7" (B,2>A,2) (A,B,)A,G, | A,4 (EA,)CD | E2>G2 G2G2 | G4 (F2>C2) |
+"D" (C2>A,2) (A,B,)A,G, |1"D" A,6 A,2 :|2"D" A,6 (FA) |: "D" (d2f2) (fg)fe | f2gf (ed)cB |
+"A7" (B2>A2) (AB)AG | A4 (EA)cd | e2>g2 g2g2 | g4 (f2>e2) | "D" (e2>d2) (de)dc | (dA)FD (A,D)FA | 
+(d2f2) (fg)fe | "^Stämförslag B.O."  f2gf (ed)cB | "G" (A2>G2) (GB)GD | G6 (FE) | "D" D2F2 A2d2 | "A7" (fg)fd e2cA | "D"F4 "A7" (EF)GE |1 "D" F6 (FA) :|2 "D" F6 z2 |]
+

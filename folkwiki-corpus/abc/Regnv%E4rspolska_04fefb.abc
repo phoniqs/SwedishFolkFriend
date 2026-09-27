@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Regnvärspolska
+O:Ilsbo, Hälsingland
+R:Polska
+C:Ingemar Lundberg
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. o. Arr.  Ingemar Lundberg, Ilsbo."
+L:1/16
+M:3/4
+K:Bb
+V:1
+|:"^1" B2AG ^F2G2 A2>B2 | c2dc B2AG A2Bc | d2>d2 B2d2 f2>d2 | 
+c2Ac d4 [Dd]4 | B2AG ^F2G2 A2>B2 | c2dc B2AG A2Bc | 
+d2ed c2A2 B2G2 |1 A2G^F G8 :|2 A2G^F G6 G=B |: [K:G] d4 gagf g2A2 | 
+c2>c2 B2dB G2AB | c2ec B2dB c2>A2 | GFEF G2>D2 B2c2 | d4 gagf g2A2 | 
+c2>c2 B2dB G2A2 | c2ec B2dB c2>A2 |1 GFEF G6 GB :|2 GFEF G8 |] 
+V:2
+|:"^2" G2^FD C2D2 F2>G2 | A2BA G2^F=E F2GA | B2>B2 F2B2 d2>B2 | A2^FD [A,F]4 [CF]4 | 
+G2^FD C2D2 F2>G2 | A2BA G2^F=E F2GA | B2cB A2^F2 G2D2 |1 ^F2DC B,8 :| ^F2DC B,6 D2 |: 
+[K:G] G4 BcBA B2E2 | A2>A2 G2BG D2G2 | E2AE D2GD F2>D2 | DCA,C B,2>G,2 G2A2 | G4 BcBA B2E2 | 
+A2>A2 G2BG D2G2 | E2AE D2GD F2>D2 |1 DCA,C B,6 B,D :|2 DCA,C B,8 |]
+

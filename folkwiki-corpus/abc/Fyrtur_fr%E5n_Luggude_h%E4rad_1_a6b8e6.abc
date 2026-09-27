@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:21
+T:Fyrtur från Luggude härad 1
+T:(Sv Folkdanser Del 1)
+O:Luggude härad, Skåne
+R:Fyrtur
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 21. Fyrtur från Luggede härad 1"
+Z:http://runeberg.org/folkdans/besk/0162.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 21
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (fa)gf (eg)fe | d2d2 d2 z2 |: [K:G][M:2/4][K:treble]"^Dans"(dB)GB (dB)GB | 
+d2g2 g4 | (dB)GB (dB)GB | B2A2 A4 |  (dB)GB (dB)GB | 
+d2g2 g4 |(fa)gf (eg)fe |"^Spelas 6 ggr. m. repriser." d2d2 d4 ::
+[K:D] f2A2 (fa)gf | e2A2 (eg)fe | f2A2 (fa)gf | (ed)cB A4 | 
+f2A2 (fa)gf | e2A2 (eg)fe | (fa)gf (eg)fe | d2d2 d4 :| 
+V:2
+"^2" "D"(df)ed "A7" (^ce)dA | "D"F2F2 F2 z2 |:[K:G][M:2/4][K:treble] "G" (BG)DG (BG)DG | 
+B2B2 B4 | (BG)DG (BG)DG | "D7" G2F2 F4 |"G" (BG)DG (BG)DG | 
+B2B2 B4 | "A7" (df)ed (^ce)dA | "D7" F2F2 F4 :: 
+[K:D]"D" d2F2 (df)ed |"A7" c2E2 (ce)dc |"D" d2F2 (df)ed | 
+"A7" (cB)AE C4 |"D" d2F2 (df)ed |"A7" c2 "^Stämförslag B.O."E2 (ce)dc |"D" (df)ed"A7" (ce)dA | "D" F2F2 F4 :|
+

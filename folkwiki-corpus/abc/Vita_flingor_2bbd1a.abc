@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Vita flingor
+C:Jonas Jonsson
+S:Greta Skoglund
+O:Tallåsen, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Text o. musik Jonas Jonsson, Tallåsen."
+Z:"Efter Greta Skoglund, Gammelsträng."
+L:1/8
+M:3/4
+K:F
+V:1
+"^1""^Vals" c2 |"F" f3 ed_d | c3 =Bcd | A6- | A4 c2 | f3 ed_d | c4 d2 |"C7" e6- | e6 | "Gm" g3 gfe | 
+d3 ^cde |"F" f4 A2 |"D7" c6 |"G7" =B3 ABc | d3 aa_a |"C7" g6- | g6 | "F" f3 ed_d | c3 =Bcd | A6- | 
+A4 A2 |"A7" A4 ^c2 | e4 g2 |"Dm" f6- | f4 e2 |"Gm" g3 gfe | d3 ^cde |"F" f4 A2 | c4 c2 | d2 d2 B2 | 
+e4 c2 | f6- | f2 z4 |]"^Refr.""F" A4 B2 | c4 d2 | "C7" e2 e4- | e2 d2 c2 | B4 c2 | e4 d2 |"F" c6- | 
+c6 | f4 f2 | e4 f2 |"Gm" g6 | d4 f2 | "C7" e4 c2 | e4 d2 |"F" c6- | c6 | A4 B2 | c4 d2 |"C7" e6 | 
+d4 c2 | B4 c2 | e4 d2 |"F" c6- | c4 c2 | f4 f2 | e4 f2 |"Gm" g6 | d4 f2 |"C7" e4 c2 | d4 e2 |"F" f6- |"F" f2 z2 z2 |] 
+V:2
+"^2" c2 | f3 ed_d | c3 =Bcd | A6- | A4 c2 | f3 ed_d | c4 d2 | e6- | e6 | g3 gfe | d3 ^cde | f4 A2 | 
+c6 | =B3 ABc | d3 aa_a | g6- | g6 | f3 ed_d | c3 =Bcd | A6- | A4 A2 | A4 ^c2 | e4 g2 | f6- | 
+f4 e2 | g3 gfe | d3 ^cde | f4 A2 |"D7" c4 c2 |"Gm" d2 d2 B2 |"C7" e4 c2 |"F" f6- | 
+"F" f2 z4 |] F4 G2 | A4 B2 | c2 c4- | c2 B2 A2 | G4 A2 | c4 B2 | A6- | A6 | A4 A2 | A4 A2 | B6 | 
+G4 B2 | B4 G2 | B4 B2 | A6- | A6 | F4 G2 | A4 B2 | c6 | 
+B4 A2 |  G4 A2 | c4 B2 | A6- | A4 A2 | A4 A2 |"F7" A4 A2 | "^Efter Greta Skoglund, Gammelsträng." B6 | B4 B2 | "^Uppt. B.O. 2004." B4 G2 | B4 B2 | A6- | A2 z2 z2 |]
+

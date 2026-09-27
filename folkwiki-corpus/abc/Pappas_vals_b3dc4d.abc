@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Pappas vals
+C:Oscar Thunell
+S:Marianne Wilstrand
+O:Ransjö, Härjedalen
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Oscar Thunell (1915-1990) Ransjö, Härjedalen"
+Z:"Efter dottern Marianne Wilstrand, Hedemora. Uppt. o. arr. 2007-01-11,  B.O."
+L:1/8
+M:3/4
+K:C
+V:1
+"^1" egf |: e2 c2 d2 | e2 c2 B2 | A2 f2 f2 | f3 aaa | g2 g2 g2 | 
+f2 e2 d2 | e6 | c3 egf | e2 c2 d2 | e2 c2 B2 | A2 f2 f2 | f3 aaa | 
+g2 g2 g2 | f2 e2 d2 | c3 c c2 |1 c3 egf :|2 c3 cde |: 
+f2 f2 f2 | a3 agf | e2 e2 e2 | g3 gfe | d2 d2 e2 | f2 e2 d2 | 
+e4 f2 | g3 cde | f2 f2 f2 | a3 agf | e2 e2 e2 | g3 gfe | 
+d2 d2 e2 | f2 e2 d2 | c3 c c2 |1 c3 cde :|2 c3 z2 z |] 
+V:2
+"^2" ced |:"C" c2 E2 G2 |"C7" c2 G2 E2 |"F" F2 A2 A2 |"Dm" A3 ccc |
+"G7" B2 B2 B2 | A2 G2 F2 | "C" G6 | E3 ced | c2 E2 G2 |"C7" c2 G2 E2 |
+"F" F2 A2 A2 |"Dm" A3 ccc |"G7" B2 B2 B2 | A2 G2 F2 |"C" E3 E E2 |1"C" E3 ced :|2"C" E3 cB_B |:
+"F" A2 A2 A2 | [Af]3 fcA |"C" G2 G2 G2 | [ce]3 ecG |"G7" F2 F2 G2 | 
+A2 G2 F2 |"C" G4 A2 |"C7" _B3 c=B_B |"F" A2 A2 A2 | [Af]3 fcA | "C" G2 G2 G2 | 
+"A7" ^c3 cAG |"Dm" F2 F2 G2 |"G7" A2 G2 F2 |"C" E3 E E2 |1"C" E3 cB_B :|2"C" E3 z2 z |]
+

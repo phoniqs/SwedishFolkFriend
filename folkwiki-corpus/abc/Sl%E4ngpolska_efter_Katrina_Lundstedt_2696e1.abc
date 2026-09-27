@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:20
+T:Slängpolska efter Katrina Lundstedt
+S:Katrina Lundstedt
+S:Otôrgs-KaisaAbrahamsson
+O:Hassela, Hälsingland
+R:Slängpolska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA. 20. Slängpolska. Uppt. OKA."
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" B2 G2 (3B(AB) | c2 (A2 f2) | a2 (a>f) (3d(ef) | g2 (f>e) dc | 
+B2 G2 (3B(AB) | c2 (A2 f2) | a2 (a>f) (3d(ef) | g2 g3 z :: 
+d>b g>e (3c(ec) | d>c (3B(dB) (3G(AB) | c>B A>f (3d(ef) | g2 (f>e) (3d(Bc) | 
+d>b g>e (3c(ec) | d>c (3B(dB) (3G(AB) | c>B Ad (3f(ef) | g2 g3 z :: 
+B>d dB (3d(Bd) | b>b g>B dB | A>B cA (3c(Ac) | a>(g f>e) dc | 
+B>G DG (3B(AB) | (3c(Bc) E>G Gc | A>a af (3d(ef) | g2 g3 z :| 
+V:2
+|:"^2" G2 (D2 =F2) | E2 (E2 A2) | c2 (c>A) (3F(GA) | B2 (d>c) BA | 
+G2 (D2 =F2) | E2 (E2 A2) | c2 (c>A) (3F(GA) | B2 B3 z :: 
+B>g e>c (3A(cA) | B>A (3G(BG) (3D(FG) | A>G F>d (3A(Bc) | B2 (d>c) (3B(GA) | 
+B>g e>c (3A(cA) | B>A (3G(BG) (3D(FG) | A>G FA (3c(Bc) | B2 B3 z :: 
+G>B B2 G2 | d>d B>G BG | F>G A2 F2 | (c>B) (d>c) BA | 
+G>D B,D (3G(FG) | (3E(DE) C>E EA | F>d dc (3A(Bc) | B2"^B.O." B3 z :|
+

@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:8
+T:Schottis efter Ragge Eriksson
+O:Säter, Dalarna
+S:Ragnar Eriksson
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Ragnar Eriksson, Säter. 8. Schottis"
+Z:"Uppt. o. arr. B.O. 2006-07-26."
+N:"Ragges dans: Gammelschottis"
+L:1/8
+M:2/2
+K:F
+V:1
+"^1"u (AB) |:v"^Ragges dans: Gammelschottis" c>dcB A>BAG | F2 A,2 C3 F | A2 (Ac) B2 A2 | G6 (GA) | 
+B>cBA G>AGF | E2 G,2 C3 E | G2 (GB) A2 G2 | F6 (AB) | 
+c>dcB A>BAG | F2 A,2 C3 F | A2 (Ac) B2 A2 | B6 (de) | 
+f>gfe d>ed^c | c2 F2 A3 B | c>dcA B>GEG |1,8 F2 A2 F2 (AB) :|2 F2 A2 F2 (de) |:v 
+f>gfe d>edA | B>cdB G2 B2 | A>A^ce a>gfe | d>efg a2 (de) | 
+f>gfe d>edA | B>cdB G2 B2 | A>A^ce a>gfe |1 d2 f2 d2 (de) :|2 d2 ^c2 =c2 (AB) |] 
+V:2
+"^2" (FG) |: "F" A>BAG F>GFC | A,2 C2 F3 C | F2 (FA) G2 F2 | "C7" E6 (EF) | 
+G>AGF E>FED | C2 C2 B,3 C | E2 (EG) F2 C2 | "F" A,6 (FG) | 
+A>BAG F>GFC | A,2 C2 F3 C | F2 (FA) G2 F2 | "Bb" D6 (Bc) | 
+d>edc B>cBG | "F" F2 A,2 C3 C | "C7" E>FEC E>CB,C |1,8"F" A,2 C2 A,2 (FG) :|2"F" A,2 C2 A,2 (FA) |: 
+"Dm" d>edA F>GFD | "Gm" G>ABG D2 D2 |"A7" ^C>CEA ^c>BAG |"Dm" F>Ade"A7" ^c2 (FA) | 
+"Dm" d>edA F>GFD | "Gm" "^Uppt. o. arr. B.O. 2006-07-26." G>ABG D2 D2 | "A7" ^C>CEA ^c>BAG |1 "Dm" F2 A2 F2 (FA) :|2 "Dm" F2"G7" F2"C7" E2 (FG) |]
+

@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Österfärnebo
+S:Efter Lyckner
+O:Österfärnebo, Gästrikland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+K:Dm
+V:1
+|: e4 ^c4 A4 | (A,^C)EC (A,C)EC A,4 | f2>e2 d2^c2 d2A2 | a4 (gb)(gb) a4 :: 
+f2>e2 d2^c2 d2e2 | (e2f2) f2ef e4 | a2fa g2eg f2df | e2^ce d6 z2 :: 
+a4 c'4 a4 | f2fa g2gb a4 | a4 c'4 a4 | f2fa g2gb a4 | (f2>e2) (d^c)de f2a2 | e2^ce d6 z2 :| 
+V:2
+|: ^c4 A4 E4 | (A,^C)EC (A,C)EC A,4 | d2>A2 F2E2 F2D2 | f4 (eg)(eg) e4 :: 
+d2>A2 F2E2 F2A2 | (A2d2) d2^cd c4 | f2df e2^ce d2Ad | ^c2AG F6 z2 :: 
+f4 a4 f4 | d2df e2eg f4 | f4 a4 f4 | d2df e2eg ^c4 | (d2>A2) (FE)FA"^Stämförslag B.O." d2f2 | ^c2AG F6 z2 :|
+

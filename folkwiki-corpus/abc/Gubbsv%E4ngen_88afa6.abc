@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Gubbsvängen
+T:Snoa
+C:Sven Olof Nilsson
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik: Sven Olof Nilsson.  Arr. [[Personer/Sivert Snaar]]."
+L:1/8
+M:2/4
+K:D
+V:1
+|:"^1" D>F Ad | f2 d2 | A^G/A/ BA | G/A/G/F/ EC | A,>C EA | c3 B | A^G/A/ =GE | 
+F/G/F/E/ D/G/F/E/ | D>F Ad | f2 d2 | A^G/A/ BA | G/A/G/F/ EC | A,>C EA | c3 B | 
+A^G/A/ Bc | dd/d/ d z ::[K:G] b z/ g/ dB | ce/e/ ee | df/f/ ff | dg/g/ gg | 
+b z/ g/ dB | ec a2 | fd b>a | gg/g/ g z :: G/B/d/B/ G/B/d/g/ | bg g2 | d^c/d/ ed |
+[Ec]4 | D/F/A/F/ D/F/A/d/ | af f>g | fe e>f | ed d/c/B/A/ | G/B/d/B/ G/B/d/g/ | 
+bg g2 | b^a/b/ c'b | e4 | c'>e' d'c' | b z/ d'/ c'b | ac' d/f/a/f/ | gg/g/ g z :| 
+V:2
+|:"^2""D" A,>D DF | A2 F2 | FE/F/ GF | "A7"E>D CA, | G>A, CE | A3 G | E>D EC | 
+"D" D/E/D/B,/ A,/E/D/B,/ | A,>D DF | A2 F2 | FE/F/ GF | "A7"E>D CA, | E>A, CE | A3 G | CB,/C/ DE | 
+"D" FF/F/ [FA] z ::[K:G]"G" d z/ B/ GD |"C" Ec/c/ cG |"D7" Fd/d/ dA |"G" GB/B/ BB | d z/ B/ GD | 
+"C" AE"Am" [Ace]2 |"D7" dA d>c |"G" BB/B/ B z :: "G" B,/D/G/D/ B,/D/G/B/ | dB B2 | BA/B/ cB | 
+"Am" AE/D/ CB, |"D7" A,/D/F/D/ A,/D/F/A/ | cA A>B | Ac c>d |"G" cB"D7" B/A/G/D/ | 
+"G" B,/D/G/D/ B,/D/G/B/ | dB B2 | d^c/d/ ed |"C" [Ec]4 | e>g fe | "G" d z/ f/ ed |"D7" "^Stämförslag B.O." cd A/c/d/c/ |"G" BB/B/ B z :|
+

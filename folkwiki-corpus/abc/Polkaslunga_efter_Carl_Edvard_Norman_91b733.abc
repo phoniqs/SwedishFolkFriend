@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Polka-slunga efter Carl Edvard Norman
+S:Carl Edvard Norman
+O:Säter, Dalarna
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:DVD efter [[Personer/Ragnar Eriksson]]: "Ragges dans: Polkett och slunga"
+Z:"11. Polka-slunga från Säter eft. Carl E. Norman, Säter."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" d/ |:v dB de | dd d/c/B | cA f>e | ed g>d | dB de | dd d/c/B | e>d cA |1 
+GG G>d :|2 GG G>F |:[K:D] A/A/A d>c | cB B/^A/B | gA c>e | ed a2 | A/A/A d>c | 
+cB B/^A/B | gA f>e |1 dd d>F :|2 dd d>d ||[K:G] dB de | dd d/c/B | cA f>e | ed g>d | 
+dB de | dd d/c/B | e>d cA | GG G G/G/ |]:[K:C] GE ^FG | c3 B/c/ | BD E^F | A3 A | 
+^f>e d^c | d/e/^f B2 | e>d cB | c/d/e GG/G/ | GE ^FG | c3 B/c/ | BD E^F | 
+A3 A | ^f>e d^c | d/e/^f B2 | AG e>d |1 cc c G/G/ :|2 cc c3/2 z/ |] 
+V:2
+"^2"u B/ |: "G" BG Bc | BB B/A/G |"D7" AF d>c |"G" cB B>B | BG Bc | BB B/A/G |"D7" c>B AD |1 
+"G" B,B, B,>B :|2"G" B,B, B,>D |:[K:D] "D" F/F/F A>F |"Em" FG G/F/G |"A7" cG A>G |"D" GF [Fd]2 | F/F/F A>F |
+"Em" FG G/F/G |"A7" cG A>G |1"D" FF F>D :|2"D" FF F>B ||[K:G]"G" BG Bc | BB B/A/G | "D7" AF d>c |"G" cB B>B | 
+BG Bc | BB B/A/G |"D7" c>B AD |"G" B,B, B, E/E/ |]:[K:C]"C" EC DE | E3 ^F/G/ |"Dm" ^FA, B,D | ^F3 F |
+"G7" d>c B^A | B/c/d G2 | "C" G>^F ED | E/^F/G EE/E/ | EC DE | E3 ^F/G/ |"Dm" ^FA, B,D | 
+^F3 F |"G7" d>c B^A | "^Stämförslag B.O." B/c/d G2 | ^FE G>F |1 "C" EE E E/E/ :|2 "C" EE  E3/2 z/ |]
+

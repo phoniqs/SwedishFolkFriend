@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Sme-Pelles vals
+T:Andrastämman
+C:Eric Öst
+R:Vals
+O:Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Stämförslag B.O."
+L:1/8
+M:3/4
+K:D
+V:2
+|:"^2""D" (A,D) (FA) dA | (FE) (GF) EF |"G" (GD) (B,D) GB | e2 (ed) cB |"A7" A2 cc c2 | 
+G2 BB B2 |"D" (dc) (B^A) BG | F2 (FE) DA, | (A,D) (FA) dA | (FE) (GF) EF |"G" (GD) (B,D) GB | 
+e2 (ed) cB |"A7" A2 cc c2 | (ec) (AE) GA |"D" F3 F F2 | [DA]4 A2 ::
+"G" G2 (G,B,) DG | (BA) (cB) AG |"D" F2 (DF) Ad | f2 ff f2 |"A7" G2 (EG) Ac | 
+e2 ee e2 |"D" F2 (DF) FA | d4 A2 | "G" G2 (G,B,) DG | (BA) (cB) AG |"D" F2 (DF) (Ad) | 
+f2 ff f2 | "G" (fe) (eg) ce | "D" (ed) (df) Ad | "A7" (dc) (ce) AG | "D" [FA]4 A2 ::
+[K:G] "^pizz." "G" .B2 .G2 .D2 | .B2 .G2 .D2 | "C" .G2 .E2 .C2 | .E2 .C2 .G,2 | "^arco" "D7" A,2 FF F2 | 
+D2 cc c2 | "G" (B^A) (Bd) gd | B4 B2 | "^pizz." .B2 .G2 .D2 | .B2 .G2 .D2 |"Am" .c2 .A2 .E2 | 
+.A2 .E2 .C2 | "^arco" "D7" A,2 FF F2 |"^Stämförslag B.O." (FG) (EG) FD |"G" B,2 (A,B,) DG |1 "G" B4 G2 :|2,8[K:D]"G" B6 |]
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:14
+T:Månsken över Kramstatjärn
+T:Vals
+R:Vals
+C:Pelle Engman
+O:Järvsö, Hälsingland
+Z:Karin Helander
+N:Från not hos Timrå Spelmän: https://www.timraspelman.se/uploads_tiny_mce/files/File/PDF/EN/KramstatjarnSpecX.pdf
+N:"Månsken över Kramstatjärn, Pelle Engman, Järvsö, stämma Göran Larsson"
+N:Dragspelslåt
+M:3/4
+L:1/4
+K:G
+Q:1/4=144
+V:1
+d3 | d^ce | d3 | B3 | bag | fed | (c3 | c3) | 
+F3 | DFA | d3 | f3 | fed | A2^A | (B3 | B3) |
+d3 | d^ce | d3 | B3 | b3 | gf=f | (e3 | e3) | 
+g3 | gfg | b3 | d'3 | c'2 e | f2 b | (g3 | !fine! g3) :|
+|: e>dB/d/ | g>dB/G/ | F3 | A3 | d>af/a/ | d>af/a/ | g>bd/g/ | B3 | 
+e>dB/d/ | g>dB/G/ | F3 | A3 | d2 f | b2 a | (g3 | g3) :| [K:C] 
+|: C3 | EGc | e3 | c3 | A2c | _A2c | (G3 | G3) | 
+B3 | Bdf | e3 | c3 | d3 | ABc | B3 | GFD | 
+C3 | EGc | e3 | c3 | A^GA | cd^d | (e3 | e3) | 
+A3 | cBA | G^F=F | E3 | F3 | B,3 | (C3 | !D.C.! C3) :|
+

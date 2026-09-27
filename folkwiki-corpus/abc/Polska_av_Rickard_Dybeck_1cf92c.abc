@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Rickard Dybeck
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Uppt. C.E. Sernander
+Z:La Folia - variant
+Z:Rickard Dybeck  (1811-1877) "Runa 1844"
+Z:Urval av hans skrifter "Om Dalarne 1, 1918"
+Z:Forslund "Med Dalälven från källorna till havet, del 1"
+L:1/8
+M:3/4
+K:Gm
+V:1
+|:"^1""^La Folia - variant"v (D^F) GA (3BAG | (^FA) c3u A | (dB) G2 =EG | =F2 D2 z2 :: 
+v (A^F) A2 Bc | de d2 c2 | (BA) (G^F) GA | Bc B2 (A^F) | (D^F) G2 z2 :| 
+V:2
+|:"^2"v (B,A,) B,D (3G^F=E | (D^F) A3u F | (GD) B,2 G,B, | A,2 A,2 z2 ::v (^FD) F2 GA | 
+"^Rickard Dybeck  (1811-1877)  \"Runa 1844\"""^Urval av hans skrifter  \"Om Dalarne 1,  1918\"""^Forslund  \"Med Dalälven från källorna till havet, del 1\"" Bc B2 A2 | 
+(GD) (B,A,) B,D | GA G2 (^FD) | (A,C) [B,D]2"^B.O." z2 :|
+

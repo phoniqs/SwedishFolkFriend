@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Spelmansminne
+T:Vals
+C:Olle Jönsson
+R:Vals
+O:Snöre, Ekshärad, Värmland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Olov Jönsson"
+L:1/8
+M:3/4
+K:Bb
+V:1
+"^1" D2 |: F2 (=EF) (GF) | B2 (AB) (cB) | f2 (=ef) (bf) | d2 B2 F2 | c2 (=Bc) (ec) | A2 F2 A2 | 
+B2 (AB) (dB) | F2 D2 E2 | F2 (=EF) (GF) | B2 (AB) (cB) | f2 (=ef) (bf) | d2 B2 F2 | c2 (=Bc) (ec) | 
+A2 F2 A2 | B2 (AB) (dc) |1 B2 D2 E2 :|2 B4 B2 |: G2 (EB,) (EG) | B2 A2 G2 | (FD) (B,D) (FB) | d2 c2 B2 | 
+A2 (FA) (cf) | a2 g2 f2 | (fg) (fd) (BF) | (DB,) (DF) (BA) | G2 (EB,) (EG) | B2 A2 G2 | (FD) (B,D) (FB) | 
+d2 c2 B2 | A2 (FA) (cf) | a2 g2 f2 | (fg) (fe) (cA) | B4 B2 :: (AF) (EF) (AF) | (BF) (DF) (BF) | 
+(AF) (EF) (AF) | (BD) (FB) (df) | (gE) (GB) (eg) | (fD) (FB) (df) | (ec) (AF) (Ac) |1 B4 B2 :|2 B4 z2 |] 
+V:2
+"^2" B,2 |:"Bb" D2 (^CD) (ED) | F2 (EF) (GF) | B2 (AB) (dB) | F2 D2 B,2 |"F7" A2 (^GA) (cA) | 
+F2 C2 E2 |"Bb" D2 (CD) (FD) | D2 B,2 C2 | D2 (^CD) (ED) | F2 (EF) (GF) | B2 (AB) (dB) | 
+F2 D2 B,2 |"F7" A2 (^GA) (cA) | F2 C2 E2 |"Bb" D2 (CD) (FE) |1"Bb" D2 B,2 C2 :|2"Bb" D4 D2 |: 
+"Eb" E2 (B,G,) (B,E) | G2 F2 E2 |"Bb" (BF) (DF) (Bd) | f2 e2 d2 |"F7" F2 A,C FA | c2 B2 A2 | 
+"Bb" (de) (dB) (FD) | B,2 C2 D2 |"Eb" E2 (B,G,) (B,E) | G2 F2 E2 | "Bb" (BF) (DF) (Bd) | f2 e2 d2 | 
+"F7" F2 (A,C) (FA) | c2 B2 A2 | (cd) (cA) (FE) |"Bb" D4 D2 ::"F7" (FC) (A,C) (FC) | 
+"Bb" (FD) (B,D) (FD) |"F7" (FC) (A,C) (FC) |"Bb" (DB,) (DF) (Bd) |"Eb" (eG,) (B,E) (GB) | 
+"Bb" (dB,) (DF) (Bd) |"F7" "^Arr. B.O." (cA) (FC) (FE) |1"Bb" D4 D2 :|2"Bb" D4 z2 |]
+

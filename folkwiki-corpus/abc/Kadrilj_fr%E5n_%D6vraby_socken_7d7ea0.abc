@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:56
+T:Kadrilj från Övraby socken
+T:(Sv Folkdanser Del 1)
+O:Övraby socken, Halland
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 56. Kadrilj från Övraby socken, Halland"
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 56
+Z:"1:a 2 ggr. 2:a 1 ggr. 3:a 4 ggr. 4:a 2 ggr. 5:a 2 ggr. Återupprepas 1 gång. Därefter galopp en gång med repris."
+N: Galoppen på slutet är en förenklad form av ''Über Stock und Stein'', op. 98  av schlesiske Carl Faust (1825-92).
+L:1/8
+M:2/4
+K:A
+V:1
+"^1""^Förspel""A" (c/e/)c/A/"E7" (B/d/)B/G/ |"E7" BA"A" A2 |: [K:A][M:2/4][K:treble]"^Dans""^(1)""A" A>A Ac | e>e ee | aA ce |"A" a2"E7" g2 | 
+bd/d/ df/f/ |"A" fe Ac |"E7" e/e/e/e/ dG |"E7" B2 A2 :|"^(2)""Bm" d/d/d/d/ f>d | "A" c/c/c/c/ e>c | 
+"E7" B/B/B/B/ gg |"E7" b2"A" a2 |"Bm" d/d/d/d/ f>d |"A" c/c/c/c/ e>c | "E7"B/B/B/B/ gg |"E7" b2"A" ac/e/ |:
+"^(3)""A" ae cA |"E7" BB Ed/B/ | GA Bc |"A" ef ec/e/ | ae cA |"E7" BB Ed/B/ | GA Bc |1
+"E7" B2"A" Ac/e/ :|2"E7" B2"A" A2 |:"^(4)""A" c2 A2 | c2 A2 | "E7"ce/d/ BG |"E7" Bd"A" cA |"A" c2 A2 | 
+c2 A2 |"E7" ce/d/ BG |"A" A2 z2 ::"^(5)""A" (e/c/)A/c/ (e/c/)A/c/ | ea aa | (e/c/)A/c/ (e/c/)A/c/ |
+"E7" cB BB |"A" (e/c/)A/c/ (e/c/)A/c/ | ea aa | "A" (c/e/)c/A/"E7" B/d/B/G/ |1"E7" BA"A" A z :|2 B"^Galopp"A A e/e/ |: 
+"A"ec Ac | EA ce/e/ | ec Ac | EA ce/e/ |1"E7" e2 Be/e/ | e2 Be/e/ | 
+e2 Bd |"A" cB Ae/e/ :|2"E" e2 Bg/g/ | g2 eb/b/ |"B7"  b2 fg | "E" ee/e/ ee |: 
+"E" d3 c | Bc de | f3 e | de fg |1"A" a2 g2 | g2 f2 | 
+f2 e2 | ee/e/ ee :|2"A" a2 A>B | c2 f>e |"E7" e2 B>c |"A" A4 |] 
+

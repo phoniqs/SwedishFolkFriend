@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:3
+T:Skogsstjärnan
+R:Vals
+O:Röke Skåne
+C:Lennart Thörn
+%%score 1 2
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Violin 1" snm="Vln.1"
+V:2 treble nm="Violin 2" snm="Vln.2"
+V:1
+F |: B2 c | d f e | d2 c | B2 B | e2 e | g f e | f3 | d2 F | G2 B | c B A | B2 d | f2 d | e2 e | 
+c B A |1 c3 | B2 F :|2 c3 | B2 D |: G2 A | B d c | B2 A | G2 G | c2 c | e d c | d3 | B2 A | G2 E | 
+A G ^F | G2 E | D2 D | A2 c | B A G |1 A3 | G2 D :|2 A3 | G2 F |: d d/^c/ d | d d/^c/ d | 
+e e/f/ e/d/ | c2 F | c c/=B/ c | c c/=B/ c | c d/e/ d/c/ | B2 F | d d/^c/ d | d d/^c/ d | d c B | 
+A2 G | e e/f/ e/d/ | c B A |1 c3 | B2 F :|2 c3 | B3 |] 
+V:2
+F |: D2 E | F d c | B A G | F D F | B2 c | e d c | d2 c | B F D | E2 G | A G F | D F B | d c B | 
+G2 c | A G F |1 G F E | D2 F :|2 G F E | D2 D |: B,2 C | D ^F A- | A G ^F | D2 D | E2 G | c B A- | 
+A G ^F | G2 D | E2 C | E2 D | E2 C | B,2 C | ^F2 D | G ^F E |1 ^F D C | B,2 D :|2 ^F D C | 
+B,2 F |: F F/=E/ F | F F/=E/ F | F G/A/ G/F/ | E3 | F A/^G/ A | F A/^G/ A | F F/G/ F/E/ | D3 | 
+F F/=E/ F | F F/=E/ F | D E F | E2 E | F G/A/ F | A G F |1 E3 | D2 F :|2 E3 | D3 |] 
+

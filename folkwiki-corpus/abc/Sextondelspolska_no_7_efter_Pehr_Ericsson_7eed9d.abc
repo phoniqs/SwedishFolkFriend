@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Sextondelspolska n:o 7 efter Pehr Ericsson
+O:Helgarö, Södermanland
+B:Folkmusik från norra Södermanland
+R:Slängpolska
+M:3/4
+L:1/16
+N:Ur samlingen "Folkmusik från norra Södermanland" av KP Leffler. Utgiven 1899. Ur avdelningen Sextondelspolskor, Korspolskor, Slängpolskor. 
+Z:Anders Larsson
+K:C 
+ cdef gagf f2e2 | c'2c'2 bc'd'b c'4 | cdef gagf f2e2 | %3
+"^pizz." [G,Ec]2[G,Ec]2 [G,DB]2[G,DB]2 [G,Ec]4 |"^arco" cBce dcBA G4 | dGdG fGfG eGeG | %6
+ gGgG fGfG eGeG | dGdG fGfG eGeG | gGgG fGfG eGeG | dGdG fGfG [Ge]2c'2 | bc'd'b c'2e2 f2g2 | %11
+ afdB c8!fine! || cege cege cege | d2G,2 G,2G,2 G,2G,2 | c'2bc' d'4 g4 | g2^fg agfe d4 | %16
+ adad c'dc'd bdbd | d'dd'd c'dc'd bdbd | adad c'dc'd bdbd | d'dd'd c'dc'd bdbd | %20
+ adad c'dc'd [db]4 | c'4 bc'd'b c'4 | g4 ^fgaf g4!D.C.! |] %23
+

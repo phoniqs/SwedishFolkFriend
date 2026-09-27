@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Anglaise ur Bengta Mattissons klaverbok
+R:Anglais
+O:Vittskövle, Skåne
+B: Bengta Mattissons "Noter för Clawer", Skånes Musiksamlingar N 07, privat ägo
+D: "Skånska Spelkvinnor", Kvinnolåt (Anna Rynefors & Miriam Andersén), Nordic Tradition 2022
+Z: Miriam Andersén 1/12 2025
+M:2/4
+L:1/16
+V:T  clef=treble
+V:B  middle=D clef=bass 
+K:G
+[V:T] |: B2Bc d2de | dedc B2B2 | A2AB c2c2 | AcAF G4 :: 
+w: *********************fine
+[V:B] |: g,db,d g,db,d | g,db,d g,db,d | f,da,d f,da,d | f,da,d [d4 & B4 & G4] :: 
+[V:T] A2d^c d2d2 | ege^c d4 | A2d^c d2d2 | ege^c d2=c2 |
+[V:B] d,a,f,a, d,a,f,a, | ^c,a,e,a, [f,2 & d,2]a,2 | d,a,f,a, d,a,f,a, | ^c,a,e,a, [f,2 & d,2]a,2 |
+[V:T] B2Bc d2de | dedc B2B2 | A2AB c2c2 | AcAF G4 :|
+[V:B] g,db,d g,db,d | g,db,d g,db,d | f,da,d f,da,d | f,da,d [d4 & B4 & G4] :|
+

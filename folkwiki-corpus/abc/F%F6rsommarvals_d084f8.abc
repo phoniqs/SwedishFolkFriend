@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Försommarvals
+T:(Vals av Karl Ersa i Husås)
+C:Karl Eriksson
+R:Vals
+O:Husås, Jämtland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Karl-Ersa i Husås, Jämtland."
+Z:Uppt. från band och CD, B.O."
+Z:"Stämförslag B.O."
+L:1/8
+M:3/4
+K:Bb
+V:1
+"^1"u f2 |:"Bb"v b2 z fdB | (FE) (DF) Bd |"Cm" (c/d/c) (=Bc) ec | (BG) EC G,2 |"F7" A,2 z CFA | 
+(c/d/c) (Ac) fa |"Bb" (b/c'/b) (ab) d'b | (f/g/f) (=ef) dB | b2 z fdB | (FE) (DF) Bd |"Cm" (c/d/c) (=Bc) ec | 
+(BG) EC G,2 |"F7" A,2 z CFA | (c/d/c) (Ac) fa |"Bb" .b.f .d.B .F.D |1,8"Bb" B,4u f2 :|2"Bb" B,4u F2 |:
+v"Bb" d6 | (c/d/c) B2 G2 |"F7" A4 G2 | [FA]6 | v [CE]2 z [EA] [EA]2 | [EA]2 z [Ec] [Ec]2 | 
+"Bb" [DB]2 z [Bf] [Bf]2 | (fg) fd B2 | d6 | (c/d/c) B2 G2 | "F7" A4 G2 | [FA]6 |v [CE]2 z [EA] [EA]2 | 
+[EA]2 z [Ec] [Ec]2 | "Bb" (B/c/B) (AB) dc |1 "Bb" B4u F2 :|2 "Bb" B4u B2 |:
+[K:Eb]"Eb"v e2 z BGE | (B,A,) (G,B,) EG | "Bb7" (FA) (DB) AB | (FA) (DB) AB | (Ba) da B2 | 
+(da) (Ba) da | "Eb" (Bg) eg B2 | (eg) Be G2 | e2 z BGE | (B,A,) (G,B,) EG | "Bb7" (FA) (DB) AB | 
+(FA) (DB) AB | (Ba) da B2 | (da) (Ba) cd | "Eb" e3 e e2 |1 "Eb" e4 B2 :|2 "Eb" e6 |:
+v"Eb" g3 f(e^c) | "Fm" d6 |"Bb7" c3 BAD | G4 F2 | (CB,) (=A,B,) CD | "Eb" (ED) (EF) GB | "Bb7" (c=B) (c_B) AD | "Eb" G6 |v 
+g3 f(e^c) | "Fm" d6 | "Bb7"c3 BAD | G4 F2 | (CB,) (ED) (GF) | (AG) (BA) (cB) | c3 BAD |1 "Eb" E6 :|2 "Eb" E4 |]
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:På Hjässberget
+T:Gånglåt
+C:Gösta Smedberg
+O:Silje, Sundsvall, Medelpad
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Gösta Smedberg, Silje, Sundsvall."
+L:1/16
+M:2/4
+K:A
+V:1
+"^1"u e2 |: a4 (ga)bg | a4 (Ac)ea | f4 (FA)df | e4 f2>ue2 | (d2E2) (EG)Bd | (c2A2) (A2c2) | 
+B2^df a2fd | e2BG E2ue2 | a4 (ga)bg | a4 (Ac)ea | f4 (FA)df | e4 f2>ue2 |
+(d2E2) (EG)Bd | (c2A2) (A2c2) | d2BG (EG)BG |1 A6u e2 :|2 A6u A2 |:
+[K:D] d4({e} dc)de | (f2>e2) (d2c2) | B2dB G2BG | E2GE B,2uE2 | (C2>E2) (A2c2) | 
+(e2f2) (g2e2) | g2ec (Ac)ec | d2fd A2uF2 | d4({e} dc)de | (f2>e2) (d2c2) | B2dB G2BG |
+"Em" E2GE B,2uE2 | (C2>E2) (A2c2) | (e2f2) (g2e2) | g2ec (Ac)ec |1 d6u A2 :|2 d6 z2 |] 
+V:2
+"^2"u A2 |:"A" c4"E7" (Bc)dB |"A" c4 (EA)ce |"D" d4 (DF)Ad |"A" c4"F#7" d2>uc2 | "E7" (B2G2) (B,E)GB | "A"(A2E2) "F#m" (E2A2) |
+"B7" F2B^d f2dB | "E7" G2GE B,2uA2 |"A" c4 "E7" (Bc)dB |"A" c4 (EA)ce |"D" d4 (DF)Ad |"A" c4 "F#7" d2>uc2 |
+"E7" (B2G2) (B,E)GB |"A"  (A2E2) (E2A2) |"Bm" B2GE "E7" (B,E)GE |1 "A" C6u A2 :|2"A" C6u D2 |:
+[K:D]"D" F4({G} FE)FG | (A2>G2) (F2E2) |"G" G2BG E2GE |"Em" B,2EB, G,2uB,2 |"A7" (A,2>C2) (E2A2) | 
+(c2d2) (e2c2) | e2cA (EA)cA |"D" F2dA F2D2 | F4({G} FE)FG | (A2>G2) (F2E2) | "G" G2BG E2GE | 
+"Em" B,2EB, G,2uB,2 |"A7" (A,2>C2) (E2A2) | (c2d2) (e2c2) | e2cA (EA)cA |1 "D" F6u D2 :|2"D" F6 "^B.O."  z2 |]
+

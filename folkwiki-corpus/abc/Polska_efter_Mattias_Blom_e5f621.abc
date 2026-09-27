@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Mattias Blom
+S:Mattias Blom
+O:Bjuråker, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 32. Polska efter Mattias Blom"
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" D- |: D>(G B>)(A G>)E | (DG) B>(A G>)E | D>(E F>G) A>B | (cB) A3 D- |
+ D>(F A>)(G F>)E | (DF) A>(G F>)E | D>(E F>G) A>B |1 cB/A/ G3 D- :|2 cB/A/ G3 (B |:
+ d2) dc/B/ AB/A/ | G2 DG/B/ dc/d/ | e>(d c>)(B A>)B | c>(e dc) B>c | 
+d2 dc/B/ AB/A/ | G2 DG/B/ dc/d/ | e>(d c>)(B A>)G |1 FE/F/ G3 B :|2 FE/F/ G3 z |] 
+V:2
+"^2" B,- |: B,>(D G>)(E D>)C | (B,D) G>(E D>)C | B,>(C D>E) F>G | (AG) F3 A,- |
+ A,>(D F>)(E D>)C | (A,D) F>(E D>)C | A,>(C D>E) F>G |1 FD/C/ [B,D]3 B, :|2 FD/C/ [B,D]3 (G |:
+ B2) BA/G/ FD/C/ | B,2 B,D/G/ BA/B/ | c>(B A>)(G F>)G | A>(c BA) G>A | 
+B2 BA/G/ FD/C/ | B,2 B,D/G/ BA/B/ | c>(B A>)(G F>)E |1 (DC) [B,D]3 G :|2"^Stämförslag B.O." (DC) [B,D]3 z |]
+

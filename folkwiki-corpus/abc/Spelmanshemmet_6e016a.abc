@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Spelmanshemmet
+T:Gånglåt
+O:Ryggen, Falun
+R:Gånglåt
+C:Bengt Johansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bengt Johansson (1919-1991), Ryggen, Falun."
+N:"Tillägnad Jans-Kalle på 80-årsdagen 1950"
+L:1/8
+M:2/4
+K:D
+V:1
+"^1" A |: a>(b ag) | (fe) "^Tillägnad Jans-Kalle på 80-årsdagen 1950" (d{Bc}B) | A2 (A/B/)A/G/ | (FD) (F/A/)B/A/ | G>(A G/F/)E/D/ | 
+(CE) (c{Bc}B) | A>(B AG) | F2 (F/A/)d/f/ | a>(b ag) | (fe) (dB) | A2 (A/B/)A/G/ | 
+(FD) (F/A/)B/A/ | G>(A G/F/)E/D/ | (CE) (cB) | A^G/A/ (fe) |1 d3 A :|2  d3 d |:
+ [DB]2 GF/G/ | (Be) (dB) | A2 (F/D/)F/A/ | (df) (ed) | c2 (c/d/)e/f/ | 
+(ga) (bc') | d'2 (fb) | a2 (dc) | [DB]2 GF/G/ | (Be) (dB) | A2 (F/D/)F/A/ | 
+(df) (ed) |  c2 (c/d/)e/f/ | (gA) (Bc) | dc/d/ (fe) |1 d3 c :|2 d3 z |] 
+V:2
+"^2" F |:"D" f>(g fe) | (dc) (BG) | f>(g fe) | (AF) (DF) | "A7" E>(D CB,) | (A,C) (EG) | 
+"D" F>(G FE) | D2 (D/F/)A/d/ | f>(g fe) | (dc) (BG) | f>(g fe) | (AF) (DF) | 
+"A7" E>(D CB,) | (A,C) (ED) | CB,/C/ (AG) |1 "D" F3 F :|2 "D" F3 F |: 
+"G" G2 DB,/D/ | (G=c) (BG) |"D" F2 DA,/D/ | (FA) (GF) | "A7" E2 (E/F/)G/A/ | (Bc) (de) | 
+"D" f2 (AG) | FD EF |"G" G2 DB,/D/ | (G=c) (BG) | "D" F2 DA,/D/ | 
+(FA) (GF) | "A7"E2 (E/F/)G/A/ |"^Stämförslag B.O."  (cE) (GA) |"D" FE/F/ (AG) |1"D" F3 F :|2"D" F3 z |]
+

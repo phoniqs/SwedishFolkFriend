@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Karns Hans Hansson
+S:Karns Hans Hansson
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+I:linebreak $
+U:t=tenuto
+K:D
+V:1
+|:"^1" b2 bg/b/ a2 | e2 a>b a>g | (g>f) (fe) d>c | Bb- bg/b/ a2 | e2 a>b a>g | (g<f) f4 :: 
+f2 (d/c/)d/e/ f2- | (3tf2 (td2 tg2) tb2- | b2 a>(f a>)g | (3te2 (td2{cd} tc2) tA2 | 
+f2 (d/c/)d/e/ f2- | (3tf2 td2 tg2 tb2- | b2 a>f a>g | e<c d4 :| 
+V:2
+|:"^2" B2 BG/B/ A2 | E2 A>B A>G | G>F (FE) D>A | Gd- dB/d/ c2 | A2 f>g f>e | e<d d4 :: 
+d2 F/E/F/A/ d2- | (3td2 tF2 tB2 tg2- | g2 f>d f>e | (3tc2 tB2{AB} tA2 tE2 | 
+d2 (F/E/)F/A/ d2- | (3td2 tF2 tB2 tg2- | g2 f>d f>e |"^Stämförslag B.O." c<A F4 :|
+

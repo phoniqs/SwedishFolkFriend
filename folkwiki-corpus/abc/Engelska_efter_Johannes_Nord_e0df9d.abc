@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:727
+T:Engelska efter Johannes Nord
+T:(SvL Skåne 727)
+O:Hyllinge, Skåne
+R:Engelska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Engelska (2). Efter Johannes Nord, Hyllinge. Sv.L. nr.727."
+B:Svenska Låtar Skåne Nr 727
+B:Gamla Dansar i Skåne
+S:Johannes Nord
+L:1/16
+M:2/4
+U:t=tenuto
+K:D
+V:1
+"^1""^Förspel" a2 | (^ga)ba (fd)fa | (ag)ec d2 z2 |][K:D][M:2/4][K:treble]"^Dans" A2 |: 
+(dc)ed f4 | (fe)gf a4 | (^ga)ba (fd)fa | (ag)ec (td2tA2) | 
+(dc)ed f4 | (fe)gf a4 | (^ga)ba (fd)fa | (ag)ec d4 :: 
+(AF)Ac (BG)Bd | (cd)ec (de)fd | (AF)Ac (BG)Bd | (cd)ec (td2td2) | 
+(AF)Ac (BG)Bd | (cd)ec (de)fd | (AF)Ac (BG)Bd | (cd)ec d4 :| 
+V:2
+"^2" f2 | (ef)gf (dA)df | (fe)cA F2 z2 |][K:D][M:2/4][K:treble] D2 |: (FE)GF A4 | (dc)ed f4 | 
+(ef)gf (dA)df | (fe)cA (tF2tD2) | (FE)GF A4 | (dc)ed f4 | (ef)gf (dA)df | 
+(fe)cA F4 :: (FD)FA (GD)GB | (AB)cA (FA)dA | (FD)FA (GD)GB | (AB)cA (tF2tF2) | 
+(FD)F"^Efter Johannes Nord, Hyllinge.  Sv.L. nr.727."A (GD)GB | (AB)cA (FA)dA | (FD)FA (GD)GB | 
+"^Stämförslag B.O." (AB)cA F4 :|
+

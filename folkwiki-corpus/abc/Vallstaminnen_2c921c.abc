@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Vallstaminnen
+T:Vals
+C:Ersk-Ers Olle Jonsson
+O:Arbrå, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+I:linebreak $
+K:Bb
+V:1
+"^1" F2 |: D2 F2 B2 | d2 c2 B2 | A2 G3 E | G4 AG | F2 A2 c2 | e4 de | g2 f2 e2 | d4 F2 | 
+D2 F2 B2 | d2 c2 B2 | A2 G3 E | G4 AG | F2 A2 e2 | d4 c2 | B3 cBA |1 B4 F2 :|2 B3 f=ef |: 
+b2 f2 d2 | B3 f=ef | g2 e2 c2 | G4 AG | F2 A2 c2 | e3 ede | g2 f2 e2 | d3 f=ef | 
+b2 f2 d2 | B3 f=ef | g2 e2 c2 | G4 AG | F2 A2 e2 | d4 c2 | B3 cBA |1 B3 f=ef :|2 B4 B,2 |: 
+B,2 (DF) Bd | f2 (dB) FD | E2 (GB) eg | b3 bag | f2 (gf) ec | A2 (FA) cA | e2 (FA) cA | B2 (FE) DC | 
+B,2 (DF) Bd | f2 (dB) FD | E2 (GB) eg | b3 bag | f2 (gf) ec | A2 (FA) cA | e2 (FA) cA |1 B4 B,2 :|2 B4 z2 |] 
+V:2
+"^2" D2 |:"Bb" B,2 D2 F2 | B2 F2 D2 |"Eb" F2 E3 C | E4 FE |"F7" C2 F2 A2 | c4 =Bc | e2 d2 c2 | "Bb" B4 D2 | 
+B,2 D2 F2 | B2 F2 D2 |"Eb" F2 E3 C | E4 FE |"F7" C2 F2 c2 | A4 E2 |"Bb" D3 EDC |1 "Bb" D4 D2 :|2"Bb" D3 d^cd |:
+"Bb" f2 d2 B2 | F3 d^cd |"Eb" e2 c2 G2 | E4 FE |"F7" C2 F2 A2 | c3 c=Bc | e2 d2 c2 |"Bb" B3 d^cd | 
+f2 d2 B2 | F3 d^cd |"Eb" e2 c2 G2 | E4 FE |"F7" C2 F2 c2 | A4 E2 |"Bb" D3 EDC |1"Bb" D3 d^cd :|2"Bb" D4 D2 |:
+"Bb" D2 (B,D) FB | d2 (BF) DB, | "Eb" B,2 (EG) Be | g3 gfe |"F7" A2 (BA) cA | F2 (CF) AF | c2 (CF) AF |
+"Bb" D2 (DC) B,A, | F2 (B,D) FB | d2 (BF) DB, |"Eb" B,2 (EG) Be | g3 gfe |"F7" A2 (BA) cA | F2 (CF) AF | A2 (CF)"^B.O"  AF |1"Bb" D4 D2 :|2"Bb" D4 z2 |] 
+

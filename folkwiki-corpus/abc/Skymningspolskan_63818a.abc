@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Skymningspolskan
+R:Polska
+O:Finland
+C:Maria Kalaniemi
+Z:Karin Helander
+N:Från inspelning: https://www.youtube.com/watch?v=GotkzvoL2kU
+N:På inspelningen hoppar hon nog över något enstaka taktslag i slutet på andra reprisen.
+M:3/4
+L:1/16
+Q:100
+K:Dm
+V:1
+A=BAG B2A2 E3F | GAGF A2F2 D3E | FGFE F2E2 ^C3D | EFDE ^CD=B,C A,4 | 
+A=BAG B2A2 E3F | GAGF A2F2 D3E | FGFE F2E2 ^C3D |1 EFE^C C4 D4 :|2 EFE^C C4 !fine! D2=B,C |:
+A,6 ^C=B, A,2CB, | A,2^C=B, A,B,CD E2ED | ^C=B,CD E2ED C2CD | EFE^C DECD A,4 | 
+A,6 ^C=B, A,2CB, | A,2^C=B, A,B,CD E2ED | ^C=B,CD E2ED C2CD | EFE^C DECD A,4 :|
+

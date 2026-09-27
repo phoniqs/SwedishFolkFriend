@@ -1,0 +1,36 @@
+%%abc-charset utf-8
+
+X:10
+T:Fiolen min
+T:Vals
+O:Hälsingland
+R:Vals
+C:Jon-Erik Öst
+Z:Andrastämman [[Personer/Theodor Ohlson]]
+Z:Karin Helander
+L:1/8
+M:3/4
+K:Eb
+V:1
+"Eb" !mf! B3 AGF | G3 FED | "Ab" E3 DC=B, | "Fm" C6 | "Bb7" !crescendo(! B,=A, B,C DE | FG AF DB, !crescendo)! | "^Andra stämma: Theodor Ohlson" !f! EF  GA Bc | B2 ge BG | 
+"Eb" !mf! B3 AGF | G3 FED | "Ab" E3 DC=B, | "Fm" C6 | "Bb7" B,2 AG FE | D2 cB AG | "Eb" E2 ge BG |1 E2 B2 B2 :|2 E2 "^rit" !fermata! D2 !fermata! E2 | [K: Bb]
+|: "Bb" !f! [D4F4] [B,2D2] | z2 B2 c2 | [B6d6] | [B6f6] | "F7" [f4e4A4] [A2E2] | [A2E2] [c2E2][c2E2] | "Bb" Bd BG F2 | z2 D2 E2 |
+"Bb" F4 E2 | z2 B2 c2 | [B6d6] | [B6f6] | "F7" [F6A6e6] | z2 [E4A4] | "Bb" ([B6D6] |1 [B2D2]) D2 E2 :|2 [B2D2]) z2 z2 |
+|: "Gm" !ff! !diminuendo(! [G,DBg]d BG DB, | [G,2G2] [G2B2] [B2D2] | "D7" [A4c4] [G2B2] !diminuendo)! | !mf! [^F6A6] | a^f !diminuendo(! dc A^F | D2 [^F2A2] [A2D2] | "Gm" [G4B4] [A2D2] !diminuendo)! | !mf! [B,6G6] |
+"Gm" !ff! !diminuendo(! [G,DBg]d BG DB, | G,2 [G2B2] D2 | "Cm" C4 D2 | E6 !diminuendo)! | "D7" D2 ed cB | AG ^FD =EF | "Gm" ([B,6D6G6] | [B,2D2G2]) z2 z2 :|
+|: "Bb" !p! [d6B6] | [d6B6] | "F7" [c6A6] | [c4A4] d2 | [e6c6] | [e6c6] | "Bb" [d6B6] | [d6B6] |
+"Gm" !ff! [b6g6] | [b6g6] | "D7" [a6^f6] | [a6^f6] | "Eb" [g6e6] | [g6e6] | "Bb" [f6d6] | [f6d6] | 
+"Bb" !p! [d6B6] | [d6B6] | "F7" [c6A6] | [c4A4] d2 | [e6c6] | [e6c6] | "Bb" [d6B6] | [d6B6] |
+"Eb" !ff! [b6g6] | [b4g4] [e2g2] | "Bb" !diminuendo(! [f6d6] | [B6d6] | "F7" [A6f6]!diminuendo)! | !p! [A6E6] | "Bb" !pp! ([D6B6] | [D2B2]) z2 z2 :| 
+V:2
+G3 FED | E3 DC=B, | C3 _B,A,G, | A,6 | [A,2D2] [B,2F2] [B,2F2] | [A,2D2] [B,2E2] [B,2E2] |  [G,2E2] [B,2E2][B,2E2] | "Eb"  [G,2E2] [B,2E2][B,2E2] |
+G3 FED | E3 DC=B, | C3 _B,A,G, | A,6 | [A,2D2] FE DC | B,2 AF DA, | B,2 eB GE |1 [B,6E6] :|2 [B,2E2] !fermata! B,2 !fermata! C2 | [K: Bb]
+|: [B,2D2] [F2B2] [F2B2] | [B,2D2] [F2B2] [F2B2] | [B,2D2] [F2B2] [F2B2] | [B,2D2] [F2B2] [F2B2] | [C2,E2] [F2A2] [F2A2] | [C2,E2] [E2A2] [F2A2] |FB FE D2 | z2 B,2 C2 | 
+D4 B,2 | z2 D2 F2 | B6 | d6 | [E6A6] | F2 [C2F2] [C2E2] | ([B,6F6] |1 [B,2F2]) B,2 C2 :|2 [B,2F2]) z2 z2 |
+|: [dG][BD] [GB,][G,D] [B,G][dG] | [D2B2] [d2G2] [B2D2] | [A4E4] [A2D2] |[C6D6] | [CDA]c A^F DC | [A,2D2] [C2D2] [A,2D2] | [^C4=E4] [=C2D2] | [G,6D6] |
+[dG][BD] [GB,][G,D] [B,G][dG] | [B,2D2] D2 [G,2D2] | G,4 =B,2 | [C6G6] | A2 CD ^FA | cd ^fa fd | gd BG DB, | G,6 :|
+|: DF Bd fd | DF Bd fd | EF Ac ec | EF Ac ec | EF Ac ec | EF Ac ec | DF Bd fd | DF Bd fd |
+G,B, DF Bd | G,B, DF Bd | D^F Ad fa | D^F Ad fa | G,B, EG Be | G,B, EG Be | DF Bd fd | DF Bd fd | 
+[F6B6] |[F4B4] [F2B2] | [E6A6] | [E4A4][E2A2] | [G6A6] | [F6A6] | [F6B6] | [F6B6] |
+[E6B6] | [=E4B4] [_E2B2] | [D6B6] | [F6B,6] | [E6c6] | [F6C6] | ([B,6F6] | [B,2F2]) z2 z2 :|
+

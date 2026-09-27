@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Näktergal
+S:Kers Erik Ersson
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (4) eft. Kers-Erik Ersson Näktergal, Säter."
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1" G2 c>(e g>)a | (gf) (de) f>e | c2 ed (B/G/)B/d/ | c2 (A/F/)A/c/ B>G | 
+G2 c>(e g>)a | (gf) (de) f>e | c2 ed (B/G/)B/d/ | (d<B) c4 :: 
+G2 ed (B/G/)B/d/ | c2 (A/F/)A/c/ B>G | G2 ed (B/G/)B/d/ | (d<B) c4 :| 
+V:2
+|:"^2" C2 E>(c e>)f | (ed) (Bc) d>c | A2 cB (G/D/)G/B/ | A2 (F/D/)F/A/ G>E | 
+C2 E>(c e>)f | (ed) (Bc) d>c | A2 cB (G/D/)G/B/ | (B<G) E4 :: 
+E2 cB (G/D/)G/B/ | A2 (F/D/)F/A/ G>E | E2 cB (G/D/)G/B/"^Stämförslag B.O." | (B<G) E4 :| 
+

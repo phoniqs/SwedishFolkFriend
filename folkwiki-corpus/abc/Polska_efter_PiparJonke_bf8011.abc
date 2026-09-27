@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Pipar-Jonke
+O:Norrbo, Hälsingland
+R:Polska
+S:Pipar-Jonke
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 34. Polska efter Pipar-Jonke"
+L:1/8
+Q:1/4=125
+M:3/4
+K:D
+V:1
+|:"^1" a>b a3 g | (f>g)"^Norrbo" f4 |({ef} ec) (Ag){fg} fe | d>A (FA) D2 | 
+a>b a3 g | (f>g) f4 | ({ef} ec) (Ag){fg} fe | (d>c) d2 z2 :: 
+(A>F) (D>F) A>d | (B>G) (D>G) B>d | (c>B) (A>a) A(B/c/) | d>e (f>g) a2 | 
+(A>F) (D>F) A>d | (B>G) (D>G) B>d | (c>B) (A>a) A(B/c/) | d2 d2 z2 :| 
+V:2
+|:"^2" f>g f3 e | (d>e) d4 | (cA) (Ec) AG | F>E (DD) A,2 | 
+f>g f3 e | (d>e) d4 | (cA) (Ec) BA | (F>E) F2 z2 :: 
+(F>D) (A,>D) F>A | (G>D) (B,>D) G>B | (A>G) (E>c) E(G/A/) | F>G (A>c) d2 | 
+(F>D) (A,>D) F>A | (G>D) (B,>D) G>B | (A>G) (E>c) E(G/A/) |"^B.O." F2 F2 z2 :|
+

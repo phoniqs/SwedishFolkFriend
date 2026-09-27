@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:31
+T:Mignon
+O:Sverige
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sverige, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:6/8
+K:G
+V:1
+"^1""^Förspel" e2 d c2 F | A2 G G2 z |]:[K:G][M:6/8][K:treble]"^Dans" d2 d e2 B | d2 c c3 | a2 g f2 e | 
+e2 d B2 d | g2 B B2 (B/c/) | B2 A A3 | e2 d c2 F | A2 G G2 z :: 
+gec gec | dBG dBG | D2 F/A/ cBA | (G3/2 A/)B/c/ dBG | gec gec | 
+dBG dBG | D2 F/A/ cBA |1 G2 G/G/ GBd :|2 G2 G/G/ G2 G |:
+[K:C] e2 e/e/ edc | c (B/A/B/)c/ B2 G | ^f2 f/f/ fed | d (c/B/)c/d/ c2 G | 
+c2 c/c/ c2 E | ^F2 F/F/ F2 E/F/ | G2 G/G/ ^fed | d (c/B/)c/d/ c2 z :| 
+V:2
+"^2" c2 B A2 D | C2 B, B,2 z |]:[K:G][M:6/8][K:treble] B2 B c2 G | B2 A A3 | f2 e d2 c | 
+c2 B G2 B | B2 G G2 (G/A/) | G2 F F3 | c2 B A2 D | C2 B, B,2 z :: ecG ecG | BGD BGD | 
+A,2 D/F/ AFD | (B,3/2 D/)G/A/ BGB, | ecG ecG | BGD BGD | A,2 D/F/ AFD |1 B,2 B,/B,/ B,GB :|2 B,2 B,/B,/ B,2 B, |:
+[K:C] c2 c/c/ cBA | A (G/^F/)G/A/ G2 B, | d2 d/d/"^Spelas 1 gång m. repriser." dBG | ^F (E/D/)E/F/ E2 E | E2 E/E/ E2 C | 
+A,2 A,/A,/ A,2 G,/A,/ | B,2 B,/B,/ BG^F | ^F (E/D/)"^Stämförslag B.O."E/F/ E2 z :|
+

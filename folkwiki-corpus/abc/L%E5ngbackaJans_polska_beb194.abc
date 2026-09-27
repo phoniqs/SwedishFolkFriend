@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Långbacka-Jans polska
+S:Jan Holmgren
+O:Rasbo, Uppland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Jan Holmgren, Rasbo."
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" [DA]2({g} f/g/f/e/) d>B |T (B>A) (A/B/)A/F/ D>F |T (FE/F/) (G>A,) C>E | (E>D) (DF) A2- | 
+[DA]2({g} f/g/f/e/) d>B |T (B>A) (A/B/)A/F/ D>F |T (FE/F/) (G>A,) C>E | (E/F/)E/C/ D4 :: 
+(A,>D) (D>F) F>A | (A/B/A/)F/ [G,G]2 [DB]2 | (A,>C) (EA) c>e | (e/f/)e/c/ (d>A) F>D | 
+(A,>D) (D>F) F>A | (A/B/A/)F/ [G,G]2 [DB]2 | (A,>C) (EA) c>e | (e/f/)e/c/ d4 :: 
+(f>d) f>(d f>)a | a>(g e2) e>f | (g>f) g>(f g>)b | (ba) f4 | 
+(A,>D) (D>F) F>A | (A/B/A/)F/ [G,G]2 [DB]2 | (A,>C) (EA) c>e | (e/f/)e/c/ d4 :| 
+V:2
+|:"^2" "D" F2 (d>c)T B>G | (G>F) (F>D) A,>D |"A7" (DC/D/) (E>G,) A,>C | "A7" (C>A,)"D" (A,D)"D" F2- |
+"D" F2 (d>c)T B>G | (G>F) (F>D) A,>D | "A7" (DC/D/) "D7" (E>G,) A,>C |"A7" C2 "D" A,4 ::
+"D" D2 "D7" (=C>A,) A,>C |"D7" =C>A,"G" [B,D]2 [B,G]2 | "A7" E2 "D7" (CE) A>G |"A7" G2 "D" (F>E) D>A, |
+"D" D2 "D7" (=C>A,) "D7" A,>C |"D7" =C>A,"G" [B,D]2 [B,G]2 | "A7" E2 "D7" (CE) A>G |"A7" (G>E)"D" F4 ::
+"D" (d>A) d>(A d>)f |"A7" f>(e c2) c>d | (e>d) e>(d e>)g | "D" (gf) d4 |
+"D" D2 "D7" (=C>A,) "D7" D>=C |"D7" =C>A,"G" [B,D]2"G" [B,G]2 | "A7" "^B.O." E2 (CE) A>G | "A7" (G>E) "D" F4 :|
+

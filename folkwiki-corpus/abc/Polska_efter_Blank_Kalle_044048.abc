@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Blank Kalle
+S:Efter Blank Kalle
+O:Rättvik, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+K:Dm
+V:1
+|:"^1" d2ed (^c2>d2) d4 | e2>(d2 ^cd)ef g2>e2 | (3fef (af) e2 (3(efe) d2d2 | ^cd(ec) A4 A4 | 
+d2ed ^c2>d2 d4 | e2>(d2 ^cd)ef g2>e2 | (3fef (af) e2 (3(efe) d2d2 | (3^cdc =Bc{dc} d8 :: 
+a2>^f2 defg a4 | g2>e2 ^cde^f g2>e2 | (3fef (af) e2 (3(efe) d2d2 | ^cd(ec) A4 A4 | 
+a2>^f2 defg a4 | g2>e2 ^cde^f g2>e2 | (3fef (af) e2 (3(efe) d2d2 | (3^cdc =Bc{dc} d8 :| 
+V:2
+|:"^2" F2GF E2>F2 F4 | ^c2>(=B2 AB)cd c2>c2 | d2fd ^c2A2 F2F2 | EF(GE) [^CE]4 [A,E]4 | 
+F2GF E2>F2 F4 | ^c2>(=B2 AB)cd c2>c2 | d2fd ^c2A2 F2F2 | E2DE [FA]8 :: 
+^f2>d2 A^cde f4 | e2>^c2 A=Bcd e2>c2 | d2fd ^c2A2 F2F2 | EF(GE) [^CE]4 [A,E]4 | 
+^f2>d2 A^cde f4 | e2>^c2 A=Bcd e2>c2 | d2fd ^c2A2 F2F2 | E2"^Stämförslag B.O."DE [FA]8 :|
+

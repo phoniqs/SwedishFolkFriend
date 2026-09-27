@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Anna-Gretas vals
+C:Greta Skoglund
+O:Ilsbo, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Greta Skoglund."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" Bc^c |: d2 G2 Bd | g2 f2 e2 | e2 d^c de | d4 e2 | d2 c3 B | c4 d2 | c2 B3 c | d3 Bc^c | 
+d2 G2 Bd | g2 f2 e2 | e2 d^c de | d4 e2 | d2 A2 B2 | c2 B2 A2 | G3 g g2 |1,8 g3 Bc^c :|2 g3 gf=f |: 
+e2 ^d2 e2 | g2 f2 e2 | d2 d3 c | B4 d2 | c2 c3 B | A4 c2 | B2 c2 ^c2 | d3 gf=f | 
+e2 ^d2 e2 | g2 f2 e2 | d2 d3 c | B4 d2 | c2 c3 B | A3 DEF | G3 AGF |1 G3 gf=f :|2 G3 Bc^c | 
+d2 G2 Bd | g2 f2 e2 | e2 d^c de | d4 e2 | d2 c3 B | c4 d2 | c2 B3 c | d3 Bc^c | 
+d2 G2 Bd | g2 f2 e2 | e2 d^c de | d4 e2 | d2 A2 B2 | c2 B2 A2 | G3 g g2 | g3 gga |]: 
+g2 e2 G2 | c3 gga | g2 d2 G2 | B3 dde | f2 e2 d2 | c2 B2 A2 | G2 GA Bc | d3 gga | g2 e2 G2 | 
+c3 gga | g2 d2 G2 | B3 dde | f2 e2 d2 | c2 B2 A2 | G3 g g2 |1 g3 gga :|2 g3 |]
+

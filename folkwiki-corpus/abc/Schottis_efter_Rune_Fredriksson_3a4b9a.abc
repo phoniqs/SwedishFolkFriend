@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis efter Rune Fredriksson
+S:Rune Fredriksson
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. o. arr. Rune Fredriksson"
+L:1/4
+M:4/4
+K:G
+V:1
+|:"^1" d/B/ d/B/ G G | B B A2 | c/A/ c/A/ F F | e e d2 | 
+d/B/ d/B/ G G | B B A2 | c/A/ c/A/ F3/2 A/ | G G G2 :: 
+d B/d/ g g | e e A2 | c A/c/ f e | d d B2 | 
+d B/d/ g g | e e A2 | c/B/ c/A/ F3/2 A/ | G G G2 :: 
+B B/c/ B D | B B/c/ B D | B d d3/2 B/ | B A A2 | 
+A A/B/ A D | A A/B/ A D | A B B3/2 A/ | A G G2 :| 
+V:2
+|:"^2""G" G/D/ G/D/ D D |"D7" G G F2 | F/D/ F/D/ D D |"G" G G B2 | 
+G/D/ G/D/ D D |"D7" G G F2 | F/D/ F/D/ A3/2 F/ |"G" B B B2 ::
+"G" G G/B/ d G |"Am" c B A2 |"D7" F F/G/ A c |"G" B A B2 | 
+G G/B/ d G |"Am" c B A2 |"D7" F F/G/ A c |"G" B B B2 ::
+"G" D G/G/ G B | D G/G/ G B | B3/2 G/ G A |"D7" F D D2 | 
+D D/E/ F/=F/ ^F/G/ | A A/G/ F2 | D3/2 F/ B A |"G" B B B2 :|
+

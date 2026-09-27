@@ -1,0 +1,32 @@
+%%abc-charset utf-8
+
+X:1
+T:Renåvalsen
+C:Anders Olof Mårtensson
+O:Renån, Strömsund, Jämtland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av O. Mårtensson (1888-1962) Renån, Strömsund"
+Z:"Från CD En vårdröm"
+L:1/4
+Q:1/4=140
+M:3/4
+K:C
+V:1
+"^1"u G |: e3 | c3 | A G3/2u A/ | G2 E | C (E G) | c d3/2u c/ | [GB]3- | [GB]2 G | f3 | B3 | A G3/2u A/ | 
+G3 | G, B, D | F B3/2u A/ | E3- | E2 G | e3 | c3 | A G3/2u A/ | G2 E | C (E G) | c d3/2u c/ | A3- | 
+A d3/2u e/ | f2 A- | A d3/2u ^d/ | e2 G- | G (e f) | e3 | d3 |1,8 c3- | c z G :|2 c3- | c z e |: 
+g (^f g) | c'2 e | a g3/2u a/ | g2 e | a g3/2u e/ | d c3/2u A/ | f3- | f .gu .a | g z/ B/ B- | B .gu .a | g z/ c/ c- | c .du .e | d z/ ^F/ F- | ^F (e d) | G3- | G (e f) | g (^f g) | 
+c'2 e | a g3/2u a/ | g2 e | a g3/2u e/ | e (f g) | a3- | a (.c' .b) | c' z/ f/ f- | f (a c') | c' z/ e/ e- | e (g e) | a z/ B/ B- | B (e d) |1 c3- | c (e f) :|2 c3- | c z G |: 
+E (G c) | e g3/2u a/ | g2 ^f | f3 | F G B | d a3/2u b/ | a3 | g ^f/g/ a/b/ | d' z c' | b z a | b3- | b z f | b z a | g z ^f | a z ^g | g3 |v 
+E (G c) | e g3/2u a/ | g2 ^f | f3 | F G B | d a3/2u b/ | a3 | g ^f/g/ a/b/ | 
+d' z c' | e (f g) | a z f | A (B c) | e3 | d3 |1 c3- | c zu G :|2 c3- | c2 z |] 
+V:2
+"^2" E |:"C" c3 | E3 | F E3/2 F/ | E2 C | G, (C E) | E (G E) |"G7" F3- | F2 F | B3 | F3 | F D3/2 C/ | B,3 | D G, B, | D (G D) |"C" C3- | C2 E | c3 | E3 | F E3/2 F/ | 
+E2 C | G, (C E) | E (G E) |"F" [A,F]3- | [A,F] F3/2 G/ | A2 F- | F F3/2 ^F/ |"C" G2 E- | E (G A) |"G7" G3 | F3 |1,8"C" [CE]3- | [CE] z E :|2"C" [CE]3- | [CE] z c |:
+"C" e (^d e) | e2 c | f e3/2 f/ | e2 c | f e3/2 c/ | B A3/2 F/ |"G7" [FB]3- | [FB] .B .c | B z/ G/ (G | F) .B .d |"C" c z/ G/ G | E .E .G |"D" ^F z/ D/ (D | C) D C |"G7" B, (D F) | B (c d) |"C" e (^d e) | 
+g2 c | f e3/2 f/ | e2 c | f e3/2 c/ | c (B _B) |"F" [Af]3- | [Af] (.a .^g) | a z/ c/ (c | A) (f a) | "C" g z/ c/ (c | G) (e c) | "G7" B z/ G/ (G | F) (G F) |1"C" [CE]3- | [CE] (c d) :|2"C" [CE]3- | [CE] z E |: 
+"C" C (E G) | c e3/2 f/ | "G7" e2 ^d | d3 | D F G | B d3/2 g/ | "C" f3 | e ^d/e/ f/g/ | f z e | g z f | "G7" [df]3- | [df] z d | g z f | e z ^d | "C"  f z d | e3 | C (E G) | c e3/2 f/ | 
+"G7" e2 ^d | d3 | D F G | B d3/2 g/ |  "C" f3 | e ^d/e/ f/g/ | f z e |  c (B _B) | 
+"F" c z A | "^Stämförslag B.O." F (G A) | "G7" G3 |  F3 |1 "C" [CE]3- | [CE] z E :|2 "C" [CE]3- | [CE]2 z |]
+

@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:103
+T:Skåningen eller Stoppen
+T:(Sv Folkdanser Del 1)
+R:Långdans
+O:Skåne
+Z:"Sv Folkdanser Del 1 103. Skåningen eller Stoppen"
+Z:http://runeberg.org/folkdans/besk/0102.html
+Z:"Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 103
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" f/g/ | aa fd | bb ge |dd cc | d3 |] 
+[K:D][M:2/4][K:treble]"^Dans" A | d>e ff | e>f gg | ff ee | df AA | 
+d>e ff | "^Spelas önskat antal ggr."e>f gg | ff ee | d3 f/g/ |] 
+aa fd | b z2 e/f/ | gg ec | a z2 f/g/ | 
+aa fd | bb ge | dd cc | d3 z |] 
+V:2
+"^2" d/e/ | "D"ff dA | "G" gg dB | "A7"AA GG | "D"F3 |][K:D][M:2/4][K:treble] D |"D" F>A dd |"A7" c>d ee | 
+dd AA |"D" FA DD | F>A dd |"A7" c>d ee | dd AA |"D" F3 d/e/ |] 
+"D" ff dA |"G" g z2 c/d/ |"A7" ee cA |"D" f z2 d/e/ | 
+"^Stämförslag B.O." ff dA |"G" gg eB | "A7" AA GG |"D" F3 z |]
+

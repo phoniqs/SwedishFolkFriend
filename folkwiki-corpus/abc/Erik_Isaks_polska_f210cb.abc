@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:114
+T:Erik Isaks polska
+T:(SvL Hälsingland 114)
+O:Bergsjö, Hälsingland
+R:Polska
+S:Pelle Schenell
+B:Svenska Låtar Hälsingland Nr 114
+B:Ny samling spelmanslåtar från Hälsingland Nr 8
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 20. Erik Isaks polska efter Pelle Schenell,  Sv.L. nr. 114."
+L:1/16
+Q:1/4=100
+M:3/4
+K:G
+V:1
+|:"^1" G2AB B2AB (cB)AB | G2AB c2Bc (dc)Bc | d2>d2 e2d2 f2d2 | d2>d2 g2d2 b2g2 | 
+G2AB B2AB (cB)AB | G2AB c2Bc (dc)Bc | d2>d2 e2d2 f2d2 | (ba)fa g4 z4 :: 
+g2b2 (ba)gf (e2d2) | ^c2a2 (af)ge (f2d2) | d2ef (gf)ed (cB)AG | (FG)AB (AG)FE (DC)B,A, | 
+G,2b2 (ba)gf (e2d2) | ^c2a2 (af)ge (f2d2) | d2ef (gf)ed (cB)AG | d2(FA) G4 z4 :| 
+V:2
+|:"^2" B,2DG G2FG (AG)FG | B,2DG E2DE (FE)DE | F2>F2 G2F2 A2F2 | G2>G2 B2G2 d2B2 | 
+B,2DG G2FG (AG)FG | B,2DG E2DE (FE)DE | F2>F2 G2F2 A2F2 | (dc)Ac B4 z4 :: 
+B2d2 (dc)BA (G2F2) | E2e2 (e^c)dB (A2F2) | B2cd (ed)cB (AG)FE | (DE)FG (FE)DC (FE)DC | 
+B,2d2 (dc)BA (G2F2) | E2e2 (e^c)dB (A2F2) | B2cd (ed)cB (AG)FE |"^B.O." F2(DC) B,4 z4 :|
+

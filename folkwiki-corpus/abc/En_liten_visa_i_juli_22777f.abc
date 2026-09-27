@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:10
+T:En liten visa i juli
+C:Tomas Östlund
+R:Stilla vals
+M:3/4
+L:1/8
+K:Dmaj
+Q:1/4=115
+|z4DD|:"Dmaj7"c2d2e2|"Faug"A4FG|"am/C"A4G2|"B"F4FE|
+"Gmaj7/E"D2F2d2|"G6"B2e2c2|1"em7"G3dB2|"A7"E4DD:|2"A7"A3ec2|
+"D"d4cd|"A7"e2c2A2|"D"f2d2A2|"G"g2f2d2|"A7"e4fg|
+"D"a2g2f2|"A7"e2d2A2|"G"B2g2f2|"A7"e4DD|"Dmaj7"c2d2e2|
+"Faug"A4FG|"am/C"A4G2|"B"F4FE|"Gmaj7/E"D2F2d2|"G6"B2e2c2|
+"A7"A3gc2|"D"d4z2|
+W:
+W:Gitarrackord
+W:
+W:Dmaj7 xx0222
+W:Faug x04221
+W:am/C 032210
+W:B 224442
+W:Gmaj7/E 054430
+W:G6 3x0000
+W:em7 022030
+W:A7 x02020
+

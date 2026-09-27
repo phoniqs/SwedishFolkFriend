@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Hörksvalsen
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Från kasett 1986-09-28, B.O."
+Z:"^Texten ej lämplig för tryck!"
+L:1/8
+M:3/4
+K:C
+V:1
+"^1" G2 |: c2 B2 c2 | G4 c2 | e2 c2 e2 | d6 | 
+f2 (df) df | e2 (ce) ce | d2 B2 d2 |1 c4 G2 :|2 c6 |: 
+d2 (Bd) Bd | G2 Bd g2 | e2 (ce) ce | F2 Ac f2 | 
+f2 (df) df | e2 (ce) ce | d2 B2 d2 | c6 :| 
+V:2
+"^2" E2 |: E2 D2 E2 | E4 G2 | c2 G2 c2 | B6 | 
+d2 (Bd) Bd | c2 (Gc) Gc | B2 G2 F2 |1 E4 E2 :|2 E6 |: 
+B2 (GB) GB | B,2 DG B2 | c2 (Gc) Gc | "^Texten ej lämplig för tryck!" A,2 CF A2 | 
+d2 (Bd) Bd | c2 (Gc) Gc | "^Stämförslag B.O." B2 G2 F2 | E6 :|
+

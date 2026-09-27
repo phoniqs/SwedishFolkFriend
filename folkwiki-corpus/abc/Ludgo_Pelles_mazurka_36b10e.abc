@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Ludgo Pelles mazurka
+T:(andrastämman)
+C:Ludgo-Pelle
+O:Södermanland
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Ludgo Pelle"
+L:1/8
+Q:1/4=140
+M:3/4
+K:A
+V:2
+|:"^2""A" C>E A>c e>c | E>A (d>A) c2 | C>E A>c e>F |"Bm" F(G/F/) (D>B,) [DB]2 |
+"E7" B,>C D>E F>G | B>c B3- B/ G/ | G>A G>F E>D |"A" D>C EC A,>A, | 
+C>E A>c e>c | E>A (d>A) c2 | C>E A>c e>F | "Bm" F(G/F/) (D>B,) [DB]2 | 
+"E7" B,>C D>E F>G | B>c B3- B/ G/ | G>A G>F E>D |1,8"A" C2 [EA]2 z2 :|2 "A" C2 [EA]2 zu (A/B/) |: 
+"A" c2 e3- e/u d/ | d>c (A>E) C2 | (Ec) c3- c/u e/ | "Bm" e>d (B>F) D2 |
+"E7" (GB) B3- B/ d/ | d>B (G>E) D2 | (GB) G3- G/u B/ |"A" B>A (c>A) E2 | 
+c2 e3- e/u d/ | d>c (A>E) C2 | (Ec) c3- c/u e/ |"Bm" e>d (B>F) D2 | 
+"E7" (GB) B3- B/u d/ | d>B (G>E) D2 | G>B G2 (E>D) |"E7" D z"A" [CE]2 z2 :: 
+[K:D]"D" A,>D (F>A) (GA) | F>D (F>A) (d>f) |"A7" f>e (g>e) (c>e) |"D" e>d (fd) A2 | 
+A,>D (F>A) (GA) | "^Arr. B.O." F>D (F>A) (d>f) |"A7"  f>e (g>e) (c>A) |"A7" G z"D" [FA]4 :|
+

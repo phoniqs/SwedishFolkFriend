@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Spräng-Lundgrens hambo
+C:Ludgo-Pelle
+O:Södermanland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Ludgo Pelle."
+L:1/8
+M:3/4
+K:D
+V:1
+"^1"u A |: D2 (F>A) D>F | A>D (F>A) d2 | (3(dcd) (f>d) A>F | G2 B>A G2 | 
+A,2 (C>E) A,>C | E>A, (C>E) A2 | A2 (c>A) G>E | D>d (c>B) A2 | 
+D2 (F>A) D>F | A>D (F>A) d2 | (3(dcd) (f>d) A>F | G2 B>A G2 | 
+A,2 (C>E) A,>C | E>A, (C>E) A2 | A2 c>A (3GFE |1 D2 D3u A :|2 D2 D3u d |: 
+(B>A) (G>B) d>g | b>a g z g2 |(A>G) (F>A) d>f | a>g f z f2 | 
+(g>a) (g>f) e>d | (c>a) a4 | (3aaa (a>b) a>g | f>e (d>c) d2 | 
+(B>A) (G>B) d>g | b>a g z g2 | (A>G) (F>A) d>f | a>g f z f2 | 
+(g>a) (g>f) e>d | (c>a) a3 b | a2 (g/a/g/e/) c>e |1 d2 d3u d :|2 d2 d3u D |:
+[K:G] G,>D B,>G D>B | (G>d) (B>G) D>B, | C>G E>c G>e | (c>g) (e>c) G>E | 
+D>A, F>D A>F | (c>A) f3u e | d2 (e2 d2) | (B>A) (G>E) D>B, | 
+G,>D B,>G D>B | (G>d) (B>G) D>B, | C>G E>c G>e | (c>g) (e>c) G>E | 
+D>A, F>D A>F | (c>A) f3u e | d2 (c/d/c/A/) F>A |1 G2 G3u D :|2 G2 G3 z |]
+

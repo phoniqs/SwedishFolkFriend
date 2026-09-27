@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:25
+T:Gladers Polska
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Allm. trad."
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" (D |: D>F) (F>A) A>d | (d/c/d) (e>c) A>f | (f/e/f) (g>f) e>d | (c>B) (A>G) F>E | 
+(D>F) (F>A) A>d |(d/c/d) (e>c) A>f | (f/e/f) (g>f) e>d |1 (c<e) d3 D :|2 (c<e) d3 A |: 
+d>(f a2) f>g | f/e/f g2 e2 | e>(f g>)(f e>)d | c>B A>(G F>)A | 
+d>f a2 f>g | f/e/f g2 e2 | e>(f g>)(f e>)d |1 c<e d3 A :|2 c<e d3 f |:
+ a2 a>(g f>)e | g2 g>f e>d | f2 f>e d>c | e>f (ec) A>f |
+ a2 a>g f>e | g2 g>f e>d | f2 f>e d>c |1 e<c d3 f :|2 e<c d3 z |] 
+V:2
+"^2" A, |:"D" A,2 D2 F>A |"D" F2 "A7"G2 E>d |"D" d/c/d (e>d) c>B |"A7" A2 E2 ^C>C |
+"D" A,2 D2 F>A | "D"F2 "A7"G2 E>d | "D"d/c/d (e>d)"A7" c>B |1"A7" A<G"D" F3 A, :|2"A7" A<G"D" F3 F |:
+"D" A>(d f2) d>e | "A7" d/c/d e2 c2 | A2 B2 A2 | A2 F2 D2 | 
+A>d f2 d>e |"A7" d/c/d e2 c2 | A2 B2 A2 |1 "A7" A<G"D" F3 F :|2"A7" A<G"D" F3 A |: 
+"D"f2 f>(e d>)A | "A7"e2 e>d A>F |"D" d2 d>A F>A | "A7" c>d (cA) E>A | 
+"D"f2 f>e d>A | "A7"e2 e>d A>F |"D" d2"^Stämförslag B.O."  d>A F>A |1 "A7" A<G "D" F3 A :|2"A7" A<G"D" F3 z |]
+

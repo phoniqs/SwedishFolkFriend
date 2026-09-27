@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Edsbyn
+T:(Njoks Nils)
+S:Njox Nils
+O:Edsbyn, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Arr. [[Personer/John Eriksson]], Delsbo."
+Z:https://www.youtube.com/watch?v=MRHofkVLo2k
+N:Även kallad Njoks Nils gånglåt eller Sme-Pellas Mors brudmarsch
+L:1/16
+M:2/4
+K:Dm
+V:1
+|:"^1" [DA]4 (G2B2) | [DA]6 (de) | f2fd e2e^c | d2d^c (de)fg | 
+a4 (g2b2) | a6 (de) | f2fd (ef)e^c |1 [Dd]6 z2 :|2 [Dd]6 f2 |: 
+a2a2 (fg)ab | g2ge c2de | f2f2 (de)fg | e2e^c A2GA | 
+B2BA (GA)Bc | A2AF D2DE | F2FD (EF)E^C |1 D6 f2 :|2 D8 |] 
+V:2
+|:"^2" [A,F]4 [B,D]4 | [A,F]6 (FG) | A4 (G2B2) | [DA]6 (de) | 
+f2fd e2e^c | d2D^C (DE)FG | A2AF (GA)GE |1 [FA]6 z2 :|2 [FA]6 A2 |: 
+[Fc]4 [Fc]2[Fc]2 | [Ec]4 [Ec]2[Ec][Ec] | [DA]4 [DA]2[DA]2 | [Ae]2AE ^C4 | 
+[G,D]4 [G,D]2[G,D]2 | [DA]4 [FA]2[FA][EA] | [DA]4 [GA]2[GA][EA] |1 [FA]6 A2 :|2 [FA]8 |]
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:42
+T:Svartbergstrollen
+T:(SvL Hälsingland 42)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 42
+O:Hassela, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]] (Nr 29 i Bengt Ohlsons Hall-samling)
+L:1/8
+M:3/4
+K:Gm
+V:1
+|:"^1"v D4 ^C2 | D4 G2 | (BA) (G^F) GB | A6 |v d4 A2 |{c} BA G2 B2 | A4 ^F2 | D4 B,2 |
+ D4 ^C2 | D4 G2 | (Bc) (BA) Bc | d6 |v g4 e2 |({e} dc) B2 A2- | AG ^FG AB | G4 z2 ::
+v d2 (dc) Bd | f2 fe d2 | c2 (cB) Ac | e2 ed c2 | B2 (BA) GB | d2 (B2 G2) | A2 (AG) ^FA | D6 |
+v d2 (dc) Bd | f2 fe d2 | g2 (ge) dc | B2 BA G2 | ^F2 (FA) ce | d2 (dc) BA | A2 ^F3u A | G4 z2 ::
+v (Bd) (BG) dB | A4 ^F2 | (GB) (GE) BG | F4 D2 | (EG) (EC) GF | D2 (F2 B2) | (3(ded) (ce) gf | d4 B2 | 
+(Bd) (BG) dB | A4 ^F2 |  (GB) (A^F) Dc | B4 G2 | G,2 (B,2 D2) | G2 (A2 B2) | (3(BcB) (A2 d2) | G4 z2 :| 
+V:2
+|:"^2""Gm" B,4 A,2 | B,4 D2 | (GD) (B,A,) B,D |"D7" ^F6 | A4 ^F2 |"Gm" GD B,2 D2 |"D7" ^F4 D2 | A,4 G,2 |
+"Gm" B,4 A,2 | B,4 D2 | (GA) (G^F) GA |"D7" ^F6 |"Cm" e4 c2 | "Gm" (BA) G2 ^F2- | "D7" ^FD CD ^FD |"Gm" [B,D]4 z2 ::
+"Bb" B2 (BF) DB | d2 dc B2 |"D7" A2 (A^F) DA | c2 cB A2 | "Gm" G2 (GD) B,G | B2 (G2 D2) |"D7" ^F2 (F=E) DC | A,6 |
+"Bb" B2 (BF) DB | d2 dc B2 | "Cm" e2 ec BA |"Gm" G2 GD B,2 |"D7" C2 (CD) ^FA |"Gm" B2 (BA) G^F |"D7" D2 C3 C | "Gm" [B,D]4 z2 :: 
+"Gm" (GB) (GD) BG | "D7" ^F4 D2 | "Eb"(EG) (EC) GE | "Bb" D4 B,2 |"F7" (CE) (CA,) ED | "Bb" B,2 (D2 G2) |"F7" B2 (Ac) ed |"Gm" B4 G2 | 
+(GB) (GD) BG | "D7" ^F4 D2 |"Gm" (DG) (^FD) B,D | G4 D2 | D2 (G,2 B,2) | B,2 (D2 G2) | "D7"^F2 (D2 C2) |"^B.O." "Gm" [B,D]4 z2 :|
+

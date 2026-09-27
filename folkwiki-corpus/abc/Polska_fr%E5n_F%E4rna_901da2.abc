@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Färna
+C:Majken Berglin
+O:Färna, Gästrikland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Från kassett"
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (D>G) (B>D) G>B | (Bc/B/) A>B c2 | (D>F) (A>D) F>A | (AB/A/) G>B d2 | 
+(D>G) (B>D) G>B | (Bc/B/) A>B c2 | (D>F) (A>D) F>A |1 G2 G4 :|2 G2 g3 g |: 
+(g>e) c2 c>e | (e>d) B3 d | (d>c) (A>D) F>A | (AB/A/) (G>B) d>g | 
+(g>e) c2 c>e | (e>d) B3 d | (d>c) (A>D) F>A |1 (A/B/)A/F/ G3 g :|2 (A/B/)A/F/ G4 |] 
+V:2
+|:"^2" (B,>D) (G>B,) D>G | G2 F>G A2 | (DE/D/) (C>A,) D>C | C2 B,>D G2 | 
+(B,>D) (G>B,) D>G | G2 F>G A2 | (DE/D/) (C>A,) D>C |1 [B,D]2 [B,D]4 :|2 [B,D]2 [DB]3 e |: 
+(e>c) G2 G>c | (c>B) G3 B | (B>A) F2 A,>C | C2 (B,>D) G>e | 
+(e>c) G2 G>c | (c>B) G3 B"^Stämförslag B.O." | (B>A) F2 A,>C |1 (C>A,) [B,D]3 e :|2 (C>A,) [B,D]4 |]
+

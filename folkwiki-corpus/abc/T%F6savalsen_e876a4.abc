@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+C:O'tôrgs-Kaisa Abrahamsson
+T:Tösavalsen
+R:Vals
+O:Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Rev. stämförslag B.O."
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" A,DE |: F2 (FG) FE | (3(DED) (^CD) FA | d2 (df) ag | e3 eg^f | d2 (df) ed | 
+c2 c=B A2 | (3(=BcB) (E^G) BG | A3 A,DE | F2 (FG) FE | (3(DED) (^CD) FA | d2 (3(ded) ^cd | 
+e3 afe | d2 (de) fd | e2 dB G2 | (3(ABA) (^GA) ^cA |1 [Dd]3 A,DE :|2 [Dd]3 A=B^c |:
+[K:D] d2 (AF) Ad | (3(cdc) (AF) Ac | B2 (cd) cB | A3 DEF | G2 (AB) AG | 
+F2 FG A2 | (Bc) (df) ed | e3 Ade | f2 (ag) fe | d2 (de) dc | B2 (ce) dB | 
+A3 DEF | G2 (AB) AG | (3(FGA) (GF) ED | C2 (DE) DC |1 D3 ABc :|2 D3 z2 z |] 
+V:2
+"^2" A,A,^C |:"Dm" D2 (DE) D^C | A,2 (G,A,) DF | A2 (Ad) fe |"A7" ^c3 ced |"Dm" A2 (Ad) c=B | 
+"Am" A2 A^G E2 |"E7" ^G2 (=B,E) GE |"A7" ^C3 A,A,C |"Dm" D2 (DE) D^C | A,2 (G,A,) DF | 
+A2 A2 ^GA | ^c3 fdc |"A7" A2 (A^c) dA |"Dm" B2 GD B,2 | "A7" E2 (DE) AE |1"Dm" F3 A,A,^C :|2 "Dm" F3 A^G=G |:
+[K:D]"D" F2 (FD) FA |"F#m" A2 (FC) FA |"G" G2 (AB) AG |"D" F3 A,A,D | "Em" E2 (FG) FE |
+"D" D2 DE F2 |"E7" (^GA) (Bd) cB |"A7" c3 FAc |"D" d2 (fe) dc | "D7" A2 (Ac) AE |"G" G2 (Ac) BG |
+"D" F3 A,CD |"Em" B,2 (EG) FE |"D" (3(DEF) (ED) CB, | "A7" A,2 (A,G) FE |1"D" [A,F]3 A"^Rev. stämförslag B.O."^G=G :|2"D" [A,F]3 z2 z |]
+

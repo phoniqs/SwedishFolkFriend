@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polka efter Hans Haglöf
+S:Hans Haglöf
+O:Torsång, Dalarna
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polka från Torsång (2) eft. Hans Haglöf, Torsång."
+L:1/16
+M:2/4
+K:C
+V:1
+"^1" e |: g2gf e2ed | c2G2 G2>c2 | A2Ac B2Bd | (cB)ce g2>e2 | 
+g2gf e2ed | c2G2 G2>c2 | A2Ac (BA)Bd | c5 e ::
+g2ag e2g2 | (ag)fe d2>e2 | f2gf d2f2 | (gf)ed c2>e2 | 
+g2ag e2g2 | (ag)fe d2>e2 | f2gf B2B2 |1 d4 c3 e :|2 d4 c3 z |] 
+V:2
+"^2" c |:"C" e2ed c2cG | E2E2 E2>G2 | "Dm" F2FA "G7" G2GF |"C" (ED)Ec e2>c2 | 
+e2ed c2cG | E2E2 E2>G2 | "Dm" F2FA "G7" (GF)GF |"C" E5 c :: 
+"C" e2fe c2e2 |"G7" (fe)dc B2>c2 | d2ed B2d2 | "C" (ed)cG E2>c2 | e2fe c2e2 | 
+"G7" (fe)dc B2>c2 | "^Stämförslag B.O." d2ed G2G2 |1"G7" F4"C" E3 c :|2"G7" F4"C" E3 z |]
+

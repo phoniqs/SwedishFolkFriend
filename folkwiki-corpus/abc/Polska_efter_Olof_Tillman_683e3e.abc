@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Olof Tillman
+S:Efter Olof Tillman
+O:Dala-Floda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" E>(A c>)(B A>)c | d>f e2 c2 | B>(e g>)(b e>)g | (a>f) (e>d) c>A | 
+E>(A c>)(B A>)c | d>f e2 c2 | B>(e g>)(b e>)g | a2 a4 :: 
+(a>g) (g>f) d>f | (f>e) e>(E A>)c | (c>B) B>(E G>)B | A>E (C>E) A,2 | 
+(a>g) (g>f) d>f | (f>e) e>(E A>)c | (c>B) B>(E G>)B | A2 A4 :: 
+(3(cBc) d>(f e2) | (3(cBc) d>c B2- | B>(e g>)(b e>)g | a>f (e>d) c2 | 
+(3(cBc) d>(f e2) | (3(cBc) d>c B2- | B>(e g>)(b e'>)g | a2 a4 :| 
+V:2
+|:"^2" C>(E A>)(E C>)E | B>d c2 A2 | G>(B e>)(g B>)e | (c>d) (c>B) A>E | 
+C>(E A>)(E C>)E | B>d c2 A2 | G>(B e>)(g B>)d | c2 c4 :: 
+(f>e) (e>d) A>d | (d>c) c>(C E>)A | (A>G) G>(B, E>)D | C>C (A,>C) C2 | 
+(f>e) (e>d) A>d | (d>c) c>(C E>)A | (A>G) G>(B, E>)D | C2 C4 :: 
+A2 B>(d c2) | A2 B>A G2- | G>(B e>)(g B>)d | c>d (c>B) A2 | 
+A2 B>(d c2) | A2 B>A G2- | G>(B e>)(g b>)"^Stämförslag B.O."e | c2 c4 :|
+

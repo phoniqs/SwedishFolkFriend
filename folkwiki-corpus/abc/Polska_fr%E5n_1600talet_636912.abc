@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från 1600-talet
+O:Värmland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Enkelt stämförslag B.O.
+N:Vad är det för källa till denna mycket tidiga polska? /Peter A.
+N:Svar: Bengt Ohlsons Noter > C. Sv. Bygdedanser > J. Värmland /Karin Helander
+L:1/8
+Q:1/4=112
+M:3/4
+K:Fm
+V:1
+|:"^1" "Fm" c2 f2 ec | BB/d/ c2 A2 | FF/G/ A2 B2 | AG/F/ AG/F/ "C7" G2 ::
+"Fm" c>A FF/A/"C7" GA | "Fm" c>A FF/A/"C7" G2 |"Fm" c>A FA"C7" G=E |"C7" C>=E"Fm" F2 F2 :| 
+V:2
+|:"^2" A2 d2 cA | G>B A2 F2 | A,>B, C2 D2 | CB,/A,/ CB,/A,/ B,2 :: 
+A>F C>F =EF | F>C A,>C B,2 | A>F CF =EC | "^B.O" G,>B, A,2 A,2 :|
+

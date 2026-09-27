@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:61
+T:Kristin - Kristin
+T:(Sv Folkdanser Del 1)
+O:Hälsingland
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 15.  Kristin - Kristin"
+Z:"Sv Folkdanser Del 1 61. Kristin - Kristin"
+Z:https://www.folkdansaren.se/dans/html/kristin.html
+Z:http://runeberg.org/folkdans/besk/0066.html
+Z:"Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 61
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" A | de fg | ba (a/f/)d/f/ |"A7" ag (g/e/)c/e/ |"D" d3 |] 
+[K:D][M:2/4][K:treble]"^Dans" A |:"D" de fg | ba (a/f/)d/f/ |"A7" ag (g/e/)c/e/ |"D" gf f>A | 
+de fg | ba (a/f/)d/f/ |"A7" ag (g/e/)c/e/ |"D" d2 z A ::
+"D" f2 z A | f2 z A | ff gf |"A7" e2 z A | 
+e2 z A | e2 z A | ee fe |1"D" d2 z A :|2"D" d3 z |] 
+V:2
+"^2" F |"D" FA de | gf (f/d/)A/d/ | fe (e/c/)A/G/ | F3 |]
+[K:D][M:2/4][K:treble] F |: FA de | gf (f/d/)A/d/ | fe (e/c/)A/c/ | ed d>F | 
+FA de | gf (f/d/)A/d/ | fe (e/c/)A/G/ | F2 z D :: 
+A2 z D | A2 z D | dd ed |"^Spelas öskat antal ggr." c2 z G | 
+c2 z G | c2 z G | cc AG |1 "^Stämförslag B.O." F2 z D :|2 F3 z |]
+

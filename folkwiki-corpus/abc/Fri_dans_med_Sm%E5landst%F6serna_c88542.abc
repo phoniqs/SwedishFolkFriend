@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Fri dans med Smålandstöserna
+T:Schottis efter Edvard Olsson, Vitebro
+R:Schottis
+O:Vitebro, St. Olof, Skåne
+S:Edvard Olsson
+B:Folkmusik i Österlen (Birger Ehrnborn)
+M:2/4
+L:1/8
+K:G
+|:de/f/ gf/e/ | dB BB | A/^G/A/B/ cc | G/F/G/A/ BB |
+de/f/ gf/e/ | dB BB | A/^G/A/B/ cB/A/ | GB G2 :|
+|: ec/c/ eg | d/B/G/B/ dd | DF/A/ cc | B/A/G/B/ dd |
+ec/c/ eg | d/B/G/B/ dd | DF/A/ cB/A/ |1 GB G2 :|2 GB G/B/c/d/ |
+K:C
+|:ee/d/ ee/d/ | c/B/c/e/ gg | d/^c/d/e/ ff | e/d/c/d/ ee |
+GG/c/ ee/d/ | c/B/c/e/ gg | d/^c/d/e/ fe/d/ |1 ce cG/c/ :|2 ce c2|
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals från Enviken
+T:efter Edvard Söderlund
+S:Edvard Söderlund
+R:Vals
+O:Enviken, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"17. Vals från Enviken efter Edvard Söderlund, Enviken."
+L:1/8
+M:3/4
+K:Gm
+V:1
+"^1" D2 |: G3 ABc | d4 (3(gag) | d3 cBA | G3 ABd | D4 ^F2 | (Ac) (BA) G^F | 
+(Gd) (BG) A^F | D4 D2 | G3 ABc | d4 (3(gag) | d3 cBA | G3 ABd | 
+D4 ^F2 | (Ac) (BA) G^F | (Gd) (BG) A^F |1,8 G4 D2 :|2 G4 d2 |:
+ d2 (g/a/g/^f/) g2 | d2 (a/b/a/g/) a2 | (3(gag) (^f2 g2) | (ab) a^f d2 | d2 (.[dd'].[dd']) .[dd'].[dd'] | 
+d2 (.[dc'].[dc']) .[dc'].[dc'] | (3(bc'b) a2 ^f2 | (ab) a^f a2 | d2 (g/a/g/^f/) g2 | d2 (a/b/a/g/) a2 | (3(gag) ^f2 g2 |
+ (ab) a^f d2 | d2 (.[dd'].[dd']) .[dd'].[dd'] | d2 (.[dc'].[dc']) .[dc'].[dc'] | (3(bc'b) a2 ^f2 |1 g4 d2 :|2 g4 D2 |] 
+V:2
+"^2" A,2 |:"Gm" B,3 DGA | B4 d2 | "D7" B3 AGD | "Gm" B,3 DGB |"D7" A,4 D2 | (^FA) GD B,A, | 
+"Gm" (B,G) DB, CA, |"D7" A,2 (A,C) B,A, |"Gm" B,3 DGA | B4 d2 | "D7" B3 AGD | "Gm" B,3 DGB |"D7" A,4 D2 |
+ (^FA) GD B,A, |"Gm" (B,G) DB,"D7" CA, |1,8"Gm" B,4 A,2 :|"Gm" B,4 B2 |: 
+"Gm" B2 (d>^c) d2 | "D7" A2 (c>=B) c2 | "Gm" (3(BcB) A2 B2 |"D7" (cd) cA ^F2 | A2 (.^f.f) .f.f |
+ A2 (.^f.f) .f.f | d2 (c2 A2) | (cd) cA d2 | "Gm" B2 (d>^c) d2 | "D7" A2 (c>=B) c2 | "Gm" (3(BcB) A2 B2 |
+"D7" (cd) cA ^F2 | A2 (.^f.f) .f.f | A2 (.^f.f) .f.f | d2 (c2 A2) |1 "Gm" B4 B2 :|2 "Gm" B4"^B.O." A,2 |]
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Kalla kårar
+S:Pekkos Helmer
+O:Bingsjö, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+K:G
+V:1
+"^1""^\"Kalla kårar\"" (C2 |: B,2)G,B, D2B,D G4 | B2GB d2Bd g4 | g2ge d2dc B2Bd | d2Bd c2Ac (B2G2) | 
+G,2>G,2 B,2G,B, D2G2 | B2GB d2Bd g2dg | (gb)bg d2dB G2(BG) |1 (DF)AF G6 C2 :|2 (DF)AF G8 |: 
+[G,D]4 [Bg]6 (3(fgf | e2)d2 f2af g2>B2 | c2ec A2cA (DG)BG | DFAF G2D2 B,2G,2 | 
+[G,E]4 [Ec]4 [Ec]4- | [Ec]2dc BcdB c2>B2 | c2ec A2cA DG(BG) |1 DFAF G8 :|2 DFAF G6 z2 |] 
+V:2
+"^2" A,2 |: G,4 B,2G,B, B,4 | G2DG B2GB B4 | B2Bc B2BA G2GB | B2GB A2FA G2D2 | 
+D2>D2 D2B,D G2B2 | G2DG B2GB d2Bd | d2gd B2BG D2GD |1 A,2CA, [B,D]6 A,2 :|2 A,2CA, [B,D]8 |: 
+[B,G]4 [GB]6 (d2 | c2)B2 d2fd B2>G2 | A2cA E2AE (B,D)GD | A,DFD B,2G2 D2B,2 | 
+C4 G4 G4 | A2BA (^GA)BG A2>G2 | A2cA E2AE B,D(GD) |1 A,DFD [B,D]8 :|2"^Stämförslag B.O." A,DFD [B,D]6 z2 |]
+

@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1351
+T:Polska efter morfadern
+T:(SvL Dalarna 1351)
+R:Polska
+O:Enviken, Dalarna
+S:Vilhelm Hedlund
+N:Jmf med SvL Dalarna 1115, Höök Olof Andersson.
+B:Svenska Låtar Dalarna
+M:3/4
+L:1/8
+Q:152
+K:Am
+{ef}e>(d c2) A>(c|B)G E4|{AB}A>(^G A)B cd|de [ee]4|
+{ef}e>(d c2) A>(c|B)^G E4|{AB}A>(^G A>)(B c)A|B^G [AA]4:|
+|:{ef}e>(e a)a g2|{ef}e>(d f)d e>(d|c)B A(B c)>e|de/d/ c2 B2|
+{ef}e>e a>a g2|{ef}e>(d f)d e2|{/d}cB AB cA|B^/G [AA]4:|
+

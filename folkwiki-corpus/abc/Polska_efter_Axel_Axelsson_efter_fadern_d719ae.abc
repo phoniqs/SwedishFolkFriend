@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:529
+T:Polska efter Axel Axelsson, efter fadern
+T:"En sup till"
+T:(OA 529)
+B:Sörmländska låtar samlade av Olof Andersson nr 529
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:Till polskans första repris sjöngs: "En sup till, det kan jag väl få", etc. Andra reprisen har Melker Andersson själv gjort.
+H:Se anmärkningen till n:r 645
+Z:Anders Larsson 2025-04-19
+M:3/4
+L:1/4
+Q:90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+d/d/4e/4 c/c/ d | (e/4f/4)e/4d/4 c/d/ e/f/ | (g/4f/4)g/4a/4 g/f/ e/d/ | (c/4d/4)e/4c/4 d/A/ F/A/ |
+d/d/4e/4 c/c/ d | (e/4f/4)e/4d/4 c/d/ e/f/ | (g/4f/4)g/4a/4 g/f/ e/d/ | (c/4d/4)e/4c/4 d2 ::
+f/f/ f/f/ f/f/ | (D/4F/4)A/4F/4 (D/4F/4)A/4F/4 (D/4F/4)A/4F/4 | D/>g/ g/g/ g/b/ |
+b/g/4b/4 a a/>a/ |  a/b/4a/4 g/f/ e/d/ | (c/4d/4)e/4c/4 d2 :|
+

@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Efterkälken
+T:Gånglåt
+S:Hjort Anders Olsson
+S:Hans Börtas
+O:Bingsjö, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Hjort Anders och Hans Börtas."
+L:1/16
+M:2/4
+K:D
+V:1
+|:"^1" (DF)AF (DF)AF | (DF)Ad (fd)AF | (DF)AF (DF)AF | G2EC A,4 | (A,C)EA (cd)ef | 
+(gf)gb a2fa | (gf)ed c2Bc | d2AF D4 | (DF)AF (DF)AF | (DF)Ad (fd)AF | (DF)AF (DF)AF | 
+ G2EC A,4 | (A,C)EA (cd)ef | (gf)gb a2fa | (gf)edT c2Bc |1 [Fd]6 A2 :|2 [Fd]6 a2 |:
+ d'4 a2>(g2 | fg)af (d2F2) | G2>(a2 gf)ga | g6 (ef) | (ga)gf (ef)ed | (cd)cB A2>A2 |
+ (Ac)ec (Ad)fd | F2AF (D2a2) | d'4 a2>(g2 | fg)af (d2F2) | G2>(a2 gf)ga |
+ g6 (ef) | (gf)ed (cd)ef | (gf)gb a2fa | (gf)ed c2Bc |1 [Fd]6 a2 :|2 [Fd]8 |] 
+V:2
+|:"^2""D" (A,D)FD (A,D)FD | (A,D)FA (dA)FD | (A,D)FD (A,D)FD | "A7" C2GE C4 | (EA,)CE (AB)cd | 
+(e^d)e=d c2df | (ed)cB G2EG |"D" F2FD A,4 | (A,D)FD (A,D)FD | (A,D)FA (dA)FD | (A,D)FD (A,D)FD | 
+"A7"C2GE C4 | (EA,)CE (AB)cd | (e^d)e=d c2df | (ed)cB A2GA |1"D" [DA]6 D2 :|2"D" [DA]6 f2 |: 
+"D"f4 f2>(e2 | de)fd (A2D2) |"G" B,2>(c2 BA)Bc |"Em" B6 (cd) |"A7" (ef)ed (cd)cB | (AB)AE C2>E2 | 
+"A7" (EA)cA "D"(EA)dA |"D" D2FD (A,2f2) | f4 f2>(e2 | de)fd (A2D2) |"G" B,2>(c2 BA)Bc | "Em" B6 (cd) |
+"A7" (ed)cB (AB)cd | (e^d)e=d c2df | "^Stämförslag B.O." (ed)cB A2GA |1"D" [DA]6 f2 :|2"D" [DA]8 |] 
+

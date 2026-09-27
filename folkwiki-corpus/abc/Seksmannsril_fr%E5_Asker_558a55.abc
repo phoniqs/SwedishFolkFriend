@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:38
+T:Seksmannsril frå Asker
+R:Ril
+O:Asker, Norge
+Z:[[Personer/Bengt Ohlson]]
+Z:"Norge, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" dB cA | AG G2 |]:[K:G][M:2/4][K:treble]"^Dans" d3 e | dB ge | dB ge | a2 a2 | 
+d3 e | dB ge | dB cA | AG G2 :: D2 GB | AG BG | D2 GB | 
+AG FE | D2 GB | AG BG | DB, B,A, | B,G, A,2 :| D2 GB | 
+AG BG | DG BG | A2 AB | cB AG | GF ED | EG FA | AG G2 |] 
+V:2
+"^2" BG AF | CB, B,2 |]:[K:G][K:treble] B3 c | BG ec | BG ec | f2 f2 | B3 c | BG ec | BG AF | 
+CB, B,2 :: B,2 DG | DB, GD | B,2 DG | FE DC | B,2 DG | DB, GD | BG GF | GE F2 :| B,2 DG | DB, GD | 
+"^Spelas  2  ggr." B,D GD | F2 FG | AG FE | ED CA, | "^Stämförslag B.O." CE DC | CB, B,2 |]
+

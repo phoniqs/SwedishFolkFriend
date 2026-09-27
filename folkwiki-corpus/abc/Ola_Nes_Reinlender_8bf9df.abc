@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:10
+T:Ola Nes' Reinlender
+T:efter Sigurd Fjeldstad
+R:Schottis
+O:Holt, Norge
+D:"Ola Nes' Reilender" från skivan Sorpesoll (med [[Personer/Ånon Egeland]] och [[Personer/Mikael Marin]])
+S:[[Personer/Sigurd Fjeldstad]] från Holt och Tvedestrand, [[Platser/Norge]]
+Z:Christian Fürst, 2020-04-25
+N: Låten spelas en oktav lägre på skivan
+M:4/4
+L:1/8
+K:A
+|: A>(G A)>(c e2)e2| e>(f e)>(d c2) A2 |1 E>E G>B d2 d2 | {e}f2 ed c2 A2 :|
+|2 E>(E G)>(B d)>(B G)>(B | B2) A2 A4 :]: A>(G A)>c e2a2 | a2 gf d4| {e}f2 d2 {e}f2 d2 | d>(c A)>(c e2) e2 |
+ e>(f e)>(d c)>(a g)>(a | b)>(a g)>(f e)>(d f)>(d | c)>(B A)>(c B)>(A G)>B | B2 A2 A4 :|
+

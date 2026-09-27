@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polka S:t Olof
+Z:Patrik Månsson, 2025-07-10
+R:Polka
+O:S:t Olof, Skåne
+M:2/4
+N:Upptecknad och arr. av Jan-Erik Wideberg
+L:1/16
+Q:1/4=100
+K:G
+V:1
+D2 |: "G"G2G2B2B2| d6 (Bc) | "D7"d2d2A2 (Bc) | "G"(Bc)(BA) G3D | 
+   |  "G"G2G2B2B2| d6 (Bc) | "D7"d2d2 A2 (BA)|1 "G"G2G2G2 D2 :|2 "G"G2G2G2 (Bc) ||
+   |: "G"d2d2g2g2 | "D7"f2f2 A3B | c2c2 e2e2 | "G"(de)(dc) B2(Bc) | d2d2 g2g2 | 
+   |  "D7"f2f2 A3B | (cB)(ce) (dc)(BA) |1 "G"G2G2G2 (Bc) :|2 "G"G2G2G2 z2||
+V:2
+D2 |: G,2G,2 G2G2| B6 D2 | F2F2 (FE)(DC) | B,2B,2 G,3D | 
+   |  G,2G,2 G2G2| B6 D2 | F2F2 (FE)(DC) |1 B,2B,2 G,2 z2 :|2 B,2B,2 G,2 (GA)||
+   |: G2G2 B2B2 | d2d2 c3B |  A2A2 c2c2 |  (Bc)(BA) G2(GA) | G2G2 B2B2 | 
+   |  d2d2 c3B | (AG)(Ac) (BA)(FD) |1 B,2B,2B,2 (GA) :|2 B,2 B,2 B,2 z2||
+

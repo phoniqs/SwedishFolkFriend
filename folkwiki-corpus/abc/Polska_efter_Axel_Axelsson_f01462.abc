@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:528
+T:Polska efter Axel Axelsson
+T:(OA 528)
+B:Sörmländska låtar samlade av Olof Andersson nr 528
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:I uppteckningen står låten noterad en kvint upp (A-dur), Vid uppteckningen finns en kommentar "En kvint lägre, D-dur"
+Z:Anders Larsson 2025-04-19
+M:3/4
+L:1/4
+Q:90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+F/F/ F/E/4F/4 G/F/ | D/D/ D/E/4D/4 C/A,/ | F/F/ F/E/4F/4 G/F/ | D/D/ D/E/4D/4 C/A,/ |
+D/F/ A/d/ d/f/ | f/e/4f/4 e/d/4e/4 d/c/ | A/F/4A/4 G/E/4G/4 F/D/4F/4 | E/C/ C/D/ D ::
+D/>F/ A/4F/4D/4F/4 A/4F/4D/4F/4 | G/B/ B/G/ E | A/c/ e/4c/4A/4c/4 e/4c/4A/4c/4 | d/f/ a/f/ d |
+c/4d/4e/4f/4 g/f/ e/d/ | c/4d/4e/4d/4 c/B/ A/G/ | D/4E/4F/4G/4 A/4B/4c/4d/4 e/g/ | f/4e/4d/4c/4 c/>d/ d :|
+

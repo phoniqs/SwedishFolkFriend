@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:40
+T:Skomagerstykket
+O:Danmark
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:Danmark, Gillesdanser i Norden.
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:C
+V:1
+"^1""^Förspel" gg (g/e/)c/e/ | ff ee | dd c2 |]:[M:2/4][K:treble]"^Dans" gg (g/e/)c/e/ | 
+gg (g/e/)c/e/ | f>f e>e | dd c2 :: 
+dd GG | (ce) g2 | ff ee | dd c2 :| 
+V:2
+"^2" ee (e/c/)G/c/ | dd cc | FF E2 |]:[M:2/4][K:treble] ee (e/c/)G/c/ | ee (e/c/)G/c/ | d>d c>c | 
+FF E2 :: BB FF | (Ec) e2 | dd cc |"^Stämförslag B.O." FF E2 :|
+

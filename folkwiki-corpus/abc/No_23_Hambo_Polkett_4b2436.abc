@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:23
+T:No 23 Hambo Polkett
+T:ur Sven Johnssons notbok
+B:Sven Johnssons notbok 
+L:1/8
+M:3/4
+O:Mörrum, Blekinge
+Q:1/4=130
+R:Hambo
+Z:Göran Gustafsson
+K:G
+G>A B2 G2 | e>^c d2B2 | A>B c2 [AF]2 | G>A B2 D2 | G>A B2 G2 | e>^c d2B2 | A>d f2e2 | e>^c d4 :: 
+(d^cBc)a>a | a z c4 | (cB^AB)g>g | g z G4 | EGc eg>g | (g2 B4) | c>Be>dc>A | G2 g4 ::[K:C] 
+e>f g2 z2 | e>f g2 z2 | g2 a>gf>e | g>e f4 | d>e f2 z2 | d>e f2 z2 | f2 g>fe>d | e>B c4 | 
+e>f g2 z2 | e>f g2 z2 | g2 f>ed>c | B z A4 | d>e f2 z2 | c>d e2 z2 | G2 {AG}^F>Ge>d | d z c4 :: 
+e2 e>ee>e | e>dc>B A2 | d2 d>dd>d | d>cB>A G2 | 
+G2 ^F2 G2 | A>Ge4 | G>F d3 B | c2 c2 z2 :|
+

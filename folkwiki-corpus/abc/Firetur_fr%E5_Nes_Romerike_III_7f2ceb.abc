@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:16
+T:Firetur frå Nes, Romerike III
+O:Nes, Romerike, Norge
+R:Fyrtur
+Z:[[Personer/Bengt Ohlson]]
+Z:"Norge, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:3/8
+K:F
+V:1
+"^1""^Förspel" f | gde | c>de/f/ | gce | f2 |][K:F][M:3/8][K:treble]"^Dans" c |: dcA | F2 B | 
+d=Bc | f2 f | gde | c>de/f/ | gce | f2 c :: 
+c/=B/c/B/c/B/ | cf/a/c' | ce/g/c' | cf/g/a | 
+c/=B/c/B/c/B/ | cf/a/c' | ce/g/b/g/ |1 f2 c :|2 f2 f |: 
+fed | c2 c | =Bcd | c2 c | 
+f2 c | a2 f | bge |1 f2 f :|2 f2 z |] 
+V:2
+"^2" d | BFG | E>Gc/d/ | BEG | A2 |][K:F][M:3/8][K:treble] A |: BAF | A,2 G | B^GA | A2 A | cBc | 
+E>Gc/d/ | BEG | A2 A :: A/G/A/G/A/G/ | Ac/f/a | Bc/e/g | Ac/e/f | A/G/A/G/A/G/ | Ac/f/a | 
+Bc/e/e/B/ |1 A2 A :|2 A2 A |: AGF | E2 E | DEF | E2 E | A2 F | "^Stämförslag B.O." c2 A | ecB |1 A2 A :|2 A2 z |]
+

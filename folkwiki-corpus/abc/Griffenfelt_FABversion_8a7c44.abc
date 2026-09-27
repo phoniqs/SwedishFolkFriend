@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Griffenfelt FAB-version
+O:Norge
+R:Schottis
+S:Ånon Egeland
+S:Trygve Eftestøl
+D:Folk All in Band, Griffenfelt (Studio version) https://open.spotify.com/album/0y7oe1sSG2IwDFC1d95Ey9?si=HHttFNZZRVizRSg0F8CBlg
+N:Ovanstående not, fast justerad efter FAB:s spel. 
+N:Form: Intro (8-takter), Melodi x4, Blås-break (8 takter), Melodi x2, Outro: X-tra B-del + loop sista 2takter x3
+M:2/4
+L:1/16
+K:Amix
+"A"ABcd eege|feec AAcA|"G"B2G2 GABd|"A"c2A2 A3E|
+"A"ABcd eege|feec AAcA|"G"B2G2 GABd|"A"c2A2 A3e||
+"A"a2a2 aaba|"G"g2e2 e3f|"D/F#"edcB "A7/G"cdea|"Em"g2e2 e3e|
+"A"a2a2 aaba|"G"g2e2 e3f|"D/F#"edcB "A7/G"cBAG|"A"A2A2 A4|]
+

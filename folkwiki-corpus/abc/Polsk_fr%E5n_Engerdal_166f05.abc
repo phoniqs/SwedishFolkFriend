@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polsk från Engerdal
+O:Engerdal, Norge
+R:Polska
+S:Karl H Almlöf
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Karl H. Almlöf, 92-04-04."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (D |: B>A) (3(AcB) G>B | (3AFA G2 A>B | c>(d cTB) A>G | (A<B) D3 D | 
+B>A (3(AcB) G>B | (3AFA G2 A>B | c>d cTB A>G |1 AB/A/ G3 D :|2 AB/A/ G3 (B |: 
+d2) d>c (3ece | (3d2 e2 f2 g2 | f2 ed (3(efe) | d2 B3 (B | 
+d2) d>c (3ece | (3d2 e2 f2 g2 | g>(d B2) A>A |1 (3(AcB) G3 B :|2 (3(AcB) G3 z |] 
+V:2
+"^2" (B, |: D2) C2 B,2 | C2 B,2 D>(G | A>)(B AG) D>B, | (C<D) A,3 A, | D2 C2 B,2 | C2 B,2 D>G | 
+A>(B AG) D>B, |1 CD/C/ [B,D]3 B, :|2 CD/C/ [B,D]3 (G |: B2) B>A (3cAc | (3B2 c2 d2 e2 | 
+d2 cB (3(cdc) | B2 G3 (G | B2) B>A (3cAc | (3F2 A2 c2 B2 | B>(G D2) C>C |1 (3(CED) [B,D]3 G :|2 "^Stämförslag B.O." (3(CED) [B,D]3 z |]
+

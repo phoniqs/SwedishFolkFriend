@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:12
+T:Gånglåt
+T:(Invigningslåt till ett mindre bygge)
+C:Jon-Erik Öst
+S:Thore Härdelin den Äldre
+O:Hälsingland
+R:Gånglåt
+Z:Karin Helander
+Z:"Skithuslåten"
+Q:80
+B:25 Öst-låtar Nr 12
+M:2/4
+L:1/16
+K:C
+V:1
+[G,2G2] |: "C" [c4E4] [c2E2]de | G6 cB | "F" A2F2 A2c2 | "C" G6 AG | "Dm"  F2D2 "^Arr Th. Härdelin" D2GF | 
+"C" E2C2 C2E2 | "D" D2^FA cAFD | "G" GDB,D G,2G2| "C" [c4E4] [c2E2]de | G6 cB  |
+"F" A2F2 A2c2 | "C" G6 AG | "Dm" FAdf a2a2 | "C" EGce g2g2 | "D" ^FGBd "G" =fagB |1 
+"C" [c2E2][c2e2] [c2E2][G,2G2] :|2 "C" [c2E2][c2e2] [c2E2] z2 |: "Am" A2A,2 [C2E2A2]^GA | "E7" B2B,2 [B,4E4d4] | "Am" e2c2 c2dc |
+"E7" B2[^G2B,2] [G2B,2][G2B,2] | "Am" [C2A2][Ae][Ae] [A2e2][A2e2] | "Dm" [F2d2][A2e2] [f4A4] | "A" eae^c "E7" Bd^GB | "A" AE^cB [^C4A4] :|
+V:2
+G2 |: G4 G2B,C | E2G,2 C2E2 | A,2[FA][FA] [F2A2][F2A2] | C2E2 E4 | G,2[B,2F2] [B,2F2][B,2F2] | 
+C2E2 G4 | D2c2 B2A2 | GAFG EFDE | G4 G2B,C | E2G,2 C2E2 | 
+A,2[F2A2] [F2A2][F2A2] | G,2C2 E4 | A2f2 f2gf | G2[c2e2] [c4e4] | D2FA G2Bd |1
+G2E2 C2G2 :|2 G2E2 C2 z2 |: E4 C2[A,2E2] | D2[^G2B2] [^G4B4] | c2A2 E2BA |
+E2[B2e2] [B2e2][B2e2] | E2[Ec][Ec] [E2c2][E2c2] | A2F2 D4 | ^cecA ^GBEG | ED^CB, [A,4E4] :|
+

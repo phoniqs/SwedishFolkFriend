@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:494
+T:Brudmarsch från Alfta
+T:(SvL Hälsingland 494)
+S:Tulpans Anders Olsson
+B:Svenska Låtar Hälsingland Nr 494
+O:Alfta, Hälsingland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"^En gammal gubbe, kallad Keisers Far, spelade ofta låten. En nästan identisk variant av låten spelas i Finland."
+L:1/4
+Q:1/4=144
+M:2/2
+K:Am
+V:1
+"^1"u A |:v (A E) (A B) | c2 (B/A/)^G/A/ | (B E) (^G B) | d2 c2 | 
+(c/B/)B/B/ (B/A/)A/A/ | e2 (^G3/2 B/) | (B A) A A |1 A3u A :|2 A3u c |:
+v e2 (e/f/)e/d/ | (e g) (f e) | (e d) (d/e/)d/c/ | (d f) (e d) | 
+c2 (c/d/)c/B/ | (c e) (d c) | (B3/2 A/) (^G/A/)B/c/ | B3 c | 
+e2 (e/f/)e/d/ | (e g) (f e) | (e d) (d/e/)d/c/ | (d f) (e d) |
+(c3/2 B/) (B/A/)A/A/ | e2 (^G B) | (B A) A A |1 A3u c :|2 A3 z |] 
+V:2
+"^2" C |:"Am" (C A,) (C E) | A2 E2 |"E7" (D B,) (E ^G) |"E7" B2"Am" A2 |"E7" (A ^G) (^F E) | 
+^G2 E2 |"Am" (D C)({D} C B,) |1"Am" C3 C :|2"Am" C3 A |:"C" c2 (c3/2 B/) | (c e) (d c) | 
+"G" (c B) (G3/2 A/) | "E7" (B d) (c B) |"Am" A2 (E3/2 ^G/) | (A c) (B A) |"E7" ^G2 (E ^F) |
+ ^G3 A | "C" c2 (c3/2 B/) | (c e) (d c) |"G" B2 (G3/2 A/) |"E7" (B d) (c B) | 
+"Am" A2 (E"^Arr. B.O." ^F) | "E7" ^G2 (D E) |"Am" (D C)({D} C B,) |1"Am" C3 A :|2"Am" C3 z |] 
+

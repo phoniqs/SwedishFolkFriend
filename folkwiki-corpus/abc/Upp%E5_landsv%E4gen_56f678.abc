@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Uppå landsvägen
+S:Bröderna Lindqvist
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:2/4
+K:G
+V:1
+"^1" (B>c)"^Schottis" |: d>bb>g g>dd>g | g>ff>a e2>g2 | f>ee>c c>AA>F | 
+G>AB>c d2(B>c) | d>bb>g g>dd>g | g>ff>a e2>g2 | f>ee>c c>AA>F |1 
+G2B2 G2(B>c) :|2 G2B2 G>cB>A |: B2G2 G2(A>B) | c>ee>e e>gf>e | 
+e2d2 d2(f>a) | a>gg>e d>ed>c | B2G2 G2(A>B) | 
+c>ee>e e>gf>e | e2d2 d2(f>a) |1 a>gg>g g>cB>A :|2 a>gg>g g4 z4 |] 
+V:2
+"^2" (G>A) |: B>gg>d d>BB>d | d>cc>e c2>e2 | d>cc>A A>FF>D | 
+B,>DG>A B2(G>A) | B>gg>d d>BB>d | d>cc>e c2>e2 | d>cc>A A>FF>D |1 
+B,2D2 B,2(G>A) :|2 B,2D2 B,>AG>F |: G2D2 B,2(C>D) | E>cc>c c>ed>c | 
+c2A2 F2(A>c) | c>BB>A G>cB>A | G2D2 B,2(C>D) | 
+E>cc>c c>ed>c | c2A2 F2(A>c) |1 c>BB>B B>AG>F :|2"^Stämförslag B.O." c>BB>B B4 z4 |]
+

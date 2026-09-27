@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:34
+T:Tyravals
+T:Vals efter Jons-Axel Nr 34
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Vals
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 34. Vals. Tyra-vals"
+L:1/8
+Q:1/4=132
+M:3/4
+I:linebreak $
+K:G
+V:1
+"^1"u (3(GBd) |:v "G" b2 z b b2 | "C" c'2 z c' c'2 | e'2 z e' e'2 | "G" d'4u (3(aba) |"D7" f2 z f f2 | d4u a2 |
+"G" g2 z age | d4u (3(GBd) | b2 z b b2 |"C" c'2 z c' c'2 | e'2 z e' e'2 | 
+"G" d'4u (3(aba) |"D7" f2 z f f2 | (fe) df ba | "G" g2 z g g2 |1"G" g2 z2u (3(GBd) :|"G" g2 z2u D2 |:
+"G"v (GB) dg b2 | (GB) dg b2 | (3(bc'b) a3u g |"D7" g4 f2 | (DF) Ad f2 | (DF) Ad f2 | 
+(3(fgf) e3u d | "G" d4 G2 | (GB) dg b2 | (GB) dg b2 | (3(bc'b) a3u g |"D7" g4 f2 | 
+(3(fgf) e2 e2 | (3(efe) d2 g2 |  (fe) (dc) BA |1"G" G2 z2u D2 :|2"G" G4 z2 |] 
+V:2
+"^2" (3(DGB) |: d2 z d d2 | e2 z e e2 | g2 z g g2 | g4 (3(fgf) | d2 z d d2 | c4 c2 | 
+e2 z fec | B4 (3(DGB) | d2 z d d2 | e2 z e e2 | g2 z g g2 | g4 (3(fgf) | d2 z d d2 | 
+(dA) FA dc | B2 z B B2 |1 B2 z2 (3(DGB) :|2 B2 z2 G,2 |: (B,D) GB d2 | (B,D) GB d2 | 
+(3(ded) c3 B | B4 A2 | (A,D) FA d2 | (A,D) FA c2 | (3(cdc) A3 A | G4 B,2 | (B,D) GB d2 | 
+(B,D) GB d2 | (3(ded) c3 B | B4 A2 | (3(ABA) G2 G2 | (3(GAG) F2 B2 | "^Stämförslag B.O." (dc) (AF) DC |1 B,2 z2 G,2 :|2 B,4 z2 |]
+

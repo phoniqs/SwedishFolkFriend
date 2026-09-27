@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Olof Thor
+S:Efter Olof Thor
+O:Härjedalen
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Uppt. A Rönnqvist
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" D>E F2 D2 | Dd (^cd) A2 | (3(A=B^c) d2 =cA | B2 A4 :: 
+(3(A=B^c) d2 A2 | (GB) A2 F2 | E2 (AG) FE | (ED) DF A2 | 
+(3(A=B^c) d2 A2 | (GB) A2 F2 | E2 (AG) FE | (ED) D4 :| 
+V:2
+|:"^2" A,>^C D2 A,2 | A,F (EF) D2 | (3(DFG) A2 GE | D2 ^C4 :: (3(DFG) A2 F2 | (EG) F2 D2 | 
+^C2 (CE) DC | (^CA,) A,D F2 | (3(DFG) A2 F2 | (EG) F2 D2 | ^C2 (CE) DC | (^CA,) "^B.O." A,4 :|
+

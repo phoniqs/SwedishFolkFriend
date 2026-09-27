@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Nils Jonas polska
+S:Efter Jonas Grankvist
+O:Junsele, Ångermanland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Nils Jonas Grankvist, Junselevallen
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1" (c>e) (g>f) ec | dB/d/ g3u B | dB/d/ g3u g | eg/e/ c2 z2 | 
+(c>e) (g>f) ec | dB/d/ g3u B | dB/d/ (gf) ed | c2 c3 z :|
+|: A>A AB cA | e>e ce/c/ Auc | (B>d) (dc) cB | (B>A) Ac E2 | 
+A>A AB cA | e>e ce/c/ Auc | (B>d) (dc) cB | Bd/B/ A3 z :| 
+V:2
+|:"^2""C" (G>c) (e>d) cA |"G7" GD/G/ B3u G | GD/G/ B3u B |"C" ce/c/ G2 z2 | 
+(G>c) (e>d) cA |"G7" GD/G/ B3u G | GD/G/ (BA) GF |"C" E2 [CE]3 z :|
+|:"Am" C>C CE AE | c>c Ac/A/ EuA | "E7" (^G>B) (BA) AG |"Am" (^G>E) EA C2 | 
+ "^Stämförslag B.O."C>C CE AE | c>c Ac/A/ EuA | "E7" (^G>F) (FE) ED |"E7" DF/D/ "Am" C3 z :|
+

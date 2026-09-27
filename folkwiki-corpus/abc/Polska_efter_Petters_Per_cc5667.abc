@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Petters Per
+S:Petters Per
+O:Gagnef, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Du lofte mej att du skulle vänta, 
+Z:Men sen så tog du dej en annan jänta, 
+Z:Minns du vad du lofte mej i fjol?
+Z:men inte mej!"
+L:1/8
+M:3/4
+K:Gm
+V:1
+"^1" (D | G>)(A B>)(A G>)A | (B/A/)B/c/ d3 D | G>(A B>)(A G>)A | B/A/B/c/ d3 d | 
+f>(f d2) B>B | dc (3(cdc) A>^F | D>f d2 B>B | dc (cA) ^F>D | 
+D>d ^c(c d>)d | BG (A/B/)A/G/ ^F>D | D>d ^c(c d>)d | BG (A/B/)A/G/ ^F>A | A<B [B,G]3 z |] 
+V:2
+"^2" A, | B,>(D G>)(D B,>)D | G/^F/G/A/ F3 A, | B,>(D G>)(D B,>)D | G/^F/G/A/ [FA]3 B | 
+d>(d B2) G>G | BA A2 ^F>D | A,>d B2 G>G | BA (A^F) D>A, | A,>B A(A B>)B | GD (^F/G/)F/D/ C>A, | 
+A,>B A(A ^F>)F | "^Stämförslag B.O." GD (^F/G/)F/D/ C>D | C<D [G,D]3 z |]
+

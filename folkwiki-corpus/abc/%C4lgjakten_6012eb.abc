@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Älgjakten
+T:Gånglåt
+C:Olle Wallman
+R:Gånglåt
+O:Saxdalen, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Olle Wallman, Saxdalen"
+Z:"Melodin rann för mig på ett älgpass en höstdag i oktober -91. O.W."
+L:1/8
+M:2/4
+K:D
+V:1
+"^1"u A |:v F2 (F/E/)F/G/ | (AF) (ED) | G2 (G/F/)G/A/ | B2 (GB) | c2 (c/B/)c/d/ | 
+(ec) (BA) | d2 (d/c/)d/e/ | (f/g/)f/d/ (AG) | F2 (F/E/)F/G/ | (AF) (ED) | G2 (G/F/)G/A/ | 
+B2 (GB) | c2 (c/B/)c/d/ | (ec) (BA) | d2 (d/c/)d/e/ |1 d3u A :|2 d3u (f/g/) |:
+a2 ab/a/ | fg/f/ (ed) | b2 (gf) | e2 B2 | c2 cd/c/ | AG/A/ (Bc) | 
+(d>e) (f/e/)f/g/ | a3 (f/g/) | a2 ab/a/ | fg/f/ (ed) | b2 (gf) | e2 B2 |
+c2 cd/c/ | AG/A/ (Bc) | (d>e) (d/c/)d/e/ |1 d3u (f/g/) :|2 d3 z |] 
+V:2
+"^2" F |:"D" D2 (D>E) |"D7" (FD) (=CA,) |"G" B,2 (B,>D) | G2 (DG) |"A7" A2 (A>B) | 
+(cA) (GE) | "D" F2 (F>G) | (AF) (DC) | D2 (D>E) |"D7" (FD) (=CA,) |"G" B,2 (B,>D) | 
+G2 (DG) | "A7" A2 (A>B) | (cA) (GE) | "D" F2 (F>A) |1 "D" F3 F :|2 "D" F3 (d/e/) |: 
+"D" f2 fg/f/ | "D7" de/d/ (=cA) | "Em" d2 (BA) | G2 E2 | "A7" A2 AB/A/ | ED/E/ (GA) |
+"D" (F>A) (d>e) | f3 (d/e/) | f2 fg/f/ | "D7" de/d/ (=cA) | "Em" d2 (BA) | G2 E2 |
+"A7" A2 AB/A/ | ED/E/ (GA) |"D" (F>G)"^Stämförslag B.O." (FE) |1 "D" F3 (d/e/) :|2"D" F3 z |]
+

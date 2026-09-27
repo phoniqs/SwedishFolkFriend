@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Nenas polska
+C:Mats Paulson
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+"^1"u A |:"D" (A>B) (A>G) F>E | (D>F) (A>d) f>a |"A7" (a>g) (e>A) c>e | "D" (3(efe) (d>c) B>A | 
+(A>B) (A>G) F>E | (D>F) (A>d) f>a |"A7" (a>g) (e>A) c>e |1 "D" (3(efe) d3u A :|2 "D" (3(efe) d3u d |:
+"G" (d>B) G3u B |"D" (B>A) F3u A | "A7" (A>G) (E>A,) B,>C |"D" (D>E) (F>G) A>d |
+"G" (d>B) G3u B |"D" (B>A) d3u f | "A7" (f>e) (g>e) c>e |1"D" (3(efe) d3u d :|2"D" (3(efe) d3 z |] 
+V:2
+"^2" F |: (F>G) (F>E) D>B, | (A,>D) (F>A) d>f | (f>e) (c>E) G>A | G2 (F>E) D>F | (F>G) (F>E) D>B, | 
+(A,>D) (F>A) d>f | (f>e) (c>E) G>A |1 G2 F3 F :|2 G2 F3 B |: (B>G) D3 G | (G>F) D3 F | 
+(F>E) (C>A,) G,>A, | (A,>C) (D>E) F>B | (B>G) D3 G | (G>F) F3 A | (A>G) (B>G) E>G |1 G2 F3 B :|2 "^Arr. B.O." G2 F3 z |]
+

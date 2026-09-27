@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:11
+T:Engelska för tre par
+T:(Sv Folkdanser Del 1)
+S:Severin Olsson
+O:Tuntorp, Bohuslän
+R:Engelska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 11. Engelska för tre par eft. Severin Olsson, Tuntorp."
+Z:http://runeberg.org/folkdans/besk/0145.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 11
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel""D7" (dc)Ac"G" (cB)GB |"D7" (BA)FA"G" G4 |]: [K:G][M:2/4][K:treble]"^Dans""G" G2GA B2Bc | 
+d2cd e2B2 |"D7" (dc)Ac"G" (cB)GB | "D7" (BA)FA AFD2 |"G" G2GA B2Bc | 
+d2cd e2B2 |"D7" (dc)Ac"G" (cB)GB |"D7" (BA)FA"G" G4 :: 
+"G" d2ef g2d2 | ddef g2B2 |"D7" (dc)Ac"G" (cB)GB |"D7" (BA)FA AFD2 |
+"G" d2ef g2d2 | ddef g2B2 |"D7" (dc)Ac"G" (cB)GB |"D7" (BA)FA"G" G4 :| 
+V:2
+"^2" (BA)FA (AG)DG | (GF)DC B,4 |]:[K:G][M:2/4][K:treble] B,2B,D G2GA | 
+B2AB c2G2 | (BA)FA (AG)DG | (GF)DF FDA,2 | B,2B,D G2GA | 
+B2AB c2G2 | (BA)FA (AG)DG | (GF)DC B,4 :: 
+B2cd B2B2 | BBcd B2G2 | (BA)FA (AG)DG |"^Spelas 3 ggr. med repriser." (GF)DF FDA,2 | 
+B2cd B2B2 | BBcd B2G2 | "^Stämförslag B.O." (BA)FA (AG)DG | (GF)DC B,4 :|
+

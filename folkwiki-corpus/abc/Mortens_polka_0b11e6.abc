@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Mortens polka
+R:Polka
+O:Danmark
+B:Spelmansmusik
+M:2/4
+L:1/8
+Q:112
+K:G
+"G"GB B/A/G/A/|Bd d/B/G/B/|"D"Ac c/A/F/A/|1"G"GB dz:|2"G"GG Gz]|
+|:"C"ce e/c/A/c/|"G"Bd d/B/G/B/|"D"Ac c/A/F/A/|1"G"GB dz:|2"G"GG Gz]|
+K:D
+|:"D"df f/e/d/e/|fa a/f/d/f/|"A"eg g/e/c/e/|1"D"df az:|2"D"dd dz]|
+|:"G"gb b/g/e/g/|"D"fa a/f/d/f/|"A"eg g/e/c/e/|1"D"df az:|2"D"dd dz]|
+K:G
+|:"G"GB B/A/G/A/|Bd d/B/G/B/|"D"Ac c/A/F/A/|1"G"GB dz:|2"G"GG Gz]|
+K:C
+"C"CE E/D/C/D/|EG G/E/C/E/|"G"DF F/D/B,/D/|1"C"CE Gz:|2"C"CC Cz]|
+"F"FA A/F/D/F/|"C"EG G/E/C/E/|"G" DF F/D/B,/D/|1"C"CE Gz:|2"C"CC Cz]|
+

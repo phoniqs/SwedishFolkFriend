@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Åltomtabromarschen
+C:Hjort Anders Olsson
+R:Marsch
+O:Bingsjö, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Hjort Anders Olsson. Allm. trad."
+L:1/16
+Q:1/4=92
+M:2/4
+K:D
+V:1
+"^1" A,2 |: "D" D4 F2DF | (AB)AF A2Ad | f2df a2fd |"A7" (cd)cB (c2A2) | E4 (A2>c2) | 
+(ef)ed e2ef | g2A2 B2c2 |"D" e2dc (d2A2) | D4 F2DF | (AB)AF A2Ad | f2df a2fd |
+"A7" (cd)cB (c2A2) | E4 (A2>c2) | (ef)ed e2ef | g2A2 B2c2 |1"D" d6 A,2 :|2"D" d6 A2 |:
+"D" f2 (3(gfe f2g2) | a6 (DF) | (AF)DF (AF)AB |"A7" (G>A)GF (G2E2) | g2 (3(agf g2a2) | 
+b6 (Ac) | (ec)Ac (ec)ef | "D" (d>e)dc (d2A2) | f2 (3(gfe f2g2) | a6 (DF) | (AF)DF (AF)AB |
+"A7" (G>A)GF (G2E2) | g2 (3(agf g2a2) | b4 (ab)af | (ga)ge (cA)ce |1"D" d6 A2 :|2"D" d6 z2 |] 
+V:2
+"^2" z2 |: A,4 D2A,D | F2FD (F2A2) | d2Ad f2dB | (AB)AG (A2E2) | A,4 (E2>A2) | 
+c2cB c2cd | c2E2 G2A2 | G2FE F2D2 | A,4 D2A,D | F2FD F2A2 | d2Ad f2dB | 
+A2AG A2E2 | A,4 E2>A2 | c2cB c2cd | c2E2 G2A2 |1 F6 z2 :|2 F6 F2 |: 
+d4 (d2e2) | f6 (A,D) | (FD)A,D (FD)FG | E2ED (E2C2) | c4 (c2d2) | e6 (EA) | 
+(AE)CE (AE)AG | F2FE (F2D2) | d4 (d2e2) | f6 (A,D) | (FD)A,D (FD)FG | 
+E2ED (E2C2) | c4 (c2d2) | e4 (de)dB | (cd)cA (GE)GA |1 F6 F2 :|2 "^Arr. B.O." F6 z2 |]
+

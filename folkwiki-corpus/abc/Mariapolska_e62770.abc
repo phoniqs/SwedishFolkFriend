@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:58
+T:Mariapolska
+T:Polska efter Jons-Axel Nr 58
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polska
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 58. Polska. Maria-polska"
+L:1/8
+Q:1/4=108
+M:3/4
+K:G
+V:1
+|:"^1"v (B>A) (G>F) G>B | e>d d2 D2 | c>B (A>F) A2 |  B>A (G>F) G2 | 
+(B>A) (G>F) G>B | e>d d2 d2 | (f>f) (f>e) ^c>e | d2 d2 z2 :: 
+(c>B) (A>d) f>e | e>d (d>g) B2 | (B>A) (A>c) F>A | A>G (G>B) d2 | 
+(c>B) (A>d) f>e | e>d (d>g) B2 | (B>A) (A>c) F>A | (A>G) G2 z2 :| 
+V:2
+|:"^2""G" (G>D) (B,>A,) B,>G | c>B B2 G2 |"D7" A>G (F>D) F2 |"G" D>C (B,>A,) B,2 | 
+(G>D) (B,>A,) B,>G | c>B B2 G2 |"A7" (A>A) (A>G) E>G |"D7" F2 F2 z2 ::
+"D7" (A>G) (F>A) d>c |"G" c>B (B>B) G2 | "D7" (G>F) (F>A) D>C | "G" C>B, (B,>G) B2 |
+"D7" (A>G) (F>A) d>c |"G" c>B (B>B) G2 | "D7"  (G"^Stämförslag B.O.">F) (F>A) D>C | "G" (C>B,) B,2 z2 :|
+

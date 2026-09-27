@@ -1,0 +1,44 @@
+%%abc-charset utf-8
+
+X:1
+T:Ecocais efter Martin Broberg, Åmål
+R:Ecossaise
+N:Axel Martin Broberg, 1800-talet
+O:Dalsland
+S:efter Martin Broberg
+M:2/4
+L:1/16
+K:D
+|:d2A2 F2A2| \
+G2B2 A2G2| \
+F2A2 G2F2| \
+G2B2 A2G2|
+F2A2 G2F2| \
+E2G2 F2D2| \
+F4 [E4B,4]| \
+[E8A,8]|
+d2A2 F2A2| \
+G2B2 A2G2| \
+F2A2 G2F2| \
+G2B2 A2^G2|
+A2B2 c2d2| \
+e2f2 =g2e2| \
+f4 [d4F4]| \
+[d8F8]:|
+|:e2c2 A2c2| \
+e2g2 f2e2| \
+f2d2 A2d2| \
+f2a2 g2 2|
+a2g2 e2f2| \
+g2f2 d2f2| \
+f2e2 d2c2| \
+[B4G4] [A4F4]|
+B2G2 D2G2| \
+B2c2 d2B2| \
+A2F2 D2F2| \
+A2c2 d2B2|
+A2d2 c2B2| \
+A2G2 F2E2| \
+F4 D4| \
+D8:|
+

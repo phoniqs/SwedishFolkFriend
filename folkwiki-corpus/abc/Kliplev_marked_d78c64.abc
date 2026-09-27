@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:23
+T:Kliplev marked
+O:Danmark
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danmark, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (d/c/)B/d/ cF | G2 G z |]:[K:G][M:2/4][K:treble]"^Dans" G>A BB | G>A BB | 
+(d/c/)B/c/ AA | (d/c/)B/c/ AA | G>A BB | G>A BB | 
+(d/c/)B/d/ cF | G2 G z :: dd BB | g2 e2 | (d/c/)B/c/ AA | 
+(d/c/)B/c/ AA | dd BB | g2 e2 | (d/c/)B/d/ cF | G2 G z :| 
+V:2
+"^2" (B/A/)G/B/ AD | B,2 B, z |]:[K:G][M:2/4][K:treble] B,>D GG | B,>D GG | (B/A/)G/A/ FF | 
+(B/A/)G/A/ FF | B,>D GG | B,>D GG | (B/A/)G/B/ AD | B,2 B, z :: BB"^Önskat ant. ggr." GG | e2 c2 | 
+(B/A/)G/A/ FF | (B/A/)G/A/ FF | BB GG | e2 c2 | (B/A/)G/B/"^Stämförslag B.O." AD | B,2 B, z :|
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Fritz gånglåt
+C:Fritz Nystedt
+O:Dorotea, Lappland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Fritz Nystedt, (1922-1967) Dorotea."
+L:1/8
+M:2/4
+K:Eb
+V:1
+|:"^1" Bc/B/ (GE) | G,B, EG | (F>G) (F/=E/)F/A/ | C3 ^c | 
+d>c BA | B,=B, CD | (E>F) (E/D/)E/F/ | G3 B | 
+Bc/B/ (GE) | G,B, EG | (F>G) (F/=E/)F/A/ | C3 ^c | 
+d>c BA | B,=B, CD | EF/E/ (D/E/)F/D/ | E3 B :: 
+c2 (c>d) | (A,/E/)(e/E/) (A,/E/)(c/E/) | B>(c B/A/)G/A/ | B3 (B/c/) | 
+BA FD | B,=B, CD | E>(F E/D/)E/F/ | G3 B | 
+c2 (c>d) | (A,/E/)(e/E/) (A,/E/)(c/E/) | B>(c B/A/)G/A/ | B3 (B/c/) | 
+BA FD | B,=B, CD | EF/E/ (D/E/)F/D/ |1 E3 B :|2 E3 G |: 
+g2 (e/d/)c/=B/ | c2{d} c=B/c/ | d2({e} d>=B) | GD =B,(D/B,/) | 
+G,2 (=B,C) | D2 (E>D) | (DC) (C/=B,/)C/D/ | C3 G | 
+g2 (e/d/)c/=B/ | c2{d} c=B/c/ | d2({e} d>=B) | GD =B,(D/B,/) | 
+G,2 (=B,C) | D2 (E>D) | (DC) (C/=B,/)C/D/ |1 C3 G :|2 C2 [DB]2 |]
+

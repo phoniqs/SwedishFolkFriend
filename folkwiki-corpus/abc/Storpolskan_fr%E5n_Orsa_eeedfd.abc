@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Storpolskan från Orsa
+S:[[Personer/Bleckå]]  Anders
+S:Gössa Anders
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+I:linebreak $
+U:t=tenuto
+K:Am
+V:1
+|:"^1""^\"Storpolskan\"" c'2 a3 (e |{fg} f/>g/f/)e/ (de){cB} c2 | d>(e f/e/)f/g/ ab |1 (g/a/4g/4f/g/) a2 e2 :|2 (g/a/4g/4f/g/) a3 e |: 
+f/e/f/g/ (tatb)({ab} a/>b/a/)g/ | ef (g/a/)g/e/({fg} f/>g/f/)d/ | ^cd (ef/e/){de} d>c | A>^c B/G/B A2 | 
+f/e/f/g/ (tatb)({ab} a/>b/a/)g/ | ef (g/a/)g/e/({fg} f/>g/f/)d/ | ^cd (teta) (^f/d/f) | e^c d4 :: 
+e2 A4 |{FG} F/>G/F/E/ (DE) C2 | DE (F/E/)F/G/ AB | G/F/G A4 :| 
+f/e/f/g/ (tatb) ta>g | ef (g/a/)g/e/ f>d | ^cd (teta) (^f/d/f) | e^c [Dd]4 |] 
+V:2
+|:"^2" a2 f3 ^c | d>c (Bc) A2 | F>A d/^c/d/e/ fg |1 ed ^c2 A2 :|2 ed [^ce]3 c |: 
+d/^c/d/e/ (tftg) f>e | ^cd (e/f/)e/c/ d>B | AB (^cd/c/) B>A | E>A G/E/G E2 | 
+d/^c/d/e/ (tftg) f>e | ^cd (e/f/)e/c/ d>B | AB (t^ct^f) (d/B/d) | ^cA [^FA]4 :: 
+A2 E4 | D>C B,C [A,E]2 | A,C (D/C/)D/E/ FG | D/C/D [A,E]4 :| 
+"^Stämförslag B.O." d/^c/d/e/ (tftg) tf>e | ^cd (e/f/)e/c/ d>B | AB (t^ct^f) (d/B/d) | ^cA [^FA]4 |]
+

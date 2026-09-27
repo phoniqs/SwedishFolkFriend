@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:73
+T:Polska från Knaggälve
+R:Polska
+O:Delsbo, Hälsingland
+S:Mattias Blom
+S:Grubb Anders Jonsson
+B:Register för Hälsinglands Spelmansförbunds låtar nr 73
+Z:Karin Helander
+N:Uppt. och arr.: [[Personer/Sven Härdelin]]. Hälsinglands Spelmansförbund 1969."
+M:3/4
+L:1/8
+K:Am
+V:1
+A,2 ^CE D>F | F>E A4 | d>^c d>e f>e | d^c/d/ [Ae]4 :| 
+{e}(a2 a)g/a/ ge | fg/f/ e3 d | c>B A>^G A>c | cB E3 e | 
+af/a/ g3 e | fg/f/ e3 d | c>B A>^G A>c | BA/^G/ A4 :|
+V:2 
+A,2 A,^C A>D | D>^C [CE]4 | D2 F>A d>A | AG [E^c]4 :| 
+{A}(f2 f)e/f/ ec | de/d/ e3 d | A>E C>E C>E | ED [BE]3 A | 
+fd/f/ (e2 e)c | de/d/ (c2 [cE])B | A>E C>E C>E | DC [CE]4 :|
+

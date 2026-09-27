@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Soldat Dahl
+S:Efter Soldat  Dahl
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:C
+V:1
+|:"^1" (G>c) (tetc) c>d | (c/4d/4c/)B/c/ (ag) e>g | (g/a/)g/^f/ (tdte) c>d | (c/4d/4c/)B/c/ (tdtB) G2- | 
+G>c (tetc) c>d | c/4d/4c/B/c/ (ag) e>g | g/a/g/^f/ (tdte) c>c |1 B/A/B/d/ c4 :|2 B/A/B/d/ c3 c- |: 
+cc a2 b2 | a^f/a/ g2 d2- | d2 ef (3geg | (3fdf e3 c- | 
+cc a2 c2 | cB/A/ B2 g2 | a2 (gf) d>c |1 B/A/B/d/ c3 c- :|2"^Stämförslag B.O." B/A/B/d/ c4 |] 
+V:2
+|:"^2" E2 tGtE E>F | EG/A/ c2 G>B | B/c/B/A/ (tFtG) E>F | ED/E/ tAtG D2 | 
+E2 (tGtE) E>F | EG/A/ c2 G>B | B/c/B/A/ (tFtG) E>E |1 GG/F/ E4 :|2 GG/F/ E3 E- |: 
+EE c2 d2 | cA/c/ B2 B2- | B2 cd (3ece | (3dBd c3 E- | 
+EE c2 A2 | AG/F/ G2 B2 | c2 (BA) F>A |1 GG/F/ E3 E :|2 GG/F/ E4 |]
+

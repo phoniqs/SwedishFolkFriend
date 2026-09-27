@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Böl-Olle låten
+T:Schottis
+S:Tros Olof Olsson
+O:Malung, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Malung (2) eft. Tros Olof Olsson"
+N:Vissa har låter efter [[Personer/Åker Erland Jonsson]] från Malung
+L:1/16
+M:2/4
+K:Bm
+V:1
+|:"^1" Bcde f2f2 | f2ed B4 | cdcA c2c2 | (Bc)dc B4 | 
+Bcde f2f2 | f2ed B4 | cdcA c2c2 | (Bc)dc B4 :: 
+A2fe d2AF | G2G2 GBed | c2c2 (cA)fe | d2d2 d4 |
+ A2fe d2AF | G2G2 GBed | c2c2 (cA)fe | d2d2 d4 :| 
+V:2
+|:"^2" "Bm" FABc d2d2 | d2cB F4 | "A" EFEC E2E2 | "Bm" (DE)FE D4 | 
+"Bm" FABc d2d2 | d2cB F4 | "A" EFEC E2E2 | "Bm" (DE)FE D4 :: 
+"D" F2dA F2FD | "G" B,2B,2 EGcB | "A7" A2A2 (GE)AG | "D" F2F2 F4 | 
+"D" F2dA F2FD | "G" B,2B,2 EGcB | "A7" A2"^Stämförslag B.O."A2 (GE)AG | "D" F2F2 F4 :|
+

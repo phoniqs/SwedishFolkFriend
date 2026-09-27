@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:"Alla flickor dom är klara som en sol"
+T:Polska från Södra Dalarna
+S:Kers Erik Ersson
+O:Säter, Dalarna
+R:Polska
+B:Låtar från Dalarnes Bergslag
+Z:Ur boken "Låtar från Dalarnes Bergslag" av [[Personer/Ingvar Norman]]
+Z:Bearbetad av [[Personer/Ellinor Fritz]]
+Z:Till ABC av Karin Helander
+L:1/16
+M:3/4
+K:Dm
+V:1
+[|v d2>(^c2 A2)(c2 d2)e2 | M(f2>e2) d2^cd e4 | M(f2>e2) d2e2 f2a2 | (g2=b2) a8 |
+d2>(^c2 A2)(c2 d2)e2 | M(f2>e2) d2^cd e4 | M(f2>e2) d2e2 f2a2 | (g2=b2) a6 v(e2 |
+|: f2>)(f2 a2)(g2 e2)f2 | d2d2 f2ed ^c4 | f2>(f2 a2)(g2 e2)f2 | 
+d2d2 f2ed ^c4 | d2>(e2 f2)(g2 f2)e2 | ^c4 d8 :| 
+V:2
+[| v F2>(E2 D2)(E2 F2)G2 | A4 F2EF G4 | A4 (F2G2) A2A2 | (A2=B2) ^c8 |
+F2>(E2 D2)(E2 F2)G2 | A4 F2EF G4 | A4 (F2G2) A2A2 | (A2=B2) ^c6 v(G2 |
+|: A4) (c2B2) G2A2 | F2F2 A2GF E4 | A4 (c2B2) G2A2 | 
+F2F2 A2GF E4 | F2>(G2 A2)(B2 A2)G2 | E4 [F8A8] :|
+

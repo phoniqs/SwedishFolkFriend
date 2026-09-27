@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Hästtrav
+C:Sundquist, Ragnar
+L:1/16
+M:2/4
+I:linebreak $
+Z:Jonathan
+K:G
+|:"G"{DEF} G4{GA^A} B4 |{Bc^c} d4{def} g4 |{ga^a} b=agf agdB |"Am" (3fgfe2 e4 |
+{EF^G} A4{A^AB} c4 |{cd^d} e4{ef^g} a4 |{ab} c'bag fed^c |"G" edBG D4 |
+{DEF} G4{GA^A} B4 |{Bc^c} d4{def} g4 |{ga^a} b=agf agdB |"Am" (3fgfe2 e2cB |
+A^GAB cdef |"G" gbdg BdGB |"D7" ceAc FADF |"G" G2 z2 G2 z2 ::
+[K:D]"A7" aA^GA ^AB=c^c |"D" dAfA dAaA |"A7" cAeA cAaA |"D" dAfA dAaA |
+"A7" aA^GA ^AB=c^c |"D" dAfA dAaA |"A7" cAeA cAaA |"D" [Fd]2 z2 [Fd]2 z2 ::
+[K:C]"C" [G,CEG][G,CEG][G,CEG]2"Ab7" [_A,C_G_A][A,CGA][A,CGA]2 |[K:C]"Dm" [A,DFA][A,DFA][A,DFA]2"Bb7" [_B,DF_B][B,DFB][B,DFB]2 |
+"G7" [B,DFB]2AG ^FG=FG |"C" EGce g4 |egdg cgBg |"G7" A.G.G.G .G.G.G.G |
+fgeg dgcg |"C" A.G.G.G .G.G.G.G |"C" [Gceg][Gceg][Gceg]2"Ab7" [_Ac_g_a][Acga][Acga]2 |
+"Dm" [Adfa][Adfa][Adfa]2"Bb7" [_Bdf_b][Bdfb][Bdfb]2 |
+"G7" [Bdfb]2"Bb7"[_Bdf_b]2"Dm" [Adfa]2"Bb7"[_Adf^g]2 |"G" [GBdfg]2"C"[Ge]2"G+" [G_e]2"Gm"[Gd]2 |
+"A7" [G^c]2AB cABc |"Dm" d^cde"Fm" fedf |"C" edce"G7" dcBd |1"C" cgfe dcBA :|
+2 c2 z2 [EGc]2 z2 |]
+

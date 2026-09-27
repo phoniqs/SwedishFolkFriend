@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:18
+T:Fyrtur Nr 4
+T:(Gamla Dansar i Skåne)
+O:Lerberget, Skåne
+R:Fyrtur
+B:Gamla Dansar i Skåne
+S:Per Christiansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Fyrtur (4)"
+Z:"Efter Pehr Christiansson, Lerberget. Mandelgrens saml."
+L:1/16
+M:2/4
+K:F
+V:1
+"^1""^Förspel" (ga)gf (ef)ge | f2a2 f2 z |][K:F][M:2/4][K:treble]"^Dans" A |: (c=B)cA c2f2 | (gb)eg f2a2 | 
+c2eg c2fa |1 (gb)eg f2 z A :|2 (gb)eg f2 z a |: (gf)ed (ce)gb | 
+(af)cA (FA)cf | (gf)ef d2ef |1 (gb)ag f2 z a :|2 (gb)ag f2 z c |: 
+A2cf A2cf | (ef)ga b2 z2 | (ga)gf (ef)ge |1 f2a2 f2 z c :|2 f2a2 f2 z2 |] 
+V:2
+"^2" (ef)ed (cd)ec | A2c2 A2 z |][K:F][M:2/4][K:treble] F |: (A^G)AF A2A2 | c2cB A2c2 | 
+G2ce A2cf |1 e2cB A2 z F :|2 e2cB A2 z f |: (ed)cG (Ec)eg | (fc)AF (CF)Ac | (ed)cd B2cd |1 (eg)ec A2 z f :|2 (eg)ec A2 z A |: 
+F2"^Efter Pehr Christiansson, Lerberget.""^Mandelgrens saml."Ac F2Ac | (cd)ef g2 z2 | (ef)ed (cd)ec |1 "^Stämförslag B.O." A2c2 A2 z A :|2 A2c2 A2 z2 |]
+

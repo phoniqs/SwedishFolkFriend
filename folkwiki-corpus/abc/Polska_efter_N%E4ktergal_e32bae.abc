@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Näktergal
+S:Kers Erik Ersson
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (6) eft.Kers-Erik Ersson Näktergal, Säter."
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" (D |: G>)(^F G>)(B d>)^f | g>(^f d>)(f g>)a | b>(b a)^f/a/ g>e | (g^f) (d>c) A>B | 
+G>(^F G>)(B d>)^f | g>(^f d>)(f g>)a | b>(b a)^f/a/ g>e |1 (g<^f) d3 D :|2 (g<^f) d3 =B |: 
+[K:G] d>(d B)G/B/ (3dBd | c2 AF/A/ (3cAc | B2 G>B d>c | AF D3 B | 
+d>(d B)G/B/ (3dBd | c2 AF/A/ (3cAc | B2 G>B d>c |1 AF/A/ G3 B :|2"^Stämförslag B.O." AF/A/ G3 z |] 
+V:2
+"^2" (A, |: B,>)(A, B,>)(D G>)A | B>(A ^F>)(A B>)c | d>(d c)A/c/ B>G | (BA) (^F>E) C>D | 
+B,>(A, B,>)(D G>)A | B>(A ^F>)(A B>)c | d>(d c)A/c/ B>G |1 (B<A) [A,^F]3 A, :|2 (B<A) [A,^F]3 G |: 
+[K:G] B>(B G)D/G/ (3BGB | A2 FD/F/ (3AFA | G2 D>G B>A | FD [A,D]3 G | 
+B>(B G)D/G/ (3BGB | A2 FD/F/ (3AFA | G2 D>G B>A |1 FD/C/ [B,D]3 G :|2 FD/C/ [B,D]3 z |]
+

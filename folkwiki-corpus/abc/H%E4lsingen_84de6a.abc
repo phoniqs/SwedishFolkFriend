@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Hälsingen
+C:Emil Olsson
+O:Alfta, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Komp och arr Emil Olsson
+L:1/16
+M:3/4
+K:Bb
+V:1
+|:"^1" [B,F]2d^c (d2B2) F2D2 | (EF)"^Polska"ED C2E2 G4 | (A,F)(eF) (A,F)(eF) (A,F)(eF) | (dc)BA B2dB F2D2 | 
+[B,F]2d^c (d2B2) F2D2 | (EF)ED C2E2 G4 | (A,F)(eF) (A,F)(eF) (dc)(BA) | [Fc]4 [DB]8 :: 
+(Gd)(bd) (d'd)(bd) (Fc)(ac) | (EB)(gB) (bB)(gB) (DB)(fB) | 
+(CG)(eG) (A,F)(cF) (B,F)(dF) | ^f2=ef g2ag f2d2 | (Gd)(bd) (d'd)(bd) (Fc)(ac) | 
+(EB)(gB) (bB)(gB) (DB)(fB) | (CG)(eG) (A,F)(cF) (B,F)(dF) | ^f2=ef [Bg]8 :| 
+V:2
+|:"^2" [B,F]2DF (B2d2) f2d2 | (gf)ed e2c2 [Ec]4 | (Fc)(ac) (Fc)(ac) (Fc)(ac) | 
+(ba)gf (gf)=eg (dB)(FD) | [B,F]2DF (B2d2) f2d2 | (gf)ed e2c2 [Ec]4 | (Fc)(ac) (Fc)(ac) (BA)(GF) | 
+[EA]4 [B,F]8 :: [DB][DB]-[DB][DB]- [DB][DB]-[DB]([DB] [FA])[FA]-[FA][FA] | 
+[G,E][G,E]-[G,E][G,E]- [G,E][G,E]-[G,E]([G,E] [B,F])[B,F]-[B,F][B,F] | 
+[FA][FA]-[FA][F-A] [Fe][Fe]-[Fe]([Fe] [DB])[DB]-[DB][DB] | [DA]2GA B2cB A2^F2 | 
+[DB][DB]-[DB][DB]- [DB][DB]-[DB]([DB] [FA])[FA]-[FA][FA] | 
+[G,E][G,E]-[G,E][G,E]- [G,E][G,E]-[G,E]([G,E] [B,F])[B,F]-[B,F][B,F] | 
+[FA][FA]-[FA][F-A] [Fe][Fe]-[Fe]([Fe] [DB])[DB]-[DB][DB] | [DA]2GA [DB]8 :| 
+

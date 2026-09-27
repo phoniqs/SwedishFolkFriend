@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambomazurka från Dorotea
+R:Mazurka
+O:Fågelsta, Dorotea, Lappland
+S:Åke Edlund
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Åke Edlund, Fågelsta, Dorotea."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" D |: (D>G) (G>B) B>d | (d>G) F3u D | (D>F) (F>A) A>c | (c>B) (d>B) G>D | (D>G) (G>B) B>d |
+(d>G) F3u D | (D>F) (F>A) A>c | (c>F) G3u D | (D>G) (G>B) B>d | (d>G) F3u D | 
+(D>F) (F>A) A>c | (c>B) (d>B) G>D | (D>G) (G>B) B>d | (d>G) F3u D | (D>F) (F>A) A>c |1 
+(c>F) G3u D :|2 (c>F) G3 z |: g>g g4 | f>f f4 | ee (eg) (c>e) | (dB) (dg) B>d | 
+(AF) (Ac) FA | (GD) GB d2 | (AF) (Ad) FA | G2 G3 z | g>g g4 | f>f f4 | 
+ee eg (c>e) | (dB) (dg) B>d | (AF) (Ac) FA | (GD) GB d2 | (AF) (Ad) FA | G2 G3 z :| 
+V:2
+"^2" B, |:"G" (B,>D) (D>G) G>B | "G" (B>D) "D7" C3u A, | (A,>D) (D>F) F>A | "G" (A>G) (B>G) D>B, | (B,>D) (D>G) G>B | 
+"G" (B>D) "D7" C3u A, | (A,>D) (D>F) F>D |"D7" (D>A,)"G" B,3u B, | "G" (B,>D) (D>G) G>B | "G" (B>D) "D7" C3u A, |
+"D7" (A,>D) (D>F) F>A | "G" (A>G) (B>G) D>B, | (B,>D) (D>G) G>B | "G" (B>D) "D7" C3u A, |"D7" (A,>D) (D>F) F>D |1
+"D7" (D>A,)"G" B,3u B, :|2 "D7" (D>A,)"G" B,3 z |:"G" B>B B4 |"D7" c>c c4 |"C" cc (ce) (A>c) |"G" (BG) (Bd) G>B | "D7" (FD) (FD) CD |
+"G" (B,G,) B,D G2 |"D7" (FD) (FA) DC |"G" B,2 B,3 z |"G" B>B B4 | "D7" c>c c4 |"C" cc ce (A>c) |
+"G" (BG) (Bd) G>B |"D7" (FD) (FD) CD |"G" (B,G,) B,D G2 | "D7" (FD) (FA) DC |"G" B,2 "^Arr. B.O." B,3 z :|
+

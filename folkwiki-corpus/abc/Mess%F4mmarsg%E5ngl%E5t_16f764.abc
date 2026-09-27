@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Messômmars-gånglåt
+T:(Midsommarsgånglåten)
+C:Helge Nilsson
+O:Bergsjö, Hälsningland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Tillägnad Bergsjöbygdens spelmanslag 1980."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" (d/c/)B/A/ |: (G>D) (GB) | (e>d) c/B/A/G/ | (E>A) (Ac) | E2 (A/G/)F/E/ | (D>F) (AB) | (c/B/)c/e/ (dA) |
+(c>B) (BA) | B2 (d/c/)B/A/ | (G>D) (GB) | (e>d) (c/B/)A/G/ | (E>A) (Ac) | (f>e) (d/c/)A/F/ |
+(E>D) (FA) | (c/B/)c/e/ (dF) | A>G GF |1 G2 (d/c/)B/A/ :|2 G2 (B/G/)B/d/ |: 
+(g>b) (ba) | (gd) (B/G/)A/B/ | (c>e) (ec) | A2 (f/e/)f/g/ | (a>b) (ag) | (f/g/)f/e/ (dA) |
+(c>B) (BA) | B2 (B/G/)B/d/ | (g>b) (ba) | (gd) (B/G/)A/B/ | (c>e) (ec) | (AG) (F/G/)F/E/ | 
+(D>F) (AB) | (c/B/)c/e/ (dF) | A>G GF |1 G2 (B/G/)B/d/ :|2 G2 z2 |] 
+V:2
+"^2" (B/A/)G/D/ |:"G" B,2 (B,G) | (c>B) (A/G/)D/B,/ |"Am" C2 (EA) | C2 (F/E/)D/C/ | "D7" A,2 (FG) | (AG) (FD) | 
+"G" (AG) (GF) | G2 (B/A/)G/D/ | B,2 (B,G) | (c>B) (A/G/)D/B,/ | "Am" C2 (EA) | (d>c) (B/A/)F/D/ |
+"D7" C2 (DF) | (AG) (FD) |"G" CB,"D7" B,A, |1 "G" [B,D]2 (B/A/)G/D/ :|2"G" [B,D]2 (G/D/)G/B/ |:
+"G" B2 (dc) | (BG) (GF) |"C" E2 (cA) | E2 (cd) |"D7" c2 (cB) | (AE) (FD) | 
+"G" (AG) (GF) | G2 (G/D/)G/B/ | B2 (dc) | (BG) (GF) | "C" E2 (cA) | E2 (DC) |
+"D7" A,2 (DG) | (AG) (FC) |"G" DB,"D7" B,A, |1 "^Stämförslag B.O.""G" [B,D]2 (G/D/)G/B/ :|2"G" [B,D]2 z2 |]
+

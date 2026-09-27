@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:99
+T:Skarva
+T:(Sv Folkdanser Del 1)
+R:Långdans
+O:Jösse Härad, Värmland
+S:[[Personer/Lars Holmström]], Arvika
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 99. Skarva"
+Z:http://runeberg.org/folkdans/besk/0097.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 99
+L:1/8
+Q:1/4=100
+M:3/4
+K:G
+V:1
+"^1""^Förspel" (D>F) (A>c) B>A | G2 G,2 z2 |]:[K:G][M:3/4][K:treble]"^Dans"[Q:1/4=72] B>(e d2) dc | B>(e d4) | B>(e d2) dc | 
+B>(e d4) | G>(A B2) BA | G>(A B4) | (D>F) (A>c) B>A | G2 G,2 z2 :| 
+[Q:1/4=168] B>c d2 d2 | G>A B2 B2 | (D>F) (A>c) B>A | G>A (B>c) d2 | 
+B>c d2 d2 | G>A B2 B2 | (D>F) (A>c) B>A | G2 G2 z2 |] 
+V:2
+"^2""D7" (A,>D) (F>A) G>D |"G" B,2 B,2 z2 |]:[K:G][M:3/4][K:treble]"G" G>(c B2) BA | G>(c B4) | G>(c B2) BA | 
+G>(c B4) | B,>(D G2) GD | B,>(D G4) |"D7" (A,>D) (F>A) G>D |"G" B,2 B,2 z2 :| 
+"G"G>A B2 B2 | B,>"^1:a  3 ggr.""^2:a  1 ggr."D G2 G2 |"D7" (A,>D) (F>A) G>D | "G" B,>D (G>A) B2 | 
+G>A B2 B2 | "^Stämförslag B.O." B,>D G2 G2 |"D7"  (A,>D) (F>A) G>D | "G" B,2 B,2 z2 |]
+

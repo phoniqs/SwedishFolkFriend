@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:121
+T:Väva Vadmal
+T:(Sv Folkdanser Del 1)
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 121. Väva Vadmal 2. Som den spelas på Skansen"
+Z:http://runeberg.org/folkdans/besk/0281.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 121
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel" e>f g2 g>g | f>e f2 f2 | A>c e2 e>e | f2 d4 |] 
+[K:D][M:3/4][K:treble]"^Dans" ec A2 Bc | d2 d4 | ec A2 Bc | d2 d4 | 
+d>d g2 g>g | f>e f2 f2 | A>c e2 e2 | d>f a3 g | 
+e>f g2 g>g | f>e f2 f2 | A>c e2 e>e | f2 d4 |] 
+V:2
+"^2""A7" G>A B2 B>B |"D" A>G A2 A2 |"A7" E>A G2 G>G |"D" A2 F4 |] 
+[K:D][M:3/4][K:treble]"A7" cA E2 GA |"D" F2 F4 |"A7" cA E2 GA |"D" F2 F4 |
+"G" G>G B2 B>B | "D" A>G A2 A2 |"A7" E>A G2 G2 |"D" F>A d3 B |
+"G" G>A B2 B>B |"D" A"^Stämförslag B.O.">G A2 A2 | "A7" E>A G2 G>G |"D" A2 F4 |]
+

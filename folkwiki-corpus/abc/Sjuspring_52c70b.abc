@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:98
+T:Sjuspring
+T:(Sv Folkdanser Del 1)
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 98. Sjuspring"
+Z:http://runeberg.org/folkdans/besk/0093.html
+Z:Från Runeberg: "Denna dans är säkerligen en av våra allra äldsta danser. Den har säkerligen anor direkt från hedenhös, då människorna offrade till jorden  och fruktbarhetsgudinnan för den kommande årsväxten. Dansen finns också i de flesta länderna i västra Europa. Dansen upptecknad av Kurt Bengtsson, Höganäs."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 98
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (de)fg a2ba | g4 f2 z2 |]:[K:D][M:2/4][K:treble]"^Dans""^1" (de)fg a2ba | 
+"^2" g2ag (f2e2) |"^3" (de)fg a2ba |"^4" g4 f2 z2 :|"^5" e2ee e2ee |
+"^6" c2AA A2Ac | "^7" e2ee e2ee |"^8" c2AA (A2a2) |]"^9" f4 (d2a2)"^Sluttakt gång 7." |] f4 d4 |] 
+V:2
+"^2""D" (FA)de f2gf |"A7" e4"D" d2 z2 |]:[K:D][M:2/4][K:treble]"D" (FA)de f2gf | e2fe (d2A2) | 
+"^Spelas 7 ggr. Takt 9 spelas 1 gång mer för varje tur." (FA)de f2gf |"A7" e4"D" d2 z2 :| "A7" c2cc c2cc | 
+A2EE E2EA | c2cc c2cc | "^Stämförslag B.O."A2EE (E2f2) |]"D" d4 (F2f2) |] "D" d4 F4 |]
+

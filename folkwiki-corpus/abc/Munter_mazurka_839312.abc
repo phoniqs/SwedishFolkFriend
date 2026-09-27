@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:103
+T:Munter mazurka
+T:(Mazurka efter Jons-Axel Nr 103)
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Mazurka
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 103. Mazurka"
+L:1/8
+Q:1/4=152
+M:3/4
+K:G
+V:1
+"^1"v B>c |:v (3(ded) B2u g2 | (f>g) a3u B | (cB) (Ae) dc | (B>c) d2 B>c | 
+(3(ded) B2u g2 | (f>g) a3u B | (cB) (Ae) dF |1 (A>G) G2 B>c :|2 (A>G) G2 B>A |: 
+v (^G>B) e3u G |({B} A^G) (AB) cA | (F>A) d3u F |({A} GF) (GA) Bc | 
+(d>B) g3u f | (^d>e) e3u A | (F>e) d3u F |1 (A>G) G2 B>A :|2 (A>G) G2 g>f |: 
+(e^d) (ef) ga |{^a} b2 f4 | (f^e) (fa) gf | (g>^d) e4 | 
+d>d e3 d | d>d b3 g | (fa) (c'd) ef |1 (a>g) g2 g>f :|2 (a>g) g2 z2 |] 
+V:2
+"^2" G>A |: "G" B2 G2 B2 |"D7" (A>B) c3 G | (AG) (Fc) BA | "G" (G>A) B2 G>A | B2 G2 B2 |"D7" (A>B) c3 G | 
+(AG) (FA) FD |1"G" (C>B,) B,2 G>A :|2 "G" (C>B,) B,2 G>F |: "E7" (E>^G) G3 E |"Am" (CB,) (CE) AE | 
+"D7" (D>F) F3 D |"G" (B,A,) (B,D) GA | (B>G) B3 B |"Am" (B>c) c3 F |"D7" (D>G) F3 D | 
+"G" (C>B,) B,2 G>F :|"G" (C>B,) B,2 B>A |:"Em" (GF) (GA) Bc |"B7" d2 A4 | (A^G) (Ac) BA | 
+"Em" (B>F) G4 |"G" B>B c3 B | "^Stämförslag B.O." B>B d3 B |"D7" (Ac) (fA) cd |1 "G" (c>B) B2 B>A :|2"G" (c>B) B2 z2 |]
+

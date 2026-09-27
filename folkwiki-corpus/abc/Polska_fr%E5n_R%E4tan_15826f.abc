@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Rätan
+S:Efter Harald Johansson
+O:Rätan, Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Harald Johansson, Rätansbyn
+L:1/8
+M:3/4
+K:F
+V:1
+|:"^1" (ag)({g} =ba) g>e | fe/f/"^Senpolska" (af) e>^c | d>(e f)g/f/ e>^c | de/f/ (ed) ^cA | 
+(ag)({g} =ba) g>e | fe/f/ (af) e>^c | d>(e f)g/f/ e>^c | de/f/ d4 :: 
+A>(B AG) F>E | (DA) (df) e^c | A>(B AG) F>E | (D/E/F) E4 | 
+A>(B AG) F>E | (DA) (df) e^c | A>(B AG) F>D | ED/^C/ D4 :| 
+V:2
+|:"^2" (fe) (gf) e>^c | d^c/d/ (fd) c>A | F>(G A)B/A/ G>E | FG/A/ (GF) E^C | 
+(fe) (gf) e>^c | d^c/d/ (fd) c>A | F>(G A)B/A/ G>E | FG/A/ F4 :: 
+F>(G FE) D>^C | (A,D) (FA) GE | F>(G FE) D>^C | (A,/^C/D) C4 | 
+F>(G FE) D>^C | (A,D) (FA) GE | F>(G FE) D>A, | "^Stämförslag B.O." ^CA,/G,/ [A,F]4 :|
+

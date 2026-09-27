@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Pros Olles polska
+S:Pros Olle
+O:Mockfjärd, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+K:Am
+V:1
+|:"^1""^\"Pros Olles polska\"" A4 a2^ga b2>a2 | a4 (ga)ge c2>e2 | g4 g2^fg a2>=f2 | d4 (ef)e^c A4- | A4 a2^ga b2>a2 | 
+a4 (ga)ge c2>e2 | g4 g2^fg a2>=f2 | d4 (ef)e^c A2>c2 |1 (e2<f2) d8 :|2 (e2<f2) d6 e2 |: 
+f4 d2fe ^c2>e2 | g4 g2^fg a2>=f2 | d4 efe^c A4 | f4 d2fe ^c2>e2 | 
+g4 g2^fg a2>=f2 | d4 efe^c A2>c2 |1 (3efe f2 d6 e2 :|2 (3efe f2 d8 |] 
+V:2
+|:"^2" D4 f2ef g2>f2 | f4 efec G2>c2 | e4 e2^de f2>=d2 | A4 ^cdcA E4- | E4 f2ef g2>f2 | 
+f4 efec G2>c2 | e4 e2^de f2>=d2 | A4 ^cdcA E2>G2 |1 G2<A2 F8 :|2 G2<A2 F6 ^c2 |: 
+d4 A2d^c A2>c2 | e4 e2^de f2>=d2 | A4 ^cdcA E4 | A4 F2AG E2>G2 | 
+_B4 B2AB ^c2>A2 | F4 GAGE ^C2>E2 |1 G2A2 F6"^Stämförslag B.O." ^c2 :|2 G2A2 F8 |] 
+

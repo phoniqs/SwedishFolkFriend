@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Trojka
+O:Ryssland
+R:Dans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Ryssland. Danser från när och fjärran."
+L:1/16
+M:2/4
+K:Dm
+V:1
+"^1""^Förspel" .f z .e z .f z .g z | a4 A4 | .f z .e z .d z .^c z | d4 |] [K:F][M:2/4][K:treble]"^Dans" A4 |: A2<(a2 a2)g2 | f4 e4 | 
+d4 ^c4 | d4 A4 | A2<(a2 a2)g2 | f4 e4 | d4 ^c4 | d4 ^c4 | =c2<(c'2 c'2)b2 | b4 a4 | 
+A2<a2 a2g2 | g4 f4 | .f z .e z .f z .g z | a4 A4 | .f z .e z .d z .^c z | d4 A4 | f4 f4 | 
+f4 e2d2 | e4 e4 | e4 d2^c2 | d4 d4 | d2f2 e2d2 | ^c4 A4 | A4 B2^c2 | f4 f4 | f4 e2f2 | 
+g4 g4 | g4 f2g2 | a4 A4 | .f z .e z .d z .^c z | .d z z2 A4 |1 .d z z2 A4 :|2 d8 |] 
+V:2
+"^2" .d z .^c z .d z .e z | f4 F4 | .A z .G z .F z .E z | F4 |][K:F][M:2/4][K:treble] F4 |: 
+F2<(f2 f2)e2 | d4 A4 | F4 E4 | F4 D4 | F2<(f2 f2)e2 | d4 A4 | F4 E4 | F4 E4 | F2<(a2 a2)g2 | 
+g4 f4 | F2<f2 f2e2 | e4 d4 | .d z .^c z .d z .e z | f4 F4 | .A z .G z .F z .E z | F4 D4 | d4 d4 | 
+d4 ^c2=B2 | ^c4 c4 | ^c4 F2E2 | "^Spelas önskat antal ggr.""^Tempot ökas något för varje omtag." F4 F4 | F2A2 G2F2 | E4 ^C4 | ^C4 D2E2 | A4 A4 | 
+ A4 G2A2 | B4 B4 | B4 A2B2 | 
+^c4 E4 | .A z .G z .F z .E z | "^Stämförslag B.O." .F z z2 D4 |1  .F z z2 D4 :|2 F8 |]
+

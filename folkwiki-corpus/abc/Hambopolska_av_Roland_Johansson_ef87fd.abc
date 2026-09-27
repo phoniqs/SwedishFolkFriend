@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska av Roland Johansson
+O:Säter, Dalarna
+R:Hambo
+C:Roland Johansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Roland Johansson, Säter."
+Z:"Uppt. o. arr. B.O.  96-10-16."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1"u B |:"G"v d>(e dB) G>B |"D7" (B>A) (A^G) A>B | c>(d cA) F>A |"G" (G>F) (GB) d>B | 
+d>(e dB) G>B | "D7" (B>A) (A^G) A>B | c>(d cA) F>A |1"G" G2 G3u B :|2"G" G2 G4 |: 
+[K:C]"C"v (G>F) (EG) c>B |"Dm" (A>G) (FA) d>c |"G7" (B>A) (GF) EF |"C" A>G (^FA) G2 | 
+(G>F) (EG) c>B |"Dm" (A>G) (FA) d>c |"G7" (B>A) (GB) d>f |"G7" (ed)"C" c4 :: 
+"C"v g>(g c'>g) e>g |"G7" g>f (fe) f2 | f>(f a>f) d>f |"C" e>d (ef) g2 | 
+"C" g>(g c'>g) "C7" e>g |"F" f>e (fg) a2 |"G7" g>(a g>f) e>d |"C" c2 c4 :| 
+V:2
+"^2" G |: B>(c BG) D>G | (G>F) (FE) F>G | A>(B AF) D>C | (B,>A,) (B,D) G>G | 
+B>(c BG) D>G | (G>F) (FE) F>G | A>(B AF) D>C |1 B,2 [B,D]3 G :|2 B,2 [B,D]4 |:
+[K:C] (E>D) (CE) G>E | (F>E) (DF) A>F | (G>F) (ED) ^CD | F>E (DF) E2 | 
+(E>D) (CE) G>E | (F>E) (DF) A>F | (G>F) (DF) G>A | (GF) E4 :: 
+e>(e g>e) c>e | e>d (d^c) d2 | B>(B d>B) G>B | c>B (cd) e2 | 
+ e>(e g>e) c>_B | A>G (Ac) f2 | "^Uppt. o. arr. B.O.  96-10-16." B>(c B>A) G>F | E2 [CE]4 :|
+

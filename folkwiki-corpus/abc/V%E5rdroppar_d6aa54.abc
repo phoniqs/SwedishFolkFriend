@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Vårdroppar
+C:Eric Sahlström
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Eric Sahlström (1946)
+L:1/16
+M:3/4
+K:Bb
+|:"^1"v "Bb" (B,D)FC"F7" (A,C)FC"Bb" (B,D)FD |"^Polska"u (C=E)GE"F7" (FA)cA"Bb" B4 | "Bb" (FB)dB (fB)dB (FB)dB |
+"F"u (FA)cA (eA)cA (FA)cA | "Eb" (EG)Be (ge)BG (EG)BG | "Bb" u (FG)FD (B,2D2) F4 | 
+(FB)dB (fB)dB (FB)dB | "F"u (FA)cA (eA)cA (FA)cA | "Eb" (EG)Be (ge)BG (EG)BG |u 
+"Bb" (FG)FD (B,2D2) F4 | "Cm" (EF)ED C2e2"Bb" (df)dB | "F7" (ce)cA"Bb" B8 :: v "Gm" (G^F)GA (BA)Bc d2g2 | "D7" (^fg)af d8 | 
+c2dc B2cB A2d2 | (D^F)AF (G2D2) "Gm" B,2D2 | (G^F)GA (BA)Bc d2g2 | "D7" (^fg)af d8 | 
+c2dc B2cB A2d2 |1 (D^F)AF"Gm" G6 z2 :|2 (D^F)AF "Gm" G6 z2 |: v "Bb" (fd)BF (DB,)DF (Bd)fd |u 
+"F" (ec)AF (=EF)Ac (_ec)Ac | "Gm" (de)dB (GD)GB (dB)GB |"D7"u (Ad)AG (^FG)AF D4 |
+"Eb" G2GE B,2EG (BG)EG | u "Bb" (FG)FD B,2DF B2AG |"F7" (FG)AB (c=B)cd (ec)AF |"Bb" B4 B6 z2 :|
+

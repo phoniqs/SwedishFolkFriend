@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Blinde Karls visa
+O:Säter, Dalarna
+S:Ragnar Eriksson
+R:Visa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Ragge Eriksson, Säter."
+L:1/8
+M:4/4
+K:D
+V:1
+"^1" D |: F>F DF A2 A>D | F>F GF E3 A | A>A BA c2 c>A | A>A BA D3 D | 
+D>D FA d2 B>G | G>B dd F3 A, | D>D FB A2 C>E | A>A GE D3 z |] 
+V:2
+"^2" F |: D>D A,D F2 F>F | D>D ED C3 C | C>C DC E2 E>C | C>C DE F3 A, | 
+A,>A, DF B2 G>D | D>G BB A3 D | A,>A, DD C2 A,>C | C>C EC [A,F]3 z |]
+

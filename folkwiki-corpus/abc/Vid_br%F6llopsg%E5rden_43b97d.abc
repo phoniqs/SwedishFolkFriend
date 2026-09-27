@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Vid bröllopsgården
+T:Gånglåt
+C:Bengt Ohlson
+O:Hedemora, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bengt Ohlson, Hedemora."
+Z:"Spelades offentligt första gången utanför bröllopsgården vid Anette och Jan Björklunds bröllop i Avesta 6 sept. 1986"
+L:1/16
+Q:1/4=75
+M:2/4
+K:G
+V:1
+"^1" D2 |: [DB]4 (Bc)dB | [B,G]4 G2AB | [Ec]4 (cd)ec | [EA]6 g2 | [Af]4 (fe)fg | 
+(a2f2) d2ef | g2ag (f2e2) | [Gd]6 c2 | [DB]4 (Bc)dB | [B,G]4 G2AB | [Ec]4 (cd)ec | 
+[EA]6 g2 |  [Af]4 (fe)fg | (a2f2) d2ef | g2ag (fg)af |1 [Bg]6 D2 :|2 [Bg]6 g2 |: 
+[ce]4 [Ec]2>(e2 | g2)fg (ag)fe | (d2>B2) (G2e2) | d6 B2 | (c2>A2) (F2A2) | 
+(DF)Ad (f2a2) | g2fg (ag)fe | [Dd]6 g2 | [ce]4 [Ec]2>(e2 | g2)fg (ag)fe | (d2>B2) (G2e2) | 
+d6 B2 | (c2>A2) (F2A2) | (DF)Ad (f2a2) | g2ag (fg)af |1 [Bg]6 g2 :|2 [Bg]6 z2 |] 
+V:2
+"^2" B,2 |:"G" [B,G]4 (GA)BG | [B,D]4 B,2DG | "Am" [CE]4 (EF)GE | [CE]6 e2 |"D7" [Fd]4 (dc)de | 
+(f2d2) F2Ad |"G" B2cB (d2c2) | [DB]6 A2 | [B,G]4 (GA)BA | [B,D]4 B,2DG |"Am" [CE]4 (EF)GE | 
+[CE]6 e2 | "D7" [Fd]4 (dc)de | (f2d2) F2Ad |"G" B2cB"D7" (AB)cA |1"G" [DB]6 B,2 :|2"G" [DB]6 B2 |: 
+"C" [Ec]4 [CE]2>(c2 | e2)de (fe)dc |"G" (B2>G2) (B,2c2) | [DB]6 G2 | "D7" (A2>F2) (D2F2) | 
+(A,D)FA (d2c2) |"G" B2AB (cB)dc | [GB]6 B2 |"C" [Ec]4 [CE]2>(c2 | e2)de (fe)dc | 
+"G" (B2>G2) (B,2c2) | [DB]6 G2 | "D7" (A2"^Spelades offentligt första gången utanför bröllopsgården""^vid Anette och Jan Björklunds bröllop i Avesta 6 sept. 1986">F2) (D2F2) | (A,D)FA (d2c2) | "G" B2cB"D7" (AB)cA |1"G" [DB]6 B2 :|2"G" [DB]6 z2 |]
+

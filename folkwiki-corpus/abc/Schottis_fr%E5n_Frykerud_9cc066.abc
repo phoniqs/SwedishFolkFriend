@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Frykerud
+S:Carl Iderström
+O:Frykerud, Värmland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Carl Iderström"
+L:1/8
+M:2/2
+K:A
+V:1
+|:"^1" e>fed c2 A2 | A,>CEA c2 c2 | E>GBG E>GBG | e>fed c2 A2 | 
+e>fed c2 A2 | A,>CEA c2 c2 | B>agf edcB | Aaec A4 ::
+[K:D] F>GAB Af f2 | F>GAB Af f2 | gafg efde | cdBc ABGA | 
+F>GAB Af f2 | F>GAB Af f2 | gfed cbac | d2 d2 [Fd]4 :| 
+V:2
+|:"^2""A" c>dcB A2 E2 | e>fed [ce]2 [ce]2 |"E7" B>cdc B2 B2 |"A" c>dcB A2 E2 | 
+c>dcB A2 E2 | e>fed [ce]2 [ce]2 |"E7" G>ABA GFED |"A" C2 E2 C4 ::
+[K:D]"D" D>EFG Fd d2 | D>EFG Fd d2 | "A7" [ce]2 [Be]2 [Ae]2 [GA]2 | [EA]2 [GA]2 [FA]2 [EA]2 |
+"D" D>EFG Fd d2 | D>EFG Fd d2 | "A7" [ce]2 B2 A2 [GA]2 |"D" [FA]2 [DA]2 [DA]4 :|
+

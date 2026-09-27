@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals av Bengt Johansson
+O:Ryggen, Falun
+R:Vals
+C:Bengt Johansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bengt Johansson (1919-1991), Ryggen, Falun."
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1"v C2 (E2 A2) | (c3 B) A2 | D2 (DF) Ad | (f3 e) d2 | E2 (EG) Be | g4 f2 | e4 d2 | 
+(dc) ec A2 | C2 (E2 A2) | (c3 B) A2 | D2 (DF) Ad | (f3 e) d2 | E2 (EG) Be | g4 f2 | 
+(fe) (ed) BG | A4 z2 :: v (CE) (EA) Ac | (ed) cd B2 | (EG) (Be) gb | (ag) (fe) cA | 
+(A,C) (EA) ce | (ed) cd B2 | (EG) (Be) gb |1 a4 a2 :|2 a3 z e2 |: (c'3 b) a2 | e4 c2 | 
+(f3 e) d2 | (dc) (BA) GF | E2 (DE) GB | (d3 c) B2 | (gf) (ed) cB | (AE) (Ac) ea | 
+(c'3 b) a2 | e4 c2 | (f3 e) d2 | F4 A2 | G3 F E2 | (Ed) (BG) EG | A3 A A2 |1 A4 e2 :|2 A6 |] 
+V:2
+|:"^2""A"v A,2 (C2 E2) | (E3 D) C2 |"D" A,2 (A,D) FA |"Bm" (A3 G) F2 |"E7" B,2 (B,E) GB | 
+ B4 A2 | G4 F2 | "A" (BA) cA E2 | A,2 (C2 E2) | (E3 D) C2 |"D" A,2 (A,D) FA |"Bm" (A3 G) F2 | "E7" B,2 (B,E) GB | B4 A2 | (AG) (GF) ED |"A" C4 z2 ::
+"A"v (A,C) (CE) EA |"E7" (cB) AB G2 | (B,D) (EG) Bd |"A" (cB) (AG) EC | (EA,) (CE) Ac |"E7" (cB) AB G2 | (B,D) (EG) Bd |1 "A" c4 c2 :|2"A" c3 z c2 |:
+"A" (e3 d) c2 |"A7" A2 =G2 E2 | "D" (A3 G) F2 |"Bm" (FE) (DC) B,A, | "E7" (B,D) (GB,) DG | (B3 A) G2 | 
+(ed) (cB) AE |"A" (CA,) (CE) Ac | (e3 d) c2 | "A7" A2 (=G2 E2) |"D" (A3 G) F2 |"Bm" (DE) (DC) B,A, |"E7" (B,E) (GE) B,E | "^Stämförslag B.O." (GB) (GE) B,D | "A" C3 C C2 |1"A" C4 c2 :|2"A" C6 |]
+

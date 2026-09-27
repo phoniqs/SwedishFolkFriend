@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals från Hedemora
+S:Per Wilhelm Bergström
+O:Hedemora, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"4. Vals från Hedemora eft. P. Wilhelm  Bergström, Matsbo."
+Z:DVD efter [[Personer/Ragnar Eriksson]]: "Ragges dans: Spegelvänd vals"
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1"u A2 |:v f3 ed^c | d2 (ed) ^cd | A3 BAG | A2 (BA) EF | 
+A2 (E2 F2) | G2 (F2 E2) |1 D3 EFD | A4u A2 :|2 A3 FE^C | D6 |: 
+G3 A B2 |u B2 A2 G2 | d3 A F2 |u F2 E2 D2 | 
+A,3 ^CEG | F4 E2 |1 D3 EFG | A6 :|2 D3 FE^C | D4 z2 |] 
+V:2
+"^2"u D2 |:"Dm" A3 GFE | F2 (GF) EF | F3 GFE | F2 (GF) ^CD |
+"A7" E2 (^C2 D2) | E2 (D2 ^C2) |1 "Dm" A,3 ^CDA, |"A7" ^C4u D2 :|2"A7" ^C3 DCA, |"Dm" A,6 |:
+"Gm" B,3 D G2 |u G2 D2 B,2 | "Dm" A3 F D2 |u D2 ^C2 A,2 |
+"A7" E3 A,^CE |"Dm" D4"A7" ^C2 |1"Dm" A,3 ^CDE |"A7" ^C6 :|2 "Dm" A,3 D^C"A7""^Stämförslag B.O."A, |"Dm" A,4 z2 |]
+

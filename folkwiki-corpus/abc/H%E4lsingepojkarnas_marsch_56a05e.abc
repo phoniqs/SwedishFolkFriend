@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Hälsingepojkarnas marsch
+C:Wiktor Öst
+O:Hälsingland
+R:Marsch
+Z:Karin Helander
+N:"1. Hälsing - pojkarnas marsch. V Öst"
+L:1/16
+M:2/4
+K:Eb
+V:1
+!f! uB,2 |: "Eb" E4 (EF)GA | B2Bc d2e2 | !ff! [eg]4 [Ge]4 | [GB]4 [B,G]4 | "Bb7" !p! DFGA (=AB)cB | DFGA (=AB)cB | 
+!mf! !crescendo(! (fg)fe (de)dc | "Eb" (Bc)BA !crescendo)! G2!f!uB,2 | E4 (EF)GA | B2Bc d2e2 | !ff! [eg]4 [Ge]4 | [GB]4 [B,G]4 | "Bb7" !p! !crescendo(! DFGA (=AB)cB | 
+DFGA (=AB)cB | (Bd)cB (FA)DF !crescendo)! |1 "Eb" E2E2 E2B,2 :|2 "Eb" E4 z4 |: !ff! [EBg]2eB G2E2 | e2BG E2B,2 | 
+!p! "Bb7" (DF)GA (=AB)cB | [AB]2[AB]2 [AB]4 | !f! f2dB A2F2 | c2AF D2B,2 | !p! "Eb" (ED)EF (GA)Bc | B2[AB]2 [BG]2[BF]2 | !ff! [EBg]2eB G2E2 | 
+ e2BG E2B,2 | !p! "Bb7"(DF)GA (=AB)cB | !mf! [AB]2"Bbdim"[A=B]2 "Fm"[Ac]4 | !crescendo(! [Ac]2[Af][Af] [Af]2[Af]2 | "Eb" [GB]2[Ge][Ge] [Ge]2[Ge]2 !crescendo)! | !crescendo(! "Bb7"(=AB)cB (FA)DF | "Eb"[B,E]8 !crescendo)! :| 
+|: !p! G2[eg]2 [eg]2eg | "G7" f2d2 d4 | "Cm"C2[Ge]2 [Ge]2ce | "G7" d2[=BF]2 [BF]4 | !mf! !crescendo(! "Ab" (A,E)(cE) (A,E)(cE) | "Eb"(EB)(gB) (EB)(gB) !crescendo)! |  "Bb7" !f! (=AB)(cB) (FA)(DF) | "Eb" (EF)(GA) B4 | 
+!p! G2[eg]2 [eg]2eg | "G7" f2d2 d4 | "Cm"C2[Ge]2 [Ge]2ce | "G7" d2[=BF]2 [BF]4 | !mf! !crescendo(! "Ab" (A,E)(cE) (A,E)(cE) | "Eb"(EB)(gB) (EB)(gB) !crescendo)! |  "Bb7" !f! (=AB)(cB) (FA)(DF) | "Eb" E4 z4 :|
+

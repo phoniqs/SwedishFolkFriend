@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Klosterminnen
+C:Udd Axel Johansson
+R:Hambo
+O:Hedemora, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Udd Axel Johansson, Hedemora."
+L:1/8
+M:3/4
+K:F
+V:1
+"^1" (D"^Hambo" |: G>)(A B>d) g>a | b>(a g>d) B>G | (D>^F) A>d (3cBA | G>(A B>c) d>D | 
+G>(A B>d) g>a | b>(a g>d) B>G | (D>^F) A>d (3cBA |1 G2 [B,G]3 D :|2 G2 g4 |: 
+[K:Bb] (3f=ef (3gfd (3BFD | (E>G) B>e g>g | (3f=ef (3agf (3_edc | (B>g) (3fdB F2 | 
+(3f=ef (3gfd (3BFD | (E>G) B>e g>g | (3f=ef (3agf (3_edc |1 B2 B4 :|2 B2 B3 (D [| 
+[K:F] G>)(A B>d) g>a | b>(a g>d) B>G | (D>^F) A>d (3cBA | G>(A B>c) d>D | 
+G>(A B>d) g>a | b>(a g>d) B>G | (D>^F) A>d (3cBA | G2 G3 F |]:
+[K:Bb] D>B F2 F2 | E>e G2 G2 | F>(e c>A) F>A | B>g (3fdB F2 | 
+D>B F2 F2 | E>e G2 G2 |1 F>(e c>A) F>A | B2 [DB]3 F :|2 F>(e c>A) f>A | B2 [DB]4 |] 
+V:2
+"^2" (A, |: B,>)(D G>A) B>c | d>(c B>G) D>B, | (A,>D) ^F>B (3AGF | B,>(D G>A) B>A, | 
+B,>(D G>A) B>c | d>(c B>G) D>B, | (A,>D) ^F>B (3AGF |1 D2 [G,D]3 A, :|2 D2 [DB]4 |: 
+[K:Bb] (3d^cd (3edB (3FDB, | (C>E) G>c e>e | (3c=Bc (3fed (3cAF | (D>e) (3dBF D2 | 
+(3d^cd (3edB (3FDB, | (C>E) G>c e>e | (3c=Bc (3fed (3cAF |1 D2 D4 :|2 D2 D3 (A, [| 
+B,>)(D G>A) B>c | d>(c B>G) D>B, | A,>D F>B (3AGF | B,>D G>A B>A, | B,>D G>A B>c | d>c B>G D>B, | 
+A,>D F>B (3AGF | D2 D3 D |]:[K:Bb] B,>D B,2 _A,2 | G,>E C2 B,2 | A,>(c A>F) E>F | D>e (3dBF D2 | 
+B,>D B,2 _A,2 | G,>E C2 B,2 |1 A,>(c A>F) E>F | D2 D3 D :|2 A,>(c A>F)"^Stämförslag B.O." A>F | D2 D4 |]
+

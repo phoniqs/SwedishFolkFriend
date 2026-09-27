@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:5
+T:Familie-rheinländer
+R:Reinländer
+O:Danmark
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danmark, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (cB)AG (FD)EF | G2G2 G2 z2 |]:[K:G][M:2/4][K:treble]"^Dans" (B,D)GB d2B2 | e2B2 d2B2 | (B,D)GB d2B2 | 
+c2Bc B2DC | (B,D)GB d2B2 | e2B2 d2B2 | (cB)AG (FD)EF | G2G2 G2 z2 :: 
+d2^cd e2d=c | B2D2 B2cB | A2D2 A2BA | (GA)Bc d4 | d2^cd e2d=c | 
+B2D2 B2cB | A2D2 A2BA | G2G2 G2 z2 ::[K:C] e2G2 G^FG2 | ^f2A2 A^GA2 | 
+B2a2 (g^f)ge | c2e2 G4 | e2G2 G^FG2 | ^f2A2 A^GA2 | B2a2 (g^f)gB | c2e2 c2 z2 :| 
+V:2
+"^2" (AG)FE (DA,)CD | B,2B,2 B,2 z2 |]:[K:G][M:2/4][K:treble] (G,B,)DG B2G2 | c2G2 B2G2 | (G,B,)DG B2G2 | 
+A2GA G2B,A, | (G,B,)DG B2G2 | c2G2 B2G2 | (AG)FE (DA,)CD | B,2B,2 B,2 z2 :: 
+B2^AB c2B=A | G2B,2 G2AG | F2C2 F2GD | (B,D)GA B4 | B2^AB c2B=A | 
+G2B,2 G2AG | F2C2 F2GD | B,2B,2 B,2 z2 ::[K:C] c2E2 E^DE2 | d2^F2 FEF2 | 
+G2^f2 (ed)ec | G2c2 E4 | c2E2 E^DE2 | d2^F2 FEF2 | "^Stämförslag B.O." G2^f2 (ed)BG | E2G2 E2 z2 :|
+

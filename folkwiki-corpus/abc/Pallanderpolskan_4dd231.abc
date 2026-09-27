@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Pallander-polskan
+C:Blånn-Olle
+O:Rättvik, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Av Blånn-Olle.  Stämförslag B.O.
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" D- |: D>F A2 d2 | (f>e) d3 D- | D>(F A2) B>A | A2 E3 A- | A>c e2 f2 | (g>f) e3 d | 
+c2 (c>B) A>G |"D" G>F F3 D- | D>F A2 d2 | f>e d3 D- | D>F A2 B>A |"A7" A2 E3 A- | 
+A>c e2 f2 | g>f e3 d | c2 (c>A) B>c |1"D" d2 [Fd]3 D- :|2"D" d2 [Fd]3 z |:
+[K:G]"G" b>a g2 e2 | d>B G3 G,- | G,>B, D>(G B>)d |"D7" c2 A4 | a>g f2 e2 | d>c A3 D- | 
+D>F A2 A2 |"G" G>A B4 | b>a g2 e2 | d>B G3 G,- | G,>B, D>(G B>)d |
+"D7" c2 A4 | a>g f2 e2 | d>c A3 D- | D>F A>(d f>)a | g2 [Bg]2 z2 :| 
+V:2
+"^2" A,- |:"D" A,>D F2 A2 | d>A F3 A,- | A,>D F2 G>F |"A7" E2 C3 C- | C>E G2 A2 | B>A G3 B | 
+A2 (A>G) F>E | E>D D3 A,- | A,>D F2 A2 | d>A F3 A,- | A,>D F2 G>F | E2 C3 C- | C>E G2 A2 | 
+B>A G3 B | A2 (A>F) G>A |1 F2 [DA]3 D :|2 F2 [DA]3 z |:
+[K:G] d>c B2 G2 | B>G D3 D- | D>G, B,>(D G>)B | A2 F4 | f>e d2 c2 | 
+A>G F3 A,- | A,>C D2 C2 | B,>D G4 | d>c B2 G2 | B>G D3 D- | D>G, B,>(D G>)B | 
+A2 F4 | f>e d2 c2 | A>G F3 A,- | A,>C D>(F A>)c |"G" B2 [G,D]2 z2 :|
+

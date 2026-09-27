@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo med sambo
+C:Åke Lindqvist
+O:Jämtland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Åke Lindqvist"
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" d>f e>d A>F | D>B A2 A2 | d>f e>d A>F | D>c B2 B2 | A>g e>c A>G | 
+E>C (3A,CE A2 | c>B A>g c>e | d>f d>A F2 | d>f e>d A>F | D>B A2 A2 | d>f e>d A>F | 
+D>c B2 B2 | A>g e>c A>G | E>C (3A,CE A2 | c>B A>g c>e | d2 d2 z2 ::
+[K:A] e>^d f>e c>A | E>A c>A e2 | e>^d f>e c>A | F>B d>B f2 | g>f e>d B>G | 
+(3FGF E2 E2 | G>F E2 c>B | A>B c>f e2 | e>^d f>e c>A | E>A c>A e2 | e>^d f>e c>A |
+ F>B d>B f2 | g>f e>d B>G | (3FGF E2 E2 | G>F E2 c>B | A2 A2 z2 ::
+[K:G] b>a g>f e>d | B>d B>d G2 | b>a g>f e>d | c>e c>e A2 | A>G F>E D>F | 
+A>d f2 f2 | f>e d>c e>d | (3cdc B2 B2 | b>a g>f e>d | B>d B>d G2 | b>a g>f e>d |
+ c>e c>e A2 | A>G F>E D>F | A>d f2 f2 | f>e d2 c>F | G2 G2 z2 :|
+

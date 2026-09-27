@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Rafnastämmans Gånglåt
+R:Gånglåt
+O:Ramsele, Ångermanland
+N:Signaturlåt för Rafnastämman. Svante Ingelsson
+Z:abc Eva Zwahlen 2026-05-21
+M:2/4
+L:1/16
+K:G
+| D2|:"_G" G4 DCB,A, | G,2B,2 D2G2 | B4 GEDC | B,2D2 G2B2 |
+"_Am" A3B c2d2 |"_D7" f2e2 d2A2 |"_G" c3B B^ABc | B6 D2| G4 DCB,A, |
+"_G" G,2B,2 D2G2 | B4 GEDC | B,2D2 G2B2 |"_Am" A3B c2d2 |"_D7" f2e2 d2F2 |
+"_D7" A3c e2F2 |1 "_G" G6 "Fine" D2 :|2 "_G" G6 B2  |]: "_Am" c3B A2G2 |"_D7" F2A2 e2d2 |
+"_G" B3A G2B2 | D2G2 c2B2 |"_Am" A3B c2e2 |"_D7" F3G A2c2 |"_G" B3c d2e2 |
+"_G" d6 B2 |"_Am" c3B A2G2 |"_D7" F2A2 e2d2 |"_G" B3A G2B2 | D2G2 c2B2 |
+"_Am" A3B c2e2 |"_D7" D3c F2A2 |1 "_G" G4 G3G | G6 B2 :|2 "_G" G4 G3G |"D.C al Fine" G6 D2|]
+

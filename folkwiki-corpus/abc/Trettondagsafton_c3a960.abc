@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Trettondagsafton
+C:Tomas Östlund
+%%score 1 ( 2 3 )
+L:1/8
+Q:1/4=110
+M:3/4
+O:Nykvarn, Södermanland
+I:linebreak 
+K:D
+V:1 treble nm="Tvärflöjt" snm="Fl."
+V:2 treble-8 nm="Akustisk gitarr" snm="Git."
+V:3 treble-8 nm="Akustisk gitarr bas" snm="Bas."
+V:1
+z2 z2 cd |: A2 F>D GB | A2 F>D dc | B2 GB d>B | A4 cd | A2 F>D GB | A2 F>D GB | Ad FA E>F | 
+D4 dc | B2 G>B dB | A2 F>A dA | GB AG F>D | E3 z cd | A2 F>D GB | A2 F>D GB | Ad FA E>F | 
+D3 z dc | B2 G>B dB | A2 F>A dA | GB AG F>D | E3 z cd | A2 F>D GB | A2 F>D GB | Ad FA E>F |1 
+D3 z cd :|2 D3 z z2 |] 
+V:2
+z6 |: z A df d z | z A df d z | z G Bd g z | z A df d z | z A df d z | z A df e z | z d AA ec | 
+z D Ad fd | z G Bd g z | z A df d z | z G Bd g z | z2 [Ecg]3 z | z A df d z | z A df d z | 
+z d AA ec | z D Ad fd | z G Bd g z | z A df d z | z G Bd g z | z2 [Ecg]3 z | z A df d z | 
+z A df d z | z A cg ec | z2 [Adfd']3 z :| z2 [Adfd']3 z |] 
+V:3
+x6 |: D4 A,2 | D4 A,2 | G,4 B,2 | D4 A,2 | D4 A,2 | D4 C2 | A,4 C2 | D,4 A,2 | G,4 B,2 | 
+D4 A,2 | G,4 B,2 | C4 C2 | D4 A,2 | D4 A,2 | A,4 C2 | D4 A,2 | G,4 B,2 | D4 A,2 | G,4 B,2 | 
+C4 C2 | D4 A,2 | D4 A,2 | A,4 C2 | D4 A,2 :| D6 |]
+

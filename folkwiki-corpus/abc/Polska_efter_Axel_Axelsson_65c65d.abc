@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:518
+T:Polska efter Axel Axelsson
+T:efter fadern
+T:(OA 518)
+B:Sörmländska låtar samlade av Olof Andersson nr 518
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:Polskan härstammar från 1700-talet och förekommer i skilda landskap. Jfr Svenska Låtar, Småland, Öland och Blekinge n:r 78 och 144 samt Närke n:r 276. Se anmärkningen där.
+Z:Anders Larsson 2025-03-01
+M:3/4
+L:1/4
+Q:90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+A/d/ F/A/ (G/4F/4)E/4D/4 | D/d/ F/A/ (G/4F/4)E/4D/4 | D/d/ d/f/ (a/4g/4)f/4g/4 | (e/4g/4)e/4c/4 (A/4B/4)c/4d/4 (e/4f/4)g/4e/4 |
+e/d/ d/f/ (a/4g/4)f/4g/4 | (e/4g/4)e/4c/4 (A/4B/4)c/4d/4 (e/4f/4)g/4a/4 | b/b/4g/4 a/a/4f/4 (g/4f/4)g/4a/4 | (b/4g/4)e/4c/4 c/d/ d ::
+[K:A] e/a/ c/e/ (d/4c/4)B/4A/4 | A/a/ c/e/ (d/4c/4)B/4A/4 | e/4a/4c'/4a/4 e/4a/4c'/4a/4 e/4a/4c'/4a/4 | e/4b/4d'/4b/4 e/4b/4d'/4b/4 e/4b/4d'/4b/4 |
+e/4a/4c'/4a/4 e/4a/4c'/4a/4 e/4a/4c'/4a/4 | e/4b/4d'/4b/4 e/4b/4d'/4b/4 e/4b/4d'/4b/4 | e/f/4g/4 (a/4g/4)a/4e/4 (d/4c/4)B/4A/4 | (c/4B/4)A/4G/4 A2 :|
+

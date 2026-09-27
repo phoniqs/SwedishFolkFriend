@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:149
+T:Vallerskogsvalsen
+T:(SvL Värmland 149)
+R:Vals
+O:Ransäter, Värmland
+B:Svenska Låtar Värmland nr 149
+Z:Karin Helander
+S:Oscar Högberg
+S:Lars Caspersson
+N:Från allspelslåtar Ransäterstämman 2022: https://ransatersstamman.se/allspelslatar-2022 (not märkt TL)
+N:"Vallerskogsvalsen efter Oscar Högberg, Ransäter"
+N:Samt även Karen Myers #2640: https://bluerose.karenlmyers.org/media/trans/2640.pdf
+N:"Vals efter Lars Caspersson, Ransäter (1846)"
+M:3/4
+Q:160
+L:1/8
+K:D
+V:1
+"D" F2 AF D2 | "Em" G2 BG E2 | "A7" c2 ec A2 | "D" d2 fd A2 | 
+"D" F2 AF D2 | "Em" G2BG E2 | "A7" c2 ec (3 (ABc) | "D" d2 d3 z :|
+|: "D" d2 fd f2 | "G" g2 fe d2 | "A7" c2 ec (3 (Ace) | "D" a2 fd A2 | 
+"D" d2 fd f2 | "G" g2 fe d2 | "A7" c2 ec (3 (ABc) | "D" d2 d3 z :| 
+V:2
+D2 FD A,2 | E2 GE B,2 | A,2 A,2 C2 | D2 FD A,2 | 
+D2 FD A,2 | E2 GE B,2 | A,2 A,2 C2 | [DA]2 [DA]3 z :|
+|: A2 dA F2 | G2 A2 B2 | A2 G2 E2 | D2 FD A,2 | 
+A2 dA F2 | G2 A2 B2 | A2 G2 E2 | [DA]2 [DA]3 z :|
+

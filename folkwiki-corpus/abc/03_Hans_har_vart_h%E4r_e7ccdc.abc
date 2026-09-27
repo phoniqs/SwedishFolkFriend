@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:3
+T:03 Hans har vart här
+C:Tomas Östlund
+L:1/8
+Q:1/4=130
+R:Vals
+OM:Nykvarn
+H:Stormregn augusti 2023
+M:3/4
+I:linebreak $
+K:C
+z4 ed |:"C" [Q:1/4=130] c2 E3 F |"Am7" G2 A3 E |"Dm7" F2 d3 c |"G" B3 c BA |"Dm7" G2 D3 E |"G" F2 B3 A |$ 
+"G7" G3 A GF |"C" E3 z ed |"C" c2 E3 F |"Am7" G2 A3 E |"Dm7" F2 d3 c |"G" B3 c BA |"Dm7" G2 D3 E |$ 
+"G7" F2 B,3 D |"C" C3 B,"G" ED |"C" C3 C B,C |"G7"!f! D2 .G,2 .G,2 |"C"!ff! E2 .G,2 .G,2 | 
+"Dm7" FG FE DC |"G" D3!f! C B,C |$"G" D2 .G,2 .G,2 |"C"!ff! E2 .G,2 .G,2 |"Dm7" FG FE DC |1 
+"G7"[Q:1/4=114]"^Moderato" D2 G2!mf! ed :|2"G7"[Q:1/4=114]"^Moderato" D2 G2!mf! ed | 
+"C"[Q:1/4=120] c2 E3 F |"Am7" G2 A3 E |$ "Dm7" F2 d3 c |"G" B3 c BA |"Dm7"[Q:1/4=116]"^Allegretto" G2 D3 E |"G7" F2 B,3 D |"C" C6!D.C.!!fine! |]
+

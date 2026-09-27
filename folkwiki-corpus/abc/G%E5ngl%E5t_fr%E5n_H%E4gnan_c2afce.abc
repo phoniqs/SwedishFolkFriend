@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Hägnan
+C:Folke E Larsson
+O:Ludvika, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Folke E Larsson, Ludvika."
+L:1/8
+M:2/4
+K:D
+V:1
+"^1"u A |:"D" f>e dB | (A/B/)A/F/ (DF) | AA/B/ (AF) |"A7" (G/A/)G/F/ (EA) | g>f ed | 
+(c/d/)c/B/ (AG) |1 EE/F/ (GB) |"D" (A/B/)A/F/ (DA) :|2 "A7" (E/G/)A/c/ (e/g/)f/e/ | "D" d3 A |: 
+"D" a>a ag | gf fA | d>d dc |"Em" cB BA |"A7" c>c cd | 
+ec Aa |1 (a/b/)a/g/ (f/g/)f/e/ |"D" f3 A :|2 "A7" A>A Bc | "D" d2 d |] 
+V:2
+"^2"u F |: A>G FD | (F/G/)F/D/ (A,D) | FF/G/ (FD) | (E/F/)E/D/ (CE) | c>B AG | 
+(A/B/)A/G/ (FE) |1 CC/D/ (EG) | (F/G/)F/D/ (A,F) :|2 (C/E/)F/A/ (c/B/)A/G/ | [FA]3 F |: 
+ f>f fe | ed dF | F>F FA | AG GF | A>A AB | 
+cA Ec |1 (c/d/)c/B/ (A/B/)A/G/ | [FA]3 F :|2 C>C DE |"^B.O." F2 [FA] |]
+

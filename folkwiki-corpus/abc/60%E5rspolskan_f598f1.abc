@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:60-årspolskan
+C:August Strömberg
+O:Bingsjö, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Tillägnad Hjort Anders på hans 60-årsdag"
+L:1/16
+M:3/4
+U:t=tenuto
+K:F
+V:1
+"^1"(AB) |:"F" (cd)cB "^Tillägnad Hjort Anders på hans 60-årsdag"  (tA2tB2) c2>c2 | (cd)cB (tA2tc2) f2>c2 | (cd)cB (AF)Ac (fg)fe |"Gm" d4 B4 B4 | 
+"C7" (Bc)BA (tG2tA2) B2>B2 | (Bc)BA (tG2tf2) e2>f2 | (ga)gf (ef)ed (cd)cB |"F" (AB)cA F4 F2>A2 | 
+cdcB (tA2tB2) c2>c2 | cdcB (tA2tc2) f2>g2 | abag (fg)fe (de)dc | "Bb" d4 B4 B4 | 
+BcBA (tB2td2) f2>d2 |"F" cdcB (AF)Ac f2a2 |"C7" g2bg e2ge c2de |"F" f4 cdcB A4 | 
+"Bb" BcBA (tB2td2) f2>d2 |"F" cdcB (AF)Ac f2a2 | "C7" g2bg e2ge c2de |1 "F" f2 z2 [Af]6 AB :|2 "F" f2 z2 [Af]6 f2 |: 
+"Dm" fefg (ab)ag (fg)fe | d^cde (fg)fe (de)d=c | "Gm" BABc (d_e)dc (Bc)BA | B4 G4 [G,G]4 | 
+GAG^F (tG2tA2) B2>d2 |"F" cdcB (AF)Ac f2a2 | "C7" g2bg e2ge c2de |"F" f4 cdcB A4 |
+"Gm" BcBA (tB2td2) f2>d2 | "F" cdcB (AF)Ac f2a2 |"C7" g2bg e2ge c2de |1"F" f2 z2 [Af]6 f2 :|2"F" f2 z2 [Af]6 z2 |]
+

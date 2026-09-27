@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Stensele
+O:Stensele, Lappland
+D:Burträskar'a - I afton (1984)
+R:Schottis
+M:4/4
+L:1/8
+Z:Andy Davey 2019
+K:Gm
+Q:1/2=92
+|:d4 e4 | dBGA B4 | A^FD^F AcBA | GDB,D GBdg | 
+d2d2 e2g2 | dBGA B4 | A^FD^F AcBA | G4 G4 :| 
+K:C
+|:EGGE FAAF | GBdB c3 e | fagf edc/B/c | d2cB cGEC | 
+EGGE FAAF | GBdB c3 e | fagf edc/B/c | d2cB c4 :| 
+K:F
+|:BFDF BABd | cAFC A,4 | G,GGF ECDE | FAcf a2f2 | 
+BFDF BABd | cAFC A,4 | G,GGF ECDE | F4 F4 :|
+

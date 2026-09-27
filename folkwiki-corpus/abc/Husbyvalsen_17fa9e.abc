@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Husbyvalsen
+S:Ingels Erik
+O:Stora Skedvi, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"1. Husbyvalsen eft. Ingels Erik, St. Skedvi."
+Z:DVD efter [[Personer/Ragnar Eriksson]]. Ragges dans: Trampvals"
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" BBc |: "^Ragges dans: Springvals"B2 G3 B | d2 e2 B2 | d3 ccB | A3 BAF | D2 F3 G | A2 f2 e2 | e3 ddc | 
+B3 cBA | G2 B3 c | d2 b2 a2 | g2 c3 d | e4 g2 | f3 e d2 | c2 B2 A2 | G3 g g2 | g3 BBc :: d>d dd dd | 
+e>e ee ee | d>d dd dd | c>c cc cc | A>A AA AA | d>d dd dd | c>c cc cc | B>B BB BB | d>d dd dd | 
+g>g gg gg | B2 c2 d2 | e3 e e2 | g3 f e2 | d3 DFA | d3 cBA | G3 g g2 |1 g3 BBc :|2 g3 BBd |: 
+g3 g g2 | B2 c2 d2 | e3 e e2 | g3 a g2 |T f4 e2 |T f4 e2 | d3 edc | B2 c2 d2 | 
+g3 g g2 | B2 c2 d2 | e3 e e2 | g3 f e2 | d3 DFA | d3 cBA | G3 g g2 |1 g3 BBd :|2 g3 z2 z |] 
+V:2
+"^2" GGA |:"G" G2 D3 G | B2 c2 G2 |"D7" B3 AAG | F3 GFD | A,2 D3 E | F2 d2 c2 |"G" c3 BBA | G3 AGD | 
+B,2 G3 A | B2 g2 f2 |"Am" e2 E3 G | c4 e2 |"D7" d3 A F2 | A2 F2 D2 |"G" B,3 B B2 | "G" B3 GGA ::"G" B>B BB BB | 
+c>c cc cc | B>B BB BB |"D7" A>A AA AA | F>F FF FF | A>A AA AA | A>A AA AA | "G"G>G GG GG | B>B BB BB | B>B BB BB | 
+G2 A2 B2 | "Am"c3 c c2 | e3 d c2 |"D7" F3 A,DF | F3 AFD |"G" B,3 B B2 |1"G" B3 GGA :|2"G" B3 GGB |:
+"G" B3 B B2 | G2 A2 B2 |"Am" c3 c c2 | e3 f e2 |"D7" d4 c2 | d4 c2 |"G" B3 cBA | G2 A2 B2 | "^Stämförslag B.O."B3 B B2 | 
+G2 A2 B2 |"Am" c3 c c2 | e3 d c2 |"D7" F3 A,DF | F3 AFD |"G" B,3 B B2 |1"G" B3 GGB :|2"G" B3 z2 z |]
+

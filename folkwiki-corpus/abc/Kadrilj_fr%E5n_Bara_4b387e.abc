@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:700
+T:Kadrilj från Bara
+T:(SvL Skåne 700)
+O:Bara, Skåne
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 43. Kadrilj från Bara (2) Sv.L. Skåne nr. 700."
+Z:http://runeberg.org/folkdans/besk/0174.html
+B:Svenska Låtar Skåne Nr 700
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 43
+L:1/8
+M:2/4
+K:A
+V:1
+"^1""^Förspel" ac' ea | (c/e/)e/c/ AB/c/ | dd/d/ B/G/B | A3 z |: [K:A][M:2/4][K:treble]"^Dans" ac' ea | (c/e/)e/c/ AB/c/ |
+ dd/d/ (d/B/)G/B/ | (3(B/c/B/) A Ac/e/ | ac' ea | (c/e/)e/c/ AB/c/ | dd/d/ B/G/B | A3 z :: 
+B>c dd | "^Spelas 5 ggr. med repriser."BG B2 | Ac ee | ce a2 | aa c'c' | ee a>e |
+ Bc/B/ (d/B/)G/B/ |  A3 z :: e>e ee | ce a2 | df ff | (f/e/)c/e/ a2 | 
+ce c2 | d/d/d f2 |  cc/c/ (d/B/)G/B/ | BA A2 ::  (B/G/)B/d/ (d/B/)G/B/ | (3(B/c/B/) A A2 | 
+Ac/e/ af/d/ | (3(f/g/f/) e e2 | aa cc | df B2 | (B/G/)B/d/ (d/B/)G/B/ | A3 z :| 
+V:2
+"^2""A" ce Ac | (A/c/)c/A/ EG/A/ |"E7" BB/B/ G/E/D |"A" C3 z |: 
+[K:A][M:2/4][K:treble]"A" ce Ac | (A/c/)c/A/ EG/A/ | "E7"BB/B/ (B/G/)E/D/ | "A"DC CE/A/ | ce Ac | 
+(A/c/)c/A/ EG/A/ |"E7" BB/B/ G/E/D |"A" C3 z ::"E7" G>A BB | GE D2 |"A" EA cc | Ac c2 | 
+cc ee | AA c>A | "E7"GA/G/ (B/G/)E/D/ | "A"C3 z ::"A" c>c cc | AG =G2 |"D" Fd dd |"A" (d/c/)A/c/ c2 | 
+Ac =G2 |"D" FF A2 | "A"AA/A/ "E7"(B/G/)E/D/ | "E7" DC "A" C2 :: "E7"(G/E/)G/B/ (B/G/)E/D/ | 
+ "A"DC C2 |  "^Stämförslag B.O."CE/A/ cd/A/ | dc c2 | cc A=G |"Bm" FA F2 | "E7"  (G/E/)G/B/ (B/G/)E/D/ | "A" C3 z :|
+

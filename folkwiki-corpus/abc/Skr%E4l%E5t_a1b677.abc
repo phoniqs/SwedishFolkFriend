@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:102
+T:Skrälåt
+R:Polska
+B:Musik till svenska folkdanser, gröna boken
+N:Komponerad av balettmästaren Anders Selinder för "Värmlänningarna" 1846.
+N:Spelbar på svensk säckpipa i Am
+N: ''   Selinder skapade scendansen till denna musik – någon som har uppgift på var han nämns även som musikens skapare?''
+L:1/8
+Q:1/4=116
+M:3/4
+I:Linebreak
+L:1/8
+K:Gm
+ d>c A4 | A>B G4 | G>A D2 ^F>G | A>B G3 z ||S (A2 B2 c2) | d2 (d>e) (c>d) | A2 (B>d) (c>A) |
+ G>B A>^F D2 | (A2 B2 c2) | d2 (d>e) (c>d) | A2 B2 (3(cBc) | d2 d4- || d>c A4 | A>B G4- |
+ G>A D2 ^F>G | A>B G>^F D2 | d>c A4- | A>B G4- | G>A D2 ^F>G | A>B G4!D.S.! ||
+"^Sluttakt" A>B !fermata![G,DBg]2 z2 || g2 d2 B2 | G4 z2 |]
+

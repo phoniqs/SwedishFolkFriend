@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Vid Balungen
+T:Vals
+C:Folke Hedman
+O:Enviken, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Text och melodi: Folke Hedman, Enviken"
+Z:"Balungen är en långsmal sjö norr om Enviken i Dalarna."
+L:1/4
+M:3/4
+K:A
+V:1
+"^1" e |: "^Balungen är en långsmal sjö""^norr om Enviken i Dalarna."c2 d | e2 e | d2 f | a2 f | e2 f | e2 c | B3- | B2 e | 
+c2 d | e2 e | d2 f | a2 f | e c e | d G B |1,8 A3- | A2 e :|2,8 
+A3- | A2 a"^Refr." |: a f3/2 f/ | f2 a | a e3/2 e/ | e2 f | e B c | 
+d e d | c c3/2 d/ | e2 a | a f3/2 f/ | f2 a | a e3/2 e/ | e2 f | 
+e B c | e d B |1 B3 | A2 :|2,8 A c e | a2 z |] 
+V:2
+"^2" c |:"A" A2 A |"A7" c2 A |"D" F2 A | d2 d |"A" c2 d | c2 A |"E7" G3- | G2 c |"A" A2 A | 
+"A7" =G2 G |"D" F2 A | d2 d |"A" c A A |"E7" G E D |1,8"A" C3- | C2 c :|2,8"A" C3- | C2 f |: 
+"D" f d3/2 d/ | d2 d |"A" c c3/2 c/ | c2 c |"E7" B G A | B c B |"A" A A3/2 B/ |"A7" c2 f | 
+"D" f d3/2 d/ |  d2 d | "A" c c3/2 c/ | c2 c |"E7" B G A | B G E |1"E7" D3 |"A" C2 :|2,8"A" C E A |"A" c2"^B.O." z |]
+

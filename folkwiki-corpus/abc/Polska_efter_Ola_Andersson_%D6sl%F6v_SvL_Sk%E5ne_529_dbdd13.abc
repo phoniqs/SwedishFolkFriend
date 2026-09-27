@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Ola Andersson, Öslöv (SvL Skåne 529)
+C:Ola Andersson
+R:Polska
+Z:Patrik Månsson, 2025-07-15
+O:Öslov, Skåne
+S:SvL 
+N:"Efter Ola Andersson, vilken lärt den av sin fade Anders Göransson från Öslöv i Bosarps socken, som i sin ordning lärt den av Lia Nilsson i Billinge. Polskan uppgavs ha spelats i andra läget."
+M:3/4
+L:1/16
+K:G
+|: gbab G2G2 GABc | B2d(B {B}A2)2cA A2G2 | b3g abc'a f2af | 
+|  fege ed^cd e2d2 | d=cBc d2B2 d2B2 | edcd e2c2 e2c2 | 
+| f2ff (fa)c'a fdef | g2gf g2b2 g4 :|: g2b2 bac'b agfg | 
+| f2a2 a2(c'b) agfg :|: G2GF G2g2 (gf)ed | A2A^G A2a2 (ag)fe | 
+| d2d^c d2b2 {c'}b2ag | dgba a4 g4 :|: GFGA BABc dcde | [M:4/4]
+| f2g2 g2ba agfg =f4 | [M:3/4]  =f2gf f_ede e2d2 | d2=fd c2_ec _B2dB |
+| G2G2 FGAG D2EF | GFGA BABc dcde | fgba agfg =f4 | 
+| =f2gf f_ede e2d2 | d2=fd c2=ec _B2dB | G2G2 FGAF !fine! G4 :|] gdgb agac' babg | 
+| fgaf d2(ef) gdBd | gdgb agac' babg | fgaf d2!D.S.!ef g4 !segno!|
+

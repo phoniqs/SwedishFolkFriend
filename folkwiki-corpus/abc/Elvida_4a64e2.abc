@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Elvida
+T:Vals av Karl-Ersa i Husås
+C:Karl Eriksson
+O:Husås, Jämtland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Karl-Ersa i Husås, Jämtland."
+Z:"En hyllning till Karl-Ersas hustru Elvida."
+L:1/8
+M:3/4
+K:Bb
+V:1
+"^1"u F2 |:v d3 cBG | (FE) (DC) B,_A, | "^En hyllning till Karl-Ersas hustru Elvida." (G,B,) (EG) (Be) | g4 z2 | (af) (ec) AG | F4 (3(EFE) | D3 FBg | f4 F2 | 
+d3 cBG | (FE) (DC) B,_A, | (G,B,) (EG) (Be) | g4 z2 | (af) (ec) AG | F2 d3u c | B6- |1,8 B2 z2u F2 :|2 B2 z2u b2 |:
+v d'3 bfd | B4 d2 | e3 c(GE) | C4 z2 | gg .f z .e z | A4 z2 |v gg .f z .d z | B4 b2 | 
+d'3 bfd | B4 d2 | e3 c(GE) | C4 z2 |  gg .f z .e z | A>g f2 A2 | B6- |1 B2 z2u b2 :|2 B2 z2u f2 |: 
+([df][dg])u .[dg] zu .[df] z | [db]4 [Fd]2 | ([^Fe][Ge])u .[Ge] zu .[Fe] z | [Ge]4 z2 |v (ec) .A zu .G z | F4 z2 | v (ec) .A zu .G z | D4 f2 | 
+([df][dg]) .[dg] zu .[df] z | [db]4 [Fd]2 | ([^Fe][Ge]) .[Ge] zu .[Fe] z | [Ge]4 z2 |v (ec) .A zu .G z | F>e A2 F2 | B6- |1 B2 z2u f2 :|2  B2 z2 |] 
+V:2
+"^2" D2 |: "Bb" F3 EDB, | (DC) B,C DF |"Eb" (EG,) B,E (GB) | e4 z2 | "F7" (cA) FE CB, | A,4 C2 | 
+"Bb" B,3 DFB | d4 D2 | F3 EDB, | (DC) B,C DF |"Eb" (EG,) B,E (GB) | e4 z2 | "F7" (cA) FE CB, | 
+A,2 F3 E |"Bb" D6- |1,8 D2 z2 D2 :|2 D2 z2 d2 |: "Bb" f3 dBF | D4 F2 | "Cm" G3 G(EC) | G,4 z2 | 
+"F7" BB .A z G z | E4 z2 | "Bb" BB A z F z | D4 d2 | f3 dBF | D4 F2 | "Cm" G3 G(EC) | G,4 z2 | "F7" BB .A z G z | 
+F>B A2 F2 |"Bb" D6- |1 D2 z2 d2 :|2 D2 z2 B2 |:
+"Bb" [DB]2 .[DB] z .[DB] z | [Fd]4 [DB]2 |"Cm" [Ec]2 .[Ec] z .[Ec] z | [Ec]4 z2 | "F7" (FE) .C z .B, z | A,4 z2 | v (cA) .F z .E z |"Bb" B,4 B2 | 
+"^Stämförslag B.O." [DB]2 .[DB] z .[DB] z | [Bf]4 [DB]2 | "Cm" [Ec]2 .[Ec] z .[Ec] z | [Ec]4 z2 | "F7" (FE) .C z B, z |  A,>G F2 C2 |"Bb" D6- |1 D2 z2 B2 :|2 D2 z2 |]
+

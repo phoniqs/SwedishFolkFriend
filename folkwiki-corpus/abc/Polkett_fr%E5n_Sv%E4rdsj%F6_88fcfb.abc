@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Polkett från Svärdsjö
+S:Karl Berggren
+O:Svärdsjö, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polka-slunga från Södra Dalarna efter Karl Berggren, Säter."
+L:1/8
+M:2/4
+K:G
+V:1
+|:"^1"v"G" (GB) (B/d/)B/G/ |"D7" (AB) (c/d/)c/B/ | Af/f/ fuf | "G" dg/g/ (g/f/)e/d/ | 
+(GB) (B/d/)B/G/ | "D7" (AB) (c/d/)c/B/ | Af/f/ fe/f/ | "G" gg g2 :: 
+v"G" b>a gB |"D7" dc (c/B/)A | a>g fd |"G" b/b/b/a/ gd | 
+b>a gB |"D7" dc (c/B/)A | a>g{fg} f(e/f/) |1 "G" gg g2 :|2 "G" gg g (d/c/) |:
+"G" BB"G7" B(A/B/) | "Am" cc/c/ ca/g/ | "D" ff "D7" f(e/f/) | "G" gg/g/ gd/c/ |
+"G" BB"G7" B(A/B/) |"Am" cc c3/2 z/ |v"D7" a>g{fg} f(e/f/) |1 "G" gg g (d/c/) :|2"G" gg g z |] 
+V:2
+|:"^2" (B,G) (G/B/)G/D/ | (FG) (A/B/)A/G/ | Fc/c/ cc | GB/B/ (B/A/)G/F/ | 
+(DG) (G/B/)G/D/ | (FG) (A/B/)A/G/ | Fc/c/ cB/c/ | BB B2 :: 
+d>c BG | BA (A/G/)F | c>B AF | d/d/d/c/ BG | d>c BG | 
+BA (A/G/)F | c>B A(G/A/) |1 BB B2 :|2 BB B (B/A/) |: 
+GG =F(E/F/) | EE/E/ Ef/e/ | dd c(B/c/) | BB/B/ BB/A/ | 
+GG =F(E/F/) | "^Stämförslag B.O." EE E3/2 z/ | f>e d(c/d/) |1 BB B (B/A/) :|2 BB B z |]
+

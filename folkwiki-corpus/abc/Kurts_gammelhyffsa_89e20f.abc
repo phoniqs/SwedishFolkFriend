@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Kurts gammelhyffsa
+S:Kurt Sandström
+O:Rossön, Ångermanland
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Kurt Sandström, Rossön, Ångermanland."
+L:1/8
+M:2/4
+K:G
+V:1
+|:"^1"v G,>B, DG | BB/B/u BuB | AG/G/u GuG | F2 E2 | A,>B, CD | 
+F3u E/uE/ | ED/D/u DuC | B,D/B,/ G,2 | G,>B, DG | BB/B/u BuB | 
+AG/G/u GuG | F2 E2 | c2 BuA | GB/G/ D2 | F>A dF | G3 z ::
+v Gc/c/u cue | c2 e2 |  GB/B/u Bud | B2 d2 | A2 (f (3e/f/e/) | 
+d3 c | Ac ed | Bd/B/ G2 |  Gc/c/u cue | c2 e2 | GB/B/u Bud | 
+B2 d2 | A2 (f (3e/f/e/) | d3 c | Ac BA | G3 z :| 
+V:2
+|:"^2""G" B,>D GB | dd/d/ dd | cB/B/ BE |"C" D2 C2 |"D7" C>D EF | 
+A3 G/G/ | GF/F/ FE | "G" DG/D/ B,2 | B,>D GB | dd/d/ dd | 
+cB/B/ BE |"C" D2 C2 | E2 DC | "G" DG/D/ B,2 | "D7" D>F AD | "G" B,3 z :: 
+"C" EG/G/ Gc | G2 c2 | "G" DG/G/ GB | G2 B2 | "D7" F2 (AG) | F3 E | 
+FA cB | "G" GB/G/ D2 | "C" EG/G/ Gc | G2 c2 | "G" DG/G/ GB | 
+G2 B2 | "D7" F2 (AG) | F3 E | DE DC | "G" B,3"^B.O." z :|
+

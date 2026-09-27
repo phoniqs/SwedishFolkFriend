@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Ekopolska
+C:Hugo Westling
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+Q:1/4=80
+M:3/4
+K:Bb
+V:1
+"^1" f2 |: [Bb]2>[Bb]2 [Bf]2[Bf]2 [df]2[df]2 | [Bf]2>[Bf]2 [FB]2[FB]2 [DB]2[DB]2 | gf=ef _e2ec A2F2 | DB,DF =ECEG F2f2 |
+ [Bb]2[Bb][Bb] [Bf]2[Bf][Bf] [df]2[df][df] | [Bf]2[Bf][Bf] [FB]2[FB][FB] D2_A2 | GFEF GEGB AFAc | B4 b4 z4 :: 
+D2DF E2EG F2FB | A2Ac BFBd f4 | A,FcF A,FeF A,FcF | B,FdF A,FcF B,FdF |
+ D2DF ECEG FDFB | A2Ac BFBd f4 | EFED C2F2 A2c2 | ecAc B4 z4 ::
+[K:Eb] g2>f2 d2=B2 G2F2 | E2EG D2DG C2g2 | f2fe c2c=A F2FE | D2DE FEDC B,2A,2 | 
+G,EBE G,EcE G,EBE | A,EcE A,EdE A,EcE | agfe dcBA FAFD | E4 e4 z4 :| 
+V:2
+"^2" D2 |: F4 D4 B,2D2 | F4 D4 B,2F2 | ed^cd =c2cA F2C2 | B,2B,D C2CB, A,2D2 | F2F2 D2D2 B,2D2 | 
+F2F2 D2D2 B,2F2 | EDCD E2EG F2FE | D4 [DB]4 z4 :: B,2B,D C2CE D2DG | E2EF F2FB d4 | 
+A2>A2 F2E2 C2E2 | B2>B2 F2E2 D2F2 | B,2B,D C2CE D2DG | E2EF F2FB d4 | C2>B,2 A,2C2 F2A2 | 
+F2E2 D4 z4 ::[K:Eb] =B2>G2 F2D2 =B,2D2 | C2CE =B,2B,D G,2E2 | =A2AG A2AF C2CB, | B2Bc dcBA G2F2 | 
+G4 G4 E2^C2 | C4 C4 E2A2 | Bcdc BAGF DFDB, | G,4 G4 z4 :| 
+

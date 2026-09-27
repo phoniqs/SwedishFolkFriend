@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Jans brudmarsch
+C:Bengt Ohlson
+O:Hedemora, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bengt Ohlson, Hedemora."
+Z:"Tillägnad brudparet Anette och Jan Björklund vid vigseln i Grytnäs kyrka 6 sept. 1986."
+L:1/8
+Q:1/4=57
+M:2/4
+K:G
+V:1
+"^1" de/<f/ |: g2 (d>c) | B2 Bc/<d/ | e2 (c>B) | A3 G | (FD) (FA) | 
+(cA) (d>c) | (B>A) (Bc) | d2 de/<f/ | g2 (d>c) | B2 Bc/<d/ | e2 (c>B) | 
+A3 G | (FD) (FA) | (cA) (d>F) | A>G GG |1 G2 de/<f/ :|2 G3 B |: 
+d2 (d>c) | (Bd) (gf) | e2 (e>d) | c3 d | e2 (e>d) | ^ce ag |
+f2 (f>e) | d2 de/<f/ | g2 (d>c) | B2 Bc/<d/ | e2 (c>B) | A3 G | 
+(FD) (FA) | (cA) (d>F) | A>G GG |1 G3 B :|2 G2 z2 |] 
+V:2
+"^2" Bc/<d/ |:"G" B2 (B>A) | G2 GA/<B/ |"Am" c2 (A>E) | C3 E |"D7" (DA,) (DF) | 
+(AF) (F>A) | "G" (G>F) (GA) | B2 Bc/<d/ | B2 (B>A) | G2 GA/<B/ | "Am" c2 (A>E) | C3 E |
+"D7" (DA,) (DF) | (AF) (F>D) | "G" C>B, "D7" B,A, |1"G" B,2 Bc/<d/ :|2"G" B,3 G |:
+"G" B2 (B>A) | (GB) (ed) |"C" c2 (c>G) | E3 B | "A7" ^c2 (c>B) | A^c fe | 
+"D" d2 (d>A) | F2 FA/<d/ |"G" B2 (B>A) | G2 GA/<B/ | 
+"Am" c2 (A>E) | C3 E |"D7" (DA,) (DF) | "^Tillägnad brudparet Anette och Jan Björklund""^vid vigseln i Grytnäs kyrka 6 sept. 1986." (AF) F>D |"G" C>B,"D7" B,A, |1"G" B,3 G :|2 "G" B,2 z2 |] 
+

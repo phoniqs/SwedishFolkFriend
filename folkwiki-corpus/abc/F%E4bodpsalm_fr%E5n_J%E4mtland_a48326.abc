@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Fäbodpsalm från Jämtland
+C:Erik Jansson
+O:Mattmar, Jämtland
+R:Psalm
+Z:[[Personer/Bengt Ohlson]]
+Z:Av Erik Jansson, Mattmar
+Z:"Från CD. Stämförslag B.O."
+L:1/8
+M:4/4
+U:t=tenuto
+K:Gm
+V:1
+"^1" dB |: "^Adagio" G2 GB (AB/A/) G^F | G4- G2 (GB) | d2 Bd (=ef/e/) ce | d4- d2 (Bd) | 
+g2 fd e2 Ac | (fg/f/) ec d2 D^F | (GA) Bd (Bc/B/) A^F | G4- G2 (D^F) |] 
+A2 ^FA (Bc/B/) GB | A4- A2 (D^F) | A2 ^FA (cd/c/) BG | A4- A2 (dB) | 
+G2 GB (AB/A/) G^F | G2 FE D2 D^F | (GA) Bc d2 ^fd | "_Stämförslag B.O." g4- g2 z2 |] 
+V:2
+"^2" GD |:"Gm" B,2 B,D"D7" ^F2 DC | "Gm" [B,D]2"Cm" (t[CE]t[CE])"Gm" [B,D]2 (DG) |"Gm" B2 GB"Am" c2 AG | "D7" [^FA]2"Gm" (t[GB]t[GB])"D7" [FA]2"Gm" GB |
+"Gm" e2 dB"Cm" c2 FA | "F" d2 cA"D7" ^F2 A,C |"Gm" (B,D) GB "Cm" G2 "Dm" ^FD | "Gm" [B,D]2"Cm" (t[CE]t[CE])"Gm" [B,D]2 (A,D) |]
+"D7" ^F2 DF "Gm" G2 DG | "D7" [^FA]2 (t[GA]t[GA]) [FA]2 (A,D) | ^F2 DF"Cm" A2 GE |"D7" [^FA]2 (t[GA]t[GA]) [FA]2 (GD) | 
+"Gm" B,2 B,D "D7" ^F2 DC | "Gm" B,2 "Cm" CB, "D7" A,2 A,C | "Gm" (B,D) GA "D7" ^F2 DC | "Gm" [B,D]2"Cm" (t[CE]t[CE])"Gm" [B,D]2 z2 |]
+

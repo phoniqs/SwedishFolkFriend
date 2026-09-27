@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Schwarzwaldklänge (andrastämman)
+C:Ernst Brüning
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:G
+V:2
+"^2"u (G>.A) |: (BD G/B/d/g/) e>.c | (BD B,D) B>.c | (AD FD) c>.d | (BD B,D) G>.A | 
+(BD G/B/d/g/) e>.c | (BD B,D) B>c | (AD FD) dD |1 [B,G]2 G,2uu (G>.A) :|2 [B,G]2 G,2uu (f>.e) |:
+[K:D] (dA F2) f>.d | (eA G2) A>.A | (GA cA) cA | (FA dA) f>.e | 
+(dA F2) f>.d | (eA G2) B>.B | (.A2 g2) c>.G |1 F4 (f>.e) :|2 F4u (G>.A) | 
+[K:G] (BD G/B/d/g/) e>.c | (BD B,D) B>.c | (AD FD) c>.d | (BD B,D) G>.A | 
+(BD G/B/d/g/) e>.c | (BD B,D) B>.c | (AD FD) dD |1 [B,G]2 G,2 z2 |]:
+[K:C]v (G>.^F) G2 c2 | (A>.^G) A4 | (^fG) B3 A | (G>.E) G4 | 
+(G>.^F) G2 c2 | (A>.^G) A4 | (^f>.G) BA tGt^F |1 E4 z2 :|2 E4u (G>.A) |
+[K:G] (BD G/B/d/g/) e>.c | (BD B,D) B>.c | (AD FD) c>.d | (BD B,D) G>.A | 
+(BD G/B/d/g/) e>.c | (BD B,D) B>.c | (AD FD) dD | ([B,G]2 G,2) (3BGB | 
+([B,G]2 G,2) (3BGB | [B,G]2 (.[B,G]2 .[B,G]2) | [B,G]4 z2 |]
+

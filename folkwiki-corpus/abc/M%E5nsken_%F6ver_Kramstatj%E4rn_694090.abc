@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:14
+T:Månsken över Kramstatjärn
+R:Vals
+C:Pelle Engman
+O:Järvsö, Hälsingland
+Z:Karin Helander
+N:Från not hos Timrå Spelmän: https://www.timraspelman.se/uploads_tiny_mce/files/File/PDF/EN/KramstatjarnSpecX.pdf
+N:"Månsken över Kramstatjärn, Pelle Engman, Järvsö, stämma Göran Larsson"
+N:Dragspelslåt
+M:3/4
+L:1/4
+K:G
+Q:1/4=144
+V:1
+d3 | d^ce | d3 | B3 | bag | fed | (c3 | c3) | "^Stämma Göran Larsson"F3 | DFA | d3 | f3 | fed | 
+A2^A | (B3 | B3) |d3 | d^ce | d3 | B3 | b3 | gf=f | (e3 | e3) | g3 | gfg | b3 | d'3 | 
+c'2 e | f2 b | (g3 | !fine! g3) :: e>dB/d/ | g>dB/G/ | F3 | A3 | d>af/a/ | d>af/a/ | g>bd/g/ | 
+B3 | e>dB/d/ | g>dB/G/ | F3 | A3 | d2 f | b2 a | (g3 | g3) :| [K:C] |: C3 | EGc | e3 | c3 | 
+A2c | _A2c | (G3 | G3) | B3 | Bdf | e3 | c3 | d3 | ABc | B3 | GFD | C3 | EGc | e3 | 
+c3 | A^GA | cd^d | (e3 | e3) | A3 | cBA | G^F=F | E3 | F3 | B,3 | (C3 | !D.C.! C3) :| 
+V:2
+"G" B3 | B(.G.G) | B3 | G3 | "G" g (.d.d) | "G/B" d (.B.B) | "D7" AFE | DFA | D3 | A,(.D.D) | F3 | A3 | dcA | "D7"F2 "D7+"F | "G" GFE | D3 | 
+"G" B3 | B(.G.G) | B3 | G3 | "G" d3 | "G7" BAB | "C" (c3 | c3) | e3 | e^de | "G" d3 | "E7" B3 | "Am" A2c | "D7"d2d | "G" (B3 | B3) :| 
+|: "G" G2 D | "G/B" B,2 D | "D7" D3 | F3 | F2 A | F2 A | "G" BdB | G3 | 
+G2 D | "G/B" B,2 D | "D7" D3 | F3 | F2 A | d2 c | "G" (d3 | d3) :| [K:C]
+|: "C" ECG, | C(.E.E) | G3 | "C+/E" E3 | "F" F2 A | "Fm" F2 F | "C" (E3 | E3) | "G7" G3 | GBd | "C" c3 | "Am" a3 | "D7" ^F3 |  ^F (.D.D) | "G" G3 | "G7" B,DB, | 
+"C" ECG, | C(.E.E) | G3 | "C+/E" E3 | "F" FEF | "F" AB "B7" A | "E7" (^G3 | ^G3) | "F" F3 | AFC | "D7" B,C"G7"B, | A,"A7/C#" ^C E | "Dm" D3 | "G7" D3 | "C" ([EG,]3 | [EG,]3):|
+

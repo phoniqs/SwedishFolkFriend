@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:524
+T:Marsch efter Axel Axelsson
+T:(efter fadern)
+T:(OA 524)
+B:Sörmländska låtar samlade av Olof Andersson nr 524
+R:Marsch
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:Jfr n:r 173 - (se anmärkningen där) -, n:r 247 och 471
+Z:Anders Larsson 2025-03-03
+M:2/4
+L:1/4
+Q:60
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+"^\n" A/4A/4 | d/A/ F/A/4A/4 | d/A/ F/A/ | d/d/4c/4 d/d/4c/4 |  d/a/ f/d/ |{cd} c/E/{EF} E/4D/4E/ | E3/2 e/4f/4 |
+g3/2 f/4f/4 |  e/>f/ g/e/ | A B/c/ | e/d/4d/4 d/d/ | d3/2 ||  e/4f/4 | g/b/ b/{/g}e/4d/4 | A/a/ a | g/4>a/4g/4f/4 g/a/ |
+f z/4 a/4g/4f/4 | e/>f/ g/e/ | A B/c/ | e/d/4d/4 d/d/ |  d z/4 e/4d/4c/4 | d/b/ b/{/g}e/4d/4 | A/a/ a |
+g/4>a/4g/4f/4 g/a/ |  f z/4 a/4g/4f/4 | e/>f/ g/e/ | A B/c/ | e/d/4d/4 d/d/ |  d z |: e e/>e/ | e f/>e/ |
+e/>c/ A/A/ |  A f/>f/ | e d |[M:3/4] c E G/B/ |[M:2/4] B/A/4A/4 A/A/ |  A/B/ c/d/ | e f/>f/ | e a |
+^g b |  a/(a/4b/4) a/(a/4b/4) | a/g/ f/e/ | d3/2 A/ | (3d/A/d/ (3f/e/d/ |  c (E/4>F/4)E/4D/4 | E z/4 e/4e/4f/4 |
+g z/4 g/4g/4f/4 | e/f/ g/e/ |  A B/c/ | e/d/4d/4 d/d/ |1 d z :|2 d z/ |]
+

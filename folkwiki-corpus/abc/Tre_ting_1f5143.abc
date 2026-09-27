@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:44
+T:Tre ting
+O:Danmark
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danmark, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+I:linebreak $
+K:C
+V:1
+"^1""^Förspel" GG/G/ EG | cE G2 | FD F2 | ED C2 |][M:2/4][K:treble]"^Dans" GG/G/ EG | cE G2 | 
+FD F2 | ED C2 | GG/G/ EG | cE G2 | FD F2 | ED C2 | AA/A/ AA | 
+AF A2 | A>A cA | GE G2 | GG/G/ EG | cE G2 | FD F2 | ED C2 |] 
+V:2
+"^2" EE/E/ CE | GC E2 | DB, D2 | CG, G,2 |][M:2/4][K:treble] EE/E/ CE | GC E2 | DB, D2 | CG, G,2 | 
+EE/E/ CE | GC E2 | DB, D2 |"^Spelas  3 ggr." CG, G,2 | FF/F/ FF | FA, F2 | F>F AF | EC E2 | EE/E/ CE | GC E2 | "^Stämförslag B.O." DB, D2 | CG, G,2 |]
+

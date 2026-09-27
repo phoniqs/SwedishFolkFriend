@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Snoa från Tolvsbo
+O:Tolvsbo, Dalarna
+C:Anders Gesar
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Anders Gesar"
+L:1/8
+Q:1/4=90
+M:2/4
+K:G
+V:1
+"^1" D |: d>c BG | (D/G/)B/G/ (d/G/)B/G/ | (E/G/)c/G/ (e/G/)c/G/ | E3 (F/E/) | D>F AB | 
+cA f>e | de/d/ cd/c/ | B3 D | d>c BG | (D/G/)B/G/ (d/G/)B/G/ | (E/G/)c/G/ (e/G/)c/G/ | 
+E3 (F/E/) | D>F AB | cA f>e | de/d/ cB/A/ |1 Gd gD :|2 Gd gd |:
+G>B dg | bg dB | (G/B/)d/B/ (g/B/)d/B/ | (F/A/)c/A/ (e/A/)c/A/ | F>A cd | fe cA | 
+(F/A/)c/A/ (e/A/)c/A/ | (G/B/)d/B/ (g/B/)d/B/ | G>B dg | bg dB | (G/B/)d/B/ (g/B/)d/B/ | 
+(F/A/)c/A/ (e/A/)c/A/ | F>A cd | fe cA | f>e (d/c/)(B/A/) |1 Gd gd :|2 Gd g z |] 
+V:2
+"^2" B, |: "G" B>A GD | B,>D GD |"C" C>E GE |"Am" C3 (D/C/) |"D7" A,>D FG | 
+AF A>G | FG/F/ EF/E/ | "G" D3 B, | B>A GD | B,>D GD |"C" C>E GE |"Am" C3 (D/C/) |
+"D7" A,>D FG | AF A>G | FG/F/ ED/C/ |1 "G" B,G BB, :|2 "G" B,G BG |: 
+"G" D>G Bd | gd BG | D>G BG |"D7" D>F AF | D>F AB | dc AF | 
+D>F AF |"G" D>G BG | D>G Bd | gd BG | D>G BG |"D7" D>F AF | 
+D>F AB | dc AF | d>c (A/F/)(D/C/) |1 "G" B,G BG :|2"G" B,G "^B.O." B z |]
+

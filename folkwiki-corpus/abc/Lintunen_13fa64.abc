@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Lintunen
+T:(Liten fågel)
+O:Finland
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+N:"Finsk dans"
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" ee/g/ af | dd fd | cc ee | d2 d2 |]:
+"^Dans" ea aa | a2 a2 | af ga | g2 e2 :: 
+ee/g/ af | dd fd | cc ee | d2 d2 :| 
+V:2
+"^2""A7" cc/e/ fd |"D" AA dA |"A7" GG AA |"D" F2 F2 |]:"A7" Ac cc | c2 c2 | cA Bc | B2 G2 :: 
+"A7" cc/e/ fd |"D" AA dA |"A7" GG AA |"^Stämförslag B.O.""D" F2 F2 :|
+

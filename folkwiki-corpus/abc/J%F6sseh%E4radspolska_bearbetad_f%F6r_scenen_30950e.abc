@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:40
+T:Jössehäradspolska bearbetad för scenen
+T:(Sv Folkdanser Del 1)
+O:Värmland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 40. Jössehäradspolska (1) bearbetad för scenen"
+Z:http://runeberg.org/folkdans/besk/0054.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 40
+Z:1:a 2 ggr. 2:a 2 ggr. 1:a 1 ggr. 2:a 2 ggr. 1:a 1 ggr. 3:a 2 ggr. 1:a 3 ggr."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^Förspel" d2 (3(BGB) (3(cAc) | (3(AFA) G3 z |] [K:G][M:3/4][K:treble]"^Dans""^(1)" d2 (3(BGB) (3(cAc) | (3(BGB) (3(dBd) g2 | d2 (3(BGB) (3(cAc) | 
+(3(BGB) (3(AFA) D2 | d2 (3(BGB) (3(cAc) | (3(BGB) (3(dBd) g2 | d2 (3(BGB) (3(cAc) | (3(AFA) G3 z |]
+"^(2)"{a} g>(f e>)(^d e>)f | (3(gfg) e2 B2 |{a} g>(f e>)(^d e>)f | (3(gfe) b2 B2 | 
+{a} g>(f e>)(^d e>)f | (3(gfg) e2 B2 |{a} g>(f e>)(^d e>)f | (3(gfe) b4 |]
+"^(3)"{a} g2 e4 | {g} f2 b4 |{a} g2 e4 |{g} f2 B4 |{a} g2 e4 |{g} f2 b4 |{a} g2 B2 e>d | (d>c) A4 |{d} c2 E2 A>G | 
+(3(FGF) (3(EFE) D2 |{a} g2 B2 e>d | d>c (A>B) c2 | (3(ced) (3(Bdc) (3(ABc) | (3(cdc) (3(BcB) (3(AFA) | G2 g4 |] 
+V:2
+"^2" B2 (3(GDG) (3(AFA) | (3(FDC) B,3 z |][K:G][M:3/4][K:treble] B2 (3(GDG) (3(AFA) | 
+(3(GDG) (3(BGB) B2 | B2 (3(GDG) (3(AFA) | (3(GDG) (3(FDF) C2 | B2 (3(GDG) (3(AFA) | 
+(3(GDG) (3(BGB) B2 | B2 (3(GDG) (3(AFA) | (3(FDC) B,3 z |]{c} B>(A G>)(F G>)A | (3(BAB) G2 E2 | 
+{c} B>(A G>)(F G>)A | (3(BAG) [^DB]2 A2 |{c} B>(A G>)(F G>)A | (3(BAB) G2 E2 |{c} B>(A G>)(F G>)A | 
+(3(BAG) [^DB]4 |]{c} B2 G4 |{B} A2 ^d4 |{c} B2 G4 |{B} A2 ^D4 |{c} B2 G4 |{B} A2 ^d4 | 
+{c} B2 G2 c>B | (B>A) F4 |{B} A2 C2 F>E | (3(DED) (3(CDC) B,2 | 
+{c} B2 G2 c>B | B>A (F>G) A2 | (3(AcB) (3(GBG) (3(FGA) | "^Stämförslag B.O." (3(ABA) (3(GAG) (3(FDC) | B,2 B4 |]
+

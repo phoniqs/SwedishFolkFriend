@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Rackare Göstas polska
+O:Gunnarp, Halland
+S:Svensk Visarkiv, Ha 3:004 
+S:https://katalog.visarkiv.se/lib/views/fmk3/ShowRecord.aspx?id=1419286
+H:"Ursprung/proveniens: Halland, Gunnarp \n Namn: Johannes Erlandsson" (Svensk Visarkiv, Ha 3:004)
+%%writefields H S
+Z:Simon Wascher 2022-05-19
+R:Polska
+M:3/4
+L:1/8
+K:Am
+I:linebreak ;
+ec (3e^gb a>=g | e^d (3efe =dc | A^G (3Ace g>f | d2e2z2 :: 
+A2(3cdc (3B^GB |; A2A>^GE2 | A2(3cdc (3B^GB | A2A>^GE>G | \
+A>^G (3ABc e>d | B>^GA2z2 :|
+

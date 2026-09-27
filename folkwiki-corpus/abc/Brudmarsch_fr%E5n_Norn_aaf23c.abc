@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Norn
+R:Marsch
+O:Säter, Dalarna
+C:Erkers Anna-Karin Kylander
+Z:Karin Helander
+N:Från omärkt not på sidan för allspelslåtar Bingsjö 2023: https://www.dalarnasspelmansforbund.se/allspelsltar-i-bingsj-2023
+M:4/4
+L:1/8
+K:G
+V:1
+D GA |: (B4 B){c}B AB | c2 E3 E AB | ceed cBAG | G2 F3 D GA | 
+(B4 B){c}B AB | c2 E3 E AB | cBAG F2 AB |1 (G4 G)DGA :|2 (G4 G)def |]
+|: g2 B>{c}B c>e dc | B2 G3 G AB | ceed cBAG | G2 F3 d ef | 
+g2 B>{c}B cedc | B2 G3 G AB | cBAG F2 AB |1 (G4 G)def :|2 G6 z2 |]
+V:2
+A, DF |: "G" (G4 G){A}G FG | "C" E2 C3  C EG | "Am" AccB AGFE | "D" D2 D3 A, DF | 
+"G" (G4 G){A}G FG | "C" E2 C3  C EG | "Am" AG[EC][EC] "D7" D2 FG |1 "G" (D4 "D7" D)A,DF :|2 "G" (B,4 "D7" B,)FAd |] 
+|: "G" B2 G>{A}G "C" G>c BE | "G" G2 D3 D FG | "Am" AccB AGFE | "D7" D2 D3 F Ad | 
+"G" B2 G>{A}G "C" GcBE | "G" G2 D3 D FG | "Am" AGCE "D7" D2 DC |1 "G" (B,4 "D7" B,)FAd :|2 "G" B,6 z2 |]
+

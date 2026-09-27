@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Storvretapolskan
+O:Upplands Väsby, Uppland
+R:Hambo
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+N:"Tillägnad en liten man i Storvreta, Alexander, det första barnbarnet."
+L:1/8
+M:3/4
+K:F
+V:1
+"^1""^Hambo-polska""^Tillägnad en liten man i Storvreta, Alexander, det första barnbarnet." C |: F>A, C>F A>B | c>B A>G FG/A/ | B>B, D>F B>d | f2 d3 d | c>=B c>d e>f | 
+g>a g>e c>e | d>B B>d f>d | d>c c/d/c/B/ A>G | F>A, C>F A>B | c>B A>G FG/A/ | B>B, D>F B>d | 
+f2 d3 d | c>e g>a g>e | f>d B>d c=B/c/ | e>d A>B G>E |1 F2 F3 C :|2 F2 F3 F |:
+[K:Bb] D>C B,>D F>B | d>c B3 B | G>F E>G B>e | g2 g3 g | a>g f>c c>d | e>d c3 B | 
+A>G F>A c>e | g>f =e>f d>F | D>C B,>D F>B | d>c B3 B | G>F E>G B>e | g2 g3 g | 
+a>g f>c c>d | e>c A3 G | F>A c>e A>c |1 c<B B3 F :|2 c<B B3 z |] 
+V:2
+"^2" C |: A,>C F>A, C>F | A>G F>C A,B,/C/ | D>F B,>D F>B | d2 B3 G | E>D E>G c>d | e>f e>c G>c | 
+B>F F>B d>B | B>A A>G F>E | A,>C F>A, C>F | A>G F>C A,B,/C/ | D>F B,>D F>B | d2 B3 B | 
+E>G B>c B>G | B>F D>F AG/A/ | G>F E>G E>C |1 A,2 A,3 C :|2 A,2 A,3 D |:[K:Bb] F>E D>B, B,>D | 
+F>E D3 G | E>B, G,>B, E>G | B2 B3 B | c>B A>F F>B | c>B A3 G | F>C A,>F A>c | e>d c>d B>D | 
+F>E D>B, B,>D | F>E D3 G | E>B, G,>B, E>G | B2 B3 B | c>B A>F F>B | c>A F3 E | C>F A>F C>E |1 E<D D3 D"^B.O." :|2 E<D D3 z |]
+

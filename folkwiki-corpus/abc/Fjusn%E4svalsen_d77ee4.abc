@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:35
+T:Fjusnäs-valsen
+T:(SvL Hälsingland 35)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 35
+O:Hassela, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]] (Nr 22 i Hall-samlingen)
+M:3/4
+K:F
+V:1
+|: a3 b c'2 | f3 g a2 | d3 e f2 | (Bc) d2 F2 | G3 A B2 | (EF) G2 C2 |  F3 G A2 | (FG) AB c2 |
+ a3 b c'2 | f3 g a2 | d3 e f2 | Bc d2 F2 | G3 A B2 | EF G2 C2 | F3 A c2 | "^Fine" F4 z2 :: 
+ca fB ge | cf dB ec | Ad BG cB | (AG) (FG) AB | ca fB ge | cf dB ec |
+ Ad BG ce | "^D.C. al fine" [Af]4 z2 :: !coda! {[G,E]} [^ca]3 [ca] [ca]2 | (ab) ag fe |{[DA]} [Af]3 [Af] [Af]2 | d6 | 
+{[G,D]} [=Bg]3 [Bg] [Bg]2 | (ga) gf ed | [ce]3 [ce] [ce]2 | c4 z B | A3 cfA | [Ac]2 ([Ac]2 [GB]2) | 
+[FA]3 cfA | [Ac]2 ([Ac]2 [GB]2) | [FA]3 cfA | [ca]4 [Bg]2 | [Af]3 [Af] [Af]2 | [Af]4 z2 :| 
+V:2
+|: "F" f3 g a2 | "A7" A3 [^ce] [ce]2 | "Dm" F3 A d2 | "Gm" (DF) B2 [B,D]2 | "C7" E3 F G2 |  (CD) E2 B,2 | "F" A,3 C F2 | (A,C) FG A2 | 
+"F" f3 g a2 | "A7" A3 [^ce] [ce]2 | "Dm" F3 A d2 | "Gm" DF B2 [B,D]2 | "C7" E3 F G2 | CD E2 B,2 | "F" A,3 C F2 | "F" A,4 z2 ::
+"F" [Ac]3 "C7" [GB]3 | "Dm" [FA]3 "C7" [CG]3 |"Gm" [B,D]3 [CE]3 |"F" (FC) A,C FG |"F" [Ac]3 "C7" [GB]3 | "Dm" [FA]3 "C7" [CG]3 |
+"Gm" [B,D]3 "C7" [CE]3 |"F" [A,F]4 z2 :: "A7" {[Ae]}[Ae]2 [A,E][A,E] [A,E]2 | A,2 ^C2 DE | "Dm" {D} (DF) AF DA, | 
+(D2 F2) A2 |"G7" {[D=B]}[D=B]2 [G,D][G,D] [G,D]2 | G,2 =B,2 CD |"C" (CE) GE CG, | [CE]2 [CE]2 [CE]2 |"F" F3 A,CF |
+ [FA]2 ([FA]2 [CG]2) | F3 A,CF | [FA]2 ([FA]2 [CG]2) | F3 A,CF | "C7" [FA]4 [CG]2 |"F" [A,F]3 [A,F] [A,F]2 |"F" [A,F]4 z2 :| 
+

@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T:Sahara Shotnights
+C:Björn Lindström
+R:Schottis
+O:Uppsala, Uppland
+N:Tolkad av Johan Carlström. Observera att det finns en MIDI-fil för varje notbild, lyssna på den övre! :0)
+M:4/4
+L:1/8
+K:D
+| z>A, B,>C |: D2 D>C - C>A, B,>C | D>ED>C D>CB,>C | D2 D>C - C4 | z>A,B,>C D>A,B,>C | D2 D>C - C>A, B,>C | D>FA>F G>FE>G | F2 F>E - E4 |1 z>FE>C D>A,B,>C :|2 z>FE>C D>Ad>e |
+|: f2 a>g - g>fe>d | f>AA>A - A>AB>c | d2 d2 c2 c2 | B>cd>f e>Ad>e | f2 a>g - g>fe>d | f>dA>B - B2 z>B | A>Bc>d e>ge>c |1 d4  z>Ad>e :|2 d4 |]
+

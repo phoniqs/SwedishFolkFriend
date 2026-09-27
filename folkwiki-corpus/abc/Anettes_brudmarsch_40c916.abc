@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Anette's brudmarsch
+C:Bengt Ohlson
+O:Hedemora, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Tillägnad Anette och Jan Björklund vid vigseln i Grytnäs kyrka 6 sept. 1986."
+L:1/16
+Q:1/4=44
+M:2/4
+K:Dm
+V:1
+"^1" a2 |: (a<g)b<g a2g<e | f2e<^c d2e<g | f2e<d (d<^c)e<c | A6 a2 | 
+(a<g)b<g a2g<e | f2e<^c d2e<g | f2e<d (d<^c)e<c |1 d6 a2 :|2 d6 A2 |:
+(A2d2) (d2f2) | (f2a2) f2e<d | f2e<d (d<^c)e<c | A6 A2 | 
+(A2d2) (d2f2) | (f2a2) f2e<d | f2e<d (d<^c)e<c |1 d6 A2 :|2 d6 z2 |] 
+V:2
+"^2" f2 |:"Dm" (f<e)g<e f2e<^c | d2^c<A F2c<e | d2A<F "A7"(F<E)G<E | ^C6 f2 |
+"Dm" (f<e)g<e f2e<^c | d2^c<A F2c<e | d2A<F "A7"(F<E)G<E |1 "Dm"F6 f2 :|2 "Dm"F6 F2 |: 
+"Dm" (F2A2) (A2d2) | (d2f2) d2A<F | d2A<F "A7" (F<E)G<E | ^C6 E2 | 
+"Dm" (F2A2) (A2d2) | (d2f2) d2A<F | d2A<F "A7"(F<E)G<E |1 "Dm"F6 F2 :|2 "Dm"F6 "^B.O" z2 |]
+

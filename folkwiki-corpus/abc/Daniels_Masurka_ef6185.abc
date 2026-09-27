@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:3
+T:Daniels Masurka
+R:Masurka
+O:Röke, Skåne
+C:Lennart Thörn
+%%score 1 2
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Violin 1" snm="Vln.1"
+V:2 treble nm="Violin 2" snm="Vln.2"
+V:1
+DG B2 AG | (FG) AB c2 | DA c2 BA | (GA) Bc d2 | DG B2 AG | (FG) AB c2 | (AG) (FG) .A.F | 
+G2 G2 z2 :: cc c2 E2 | (AG) =FE F2 | dd d2 =F2 | (BA) G=F G2 | cc c2 E2 | (AG) =FE F2 | 
+(dc) (BG) AB | c2 c2 z2"^D.C." :| 
+V:2
+B,D G2 B,2 | (DE) FG A2 | A,D F2 F2 | (B,D) EG B2 | B,D G2 B,2 | (CB,) CD F2 | (CB,) (A,B,) .C.A, | 
+G,2 G,2 z2 :: EE E2 C2 | (=FE) DC D2 | =FF F2 D2 | (G=F) ED E2 | EE E2 C2 | (=FE) DC D2 | 
+(BA) G2 =F2 | E2 E2 z2 :| 
+

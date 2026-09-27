@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:2
+T:Galoppade No 3
+T:efter Nils Tufvesson
+R:Galopp
+S:Efter Nils Tufvesson, Cimbris
+O:Cimbris, Skåne
+B:nr 3 ur FMK M76
+Z:ABC-transkribering av Åke Persson
+M:2/4
+L:1/8
+Q:1/4=140
+K:G
+D | GD/G/ BG/B/ | dB/d/ g2 | de/d/ cA | edBD | GD/G/ BG/B/ | dB/d/ g2 | de/d/ cF | AG G :|
+A | B>cA>c | edBG | BcDF | AGGA | B>cA>c | edBG | BcDF | FG G :|[K:C]
+B | c>Bc>B | c>Bc>e | g>fdB | ag e2 | c>Bc>B | c>Bc>e | g>fdB | dc c :|
+G | GcBc | dgfg | d_fef | dffe | GcBc | dgfg | dffd | BA/B/ c :|
+

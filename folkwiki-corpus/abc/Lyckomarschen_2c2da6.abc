@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1461
+T:Lyckomarschen
+R:Marsch
+O:Delsbo, Hälsingland
+C:Thore Härdelin den yngre
+Z:Karin Helander
+N:Från Stefan Lindén SEL01461 version 140307: https://www.stefanlinden.se/L/ganglat%20Lyckomarschen%20av%20Thore%20Hardelin%202st.pdfn.pdf
+N:"Lyckomarschen, av Thore Härdelin, Delsbo, Hälsingland, andrastämma av [[Personer/Jonas Olsson]], Järvsö."
+M:2/4
+L:1/16
+Q:1/4=80
+K:C
+V:1
+G2 |: c2ce d2df | (ed)cB (A2G2) | c3e d2ef | g6 G2 | 
+ c2ce d2df | (ed)cB (A2G2) | c3c (Bc)dB |1 [cE]6 G2 :|2 [cE]6 (ef) |]
+|: g2e2 a3g | f2e2 d3e | f2d2 g2f2 | e6 (ef) |
+g2e2 a3g | (fe)dc (B2A2) | G3(c B)ABd |1 c6 (ef) :|2 [cE]6 |]
+V:2
+B,2 |: "C" E2Ec "G/B" B2Bd | "Am" (cB)AG "Em" (E2E2) | "F" A3c "G7" B2cd | "C" (e4 "G" G2)B,2 |
+"C" E2Ec "G/B" B2Bd | "Am" (cB)AG "Em" (E2E2) | "F" A3A "G7" (DE)FD |1 "C" [EG,]6 B,2 :|2 "C" [EG,]6 (cd) |]
+|: "C" e2c2 "F" f3e | "Dm" d2c2 "G" B3G | "F" A2F2 "G7" B2d2 | "C" c6 (cd) |
+"C" e2c2 "F" f3e | "Dm" (dc)BA "G" (G2D2) | "G7" B,3(E D)CDF |1 "F/C" [FA,]4 "C" [EG,]2(cd) :|2 "C" [EG,]6 |]
+

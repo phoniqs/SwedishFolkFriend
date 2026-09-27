@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Polkett från Vittinge
+S:Eric Sahlström
+O:Vittinge, Uppland
+R:Polkett
+Z:[[Personer/Bengt Ohlson]]
+Z:Text till första reprisen: Har du sett vånn far, såna lår han har, Håll käften på dej klockarskit, Jag har bott i sockna i femti år, nog fan vet jag hur psalmerna går. vem fan har bett dej komma hit? Eller:såna ben, såna knän, såna skutt han tar.
+L:1/8
+Q:1/4=100
+M:2/4
+K:C
+V:1
+"^1" e/e/ |: eG Gc/c/ | cB Ba/a/ | ag fB | dc (c/B/)c/d/ | 
+eG Gc/c/ | cB B5/4a/4 | ag fB |1 dc/B/ ce/e/ :|2 dc/B/ c z |:
+(G/c/)(e/c/) (G/c/)e | g(f/d/) BB | (G/B/)(d/B/) (G/B/)(d/f/) | a(g/e/) cc | 
+(G/c/)(e/c/) (G/c/)e | g(f/d/) BB | ag f>B | dc/B/ c2 :: 
+ee f5/4e/4 | ed d5/4c/4 | Bd fa | ag (g/^f/)g | 
+ee f5/4e/4 | ed d5/4c/4 | Bg Bd | (c/d/)c/B/ c z :| 
+V:2
+"^2" c/c/ |: "C" cE EA/A/ |"G7" AG Gf/f/ | fe dF | "C" FE (E/D/)E/G/ | 
+cE EA/A/ |"G7" AG G5/4f/4 | fe dG |1"C" FE/D/ Ec/c/ :|2"C" FE/D/ E z |: 
+"C" (E/G/)(c/G/) (E/G/)c | "G7" e(d/B/) GG | (D/G/)(B/G/) (D/G/)(B/d/) |"C" f(e/c/) EE | 
+(E/G/)(c/G/) (E/G/)c |"G7" e(d/B/) GG | dB B>F |"C" FE/D/ E2 :: 
+"C" cc d5/4c/4 |"G7" cB B5/4A/4 | GB df | "C" fe (e/^d/)e | 
+cc d5/4c/4 |"G7" cB B5/4A/4 | GB GF | "C" (F/G/)"^Arr. B.O."F/D/ E z :|
+

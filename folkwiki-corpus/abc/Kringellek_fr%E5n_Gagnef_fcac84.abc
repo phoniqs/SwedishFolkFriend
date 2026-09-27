@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:60
+T:Kringellek från Gagnef
+T:(Sv Folkdanser Del 1)
+O:Gagnef, Dalarna
+R:Polska
+S:Torn Erik
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 60. Kringellek från Gagnef eft. Torn Erik i Ål."
+Z:"Trirandug kjortel..."
+Z:http://runeberg.org/folkdans/besk/0065.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 60
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1
+|:"^1""^\"Trirandug kjortel\"" A2 (A>F) A>c | d2 (d>c) e>e | f2 (d>e) c>A | B2 (G>B) A2- | 
+A2 (A/B/)A/F/ A>c | (cd) d4 :: f2 (a>g) e>g | 
+(g>f) df/d/ e>e | f2 (a>g) e>g | (g>f) df/d/ c>B | 
+A2 (A/B/)A/F/ A>c | (c<d) d4 :|"^Efterspel" f | (a>g) (e>c) A>c | (cd) d4 |] 
+V:2
+|:"^2" F2 (F>D) F>A | B2 (B>A) c>c | d2 (B>c) A>F | G2 (E>G) F2- |
+F2 (F/G/)F/D/ F>G | (EF) F4 :: d2 (f>e) c>e | 
+(e>d) Bd/B/ c>c | A2 (c>B) G>B | (B>A) FA/F/ E>G | 
+F2 (F/G/)F/D/ F>G | (E<F) F4 :| d | "^Stämförslag B.O." (f>e) (c>A) E>G | (EF) F4 |]
+

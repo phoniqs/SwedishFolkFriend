@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Anders Åsberg
+S:Anders Åsberg
+O:Bjuråker, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Anders Åsberg  (1849-1920)
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" D2 FA (F<A) | D2 (G<F) G>B | B>A A/c/e g2 | gf/e/ de f2 | 
+D2 FA (F<A) | D2 (G<F) G>B | B>A A/c/e (g>e) |1 c/B/c d3 z :|2 c/B/c d3 (f |: 
+a>)(g f>e) d>f | f>e A/c/e g2 | b2 ge (c<e) | dd (f<a) d'2 |
+ a>(g f>e) d>f | f>e A/c/e g2 | b2 ge c/B/c |1 d2 d3 f :|2 d2 d3 z |] 
+V:2
+|:"^2" (D2 ^C2) =C2 | B,2 (B,<A,) B,>G | G>E E/A/c c2 | ec/A/ FA d2 | 
+(D2 ^C2) =C2 | B,2 (B,<A,) B,>G | G>E E/A/c (c>A) |1 A/G/A F3 z :|2 A/G/A F3 (d |: 
+f>)(e d>A) F>d | d>c E/A/c e2 | g2 ec (A<G) | FF A<d f2 |
+ f>(e d>A) F>d | d>c E/A/c e2 | g2 ec A/G/A |1 "^Stämförslag B.O." F2 F3 d :|2 F2 F3 z |] 
+

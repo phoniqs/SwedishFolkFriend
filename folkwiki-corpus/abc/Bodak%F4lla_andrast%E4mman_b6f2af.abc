@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Boda-kôlla (andrastämman)
+C:Olle Moraeus
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:D
+V:2
+|:"^2" A,>C D2 A,2 | D>E F2 D2 | A,D/E/ F3u A | A2 (C>D) E2- | 
+E>(D CD) E>F | G2 G3 G- | G>(A BA) G>E | (F>G) (EF) D>C | 
+A,>C D2 A,2 | D>E F2 D2 | A,D/E/ F2 G>F | (E<F) G4 | 
+(c/B/)A/B/ G2 D>c | (c/B/)A/B/ F2 D>A | (G>F) (EA) G>E | F2 F4 ::
+[K:G] (B>G) (G>d) d>c | c2 (F>G) A2- | A>(G FA) d>c | B2 (D>F) G2- |
+ G>(E DG) c>B | (B<D) F3u F | (F<D) F2 c>B | (B<D) G3u B | 
+(B>G) (G>d) d>c | c2 (F>G) A2- | A>(G FA) d>c | B2 (D>F) G2- | 
+G>(E DG) c>B | A>(^G AB) c>B | A>(G FA) d>c | B2 B4 :|
+

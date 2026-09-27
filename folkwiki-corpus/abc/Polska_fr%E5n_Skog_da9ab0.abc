@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Skog
+O:Skog, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" (A, |: D>)(E F)D/F/ E^C | D>(e f)g/f/ e^c | d3/2(^f/4g/4 a>)(g e)^c | d>(d ^c)e/c/ A>^F | 
+D>(E F)D/F/ E^C | D>(e f)g/f/ e^c | d3/2(^f/4g/4 a>)(g e)d |1 ^ce/c/ d3 A, :|2 ^ce/c/ d3 (A |: 
+d>)(e f)g/f/ e^c | d>(d ^c)e/c/ A2 | A>(e f)g/f/ e^c | da =b/a/^g/b/ a2 | d>e fg/f/ e^c | 
+d>d ^ce/c/ A2 | A/B/A/G/ (F/G/)F/E/ (D/F/)E/D/ |1 ^CE/C/ D3 A :|2 ^CE/C/ D3 z |] 
+V:2
+"^2" (D |: A,>)(^C D)A,/D/ CA, | A,>(^c d)e/d/ cA | A3/2(d/4e/4 ^f>)(e ^c)A | ^F>(F E)G/E/ ^C>D | 
+A,>(^C D)A,/D/ CA, | A,>(^c d)e/d/ cA | ^F3/2(d/4e/4 ^f>)(e ^c)A |1 EG/E/ ^F3 D :|2 EG/E/ ^F3 (F |: 
+A>)(^c d)e/d/ cA | F>(F E)G/E/ ^C2 | ^C>(^c d)e/d/ cA | A^c d/c/=B/d/ c2 | 
+A>^c de/d/ cA | F>F EG/E/ ^C2 | F>E (D>^C) A,C/A,/ |1 A,^C/A,/ A,3 F :|2 "^Stämförslag B.O." A,^C/A,/ A,3 z |] 
+

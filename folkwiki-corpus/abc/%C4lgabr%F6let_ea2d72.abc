@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Älgabrölet
+T:Schottis
+R:Schottis
+O:Vänersborg, Västergötland
+C:Anders Axelsson
+Z:Karin Helander
+N:Från Stefan Lindén SEL02128 version 151208: https://www.stefanlinden.se/L/schottis%20Algabrolet.pdf
+N:"Älgabrölet av Anders Axelsson, Vänersborg, Västergötland"
+N:"Älgbrölet"
+N:Inspelning från någon spelmansträff 2014: https://www.youtube.com/watch?v=IxThVr-ijNk
+M:4/4
+L:1/8
+K:G
+V:1
+"G" (G,B,)(DG) B2 (dB) | "C" c2 E2 E2 (AG) | "D7" F2 (FE) D2 (EF) | "G" (GF)(GA) B2 G2 | 
+"G" (G,B,)(DG) B2 (dB) | "C" c2 E2 E2 (AG) | "D7" F2 (FE) D2 (EF) |1 "G" G2 B2 !fine! G3 D :|2 "G" G2 B2 [GG,]4 |]
+|: "G" d2 (dB) "C" e2 (eB) | "D7" d2 (cB) c2 (AB) | c2 (CA) d2 (dc) | "D7" c2 (BA) "G" B2 G2 | 
+"G" (G,B,)(DG) B2 (dB) | "C" c2 E2 E2 (AG) | "D7" F2 (FE) D2 (EF) |1 "G" G2 B2 G2 (Bc) :|2 "G" G2 B2 G4 |]
+|: "Em" E2 (EF) G2 E2 | G2 (GA) B2 B2 | "D7" c2 (CA) F2 (GA) | "Em" B2 (BG) E2 (EF) | 
+"Em" G2 (GE) "B7" F2 (F^D) |1 "Em" E2 E2 E2 B,2 :|2  "Em" E2 "Ebm" _E2 "D7" D2 !D.C.!z2 |]
+

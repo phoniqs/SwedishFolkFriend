@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Hundbiten
+T:Schottis
+C:Hugo Westling
+R:Schottis
+O:Bollnäs, Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Hugo Westling"
+L:1/8
+M:4/4
+K:C
+V:1
+"^1" G2 |:"C" C2 E>G c>B c>e |"F" f>A ^G>A d2 c2 |"G7" B>c B>A F2 A2 | 
+"F" A>G G>F"C" E2 G2 | C2 E>G c>B c>e |"F" f>A ^G>A d2 c2 |
+"G7" B>c B>A G2 B>d |1 "C" c2 c2 c2 G/F/E/D/ :|2"C" c2 c2 c2 z2 |:
+[K:G]"G" d>B G>D"D7" c>A F>D |"G" G2 B>d D2 G2 | "D7" A>^G A>c D2 F2 |"G" B>A G>B"D7" d4 |
+"G" d>B G>D"D7" c>A F>D |"G" G2 B>d D2 G2 | "D7" A>^G A>c D>F A>F |"G" G2 G2 G2 z2 :| 
+V:2
+"^2" E2 |: G,2 C>E E>D E>G | A>F E>F F2 A2 | G>A G>D B,2 F2 | 
+F>E E>D C2 E2 | G,2 C>E E>D E>G | A>F E>F F2 A2 | 
+G>A G>F D2 D>F |1 E2 E2 [CE]2 z2 :|2 E2 E2 [CE]2 z2 |:
+[K:G] B>G D>B, A>F D>A, | B,2 D>G B,2 B,2 | F>E F>D A,2 C2 | G>D B,3/2 D/ [FA]4 | 
+B>G D>B, A>F D>A, | B,2 D>G B,2 [B,D]2 | F>E F>D A,>D F>D | B,2 B,2 [B,D]2"^B.O." z2 :|
+

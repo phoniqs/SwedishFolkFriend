@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Hyfsa efter Pål Nilsson
+S:Pål Nilsson
+O:Tornäs, Jämtland
+R:Hyfs
+Z:[[Personer/Bengt Ohlson]]
+Z:"Lämplig dans: Hyfs (polkett) efter Ernst Grip."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" D |: B>A GB | DB GB | A/A/A/A/ Ac | A>c Ac | B>A G>B | 
+D>B G>B | Ac eF |1 GD/D/ DD :|2 G3 (F/G/) |:
+[K:D] AF/A/ dA/d/ | f>e dc | BA GF | E/^D/E/F/ G/F/G/A/ | 
+BA g>f | ed c>d | cA Bc |1 d3 (F/G/) :|2 d3 (B/=c/) |:
+[K:G] dd/d/ de/d/ | B2 G2 | AD FA | G/F/G/A/ BG | 
+d2 (^c/d/)e/d/ | B2 G2 | AD FA | (G/A/)G/F/ G2 :| 
+V:2
+"^2" B, |: G>D B,D | G,D B,G | F/F/F/F/ FA | F>A DF | G>D B,>D | G,>D B,>G | FA DC |1 B,A,/A,/ A,B, :|2 B,3 (D/E/) |:
+[K:D] FD/F/ AF/A/ | d>c BA | GF ED | C/B,/C/D/ E/D/E/F/ | GE A>B | 
+cB A>A | GE FG |1 F3 (D/E/) :|2 F3 (G/A/) |:[K:G] BB/B/ Bc/B/ | G2 D2 | FD CD | B,/A,/B,/D/ GD | 
+ B2 (_B/=B/)c/B/ | G2 D2 | FA, CD | "^Stämförslag B.O." (B,/C/)B,/A,/ B,2 :|
+

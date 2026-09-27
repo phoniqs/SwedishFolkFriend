@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:109
+T:Stigvals
+T:(Sv Folkdanser Del 1)
+S:[[Personer/Pelle Dahlén]], Krången, Indal
+O:Jämtland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 109. Stigvals"
+Z:http://runeberg.org/folkdans/besk/0110.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 109
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel" ef | g2 B2 c2 | d4 |][K:D][M:3/4][K:treble]"^Dans" A2 |: d4 (ef) | d4 (ef) | g2 !trill! f2 e2 | 
+d2 c2 !trill! B2 | A2 (^GA) Bc | A4 (Ac) | e4 (Ac) | e4 (ef) | g2 (B2 c2) |1 
+d4 A2 :|2 d4 (Ad) |: f2{g} fe f2 | A2 df b2 | b2 (ge) ce | A2 ce g2 | 
+ f2{g} fe f2 | A2 df b2 | (bg) (fg) ec |1 d4 (Ad) :|2 d4 z2 |] 
+V:2
+"^2" cd |"A7" e2 G2 A2 |"D" F4 |][K:D][M:3/4][K:treble] D2 |:"D" F4 (GA) | F4 (GA) | 
+B2 A2 G2 | F2 E2 D2 | "A7"C2 (B,C) DE | C4 (EA) | c4 (EA) | 
+c4 (cd) | e2 (G2 A2) |1"D" F4 D2 :|2 "D"F4 (FA) |: 
+"D"d2{e} dc d2 | F2 Ad f2 | "A7"g2 (ec) Ac | E2 Ac e2 | 
+"D"d2{e} dc d2 | "^Stämförslag B.O." F2 Ad f2 | "A7"(ed) (cB) AG |1 "D"F4 (FA) :|2 "D"F4 z2 |]
+

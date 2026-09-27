@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:4
+T:Polska efter Hans Dalfors
+S:Hans Dalfors
+L:1/16
+Q:1/4=100
+M:3/4
+I:linebreak $
+R: Polska
+O: Ore, Dalarna
+D: "Pål Olles Väg" av Lars-Gunnar Björklund, Fredrik Lindh & Anders Bjernulf
+K:Am
+A4 |: A2AB c4 c2>d2 | c2BA B4 B2>c2 | B2A^G A2AB cBcd | ede^f e4 c4 | 
+c2cA B4 g4 | g2^fg a2ag f2fg | ^f2ef B4 g2>g2 |1 ^f2e^d e6 A2 :|2 ^f2e^d e6 AB |: 
+c2e2 a4 a2^ga | b2b2 g4 g2>^f2 | e2e2 c4 c2Bc | d2d2c2B2 B2>B2 | 
+cBce a4 a2^ga | b2b2 g4 g2>^f2 | e2e2 c4 c2Bc | d2d2c2B2 B2>B2 | 
+B2A^G A2AB cBcd | ede^f e4 c4 | c2Bc d2dc B2BA |1 ^GEGB A6 AB :|2 ^GEGB A8 |]
+

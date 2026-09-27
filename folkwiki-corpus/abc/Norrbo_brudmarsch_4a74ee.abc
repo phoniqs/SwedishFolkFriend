@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Norrbo brudmarsch
+C:Krok-Johan Eriksson
+O:Norrbo, Hälsingland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Johan Eriksson (Krok-Johan), Norrbo."
+Z:"Tillägnad Norrbo Hembygdsförening vid invigningen av Hembygdsgården 10/9 1967."
+L:1/8
+M:2/4
+K:D
+V:1
+|:"^1""^Tillägnad Norrbo Hembygdsförening vid""^invigningen av Hembygdsgården 10/9 1967.""D" a2 ad' | f2 fb |"Em" e2 ef | g4 |"A7" g2 gb | A2 Ag |"D" fe fb |
+"A7" a4 |"D" a2 ad' | f2 fb | "Em" e2 ef | g4 |"A7" g2 gb | A2 Ag |"D" f2"A7" gc |"D" d3 z ::
+"D" f2 (f/e/)f/g/ | af ed | "Em" a2 gf | e3 z |"A7" g2 (g/^f/)g/a/ | bA Bc |"D" d2 (d/c/)d/f/ | ba fA | 
+f2 (f/e/)f/g/ | af ed |"Em" a2 gf | e3 z | b2 g/f/e |"D" a2 f/e/d |"A7" g2 c/B/c |"D" d3 z :: 
+[K:G]"G" g2 (g/f/)g/a/ | (b/g/)f/g/ (d/c/)B/c/ |"Am" A>B (A/^G/)A/B/ | c3 z | 
+"D7" c2 (c/B/)c/d/ | (a/f/)d/c/ (b/a/)f/d/ |1"G" (g>f) ge | d3 z :|2"G" g2 gb | g3 z |] 
+V:2
+|:"^2" f2 fa | d2 df | B2 Bd | [Be]4 | e2 eg | c2 ce | d^c dg | [ce]4 | 
+f2 fa | d2 df | B2 Bd | [Be]4 | e2 eg | c2 ce | d2 cG | [FA]3 z :: 
+d2 (d>e) | fd AF | B2 BA | [GB]3 z | c2 (c>d) | eE GA | F2 (F>A) | fd AF | 
+d2 (d>e) | fd AF | B2 BA | [GB]3 z | e2 BG | d2 AF | c2 AG | [FA]3 z :: 
+[K:G] B2 (B>c) | (dB) (GD) | C>D CE | [EA]3 z | 
+A2 (A>B) | (cA) (dc) |1 (B>A) Bc | [GB]3 z :|2 "^Stämförslag B.O." B2 Bd | [GB]3 z |]
+

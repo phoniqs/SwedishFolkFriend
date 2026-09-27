@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T:Kristina Nilssons Vals
+R:Vals
+M:3/4
+L:1/8
+Z:Andy Davey 2018
+K:Dm
+|:A2|"Dm"(A2d2)d2 | d3 ^cdf | "A"(f2e2)e2 | e3 efe | ("Dm"e2d2)d2 | d3 fed | "A"(d2^c2)c2 | ^c4 A2|
+     "Dm"(A2d2)d2 | d3 ^cdf | "A"(f2e2)e2 |e4 g2   | "Dm"(fe) (fa) gf | "A"(ed) (eg) fe | "Dm"(d^c) (df) "(A)"ec | "Dm"d4 :|
+|:A2|"Dm"(A2a2)a2 | a3 aba  | "A"(a2g2)g2 | g3 gag | "Dm"(g2f2) f2    | f3 agf | "A"(f2e2)e2 | e4 A2 |
+     "Dm"(A2d2)d2 | d3 ^cdf | "A"(f2e2)e2| e4 g2   | "Dm"(fe) (fa) gf | "A"(ed) (eg) fe | ("Dm"d^c) (df) "(A)"ec | "Dm"d4 :|
+

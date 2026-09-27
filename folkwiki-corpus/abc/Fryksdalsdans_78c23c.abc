@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:17
+T:Fryksdalsdans
+T:(Sv Folkdanser Del 1)
+O:Värmland
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 17. Fryksdalsdans"
+Z:http://runeberg.org/folkdans/besk/0153.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 17
+N:Även kallad "Frykdalsdans nr 2" på skivan "Fiolen Min" med Orsa Spelmän och Benny Andersson 
+Q:100
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" d>ef>g a>bc'>b |!trill! a2g2 g2 z2 |:[K:G]"^Dans" G2B>c d2e2 | !trill! e2d2 d4 | G2B>c d2g2 |
+!trill! g2f2 f2>e2 | d>ef>g a2>b2 | c'>bc'>b a2>f2 | d>ef>g a>bc'>b | !trill! a2g2 g2 z2 ::
+g2Bd GBDG | F>GA>B c2c2 | e2Ac FADF | G>FG>B d2d2 | 
+g2Bd GBDG | F>GA>B c2c2 | e2Ac FADF |1 G2G2 G2 z2 :|2 G2G2 G2 EG |:
+[K:C] e2ed cBce | a2af d2>c2 | Bcde fGAB | cdea gfdG | 
+e2ed cBce | a2af d2>c2 | Bcde fgab |1 c'2c'2 c'2 EG :|2 c'2c'2 c'2 z2 |] 
+V:2
+"^2""D7" F>Ad>e f>ga>f |"G" d2B2 B2 z2 |:[K:G]"G" B,2G>A B2c2 | c2B2 B4 | B,2G>A B2B2 |
+"D7" B2A2 A2>G2 | F>Ad>e f2>g2 | a>^ga>=g f2>d2 | F>Ad>e f>ga>f | "G" c2B2 B2 z2 ::
+"G" B2GB DGB,E |"D7" D>EF>G A2A2 | c2FA DFA,C | "G" B,>A,B,>G B2B2 | 
+B2GB DGB,E |"D7" D>EF>G A2A2 | c2FA DFA,C |1 "G" B,2B,2 B,2 z2 :|2 "G" B,2B,2 B,2 CE |:
+[K:C]"C" "^Spelas med repr.  2 ggr." c2cG EDEc |"Dm" f2fc A2>A2 |"G7" GABc dG_GF | "C" EGcf"G7" edBD |
+"C" c2cG EDEc |"Dm" f2fd A2>A2 | "G7" GABc defg |1"C" e2e2 e2 CE :|2"C" "^Stämförslag B.O."e2e2 e2 z2 |]
+

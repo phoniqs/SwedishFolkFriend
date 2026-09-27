@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Liten och nätt
+C:Jon-Erik Hall
+O:Hassela, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]] nr 11
+L:1/16
+M:3/4
+K:Dm
+V:1
+|:"^1" (D2>E2) FEFG A2d2 | ^c2>d2 (ed)cd"^Polska" A4 | (ba)^ga (fe)d^c d2f2 | (ed)^cd (A2[GA]2) [FA]2[EA]2 | 
+(D2>E2) FEFG A2d2 | ^c2>d2 (ed)cd A4 | (ba)^ga (fe)d^c d2f2 | e2^ca d8 ::
+ a2>g2 (fe)fg (ag)fe | f2>e2 (d^c)de (.g2.f2) | e2>d2 (^cd)ec A4 | c2>A2 (FG)AF C4 |
+ a2>g2 (fe)fg (ag)fe | f2>e2 (d^c)de (.b2.g2) | (fe)d^c (db)ag fedc | e2(A^c) d8 ::
+[K:A] (ed)ce (c'2e2) d2b2 | (ab)c'a (ef)ed c4 | (de)fe (de)dc B2E2 | (cd)ed (cd)cB A2E2 | (FD)FA (GE)GB d2cB |
+ (AB)cA (Bc)^dB e4 | (^dB)df a2gf e2e2 | (^de)fd e6 fg | (ae)cf e2Ad c2E2 | (cB)AG [GB]4 [A,A]4 :| 
+V:2
+|:"^2""Dm" (A,2>^C2) DCDE F2F2 |"A7" E2>F2 (GF)ED ^C4 |"Dm" (d^c)^Bc (dA)FE F2D2 | "Dm" (^CD)ED "A7"(A,2E2) "A7"D2C2 |
+"Dm" (A,2>^C2) DCDE F2F2 | "A7"E2>F2 (GF)ED ^C4 |"Dm" (d^c)^Bc (dA)FE F2D2 |"A7" ^C2GE "Dm" F8 ::
+"Dm" [D2A2f2]>e2 (d^c)dA (ce)dc | [A,2F2d2]>A2 (FE)FA "A7" (.^c2.d2) | [A,2G2^c2]>A2 (EF)GE ^C4 | "F"[C2F2A2]>F2 (CE)FC A,4 |
+"Dm" f2>e2 (d^c)dA (ce)dc | d2>A2 (FE)FA "Gm"(.g2.B2) | "Dm" (AG)FA"Gm" (Bd)cB "Dm"AGFE |"A7" [A,G]2[A,G]2 "Dm"[A,F]8 ::
+[K:A]"A" (cB)Ac (e2c2)"E7" B2d2 | "A" (cd)ec (cd)cB A4 |"E7" (Bc)dc (Bc)BA G2G,2 |"A" (AB)cB (AB)AE C2A,2 |"D" (DA,)DF"E7" (EC)EG [GB]2ED |
+"A" (CD)EC"B7" (^DE)FD"E" G4 |"B7" (AF)A^d f2BA"E" G2G2 | "B7" (FG)AF"E7" ([B,G]4 [Ed]4) |"A" c2Ad"E7" c2EB"A" A2A,2 | "A"(ED)CB, "E7"[DE]4 "A"[CE]4 :|
+

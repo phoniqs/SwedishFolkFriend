@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:501
+T:Polska efter Axel Axelsson
+T:(OA 501)
+B:Sörmländska låtar samlade av Olof Andersson nr 501
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:"Jfr Leffler: Bidr. t. Söderm. äld. kulturhist. X n:r 19 och 44"
+Z:Anders Larsson 2025-02-03
+M:3/4
+L:1/4
+Q:100
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+(d/4A/4)F/4A/4 D/D/4F/4 A, | D/D/4F/4 E/E/4G/4 F | D/4E/4F/4G/4 A/4B/4c/4d/4 e/4f/4g/4e/4 | d/f/ (e/4d/4)c/4B/4 A |
+d/4A/4F/4A/4 D/D/4F/4 A, | D/D/4F/4 E/E/4G/4 F | D/4E/4F/4G/4 A/4B/4c/4d/4 e/f/ | (g/4f/4)e/4d/4 c/d/ d ::
+A/4B/4c/4d/4 e/e/4g/4 f/f/4a/4 | g/g/4b/4 a/4g/4f/4e/4 f/d/ | A/4B/4c/4d/4 e/e/4g/4 f/f/4a/4 | g/g/4b/4 a/4g/4f/4e/4 f/d/ |
+d/4A/4F/4A/4 D/D/4F/4 A, | D/D/4F/4 E/E/4G/4 F | D/4E/4F/4G/4 A/4B/4c/4d/4 e/f/ | (g/4f/4)e/4d/4 c/d/ d :|
+

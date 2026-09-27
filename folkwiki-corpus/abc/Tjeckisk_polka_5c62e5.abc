@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Tjeckisk  polka
+O:Tjeckien
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Utländska danser. Tjeckoslovakien"
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" ff e2 | ff e2 | dd ef | g2 g2 |]"^Dans" dd B2 | ee d2 | dd cB | c4 | ff e2 | ff e2 | 
+dg fe | d4 | dd B2 | ee d2 | dd cB | c4 | ff e2 | ff e2 | dd ef | gd/d/ dd |] 
+B2 d2 | g2 dB | c2 d2 | f4 | c2 d2 | f2 ec | B2 d2 | .g.f .e.d | B2 d2 | g2 dB | 
+c2 d2 | f4 | c2 d2 | f2 ef | g>g gg | gd/d/ dd |] B2 z d | g2 dB | c2 z d | f4 | 
+c2 z d | f2 ec | "^Önskat ant. ggr." B2 z d | g4 | B2 z d | g2 dB | c2 z d | f4 | c2 z d | f2 ef | g>g gg | g4 |] 
+V:2
+"^2" dd c2 | dd c2 | FF Ad | B2 B2 |] BB G2 | cc B2 | BB AG | A4 | dd c2 | dd c2 | Be dc | B4 | 
+BB G2 | cc B2 | BB AG | A4 | dd c2 | dd c2 | FF Ad | BB/B/ BB |] G2 B2 | d2 BG | F2 A2 | c4 | 
+F2 A2 | c2 AF | G2 B2 | .e.d .c.B | G2 B2 | d2 BG | F2 A2 | c4 | F2 A2 | c2 Ac | B>B BB | 
+BB/B/ BB |] G2 z B | d2 BG | F2 z A | c4 | F2 z A | c2 AF | G2 z B | B4 | G2 z B | d2 BG | 
+F2 z A | c4 | F2 z A | c2 Ac | "^Stämförslag B.O." B>B BB | B4 |]
+

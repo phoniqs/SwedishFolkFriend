@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:729
+T:Kadrilj från Fälleberga
+T:(SvL Skåne 729)
+O:Fälleberga, Skåne
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 45. Kadrilj från Fälleberga Sv.L. Skåne nr. 729."
+Z:http://runeberg.org/folkdans/besk/0183.html
+B:Svenska Låtar Skåne Nr 729
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 45
+L:1/16
+M:2/4
+U:t=tenuto
+K:A
+V:1
+"^1""^Förspel" (ae)ce (dc)dB | A2c2A2 z2 |: [K:A][M:2/4][K:treble]"^Dans" (AB)cd (ef)ga | f2ed (c2e2) | d2dB c2cA | B4 (tB2tB2) |
+(AB)cd (ef)ga | f2ed (c2e2) | (ae)ce (dc)dB | A2c2A2 z2 :: B2B2 c2c2 | d2>B2 G2E2 | 
+(AB)cd "^Spelas rätt igenom med repriser 5 ggr.  Därefter 1:a med repris  1 ggr."(ef)ga | f2ed (c2E2) | (AB)cd (ef)ga | f2ed (c2e2) | (ae)ce (dc)dB | A2c2A2 z2 ::
+[K:D] D2FA (d2e2) | f4 (ed)cB | A2aa (a2g2) | (fg)fe (d2A2) | a2aa (a2g2) | (fg)fe (d2f2) | 
+(ef)ge (cd)ec |1 d2f2d2 z2 :|2 d2f2d2 (ef) |: g2A2 B2c2 | d2D2 E2G2 | F2>A2 d2f2 |
+"A7" (ed)cB A2de | f2fe (f2g2) | a4 (g2f2) | (e^d)ef (gA)Bc |1 d2f2d2 (ef) :|2 d2f2d2 z2 |] 
+V:2
+"^2""A" (cA)EA "E7"(GF)ED | "A"C2E2C2 z2 |:[K:A][M:2/4][K:treble] "A"(CE)AB (cd)ef | d2cB (A2c2) | "E7"B2BG "A"A2AE | "E7"G4 (E2D2) | 
+"A" (CE)AB (cd)ef | d2cB (A2c2) | (cA)EA"E7" (GF)ED |"A" C2E2C2 z2 :: "E7" G2G2 A2A2 | B2>G2 E2B,2 |
+"A" (CE)AB (cd)ef | d2cB (A2C2) | (CE)AB (cd)ef | d2cB (A2c2) | (cA)EA"E7" (GF)ED |"A" C2E2C2 z2 ::
+[K:D]"D" A,2A,D (F2A2) | d4 (cB)AG |"A7" E2cc (c2e2) | "D" (de)dA (F2D2) | f2ff (f2e2) | (de)dA (F2d2) |
+"A7" (cd)ec (AB)cA |1"D" F2A2F2 z2 :|2 "D" F2A2F2 (cd) |:"A7" c2E2 G2A2 |"D" F2A,2 C2E2 | D2>F2 A2d2 | 
+ "A7" (cA)GE C2FA | "D" d2dc  "^Stämförslag B.O."(d2e2) | f4 (e2d2) |"A7" (cB)cd (cE)GA |1"D" F2A2F2 (cd) :|2 "D"F2A2F2 z2 |]
+

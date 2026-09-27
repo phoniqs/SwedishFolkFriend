@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Vinterpromenad i Fryksås
+R:Gånglåt
+O:Ludvika, Dalarna
+C: Hans Westergren
+H: 
+M:2/4
+L:1/8
+Q: 73
+K:D
+V:1 treble nm="Violin 1" snm="Vln. 1"
+V:2 treble nm="Violin 2" snm="Vln. 2"
+V:1
+A|d>d de |f>e de|fe/2f/2 g{fg}f|e3d|c>A ce|gb ag|fe/2f/2 ge|d3A|
+d>d de |f>e de|fe/2f/2 g{fg}f|e3d|c>A ce|g>b ag|fd e/2d/2c|d3f|
+a>f df|a>g ff/2g/2|ag/2f/2 gf|e>c Ac|e>f ge|aa/2b/2 aa/2g/2|ff/2g/2 fe|
+a>f df|a>g fe/2f/2|gf/2g/2 ag/2a/2|b3b|a>f ge|f/2g/2f/2d/2 ec|A2 A/2c/2e/2c/2|d3||
+V:2
+!p!A|A>F FG|d>A Ac|dA/2d/2 ed|c3 B|A>E AB|ce cB|AG/2A/2 AG|F3!mp!A|
+A>F FG|d>A Ac|dA/2d/2 ed|c3 B|A>E AB|c>e cB|AA c/2B/2A|A3 d|
+!mf!f>d Ad |f>e dd/2e/2|fe/2d/2 ed|c>A EA|c>d ec| ff/2g/2 ff/2e/2|dd/2e/2 d!mp!A|
+f2d'd'|f2d2|e2f2|g3 g |f>d eA|A/2B/2A/2F/2 !p!GE|D2 C>C|D3||
+

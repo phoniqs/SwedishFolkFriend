@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Boström
+S:Efter A Boström
+S:Erik Eriksson
+O:Gästrikland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:C
+V:1
+|: G>(E C>)(E G>)c | (c>B) B4 | B>(A F>)(A c>)A | (A>G) G4 | 
+G>(E C>)(E G>)c | (c>e) d3 e | f>(d B>)(g d>)B | c2 c4 :: 
+g>e c>(g e>)c | g>e c>(a g>)e | f>d B>(f d>)c | B>d (f>a) g(f/d/) | 
+g>e c>(g e>)c | g>e c>(a g>)e | f>d B>(g d>)B | c2 c4 :| 
+V:2
+|: E>C G,>(C E>)G | A>G G4 | G>F C>(F A>)F | F>E E4 | 
+E>C G,>(C E>)G | A>c B3 c | d>(B G>)(d B>)G | E2 E4 :: 
+e>c G>(e c>)G | e>c G>(f e>)c | d>B G>(d B>)A | G>B (d>f) e(d/B/) | 
+e>c G>(e c>)G | e>c G>(f e>)c | d>B G>(d B>)G"^Stämförslag B.O." | E2 E4 :|
+

@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Jann Mor
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad.
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1""^Jann Mor" A2 d2 f>e | c2 (eg) f>e | d2 (fa) g>e | c2 A4 ::
+{g} b2 (gd) g>b | a2 (fd) f>a | g2 (e/g/)e/c/ A>c | d2 (df) a>a | 
+b2 (gd) g>b | a2 (fd) f>a | g2 (e/g/)e/c/ A>c | "^Stämförslag B.O."{c} d2 d4 :| 
+V:2
+|:"^2" F2 A2 d>c | A2 (ce) d>A | F2 (df) e>c | A2 E4 :: 
+g2 (dB) d>g | f2 (dA) d>f | e2 (c>A) G>A | F2 (Fd) f>f | 
+g2 (dB) d>g | f2 (dA) d>f | e2 (c>A) G>A | F2 F4 :| 
+

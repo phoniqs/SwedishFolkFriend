@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Hogapolskan (förstastämman)
+C:Hilding Nordin
+O:Sörhoga, Forsa, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Uppt. och arr. John Eriksson
+L:1/16
+Q:1/4=108
+M:3/4
+K:Dm
+V:1
+|:"^1" D2FA (.d2.A2) F2A2 | A,2^CE A2^c2 a4 | g2ag f2af e2a2 | (A^c)ec d4{FG} F2E2 | 
+D2FA (.d2.A2) F2A2 | A,2^CE A2^c2 a4 | g2ag f2af e2a2 | (A^c)ec d8 :: 
+(DF)(AF) (DF)(AF) (DF)(AF) | (A,E)(AE) (^CE)(AE) (EG)(AG) | (A,E)(AE) (^CE)(AE) (EG)(AG) | (DF)(AF) (DF)(AF) (DF)(AF) | 
+d2^cd f2ef a4 | a2^ga (ba)=ge A4 | A2^ce g8 | g2^fg age^c A4 | 
+!>!A2>!>![GA]2 [FA]2[EA]2 [DA]2[FA]2 | [EA]2[EA]2 A,2^CE A4 | a2>g2 e2g2 (fe)d^c | d4 [Dd]8 :: 
+[da]2[da][da] ([db][da])[da][da] ([db][da])[da][da] | [cg]2[cg][cg] ([ca][cg])[cg][cg] ([ca][cg])[cg][cg] | [df]2[df][df] ([dg][df])[df][df] ([dg][df])[df][df] | [df]2e2 (ef)e^c A4 | 
+[FA]2[FA][FA] ([GA][FA])[FA][FA] ([GA][FA])[FA][FA] | [EA]2[EA][EA] ([FA][EA])[EA][EA] ([FA][EA])[EA][EA] | [DA]2F2 A2d2 ^c2A2 | (A^c)ec d4 [A,D]4 :| 
+

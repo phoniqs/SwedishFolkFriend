@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Graninge
+S:Efter Nils Fridh
+O:Ångermanland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. N. Fridh"
+L:1/8
+Q:1/4=90
+M:3/4
+K:Gm
+V:1
+"^1" D |: G>(A B>)(c d>)g | (3^faf g2 d>A | (3BdB (3AcA G>B | A>G (3^FAF D>D | 
+G>(A B>)(c d>)g | (3^faf g2 d>A | (3BdB (3AcA G>B | (3D^FA G3 z :|
+|: d>(A (3B)cd B>D | B>A (3GAB A2 | A>(^F (3D)FA D>F | G>(A B/A/)B/c/ d>D | 
+d>(A (3B)cd B>D | B>A (3GAB A2 | A>(^F (3D)FA D>F | (^F>G) G3 z :| 
+V:2
+"^2" B, |: D>(^F G>)(A B>)d | (3cec B2 G>F | G2 ^F2 D>G | ^F2 D2 A,>B, | D>(^F G>)(A B>)d | 
+(3cec B2 G>F | G2 ^F2 D>C | A,2 B,3 z :: B>(^F (3G)AB G>G | G>^F (3DFG F2 | ^F>(D (3A,)DF C>D | 
+B,>D GG ^F>F | B>(^F (3G)AB G>G | G>^F (3DFG F2 | ^F>(D (3A,)DF C>D | "^B.O." (A,>B,) B,3 z :|
+

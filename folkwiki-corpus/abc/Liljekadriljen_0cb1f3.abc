@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X: 1
+T:Liljekadriljen
+T:eller Billingekadriljen
+R:Kadrilj
+Z:Patrik Månsson, 11/2 2026
+O:Billinge, Skåne
+C:efter klockare Nils Lilja (1808-1870)
+Q:120
+M: 2/4
+L: 1/16
+K: F
+|: "F"F2FF F2G2 | A2FF F2F2 | "C7"G2GG G2A2 | B2GG G2G2 | 
+| "F"A2AA A2c2 | "Dm"F2FF F2A2 | "C7"G2GG C2DE |1 "F"F6 z2 :|2 "F"F6 A2 ||
+|: "F"c3B A2G2 | F2E2 "Bb"D2EF | "C7"G2GG G2ED | C2cc c4 |
+| "F"A2AA A2GA | "Bb"c2BA B3A | "C7"G2GG C2DE |1 "F"F6 A2 :|2 "F"F8 ||
+|: "F"A4 A3G | F2A2 C3F | "C7"E2G2 C2DE | "F"F2A2 c4 | 
+| "F" A4 A3G | F2A2 C3F | "C7"E2G2 C2DE | "F"F8 :|
+

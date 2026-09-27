@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Hem från Delsbo
+T:Vals
+C:Gösta Wernberg
+O:Medelpad
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Wernbergarnas hemresa från
+Z:spelmansstämman i Delsbo.
+Z:1:a repr. på Delsbostämman
+Z:2:a repr. på tåget Delsbo-Hudiksvall
+Z:3:e repr. på Tre bockar-en f.d. ölkrog i Glada Hudik"
+L:1/8
+M:3/4
+K:F
+V:1
+"^1" C2 |: "F" F2 (FG) AB | c2 (AF) Ac | f2 (ag) fe | (dc) (BA) GF |"C7" E2 (CD) EF | 
+(GA) (Bc) dc | b3 agf | (ed) (cB) AG | "F" F2 (FG) AB | c2 (AF) Ac | f2 (ag) fe | 
+(dc) (BA) GF | "C7" E2 (CD) EF | (GA) (Bc) dc | bg ec eg |1 "F" f4 C2 :|2 "F" f4 D2 |: 
+"Dm" (DF) (AF) dF | (DF) (AF) dF | D2 (FA) de | f2 (ag) fe | "A7" (A^c) (ec) ac | 
+(A^c) ec a2 | (ab) (ag) fe |"Dm" (dB) (AG) FE | (DF) (AF) dF | (DF) (AF) dF | D2 (FA) de | 
+f2 (ag) fe | "A7" (A^c) (ec) ac | (A^c) (ec) a2 | (ab) (ag) fe |1 "Dm" d4 D2 :|2 "Dm" d4 F2 |:
+[K:Bb]"Bb" d4 c2 | B2 (F2 D2) | (B,C) (DE) FB |"Cm" G2u E2u E2 |"F7" e4 d2 | c2 (A2 F2) | 
+(FG) (AB) cd | "Bb" (ef) (gf) =ef | d4 c2 | B2 (F2 D2) | (B,C) (DE) FB | "Eb" G2u E2u E2 | 
+"Cm" g3 ecG | "Bb" (fg) fd B2 |"F7" F2 (ec) Ac |1"Bb" B4 F2 :|2 "Bb" B4 z2 |]
+

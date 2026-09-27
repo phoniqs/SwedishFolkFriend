@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:2
+T:Slängpolska efter Katrina Lundstedt 
+T:"Skörda linet"
+S:Katrina Lundstedt
+S:Otôrgs-KaisaAbrahamsson
+O:Hassela, Hälsingland
+R:Slängpolska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA 02. Slängpolska Skörda Linet"
+Z:"Uppt. OKA -86"
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/8
+M:3/4
+K:D
+V:1
+"^1"v A- |: A2 (d>c) df | f2 (ef)"^\"Skörda linet\"" e2- | e>(d c>A) Bc | d2 BG/B/ A2- | 
+A2 (d>c) df | f2 (e>f) e2- | e>(d c>A) Bc |1 d2 d3v A- :|2 d2 d3v (f |: 
+a2) (a>f) df | a2 (a>f) (3d(ef) | g2 (g>e) ce | g2 (g>e) ce |
+ a2 (a>f) df | a2 (a>f) (3d(ef) | g2 (g>e) (3A(Bc) |1 d2 d3v f :|2 d2 d3 z |] 
+V:2
+"^2"v F- |: F2 (A>G) Ad | d2 (cd) c2- | c>(B A>F) GA | B2 GE/G/ F2- |
+ F2 (F>E) FA | A2 (G>A) G2- | G>(F E>^C) DE |1 F2 F3v F- :|2 F2 F3v (d |: f2) (f>d) Ad | 
+f2 (f>d) (3A(Bc) | e2 (e>c) Ac | e2 (e>c) Ac | 
+"^Stämförslag B.O. -08." d2 (d>A) FA | d2 (d>A) (3F(GA) | c2 (c>A) (3E(FG) |1 F2 F3v d :|2 F2 F3 z |]
+

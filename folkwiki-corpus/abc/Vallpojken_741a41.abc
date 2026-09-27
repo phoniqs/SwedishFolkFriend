@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Vallpojken
+C:Erik Olov Eriksson
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Erik Olov Eriksson."
+L:1/16
+Q:1/4=95
+M:2/4
+K:Gm
+V:1
+"^1" D2 |: G2GB A2Ac | B2Bd c2ce"^Gånglåt" | d2g2 ^fgaf | g6 d2 | c2>e2 d2c2 | B4 d2B2 | A4 AG^FG | A6 D2 | 
+G2GB A2Ac | B2Bd c2ce | d2g2 ^fgaf | g6 d2 | g2>g2 f2e2 | d4 c2B2 | A4 D^FAF |1,8 G6 D2 :|2 G6 D2 |: 
+F4 B2d2 | f4 d2B2 | G4 c2e2 | g8 | a4 a2g2 | f4 f2e2 | d2fd B2dB | F2BF D2FD | F4 B2d2 | f4 d2B2 |
+ G4 c2e2 | g8 | b4 b2g2 | f4 f4 | d2c2 e2A2 |1 B6 D2 :| B6 B2 |: g4 gfed | efga b2g2 | f4 fedc | 
+BFBd g2f2 | e4 edcB | ABcd ecAc | B2Bd f2fd | B2Bd fdfb | g4 gfed | efga b2g2 | 
+f4 fedc | BFBd g2f2 | e4 edcB | ABcd ecAc |1 B2dB A2c2 | B2>c2 de=ef :|2 B2>c2 de=ef | [DB]6 |] 
+V:2
+"^2" D2 |: [B,D]4 [A,D]4 | [G,D]4 [CE]4 | G2B2 A2c2 | B6 B2 | A2>c2 B2A2 | G4 B2G2 | 
+[^C=E]4 [A,E]4 | [A,^F]6 D2 | [B,D]4 [A,D]4 | [G,D]4 [CE]4 | G2B2 A2c2 | B6 B2 | e2>e2 d2c2 | 
+B4 A2G2 | [^FA]4 [DA]2[CD]2 |1,8 [B,D]6 D2 :|2 [B,D]6 D2 |: D4 F2B2 | d4 B2F2 | E4 G2c2 | e8 | 
+c4 c2B2 | A4 A2c2 | B2dB F2BF | D2FD B,2DB, | D4 F2B2 | d4 B2F2 | E4 G2c2 | E2G2 c2e2 | g4 g2e2 | 
+d4 d4 | B2A2 c2E2 |1 [B,D]6 D2 :| [B,D]6 G2 |: e4 eBGF | GBef g2e2 | d4 dBFD | FDFB e2d2 | 
+c4 cBAG | FGAB cAFE | D2FB d2dB | D2FB dFBd | e4 eBGF | GBef g2e2 | d4 dBFD | 
+DB,DF e2d2 | c4 cBAG | FGAB cAFE |1 D2FD F2E2 | D2>F2 Bc^cd :|2 D2>F2 Bc^cd | [B,F]6 |]
+

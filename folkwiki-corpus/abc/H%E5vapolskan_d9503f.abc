@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Håvapolskan
+R:Hambo
+O:Håven, Rättvik, Dalarna
+S:Karl Lundkvist
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 33. Håvapolskan efter Karl Lundkvist, Håven."
+L:1/8
+Q:1/4=125
+M:3/4
+K:D
+V:1
+"^1" (f |: a>)(a f>)(g e>)f"^Hambopolska" | d2 A>(f e>)e | a2 A2 c>e | d2 d2 f>g | 
+(ab/a/) (f>g) e>f | d2 A>(f e>)e | a2 A2 c>e |1 d2 d3 f :|2 d2 d4 |: 
+D2 (F>A) D>F | G2 (B>A) G>B | A>(A c>)(e A>)c | d2 (f>e) d>A | 
+D2 (F>A) D>F | G2 (B>A) G>B | A>(A c>)(e A>)c | (cd) d4 :| 
+V:2
+"^2" (d |: f>)(f d>)(e c>)d | A2 F>(d c>)A | c2 E2 G>A | F2 F2 d>e | 
+(fg/f/) (d>e) c>d | A2 F>(d c>)A | c2 E2 G>A |1 F2 [FA]3 d :|2 F2 [FA]4 |: 
+A,2 (D>=C) A,>C | B,2 (G>F) E>D | C>(C E>)(A C>)E | F2 (A>G) F>D | 
+A,2 (D>=C) A,>C | B,2 (G>F) E>D | C>(C E>)(A C>)E | (GF)"^B.O." F4 :|
+

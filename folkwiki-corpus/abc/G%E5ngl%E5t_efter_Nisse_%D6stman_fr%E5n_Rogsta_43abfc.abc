@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:101
+T:Gånglåt efter Nisse Östman från Rogsta
+S:Nisse Östman
+O:Rogsta, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Nils Östman, Rogsta. Uppt. [[Personer/Helge Nilsson]]."
+B:Register för Hälsinglands Spelmansförbunds låtar nr 101
+N:Det finns en stämma efter Helge Nilsson också, här: https://spelmanslaget.nu/wp-content/uploads/2015/04/G%C3%A5ngl%C3%A5t-Nils-%C3%96stman.pdf
+L:1/16
+M:2/4
+Q:100
+K:G
+V:1
+|:"^1" D2EF (GA)Bc | d2dB G2AB | c2>d2 (cB)cd | e2ec (A2g2) | f2>(g2 fe)fg |1 
+a2af d2ef |  g2ag (f2e2) | d2c2 B2A2 :|2 (a2d2) (e2f2) | g2ag (fg)af | g6 (dg) |]
+|: b2bg b2bg | d2dB d2dg | b2bg b2bg | d2dB (d2=f2) | e2ec e2ec |
+G2G2 (BA)Bc | d2dB d2dB | G2G2 (cB)cd | e2ec e2fg | 
+a2a2 (ab)ag | (f2d2) d2f2 | g2ag (fg)af |1 g6 (dg) :|2 g8 |] 
+V:2
+|:"^2""G" B,2CD (B,D)GA | B2BG B,2DG | "Am" E2>F2 (ED)EG | c2cA (E2A2) |"D7" d2>(e2 dc)de |1 
+f2fd F2Ad | "G" B2cB (d2c2) |"D7" B2A2 G2F2 :|2 "D7" (f2A2) (c2A2) | "G" B2cB"D7" (AB)cA | "G" B6 B2 |]
+|: "G" d2dB d2dB | B2BG (!>!B2!>!B2) | d2dB d2dB |"G" G2G2 "G7" =F2B2 |"C" c2cG c2cG | 
+"C" E2E2 "G" (GF)GA |"G" B2BG B2BG | "G" D2D2 "C" (ED)EG |"Am" c2cA c2AB |"D7" c2c2 (cd)cB | 
+"^Stämförslag B.O." (c2A2) F2A2 |"G" B2cB"D7" (AB)cA |1 "G" B6 B2 :|2"G" B8 |]
+

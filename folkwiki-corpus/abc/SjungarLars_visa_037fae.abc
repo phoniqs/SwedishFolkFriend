@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Sjungar-Lars visa
+S:Sjungar-Lars Larsson
+O:Kjälapannsjön, Jämtland
+R:Visa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Lars Larsson (Sjungar-Lars 1807-1896) Kjälapannsjön, Jämtland."
+L:1/4
+M:4/4
+K:Bm
+V:1
+"^1" (B/"^Eft. Lars Larsson  (Sjungar-Lars 1807-1896)  Kjälapannsjön, Jämtland."d/) |: f f g f | e2 d d/f/ | a a b (b/a/) | f2 e f/g/ | 
+a a b (b/a/) | (f3/2 e/) f B/c/ | d d e c |1 B3 (B/d/) :|2 B3 (B/c/) |: 
+d3 (c/B/) | c3 (d/c/) | B d f (a/f/) | e3 (d/f/) | 
+a a b (b/a/) | (f3/2 e/) f B/c/ | d d e c |1 B3 (B/c/) :|2 B3 z |] 
+V:2
+"^2" (F/B/) |: d d e d | c ^A B (B/d/) | f f g (g/f/) | d B c (d/e/) | f f g (g/f/) | 
+d c B (D/F/) | B B ^A F |1 D3 (F/B/) :|2 D3 (D/E/) |: 
+F3 (G/F/) | =F3 (^F/E/) | D F A d | c3 (B/d/) | 
+f f g (g/f/) | d c B (D/F/) | "^Stämförslag B.O." B B ^A F |1 D3 (D/E/) :|2  D3 z |] 
+

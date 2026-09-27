@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:368
+T:Hultens frieri
+T:(SvL Hälsingland 368)
+S:Efter Jonas Erik Bergsman
+B:Svenska Låtar Hälsingland Nr 368
+O:Ljusdal, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Polskan avser att visa hur det gick till när Hultkläppen skulle fria. När han kommit till den utkorade flickans gård vände hans sig, som brukligt var först till modern. Han framförde stillsamt sitt ärende men avbröts av gumman. Han gjorde ett nytt försök men blev på nytt avbruten. När han på grund av gumman ej kunde "få en syl i vädret" lämnade han gården med oförrättat ärende.
+L:1/16
+M:3/4
+K:D
+V:1
+"^1"v (F"^Hulten ..."G |: F2)EF G4 E2>d2 | c2Bc d4 A2"^Gumman ..." (3(gag) | f4 (fa)fd (eg)ec | d2df (ed)cB A2FG |
+"^Hulten ..." F2EF G4 E2>d2 | c2Bc d4 A2"^Gumman ..." (3gag | f4 fafd (eg)ec |1 d4 d4 z2v FG :|2 d4 d4 z2u g2 |: 
+"^Hulten ger upp och går hem..." (3(fgf) ef (a2>f2) d2>f2 | (3(gag) fg (b2>g2) e2>g2 | (3(gag) f2 (fa)fd (eg)ec | d2df (ed)cB A2>g2 | 
+(3(fgf) ef (a2>f2) d2>f2 | (3(gag) fg (b2>g2) e2>g2 | (3(gag) f2 (fa)fd (eg)ec |1 d4 d4 z2u g2 :|2 d4 d6 z2 |] 
+V:2
+"^2" (DE |: D4) E4 C4 | G4 F4 D4 | d4 (df)dA (ce)cA | F2FA cBAG F2(DE | 
+D4) E4 C4 | G4 F4 D4 | d4 (df)dA (ce)cA |1 [FA]4 [FA]4 z2 DE :|2 [FA]4 [FA]4 z2 B2 |: 
+A4 d4 =c4 | B4 d4 B4 | B2A2 A2F2 G2E2 | F2F2 A2G2 F2>B2 | 
+A4 d4 =c4 | B4 d4 B4 | B2A2 A2F2 G2E2 |1 "^Stämförslag B.O." [FA]4 [FA]4 z2 B2 :|2 [FA]4 [FA]6 z2 |]
+

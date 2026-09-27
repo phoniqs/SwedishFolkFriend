@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:55
+T:Kadrilj från Öland - Sexengelskan
+T:(Sv Folkdanser Del 1)
+O:Öland
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 55. Kadrilj från Öland Sexengelskan"
+Z:http://runeberg.org/folkdans/besk/0226.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 55
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (fe)df (ed)ce | (ed)dc d2d2 |: [K:D][M:2/4][K:treble]"^Dans""^(1)" (AG)FG (AG)FG | 
+A2d2 d2d2 | (AG)FG (AF)DE | F2E2 E2E2 | (AG)FG (AG)FG | 
+"1:a 2 ggr. 2:a 2 ggr. 1:a 1 ggr. 2:a 2 ggr. 1:a 2 ggr. 2:a 2 ggr. 1:a 3 ggr. 2:a 2 ggr. 1:a 3 ggr. 2:a 2 ggr. 1:a 2 ggr. 2:a 1 ggr." A2d2 d2d2 | (fe)df (ed)ce | (ed)dc d2d2 ::
+"^(2)" f2fe f2a2 | (ef)ef g2b2 | a2de f2a2 | (eg)ec A2A2 | 
+f2de f2a2 | (ef)ef g2b2 | a2de f2a2 | (eg)ec d2d2 :| "^Sluttakt" (eg)ec d4 |] 
+V:2
+"^2""D" (dA)Fd"A7" (cB)AG |"D" (GF)FE F2F2 |:[K:D][M:2/4][K:treble]"D" (FE)DE (FE)DE | 
+F2F2 F2F2 | (FE)DE (FD)A,C |"A7" D2C2 C2C2 |"D" (FE)DE (FE)DE | 
+F2F2 F2F2 |"D" (dA)Fd"A7" (cB)AG | "D" (GF)FE F2F2 ::
+"D"  d2dc d2f2 |"A7" (cd)cd e2g2 |"D" f2FA d2f2 | "A7" (ce)cA E2E2 | 
+"D" d2FA d2f2 |"A7" (cd)cd e2g2 |"D" f2"^Stämförslag B.O."FA d2f2 |"A7" (ce)cG"D" F2F2 :| "A7" (ce)cG"D" F4 |]
+

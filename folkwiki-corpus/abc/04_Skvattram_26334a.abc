@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:4
+T:04 Skvattram
+C:Tomas Östlund
+O:Nykvarn, Sörmland
+%%score 1 2
+L:1/8
+Q:1/4=95
+M:4/4
+I:linebreak $
+K:F/dm
+V:1 treble 
+V:2 treble-8 stafflines=5 
+V:1
+z8 |:"Dm" Dd"C"Dc"Gm" DB"Dm"DA |"Gm" GA"Dm"FA"A7" EA"Dm" D2 |"Dm" Dd"C"Dc"Gm" DB"Dm"DA | 
+"Gm" GA"Dm"FA"A7" EA"Dm" D2 |$"Dm" DFAc"G" =BG"Dm" A2 |"Gm" GA"Dm"FA"A7" EA"Dm" D2 | 
+"Dm" dAFA"G" GE"Dm"FD |"Gm" GA"Dm"FA"A7" EA"Dm" D2 |"Dm" Dd"C"Dc"Gm" DB"Dm"DA |$ 
+"Gm" GA"Dm"FA"A7" EA"Dm" D2 |"Dm" Dd"C"Dc"Gm" DB"Dm"DA |"Gm" GA"Dm"FA"A7" EA"Dm" D2 | 
+"A7" ^CDEC"Dm" DEFD |"C7" EFGE"F" FG A2 |$"Gm" BAGB"Dm" AFDF |"A7" EAGE"A7" A^c"Dm" d2 :| 
+V:2
+z8 |: [Ad]2 [Ad]2 [Bd]2 [Ad]2 | [Bg]2 [Af]2 [Ge]2 [Ad]2 | [Ad]2 [Ad]2 [Bd]2 [Ad]2 | 
+[Bg]2 [Af]2 [Ge]2 [Ad]2 |$ [Ad]2 [Ad]2 [=Bd]2 [Ad]2 | [Bg]2 [Af]2 [Ge]2 [Ad]2 | 
+[Ad]2 [Ad]2 [Bd]2 [Ad]2 | [Bg]2 [Af]2 [Ge]2 [Ad]2 | [Ad]2 [Ad]2 [Bd]2 [Ad]2 |$ 
+[Bg]2 [Af]2 [Ge]2 [Ad]2 | [Ad]2 [Ad]2 [Bd]2 [Ad]2 | [Bg]2 [Af]2 [Ge]2 [Ad]2 | 
+[A^c]2 [Ac]2 [Ad]2 [Ad]2 | [Be]2 [Be]2 [Af]2 [cf]2 |$ d2 B2 c2 A2 | G2 ^c2 Ac [Ad]2 :| 
+

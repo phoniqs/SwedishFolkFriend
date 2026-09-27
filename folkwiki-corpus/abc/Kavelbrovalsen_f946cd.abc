@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Kavelbrovalsen
+C:Emil Olsson
+O:Uppsala, Uppland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. och arr. Emil Olsson, Uppsala."
+L:1/8
+M:3/4
+K:Eb
+V:1
+"^1" b3 g=e_e | c=A _AF DC | =B,3 DG=B | e4 d2 | (GA/G/) (^FG) AG | 
+e4 d2 | c3 GED | CE Gc eg | b3 g=e_e | c=A _AF DC | =B,3 DG=B | 
+e4 d2 | (GA/G/) (^FG) AG | e4 d2 | [Ec]3 [Ec] [Ec]2 | [DB]4 B,A, |] 
+(G,E) (BE) (G,E) | (cE) (G,E) (BE) | (A,F) (cF) (A,F) | (dF) (A,F) (cF) | 
+(B,D) FB df | (af) dB AF | (EF/E/) (DE) GB | (cB) (GE) B,A, | 
+(G,E) (BE) (G,E) | (cE) (G,E) (BE) | (A,F) (cF) (A,F) | (dF) (A,F) (cF) | 
+(B,D) FB df | (af) dB AD | [G,E]3 [G,E] [G,E]2 | [G,E]6 |] 
+g3 g g2 | (ga) gf ed | (ce) (cB) AG | (FA) (FE) DC | 
+(=B,G) (dG) (B,G) | (eG) (=B,G) (dG) | (CD) EF GA | (=A=B) cd ef | 
+g3 g g2 | (ga) gf ed | (ce) (cB) AG | (FA) (FE) DC | 
+(=B,G) (dG) (B,G) | (eG) (=B,G) (dG) | [Ec]3 [Ec] [Ec]2 | [DB]4 B,A, |]
+

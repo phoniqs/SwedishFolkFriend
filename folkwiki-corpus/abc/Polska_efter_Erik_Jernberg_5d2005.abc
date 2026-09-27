@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Erik Jernberg
+S:Erik Jernberg
+O:Södra Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska efter Erik Järnberg nr. 358, uppt. och bearb. av Ingvar Norman."
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" E>(A- AC) EA | c2 dB/d/ cA | B>(e- eG) Be | g2 af/a/ ge | 
+ef/g/ af/a/ ge | (f^d) e4 :: ef/g/ af/a/ ge | EG/B/ dB/d/ cA- | 
+Af/g/ af/a/ ge | EG/B/ dB/d/ cA | B>(c df) e>d | (Bc) A4 :| 
+V:2
+|:"^2" C>(E- EA,) CE | A2 (BG) AE | G>(B- BE) GB | d2 (=cA) BG | 
+Bc/d/ (cA) BG | (AF) G4 :: Bc/d/ (ec) dB | GB/d/ fd ec- | 
+cc/d/ (cA) BG | GB/d/ (BG) AF | G>(A Bd) c>A | "^Stämförslag B.O." (GE) C4 :|
+

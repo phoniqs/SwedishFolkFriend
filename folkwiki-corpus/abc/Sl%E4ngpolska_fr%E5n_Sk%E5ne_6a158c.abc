@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:106
+T:Slängpolska från Skåne
+T:(Sv Folkdanser Del 1)
+O:Skåne
+R:Slängpolska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 106. Slängpolska från Skåne"
+Z:http://runeberg.org/folkdans/besk/0103.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 106
+L:1/16
+M:3/4
+K:D
+V:1
+"^1""^Förspel" e2d2 c2d2 e2f2 | (fg)ec e4 d4 |:[K:D][M:3/4][K:treble]"^Dans" a2ab a2ab a2ab | 
+a2g2 (fg)fe d4 | e2d2 c2d2 e2f2 | (gf)ga b4 a4 | 
+a2ab aaab aaab | a2g2 (fg)fe d4 | e2d2 c2d2 e2f2 | (fg)ec e4 d4 :: 
+e2c2 AcAc e2g2 | f2d2 AdAd f2a2 | a2f2 (ag)fg e2c2 | (ef)ga b2a2 a4 | 
+(ef)ec (Ac)Ac e2g2 | (fa)fd (Ad)Ad f2a2 | a2f2 (ag)fg b2>f2 | (ag)ec e4 d4 :| 
+V:2
+"^2""A7" c2B2 A2B2 c2d2 | (de)cA G4"D" F4 |:[K:D][M:3/4][K:treble]"D" f2fg f2fg f2fg | 
+f2e2 (de)dA F4 |"A7" c2B2 A2B2 c2d2 | (ed)ef g4"D" f4 | 
+f2fg fffg fffg | f2e2 (de)dA F4 | "A7" c2B2 A2B2 c2d2 | (de)cA G4"D" F4 ::
+"A7" c2A2 EAEA c2e2 |"D" d2A2 FAFA d2f2 | f2d2 (fe)de"A7" c2A2 |"D" (cd)ef g2f2 f4 |
+"A7" (cd)cA (EA)EA c2e2 |"D" (df)dA (FA)FA d2f2 | "D" f2d2"A7" (fe)de g2>d2 | "^Stämförslag B.O."(fe)cA G4"D" F4 :|
+

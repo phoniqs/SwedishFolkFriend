@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Reinlenderen hass Sjur Brita Lars
+C:Jens Synnes
+R:Reinländer
+O:Norge
+Z:ABC av Lennart Sohlman
+M:2/4
+L:1/16
+K:D
+({b}ag)|(fa) (df) (Ad) (FA)|G2e2 e2(ef)|g>fed c>BAG|F2d2 d>bag|!
+(fa) (df) (Ad) (FA)|G2e2 e2(ed)|c>def g>ABc|[1d2[d2f2]d2:|[2d2[d2f2]d4|:!
+K:A
+c>e^de c2A2|d>fef d2B2|B2(3ggg {ga}g>fed|c2(3aaa a>fed|!
+c>e^de c2A2|d>fef d2B2|B2g2 {ga}g>edB|A2c2A4::!
+K:D
+F2PA2F2Pd2|A2Pf2d2A2|G2e2c2A2|f2d2A4|!
+F2PA2F2Pd2|A2Pf2d2A2|G2e2 c>ABc|[1d2d2d4:|[2d2d2 d2(d=c)|:!
+K:G
+B>dgd B>dgf|{fg}f>ee^d e4|A>^GAB c>def|{ef}e2d2 d2(dc)|!
+B>cde d>bag|f2e2 e2(ag)|g>fed ^cdef|[1g2b2 g2(dc):|[2g2b2 g2|]
+

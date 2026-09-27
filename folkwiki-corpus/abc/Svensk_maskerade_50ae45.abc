@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:41
+T:Svensk maskerade
+O:Danmark
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danmark, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:4/4
+K:G
+V:1
+"^1""^Förspel    Gånglåt" D | G2 G>G G2 A>c | B2 A2 G2 z |] [K:G][M:4/4][K:treble]"^Dans   Gånglåt" D |: G2 G>G G2 A>c | 
+B2 B>B B2 ce | ed Bd dc AF |1 G2 G>G GD B,D :|2 G2 G>G G2 |]
+[K:G][M:3/4][K:treble]"^Vals" Bc |: d2 B2 ge | d2 B2 ed | c2 A2 F2 | (GF) (GA) Bc | 
+d2 B2 ge | d2 B2 ed | c2 A2 F2 |1 G4 Bc :|2 G4 z2 |] 
+[K:G][M:2/4][K:treble]"^Polka" B |: dB ge | dB GB | dc Ac | ed Bd | 
+dB ge | dB GB | dc AF |1 G3 B :|2 G3 z |] 
+V:2
+"^2" D | B,2 B,>B, B,2 F>A | G2 D2 B,2 z |][K:G][M:4/4][K:treble] D |: B,2 B,>B, B,2 F>A | 
+G2 G>G G2 Ac | cB GB BA FD |1 B,2 B,>B, B,D B,C :|2 B,2 B,>B, B,2 |][K:G][M:3/4][K:treble] GA |: 
+B2 G2 ec | B2 G2 cB | A2 F2 D2 | (B,A,) (B,D) GA | B2 G2 ec | B2 G2 cB | A2 F2 D2 |1 B,4 GA :|2 B,4 z2 |]
+[K:G][M:2/4][K:treble] G |: "^Spelas önskat antal ggr." BG ec | BG DG | BA FA | cB GB | 
+BG ec | BG DG | BA FD |1 "^Stämförslag B.O."B,3 G :|2 B,3 z |]
+

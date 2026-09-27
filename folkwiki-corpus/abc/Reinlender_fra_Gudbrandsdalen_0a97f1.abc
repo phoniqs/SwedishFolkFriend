@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Reinlender fra Gudbrandsdalen
+S:Torger Olstad
+R:Schottis
+O:Sel, Oppland, Norge
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Torger Olstad (1864-1941) Nord-Sel"
+Z:"Från CD."
+L:1/16
+M:2/4
+K:Am
+V:1
+"^1" E |: A>^GA^c{c} e2e2 | f>ddf (fe)e2 | edBd (d^c)(Ac) | 
+(^cB)(A^G) A2E2 | A>^GA^c{c} e2e2 | f>ddf (fe)e2 | 
+edBd (d^c)(Ac) |1 (^cB)(A^G){G} A3 E :|2 (^cB)(A^G){G} A3 ^f |:
+[K:D] a2d2 d2>e2 | d2(cB) c2>e2 | a2({ga}ge) a2({ga}ge) | (d>c)df a4 | 
+a2d2 d2>e2 | d2(cB) c2>e2 | a2({ga}ge) a2({ga}ge) |1 d2d2 d3 f :|2 d2d2 d3 z |] 
+V:2
+"^2" ^C |: ^C>B,CE{A} ^c2c2 | d>AAd (d^c)c2 | ^cB^GB (BA)(EA) | 
+(A^G)(ED) E2^C2 | ^C>B,CE{A} ^c2c2 | d>AAd (d^c)c2 | 
+^cB^GB (BA)(EA) |1 (A^G)(ED) ^C3 C :|2 (A^G)(ED) ^C3 d |: 
+[K:D] d2F2 F2>c2 | B2(A^G) A2>c2 | c2(BG) c2(BG) | (F>E)FA d4 | 
+d2F2 F2>c2 | B2(A^G) A2>c2 | c2(BG) c2(BG) |1"^Från CD." F2F2 F3 d :|2"^Stämförslag B.O." F2F2 F3 z |]
+

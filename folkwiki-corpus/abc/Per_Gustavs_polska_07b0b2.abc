@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Per Gustav's polska
+C:Calle Hedin
+O:Linköping, Östergötland
+R:Polska
+M:3/4
+K:D
+Q:1/4=90
+N:Namngivningspolska komponerad 1984  
+% första
+|: (A|d1/2e1/2)d1/2c1/2 dd1/2A1/2  FA |   (d1/2c1/2)d1/2e1/2  dd1/2A1/2 F(A1/2F1/2) |
+ (G1/2A1/2)G1/2F1/2 EA ce |1(g1/2f1/2)e1/2d1/2 (c1/2d1/2)e1/2c1/2 A :|2 (g1/2f1/2)e1/2c1/2 d4 ||
+% andra
+|: (f1/2g1/2)f1/2e1/2 df1/2d1/2 (f/2d1/2)f1/2a1/2  |(g/2a1/2)g1/2f1/2    (e/2f1/2)e1/2d1/2 e2 |
+|1 (e/2f1/2)e1/c1/2  Ac ea   | c'>(a e/2f1/2)e1/c1/2  AG |
+(F/2E1/2)F1/2G1/2 (A/2G1/2)A1/2d1/2 c2 :|2 (e/2f1/2)e1/c1/2  Ac ef | (g/2f1/2)e1/c1/2  d4  ||
+% tredje
+|: (d1/2e1/2)d1/2c1/2 BG  Bd |   (c1/2d1/2)c1/2B1/2   A2 E2 |
+ (G1/2A1/2)G1/2F1/2 EA, CE | (F1/2E1/2)D1/2E1/2 (F1/2E1/2)F1/2G1/2 A2|(d1/2e1/2)d1/2c1/2 BG  Bd |   
+ (c1/2d1/2)e1/2c1/2   d2 A2   | (e1/2f1/2)e1/2c1/2 AG  FE |  (A,1/2C1/2)E1/2G1/2 F2 D2  :|
+

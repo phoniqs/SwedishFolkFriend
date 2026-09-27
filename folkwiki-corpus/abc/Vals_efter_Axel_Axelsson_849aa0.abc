@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:496
+T:Vals efter Axel Axelsson
+T:(OA 496)
+B:Sörmländska låtar samlade av Olof Andersson nr 496
+R:Vals
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson. 
+M:3/4
+L:1/4
+Q: 160
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+(D/F/) A/d/ f/d/ | (A/c/) e/g/ b/g/ | (a/g/) f/g/ e/c/ | (e/d/) B/c/ A/F/ |
+(D/F/) A/d/ f/d/ | (A/c/) e/g/ b | (b/a/) f/g/ e/c/ |1 d2 z :|2  d2 A/d/ |:
+f f/f/ f/f/ | f e d/e/ | (f e) d |  c2 z |
+A/B/ c/d/ e/f/ | (g/f/) g/a/ b/g/ | (b/a/) f/g/ g/e/ |1  d2 A/d/ :|2 d2 z |]
+

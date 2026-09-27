@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:181
+T:Polska efter Carl Sved
+O:Delsbo, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 28. Polska efter Carl Sved"
+L:1/16
+Q:1/4=84
+M:3/4
+K:C
+V:1
+|:"^1" G2>(F2 E2)EF G4 | A2AB"^Delsbo" (cB)AB c4 | (cd)ef g2ag (fe)dc | c2Bc (dc)BA G4 | 
+G2>(F2 E2)EF G4 | A2AB (cB)AB c4 | (cd)ef g2ag (fe)dc | (cB)AB d4 c4 :: 
+(ga)g^f (ga)gf g2g2 | g2^fg (ag)=fe d2e2 | (fg)fe (fg)fe f2f2 | f2(ef) (gf)ed c4 | 
+G2>(F2 E2)EF G4 | A2AB (cB)AB c4 | (cd)ef g2ag (fe)dc | (cB)AB d4 c4 :| 
+V:2
+|:"^2" E2>(D2 C2)CD E4 | F2FD (ED)CD E4 | (EG)cd e2fe (dc)GE | E2DE (FA)GF E4 | 
+E2>(D2 C2)CD E4 | F2FD (ED)CD E4 | (EG)cd e2fe (dc)GE | (ED)CD F4 E4 :: 
+(ef)ed (ef)ed e2e2 | e2de (fe)dc B2c2 | (de)dc (de)dc d2d2 | d2(cd) (ed)cG E4 | 
+E2>(D2 C2)CD E4 | F2FD (ED)CD E4 | (EG)cd e2fe (dc)GE | (ED)CD"^B.O." F4 E4 :|
+

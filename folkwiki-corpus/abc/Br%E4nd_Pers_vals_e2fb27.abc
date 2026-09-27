@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Bränd Pers vals
+R:Vals
+O:Garsås, Dalarna
+Z:Karin Helander
+N:Bränn Pers, finns många varianter
+Q:180
+L:1/8
+M:3/4
+K:G
+V:1
+(B,C) | "G" D3 (C B,2) | D4 G2 | B6 | B2 A2 G2 | "C" E3 (D C2) | E4 G2 | "Am"  c6 |c2 B2 A2 | 
+"D7" F3 (E D2) | F4 A2 | f6 | e6 | d3 (ed2) | c2 e2 d2 | "G" B3 (A G2) | D4 (B,C) |
+"G" D3 (C B,2) | D4 G2 | B6 | B2 A2 G2 | "C" E3 (D C2) | E4 G2 | "Am" c6 | c2 B2 A2 | 
+"D7" F3 (E D2) | F4 A2 | f6 | e6 | d3 (ed2) | c2 B2 A2 | "G" G3 (AGF) | G4 :|
+ [K:D] |: (FG) | "D" A2 AA AA | A2 (Bc) (de) | f2 ff ff | f2 g2 f2 | "A7" e2 ee ee | 
+(eg) f2 e2 | "D" d2 c2 B2 | (AB) (AG) FG | A2 AA AA | A2 (Bc) (de) | 
+f2 ff ff | f2 b2 a2 | "A7" g2 AA AA | A2 B2 c2 | "D" d3 (edc) | d4 :|
+

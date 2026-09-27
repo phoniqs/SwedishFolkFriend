@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Polkett efter Oskar i Bogsta
+R:Polka
+S:Oskar Söderström
+O:Bogsta, Södermanland
+Z:Karin Helander
+N:Från inspelning med Ingvar Andersson: https://www.youtube.com/watch?v=twlFAbbUOIU
+N:Andrastämma och ackord från handskriven not med vissa variationer hos Martin Lindén: https://www.martinlinden.se/polkaoskaribogsta.pdf
+N:"Polka Efter Oskar Söderström (Oskar i Bogsta) 15"
+N:Stefan Lindén har ytterligare en variant med titel "Flickorna di skulle stöpa ljus":  https://www.stefanlinden.se/L/polka%20e%20Oskar%20i%20Bogsta%20So.pdf
+M:2/4
+L:1/16
+K:G
+V:1
+(Bc)(BA) G2G2 | e2e2 d4 | (dc)(AF) D2D2 | (Bc)(BA) G2G2 | 
+(Bc)(BA) G2G2 | e2e2 d4 | (dc)(AF) (Dc)(BA) |1 G2G2 G4 :|2 !fine! G4 ^G4 |]
+|: [K:D] A2A2 B3A | A2A2 f4 | !trill!f2(ef) g2e2 | !trill! e2(de) f2d2 | 
+A2A2 B3A | A2A2 f4 | !trill! f2(ef) (ge)(ce) | d2d2 d4 :| 
+V:2 
+"G" (GA)(GF) D2D2 | "C" c2c2 "G" B4 | "D7" (DE)(FA) A2A2 | "G" (B,C)(DF) G2B2 | 
+"G" (GA)(GF) D2D2 | "C" c2c2 "G" B4 | "D7" (DE)(FA) (cA)(GF) |1 "G" C2B,2 B,4 :|2 "G" B,4 B,4 |]
+|: [K:D] "D" F2F2 "G" G3F | "D" F2F2 d4 | "A7" d2(cd) e2c2 | "D" F2(FG) A2F2 | 
+"D" F2F2 "G" G3F | "D" F2F2 d4 | "A7" d2(cd) (ec)(AG) | "D" A2F2 F4 :|
+

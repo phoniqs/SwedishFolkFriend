@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:732
+T:Engelska efter Johannes Nord
+T:(SvL Skåne 732)
+O:Hyllinge, Skåne
+R:Engelska
+S:Johannes Nord
+B:Svenska Låtar Skåne Nr 732
+B:Gamla Dansar i Skåne
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Engelska (5)."
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" g2e2 c2A2 | (^GA)Bc d2 |][K:D][M:2/4][K:treble]"^Dans" Ad |: f2d2 A2G2 | 
+(FA)df (Ad)fa | g2e2 c2A2 | (^GA)Bc (dc)de | f2d2 A2G2 | 
+(FA)df (Ad)fa | g2e2 c2A2 | (^GA)Bc d2 z2 :: 
+f2ff (fd)Ad | (fd)Ad (fg)af | g2gg (ge)ce | (ag)ec (dc)de | 
+f2ff (fd)Ad | (fd)Ad (fg)af | g2gg (ge)ce | (ag)ec d2 z2 :| 
+V:2
+"^2" e2c2 A2E2 | (DE)GA F2 |][K:D][M:2/4][K:treble] FA |: d2A2 F2E2 | 
+(DF)Ad (FA)df | e2c2 A2E2 | (DE)GA (FE)FA | 
+d2A2 F2E2 | (DF)Ad (FA)df | e2c2 A2E2 | (DE)GA F2 z2 :: 
+d2dd (dA)FA | "^Efter Johannes Nord, Hyllinge.  Sv.L. nr.732." (dA)FA (de)fd | e2ee (ec)Ac | 
+(fe)cA (FE)FA | d2dd (dA)FA | (dA)FA (de)fd | e2ee (ec)Ac | (fe)"^Stämförslag B.O."cA F2 z2 :|
+

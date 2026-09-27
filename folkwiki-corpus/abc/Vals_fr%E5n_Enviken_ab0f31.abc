@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals från Enviken
+T:efter Vilhelm Hedlund
+S:Vilhelm Hedlund
+R:Vals
+O:Enviken, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"25. Vals från Enviken efter Vilhelm Hedlund, Enviken."
+L:1/8
+M:3/4
+K:Em
+V:1
+|:"^1" B,2 (E^D) EF | G2 (GF) GA | B2 (e2 f2) | (g3 f) e2 | (fg) (fe) ^df | 
+B2 (^d2 f2) |1 (3(efe) (B2 G2) | E4 B,2 :|2,8 b2 (ba) fg | e4 G2 |
+ B2 (BA) Bd | c2 (cB) Ac | B2 (F2 A2) | G4 B2 | e2 (e^d) ef | g2 (f2 e2) |
+ (fg) (fe) ^d^c | B4 g2 | b2 (gg) gg | g2 (a2 b2) | (fg) (fe) fg | f4 a2 | 
+g2 (ee) ee | e2 (f2 a2) | (3(gag) (f2 ^d2) | B4 B2 | c2 (cB) AG | F2 (A2 c2) |
+"Em" (Bc) (BA) GF | E2 (G2 B2) | e2 (e^d) ef | g2 (b2 g2) | (fa) (f^d) Bd | e6 |] 
+V:2
+|:"^2""Em" G,2 (B,^A,) B,^D | E2 (E^D) EF | E2 (G2 A2) | (B3 A) G2 | "B7" A2 (AG) FA | 
+^D2 (F2 A2) |1 "Em" G2 (E2 B,2) |"Em" G,4 G,2 :|2,8"B7" ^d2 (d2 B2) |"Em" [GB]4 E2 | 
+"G" G2 (GF) GB |"D" A2 (AG) FA |"B7" G2 (^D2 F2) |"Em" E4 E2 | G2 (GF) GA | B2 (A2 G2) | 
+"B7" A2 (AG) FE | ^D4 e2 |"Em" g2 (ee) ee | e2 f2 g2 | "B7" ^d2 (d^c) de | ^d4 d2 |
+"Em" B2 (GG) GG | G2 A2 c2 |"B7" B2 (A2 F2) | ^D4 G2 | "Am" A2 (AG) FE | "B7" ^D2 (F2 A2) | 
+"Em" G2 (GF) E^D | B,2 (E2 G2) | G2 (GF) GA | B2 (e2 B2) |"B7" A2 (A2"^B.O."  F2) | "Em" [B,G]6 |]
+

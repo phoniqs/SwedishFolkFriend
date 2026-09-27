@@ -1,0 +1,35 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudkronan
+T:(Gammal vals från Orsa)
+R:Vals
+O:Orsa, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gammal vals från Orsa. Stämma Palle Åberg."
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" A2 |: d3 e (3(fef) | d3 e (3(fef) | (e4 ^c2) | A6 | a6- | a4 gf | 
+e4 d^c | (d4 e2) | A4 A2 | d3 e f2 | d3 e f2 | g3 a g2 | 
+e4 c'2 | a3 g f2 | e3 d ^c2 | d6- |1 d4 A2 :|2 d4 a2 |: 
+(a4 c2) | c4 a2 | (a4 g2) | g3 agf | e3 fed | c4 a2 | 
+a3 bag | f3 gfe | d3 e f2 | d3 e f2 | g3 a g2 | e4 c'2 | 
+a3 g f2 | e3 d ^c2 | d6- |1 d4 a2 :|2 d3 Ade |: 
+f2 f2 f2 | f2 ef gf | e2 e2 e2 | e2 de fe | d2 d2 d2 | d2 ^c2 d2 | 
+e3 fe^c | A6 | a6- | a4 gf | e6- | e4 e2 | 
+f2 f2 f2 | f2 ef gf | e2 e2 e2 | e2 de fe | d2 d2 d2 | d2 ^c2 d2 |
+e3 fe^c | A4 a2 | a3 g f2 | e3 d ^c2 | d6- |1 d3 Ade :|2 d6 |] 
+V:2
+"^2" A,2 |:"Dm" F3 A d2 | F3 A d2 |"A7" ^c4 A2 | E6 | ^ce gf e2 | e^c ec ed | 
+^c4 =BA | "Dm" F4 G2 |"A7" ^C2 CE EE |"Dm" (FA) (dA) (dA) | (DF) (AF) (AF) |"Gm" (GB) (dB) (dB) | 
+[DB]4 g2 |"Dm" f3 e d2 |"A7" A,^C EG AG |"Dm" DF EF GF |1 [FA]4 A,2 :|2"Dm" [FA]4 f2 |: 
+"F" CF FA Ac | c4 f2 |"C7" CE EG Gc | e3 fed | c3 dcB | E4 c2 |
+"F" f3 gfe | A3 BAG | "Dm" F3 G A2 | F3 G A2 |"Gm" GB dB dB | [DB]4 g2 |
+"Dm" f3 e d2 |"A7" A,^C EG AG | "Dm" DF EF GF |1 [FA]4 f2 :|2"Dm" F3 DFA |:
+"Dm" (DA) (dA) (dA) | A2 GA BA | "A7" (A,E) (^cE) (cE) | G2 FG AG |"Dm" F2 F2 F2 | 
+F2 E2 F2 |"A7" ^c3 dcA | ^C2 E2 G2 | ^ce gf gf | ^ce gf ec | ^c2 A2 G2 | 
+E2 ^C2 A,2 |"Dm" (DA) (dA) (dA) | A2 GA BA | "A7" (A,E) (^cE) (cE) | G2 FG AG |"Dm" F2 F2 F2 | 
+F2 E2 F2 |"A7" ^c3 dcA | ^C4 e2 | "Dm" f3 e d2 |"A7" A,^C EG AG |"Dm" DF EF GF |1 F3 DFA :|2"Dm" F6 |]
+

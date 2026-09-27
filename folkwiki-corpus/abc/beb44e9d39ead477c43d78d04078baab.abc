@@ -1,0 +1,9 @@
+%%abc-charset utf-8
+
+X:2
+M:3/4
+L:1/8
+K:G
+[| b2 b>(a g)>(f | e2) e>(d c2) | a2 a>(g f)>(e | d)>(e d)>(c B)>A |
+G2 G>(B (3ABA) | G2 B>(d g2) | {g}a2 a>(g e)>(f | g2) g2 gz |]
+

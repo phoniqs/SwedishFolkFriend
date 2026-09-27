@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Jag gratulerar
+T:Vals
+C:Jon-Erik Hall
+O:Hassela, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]] (Nr 25 i han Hall-samling)
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1""G" b3 c'ba | (gf) (ga) bg |"C" (ae) (ce) ae | g4 f2 |"D7" f3 gfe | (dc) (ed) cA | 
+"G" (GF) (GA) BG |"D7" D6 |"G" b3 c'ba | (gf) (ga) bg |"C" a3 bae | (cB) (ce) ae | 
+"D7" f3 gfe |1 (d^c) (de) fd |"A7" (AB) (^cd) ec |"D" d4 z2 :|2"D7" (d^c) (de) fa | (c'a) (fd) af |"G" g4 (fe) |:
+"D7" d3 cAF | (DF) (Ac) ed |"G" (3(ded) (b2 f2) | gg d2 B2 |"D7" c3 BAG | (FE) (DE) FE |
+"G" (DC) (B,E) DC | B,2 (DG) Bd |"Am" e3 cAE | (CE) (Ac) ec |"G" d3 BGD | (B,D) (GB) dB | 
+"D7" c3 BAB | (cd) (ef) ge |"D"  (dc') c'2 fa |1 "G"g4 (fe) :|2 "G"g4 (Ad) |:
+[K:D]"D" f3 edB | A3 FGA | "G" B3 AGF | EE E2 D2 | "A7" (CB,) (A,B,) CD | (EF) (GE) AG | 
+"D"(BA) (FA) df | a3 Adf | a3 fdB |"B7" A3 FGA |"Em" B3 AGE | ee e2 d2 |
+"A7" (cB) (AB) cd | (ef) (gA) ce | "D" d3 d d2 | d2 z4 :: "D" [fa]4 [eg]2 | "A7" [gb]4 [ce]2 |
+"D" [df]2 z2 D2 | (DF) (Ad) fa |"A7" [eg]2 z2 A,2 | (A,C) (EA) ce | "D" d2 cB A2 | (DF) (Ad) fa | "A7" [eg]4 [gb]2 | 
+[fa]4 [ce]2 |"D" [df]2 z2 D2 | (DF) (Ad) fa | "A7" [eg]2 z2 A,2 | (A,C) (EA) ce |"D" [Fd]3 [Fd] [Fd]2 | [Fd]4 z2 :|
+

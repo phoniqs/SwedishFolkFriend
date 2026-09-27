@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Bacon and eggs (andrastämman)
+C:Eric Öst
+O:Hälsingland
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik och arr. Eric Öst"
+L:1/16
+M:2/4
+K:G
+V:2
+|:"^2" [B,G]4 [Gd]4 | [Be]8 | [^CG]4 [G^c]4 | [^ce]8 | 
+[Fd]4 [da]4 | [Af]4 [Fc]4 | [Be]4 [GB]4 | [ce]4 [Fc]4 | 
+[B,G]4 [Gd]4 | [Be]8 | [^CG]4 [G^c]4 | [^ce]8 | 
+[Fd]4 [da]4 | [Af]4 [Fc]4 | [Gd]4 [Gd]4 | [Fd]4 [Gd]4 ::
+[K:C] D^FBF DFBF | D^FBF DFBF | CEGE CEGE | CEGE CEGE | 
+B,D^FD B,DFD | B,D^FD B,DFD | CEGE CEGE | G,CEC G,CEC | 
+D^FBF DFBF | D^FBF DFBF | CEGE CEGE | CEGE CEGE | 
+A^F_EA FEAF | EGEC CEGc | dBG^F DFGB | [CG]2[CG]2 [CG]4 ::
+[K:F] FCFA GEGB | AFAc cGce | cfAf cfAf | cfAf cfAf | 
+ceBe ceBe | ceBe ceBe | cefe dcBA | GABA GFEG | 
+FCFA GEGB | AFAc cGce | cfAf cfAf | cfAf cfAf | 
+dfBf dfBf | cfAf cfAf | cecB GBce | [Fc]2[Fc]2 [Fc]4 :|
+

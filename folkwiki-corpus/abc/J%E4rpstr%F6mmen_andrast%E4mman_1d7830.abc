@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Järpströmmen (andrastämman)
+C:Jonas Petter Nahlin
+L:1/16
+M:3/4
+O:Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Av Jonas Petter Nahlin (1908-1981)
+Z:Arr Göran Olsson Föllinger
+K:Eb
+"^2" (3(GAF |: G2)G,2 B,2E2 G2G2 | (FE)DC (B,G,)A,B, [G,E]4 | B,2B2 c2B2 (FD)B,A, | 
+G,2>A,2 B,2C2 D2E2 | G,4 B,2E2 G4 | (FE)DC (B,G,)A,B, [G,E]4 | 
+B,2B2 c2A2 F2d2 |1,8 [Fd]4 [Ge]6 (3GAF :|2 [Fd]4 [Ge]8 |: 
+B4 c2B2 e2g2 | A2cA c2>A2 c2e2 | (fg)ag f2d2 B2A2 | 
+(GF)ED (ED)EG [G,E]4 | B4 c2B2 e2g2 | (fg)ag a6 g2 | (
+fg)ag f2d2 B2a2 | B2d2 [Ge]8 :: g4 e4 c4 | 
+G4{FED} E4 C4 | (C=B,)CD (ED)CB, C4 | D4 G,8 | e4 d4 c4 | 
+A4 G4 E4 | D4 E2G2 F2E2 |1 D2G,2 C6 z2 :|2 D2 G,2 C6 z2 |]
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:7
+T:Angläs Nr 7
+T:(Gamla Dansar i Skåne)
+O:Skåne
+R:Anglais
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Angläs (7). Efter Per Jönsson, Vanneberga. C. E. Berndts saml."
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:A
+V:1
+"^1""^Förspel" A2Ac e2ec | (ed)BG A4 |]:[K:A][M:2/4][K:treble]"^Dans" ABcd eeee | 
+Bcdf eaaa | Bcde ceee | (ed)BG A4 :: 
+a2a2 c'2>b2 | a2f2 e4 | A2Ac e2ec | (ed)BG A4 :| 
+V:2
+"^2" E2EA c2cA | (cB)GE C4 |]:[K:A][M:2/4][K:treble] CEAB cccc | GABd Accc | GABc Accc | 
+"^Efter Per Jönsson, Vanneberga.""^C. E. Berndts saml." (cB)GE C4 :: 
+c2c2 e2>d2 | c2d2 c4 | E2EA c2cA |"^Stämförslag B.O." (cB)GE C4 :|
+

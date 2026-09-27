@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:94
+T:Schottis från Härjedalen
+T:(Sv Folkdanser Del 1)
+O:Härjedalen
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 94. Schottis från Härjedalen"
+Z:http://runeberg.org/folkdans/besk/0091.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 94
+L:1/16
+M:2/4
+K:Dm
+V:1
+"^1""^Förspel" d>^cde f2f2 | e2e^c d4 |:[K:F][M:2/4][K:treble]"^Dans" D2DE (F>G)FE | (D2A2) A4 | 
+d>^cde f2f2 | e>fe^c A2A2 | D2DE (F>G)FE | D2A2 A4 | 
+d>^cde f2f2 |1 e2e^c d4 :|2 e2e^c d3 (f |: a2)(a^g) a2a2 | 
+f>gfe f2f2 | e2(e^c) A2A2 | F>GFE (ED)D2 | a2(a^g) a2a2 | 
+f>gfe f2f2 | e2e^c (A>c)ec |1 d2d2 d3 f :|2 d2d2 d4 |] 
+V:2
+"^2""Dm" A>^GA^c d2d2 |"A7" ^c2cA"Dm" [FA]4 |:[K:F][M:2/4][K:treble]"Dm" A,2A,^C (D>E)DC | (A,2F2) F4 | 
+A>^GA^c d2d2 |"A7" ^c>dcA E2^C2 |"Dm" A,2A,^C (D>E)DC | A,2F2 F4 | 
+A>^GA^c d2d2 |1 "A7" ^c2cA"Dm" [FA]4 :|2"A7" ^c2cA"Dm" [FA]3 (d |:"Dm" f2)(fe) f2f2 | 
+d>ed^c d2d2 | "A7" ^c2(cA) E2E2 |"Dm" D>ED^C (CA,)A,2 | f2(fe) f2f2 | 
+"^Stämförslag B.O." d>ed^c d2d2 | "A7" ^c2cA (E>A)cA |1"Dm"  F2F2 [FA]3 d :|2 "Dm"F2F2 [FA]4 |]
+

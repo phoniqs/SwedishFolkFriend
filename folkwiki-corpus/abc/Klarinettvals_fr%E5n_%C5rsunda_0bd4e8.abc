@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Klarinettvals från Årsunda
+S:Erik Hartwig
+O:Årsunda, Gästrikland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Erik Hartwig, Årsunda."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (Bc) |: d2 (BG) Bd | g2 gg g2 | (fa) (fd) ef | (gb) (gd) Bc | d2 (BG) Bd | 
+g2 gg g2 |  (fa) (fd) ef | g4 (Bc) :: d2 (dd) dg | b4 (AB) | c2 (cc) cf | 
+a4 (Bd) | (cB) (ce) dc | B2 (Bd) BG | (DF) (Ac) AF | (GF) (GA) Bc | d2 (dd) dg | 
+b4 (AB) | c2 (cc) cf | a4 (Bd) | (cB) (ce) dc | B2 (Bd) BG | (DF) (Ac) AF |1 
+G4 (Bc) :|2 G4 B2 |: A2 (ce) dc | (BG) (Bd) gb | a2 (fd) fa | (gb) (gd) BG | 
+E2 (Ac) ec | (BG) (Bd) bg | (fd) (cA) FA |1 G4 B2 :|2 G4 z2 |] 
+V:2
+"^2" (GA) |:"G" B2 (GD) GA | B2 BB B2 |"D7" (Ac) (AF) GA | "G" (Bg) (dB) GA | B2 (GD) GA | 
+B2 BB B2 | "D7" (Ac) (AF) GA | "G" [GB]4 (GA) :: "G" B2 (BG) Bd | g4 (FG) |"D7" A2 (AF) Ac | 
+f4 G2 | A2 (Ac) BA | "G" G2 (GB) GD |"D7" A,2 (DF) DC |"G" B,2 (B,D) GA | B2 (BG) Bd | 
+g4 (FG) |"D7" A2 (AF) Ac | f4 G2 | A2 (Ac) BA |"G" G2 (GB) GD |"D7" A,2 (DF) DC |1
+"G" [B,D]4 (GA) :|2"G" [B,D]4 G2 |: "D7" F2 (Ac) BA |"G" G2 (GB) dd |"D7" c2 (AF) Ac |"G" B2 (BG) DB, |
+"Am" C2 (EA) cA | "G" G2 (GB) dB | "D7" (AF) (DC) A,C |1 "G" [B,D]4 G2 :|2 "G" [B,D]4"^B.O." z2 |]
+

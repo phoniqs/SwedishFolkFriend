@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:40
+T:Tretur Nr 4
+T:(Gamla Dansar i Skåne)
+O:Skåne
+R:Engelska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Tretur (4) efter Nils Olsson, Höganäs."
+B:Gamla Dansar i Skåne
+S:Nils Olsson Höganäs
+L:1/16
+M:2/4
+K:Bb
+V:1
+"^1""^Förspel" B2AB G2AB | c2ed B2 z |][K:Bb][M:2/4][K:treble]"^Dans" F |: B2d2 B2fd | 
+c2e2 F2GA | B2AB G2AB |1 c2ed B2 z F :|2 c2ed B2 z f |: 
+d2f2 c2fe | (dB)df (ba)bf | d2f2 c2fe |1 (df)ec B2 z f :|2 (df)ec B3 z |] 
+V:2
+"^2" D2CD E2FG | E2GF D2 z |][K:Bb][M:2/4][K:treble] D |: D2F2 D2dB | A2F2 C2EF | D2CD E2FG |1 E2GF D2 z D :|2 E2GF D2 z d |: 
+"^Efter Nils Olsson, Höganäs." B2d2 A2dc | (BF)Bd (dc)dB | B2d2 A2dc |1 "^Stämförslag B.O." (Bd)AF D2 z d :|2 (Bd)AF D3 z |]
+

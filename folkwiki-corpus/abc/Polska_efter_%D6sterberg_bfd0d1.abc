@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Österberg
+T:(Röda strumpor)
+S:Efter Österberg
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Röda strumpor"
+L:1/8
+M:2/4
+K:C
+V:1
+"^1" (e"^\"Röda strumpor\"" |: g>)(c e)(c e>)g | f>(B d2) d>f | a>(g f>)(e f>)a | g>(c e2) e>e | 
+g>(c e)(c e>)g | f>(B d2) d>f | a>(g f>)(d B>)d |1 (d/B/d) c3 e :|2 (d/B/d) c3 G |: 
+c z/ (e/ ge) c'b | a/b/a e2 eg | gf (fa) df | ed (eg) ce | 
+c z/ e/ ge c'b | a/b/a e2 eg | gf (fa) B>d |1 d/B/d c3 G :|2 d/B/d c3 e |: 
+g>e c2 (3(cec) | GB d3 B | f>d B2 B/d/B | Gc e3 e | 
+g>e c2 (3cec | GB d3 f | a>g f>(d B>)d |1 d/B/d c3 e :|2 d/B/d c3 z |] 
+V:2
+"^2" c |: e>(G c)(G c>)c | d>G B2 B>d | f>e d>(c B>)d | e>G c2 c>c | e>G c(G c>)c | d>G B2 B>d | 
+f>e d>(B G>)F |1 F2 E3 c :|2 F2 E3 (E |: G) z/ (c/ ec) fe | e2 c2 ce | (ed) (dB) Bd | (cB) c2 EG | 
+G z/ (c/ ec) gf | e2 c2 ce | (ed) (dB) G>F |1 F2 E3 E :|2 F2 E3 (c |: e>)c (GF) E2 | FG B3 G | 
+d>B (GE) F2 | EG c3 c | e>c (GF) E2 | FG B3 d | f>(e d>)(B G>)F |1 F2 E3 c :|2 "^Stämförslag B.O." F2 E3 z |]
+

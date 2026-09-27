@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Junsele
+S:Efter Jonas Sjödin
+O:Långvattnet, Junsele, Ångermanland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+Q:1/4=90
+M:3/4
+K:G
+V:1
+|:"^1" (d>B) (dg) fe | (e>d) (dB) GB | (Bd/B/) (Ac) FA | (Ac/A/) GB d2 |
+ (d>B) (dg) fe | (e>d) (dB) GB | (Bd/B/) (Ac) FA | (Ac/A/) G3 z :|
+|: (D>G) (BA) GF | E>c c2 c2 | (3DFA (3DFA (3DFA | G>B d2 d2 |
+ (D>G) (BA) GF | E>c c2 c2 | (3DFA (3DFA (3DFA | G2 G3 z :| 
+V:2
+|:"^2" (B>G) (Be) dc | (c>B) (BG) DG | (GB/G/) (FA) DF | (FA/F/) DG B2 | (B>G) (Be) dc | 
+(c>B) (BG) DG | (GB/G/) (FA) DC | C2 B,3 z :: (B,>D) (GF) ED | C>E E2 E2 | C2 (C2 A,2) | 
+B,>G B2 B2 | (B,>D) (GF) ED | C>E E2 E2 | C2 (C2 A,2) | "^B.O." B,2 B,3 z :|
+

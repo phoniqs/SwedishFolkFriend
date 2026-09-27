@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:33
+T:Polska
+T:(SvL Hälsingland 33)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 33
+O:Hassela, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]] (nr 16 i hans Hall-samling)
+L:1/16
+M:3/4
+K:Dm
+V:1
+|:"^1""Dm" A2Ad"A7" (AG)FE"Dm" F2E2 |"Dm" (DF)(Ad) f2fg"A7" e4 | "A7"(gf)ed (eg)fe "Dm" (d^c)de | "Dm" (fe)d^c (df)ec"A7" A4 |
+"Dm" A2Ad"A7" (AG)FE"Dm" F2D2 | "Gm" (EF)(GA) B2Bd"A7" A4 | "Gm" (BA)G^F (GB)AG"Dm" (=FE)D^C |"A7" E4"Dm" D4 z4 :: 
+"A7"(A=B)^cd e2eg "Dm"(fe)(dc) | "Dm"d2a2"A7" (ag)e^c A4 |"Dm" F2AF"A7" (EG)E^C"Dm" (DE)FG |"A" (A^c)ec"E7" (=Bd)B^G"A7" A4 | 
+"A7"(A=B)^cd e2eg "Dm"(fe)df |"A7" (e^c)AG"Dm" F2FG"A7" E4 |"Dm" (AG)FE"A7" (DE)FG"A7" (FE)(D^C) | "A7" ^C2DE"Dm" D4 z4 :| 
+V:2
+|:"^2" F2FA (FE)D^C D2C2 | (A,D)(FA) d2de ^c4 | (EF)GA (^ce)dA (FE)FA | (FG)AG (FA)GE ^C4 |
+ F2FA (FE)D^C D2A,2 | (^CD)EF G2GF E4 | (^CD)ED (EG)FE (DC)A,A, | ^C4 [A,F]4 z4 ::
+ (EF)GA ^c2ce (dA)(FE) | A2d2 (^cA)GE ^C4 | A2A2 G2E2 F2D2 | E2E2 D2E2 ^C4 |
+ (EF)GA ^c2ce (dA)FA | (^cA)FE D2DE ^C4 | (^CE)DC (A,C)DE (DC)(A,G,) | G,2A,B, [A,F]4"^B.O." z4 :|
+

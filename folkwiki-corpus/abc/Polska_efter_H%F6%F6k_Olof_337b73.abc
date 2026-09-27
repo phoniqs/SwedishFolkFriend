@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1105
+T:Polska efter Höök Olof
+T:(SvL Dalarna 1105)
+S:Höök Olof Andersson
+B:Svenska Låtar Dalarna Nr 1105
+O:Rättvik, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" (A |: B)c/B/ A^F G2 | (AB) cc d2 | (g^f/g/) aa/f/ de |1 (3(^c/d/c/ =B/c/) d3 A :|2 (3(^c/d/c/ =B/c/) d4 |: 
+(dg) (3(g/a/g/) ^f/g/ af | (3(^f/g/f/ e) ^ce d2 | B2 (3(B/c/B/ A) G>B | (d (3B/c/B/) A^F D2 | 
+(dg) (3(g/a/g/) ^f/g/ af | (3(^f/g/f/ e) ^ce d2 | B2 (3(B/c/B/) A/B/ d>c |1 (A^F) G4 :|2"^Stämförslag B.O." (A^F) G3 z |] 
+V:2
+"^2" (^F |: G2) ^FD B,2 | (CD) EE ^F2 | B2 A2 G^F |1 E2 ^F3 F :|2 E2 ^F4 |: 
+G2 BA/B/ cd | (d^c) AG ^F2 | G2 (G^F) D>E | (^FE) DC A,2 | 
+G2 BA/B/ cA | (AG) EG ^F2 | D2 DC/D/ ^F>D |1 C2 B,4 :|2 C2 B,3 z |] 
+

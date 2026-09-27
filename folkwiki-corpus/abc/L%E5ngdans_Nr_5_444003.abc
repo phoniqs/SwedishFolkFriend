@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:31
+T:Långdans Nr 5
+T:(Gamla Dansar i Skåne)
+O:Agusa, Skåne
+S:Hans Svensson
+R:Långdans
+B:Gamla Dansar i Skåne
+Z:[[Personer/Bengt Ohlson]]
+Z:Gamla Dansar i Skåne. Långdans (5) efter Hans Svensson, Agusa. C. E. Berndt."
+L:1/16
+M:2/4
+K:C
+V:1
+"^1""^Förspel" (ce)ge (ce)ge | fdBd c4 |]:[M:2/4][K:treble]"^Dans" (CE)Gc e2ec | 
+d2dB G4 | (ce)ge (ce)ge | (fd)Bd c4 :: 
+f2d2 d2ef | g2e2 e2g2 | (c'g)eg (c'g)eg | (fd)Bd c4 :| 
+V:2
+"^2" (Gc)ec (Gc)ec | B2GF E4 |]:[M:2/4][K:treble] (G,C)EG c2cA | 
+B2BG [B,D]4 | (Gc)ec (Gc)ec | B2GF E4 ::
+"^Efter Hans Svensson, Agusa.""^C. E. Berndt." d2B2 B2cd | e2c2 c2e2 | (ge)ce (ge)ce | "^Stämförslag B.O." B2GF E4 :|
+

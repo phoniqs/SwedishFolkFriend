@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Linsell (Måndrömmen)
+C:Fritiof Mesch
+C:Fritjof Mesch
+O:Linsell, Härjedalen
+R:Polska
+N:Andra och tredjestämma finns här: https://www.spelmansforbundet.se/noter/Heimbygda-143.pdf
+N:Reprisen i "tvåan" verkar lite underlig.
+Z:Göran G
+M:3/4
+L:1/8
+K:C
+|: A2A>B c>e | (3edcB2A2 | E2G>B A>^F | (3G^F^D E4 | A2 A>B c>e | (3edc B2A2 | B2B>^d e>g | ^f>^de4 | 
+e2e>f g>a | f>e d>^c d2 | c2c>d e>f | d>c B4 | A2 A>B c>A |1 ^G>A B>G E2 | F2 F>G A>F | D>B, E4 :|
+|:2 G>F E>FG2 | E2E>^G A>D | (3DCB,  A,4 ::  C>E G>c e>c | Bc e>cG2 | f>d (3BdBG2 | (3cec GE FD | 
+C>E G>c e>c | Bc g>e dc | Bd g>d BG | (3Ac^F G4 | {g(a}(3g)^fg b>a fd | (3cBc (3edc G2 | 
+(3GBd (3g^fa g2 | (3Gce (3gc'g (3cde | (3fef (3c'af (3def | (3gc'g (3ege (3cde | (3faf (3dBd (3GAB | c2c4 :|
+

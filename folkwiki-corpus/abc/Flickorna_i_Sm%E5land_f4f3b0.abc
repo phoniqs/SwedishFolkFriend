@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Flickorna i Småland
+O:Småland
+C:Fridolf Lundberg
+R:Visa
+Z:Karin Helander
+M:4/4
+L:1/8
+K:D
+V:1
+A, | "D" F>F F>E D>"^Text: Karl Williams"D D>F | A2 A>B A2 z F | 
+w: På ling-on-rö-da tu-vor och på vil-lan-de mo där
+"A7" G>A G>F E>F E>D | C>D C>B, A,2 z A, | 
+w: fu-ru-sko-gen su-sar su-si-lull och su-si-lo. Där
+"D" F>F F>E D>D D>F | A>A A>B A2 z F | 
+w: kan du se dem, en och en och stund-om två och två, på
+"E7" ^G>G G>F E>E F>G | "A" A>c "E7" B>c "A" A2 A^G | 
+w: ling-on-rö-da tu-vor kom-ma dan-san-de på tå. Det är 
+"A7" =G>G GE A,A, CE | "D" D>A, DF A2 AA | 
+w: flic-kor-na i Små-land, det är fic-kor-na från mon. Det är
+"G" B>B B>c d>d c>B | "D" B>A A>F A2 A^G | 
+w: flic-kor-na som vall-mo-blom och lil-ja och pi-on. Det är
+"A7" =G>G GE A,A, CE | "D" D>A, DF A2 AA | 
+w:flic-korn-na i Små-land, su-si-lull och su-si-lo, som gå
+"G" B>B BG "A7" c>c cA | "D" d2 D>D D2 z2 |]
+w:val-lan-de och tral-lan-de på vil-lan-de mo.
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:3
+S:Lennart Thörn
+T:Elden är lös
+R:Polka
+O:Röke, Skåne
+%%score 1 2
+L:1/8
+M:2/4
+K:G
+V:1 treble nm="Violin Melodi" snm="Vln. Mel."
+V:2 treble nm="Violin 2" snm="Vln. 2"
+V:1
+"^Polka" Bd/B/ GA | BB/B/ BB | GB DF | AA/A/ AA | FA DF | dd/d/ d/^c/d/e/ |1 fe d>c | BB B z :|2 
+fe d>c | BB B z |: (Bd) (ba) | gg/g/ gg | (B"^Otydligt orginal"d) (gf) | ee/e/ ee | Ac/A/ FA | 
+Dd/d/ d/^c/d/e/ |1 fe d>c | BB B z :|2 fe d>F | GG G z |] 
+V:2
+GG B,D | G2 GG | D2 A,D | F2 FF | DF AD | F2 A>B |1 AG F>E | DD D z :|2 AD E>F | GG G z |: 
+(GB) (dc) | BB/B/ BB | (G[AB]) (ed) | cc/c/ cc | FA/F/ DF | F2 A>B |1 AG F>E | DD D z :|2 
+AD E>F | GG G z |] 
+

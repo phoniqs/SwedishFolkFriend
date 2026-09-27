@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Malung
+T:"Skvaltkvarnspolskan"
+C:Av S Bengtsson
+S:Efter Karl H Almlöf
+O:Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:92 04 04
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1""^\"Skvaltkvarnspolskan\"" D2 (G>A) B>c | d2 (g>d) B>d |{cB} c2 (e>c) A>G | (F/E/F) (AF) D2- | 
+D2 (G>A) B>c | d2 (g>d) B>d |{cB} c2 (e>c) A>G |{FGFE} F2 G3 z :: 
+e2 c>(e (3g)(fe) | d>B (G<B){B} d2 | (c>A) (F<A) D>F |{F} G>A (B<e) d2 | 
+e2 c>(e (3g)(fe) | d>B (G<B){B} d2 | (c>A) (F<A) D>F |{F} G2 G3 z :| 
+V:2
+|:"^2" B,2 (B,>D) G>A | B2 (d>B) G>B | A2 (c>A) F>E | D2 (FD) A,2- | 
+A,2 (B,>D) G>A | B2 (d>B) G>B | A2 (c>A) F>E | (DC) B,3 z :: 
+c2 G>(c (3e)(dc) | B>G (D<G){G} B2 | "^Efter. Karl H. Almlöf" (A>F)"^92 04 04  B.O." (D<F) A,>C | B,>D (G<c) B2 | 
+c2 G>(c (3e)(dc) | B>G (D<G){G} B2 | (A>F) (D<F) A,>C"^Stämförslag B.O." | B,2 B,3 z :|
+

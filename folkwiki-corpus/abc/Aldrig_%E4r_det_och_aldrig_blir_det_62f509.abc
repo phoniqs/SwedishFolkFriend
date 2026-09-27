@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Aldrig är det och aldrig blir det
+S:Röjås Erik Andersson
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^\"Aldrig är det och aldrig blir det...\"" A- |: A>(A d2) (e<g) | (f<a) g2T f>f | e>(e d)(d c>)c |1T BA/^G/ A3 A- :|2 BA/^G/ A3 A- |: 
+AB/c/ d2 F>F | G<B A2 E2- | E>F G>(G F>)F | G<B A3 A- | 
+AB/c/ d2 F>F | G<B A2 E>g |T fe/f/ gf/g/ a>g |1 e<c d3 A- :|2 e<c d3 z |] 
+V:2
+"^2" E- |: E>E F2 (A<c) | d<f e2 d>d | c>(c B)(B A>)A |1 ^GE/D/ C3 E :|2 ^GE/D/ C3 E- |: 
+EF/G/ F2 D>D | E<G F2 C2- | C>D E>(E D>)D | E<G E3 E- | 
+EF/G/ F2 D>D | E<G F2 C>e | dc/d/ ed/e/ c>B |1 A<E F3 E :|2"^Stämförslag B.O." c<A F3 z |]
+

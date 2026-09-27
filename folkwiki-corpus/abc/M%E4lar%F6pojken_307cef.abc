@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Mälaröpojken
+T:Hambopolska
+O:Upplands Väsby, Uppland
+R:Hambo
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+N:"Till vännen Gustav i Lundkulla, mälaröpojke i själ och hjärta..."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1""G" d^c/d/ (e>d) (B>G) | "^Till vännen Gustav i Lundkulla,""^mälaröpojke i själ och hjärta . . ." (D>B,) (G,>B,) (D>G) | BA/B/ (c>B) (A>G) | "Am" E2 C3 z |
+"D7" cB/c/ (d>c) (A>F) | (D>F) (A>d) (f>g) | (a>g) (f>e) (d>^c) | "G" (e>d) (B>G) D2 | 
+d^c/d/ (e>d) (B>G) | (D>B,) (G,>B,) (D>G) | (B>d) (c>B) (A>G) | "Am" E2 C3 z | 
+"D7" cB/c/ (d>c) (A>F) | (D>F) (A>d) (f>g) | (a>g) (f>g) (a>f) |"G" {f} g2 g3 z ::
+[K:C] "C" G>E C2 (E>G) | (c>B) (c>d) (c>B) |"Dm" A>F A,2 (D>F) | (A>^G) (A>B) (A>F) | 
+"G7" D>B, G,2 (B,>D) | (G>A) (B>c) (B>A) | (G>F) (D>B,) (D>F) |"C" (A>G) (G>E) C2 | 
+G>E C2 (E>G) | (c>B) (c>d) (c>B) | "Dm" A>F A,2 (C>F) | (A>^G) (A>B) (A>F) | 
+"G7" D>B, G,2 (B,>D) | (G>A) (B>c) (d>e) | (d>c) (B>c) (d>B) | "C" c2 c3 z ::
+[K:C] "C"G,>C C>E E>G | (G>c) c3 G | E>G G>c c>e | (e>g) g4 | 
+"G7"(f>g) (f>e) (d>c) | (B>A) G3 D | (B,>D) (G>A) (G>F) |"C" (F>E) (E>D) C2 | 
+G,>C C>E E>G | (G>c) c3 G | E>G G>c c>e | (e>g) g4 |
+"F" (a>g) (f>e) (f>a) | "C" (g>f) (e>d) (c>e) | "G7" (d>B) (G>A) (B>c) |"G7" (3(dBd)"C" c4 :|
+

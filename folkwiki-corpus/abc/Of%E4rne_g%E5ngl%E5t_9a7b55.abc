@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Ofärne gånglåt
+C:Janne Ellström
+O:Ofärne, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Janne Ellsström"
+L:1/8
+M:2/4
+K:Bb
+V:1
+"^1" F |: (D/F/)B/F/ (dc) | B3 G | (E/G/)B/G/ (ed) | c3 A | F>A cf | a2 a2 | (f/g/)f/e/ (dc) | d3 F | 
+(D/F/)B/F/ (dc) | B3 G | (E/G/)B/G/ (ed) | c3 A | F>A cf | a2 a2 | (f/g/)f/e/ (dc) |1 B3 F :|2 B3 b |: 
+(g/e/)B/G/ EG/B/ | e2 g2 | (f/d/)B/F/ DF/B/ | d2 f2 | (g/f/)e/d/ (c/B/)A/B/ | 
+(c/=B/)c/d/ (eg) | (g/f/)=e/g/ (fA) |1 (B/A/)B/d/ (f>b) :|2 (B/A/)B/c/ B2 |:
+[K:Eb] G2 (E>F) | G2 (A>c) | B2 (E>F) | G2 B,2 | A>G FE | F2 B,2 | G>F ED | CB, =A,B, | 
+G2 (E/D/)E/F/ | G2 (A>c) | B2 (E>F) | G2 B,2 | A>G FE | (Dc) B2 | (B/=A/)B/c/ (BD) | E2 E z :| 
+V:2
+"^2" D |: "Bb" (B,/D/)F/D/ (BF) | D3 E | "Cm" (C/E/)G/E/ (cG) | E3 F |"F7" A,>C FA | c2 c2 | (d/e/)d/c/ (BA) |"Bb" B3 D | 
+(B,/D/)F/D/ (BF) | D3 E |"Cm" (C/E/)G/E/ (cG) | E3 F | "F7" A,>C FA | c2 c2 | (d/e/)d/c/ (BF) |1"Bb" D3 D :|2"Bb" D3 g |: 
+"Eb" (e/B/)G/E/ B,E/G/ | B2 e2 | "Bb" (d/B/)F/D/ B,D/F/ | B2 d2 |"F7" (e/d/)c/B/ (A/G/)F/G/ | 
+(A/G/)A/B/ (ce) | (A/G/)A/B/ (AF) |1 "Bb" (D/C/)D/F/ (B>d) :|2 "Bb" (D/C/)D/E/ D2 |:
+[K:Eb] "Eb" E2 (G,>B,) | E2 (F>A) | G2 (G,>B,) | E2 G,2 | "Bb7"  F>E DC | D2 A,2 |"Eb" E>D CB, | 
+A,G, .G,.G, | E2 G,G,/B,/ | E2 (F>A) | G2 (G,>B,) | E2 G,2 | "Bb" F>E DC | (B,E) D2 | "^Stämförslag B.O."DD/E/ (DA,) | "Eb" G,2 G, z :|
+

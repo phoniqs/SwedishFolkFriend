@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Nås
+S:Efter E Eriksson
+S:Efter Hanises Erik
+O:Nås, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" A2 (3(aba) g>e | (f>e) (fa) g>f | d>(c (3d)ef g>f | d2 (e/f/)e/d/ c>A | 
+A2 (3(aba) g>e | (f>e) (fa) g>f | d>(c (3d)ef g>f |1 (e<c) d4 :|2 (e<c) d3 A |: 
+d2 (AB) G>A | FG EF D2 | A2 (3def g>f | d2 e/f/e/d/ c>A | 
+d2 AB G>A | FG EF D2 | A2 (3def g>f |1 e<c d3 A :|2 e<c d4 |] 
+V:2
+|:"^2" F2 (3fgf e>c | d>c (df) e>d | F>E (3FAd e>d | B2 c/d/c/B/ A>E | 
+F2 (3fgf e>c | d>c (df) e>d | F>E (3FGA B>A |1 G<E F4 :|2 G<E F3 D |: 
+A2 (FG) E>F | DE CD A,2 | F2 (3Bcd e>d | B2 c/d/c/B/ A>E | 
+A2 FG E>F | DE CD A,2 | D2 (3FGA B>A |1 G<E F3"^Stämförslag B.O." D :|2 G<E F4 |]
+

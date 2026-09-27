@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:981
+T:Ryska polskan
+T:(SvL Skåne 981)
+Z:"Gamla Dansar i Skåne. Ryska polskan (1) Efter Ola Persson  (1812-1889), Sjöbo. Sv.L. 981."
+B:Svenska Låtar Skåne Nr 981
+B:Gamla Dansar i Skåne
+S:Ola Persson
+O:Sjöbo, Skåne
+R:Polska
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" b | ba (g/f/)g/e/ | (cd) d |][K:D][M:2/4][K:treble]"^Dans" f |: fe/f/ ge | df Af | 
+fe/f/ gb | a2 A>f | fe/f/ ge | df Ab | ba (g/f/)g/e/ |1 (cd) d f :|2 (cd) d z |: 
+(d/f/)a/f/ dd | (d/f/)a/f/ dd | ba gf | f2 e2 | 
+(d/f/)a/f/ dd | (d/f/)a/f/ dd | ba (g/f/)g/e/ |1 (cd) d z :|2 (cd) d f/g/ |: 
+af/g/ af/g/ | af df/g/ | af/g/ ab/a/ | gA Af/g/ | 
+af/g/ af/g/ | af db | ba (g/f/)g/e/ |1 e2 d f/g/ :|2 e2 d z |] 
+V:2
+"^2" g | gf (e/^d/)e/c/ | (AF) F |][K:D][M:2/4][K:treble] d |: dc/d/ ec | Ad Fd | dc/d/ ed | 
+c2 E>d | dc/d/ ec | Ad Fg | gf (e/^d/)e/c/ |1 (AF) F d :|2 (AF) F z |: (F/d/)f/d/ FF | 
+(F/d/)f/d/ FF | gf ed | d2 c2 | (F/d/)f/d/ FF | (F/d/)f/d/ FF | gf (e/^d/)e/c/ |1 (AF) F z :|2 (AF) F d/e/ |: 
+fd/e/ fd/e/ | fd Fd/e/ | fd/e/"^Efter Ola Persson  (1812-1889), Sjöbo.""^Sv.L. 981." fg/f/ | eE Ed/e/ | 
+fd/e/ fd/e/ | fd Fg | gf (e/^d/)e/c/ |1 "^Stämförslag B.O." A2 F d/e/ :|2 A2 F z |]
+

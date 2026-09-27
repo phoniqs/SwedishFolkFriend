@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:17
+T:Fyrtur Nr 3
+T:(Gamla Dansar i Skåne)
+O:Brunnby, Skåne
+S:Ola Hansson
+R:Fyrtur
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Danser i Skåne. Fyrtur (3)"
+Z:"Efter Ola Hansson, Brunnby. C. E. Berndt."
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:F
+V:1
+"^1""^Förspel" (BB)Ag b2ag | (fe)de f2 z2 |]:[K:F][M:2/4][K:treble]"^Dans" (c=B)cA f2c2 | 
+(Ac)dc A2F2 | (BB)Ag b2ag | (fe)de f2 z2 :: (fe)fg A2A2 | 
+(Ac)fa (Ac)fa | (gf)gb e2e2 |1 (GB)eg f2 z2 :|2 (GB)eg f2 f_e |:
+[K:Bb] d2f2 b4 | (Bb)fd (Bf)dB | e2c2 a2>g2 |1 (fe)dc B2 fe :|2 (fe)dc B2 z2 |] 
+V:2
+"^2" (GG)Fe g2fe | (dc)Bc A2 z2 |]:[K:F][M:2/4][K:treble] (A^G)AF c2A2 | 
+(FA)BA F2C2 | (GG)Fe g2fe | (dc)Bc A2 z2 :: 
+(A^G)AB F2F2 | (FA)cf (FA)cf | (ed)eg c2c2 |1 (EG)cB A2 z2 :|2 (EG)cB A2 dc |:
+[K:Bb] B2"^Efter Ola Hansson, Brunnby.""^C. E. Berndt."d2 d4 | (Dd)BF (Dd)BF | c2A2 c2>B2 |1 (AG)FE D2 dc :|2"^Stämförslag B.O." (AG)FE D2 z2 |] 
+

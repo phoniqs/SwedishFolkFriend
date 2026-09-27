@@ -1,0 +1,33 @@
+%%abc-charset utf-8
+
+%abc-2.1
+%%beginps
+% small note head
+/shd{		% usage: x y shd
+	M 3 1.3 RM
+	-1 2.5 -6.5 0 -5.5 -2.5 RC
+	1 -2.5 6.5 0 5.5 2.5 RC fill}!
+%%endps
+%%deco head-shd 0 shd 0 0 0
+X:268
+T:Polska efter Magnus Olsson
+T:Sparve Lilla/Sparve Lelle
+S:efter Magnus Olsson
+O:Lycke, Arvika sn, Värmland
+R:Kort etta polska
+N:Se också YouTube
+N:Se också Discogs (Track 1)
+Z:Tom Glastonbury
+U:S=!head-shd!
+M:3/4
+L:1/8
+K:D
+v([ASD]|:a2) u([fSA]a) Mv[fSA]>ua | {va}g2 u([eSA]g) v[eSA]>ug | {vg}f2 u([dSD]f) (Pv[eSA]>c | [d2SD2]) {ue}f2 va/^g/f/ug/ |
+va2 u([fSA]a) Mv[fSA]>ua | {va}g2 u([eSA]g) v[eSA]>ug | {vg}f2 u([dSD]f) Pv[eSA]>ud | v(3cBc ud2 v([A2SD2] ::
+v[A2SD2]) u(df) Pve>uc | v[d2SD2] {ue}f2 va/^g/f/ug/ | Pva2 u(fd) Pv[eSA]>ud | {vc}d2 u(3efd v(e/c/A |
+[A2SD2]) u(df) Pve>uc | v[d2SD2] {ue}f2 va/^g/f/ug/ | Pva2 u(fd) Pve>ud | v(3cBc ud2 v([A2SD2] :|
+%%text
+%%text
+%%text Alternativ för takter 4, 10 och 14:
+|v[d2SD2] {ue}(fa) (3(v^ge)ug | y
+

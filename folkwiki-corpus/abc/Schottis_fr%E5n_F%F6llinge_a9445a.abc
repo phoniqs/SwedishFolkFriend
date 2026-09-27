@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Föllinge
+S:Erik Orsa
+S:A Wikman
+O:Föllinge, Jämtland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Föllinge (3) efter A. Wikman"
+Z:"Efter Erik Orsa, Ålviken"
+Z:"Passande dans: Löuvnässchottis efter Ernst Grip."
+L:1/16
+M:2/4
+K:D
+V:1
+|:"^1" f>gfe d2d2 | A>BAG F2F2 | E>ccc E>ccc | d>ddF A2A2 | 
+f>gfe d2d2 | A>BAG F2F2 | E>ccc E>ccc | d2d2 d4 ::
+[K:A] e>fed c>Ace | a>aae c2c2 | B>ggg B>ggg | a>aac e2e2 | 
+e>fed c>Ace | a>aae c2c2 | B>ggg B>ggg |1 a2a2 a4 :|1[K:D] a2a2 a2=g2 |] 
+V:2
+|:"^2" d>edA F2F2 | F>GFE D2D2 | C>EEE A,>EEE | F>FFD F2F2 | d>edA F2F2 | 
+F>GFE D2D2 | C>EEE A,>EEE | F2F2 F4 ::[K:A] c>dcB A>EAc | e>eec A2A2 | E>BBB E>BBB |
+ c>ccA A2A2 | c>dcB A>EAc | e>eec A2A2 | "^Stämförslag B.O." E>BBB E>BBB |1  c2c2 c4 :|2 [K:D] c2c2 c2B2 |]
+

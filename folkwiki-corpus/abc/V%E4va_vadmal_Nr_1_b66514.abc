@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:44
+T:Väva vadmal Nr 1
+T:(Gamla Dansar i Skåne)
+O:Skåne
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Väva vadmal (1). J. Enningers samlingar. Universitetsbibl. Lund."
+B:Gamla Dansar i Skåne
+L:1/8
+M:3/4
+K:A
+V:1
+"^1""^Förspel" B2 (EF) GE | A2 A2 z2 |]:[K:A][M:3/4][K:treble]"^Dans" B2 (EF) GE | 
+(AG) (AB) cA | B2 (EF) GE | A2 A2 z2 :: 
+.A>.A d2 (.d>.d) | .c.B cd cB | A>G A2 B2 | c2 A2 z2 :| 
+V:2
+"^2" G2 (B,C) DB, | C2 C2 z2 |]:[K:A][M:3/4][K:treble] G2 (B,C) DB, | 
+(CB,) (CD) EC | G2 (B,C) DB, | C2 C2 z2 ::
+"^J. Enningers samlingar. Universitetsbibl. Lund." .D>.D F2 (.F>.F) | .A.G AB AE | C>B, C2 D2 | "^Stämförslag B.O." E2 C2 z2 :|
+

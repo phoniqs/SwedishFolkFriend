@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Krantzes schottis
+S:Sven Forsén
+O:Meselefors, Vilhelmina, Lappland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Krantzés schottis efter Sven Forsén, Meselefors"
+L:1/16
+M:2/4
+K:G
+V:1
+"^1"u E |: ECEc E2>G2 | GB,DB D2>G2 | GFDF A2>G2 | GDGB d2>E2 | 
+ECEc E2>G2 | GB,DB D2>G2 | GFDF AcAF |1 A2G2 G2>E2 :|2 A2G2 G2>g2 |:
+gddB BDGB | dc (3(AcA) F2>ue2 | ec (3(AcA) F2>ue2 | ed (3(BdB) G2>ug2 | 
+gddB BDGB | dc (3(AcA) F2>ud2 | d2>A2 A2>D2 |1 DGB,D G,2>ug2 :|2 DGB,D G,3 z |] 
+V:2
+"^2"u C |:"C" CG,CE C2>B,2 |"G" B,G,B,G B,2>D2 |"D7" DCA,C F2>D2 |"G" DG,B,D G2>C2 | 
+"C" CG,CE C2>B,2 |"G" B,G,B,G B,2>D2 |"D7" DCA,C DFDC |1"G" C2B,2 B,2>C2 :|2"G" C2B,2 B,2>B2 |: 
+"G"BGGD DB,DG | "D7"BA (3(FAF) D2>uc2 | cA (3(FAF) D2>uc2 | "G"cB (3(GBG) D2>uB2 | 
+BGGD DB,DG | "D7"BA (3(FAF) D2>uF2 | F2>D2 D2>A,2 |1 "G"B,DG,B, D2>uB2 :|2 "G" B,DG,B,"^B.O." D3 z |] 
+

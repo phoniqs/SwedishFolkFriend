@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Äppelbo gånglåt
+S:Ärtbergs Kalle
+R:Gånglåt
+O:Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Ärtbergs Kalle."
+L:1/16
+M:2/4
+K:G
+V:1
+"^1" D2 |: G2GD (G2B2) | d6 (Bc) | d2dB d2de | c2cB A2AB | 
+c2cd e2dc | (Bc)BA G2FG | (AB)AF D2EF |1 G6 D2 :|2 G6 (Bd) |: 
+g2g2 g2(fe) | f2f2 f2(gf) | e2e2 (eg)(fe) | e2d^c d2=cB | 
+c2cB A2GA | (Bc)BA G2FG | (AB)AF D2EF |1 G6 (Bd) :|2 G6 z2 |] 
+V:2
+"^2" B,2 |: D2DB, (D2G2) | B6 (GA) | B2BG B2Bc | A2AG F2FG | 
+A2AB c2BA | (GA)GD B,2DE | (FG)FD A,2CD |1 B,6 B,2 :|2 B,6 (DG) |: 
+B2B2 B2(d^c) | d2A2 d2d2 | c2c2 (ce)(dc) | c2BA B2AG | 
+A2AG F2EF | (GA)GD B,2DE | (FG)FD A,2CD |1 B,6 (DG) :|2 B,6 z2 |]
+

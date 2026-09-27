@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:117
+T:"På 60-årsdagen"
+T:(Dalarnes Bergslag 117)
+C:Ingvar Norman
+B:Låtar från Dalarnes Bergslag Nr 117
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (B |: d>)(B G>)(A B>)c | de/f/ g2 b>B | c>(B A>c) e>c | G>(F G>B) d>B | 
+(F>G) (A>B) c>e | d>(c B>d) g>g | (f>e) (d>c) F>A |1 G2 G3 B :|2 G2 G4 |: 
+d>d g2 (Bd/B/) | G>(A B>c) e>d | A>(B c>d) f>e | (d>A) (Ac) cB | 
+d>d g2 (Bd/B/) | G>(A B>c) e>d | A>(B c>d) f>e | (dB) G4 :| 
+V:2
+"^2" (G |: "G" B>)(G D>)F G>A | Bc/d/ B2 d>G |"D7" A>(G F>A) A>F |"G" D>(C D>G) B>G | 
+"D7" (D>E) (F>G) A>c |"G" B>(A G>B) d>d |"D7" (c>A) (F>D) C>D |1"G" B,2 [B,D]3 G :|2 "G" B,2 [B,D]4 |:
+"G" B>B d2 (GB/G/) | D>(F G>A) c>B |"D7" F>(G A>B) d>c | (B>F) (FA) AG | 
+"G" B>B d2 (GB/G/) | "^Stämförslag B.O." D>(F G>A) c>B |"D7" F>(G A>B) c>A | "D7" (FD)"G" [B,D]4 :|
+

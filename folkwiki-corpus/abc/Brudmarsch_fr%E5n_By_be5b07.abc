@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från By
+C:Fredrik Wikström
+O:By, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:2/4
+K:G
+V:1
+"^1" (Bc) |: (dg)(ge) (ce)(ed) | B2D2 G2>B2 | A2ce F2Ad | G2A2 B2Bc | 
+(dg)(ge) (ce)(ed) | B2D2 G2>B2 | A2ce F2Ad |1 G6 (Bc) :|2 G6 (Bd) |: 
+c2A2 f2d2 | a2>(g2 fe)dc | c2A2 e2d2 | G6 (Bd) | 
+c2A2 f2d2 | a2>(g2 fe)dc | c2A2 e2d2 | G6 (Bd) | 
+c2F2 A2>c2 | B2D2 G2>F2 | (FA)(Ac) (ce)(ed) | B2D2 G2(Bd) | 
+c2F2 A2>c2 | B2D2 G2>B2 | A2ce F2Ad |1 G6 (Bd) :|2 G6 z2 |] 
+V:2
+"^2" (GA) |: (Be)(ec) (Gc)(cB) | G2B,2 D2>G2 | E2Ac D2FA | B,2D2 G2GA | 
+(Be)(ec) (Gc)(cB) | G2B,2 D2>G2 | E2Ac D2FA |1 [B,D]6 (GA) :|2 [B,D]6 (GB) |: 
+A2F2 d2A2 | f2>(e2 dc)BA | A2F2 A2F2 | [B,D]6 (GB) | 
+A2F2 d2A2 | f2>(e2 dc)BA | A2F2 A2F2 | [B,D]6 (GB) | 
+A2"^pizz.".[DA]2 F2>A2 | G2"^pizz.".[DA]2 D2>D2 | (DF)(FA) (Ac)(cB) | G2B,2 D2(GB) | 
+A2"^pizz.".[DA]2 F2>A2 | G2"^pizz.".[DA]2 D2>G2 | E2Ac D2FA |1 [B,D]6 (GB) :|2 "^Stämförslag B.O." [B,D]6 z2 |] 
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Furuboms polska
+T:(Ödegårdspolskan)
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad.
+L:1/8
+M:3/4
+K:C
+V:1
+"^1" (E |: A2) (AB) c>d | e2 e3 (c | B2) (Bd) c>B | (B>A) (AF) E>E | 
+A2 (AB) c>d | e2 e3 (c | B2) (Bd) c>B |1 (BA) A3 E :|2 (BA) A3 g- |: 
+g2 (ga) g>f | T (fe) e3 G- | G2 (GB) d>B | c>(B cd) e>f | 
+g2 (ga) g>f |T (fe) e3 G- | G2 (GB) d>B |1 {B} c2 c3 (g :|2{B} c2 c3 z |] 
+V:2
+"^2" (C |: "Am" E2) (E^G) A>B | c2 c3 (A | "E7" ^G2) (GB) A>G | "Am" (^G>E) (ED) C>C | 
+"Am" E2 (EG) A>B | c2 c3 (A | "E7" ^G2) (GB) A>G |1 "Am" (^GE) C3 C :|2 "Am" (^GE) C3 B- |: 
+"G7" B2 (Bc) B>A | "C" (AG) G3 D- | "G7" D2 (DG) B>F | "C" E>(D EG) c>A | 
+"G7" B2 (Bc) B>A | "C" (AG) G3 D- | "G7" D2"^Stämförslag B.O."  (DG) B>F |1 "C" E2 E3 B :|2 "C" E2 E3 z |]
+

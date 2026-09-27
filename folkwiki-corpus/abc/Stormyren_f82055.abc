@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Stormyren
+T:Polska
+C:Eric Sahlström
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+K:Gm
+V:1
+"^1"v (D2 |: G2)^FG A2GA{Bc} B2(AB) | c2Bc d6v d2- | d2ed c2dc{Bc} B2(AG) |1 
+A4 D6v D2 :|2 A4 D6 z2 |:v g2(g^f) (fa)af d4 | (ga)gf (af)af d2(Ac) | 
+ (BA)Bc d2D^F A2>c2 | (BA)G^F (G2D2) B,2G,2 | g2(g^f) (fa)af d4 | 
+ (ga)gf (af)af d2(Ac) | (BA)Bc d2D^F A2>c2 | (BA)G^F G8 :: 
+v G2Bd (gd)BG (DB,)G,B, |u (D2C2) (C=B,)CD E4 | F2Ac (fc)AF (=EF)Ac | u (d2A2) (BA)Bc d4 |
+ D2^FA (dA)FA (DF)Ac |u B2AG (^FG)AF D4 | (ga)g^f (g2d2) B2(AG) | (BA)G^F G8 :| 
+V:2
+"^2" (A,2 |:"Gm" B,2)A,B,"D7" C2B,C"Gm" D2(CD) |"Cm" E2DE"D7" ^F6 B2- | "Gm" B2cB"D7" A2BA"Gm" G2(^F=E) |1
+"D7" ^F4 A,6 A,2 :|2"D7" ^F4 A,6 z2 |: "Gm" B2(BA)"D7" (Ac)cA ^F4 |"Gm" (Bc)BA (cA)cA ^F2(FA) |
+"Gm" (G^F)GA "D7" F2A,D F2>A2 | "Gm" (DC)B,A, (B,2G2) D2B,2 | "Gm" B2(BA) "D7" (Ac)cA ^F4 | 
+"Gm" (Bc)BA "D7" (cA)cA ^F2(FA) |"Gm" (G^F)GA "D7" F2A,D F2>A2 | "D7" (DC)B,A, "Gm" B,8 :: 
+"Gm" B,2DG (BG)DB, (GD)B,D |"Cm" (B,2G,2) G,2G,B, C4 |"F" A,2CF (AF)CA, (G,A,)CF | "D7" (A2^F2) "Gm" (GF)GA B4 | 
+"D7" A,2D^F (AF)DF (A,D)FA |"Gm" G2DB, "D7" (A,B,)CA, A,4 |"Gm" (Bc)BA (B2G2) "^B.O." D2(CB,) |"D7" (DC)B,A, "Gm" B,8 :|
+

@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Oh Susanna
+O:USA
+R:Dans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Utländska danser. USA."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" G/A/ | BB AA | G3 |][K:G][M:2/4][K:treble]"^Dans" G/A/ |: Bd d>e | dB G>A | BB AG | 
+A3 G/A/ | Bd d>e | dB G>A | BB AA |1 G3 G/A/ :|2 G3 B |: 
+c2 c2 | e e2 e | dd BG | A3 G/A/ | 
+Bd d>e | dB G>A | BB AA |1 G3 B :|2 G3 z |] 
+V:2
+"^2" B,/D/ | GG DD | B,3 |][K:G][M:2/4][K:treble] B,/D/ |: GB B>c | BG D>F | GG FE | F3 E/F/ | 
+GB B>c | BG D>F | GG DD |1 B,3 B,/D/ :|2 B,3 D |: 
+"^Spelas som square-dans önskat antal ggr." E2 E2 | c c2 c | BB GD | F3 E/F/ | GB B>c | BG D>F | GG DD |1 "^Stämförslag B.O." B,3 D :|2 B,3 z |]
+

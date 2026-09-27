@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T:Jänta å ja
+O:Älvdalen, Dalarna
+R:Polska
+B:Spelmansmusik
+M:3/4
+L:1/8
+K:C
+|:"C"e2 dd/B/ c2|e2 dd/B/ c2|e2 dd "G"B>(d|"Am"c2) "D"A/^F/A/F/ "G"G2:|
+|:"C"G,2 g2 g2|{/a}g^f/g/ a>(g =f{gf})e|"G"de f2 f2|(g{ag})f ed dc|
+"Am"ce e2 e2|"Am"(eg) fe "D"dc|"G"B2 BG GB|"C"dc c4:|
+

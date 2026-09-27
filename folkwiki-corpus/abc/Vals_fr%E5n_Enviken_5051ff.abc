@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:55
+T:Vals från Enviken
+T:efter Edvard Söderlund
+S:Edvard Söderlund
+O:Enviken, Dalarna
+R:Vals
+B:KEF nr 55
+Z:[[Personer/Bengt Ohlson]]
+Z:"22. Vals från Enviken efter Edvard Söderlund. Jmf. K.E.F. nr. 55."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (DG) |: B>(c BA) GF | (ED) CB, A,2 | c>(d cB) AG | (GF) (AF) DG |
+B>(c BA) GF | (ED) CB, A,2 | c>(B AG) FA |1 G4 (DG) :|2G4 (EG) |:
+ B>(c BA) FA | (GA) (GF) EG | (Be) (^de) fa | (gf) (e^d) B2- |
+ B>(c BA) FA | (GA) (GF) EG | (Be) (^de) fg |1 e4 (EG) :|2 e4 g2 |: 
+b>(a gf) gb | a>(g fe) fa | g>(f e^d) eg | (f3 ^d) B2 | 
+(G>A) B2 AG | (F>G) A2 GF | (EG) (Be) ^df |1 e4 g2 :|2 e4 z2 |] 
+V:2
+"^2" (B,D) |: "G" G>(A GF) ED |"Am" (GF) ED C2 |"D7" A>(B AG) FE | (ED) (FD) A,D | 
+"G" G>(A GF) ED | "Am" (GF) ED C2 | "D7" A>(G FE) DC |1 "G" B,4 (B,D) :|2 "G" B,4 (B,E) |: 
+"Em" G>(A GF) ^DF | (EF) (EB,) G,E | "B7" (^DG) (AB) Ac | "Em" (BA) (GF) "B7" ^D2 | 
+"Em" G>(A GF) ^DF | EF (EB,) G,E |"B7" ^DG (AB) AB |1 "Em" G4 B,E :|2"Em" G4 e2 |:
+"Em" g>f e^d eg |"B7" f>e ^d^c df |"Em" e>B GF GB | "B7" A2 F2 ^D2 |
+"Em" E>F G2 FE |"B7" ^D>E F2 ED |"Em" B,E (GB) "B7" AA |1"Em" G4 e2 :|2 "Em" G4"^B.O." z2 |]
+

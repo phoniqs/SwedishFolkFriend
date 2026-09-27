@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Stånkabergspolskan
+C:Johan Hall
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Komp. och Arr. Johan Hall
+L:1/16
+M:3/4
+K:Eb
+V:1
+|:"^1" (G,B,)EG B2=AB (cB)AB | (A,C)FA c2=Bc (dc)Bc | (B,D)FB (df)af (dB)AF | (ED)EF (GA)=AB (cB)AB | 
+(G,B,)EG B2=AB cBAB | A,CFA c2=Bc (dc)Bc | (B,D)FB (df)af (dB)AF | (DB,)DF [G,E]6 z2 :: 
+(gc)=Bc (Gc)Bc (gc)Bc | (ac)=Bc (Ac)Bc (ac)Bc | (fB)=AB (_AB)=AB (fB)AB | (gB)=AB (GB)AB (gB)AB | 
+(ec)=Bc (Gc)Bc (ec)Bc | (fA)GA (BA)GA f4 | (g^f)ga (g=f)ed (ed)c=B | [Fd]4 [Ec]6 z2 ::
+[K:Ab] c2ec A2E2 C2A,2 | (B,=A,)B,C (DC)DE (FE)DB, | (G,B,)EG (Bd)BG (ED)B,G, | (A,C)EA (ce)cA E4 | 
+c2ec A2E2 C2A,2 | (B,=A,)B,C (DC)DE FEDB, | (G,B,)EG (Bd)BG (ED)B,G, | A,4 [CA]6 z2 :| 
+V:2
+|:"^2" (B,G,)B,E G2=FG (AG)FG | (CA,)CF A2GA (BA)GA | (A,B,)DF (Bd)fd (BA)FD | (GF)GD (EF)^FG (AG)FG |
+ (B,G,)B,E G2=FG (AG)FG | (CA,)CF A2GA (BA)GA | (A,B,)DF (Bd)fd (BA)FD | (B,A,)B,D [B,G]6 z2 :: 
+(eG)CG (eG)CG (eG)CG | (fA)CA (fA)CA (fA)CA | (dA)B,A (dA)B,A (dA)B,A | (eG)B,G (eG)B,G (eG)B,G | 
+(eG)CG (eG)CG (eG)CG | (ac)Fc (ac)Fc (ac)Fc | (ed)ef (ed)c=B (c_B)AG | [G,F]4 [G,E]6 z2 ::
+[K:Ab] A2cA E2C2 A,2C2 | (DC)DE (FE)FG (AG)FD | (B,G,)B,E (GB)GE (GF)DB, | (CA,)CE A(cA)E C4 | 
+A2cA E2C2 A,2C2 | (DC)DE (FE)FG (AG)FD | (B,G,)B,E (GB)GE (GF)DB, | C4 [A,E]6 z2 :|
+

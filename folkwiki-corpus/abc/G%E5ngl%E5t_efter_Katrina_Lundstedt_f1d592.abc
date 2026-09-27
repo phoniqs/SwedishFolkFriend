@@ -1,0 +1,32 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt efter Katrina Lundstedt
+T:"Stormarschen"
+R:Gånglåt
+S:Efter Katrina Lundstedt
+O:Ölsjön, Hassela, Hälsingland
+Z:Håkan Lidén, 2019-06-13 
+N:Nedtecknad 1986 av O'tôrgs-Kaisa Abrahamsson efter inspelning av Kalle Norin, gjord 1952
+N:Namnet "Stormarschen" kommer från Jan-Erik Lind
+N:Ackord och stämförslag av Håkan Lidén
+M:2/4
+L:1/8
+K:D
+V:1
+A | "D"d2 (d/c/)d/e/ | dA (G/F/)E/F/ | D>(g f/e/)f/g/ | fe/f/ (d/e/)f/g/ | 
+"D"a2 a^g/a/ | ba =gf | "A"e>f (e/d/)e/f/ | e2 (A/c/)e/c/ | "D"d2 (d/c/)d/e/ | 
+"D"dA (G/F/)E/F/ | D>(g f/e/)f/g/ | fe/f/ (d/e/)f/g/ | a2 a^g/a/ | ba =gf | 
+"A"e>f (e/d/)e/f/ | e3 f || "G"g2 B2 | (g/f/)g/a/ bg | "D"fe/f/ d2 | (d/c/)d/e/ (f/g/)a/f/ |
+"A"gf/g/ (A/c/)e/f/ | gf/g/ (A/c/)e/c/ | "D"(d/c/)d/e/ (f/g/)a/g/ | fe/f/ "D7"de/f/ | 
+"G"g>(a g/f/)g/a/ | bg gf/e/ | "D"f2 d2 | (d/c/)d/e/ (f/g/)a/f/ | "A"gf/g/ (A/c/)e/f/ | 
+"A"gf/g/ (A/c/)e/c/ | "D"d2 "A"(A/c/)se/c/ | "D"d3 |]
+V:2
+E | F2 (F/E/)F/G/ | FD A,B,/C/ | D>(B A/G/)A/B/ | AG/A/ (F/A/)d/e/ |
+f2 fe/f/ | gf ed | c>d (c/B/)c/d/ | c2 (E/A/)G/E/ | F2 (F/E/)F/G/ | 
+FD A,B,/C/ | D>(B A/G/)A/B/ | AG/A/ (F/A/)d/e/ | f2 fe/f/ | gf ed | 
+c>d (c/B/)c/d/ | c3 d || B2 G2 | (B/A/)B/d/ gB | AG/A/ F2 | (F/E/)F/A/ (d/e/)f/d/ |
+ed/e/ (E/A/)c/d/ | ed/e/ (E/A/)G/E/ | (F/E/)F/A/ (d/e/)f/e/ | dc/d/ =cB/A/ |
+B>=c (B/A/)B/d/ | gB BA/G/ | [DA]2 F2 | (F/E/)F/A/ (d/e/)f/d/ | ed/e/ (E/A/)c/d/ |
+ed/e/ (E/A/)G/E/ | F2 (A/G/)F/E/ | F3 |]
+

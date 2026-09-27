@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:125
+T:Polka efter Jons-Axel Nr 125
+C:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polka
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 125. Polka av Axel Eriksson"
+L:1/8
+Q:1/4=120
+M:2/4
+I:linebreak $
+K:G
+V:1
+|:"^1""G"v GB B/d/d |"D7" gf "^Av Axel Eriksson" A2 | FA A/c/c |"G" ed G2 | 
+GB B/d/d | "Am" Ac c/e/e |"D7" df f/a/a |"G" gg g z ::
+"G" v d/b/b d/g/g | B/d/d G2 |"D7" A/d/d F2 | "G" B/d/d G2 | 
+d/b/b d/g/g | B/d/d G2 |"D7" A/d/d f/a/a |"G" gg g z :| 
+V:2
+|:"^2" DG G/B/B | dc F2 | DF F/A/A | cB D2 | 
+DG G/B/B | EA A/c/c | FA A/c/c | BB B z ::
+Bd GB | (DG) B,2 | (FA) D2 | (DG) B,2 | 
+Bd GB | (DG) B,2 | "^Stämförslag B.O." FA Ac | BB B z :|
+

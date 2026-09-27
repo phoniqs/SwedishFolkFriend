@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X: 19
+T: Lapp-polska, forts.
+B: 21 Bjuråkerspolskor samlade och satta för piano af Jakob Adolf Hägg
+R: Polska
+O: Bjuråker, Hälsingland
+S:Efter Jakob Adolf Hägg
+Z: LP
+M: 3/4
+L: 1/8
+K: C
+V:1
+V:2 merge
+V:3
+V:4 merge
+V:1
+{ef}ed/c/ g2 e>d|fe fe fa|gB c4|
+V:2 
+z6|z6|z6|
+V:3  clef=bass
+C,2 z4|A,4 z2|z4 C,2|
+V:4  clef=bass
+z2[G,2C2E2][G,2C2E2]|z2 [C2F2] C2|[G,2F2] [C2E2] z2|
+

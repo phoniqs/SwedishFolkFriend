@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1375
+T:Polska efter Vilhelm Hedlund
+S:Vilhelm Hedlund
+O:Bingsjö, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Vilhelm Hedlund. Jmf. SL. nr 1375.
+L:1/8
+M:3/4
+K:Gm
+V:1
+|:"^1" (G,>G) (Bc/B/) G>B |({AB} A^F) G4 | (A>d) (fg/f/) d>f |({=ef} e^c) d4 :: 
+dd (ga/g/) (fg/f/) | (de/d/) (Bc/B/) A>D | G>G Ac{Bc} BG |{G} ^F2 D4 | 
+dd (ga/g/) (fg/f/) | (de/d/) (Bc/B/) A>D | G>G Ac{Bc} BG | ^F2 G4 :| 
+V:2
+|:"^2" (B,>D) G2 D>G |({^FG} FD) [B,D]4 | (^F>A) d2 A>d |({^cd} cA) [^FA]4 :: 
+GG (Bc/B/) (AB/A/) | (Bc/B/) (GA/G/) ^F>A, | B,>D ^FA GD | C2 A,4 | 
+GG (Bc/B/) (AB/A/) | (Bc/B/) (GA/G/) ^F>A, | B,>D ^F"^B.O."A GD | A,2 [B,D]4 :|
+

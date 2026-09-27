@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt efter Anders Höök
+R:Polka
+O:Undersvik, Hälsingland
+S:Anders Höök
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 38. Gånglåt  (polka)  efter Anders Höök"
+L:1/16
+Q:1/4=100
+M:2/4
+K:G
+V:1
+"^1"u (dc) |: B2g2 B2g2 | (gf)ed"^Undersvik" (cB)AB | c2a2 c2a2 | (ag)fe (dc)Bc | 
+d2g2 B2g2 | (gf)ed (cB)AB | c2a2 (ag)fa |1,8 g6 (dc) :|2 g6 (Bc) |: 
+(de)dc (Bc)Ac | (B2G2) (GF)GB | A2D2 E2F2 | (GF)GA (BA)Bc | 
+(de)dc (Bc)Ac | (B2G2) (GF)GB | A2D2 E2F2 |1 G6 (Bc) :|2 G6 z2 |: 
+[K:D]v f4 a4 | a2gf (g2c2) | e4 g4 | (ag)fe (f2d2) | 
+f4 a4 | (ba)gf (g2c2) | e4 a4 |1 d6 z2 :|2 d6 |] 
+V:2
+"^2" (BA) |: G2B2 G2B2 | (ed)cB (AG)FG | A2c2 A2c2 | (fe)dc (BA)GA | 
+G2B2 G2B2 | (ed)cB (AG)FG | A2c2 (cB)Ac |1,8 B6 (BA) :|2 B6 (GA) |: 
+(Bc)BA (GA)FA | (G2D2) (B,A,)B,G | F2A,2 C2D2 | (B,A,)B,D (GF)GA | 
+(Bc)BA (GA)FA | (G2D2) (B,A,)B,G | F2A,2 C2D2 |1 B,6 (GA) :|2 B,6 z2 |: 
+[K:D] d4 f4 | f2ed (e2A2) | c4 e4 | (fe)dc (d2A2) | 
+d4 f4 | (gf)ed (e2A2) | G4 E4 |1 F6 z2 :|2 "^B.O." F6 |]
+

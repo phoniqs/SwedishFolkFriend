@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:36
+T:Ritsch, ratsch
+R:Långdans
+O:Sverige
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sverige, Gillesdanser i Norden"
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:F
+V:1
+"^1""^Förspel" f2 cc/B/ | AA AB/A/ | GG GA/G/ | F4 |][K:F][M:2/4][K:treble]"^Dans" f2 cc/B/ | 
+AA AB/A/ | GG GA/G/ | FA c2 | f2 cc/B/ | AA AB/A/ | 
+GG GA/G/ | F3 A | A3 B | c3 d | cB Bc | 
+BA AA | A3 B | c3 f | e>e ee | f3 f |]: 
+f>d dd | dc cc | ee ee | gf ff | f>d dd | 
+dc cc | e>e ee |1 f2 z f :|2 f3 z |] 
+V:2
+"^2" A2 AA/G/ | FF FG/F/ | EE CB, | A,4 |][K:F][M:2/4][K:treble] A2 AA/G/ | FF FG/F/ | EE EC/B,/ | 
+A,F A2 | A2 AA/G/ | FF FG/F/ | EE EC/B,/ | A,3 F | F3 G | A3 B | AG GA | GF FF | F3 G | A3 d | 
+c>c BB | A3 d |]: d>B BB | "^Önskat antal ggr." BA AA | cc BB | BA AA | d>B BB | BA AA | c>c BB |1 "^Stämförslag B.O." A2 z d :|2 A3 z |]
+

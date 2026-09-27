@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Skepplanda
+S:Johan Larsson
+O:Skepplanda, Västergötland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Johan Larsson, Blinneberg
+Z:Uppt. Ingvar Norman
+Z:Arr. Rita Löveryd
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (d>g) g2 B>d | (d>c) (A"^Västergötland"B) GB | D2 (G>B) Bd | (dc) ce d2 | 
+(d>g) g2 B>d | (d>c) (AB) GB | D2 (GB) dc | (AF) G4 ::
+[K:D] A2 (F>A) A>d | (d>c) e>c A2 | A2 (c>e) e>g | (gf) af d2 | 
+A2 (F>A) A>d | (dc) ec A2 | A2 (c>e) a>c | (ce) d4 :| 
+V:2
+|:"^2" B,2 (B,>D) D>G | (G>E) (FG) DG | B,2 (D>G) GB | (AE) (EA) FD | B,2 (B,>D) D>G | 
+(G>E) (FG) DG | B,2 (B,D) FG | (FD) [B,D]4 ::[K:D] D2 (A,>D) F>A | (A>E) C>E C2 | E2 (E>A) G>E | 
+(DA) FA F2 |"^Uppt. Ingvar Norman.    Arr. Rita Löveryd." D2 (A,>D) F>A | (AE) CE C2 | 
+E2 (A>c) E>A | (EC) [A,F]4 :| 
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt av August Lund
+C:August Lund
+O:Husby, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:Av August Lund  (1872-1944)  Husby.
+L:1/8
+Q:1/4=86
+M:2/4
+K:F
+V:1
+"^1" F |: (A>B) AG/A/ | F2 FG/A/ | (B>c) BA/B/ | G2 (AB) | cd/c/ (AF) | 
+Bc/B/ (GE) |1 F2 (F/G/)A/F/ | C3 F :|2 F2 (E/F/)G/E/ | F3 B |: 
+d2 (d>d) | df ed | (dc) (c/=B/)c/d/ | c2 (dc) | (cB) (B/A/)B/c/ | 
+B2 (cB) | (A>c) (fd) | cF Ac | d2 (d>d) | df ed | (dc) (c/=B/)c/d/ | 
+c3 F | E>F GA | Bd cE | F2 (E/F/)G/E/ |1 F3 B :|2 F3 z |] 
+V:2
+"^2" A, |: (C>D) CB,/C/ | A,2 A,C/F/ | (D>E) DC/D/ | B,2 (DG) | AB/A/ (FC) | 
+EF/E/ CB, |1 A,2 (A,/B,/)C/A,/ | G,3 A, :|2 A,2 (G,/A,/)B,/G,/ | A,3 G |: 
+B2 (B>B) | Bd cB | (BA) (A/G/)A/B/ | A2 (BA) | (AG) (G/^F/)G/A/ | 
+G2 (AG) | (F>A) (dB) | AC FA | B2 (B>B) | Bd cB | (BA) (AG) | 
+[^FA]3 D | C>D EF | EG EC | A,2 (G,/A,/)B,/G,/ |1 A,3 G :|2 A,3"^B.O." z |] 
+

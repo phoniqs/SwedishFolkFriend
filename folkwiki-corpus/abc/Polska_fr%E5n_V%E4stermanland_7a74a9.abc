@@ -1,0 +1,32 @@
+%%abc-charset utf-8
+
+X:23
+T:Polska från Västermanland
+T:Svenska Folkdansar H4 nr 22
+O:Västermanland
+B:Traditioner av Svenska Folkdansar Häfte 4, nr 22
+R:Polska
+Z:Martin Dahlgren
+U:w=wedge
+U:t=tenuto
+%%score 1 2
+L:1/16
+M:3/4
+K:G
+V:1 treble nm="Violin" snm="Vln."
+V:2 treble nm="Viola" snm="Vla."
+V:1
+f4 agfe d4 | egfg fedc B4 | B2AB c2Bc d2B2 | B2AB cBAG GFED | 
+B2B2 B2AB c2Bc | d2d2 c2Ac B2G2 | B2B2 B2AB c2Bc | d2d2 c2Ac B2G2 |
+dcBA GABc defg | f2ef agfe d4 | egfg agfe d2c2 | BAGF G4 G,4 :: 
+AGFE D2F2 A2d2 | f2a2 agfe d4 | e2fg f2ga g2ab | agfe ^d2e2 f2B2 |
+fBfB gBgB fBfB | aBaB gBgB fBfB | fBfB gBgB fBfB | aBaB gBgB fBfB |
+ga/g/fg bagf g4 | fe^df e4 E4 | g2fe d2c2 B2e2 | d2>c2 B2AG F2ED |
+V:2
+d4 fedc B4 | cede dcGA G4 | G2DG A2GA B2G2 | G2EG AGEE EDCG, |
+g2g2 g2dg a2ga | d2f2 a2fa g2d2 | d2g2 g2dg a2ga | d2f2 a2fa g2d2 | 
+BAGD EDGA BGde | d2cd fedc B4 | cede cedc A2A2 | GDED B,4 G,4 :: 
+DEDB, B,2D2 F2B2 | d2f2 fedc B4 | c2de d2ec e2cg | eedc c2c2 d2B2 |
+^dBdB BBdB dBdB | eGeG eGeG ^dBdB | ^dBdB dBdB dBdB | eGeG eGeG dBdB |
+ed/e/de gded e4 | dccd G4 E4 | e2dB B2A2 G2G2 | A2>A2 D2FE D2CD |
+

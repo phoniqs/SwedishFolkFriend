@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Afton vid Norn
+T:Vispolska
+C:Erik Olsson
+O:Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Vispolska av Erik Olsson, Hedemora."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" Bg/f/ e^d/f/ eB | Ge/c/ (BA) GF | EG/B/ eg/e/ (b/a/)(g/f/) | B^d/f/ ag f2 | 
+ Bg/f/ e^d/f/ eB | Ge/c/ (BA) GF | GB/G/ Ac/A/ B(^d/f/) | (b/a/)g/f/ e4 ::
+ gg ag/a/ bd | bb ab/a/ gB | gg fg/f/ ec | (E/G/)c/e/ gf/e/ d2 | 
+aa ga/g/ fd | gg eg/e/ dB | (D/F/)A/c/ fe/d/ cF | BA/F/ G4 :| 
+V:2
+|:"^2" "Em"GB/A/ GF/A/ GE | B,B/A/ (GF)"B7" E^D |"Em" B,E/G/ Be/B/ (g/f/)(e/^d/) | "B7" FB/^d/ fe d2 | 
+"Em" GB/A/ GF/A/ GE | B,B/A/ (GF) "B7" E^D |"Em" EG/E/ "Am" FA/F/ "B7" ^D(F/A/) | "B7" (^d/c/)B/A/ "Em" G4 :: 
+"G" BB "D7" cB/c/ "G" dB | "G" dd "D7"cd/c/ "G" BG |"G" BB"D7" AB/A/"C" GE |"C" (C/E/)G/c/ ed/c/"G" B2 |
+"D7" cc Bc/B/ AF | "G" BB ce/c/ BD | "D7" (A,/D/)F/A/"^Stämförslag B.O." cA/F/ DC |"D7" DC/A,/"G" B,4 :|
+

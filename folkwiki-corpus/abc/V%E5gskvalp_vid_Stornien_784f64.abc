@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Vågskvalp vid Stornien
+C:Erik Nordell
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Arr. Ingemar Andersson
+L:1/16
+M:3/4
+I:linebreak $
+K:Bb
+V:1
+|:"^1" B2FB d2Bd f2b2 | (fe)d"^Polska"c (dc)BA B2F2 | (B,F)(dF) (B,F)(dF) (B,F)(dF) | (EB)(gB) (EB)(gB) (EB)(gB) | 
+(CG)(eG) (CG)(eG) (CG)(eG) | (DB)(fB) (DB)(fB) (DB)(fB) | b2fe (d2f2) c2e2 | (dc)Ac [DB]4 z4 :: 
+(B,D)FB (dc)BA [DB]4 | (EG)Be (gb)ag (g2f2) | (eg)(ge) (ce)(ec) A2(cA) | (Bd)(dB) (FB)(BF) D2(FD) | 
+B,2DF B2F2 (dB)FD | E2GB e2B2 (ge)BG | F2Ac e2f2 (ag)fe | (de)Ac [DB]4 z4 :: 
+(fd)BF (dB)FD (BF)(DB,) | (A,F)(cF) (A,F)(cF) (A,F)(cF) | (ge)cA (ec)AF (cA)(FE) | (DB)(fB) (DB)(fB) (DB)(fB) | 
+(bf)dB (fd)BF (dB)(FD) | (CG)(eG) (CG)(eG) (CG)(eG) | (ge)cA (ec)"^Arr. Ingemar Andersson"AF (EF)Ac | [DB]4 [db]4 z4 :| 
+V:2
+|:"^2" D2B,D F2DF B2d2 | (dc)BA (BF)DE F2D2 | (D_A)(BA) (DA)(BA) (DA)(BA) | (B,G)(eG) (B,G)(eG) (B,G)(eG) |
+ (G,E)cE (G,E)(cE) (G,E)(cE) | (B,F)(dF) (B,F)(dF) (B,F)(dF) | f2dc (B2d2) A2c2 | (BF)DE [B,F]4 z4 ::
+ (FB,)DF (BF)DE [B,F]4 | (G,B,)EG (Bg)fe (e2d2) | (ce)(ec) (Ac)(cA) F2(AF) | (FB)(BF) (DF)(FD) B,2(DB,) |
+ D2B,D F2D2 (BF)DB, | G,2B,E G2E2 (eB)GE | (CE)FA c2e2 (fe)cA | (FG)DE [B,F]4 z4 :: 
+(dB)FD (BF)DB, (FD)(B,D) | (CE)AE (CE)(AE) (CE)(AE) | (ec)AF (cA)FE (AF)(EC) | (B,F)(dF) (B,F)(dF) (B,F)(dF) |
+ (fd)BF (dB)FD (BF)(DB,) | (G,E)(cE) (G,E)(cE) (G,E)(cE) | (ec)AF (cA)FE (CE)FA | [B,F]4 [Bf]4 z4 :|
+

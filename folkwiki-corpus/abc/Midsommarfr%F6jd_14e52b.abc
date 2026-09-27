@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Midsommarfröjd
+T:Schottis
+C:Karl Ivar Pettersson
+O:Hedemora, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Karl Ivar Pettersson, Hedemora."
+Z:"Från CD."
+L:1/16
+M:2/4
+K:D
+V:1
+|:"^1" Adfg f2f2 | Adfg f2>g2 | f2e2 e2>b2 | b2a2 a4 | Adfg f2f2 | 
+Adfg f2>g2 | f2e2 egfe | d2f2 d2 z2 :: b2ba g2g2 | a2ag f2f2 | (ef)gf (eg)fe | 
+(de)fg a4 | b2ba g2g2 | a2ag f2f2 | (ef)gf (eg)fe | d2f2 d2 z2 :| 
+Adfg f2f2 | Adfg f2>g2 | f2e2 e2>b2 | b2a2 a4 | Adfg f2f2 | Adfg f2>g2 | 
+f2e2 egfe | d2f2 d2 z2 |]:[K:G] gdBd g2g2 | aece a2a2 | (df)af (df)af | 
+g2b2 b4 | gdBd g2g2 | aece a2a2 | (df)af (df)af | g2g2 g2 z2 :|
+V:2
+|:"^2""D" FAde d2d2 | FAde d2>e2 |"A7" d2c2 c2>g2 |"D" g2f2 f4 | FAde d2d2 | FAde d2>e2 | 
+"A7" d2c2 cecA |"D" F2A2 F2 z2 ::"G" d2dc B2B2 |"D" d2dB A2A2 |"A7" cded (cB)AG | 
+"D" (FA)d^c"D7" =c4 |"G" d2dc B2B2 |"D" d2dB A2A2 |"A7" (cd)ed (cB)AG |"D" F2A2 F2 z2 :| 
+"D" FAde d2d2 | FAde d2>e2 |"A7" d2c2 c2>g2 |"D" g2f2 f4 | FAde d2d2 | FAde d2>e2 | 
+"A7" d2c2 cecA |"D" F2A2 F2 z2 |]:[K:G]"G" dBGB d2d2 |"Am" ecAc e2e2 |"D7" (Ac)fc (Ac)fc | 
+"G" B2d2 d4 | dBGB d2d2 |"Am" ecAc e2e2 |"D7" (Ac)"^Stämförslag B.O."fc (Ac)fc |"G"  B2B2 B2 z2 :|
+

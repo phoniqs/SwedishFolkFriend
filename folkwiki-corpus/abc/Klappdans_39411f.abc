@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:58
+T:Klappdans
+T:(Sv Folkdanser Del 1)
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 58. Klappdans"
+Z:http://runeberg.org/folkdans/besk/0063.html
+Z:"Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 58
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" c'c' c'/b/a | bb b/a/g | aa (g/f/)e/f/ | gg g z |: 
+[K:G][M:2/4]"^Dans" BB/c/ (B/A/)B/c/ | dd/e/ d2 | db a2 | ca g2 |
+ BB/c/ (B/A/)B/c/ | dd/e/ d2 | db ca | gg g z :: 
+b2 g>e | dd d2 | b2 g>e | dd d2 | 
+c'c' c'/b/a | bb b/a/g | aa (g/f/)e/f/ | gg g z :| 
+V:2
+"^2" "C"ee e/d/c | "G"dd d/c/B |"D7" cc (B/A/)G/A/ |"G" BB B z |:
+[K:G][M:2/4] "G" GG/A/ (G/F/)G/A/ | BB/c/ B2 | "G"Bd "D7" c2 | "D7" Ac "G" B2 | 
+"G" GG/A/ (G/F/)G/A/ | BB/c/ B2 |"G" Bd"D7" Ac | "G" BB B z ::
+"G" d2 B>c | "^Spelas önskat ant. ggr." BB B2 | d2 B>c | BB B2 |
+"C" ee e/d/c | "G" d"^Stämförslag B.O."d d/c/B |"D7"  cc (B/A/)G/A/ |"G"  BB B z :|
+

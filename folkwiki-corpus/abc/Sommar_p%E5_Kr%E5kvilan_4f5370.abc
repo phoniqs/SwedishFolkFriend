@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Sommar på Kråkvilan
+T:Vals
+R:Vals
+O:Upplands Väsby, Uppland
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+N:"Kråkvilan är en roslagsidyll där goda vänner möts till glada upptåg om sommaren..."
+L:1/8
+M:3/4
+K:Bb
+V:1
+|:"^1" B,2 D2 F2 |  B2 d2 f2 | b2 a2 g2 | f4 d2 | e2 (BG) Be |   d2 (BF) Bd |  (dc) (AF) Ac | (B2{Bc)} (AG) F2 | 
+B,2 D2 F2 | B2 d2 f2 | b2 a2 g2 | f4 d2 | e2 (BG) Be | d2 (BF) Bd | (dc) (AF) A"^da"c |1,8 !coda!  B6 :|2 
+B4 d2 |: [K:F] (dc) (=Bc) AF | (A,C) (FA) cA | (BG) (EB) GE | (FA,) (CF) Ac | 
+"^Kråkvilan är en roslagsidyll där goda vänner""^möts till glada upptåg om sommaren . . ." (dc) (=Bc) AF | A,2 (CF) Ac | (BG) (EB) GE |1 F4 c2 :|2,8 F3 _E(DC) |]
+[K:Bb] G2 B2 d2 | B3 A G2 | (D^F) (AD) FA | (de) (dc) BA | G2 B2 d2 | B3 A G2 |(D^F) (AD) FA | G6 | 
+G2 B2 d2 | B3 A G2 | (D^F) (AD) (FA) | (de) (dc) BA | G2 B2 d2 | g3 a b2 | a2 ^f2 f2 | g6 |] 
+V:2
+|:"^2""Bb" D2 F2 B2 | F2 B2 d2 |"Eb" g2 f2 e2 |"Bb" d4 B2 |"Eb" G2 EB, EG |"Bb" F2 DB, DF | 
+"F7" BA FC FE |"Bb" D2 FE DC | D2 F2 B2 | F2 B2 d2 |"Eb" g2 f2 e2 |"Bb" d4 B2 | 
+"Eb" G2 EB, EG |"Bb" F2 DB, DF |"F7" FE CA, CE |1,8"Bb" !fine! D6 :|2
+"Bb" D4 B2 |:[K:F]"F" BA ^GA FC | CF Ac fc | "C7" GE CE CG, | "F" A,C FA cf | BA ^GA FC | C2 FA cf | "C7" GE CE CG, |1 "F" A,4 A2 :|2,8 "F" A,3 !D.C.! CB,A, |] 
+[K:Bb]"Gm" B,2 !coda! D2 G2 | D3 C B,2 |"D7" A,D ^FA, CD | ^FG FE DC |"Gm" B,2 D2 G2 | D3 C B,2 | 
+"D7" A,D ^FA, CD |"Gm" B,6 | B,2 D2 G2 | D3 C B,2 |"G7" A,D ^FA, CD | ^FG FE DC | 
+"Gm" B,2 D2 G2 | "^B.O." B3 c d2 |"D7" c2 A2 A2 |"Gm" !D.C.! B6 |]
+

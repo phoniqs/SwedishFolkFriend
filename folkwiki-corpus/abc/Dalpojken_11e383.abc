@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T:Dalpojken
+R:Hambo
+O:Leksand, Dalarna
+B:Spelmansmusik
+M:3/4
+L:1/8
+K:D
+"D"{fg}a2 a>(g b)a|"D"(a{ba})f de fg|"A"(3age c(e g)(b|"D"a{ba})(f d)e fg|
+"D"{fg}a2 a>(g b)a|"D"(a{ba})f de fg|"A"(3age c>b ac|"D"d2 d2 z2:|
+|:"D"f2 (f>g/f//) ef|"G"(g>a/g//) B3 (B|"A"A>)B c>(d e>)(c|"D"d)e fg a>(g|
+"D"f2) f>g/f// e(f|"G"g>a/g//) B3 (B|"A"A>)B c(d e)(c|"D"d2) d2 z2:|
+

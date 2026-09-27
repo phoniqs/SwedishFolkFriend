@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:69
+T:Polska från Frösön
+T:(Polska efter Jons-Axel Nr 69)
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polska
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 69. Polska från Frösön"
+L:1/8
+Q:1/4=112
+M:3/4
+K:G
+V:1
+|:"^1""G"v B2({BcB} AB) e>d |"D7" (d>c) (c>A) A>G | (FA) (cd) fa |"G" g2 de d2 | 
+B2({BcB} AB) e>d |"D7" (d>c) (c>A) A>G | (FA) (cd) fa |"G" g2 [Bg]2 z2 ::
+"G" gb (ba) g2 | "Am" gf (fe) c2 |"D7" (ce) (ed) cA |"G" G2 Bd g2 | 
+gb (ba) g2 |"Am" gf (fe) c2 | "D7" (ed) (dc) FA |"G" G2 [Bg]2 z2 :| 
+V:2
+|:"^2" G2 (FG) c>B | (B>A) (A>F) F>D | (CD) (FA) cd | B2 Bc B2 | 
+G2 (FG) c>B | (B>A) (A>F) F>D | (CD) (FA) cd | B2 [DB]2 z2 :: 
+Bd (dc) B2 | ed (dc) A2 | (FA) (AG) FD | B,2 DG B2 | 
+Bd (dc) B2 | ed (dc) A2 | "^Stämförslag B.O." (AF) (FD) CD | B,2 [B,G]2 z2 :|
+

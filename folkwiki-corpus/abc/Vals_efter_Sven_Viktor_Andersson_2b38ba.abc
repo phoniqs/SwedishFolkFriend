@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:309
+T:Vals efter Sven Viktor Andersson
+T:(OA 309)
+B:Sörmländska låtar samlade av Olof Andersson nr 309
+R:Vals
+S:Efter Sven Viktor Andersson
+O:Täbylund, Åker, Södermanland
+Z:Anders Larsson 2025-06-12
+M:3/4
+L:1/4
+Q:140
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+G2 B/c/ |: d d/d/ d/d/ | (B/c/) B/A/ B/c/ | d d/d/ d/d/ |  (B/c/) B/A/ B/c/ | d d/d/ d/d/ | g2 f/f/ |
+(f/e/) e/e/ e/e/ |  (e/d/) d/d/ d/d/ | (d/^c/) c/c/ c/c/ | (e/d/) d/d/ d/d/ |1 d2 B/c/ :|2  d2 z |:
+d (d/f/) a | (a/g/) (g/b/) b | d (d/e/) d/c/ |  (B/G/) (B/d/) g | g f/f/ f/f/ | (a/f/) d/f/ a/b/ | (a/g/) g/g/ g/g/ |  g2 z :|
+

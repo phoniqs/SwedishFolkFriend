@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Marsch från Ore
+S:Timas Anders Hansson
+O:Ore, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Timas Anders, Ore. (Trad. [[Personer/Ingvar Norman]])."
+L:1/16
+M:2/4
+K:D
+V:1
+|:"^1" a2bg (fa)ge | (dc)df A2>ud2 | (cd)ef (gf)ge |({de} dc)de (f2g2) | 
+a2bg (fa)ge | (dc)df A2>ud2 | (cd)ef (gf)ec | e4 d4 :: 
+(f/g/f/e/)d2 (f/g/f/e/)d2 | f2f2({g} fe)(fa) | a2g2 (ga)(gf) | e6 x2 | 
+e2Ac e2Ac | e2ed (c2b2) | a4({b} af)ge | d8 :| 
+V:2
+|:"^2" c2dB A2BG | F2FA F2>uB2 | A2cd c2BA | F2FA (d2e2) | 
+c2dB A2BG | F2FA F2>uB2 | A2cd c2AF | G4 F4 :: 
+d2A2 A2F2 | d2A2 A2d2 | f2e2 e2(ed) | c6 (EA) | 
+c2EA c2EA | c2cB (A2d2) | c4 c2BG | "^B.O." F8 :|
+

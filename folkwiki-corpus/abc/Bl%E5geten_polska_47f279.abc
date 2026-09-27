@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:62
+T:Blågeten polska
+O:Ore, Dalarna
+R:Polska
+S:Hans Dalfors
+S:Peter Westerlund
+N:Från Blue Rose, Karen Myers #2453. "Blågetan"
+M:3/4
+L:1/8
+K:Am
+A2 {/B}A2 B>B|(c<B) d2 B>G|{/G}A2 A4|e2 {/[^fd]}e2 f>f|g<^f {/f}a2 f>d|{/d}e2 e4:|
+|:e2 {/fg}a2 e>f|e2 (d>B) c>A|(Bc) [BE]4|{/B}A>(B A2) {/A}B>B|(ce) d2 B>B|{/cB}c2 (e<d) TB>G|{G}A2 A4:|
+

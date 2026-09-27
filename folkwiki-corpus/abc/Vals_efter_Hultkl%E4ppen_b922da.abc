@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:10
+T:Vals efter Hultkläppen
+S:Hultkläppen
+O:Bergsjö, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Jmf. Sv.L. nr. 10 och 236."
+B:Ny samling spelmanslåtar från Hälsingland Nr 22
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1"u A2 |:v d2 (d^c) de | f2 (e2 ^c2) | A3 A^ce | a3 gfe | d2 (d^c) de | f2 e2 df | e4 ^c2 | 
+A4 A2 | d2 (d^c) de | f2 (e2 ^c2) | A3 A^ce | a3 gfe | (d^c) de f2 | (ea) (A^c) ec | d3 ed^c |1 
+d4u A2 :|2,8 d4u e2 |: v f2 (fe) fa | c2 c=B c2 | f2 (fe) fa | (c'3 b) a2 | (ab) ba g2 | 
+(ga) ag f2 | (ef) (gf) ed | (cd) (cB) Ac | f2 (fe) fa | c2 c=B c2 | f2 (fe) fa | (c'3 b) a2 | 
+(ab) ba g2 | (ga) ag f2 | (ef) (gc) de |1 f4u e2 :|2,8 f4u a2 |:v c3 dcB | AG F2 A2 | 
+GE C2 (EG) | (FE) (FG) Af | c3 dcB | AG F2 A2 | GE C2 (EG) |1,8 F4u a2 :|2 F4 |] 
+V:2
+"^2" E2 |:"Dm" F2 (FE) FG |"A7" A2 (G2 E2) | ^C2 (E2 A2) | ^c2 (A2 G2) |"Dm" F2 (FE) FG | 
+A2 G2 FA |"A7" G2 (F2 E2) | ^C2 (AG) FE |"Dm" F2 (FE) FG |"A7" A2 (G2 E2) | ^C2 (E2 A2) | 
+^c2 (A2 G2) |"Dm" F2 FG A2 |"A7" G2 (EG) AG |"Dm" F3 GFE |1"Dm" F4 E2 :|2,8"Dm" F4 G2 |: 
+"F" A2 (A^G) Ac | A2 A^G A2 | A2 (A^G) Ac | (f3 d) c2 |"C7" (cd) dc B2 |"F" (Bc) cB A2 | 
+"C7" (GA) (BA) GF | (EF) (ED) CE |"F" A2 (A^G) Ac | A2 A^G A2 | A2 (A^G) Ac | (f3 d) c2 | 
+"C7" (cd) dc B2 |"F" (Bc) cB A2 |"C7" (GA) (BE) FG |1"F" A4 G2 :|2,8"F" A4 c2 |:"F" A3 BAG | 
+FC A,2 F2 |"C7" EC G,2 (B,C) |"F" (A,G,) (A,C) FG | A3 BAG | "^Stämförslag B.O." FC A,2 F2 |"C7" EC G,2 (B,C) |1,8 "F" A,4 c2 :|2"F" A,4 |]
+

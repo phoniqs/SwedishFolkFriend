@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:14
+T:Sammels Jon-Eriks polska
+S:Jon-Erik Quick
+S:Katrina Lundstedt
+S:Otôrgs-KaisaAbrahamsson
+O:Hassela, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA. 14. Polska eft. Jon-Erik Quick (Sammels Jon-Erik), Hassela"
+Z:"Uppt. OKA -86"
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" D2u G2u G2 | GA B2 G2 | B2 A2 FA | G2 (EG) FE | 
+D2u d2u d2 | de f2 d2 | (ef) g2 ^ce | (ed) d3 z :: 
+(dc) (Bc) dB | (cB) (AB) cA | (Bd) (cB) AG | (FG) AF D2 | 
+(dc) (Bc) dB | (cB) (AB) cA | (Bd) (cB) AG | (FG) AF D2 | 
+D2 (G2 B2) | d2 (c/B/)c/d/ ec | (Bd) (cB) AG | FE/F/ G3 z :| 
+V:2
+|:"^2" B,2 D2 D2 | DF G2 D2 | G2 F2 DF | E2 (CE) DC | 
+A,2 F2 F2 | FG A2 F2 | (GA) B2 EG | (GF) F3 z :: 
+(BA) (GA) BG | (AG) (FG) AF | (GB) (AG) FE | (DE) FD A,2 | 
+(BG) (DG) BG | (AF) (DF) AF | (GB) (AG) FE | (DE) FD A,2 | 
+B,2 (D2 G2) | B2 (A/G/)A/B/ cA | "^Uppt. OKA -86. Stämförslag B.O. -08." (GB) (AG) FE | (DC) B,3 z :|
+

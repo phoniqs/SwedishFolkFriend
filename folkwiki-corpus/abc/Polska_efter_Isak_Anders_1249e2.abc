@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Isak Anders
+S:Efter [[Personer/Isak Anders]] Persson
+O:Älvdalen, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (3BdB G>(G B>)d | (^c<e) d>(=c A>)d | (3BdB G(G B>)d |1 (^c<e) d4 :|2 (^c<e) d3 a |: 
+(3faf d(d f>)a | (3geg (f/a/)f/d/ e>A | d<f d2 d2 | (3faf d(d f>)a | 
+(3geg (f/a/)f/d/ e>A | d<f d2 d2 | cA/c/ (B/d/)B/G/ A>A |1 (G<B) G3 a :|2 (G<B) G4 |] 
+V:2
+|:"^2" (3GBG D>(D G>)B | (A<^c) B>(A F>)B | (3GBG D(D G>)B |1 (A<^c) F4 :|2 (A<^c) F3 f |: 
+(3dfd A(A d>)f | (3e^ce (d/f/)d/A/ c>E | F<A F2 F2 | (3dfd A(A d>)f | 
+(3e^ce (d/f/)d/A/ c>E | F<A F2 F2 | AF/A/ (G/B/)G/D/ F>D |1 (B,<D) B,3 f"^Stämförslag B.O." :|2 (B,<D) B,4 |]
+

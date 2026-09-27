@@ -1,0 +1,10 @@
+%%abc-charset utf-8
+
+X:1
+T:Partekpolska CODA
+M:3/4
+L:1/8
+K:Am
+|"C" e(e/^f/ g)(e f)d |"D" ^ff (a^g) e2 | "Am" e(e/^f/ g)(e f)d |"no chord" e/c e/B e/_B e/Az |"C"z(e/^f/ g)(e f)d | "D"^ff (a^g) e2| "no chord" 
+a/g/f/e/ d/c/B/A/ G/A/B/G/ | "Bbmaj7" AA3z2 | "C6" AA3z2 | "D" A/"D" A/ z6 ||
+

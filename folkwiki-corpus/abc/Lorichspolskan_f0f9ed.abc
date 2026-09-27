@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Lorichspolskan
+S:Efter [[Personer/Gössa Anders]] Andersson
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1""^\"Lorichspolskan\"" D2 G>(^F{GF} G>)A | B2 (B/c/)B/A/ B>c |{c} d>(e d>)(c d>)e | f2T({g} fe) c>e | T (g>f) (dc)T B>A | 
+G>(A G>)(^F{GF} G>)A |{A} B2 (B/c/)B/A/ B>c | {c} d>(e d>)(c d>)e | f2T({g} fe) ce/g/ | f2 d4- | d z d4 :|
+{Bc} B>d g2T (fe/f/) | a2 (g/a/)g/e/ c2- | c2T (f>e) d{cd}c | (B>A) (G/^F/)G/B/ d>e |T (f>e) (c>d)T B>A | 
+^F2 G4- | G2 g2T fe/f/ | a2 (g/a/)g/e/ c2- | c2T (f>e) d{cd}c | (B>A) (G/^F/)G/B/ d>e | T (f>e) (c>d)T B>A | ^F2 G4 |] 
+V:2
+|:"^2" A,2 B,>(A, B,>)D | G2 (G/A/)G/^F/ G>A | B>(c B>)(A B>)c | d2 (dc) A>c | (e>d) (BA) G>D | B,>(C B,>)(A, B,>)D | 
+G2 (G/A/)G/^F/ G>A | B>(c B>)(A B>)c | d2 (dc) Ac/e/ | d2 A4- | A z ^F4 :| 
+G>B d2 (c=B/c/) | f2 (e/f/)e/c/ G2- | G2 (d>c) B{AB}A | (G>D) (B,/A,/)B,/G/ B>c | (d>c) (A>B) G>^F | 
+D2 [B,D]4- | [B,D]2 d2 (c=B/c/) | f2 (e/f/)e/c/ G2- | G2 (d>c) B{AB}A | (G>D) (B,/A,/)B,/G/ B>c | "^Stämförslag B.O." (d>c) (A>B) G>^F | (DC) [B,D]4 |]
+

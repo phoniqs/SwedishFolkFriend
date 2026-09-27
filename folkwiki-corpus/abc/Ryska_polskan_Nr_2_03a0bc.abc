@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:33
+T:Ryska polskan Nr 2
+T:(Gamla Dansar i Skåne)
+O:Skåne
+R:Polska
+S:Pål Svensson
+Z:[[Personer/Bengt Ohlson]]
+Z:Gamla Dansar i Skåne. Ryska polskan (2). Påhl Svensson, Stubbarp, Arild. Mandelgrens saml. nr. 242."
+B:Gamla Dansar i Skåne
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" d | BA/B/ cB | A2 G |][K:G][M:2/4][K:treble]"^Dans" d |: BA/B/ cA/F/ | GD/B,/ G,d | BA/B/ cB | 
+B2 Ad | BA/B/ cA/F/ | GD/B,/ G,d | BA/B/ cB |1 A2 G d :|2 A2 G z |: 
+Bd/B/ GD/G/ | Bd/B/ GD/G/ | BA/B/ cB | cB A2 | 
+Bd/B/ GD/G/ | Bd/B/ Gg | ed cF |1 A2 G z :|2 A2 G g |: 
+fe/f/ de/f/ | gd/B/ Gg | fe/f/ gd/B/ | B2 Ag | 
+fe/f/ gd/B/ | GB/d/ ge | dc/B/ cA |1 A2 G g :|2 A2 G z |] 
+V:2
+"^2" B | GF/G/ AG | D2 B, |][K:G][M:2/4][K:treble] B |: GF/G/ AF/D/ | B,G/D/ B,B | GF/G/ AG | 
+G2 FB | GF/G/ AF/D/ | B,G/D/ B,B | GF/G/ AG |1 D2 B, B :|2 D2 B, z |: GB/G/ DB,/D/ | 
+GB/G/ DB,/D/ | GF/G/ AG | AG F2 | GB/G/ DB,/D/ | GB/G/ DB | cB AD |1 C2 B, z :|2 C2 B, B |: 
+AG/A/ FA/d/ | BB/G/ DB | 
+A"^Efter Påhl Svensson, Stubbarp, Arild.""^Mandelgrens saml. nr. 242."G/A/ BB/G/ | G2 FB | 
+AG/A/ BG/D/ | B,D/G/ Bc | BA/G/ FD |1 C2 B, B :|2"^Stämförslag B.O." C2 B, z |]
+

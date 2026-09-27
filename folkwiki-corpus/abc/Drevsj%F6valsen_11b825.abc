@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Drevsjövalsen
+O:Norge
+R:Vals
+C:Enok Enersen
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:A
+V:1
+"^1" E2 | A2 A3 c | e2 e2 ab | (af) f2 (Ac) |{d} e3 z (cd) | e2 e3 d | (3(cdc) A3 c | c2 (Bc) B>A | B3 EFG |
+A2 A2 (Ac) |e2 e2 (ab) | (af) f2 (Ac) |{d} e3 z (ec) | e2 e3 d | c2 (3(BcB) G>B | A2 A3 A | A4 E2 | 
+A2 A2 Ac | e2 e2 ab | (af) f2 (Ac) | e3 z (ec) | e2 e3 d | (3(cdc) A2 Ac |  c2 (Bc) B>A | B3 z (3EFG | 
+A2 A2 Ac | e2 e2 ab | (af) f2 (Ac) | e3 z (ce) | e2 e3 d | c2 (3(BcB) G>B | A2 A3 A | A4 a2 |: 
+(f/g/f) d2 df | a3 agf | (af) f2 (Ac) | e3 z (ef) | f2 e2 ed | c2 A2 A>c | c2 (Bc) B>A | B4 e2 | 
+(3(edc) (cA) ce | a4 f2 | (fe) (ef) ed | c3 def | f2 e2 ed | c2 (3(BcB) G>B | A3 A A2 |1 A4 a2 :|2 A4 z2 |] 
+V:2
+"^2" A,2 |"A" C2 C3 E | A2 A2 c2 |"D" d2 A2 A2 |"A" c3 z (AB) | c2 c3 B | A2 E3 A | "E7"A2 G2 F2 | 
+G3 B,CD | "A" C2 C3 E | A2 A2 c2 | "D" d2 A2 A2 |"A" c3 z AA |"E7" c2 c3 B | A2 G2 E2 |"A" C2 C3 C | 
+C4 A,2 | C2 C3 E | A2 A2 c2 |"D" d2 A2 A2 |"A" c3 z A2 | c2 c3 B | A2 E3 A | "E7"A2 G2 F2 | 
+G3 z (3B,CD |"A" C2 C3 E | A2 A2 c2 |"D" d2 A2 A2 |"A" c3 z A2 | c2 c3 B |"E7" A2 G2 E2 | 
+"A" C2 C3 C | C4 f2 |:"D" d2 A2 Ad | f3 fed |"A" (cB) A2 AB | c3 z (GA) |"E7" A2 G2 FE | 
+"A" A2 E2 E>A | "E7" A2 (GA) G>F | G4 B2 |"A" A2 (AE) Ac | c4 d2 | (dc) (cd) cB | A3 Bcd | 
+"E7" B2 G2 GF | A2 G2 E2 |"A" C3 C C2 |1"A" C4 f2 :|2"^B.O." C4 z2 |]
+

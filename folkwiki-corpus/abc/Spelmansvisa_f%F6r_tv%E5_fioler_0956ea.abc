@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:3
+T:Spelmansvisa för två fioler
+O:Röke, Skåne
+C:Lennart Thörn
+%%score 1 2
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Violin 1" snm="Vln.1"
+V:2 treble nm="Violin 2" snm="Vln.2"
+V:1
+D F G | B3 F | D F G B | B2 A2- | A F A B | c3 G | A G F E | D4- | D F G B | d3 e | d c B A | 
+c2 B2- | B G A B | F3 G | B A (c3/2 B/) | B4- | B D D D |: G3 A | B B A G | B2 A2- | A G A B | 
+c3 d | c G A B | (c2 c2 | c) F G B | d3 e | d c B A | c2 B2 | z G A B | F3 G | B A (c3/2 B/) |1 
+(B2 B2) | z D D D :|2 B4 |] 
+V:2
+F D E | F3 D | B, D E G | F2 E2- | E D F G | A3 E | F E D C | B,4 | B, D E G | F3 G | F A d c | 
+e2 G2- | G E F E | D3 C | F F (E3/2 E/) | (D4 | D) D D C |: B,3 D | G G ^F D | G2 ^F2 | 
+=F B, C D | E3 F | G =E E E | E4 | E D E G | F3 G | F A d c | e2 G2 | z E F E | D3 C | 
+F F (E3/2 E/) |1 (D2 D2) | z D D C :|2 D4 |] 
+

@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:104
+T:Skördedans
+T:(Sv Folkdanser Del 1)
+R:Långdans
+O:Finland
+Z:"Sv Folkdanser Del 1 104. Skördedans"
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 104
+Z:http://runeberg.org/folkdans/besk/0262.html
+Z:"Spelas: 1:a 5 ggr. 2:a 4 ggr. 3:e 4 ggr. 4:e 4 ggr. 1.a 4 ggr."
+L:1/8
+M:4/4
+K:G
+V:1
+"^1"B"^Förspel" | B>A A>c A>F D>F | G2 B2 G3 z |] [M:4/4][K:G][K:treble]"^Dans""^(1)" G2 G2 g3 e | e>d d>B d3 B | B>A A>c A>F D>F | 
+ G>F G>B d3 B | G2 G2 g3 e | e>d d>B d3 B | B>A A>c A>F D>F | G2 B2 G3 B | B>A A>c A3 F |
+ G>F G>B d3 B | B>A A>c A>F D>F | G2 B2 G3 z |] [K:F][M:3/4]"^(2)" C2 F>G A2 | F2 A>B c2 | d2 c>B G2 | 
+B2 G>E C2 | "^Spelas: 1:a 5 ggr. 2:a 4 ggr. 3:e 4 ggr. 4:e 4 ggr.    1.a 4 ggr."C2 F>G A>B | c>f c3 A | c>B A>B D>E | F2 F3 z |]"^(3)" A2 G>A B2 | B2 A>B c2 | 
+c2 =B>c d2 | d2 e>d c2 | c2 d>c B2 | A>f c3 A | c>B A>B D>E | F2 F3 z |]"^(4)" A>B A>G E>F | 
+D2 D2 E>F | G>A G>F D>E | C2 C2 z C | C>d c2 z C | C>d c3 f | e>d c>B D>E | F2 F3 z |] 
+V:2
+"^2" G | "D7"G>F F>A F>D A,>C | "G"B,2 D2 B,3 z |][M:4/4][K:G][K:treble] "G"B,2 B,2 B3 c | c>B B>G B3 G | "D7"G>F F>A F>D A,>C | 
+"G"B,>A, B,>G B3 G | B,2 B,2 B3 c | c>B B>G B3 G | "D7"G>F F>A F>D A,>C | "G"B,2 D2 B,3 G | "D7"G>F F>A F3 D | "G"B,>A, B,>G B3 G | 
+"D7"G>F F>A F>D A,>C | "G"B,2 D2 B,3 z |] [K:F][M:3/4]"F" A,2 A,>C F2 | A,2 F>G A2 |"C7" B2 A>G E2 | G2 E>C G,2 |
+"F" A,2 A,>C F>G | A>c A3 F | "C7"A>G F>G B,>C | "F"A,2 A,3 z |]"C7" F2 E>F G2 |"F" G2 F>G A2 |
+"D7" A2 G>A"G7" =B2 | "G7" =B2 c>G"C" E2 |"F" A2 B>A G2 |  F>c A3 F | "C7"A>G F>G B,>C | "F"A,2 A,3 z |]
+"A7" ^C>D C>E C>D | "Dm" A,2 A,2 ^C>D | "G7" =B,>C B,>D B,>C | "C" G,2 G,2 z G, | "^Stämförslag B.O."G,>C E2 z G, | G,>C E3 d |"C7" c>B A>G B,>C | "F" A,2 A,3 z |]
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Rôvkroken
+T:Schottis
+C:Otôrgs-Kaisa Abrahamsson
+O:Bergsjö, Hälsingland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av O´tôrgs-Kaisa, Bergsjö."
+L:1/8
+M:4/4
+K:C
+V:1
+|:"^1"{e} g2 ^fg e2 c2 | AG ^FG E2 C2 | CE Gc eg ag | fd BG D4 |{fg} f2 ef d2 B2 | 
+GF EF D2 B,2 | B,D GB dg ba | g>a gf e2 c2 |{ga} g2 ^fg e2 c2 | AG ^FG E2 C2 | CE Gc e2 dc | 
+Ad de f4 | Ad de fa fd | cd ef g2 ec | Bc de fg fd | BG Bd c4 :: FA, CF A2 GF | 
+EG ce g2 e2 | fg af d2 B2 | eg ec G2 E2 | FA, CF A2 GF | EG ce g2 e2 | fg af d2 B2 |1 
+BG Bd c4 :|2 BG Bd c2 a^g |:[K:F] a2{fg} f2 c2 A2 | Bc dB G2 g^f | ga bg ef ge | 
+fg af c2 a^g | a2{fg} f2 c2 A2 | Bc dB G2 g^f | ga bg ef ge |1 ce ge f2 a^g :|2 ce ge f4 |] 
+V:2
+|:"^2""C" e2 ^de c2 G2 |{B} c2 Bc G2 E2 | G,C EG ce fe | "G7" dB GD B,4 | d2 ^cd B2 G2 | 
+{Bc} B2 AB G2 F2 | G,B, DF GB df |"C" e>f ed c2 G2 | e2 ^de c2 G2 |{cd} c2 Bc G2 E2 | G,C EG c2 BA |
+"Dm" FA A^c d4 | FA A^c df dA |"C" EG cd e2 cG |"G7" FG Bc de dB | "G7" G2 F2 "C"  E4 ::"F" A,C FA c2 BA |
+"C" CE Gc e2 c2 |"G7" de fd B2 G2 |"C" ce cG"C7" E2 C2 | "F" A,C FA c2 BA |"C" CE Gc e2 c2 |"G7" de fd B2 G2 |1
+"G7" G2 F2 "C" E4 :|2 "G7" G2 F2 "C" E2 fe |: [K:F] f2 c2 A2{FG} F2 |"Gm" GA BG D2 e^d |"C7" e2 c2 B2 G2 |"F" AB cA F2 fe | 
+f2 c2 A2{FG} F2 | "Gm" GA BG D2 e^d |"C7" e2 c2 B2 G2 |1"C7" E2 G2 "F" A2 fe :|2"C7""^Arr. B.O." E2 "F" G2 A4 |]
+

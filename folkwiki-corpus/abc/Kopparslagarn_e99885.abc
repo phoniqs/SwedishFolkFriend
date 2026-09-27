@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:59
+T:Kopparslagarn
+T:(Sv Folkdanser Del 1)
+O:Skåne
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser 59. Kopparslagarn" (Kopparslagaren)
+Z:http://runeberg.org/folkdans/besk/0064.html
+Z:"Den glade kopparslagaren, Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 59
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" A>B | c2 f>e | d2 b>a | gd fd | g3 B |:[K:G][M:2/4][K:treble]"^Dans" de dB | 
+de dB | dc cB | c3 g | f2 fa | e2 ef | ed dB | d3 B | 
+de dB | de dB | d^c cB | ^c3 A | d2 de | f2 ff | eg fe | 
+d2 B>c | d2 b2 | b2 a>g | gf fe | f2 A>B | c2 a2 | 
+a2 g>e | ed dB | d2 B>c | d2 b2 | b2 a>g | gf fe | 
+f2 A>B | c2 f>e | d2 b>a | gd fd |1 gg/g/ gB :|2  gg/g/ g2 |] 
+V:2
+"^2" F>G |"D7" A2 d>A | F2 d>c |"G" BG"D7" cA |"G" B3 G |:[K:G][M:2/4][K:treble]"G" Bc BG | 
+Bc BG |"D7" BA A^G | A3 e | d2 df | c2 cd |"G" cB BG | 
+B3 G | Bc BG | Bc BG |"A7" BA A^G | A3 E |"D" F2 FA | d2 dd |
+"A7" ^ce dA |"D" F2 G>A |"G" B2 g2 | g2 f>e |"D7" ed d^c | d2 F>G | 
+A2 f2 | f2 e>c |"G" cB BG | B2 G>A | B2 g2 |"^Spelas öskat antal ggr." g2 f>e |
+"D7" ed d^c | "^Stämförslag B.O."  d2 F>G | A2 d>A | F2 d>c | "G"BG "D7" cA |1"G"BB/B/ BG :|2 "G" BB/B/ B2 |]
+

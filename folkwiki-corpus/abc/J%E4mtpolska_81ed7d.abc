@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:39
+T:Jämtpolska
+T:(Sv Folkdanser Del 1)
+O:Jämtland(?)
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 39. Jämtpolska"
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 39
+Z:http://runeberg.org/folkdans/besk/0173.html
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel"{AB} A2 (F>A) d>c | B2 (G>B) e>d | c2 (A>c) f>e | d2 d3 z |]: 
+[K:D][M:3/4][K:treble]"^Dans" A2 (d>f) d>f | A2 (d>f) b>a | a2 (g>e) c>e | b2 a>f d2 | 
+A2 (d>f) d>f | A2 (d>f) b>a | a2 (g>e) c>e |d2 d3 z ::
+{AB} A2 (F>A) d>c |  B2 (G>B) e>d | c2 (A>c) e>f | g2 (b>a) f>d | 
+A2 (F>A) d>c | B2 (G>B) e>d |  c2 (A>c) f>e | d2 d3 z :| 
+V:2
+"^2" "D" F2 (D>F) A>F |"Em" G2 (E>G) B>G |"A7" A2 (E>A) c>A |"D" F2 F3 z |]: 
+[K:D][M:3/4][K:treble]"D" F2 (A>d) A>d | F2 (A>d) g>f |"A7" f2 (e>c) A>c | "D"g2 f>d A2 | 
+F2 (A>d) A>d | F2 (A>d) g>f |"A7" f2 (e>c) A>G |"D" F2 F3 z :: 
+"D"F2 "^Spelas med repriser rätt igenom 2 ggr.""^Därefter utan repriser rätt igenom 1 ggr." (D>F) A>F | "Em"G2 (E>G) B>G | "A7"A2 (E>A) c>d |"D" e2 (g>f) d>A | 
+F2 (D>F) A>F |"Em" G2 (E>G) B>G |"A7"  A2 (E>A) c>A |"D"  "^Stämförslag B.O."  F2 F3 z :|
+

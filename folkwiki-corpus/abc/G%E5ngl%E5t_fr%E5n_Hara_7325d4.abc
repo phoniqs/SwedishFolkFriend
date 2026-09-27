@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Hara
+R:Gånglåt
+C:Håkan Hjerdt
+O:Ekshärad, Värmland
+Z:Karin Helander
+N:Från allspelslåtar Ransäterstämman 2022: https://ransatersstamman.se/allspelslatar-2022 (not märkt TL)
+N:Inspelning: https://www.youtube.com/watch?v=t3lWmApfoOI
+Q:72
+M:2/4
+L:1/16
+K:G
+V:1
+uD2 |: v "G" G3D G2B2 | d2(ed) c2B2 | "D7" A3d A2F2 | "G" G2B2 d2D2 | 
+"G" G3D G2B2 | d2(ed) c2B2 | "D7" A3d A2F2 |1 "G" G6 uD2 :|2 "G" G6 uB2 |]
+|: v "C" c4 (cB)cd | e2e2 e2(dc) | "G" B3c (dB)(gB) | d6 B2 | 
+"D7" c3d c2A2 | F2D2 F2A2 | "G" G3F G2A2 | "G7" B6 B2 | 
+"C" c4 (cB)cd | e2e2 e2(dc) | "G" B3c (dB)(gB) | d6 B2 | 
+"D7" c3d c2A2 | F2D2 F2A2 | "G" G2(FG) "D7" A2F2 |1 "G" G6 B2 :|2 "G" G6 z2 |]
+

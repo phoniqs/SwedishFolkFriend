@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:481
+T:Polska efter Axel Axelsson
+T:(OA 481)
+B:Sörmländska låtar samlade av Olof Andersson nr 481
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson. 
+Z:Två första takterna i B-delen är markerade som "bis" i uppteckningen. Eftersom jag inte har möjlighet att göra detta i ABC, har jag skrivit ut dessa takter.
+M:3/4
+L:1/4
+Q: 90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+|:d/(^c/8d/8e/8f/8 g/)d/ B/G/ | B/d/ c/A/ F/D/ | G/G/4F/4 G/A/ B/c/ | e/d/4e/4 d d |
+d/(^c/8d/8e/8f/8 g/)d/ B/G/ | B/d/ c/A/ F/D/ | G/G/4F/4 G/A/ B/c/ | (A/4B/4)A/4F/4 G2 ::  d/>e/ d B |
+d/>e/ d B/>d/ | e/>d/ e/f/ g/f/4g/4 | a/f/ d2 |  d/>B/ G/4D/4G/4D/4 G/4D/4G/4B/4 | c/>A/ F/4D/4F/4D/4 F/4D/4F/4A/4 |
+d/>B/ G/4D/4G/4D/4 G/4D/4G/4B/4 | c/>A/ F/4D/4F/4D/4 F/4D/4F/4A/4 |  G/G/4F/4 G/A/ B/c/ | (A/4B/4)A/4F/4 G2 :|
+

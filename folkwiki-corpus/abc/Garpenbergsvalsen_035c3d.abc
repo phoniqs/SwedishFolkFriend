@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Garpenbergsvalsen
+C:Udd Axel Johansson
+O:Hedemora, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Udd Axel Johansson, Hedemora."
+L:1/8
+M:3/4
+K:F
+V:1
+"^1" AB=B |: c2 f2 c2 | d2 b2 f2 | c2 a2 f2 | A3 cBA | G2 B2 G2 | e3 cde | f2 a3 f | c3 AB=B | 
+c2 f2 c2 | d2 b2 f2 | c2 a2 f2 | A3 cBA | b2 g2 e2 | ec a2 g2 | f2 z f f2 |1 f2 z AB=B :|2 f2 z fe_e |: 
+d4 f2 | B3 fed | c4 A2 | F3 FED | C2 E2 G2 | B3 edc | F2 A2 d2 | c3 fe_e | d4 f2 | B3 fed | 
+c2 A2 F2 | C3 c=Bc | b2 g2 e2 | a4 g2 | f2 z f f2 | f2 z fe_e :: df Bd FB | (B,D) (FB) dB | 
+cf Ac FA | C2 FA c2 | c2 e2 g2 | b3 e g2 | c2 f2 g2 | a3 fe_e | df Bd FB | (B,D) (FB) dB | 
+cf Ac FA | C2 FA c2 | c2 e2 g2 | b2 g2 e2 | fa fd cA |1 F2 z fe_e :|2 F3 z2 z |] 
+V:2
+"^2" FG^G |: A2 c2 A2 | B2 d2 B2 | A2 c2 A2 | F3 AGF | E2 G2 E2 | B3 EGc | A2 c3 A | F3 FG^G | 
+A2 c2 A2 | B2 d2 B2 | A2 c2 A2 | F3 AGF | c2 B2 G2 | GE c2 B2 | A2 z A A2 |1 A2 z FG^G :|2 A2 z d^c=c |: 
+B4 d2 | D3 dcB | A4 F2 | A,3 DCB, | G,2 C2 E2 | G3 BGE | A,2 F2 B2 | A3 d^c=c | B4 d2 | D3 dcB | 
+A2 F2 C2 | A,3 A^GA | e2 c2 G2 | c4 B2 | A2 z A A2 | A2 z d^c=c :: Bd FB DF | (FB,) (DF) BF | 
+Ac FA CF | A,2 CF A2 | E2 G2 B2 | c3 G B2 | F2 A2 B2 | c3 d^c=c | Bd FB DF | (FB,) (DF) BF | 
+Ac FA CF | A,2 CF A2 | E2 G2 B2 | "^Stämförslag B.O." c2 B2 G2 | Ac AG FC |1 A,2 z d^c=c :|2 A,3 z2 z |]
+

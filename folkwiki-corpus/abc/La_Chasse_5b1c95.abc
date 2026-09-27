@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:65
+T:La Chasse
+T:(Sv Folkdanser Del 1)
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 65
+Z:"Sv Folkdanser Del 1 65. La Chasse"
+Z:http://runeberg.org/folkdans/besk/0237.html
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" d2ef g2fg | a4 g4 |:[K:G][M:2/4][K:treble]"^Dans" (GB)dB (GB)dB | B2A2 A2(Bc) | 
+d2ef g2fg | a2ba (gf)ed | (GB)dB (GB)dB | B2A2 A2(Bc) | 
+d2ef g2fg | a4 g4 :| b4 g2fg | a2a2 a4 | f4 d2ef | 
+g2g2 g4 | b4 g2fg | a2a2 a4 | f4 d2ef | g2g2 g2 Bc |: 
+d2de d2Bc | d2de d2Bc | d2ef (gf)ga | (b2>a2) (gf)ed | 
+c2cd c2Ac | B2Bc B2AB | (ce)dc (BA)GF |1 (F2G2) G2 Bc :|2 (F2G2) G4 |] 
+V:2
+"^2""D7" F2GA"G" B2AB |"D7" c4"G" B4 |:[K:G][M:2/4][K:treble]"G" (B,G)BG (B,G)BG | 
+"D7" G2F2 F2(GA) |"D7" F2Ac"G" B2AB |"D7" c2dc"G" B2AG | (B,G)BG (B,G)BG |"D7" G2F2 F2(GA) | 
+"D7" F2Ac"G" B2AB |"D7" c4"G" B4 :|"G" g4 e2de |"D7" f2f2 f4 | d4 F2Ac |"G" B2B2 B4 | 
+d4 B2AB |"D7" c2c2 c4 | A4 F2Ac |"G" B2B2 B2 GA |:
+"G" B2Bc B2GA | B2Bc B2GA | "^Spelas rätt igenom med repr.   4 ggr."B2cd (ed)ef | (g2>f2) (ed)cB |
+"D7"  A2AB A2FA |"G" G2GA G2FG | "D7" (Ac)"^Stämförslag B.O."BA (GF)ED |1"D7" (C2B,2)"G" B,2 GA :|2"D7" (C2B,2)"G" B,4 |]
+

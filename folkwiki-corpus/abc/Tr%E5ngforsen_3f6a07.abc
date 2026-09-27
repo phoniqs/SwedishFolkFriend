@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Trångforsen
+C:Tage Nisson
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+I:linebreak $
+K:Ab
+V:1
+|:"^1""^Polska" A,2>E2 A4 c4 |{cd} c2Bc d4 B4 | E4 G4 d4 | (cB)AG (A2E2) C2A,2 | 
+A,2>E2 A4 c4 | {cd} c2Bc d4 B4 | E4 G4 d4 |1 (cB)AG A8 :|2 (cB)AG A6 !>!G2 |: 
+(Fc)(ac) (Fc)(ac) (Fc)(ac) | a2ga (b2a2) g2=e2 | (=Ec)(gc) (Ec)(gc) (Ec)(gc) | g2fg (ag)f=e f2c2 | 
+(Fc)(ac) (Fc)(ac) (Fc)(ac) | (Fd)(bd) (Fd)(bd) (Fd)(bd) | A2GA (B2A2) G2F2 |1 (=EF)GE F8 :|2 (=EF)GE F8 |: 
+(A,E)(cE) (A,E)(cE) (A,E)(cE) | (B,F)(dF) (B,F)(dF) (B,F)(dF) | (EB)(gB) (EB)(gB) (EB)(gB) | (Ec)(ac) (Ec)(ac) (Ec)(ac) | 
+(A,E)(cE) (A,E)(cE) (A,E)(cE) | (B,F)(dF) (B,F)(dF) (B,F)(dF) | c2Bc (d2c2) B2A2 | (GA)BG A8 :| 
+V:2
+|:"^2" c2>d2 c4 A4 |{FG} F2DC B,4 D4 | G,4 E4 G4 | (ED)CB, (C2C2) A,2E2 | C2>D2 C4 A,4 | {AB} A2GA B4 F4 | 
+G,4 D4 F4 |1 (ED)CB, C8 :|2 (ED)CB, C8 |: 
+(A,F)(cF) (A,F)(cF) (A,F)(cF) | c2Bc (d2c2) B2G2 | (G,=E)(cE) (G,E)(cE) (G,E)(cE) | =e2=de (cB)AG A2F2 | 
+(A,F)(cF) (A,F)(cF) (A,F)(cF) | B,2>C2 (DC)B,=A, B,4 | C2B,C (D2C2) B,2A,2 |1 (G,A,)B,G, A,8 :|2 (G,A,)B,G, A,8 |: 
+c2dc (A2E2) D2C2 | F2>D2 F2A2 G2F2 | (=DE)=dB (G2E2) _D2B,2 | A,2>A2 (GF)ED (C2E2) | 
+c2dc (A2E2) D2C2 | F2>D2 F2A2 G2F2 | A2GA (B2A2) G2F2 | (B,E)GE C8 :| 
+

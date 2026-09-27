@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Längtan till byn
+T:(andrastämman)
+C:Valfrid Marcusson
+O:Motala, Östergötland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Valfrid Marcusson, Motala."
+L:1/8
+M:3/4
+K:G
+V:2
+"^2" B,2 |:"G" D4 B,2 |"C" E4 C2 |"G" D6 | D2 (^C2 D2) |"D7" F6 | D2 (C2 A,2) |"G" B,6 | 
+G,2 (A,2 B,2) |"G" D4 B,2 |"C" E4 C2 |"G" D6 | D2 (^C2 D2) |"D7" F6 | D2 (A,2 C2) | 
+"G" [B,D]6- |1"G" [B,D]3 z B,2 :|2"G" [B,D]3 B,CD |: "C" C2 E3u G | E3 EDC | 
+"G" B,2 D3u B | G3 DCB, |"D7" A,2 C3u A, | D2 (C2 A,2) |"G" B,2 D3u B, | G2 (D2 B,2) | 
+"C" C2 E3u G | E3 EDC | "G" B,2 D3u B | G3 DCB, |"D7" A,2 C3u A, | E2 (D2 C2) | 
+"G" [B,D]6- |1"G" [B,D]3 B,CD :|2"G" [B,D]3 z B,2 |: "G" D4 B,2 |"C" E4 C2 |"G" D6 | 
+D2 (^C2 D2) |"D7" F6 |1 D2 (A,2 C2) |"G" [B,D]6- |"G" [B,D]4 B,2 :|2"D7" D2 (A,2 C2) | "G" [B,D]6- |"G" [B,D]3 B,CD |:
+[K:C]"C" C3 G,CE | G3 CEG |"F" ^F3 AFC | A,6 |v "G7" B,3 G,B,D | 
+^F2 (G2 F2) |"C" E2 (GE) CG, | E2 z B,CD | C3 G,CE | G3 CEG |"F" ^F4 D2 |
+"Dm" ^F4 A2 | "G7" G3 B,D^F | A2 (G2 ^F2) |"C" E6- |1"C" E3 B,CD :|2"C" E3 z B,2 |:
+[K:G]"G" D4 B,2 | "C" E4 C2 |"G" D6 | D2 ^C2 D2 |"D7" A6 |1 
+D2 A,2 C2 |"G" [B,D]6- |"G" [B,D]4 B,2 :|2 "D7" D2 (A,2 C2) |"G" [B,D]6- |"G" [B,D]4"^Arr. B.O." z2 |]
+

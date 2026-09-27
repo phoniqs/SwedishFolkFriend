@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Blåkullan
+C:Edvin Thillberg
+O:Hudiksvall, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Stämma Ingemar Andersson
+L:1/16
+M:3/4
+K:Dm
+V:1
+|:"^1" A2dA (GF)EF (DF)Ad"^Polska" | f2ef (gf)ed (^cd)ef | e2d2 ^c4 A4 | A2dA (GF)EF (DF)Ad | 
+f2ef (gf)ed (^cd)ef | e4 d8 :: (a^g)ab (a2f2) e2d2 | (d^c)ec (A2G2) F2E2 | 
+D2DF (A2d2) (^cd)ec | (d^c)de (fe)fg a4 | (a^g)ab (a2f2) e2d2 | (d^c)ec (A2G2) F2E2 | 
+D2DF (A2d2) ^c2A2 | (A^c)ec d8 :: (DF)(AF) (DF)(AF) (DF)(AF) | (A,E)(AE) (A,E)(AE) (A,E)(AE) | 
+(DF)(AF) (DF)(AF) (DF)(AF) | (A,E)(AE) (A,E)(AE) (A,E)(AE) | D2DE F2FG A2d2 | 
+^c2Ac d4 A2>G2 | F2AF E2GE D2d2 | ^c2Ac d8 :| 
+V:2
+|:"^2" F2AF (ED)^CD (A,D)FA | A2GA (BA)GF (EF)GA | G2F2 [EA]4 [^CE]4 | F2AF (ED)^CD (A,D)FA | 
+A2GA (BA)GF (EF)GA | [GA]4 [FA]8 :: (fe)fg (f2d2) A2F2 | (FE)GE (^C2E2) D2C2 | 
+A,2A,D (F2A2) (EF)GE | (FE)FA (d^c)de [ce]4 | (fe)fg (f2d2) A2F2 | (FE)GE (^C2E2) D2C2 | 
+A,2A,D (F2A2) G2E2 | (^CE)GE [FA]8 :: afdA FAdf afdA | ge^cA GAce ge^cA | fdAG (FA)(dA) (FA)(dA) | 
+(G^c)(ec) (G^c)(ec) (G^c)(ec) | A,2A,^C D2DE F2A2 | G2EG F4 F2>E2 | 
+D2FD ^C2EC A,2"^Stämma Ingemar Andersson."F2 | G2FE [FA]8 :| 
+

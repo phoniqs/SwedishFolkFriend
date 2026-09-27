@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:31
+T:Polska av Timas Hans
+T:(SvL Dalarna 31)
+C:Timas Hans Hansson
+B:Svenska Låtar Dalarna Nr 31
+O:Ore, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+K:Dm
+V:1
+|:"^1"{^g} a2g2 a6 e2 | (fe)fa (ga)gf (ef)e^c | d2e2 f4- f2ed | (^cA)ce d2f2 e4 |
+{^g} a2g2 a6 e2 | (fe)fa (ga)gf (ef)e^c | d2e2 f4- f2ed | (^c2<e2) d8 ::
+[K:C] (d2^c2) A4 =c2_B2 | G4 c4 e2>d2 | _B2dB c4- c2BA | (^G2<_B2) A8 | 
+A2>(_B2 A4) c2B2 | G4 c4 e2>d2 | _B2dB c4- c2BA | (^G2<_B2) A8 :: 
+(A2a2) a2a2 (gf)ed | g4 (ga)gf (dc)(df) | e4 c4 e2>c2 | _B4 (B4 c4) | 
+d2d2 g2g2 (^fa)(fd) | e4 c4 e2>c2 | c2A_B c4- c2BA | (^G2<_B2) A8 :| 
+V:2
+|:"^2" f2e2 f6 ^c2 | (d^c)df (ef)ed (cd)cA | F2A2 d4- d2AF | E2EG F2A2 ^c4 | 
+^c2=B2 c6 c2 | (d^c)df (ef)ed (cd)cA | F2A2 d4- d2AF | (E2<G2) [FA]8 ::
+[K:C] (F2E2) ^C4 E2D2 | _B,4 E4 c2>_B2 | ^G2_BG A4- A2EC | (_B,2<D2) C8 | 
+C2>(D2 C4) E2D2 | _B,4 E4 c2>_B2 | ^G2_BG A4- A2EC | (_B,2<D2) [CE]8 :: 
+(F2f2) f2f2 (ed)c_B | e4 (ef)ed _B2>d2 | c4 A4 c2>A2 | ^G4 (G4 A4) | 
+^F2F2 _B2B2 d2(dA) | c4 A4 c2>A2 | A2E^G A4- A2EC |"^Stämförslag B.O." (_B,2<D2) [CE]8 :|
+

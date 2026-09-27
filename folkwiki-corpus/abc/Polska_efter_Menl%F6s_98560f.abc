@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Menlös
+S:Efter [[Personer/Menlösen]] P. P. Menlös,  Hedesunda
+O:Hedesunda, Gästrikland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" B2 (3(BcB) (3A(BA) | (GD) (B,D) GB | (AG) (Fe) dc | (3(cBc) dB G2 | 
+B2 (3(BcB) (3A(BA) | (GD) (B,D) GB | (AG) (Fe) dc | (AF) G4 :: 
+(DF) A2 AB | (cB) A3 B | (cB) (AB) cd | (e^c) d4 | 
+(DF) A2 AB | (cB) A3 B | (cB) (AB) cd | (e^c) d4 | 
+(d{Bc}B) (GB) dc | (ed) (fd) ge | (d{Bc}B) GB dc | (ed) (fd) ge | (dB) (GB) dc | (AF) G4 :| 
+V:2
+|:"^2" G2 (3(DED) (3C(DC) | (B,A,) (G,A,) B,D | (FE) (Dc) BA | (3(AGA) BG D2 |
+ G2 (3(DED) (3C(DC) | (B,A,) (G,A,) B,D | (FE) (Dc) BA | (FD) B,4 :: 
+(CD) F2 FG | (AG) F3 G | (AG) (FG) AF | (GE) [FA]4 | 
+(CD) F2 FG | (AG) F3 G | (AG) (FG) AF | (GE) [FA]4 | 
+(BG) (DG) BA | (cG) dc B2 | (BG) (DG) BA | (cB) dc B2 | (B"^Stämförslag B.O."G) (DG) BA | (FD) [B,D]4 :|
+

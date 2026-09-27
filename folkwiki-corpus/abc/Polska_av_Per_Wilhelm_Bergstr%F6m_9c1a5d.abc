@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Per Wilhelm Bergström
+C:Per Wilhelm Bergström
+O:Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (34) av P.W. Bergström, Matsbo, Hedemora."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (G>B) (A>c) BA | (G>B) (dg) ed | (A>B) (3cBA BG | F>A (3GFE D2 | (G>B) (A>c) BA | 
+(G>B) (dg) ed | (A>B) (3cBA BG | (FA) G4 :: (e>f) ga/g/ f>e | (d>f) e3 f | 
+ga (fd) e^c | df A4 | e>f ga/g/ f>e | d>f e3 f | ga (fd) e^c | ^cd d4 :: 
+de/f/ g>g dB | G>A Bc/B/ A2 | GA/B/ cd/c/ BG | AG FA/F/ D2 | de/f/ g>g dB | 
+G>A Bc/B/ A2 | GA/B/ cd/c/ BG | AF G4 :: de/f/ gg ba/g/ | ef/g/ a>f df | 
+gg ba/g/ fe | ^cd d4 | de/f/ gg ba/g/ | ef/g/ a>f df | cd/c/ BG A>F | FG G4 :| 
+V:2
+|:"^2" D2 F2 GD | B,>D (GB) AG | F2 D2 DB, | A,>C B,2 A,2 | B,2 C2 DC | 
+B,>D (GB) AG | F2 E2 DB, | A,C B,4 ::^c2 B2 A>G | F>A G3 A | 
+B^c (AF) GE | FA (FD) EF | G2 B2 A>G | F>A G3 A | B^c (AF) GE | EF F4 :: 
+d^c/=c/ B>B GD | B,>D GA/G/ F2 | B,D/G/ AB/A/ GD | FE DF/D/ A,2 | d^c/=c/ B>B GD | 
+B,>D GA/G/ F2 | B,D/G/ AB/A/ GD | CA, B,4 :: FG/A/ BB dc/B/ | GA/B/ c>A FA | 
+BB dc/B/ AG | EF [FA]4 | FG/A/ BB dc/B/ |"^Stämförslag B.O." GA/B/ c>A FA | AB/A/ GD C>A, | A,B, [B,D]4 :| 
+

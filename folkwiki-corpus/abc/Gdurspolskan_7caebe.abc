@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:G-durspolskan
+S:Efter G Järnberg
+O:Gästrikland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+K:G
+V:1
+(D2 |: G2>B2) (B2d2) d2g2 | (b2>g2) (g2d2) d2ef | (g2>f2) e2d2 c2B2 | A2>G2 (FG)AF D4 | 
+(G2>B2) (B2d2) d2g2 | (b2>g2) (g2d2) d2ef | (ab)af (ga)ge (fg)fd |1 (ef)e^c d6 D2- :|2 (ef)e^c d6 A2 |:
+ ABAF (D2>F2) A2d2 | dedB (B2c2) c2>A2 | Ac(ec) (Ac)(ec) (Ac)(ec) | a2ag fgfe d2B2 | 
+ABAF (D2>F2) A2d2 | dedB (B2c2) c2>A2 | Ac(ec) (Ac)(ec) (Ac)(ec) | a2ag fgfe d2>B2 | 
+c2ec B2d2 A2>c2 |1 BAGF G6 A2- :|2 BAGF G6 z2 |] 
+V:2
+D2 |: D2>G2 (G2B2) B2d2 | g2>d2 (d2B2) B2cd | e2>d2 c2B2 A2G2 | F2>E2 DEFD A,4 | 
+D2>G2 (G2B2) B2d2 | g2>d2 (d2B2) B2cd | fgfd (ef)e^c (de)dB |1 ^cdcA F6 D2 :|2 ^cdcA F6 D2 |: 
+FGFD (A,2>D2) F2B2 | BcBG (G2A2) A2>E2 | EA(cA) (EA)(cA) (EA)(cA) | f2fe dedc B2G2 | 
+FGFD (A,2>D2) F2B2 | BcBG (G2A2) A2>E2 | EA(cA) (EA)(cA) (EA)(cA) | f2fe dedc B2>G2 | 
+A2cA G2B2 F2>A2 "^Stämförslag B. O." |1 GDB,A, B,6 D2 :|2 G DB,A, B,6 z2 |] 
+

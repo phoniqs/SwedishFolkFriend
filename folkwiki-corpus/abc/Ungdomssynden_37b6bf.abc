@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Ungdomssynden
+T:Polska
+C:Röjås Jonas
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (c |: B/>c/B/A/) (G>B) d>g | (gf) (f<a) A>B |{cB} c2 (c/d/)c/A/ F>F | G>(A B/A/B/c/) d>c | 
+(B/>c/B/A/) (G>B) d>g | (gf) (f<a) A>B |{cB} c2 (c/d/)c/A/ F>F |1 {GF} G2 G3 c :|2{GF} G2 G3 g |: 
+g>e c2 c>e | ed B3 D | D>(F A>)(d f>)a |{gf} g2 (g/a/)g/e/ d>g | 
+g/>a/g/e/ c2 c>e | e<d B3 D | D>(F A>)(d f>)a |1{gf} g2 g3 g :|2{gf} g2 g3 z |] 
+V:2
+"^2" A |: G>D (B,>G) B>e | ed (d<f) F>G | A2 A/B/A/F/ D>C | B,>D G>A B>A | 
+G>D (B,>G) B>e | ed (d<f) F>G | A2 A/B/A/F/ D>C |1 [B,D]2 [B,D]3 A :|2 [B,D]2 [B,D]3 (e |: 
+e>c) E2 E>c | (cB) G3 A, | A,>(D F>)(A d>)f | e2 e/f/e/c/ B>e | 
+e>c E2 E>c | c<B G3 A, | A,>(D F>)(A d>)c |1 "^Stämförslag B.O." [DB]2 [DB]3 e :|2 [DB]2 [DB]3 z |]
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:34
+T:Ryska polskan Nr 3
+T:(Gamla Dansar i Skåne)
+B:Gamla Dansar i Skåne
+R:Polska
+S:Erland Hansson
+O:Skåne
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Ryska polskan (3) efter Erland Hansson, Flädinge. Musikmuseet, Stockholm."
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" e2dc (BA)GF | A4 G4 |]:[K:G][M:2/4][K:treble]"^Dans" B2AB c2cE | G2G2 D4 | 
+B2AB c2B2 | B4 A4 | B2AB c2cE | G2G2 D4 | B2AB c2B2 | B4 A4 :: 
+(Bc)dB G2G2 | (Bc)dB G2G2 | (Bc)dB (GA)Bc | A2A2 A4 | 
+(Bc)dB G2G2 | (Bc)dB G2e2 | e2dc (BA)GF | A4 G4 :: 
+g2df g2d2 | g2dB G4 | f2ef g2B2 | B4 A4 | 
+g2g2 g2g2 | (ag)ab a2g2 | B2AB c2B2 |1 B4 A4 :|2 B4 A4 |] 
+V:2
+"^2" c2BA (GF)ED | C4 B,4 |]:[K:G][M:2/4][K:treble] G2FG F2FC | B,2B,2 B,4 | G2FG A2G2 | G4 F4 | 
+G2FG F2FC | B,2B,2 B,4 | G2FG A2G2 | G4 F4 :: (GA)BG B,2B,2 | (GA)BG B,2B,2 | (GA)BG (B,D)GA | 
+F2F2 F4 | (GA)BG B,2B,2 | (GA)BG B,2c2 | c2BA (GF)ED | C4 B,4 :: B2GA B2G2 | B2GD B,4 | 
+A2"^Efter Erland Hansson, Flädinge.""^Musikmuseet, Stockholm."GA B2D2 | D4 C4 | B2B2 B2B2 | 
+(cB)cd c2B2 | G2FG A2G2 |1 G4 F4 :|2 "^Stämförslag B.O." G4 F4 |]
+

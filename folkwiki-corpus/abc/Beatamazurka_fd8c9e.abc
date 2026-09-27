@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:102
+T:Beata-mazurka
+T:(Mazurka efter Jons-Axel Nr 102)
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Mazurka
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 102. Beata-mazurka"
+L:1/8
+Q:1/4=152
+M:3/4
+K:D
+V:1
+|:"^1"v (3(ABA) (F>A) B>c | (d>e) f4 | (3(fgf) (eA) eA | (3(efe) (dA) dA | 
+(3(ABA) (F>A) B>c | (d>e) f4 | (3(fgf) (eA) eA | d z d4 ::
+v (a>f) (d>A) fd |T cB B2 B2 | (b>g) (e>B) e>d |T dc c2 c2 | 
+(AB) (cd) e^e | f>c (dB) A2 | (b>a) (g>e) c>e | (d>f) d4 :: 
+[K:G]v D2 B2u B2 | (3(BcB) (GD) GB | A2 f2u f2 | (fe) (dc) BA | 
+(Gg) (fg) fg | (bg) e4 | (de/d/) (^c>d) e>f | (g>b) g4 :| 
+V:2
+|:"^2" "D"(3(FGF) (D>F) G>A | (B>c) d4 |"A7" (3(ABA) (GE) GE |"D" (3(GAG) (FD) FD | 
+(3(FGF) (D>F) G>A | (B>c) d4 |"A7" (3(ABA) (GE) GE |"D" F z F4 ::
+"D" (f>d) (A>F) dA | "Em" AG G2 G2 |"A7" (g>e) (c>E) c>B | BA A2 A2 | 
+(EG) (AB) cc |"D" d>A (BG) F2 | "A7"(g>e) (c>A) G>A |"D" (F>A) F4 ::
+[K:G]"G" B,2 G2 G2 | (3(GAG) (DB,) DG |"D7" F2 A2 A2 | (dc) (BA) GF |
+"G" (DB) (AB) AB |"G" (dB)"C" c4 |"D7" "^Stämförslag B.O." (AB/A/) (F>A) c>d | "G" (B>d) B4 :|
+

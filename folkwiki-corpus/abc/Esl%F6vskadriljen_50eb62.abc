@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Eslövskadriljen
+T:eller Den vanliga kadriljen
+R:Kadrilj
+Z:Åke Persson, 14/3 2023
+O:Eslöv, Skåne
+C:efter Åke Persson
+C:Trad
+M:2/4
+L:1/8
+K:G
+Q:120
+|: G2 B>c | d2 g2  | fa ef | gb  d2 |  G2 B>c | d2 g2  |1 fa ef | [Bg]4   :|2 fa ef | [Bg]3d  |]
+|: e>d cA | Bc d2  | AB c/B/A | Be d>d | e>d cA | Bc d2  |1 AB c/B/A | G3d  :|2 AB c/B/A | G3g |]
+[K:D]|: (3gfe (3gfe | fd df | eA ce | df a>a |  (3age (3gfe | fd df | eA/A/ A/c/e/c/ | d3g :|
+[K:G]|:  f>e d>c | B>A G>B | AD/D/ D/F/A/F/ | GB dg |
+ f>e d>c | B>A G>B |1 AD/D/ D/F/A/F/ | G3g :|2AD/D/ D/F/A/F/ | G4  |]!coda![G,DBg]6 |]
+

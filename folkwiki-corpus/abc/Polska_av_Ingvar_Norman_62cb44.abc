@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Ingvar Norman
+C:Ingvar Norman
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Nr 360"
+L:1/8
+M:3/4
+K:Gm
+V:1
+|:"^1" g(a/g/) d2 b2 | a>(g ^f/g/)a/f/ d2 | e>c A2 d2 | (d/c/)A/B/ GB d2 |
+g>g d2 b2 | a>(g ^f/g/)a/f/ d2 | e>(c Ac) d>B | A^F/A/ G4 :: 
+(g>a) gT^f d2 | (Bc/B/) A^F d2 | (c>d) ec d2 | A>c ef/e/ d2 | 
+(g>a) g^f d2 | (Bc/B/) A^F/A/ d2 | (c>d) ec d2 |{B} A^F/A/ G4 :| 
+V:2
+|:"^2" (D>^F) (GA) Bd | (c>B) (AG) ^F2 | (^F>E) (DF) AF | (G^F) (DG) B2 | 
+(B>A) (GA) BG | (c>B) (AG) ^F2 | G>(^F DF) G>D | (^FD) B,4 :: 
+(B>c) BA ^F2 | D2 (^FD) AF | (A>B) (cA) ^F2 | E2 (GA) ^FA | 
+(B>c) BA ^F2 | D2 (^FD) AF | (A>B) (cA) ^F2 |"^Stämförslag B.O." DC B,4 :| 
+

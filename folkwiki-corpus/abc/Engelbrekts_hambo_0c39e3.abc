@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Engelbrekts hambo
+C:Britt-Marie Jonsson
+O:Hälsingland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Britt-Marie Jonsson"
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1""C" G2 (e>f) e>d | (d>c) (c>e) G>F | (E>G) (c>G) c>e |"F" d2 A4 |"Dm" A2 (f>e)"D7" d>c | 
+"G7" (c>B) B3u c | (d>c) (B>A) G>f |"C" f2 e3u G | G2 (e>f) e>d | (d>c) (c>e) G>F | 
+(E>G) (c>G) c>e |"F" d2 A4 |"Dm" A2 (f>e) "D7" d>c | "G7" (c>B) B3u d | (g>f) (e>f) A>B | "C" c2 c4 :: 
+"C" (G>A) (G>E) G>c |"C7" e2 e3u g |"F" (g>f) (f>g) f>c |"Dm" A2 A4 |"G7" G2 (B>G) B>d | 
+(B>G) (B>d) g>g | g2 (^f>g) a>g |"C" f2 e4 | (G>A) (G>E) G>c |"C7" e2 e4 |"F" A2 (A>G) F>G | 
+"Dm" A4 c2 |"G7" B2 (B>G) B>d | (B>G) (B>d) g>g | (g>f) (e>f) A>B | "C" c2 c4 ::
+[K:F] "F" a2 (a>g) f>d | (c>d) (c>B) A>G | (3FGF (E>F) G>A |"Bb" (B>d) d4 |"C7" b2 (b>a) g>f | 
+(e>f) e>d c2 | c>(c =B>c) d>c |"F" B2 A4 | a2 (a>g) f>d | (c>d) (c>B) A>G | (3(FGF) (d2 c2) |
+"Bb" (B>d) d4 | "C7" b2 (b>a) g>f | (e>f) e>d c2 | (c>B) (A>B) D>E | "F" F2  "^B.O."F4 :|
+

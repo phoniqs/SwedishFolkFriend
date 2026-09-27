@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:18
+T:Gamle familievals
+O:Danmark
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danmark, Gillesdanser i Norden"
+B:Musik till Gillesdanser i Norden
+L:1/4
+M:3/4
+K:D
+V:1
+"^1""^Förspel" A | d d A | A B c | d2 d | d2 |][K:D][M:3/4][K:treble]"^Dans" A |: d d A | d d A | 
+d d d | d2 c | B B B | d c B | B A ^G | A2 B/A/ | G g g | g2 f/e/ | 
+d f f | f2 g/f/ | e e e | g f e | e d c | d2 d/c/ | B g g | 
+g2 f/e/ | d f f | f2 g/f/ | e e e | g f e | e d c |1 d2 A :|2 d2 z |] 
+V:2
+"^2" D | F F D | E F G | F2 F | F2 |][K:D][M:3/4][K:treble] D |: F F D | F F D | F F F | F2 F | 
+G G G | B A G | G F E | F2 G/F/ | E B B | B2 A/G/ | F A A | A2 B/A/ | G G G | B A G | G F E | 
+F2 B/A/ | G B B | B2"^Önskat antal ggr." A/G/ | F A A | A2 B/A/ | G G G | B A G | "^Stämförslag B.O." G F E |1  F2 D :|2 F2 z |]
+

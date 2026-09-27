@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:31
+T:Huppleken från Dala-Floda
+T:(Sv Folkdanser Del 1)
+O:Dala-Floda, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:Huppleken tur 1, gånglåt 2.
+Z:Från inspelning av [[Personer/Olof Tillman]] 1957
+Z:"Sv Folkdanser Del 1 31. Huppleken från Dala-Floda"
+Z:http://runeberg.org/folkdans/besk/0166.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 31
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Tur 1,  Huppen.  Gånglåt 2." f2 |: a2a2 (fd)(fa) | g4 e2>(f2 | g2)b2 a2g2 | f4 d2cd | 
+(ef)ed c2Bc |1 d6 f2 :|2 d6 A2 |: A2>d2 (fa)fd | 
+d2c2 A4 | (AB)cd (e2a2) | f4 d2cd | (ef)ed c2Bc |1 d6 A2 :|2 d6 z2 |] 
+V:2
+"^2" d2 |: f2f2 (dA)(df) | e4 c2>(d2 | e2)g2 f2e2 | d4 F2AB | 
+"^Spelas en gång"(cd)cB A2GA |1 F6 d2 :|2 F6 F2 |: F2>A2 (df)dB | 
+B2A2"^Från inspelning av Olof Tillman 1957." E4 | (EG)AB (c2f2) | d4 F2AB | "^Stämförslag B.O."(cd)cB A2GA |1 F6 F2 :|2 F6 z2 |]
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Blickus 3:an
+S:Efter [[Personer/Bleckå]] Anders Olsson
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+I:linebreak $
+U:t=tenuto
+K:D
+V:1
+|:"^1""^\"Blickus 3:an\"" (D/E/F/G/) A>(B A>)G | (F>E) (tDtF) A2- | A>(G E>)(G F>)E | (D>F) (Ad) f>e | (d>c) (tAtc) e2- | 
+ed (E/^G/)B A2- | A>(G E>)(G F>)E | (D>F) (Ad) f>e | c(e/c/) A4- | A z A4 :|{f} g2 (tftd) f>a |: 
+(af) (3g2 e2 g2 | (3f2 e2 d2 f>(a | e/f/)e/d/ (cd) e>g | (3:2:4(ba) (f2 d2) f>a | (3:2:4(af) (g2 e2) (g/f/)(g/a/) | 
+bg/b/ a2 e>f | ge/g/ f2 d>f | (3g2 (b2 a2) f>g |1 (e/f/)e/^c/ d3 f | a2 (f/a/)f/d/ f>a :|2 e/f/e/^c/ d4 |] 
+V:2
+|:"^2" A,/C/D/E/ F>(G F>)E | D>C (tA,tD) F2- | F>E C>(E D>)C | A,>D (FA) d>c | B>A (tEtA) c2- | 
+cB B,/D/E C2- | C>E C>(E D>)C | A,>D (FA) d>c | Ac/A/ E4- | E z [CE]4 :|{d} e2 (tdtA) d>f |: 
+fd (3e2 c2 e2 | (3d2 c2 A2 d>f | c/d/c/B/ (AB) c>e | (3:2:4gf (d2 A2) d>f | (3:2:4fd (e2 c2) (e/d/)(e/f/) | 
+ge/g/ f2 c>d | ec/e/ d2 A>d | (3e2 g2 f2 d>e |1 c/d/c/A/ F3 d | f2 (d/f/)d/A/ d>f :|2 "^Stämförslag B.O." c/d/c/A/ [FA]4 |] 
+

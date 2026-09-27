@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:4
+T:Anglaise Nr 4
+T:(Gamla Dansar i Skåne)
+O:Hässlunda, Skåne
+R:Anglais
+S:Johan Eric Blomgren
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Anglaise (4)"
+B:Gamla Dansar i Skåne
+Z:"Efter Blomgren, Hässlunda. Musikhistoriska Museet"
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" AB | c2a2 (fd)ef | g2b2 g2 z2 |]:[K:G][M:2/4][K:treble]"^Dans" (GA)Bc (de)fg | 
+B2ce dBG2 | (cA)ce d2Bd |1 (dc)AF G2 z2 :|2 (dc)AF G2 AB |: 
+c2a2 (Bd)ga | b2>g2 (dB)GB | A2a2 (fd)ef |1 g2b2 g2 AB :|2 g2b2 g2 z2 |] 
+V:2
+"^2" FG | A2c2 (dA)cd | B2d2 B2 z2 |]:[K:G][M:2/4][K:treble] (B,D)GA (Bc)de | G2Ac BGD2 | 
+(AF)Ac B2GB |1 (BA)FD B,2 z2 :|2 (BA)FD B,2 FG |: 
+"^Efter Blomgren, Hässlunda.""^Musikhistoriska Museet" A2c2 (GB)df | g2>d2 (BG)DG | F2d2 (dA)cd |1 "^Stämförslag B.O." B2d2 B2 FG :|2 B2d2 B2 z2 |]
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Gustav Persson
+C:Gustav Persson
+O:Västbacken, Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Lämplig dans: Hambopolska efter Ernst Grip"
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" A |: (A>F) F4 | d2 A4 | (f>d) (d>A) A>F | (3G(AG) E3 E | 
+(3G(AG) E3 c | (3c(dc) A3 f | (g>e) (e>c) (3A(Bc) | d2 d3 A :: 
+(3a(ba) (3f(af) d>f | (f>e) e>f g2 | (3g(ag) (3e(ge) c>e | (e>d) d>f a2 | 
+(3a(ba) (3f(af) d>f | (f>e) e>f g2 | (3g(ag) (3e(ge) (3c(ec) |1 d2 d3 A :|2 d2 d3 z |] 
+V:2
+"^2" D |: (.D>.D) [A,D]4 | F2 [A,D]4 | (d>A) (A>F) F>D | (3E(FE) A,3 C | 
+(3E(FE) C3 E | (3A(BA) E3 c | (c>A) (A>E) (3C(DE) | F2 F3 F :: 
+(3f(gf) (3d(fd) A>d | (d>c) c>d e2 | (3e(fe) (3c(ec) A>G | (G>F) F>A d2 | "^Lämplig dans: Hambopolska efter Ernst Grip." (3f(gf) (3d(fd) A>d | 
+(d>c) c>d e2 | (3e(fe) (3c(ec) (3A(cA) |1 "^Stämförslag B.O."F2 F3 F :|2 F2 F3 z |]
+

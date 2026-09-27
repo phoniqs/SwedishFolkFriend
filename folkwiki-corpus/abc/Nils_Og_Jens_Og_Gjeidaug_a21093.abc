@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Nils Og Jens Og Gjeidaug
+T:Slåttestev Og Gangar 
+R:Gånglåt
+O:Setesdal, Norge
+Z:Karin Helander
+N:Från inspelningar, tex Slinkombas från 1979: https://www.youtube.com/watch?v=VcgXFTArbHU
+N:och Bukkene Bruse från 1999: https://www.youtube.com/watch?v=abnmJk8op_U
+N:och Elise Boeur från 2019: https://www.youtube.com/watch?v=LUXeEu6EJ2U
+N:och Torleiv och Hallvard Bjørgum från 1992: https://www.youtube.com/watch?v=e_bVDs78sIU
+N:Många olika varianter och verkar kunna spelas både i F och E. Det går säkert att göra en bättre nedteckning.
+M:2/4
+L:1/8
+Q:160
+K:F
+V:1
+|: AF AF | AA cA | B2 G2 | GE CE | GB GA | F2 F2 :| 
+|: A>A Ac | A B2 B | BG G2 | GE CE | GB GA | F2 F2 :|
+[| A3 G | EC EG | F3 A | !fine! F4 |: [M:3/4] f2 d2 cA | f2 dd ec | 
+f2 d2 cA | f2 dd ec | f2 d2 cA |1 ga g=b ga :|2 F6 ||
+[| g2 AF AF | G2 BA BG | F2 BA GF | g2 FG BA | 
+G2 BA GF | g2 FG BA | GF BA GF | g2 FG AF | 
+BA F2 F2 | AF fg fa | g2 f2 f2 | AF fg f=b | d'2 c'2 c'2 |]
+|: [M:2/4]a>a ac' | aa d'=b | g2 g2 | ge ge | gg c'a | f2 f2 :|
+

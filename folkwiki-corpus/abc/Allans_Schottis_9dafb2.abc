@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Allans Schottis
+C:Lennart Thörn
+R:Schottis
+Z:Patrik Månsson, 2008-07-24, Uppdaterad med andrastämma och ackord 2020-03-14 Andreas G
+O:Röke, Skåne
+N:"Nedtecknad 22 december 1981, LT."
+%%score 1 2
+L:1/16
+M:2/4
+K:D
+V:1 treble nm="Violin 1" snm="Vln. 1"
+V:2 treble nm="Violin 2" snm="Vln. 2"
+V:1
+DEFG A2AG | (FA)de f4 | (Ag)ge c2(cB) | (AB)AG F2D2 | 
+(DE)FG A2AG | (FA)de f4 | (Ag)ge (cA)Bc | d2d2 d4 :: 
+d2B2 (Bd)dd | d2A2 A2>d2 | c2cB (AG)FG | B2A2 A4 | 
+d2B2 (Bd)dd | d2A2 A2>d2 | c2cB (AG)FE | D2d2 d4 :| 
+V:2
+"D" A,2(DE) F2E2 | D2F2 A4 |"A7" EAAA C2E2 |"D" FGFE D2A,2 | 
+A,2(DE) F2E2 | D2F2 A4 | "A7" cecA G2E2 |"D" F2F2"^D7" F4 ::
+"G" B,2D2 G2BB |"D" A2F2 D4 |"A7" E2E2 (FE)DE | "D" G2F2 F4 |
+"G" B,2D2 G2BB |"D" A2F2 D4 |"A7" E2G2 E2C2 |"D" D2F2 F4 :|
+

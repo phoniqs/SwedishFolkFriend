@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Storpolska från Liden
+S:Nils Olof Höglund
+O:Liden, Medelpad
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Eft. Nils Olof Höglund (1859-1952), Järkvissle.
+Z:Uppt. Helmer Lidhammar
+Z:Arr. Sven Englund
+L:1/16
+M:3/4
+K:Dm
+V:1
+|:"^1" D2>E2 F2G2 A2d2 | ^c2ec d4 A4 | d2fd e2ge f2af | (g2a2) a8 :: 
+(a=b)a^g (a2e2) f2d2 | c4 (=Bc)B^G A4 | =B2dB c2ec d2fd |1 e4 e8 :|2 e4 e6 e2 |:
+ ^c2>d2 e2g2 f2ed | ^c2ec A4 (A2[Ae]2) | ^c2>d2 e2g2 f2ed | (^cd)ec A4 a2g2 |
+ f2af e2ge d2fd | ^c2ec d4 (A2G2) | F2AF E2GE D2(FD) | ^C2EC D6 z2 :: 
+(DF)AF (DF)(AF) (DF)(AF) | (DE)AE (DE)(AE) (^CE)(AE) :| 
+D2>E2 F2G2 A2d2 | ^c2ec d4 A2G2 | F2AF E2GE D2(FD) | ^C2EC D6 z2 | 
+(DF)AF (DF)(AF) (DF)(AF) | (DE)AE (DE)(AE) (^CE)(AE) | (DF)AF (DF)(AF) (DF)(AF) | (DE)AE (DE)(AE) (^CE)(AE) |
+ D2>E2 F2G2 A2d2 | ^c2ec d4 A2G2 | F2AF E2GE D2(FD) | ^C2EC D8 |]
+

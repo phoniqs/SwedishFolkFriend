@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Vårdagjämningen
+O:Upplands Väsby, Uppland
+C:Lars Erik Jansson
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+N:"Låt till minne av ett besök i nyckelharpans Mecka, Österbybruk..."
+L:1/8
+M:4/4
+K:G
+V:1
+"^1" d |: "^Gånglåt / snoa"g2 d(B{cB)} G"^Låt till minne av ett besök i" "^nyckelharpans Mecka, Österbybruk . . ."D B,G, | A,(C/E/) A,(C/E/) A3 B | cB/c/ AF DF AB | 
+(c3/4{dc}B/4)c/e/ dc (B/>c/)A/B/ GB/d/ | g2 d(B{cB)} GD B,G, | A,C/E/ A,C/E/ A3 B |
+cB/c/ AF DF Ad |1 f>g a(g/f/) [Gg]3 d :|2 f>g a(g/f/) g3 g |: 
+e(c/G/) (C/E/)G/c/ ec/e/ ge |d(B/G/) (G,/B,/)D/G/{Bc} BA/B/ cB |(A/d/)A/F/ (D/F/)A/B/ cA FD |
+GD/G/ BG/B/ dB/d/ gg |e(c/G/) (C/E/)G/c/ ec/e/ ge |d(B/G/) (G,/B,/)D/G/{Bc} BA/B/ cB |
+(A/d/)A/F/ (D/F/)A/B/ cA FA |1 D>F A(G/F/) G3 g :|2 D>F AG/F/ G3 z |] 
+V:2
+"^2" G |:"G" B2 GD B,G DB, |"Am" CE/A/ CE/A/ [Ec]3 G |"D7" AG/A/ FD A,C DF | A/>G/A/c/ BA "G" G/>A/F/D/ B,D/G/ | 
+B2 GD B,G DB, |"Am" CE/A/ CE/A/ [Ec]3 G | "D7" AG/A/ (FD) A,C DF |1 "D7" (A>B) cB/A/ "G" B3 G :|2"D7" (A>B) cB/A/ "G" B3 B |:
+"C" cG/E/ G,/C/E/G/ cG/c/ ec | "G" BG/D/ B,/D/G/B/ GF/G/ AG | "D7" FF/D/ A,/D/F/G/ AF DC | "G" B,G,/B,/ DB,/D/ GD/G/ BB | 
+"C" cG/E/ G,/C/E/G/ cG/c/ ec | "G" BG/D/ B,/D/G/B/ GF/G/ AG | "D7" FF/D/ A,/D/F/G/ "^B.O." AF DC |1 "D7" A,>D FD/C/"G" B,3 B :|2"D7" A,>D FD/C/ "G" B,3 z |]
+

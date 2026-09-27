@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Hälsingborgskamraten
+O:Skåne
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Trad."
+L:1/8
+M:2/4
+K:D
+V:1
+|:"^1" Af/f/ ff | f3 f/f/ | fd ef"^Polka" | g>f ed | ce/e/ ee | e3 f | 
+ge a>g | fa d2 | Af/f/ ff | f3 f/f/ | fd ef | ga b2 | gg g/f/e | 
+ff f/e/d | ee e/d/c | dd d z :: ga/g/ fe | df a2 | ce a>c | 
+df a2 | ga/g/ fe | df a2 | ce a>c |1 dd d z :|2 dd d=c |:
+[K:G] B3 c | d3 B | dB gg | f4 | A3 B | c3 A | cA ee | 
+d4 | B3 c | d3 B | dB gg | f4 | A3 B | c4 | dd e>f | gg g z :| 
+V:2
+|:"^2" Fd/d/ dd | d3 d/d/ | dA cd | e>d cB | Ac/c/ cc | c3 d | 
+cA c>B | Ad F2 | Fd/d/ dd | d3 d/d/ | dA GA | B=c d2 | BB B/A/G | 
+AA A/G/F | AA A/A/G | FF F z :: cd/c/ Ac | Ad f2 | Ac e>A | 
+Ad f2 | cd/c/ Ac | Ad f2 | Ac e>A |1 FF F z :|2 FF FE |:
+[K:G] G3 A | B3 G | BG BB | c4 | F3 G | A3 F | AF cc | 
+B4 | G3 A | B3 G | BG BB | c4 | F3 G | A4 | "^Stämförslag B.O." FF G>A | BB B z :|
+

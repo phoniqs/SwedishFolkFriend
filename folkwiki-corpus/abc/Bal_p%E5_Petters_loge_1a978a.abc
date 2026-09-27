@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Bal på Petters loge
+R:Hyfsa
+O:Junsele, Ångermanland
+N:Petters loge var ett dansställe i Tågsjötorp i Junsele.
+S:Upptecknad 20010906 av Tord Johansson, Ösmo
+Z: Eva Zwahlen
+M:2/4
+L:1/16
+K:G
+dd |:"_G" d2g2 g2B2 | d2dd d2dd | d2g2 g2B2 |"_Am" c2c2 c3B |
+"_D" A3B c2g | f2ff f2AA | A2B2 c2f2 |"_G" d2dd d2dd | 
+"_G"d2g2 g2B2 | d2dd d2dd| d2g2 g2B2 |"_Am" c2c2 c3B |
+"_D" A3B c2d2 | e2d2 f3e | d3c B2A2 |"_G" G6 z2:]
+|:"_C" g3e e2g2 | G4 c2e2 |"_G" d3B B2G2 |"_D" D6 A2 | 
+"_D"F3A A2d2 | f2f2 f3e | d3c B2A2 |"_G" B2GG G2G2 |
+"_C" g3e e2g2 | G4 c2e2 |"_G" d3B B2G2 | "_D"D6 A2 |
+"_D" F3A A2d2 | f2f2 f3e | d3c B2A2 |"_G" G6 z2 :|
+

@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:La Paloma
+T:Tango
+R:Tango
+C:S Yradier
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:2/4
+U:t=tenuto
+K:C
+V:1
+"^1" z | z4 | z4 | z4 |z2 zu G |:v G4- | (3G(EF) GA | (3(Bc)A BG | 
+ F4- | F2 z d | d4- | (3d(ec) dB | (3(cB)A GF |1 E4- | E2 z G :|2{F} E4 |: 
+v (3tc(tctc) cB | (3td(tdtc) BA |{B} A G3- | G4 | (3tB(tBtB) BA | (3tA(tGtG) GA |1 (G/F/) E3- | E4 :|2 
+(G/F/) E3- || (3EGG (3GA^F | G4- | (3GGG (3GGA | B2 d2- | (3dec (3dBc | (3ABc (3:2:2e2 d | 
+(3DEF (3:2:2A2 G | E4- | (3EGG (3GA^F | G4- | (3GGG (3GGA | B2 d2- | (3dfe (3dec | 
+(3dBc (3:2:2e2 d | (3DEF (3:2:2A2 G | [Ec]4 | z4 | z4 |  "^(pizz)" z2 .[ec'] z |] 
+V:2
+"^2""^(pizz)" .G | "C" .[CEc]>.G .c.G | "G7" .[G,FB]>.G .[FB].G, | .[FB]/.B/.B/.G,/ .[FB].G | 
+"C" .[Ec] z"^(arco)" z E |: "C" E4- | (3E(CD) EF | (3(GA)F GE | D4- | D2 z B | B4- | (3B(cA) BG | 
+(3(AG)F ED |1"C" C4- | C2 z E :|2 "C" C4 |: "C" (3tE(tEtE) ED | 
+(3tF(tFtE) GF |"G7" F F3- | F4 | (3tF(tFtF) FF | 
+(3tF(tFtF) FF |1"C" (E/D/) C3- | C4 :|2"C" (E/D/) C3- || "C" (3CEE (3EF^D | 
+E4- | (3EEE (3EEF |"G7" G2 B2- | (3BcA (3BGA | (3FGA (3:2:2G2 B | (3B,CD (3:2:2F2 E |"C" C4- | 
+(3CEE (3EF^D | E4- | (3EEE (3EEF |"G7" G2 B2- | (3Bdc (3BcA | (3BGA (3:2:2G2 B | 
+(3B,CD (3:2:2F2 F | "C" "^(pizz)" .C>.G .c.G | "G7" .[G,FB]>.G .[FB].G, | .[FB]/.B/.B/.G,/ .[FB].G | .[Ec] z "C" .[CG] z |]
+

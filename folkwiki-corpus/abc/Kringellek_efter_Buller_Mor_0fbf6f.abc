@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Kringellek efter Buller Mor
+S:Efter Buller Mor
+O:Gagnef, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:A
+V:1
+"^1""^\"Äre nån sôm vet var Junkarflickon ligg...\"" A>(A c>)(c e>)e | a>a fg/f/ e2 | A>(A c>)(c e>)e | a>a fg/f/ e2 |]
+[K:C] e>d ^c2 A2 | ^c>B (^GB) A2 | e>d ^c2 A2 | ^c>B (^GB/G/) A2 | 
+A>(^c e>)(d c>)B | ^G2 A3 z |]{e}"^Efterspel" a>(a e>)(d ^c>)B | ^G2 A4 |] 
+V:2
+"^2" E>(E A>)(A c>)c | f>f de/d/ c2 | E>(E A>)(A c>)c | f>f de/d/ c2 |]
+[K:C] ^c>B A2 E2 | A>^G (ED) ^C2 | ^c>B A2 E2 | A>^G (EG/E/) ^C2 | 
+E>(A ^c>)(B A>)^G | (ED) ^C3 z |] {^c} e>(e c>)(B A>)^G"^Stämförslag B.O." | (ED) ^C4 |] 
+

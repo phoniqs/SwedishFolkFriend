@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:4
+T:Bleking
+T:(Sv Folkdanser Del 1)
+R:Bleking
+Z:[[Personer/Bengt Ohlson]]
+Z:"Svenska Folkdanser Del 1 4. Bleking"
+Z:"Sverige, Gillesdanser i Norden."
+Z:http://runeberg.org/folkdans/besk/0040.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 4
+B:Musik till Gillesdanser i Norden
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (c>d)cB (A>B)AG | (FD)EF G2 Bd |]:[K:G][M:2/4][K:treble]"^Dans" .g2.B2 .d2.G2 | 
+(FG)AB c2Bc | e2AB c2EF | (GA)Bc d2Bd | .g2.B2 .d2.G2 | 
+(FG)AB c2Bc | e2AB c2FA | G2Bd g4 | (d>e)dc (B>c)BA | 
+G2B2 (BA)B2 | (c>d)cB (A>B)AG | (FD)EF (GA)Bc | (d>e)dc (B>c)BA | 
+G2B2 (BA)B2 | (c>d)cB (A>B)AG |1 (FD)EF G2 Bd :|2 (FD)EF G2 z2 |] 
+V:2
+"^2" (A>B)AG (F>G)FE | (DA,)B,D B,2 GB |]:[K:G][M:2/4][K:treble] .d2.G2 .B2.E2 | 
+(DE)FG A2GA | c2FG A2CD | (B,D)GA B2GB | .d2.G2 .B2.E2 | 
+(DE)FG A2GA | c2FG A2DC | B,2DG B4 | (B>c)BA (G>A)GD | 
+B,2G2 (GF)G2 | (A>B)AG (F>G)FE | (DA,)B,D (B,D)GA | 
+(B>c)BA (G>A)GD | B,2G2 (GF)G2 | (A>B)AG (F>G)FE |1 (DA,)B,D B,2 GB :|2"^Stämförslag B.O." (DA,)B,D B,2 z2 |]
+

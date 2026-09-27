@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:42
+T:Tretur Nr 6
+T:(Gamla Dansar i Skåne)
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Tretur (6). Mandelgren nr. 178."
+O:Skåne
+R:Engelska
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+U:t=tenuto
+K:G
+V:1
+"^1""^Förspel" gf | e2cB (AG)FE | (FG)AB G2 |][K:G][M:2/4][K:treble]"^Dans" dc |: (BA)Bc (de)fg | 
+(ab)c'a (gf)gb | (ag)fg (tete)cA |1 (GB)dF G2 BA :|2 (GB)dF G2 cB |: 
+A2DF (AF)dc | B2DG (BG)gf | e2cB (AG)FE |1 (FG)AB G2 cB :|2 (FG)AB G2 z2 |] 
+V:2
+"^2" ed | c2AG (FE)DC | (DE)FD B,2 |][K:G][M:2/4][K:treble] BA |: (GF)GA (Bc)de | 
+(fg)af (ed)eg | (fe)de (tctc)AF |1 (B,G)BD B,2 GF :|2 (B,G)BD B,2 AG |: 
+"^Mandelgren nr. 178." F2A,D (FD)BA | G2B,D (GD)ed | c2AG (FE)DC |1 (DE)FD B,2 AG :|2 "^Stämförslag B.O." (DE)FD B,2 z2 |]
+

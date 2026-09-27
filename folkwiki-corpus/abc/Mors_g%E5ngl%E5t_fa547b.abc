@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:7
+T:Mors gånglåt
+C:Eric Öst
+O:Hälsingland
+R:Gånglåt
+B:Spelmanshälsning
+Z:[[Personer/Bengt Ohlson]]
+Z:"Arr. Eric Öst."
+L:1/16
+M:2/4
+Q:100
+K:D
+V:1
+"^1" A2 |: d4 (AB)A"^Tillägnad min mor Eda Öst i Edsbyn."G | (FG)FE D2B,2 | A,2D2 (DF)Ad | f6 ef | (ga)gf (ef)ed | 
+(cd)cB A2AB | (cd)cB (AB)AG | (FG)FE D2A2 | d4 (AB)AG | (FG)FE D2B,2 | 
+A,2D2 (DF)Ad | f6 ef | (ga)gf (ef)ed | (cd)cB A2cB | A2ag (ec)Ac | d6 z2 :: 
+g2d2 B2G2 | (DG)Bd g2ag | f2d2 A2F2 | (DF)Ad f2gf | e2c2 A2G2 | 
+(EG)Ac e2fe | (dc)de (fe)fg | a6 ba | g2d2 B2G2 | (DG)Bd g2ag | f2d2 A2F2 | 
+(DF)Ad f2ef | (ga)gf (ef)ed | c2b2 a2c2 | e2d2 (dc)de | d6 z2 :| 
+V:2
+"^2" F2 |:"D" A4 (FG)FE | (DE)DC F2G2 | F2A,2 (A,D)FA | d6 cd | "A7"  (ef)ed (cd)cB | 
+(AB)AG E2EG | (AB)AG (FG)FE |"D" (DE)DB, A,2F2 | A4 (FG)FE | (DE)DC F2G2 | 
+F2A,2 (A,D)FA | d6 cd | "A7" (ef)ed (cd)cB | (AB)AG E2AG | E2fc (AG)EG |"D" F6 z2 ::
+"G" d2B2 G2D2 | (B,D)GB d2fe | "D" d2A2 F2D2 | (A,D)FA d2ed |"A7" c2A2 G2E2 | 
+(CE)GA c2dc |"D" (AG)Ac (dc)de |"D7" f6 gf | "G" d2B2 G2D2 | (B,D)GB d2fe |
+"D" d2A2 F2D2 | "A7" (A,D)FA d2cd | (ef)ed (cd)cB | A2g2 e2A2 | "D" A2F2"A7" (FE)FG |"D""^Arr. Eric Öst." F6 z2 :|
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:18
+T:Ol-Ersens polska
+S:Ol-Ersen
+S:Katrina Lundstedt
+S:Otôrgs-KaisaAbrahamsson
+R:Polska
+O:Hassela, Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA. 18. Ol-Ersens polska efter Katrinas Lundstedts farfar, Ol-Ersen."
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/16
+M:3/4
+K:D
+V:1
+"^1" D2 |: A2>^G2 A2Bc d4 | e2fe d2ed c2Ac | B2A^G A2E2 F2=GF | 
+E2DC D2EF D2>D2 | A2>^G2 A2Bc d4 | e2fe d2ed c2Ac | B2A^G (E2A2) A4 :: 
+(A2>^g2) (g2>a2) a2e2 | (A2>^g2) (g2>a2) aaa=g | (e2>^g2) (g2>a2) a2e2 | 
+(e2>^g2) (g2>a2) aba=g | e2>=f2 g2ag f2ef | (dc)de (g=f)ed c2A2 |1 
+(cB)A^G B2A2 A4 :|2 (cB)A^G A2F2 (DE)DC | D2E2 F2DF E2DC | D2EF D6 z2 |] 
+V:2
+"^2" A,2 |: C2>D2 E2FG F4 | c2dc B2cB A2FA | G2FE F2C2 D2ED | 
+C2B,A, B,2CD A,2>A,2 | C2>D2 E2FG F4 | c2dc B2cB A2FA | ^G2FE (B,2C2) C4 :: 
+([CE]2>d2) (d2>e2) e2c2 | ([CE]2>d2) (d2>e2) eeed | ([^GB]2>B2) (B2>c2) c2A2 | 
+([^GB]2>B2) (B2>c2) cdcB | c2>d2 e2fe d2cd | (AG)Ac (ed)cB A2E2 |1 
+(^GF)ED D2C2 C4 :|2 (AG)FE F2D2 (A,B,)A,G, | "^Stämförslag B.O. -08." A,2C2 D2A,D C2A,G, | A,2CD A,6 z2 |]
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:116
+T:Vindmölledans
+T:(Sv Folkdanser Del 1)
+O:Scheeßel (Niedersachsen), Tyskland
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 116. Vindmölledans"
+Z:http://runeberg.org/folkdans/besk/0272.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 116
+L:1/4
+M:3/4
+K:C
+V:1
+"^1""^Förspel" C2 F | F2 A | A G E | F2 z |:[K:C][M:3/4][K:treble]"^Dans""^(1)" G c e | G c e | G c e | 
+g f d | G _B d | G _B d |1 G _B d | f e c :|2 f e d | c2 z |: 
+"^(2)" a3/2 a/ a | "^1:a 2 ggr. 2:a 2 ggr. 3:e 3 ggr. 4:e 2 ggr. Avslutas med 1:a 2 ggr. Upprepas 2 ggr."g3/2 g/ g | f e d | c e g | a3/2 a/ a | g3/2 g/ g | f e d | c2 z ::
+[K:F]"^(3)" c2 f | f2 a | a g g | g f f | c2 f | f2 a | a g e | f2 z ::
+"^(4)" C D E | F E D | C D E | F E D | C2 F | F2 A | A G E | F2 z :| 
+V:2
+"^2""F" A,2 A, | A,2 F |"C7" F E C |"F" A,2 z |:[K:C][M:3/4][K:treble]"C" E G c | E G c | 
+E G c |"G7" e d _B | D G _B | D G _B |1 D G _B |"C" d c G :|2"G7" d _B G |"C" E2 z |: 
+"F" f3/2 f/ f |"C" e3/2 e/ e |"G7" d _B G |"C" E G c |"F" f3/2 f/ f |"C" e3/2 e/ e | "G7" d _B G |"C" E2 z ::
+[K:F]"F" A2  A | A2 c |"C7" c B B |"F" B A A | A2 A | 
+A2 c |"C7" c B G |"F" A2 z ::"F" A, B, C |"Bb" D C B, |"F" A, B, C |"Bb" D C B, | 
+"F" A,2 "^Stämförslag B.O."A, | A,2 F |"C7" F E C |"F" A,2 z :|
+

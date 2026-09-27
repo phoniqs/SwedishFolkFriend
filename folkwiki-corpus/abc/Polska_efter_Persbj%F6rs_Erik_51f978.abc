@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Persbjörs Erik
+S:Efter Perbjörs Erik Persson.
+O:Lima, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1
+|:"^1""^Springlek" A2 a2 g>e | f2 fa (3(efe) | d>(c A>)(c d>)f | e2 ec A2 | 
+A2 a2 g>e | f2 fa e2 | d>(c A>)(c d>)f | (e<c) d4 ::
+ d>(c A2) c>d | (e>g) fd e2 | d>(c A>)(c d>)f | e2 ec A2 | 
+d>(c A2) c>d | (e>g) fd e2 | e2 (3(gag) f>e | (c<e) d4 :| 
+V:2
+|:"^2" F2 f2 e>c | d2 df c2 | F>(E C>)(E F>)A | c2 cA E2 | 
+E2 c2 c>A | A2 AF G2 | F>(E C>)(E F>)A | (G<E) F4 :: 
+F>(E C2) E>A | (c>e) dA c2 | F>(E C>)(E F>)A | G2 GE C2 | 
+F>(E C2) E>F | "^Stämförslag B.O." (G>B) AF G2 | G2 B2 A>F | (E<G) F4 :|
+

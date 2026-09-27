@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Tengbergs polska
+O:Dalarna
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Allm. trad."
+Z:Jämför SvL Dalarna 1160 i annan tonart.
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" (B/ |: A>)(F D>F) A>d | (d/c/d) f2 d>f | e>(c A>c) e>g | (g/f/g) (a>f) d>B | 
+A>(F D>F) A>d | (d/c/d) f2 d>f | e>(c A>c) e>g |1 (f<e) [Fd]5/2 B/ :|2 (f<e) [Fd]4 |: 
+f>(g a>b) a>f | d>(e f>g) f>a | (g>f) (e>^d) e>g |T (f>e) (d>c) d>e | 
+f>(g a>b) a>f | d>(e f>g) f>a |T (g>f) (e>d) c>e | d2 [Fd]4 ::
+[K:G] (B>c) (d>^c) d>e | (d>g) B5/2 d/ | (d>c) A2 A>e | (e>d) B2 G>B | (B>c) (d>^c) d>e | 
+(d>g) B5/2 d/ |1 (d/^c/d) (e>d) =c>A | G2 [B,G]4 :|2 (d^c/d/) (3fed (3=cBA | G2 [B,G]5/2 z/ |] 
+V:2
+"^2" (G/ |:"D" F>)(D A,>D) F>A | (A/G/A) d2 A>d |"A7" c>(A E>A) c>e | "D" (e/d/e) (f>d) A>G | 
+F>(D A,>D) F>A | (A/G/A) d2 A>d |"A7" c>(A E>A) c>B |1"A7" (A<G)"D" [DA]5/2 G/ :|2 "A7" (A<G)"D" [DA]4 |:
+"D" d>(e f>g) f>d | A>(c d>e) d>f |"A7" (e>d) (c>B) c>e | "D" (d>A) (F>E) F>A | 
+d>(e f>g) f>d | A>(c d>e) d>f |"A7" (e>d) (c>B) A>G |"D" F2 [DA]4 :: 
+[K:G]"G" (G>A) (B>A) B>c | (B>d) G5/2 B/ |"D7" (B>A) F2 F>c |"G" (c>B) G2 D>G | 
+(G>A) (B>A) B>c | (B>d) G5/2 B/ |1 "D7" (F/E/F) (A>F) D>C |"G" B,2 [G,D]4 :|2 "D7" (F"^Stämförslag B.O."E/F/) (3AGF (3EDC |"G" B,2 [G,D]5/2 z/ |]
+

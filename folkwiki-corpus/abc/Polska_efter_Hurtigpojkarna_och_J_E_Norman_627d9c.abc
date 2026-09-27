@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Hurtigpojkarna och J E Norman
+S:Hurtigpojkarna
+S:J E Norman
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (45) efter Hurtigpojkarna och J.E. Norman, Säter."
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" A>d ^c2 d2 | (f>g) (ef) d>^c | (d>e) (f>e) d>^c |1 (de) ^c3 z :|2 (ef) d3 A |: 
+d>(e f>e) d>^c | de (fg) a>e | f>a e2 g>f | d2 ^c3 e | 
+f>(e d>^c) A>e | g>e f>d e>e | d2 f>e d>^c |1 ^c2 d3 A :|2 ^c2 d3 z |] 
+V:2
+|:"^2" E>G E2 F2 | A2 (GA) F>E | F2 (A>G) F>E |1 (FG) E3 z :|2 (GA) F3 D |: 
+F>(A d>^c) A>G | FA (de) ^c>A | A2 G2 B>G | F2 E3 G | 
+A>(G F>E) ^C>G | B>G A>F G>G | F2 A>G F>E |1 E2 F3 D :|2 "^Stämförslag B.O." E2 F3 z |] 
+

@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:40
+T:Polska efter Jons-Axel Nr 40
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polska
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 40. Polska"
+L:1/8
+Q:1/4=120
+M:3/4
+K:G
+V:1
+|:"^1"v d>e (d>B) G2 | D>E (D>B,) G,2 | (3(fgf) (d>f) b>a | g>a (g>e) d2 | 
+d>e (d>B) G2 | D>E (D>B,) G,2 | (3(fgf) (d>f) b>a | g2 g2 z2 ::
+v (G>B) (d>g) B>d | G>B (d>g) b2 | c'>c' (c'>a) (f>a) | g>g (g>d) B2 | 
+(G>B) (d>g) B>d | G>B (d>g) b2 | c'>c' (c'>a) (f>a) | g2 g2 z2 ::
+v dd (d>B) (g>e) | d>B (G>B) G2 | c>A (F>A) F2 | f>e (d>c) B2 | 
+dd (d>B) (g>e) | d>B (G>B) G2 | (f>e) (d>c) B>A | G2 [Bg]2 z2 :| 
+V:2
+|:"^2""G" B>c (B>G) D2 | B>c (B>G) D2 |"D7" c2 (A>c) d>c |"G" B>c (B>G) G2 | B>c (B>G) D2 | 
+B>c (B>G) D2 |"D7" c2 (A>c) d>c |"G" B2 B2 z2 ::
+"G" (D>G) (B>d) G>B | D>G (B>d) g2 | "D7" f>f f>d c>d | "G" B>B (B>G) D2 |
+(D>G) (B>d) G>B | D>G (B>d) g2 | "D7" f>f f>d c>d | "G" B2 B2 z2 :: 
+"G" BB (B>G) (e>c) | B>G (E>G) D2 |"D7" A>F (D>F) C2 |"D7" d>c (B>A)"G" G2 |"G" BB (B>G) (e>c) | 
+"^Stämförslag B.O." B>G (E>G) D2 |"D7" (A>G) (F>E) D>C |"G" B,2 [B,G]2 z2 :| 
+

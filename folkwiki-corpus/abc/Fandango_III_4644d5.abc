@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:9
+T:Fandango III
+O:Norge
+R:Fandango
+Z:[[Personer/Bengt Ohlson]]
+Z:"Norge, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/16
+Q:1/4=68
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (fd)Ad (fc')ba | g4 z2 |][K:G][M:2/4][K:treble]"^Dans"[Q:1/4=68] DG |: (BG)DG (Bd)^cd | (ed)Bd (gb)ag | 
+(fd)Ad (fc')ba | (gb)gd B2DG | (BG)DG (Bd)^cd | (ed)Bd (gb)ag | 
+(fd)Ad (fc')ba |1 g4 z2 DG :|2 g4 z2 bb |: (ba)gf (gf)e^d | (ef)ge B2gg | 
+(gf)e^d (e=d)cB | (cd)ec A4 | (B^d)fa (fd)BA | (GB)eg b2 z d | 
+(cd)ed (cB)cA |1 G4 z2 bb :|2 G4 z4 | [K:C][M:3/4][Q:1/4=129]"^Vals" (e2^f2) |: g8 a2g2 | ^f4 g4 c'4 | 
+^d4 e4 g4 | B4 c4 e4 | G6 B2d2^f2 | a8 g4 | ^f8 e2d2 |1 c4 z4 (e2^f2) :|2 c8 z4 |] 
+V:2
+"^2" (dA)FA (de)dc | B4 z2 |][K:G][M:2/4][K:treble] B,D |: (GD)B,D (GB)^AB | (cB)GB (Bd)cB | 
+(dA)FA (de)dc | (Bd)BG D2B,D | (GD)B,D (GB)^AB | (cB)GB (Bd)cB | (dA)FA (de)dc |1 B4 z2 B,D :|2 B4 z2 gg |: 
+(gf)e^d (eB)GF | (GA)BG E2BB | (BA)GF (GB)AG | (AB)cA E4 | (FB)^df (dB)AF | 
+(EG)Be g2 z B | (AB)cB (AG)FD |1 B,4 z2 gg :|2 B,4 z4 |[K:C][M:3/4] (c2d2) |: 
+e8 ^f2e2 | ^d4 e4 g4 | B4 c4 e4 | D4 E4 G4 | E6 G2B2d2 | "^Stämförslag B.O." c8 B4 | d8 B2G2 |1 E4 z4 (c2d2) :|2 E8 z4 |]
+

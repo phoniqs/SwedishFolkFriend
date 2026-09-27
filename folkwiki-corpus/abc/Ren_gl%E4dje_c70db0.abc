@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Ren glädje
+T:(andrastämman)
+C:Karin Wiklund
+O:Hudiksvall, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. och stämma Karin Wiklund, 1995-08-20."
+L:1/16
+M:2/4
+K:Bb
+V:2
+|:"^2""Bb" DB,DF BFDF | B,DFD B,2D2 |"Eb" B,G,B,E EB,GE | B,GeG [B,Ge]2[B,Fd]2 | 
+"F7" [A,F]4 e2c2 | f2c2 A,FcF | ed^cd =c2d2 |"Bb" [B,F]6 [B,F]2 | 
+DB,DF BFDF | B,DFD B,2D2 | "Eb" B,G,B,E EB,GE | B,GeG [B,Ge]2[B,Fd]2 |
+"F7" [A,F]4 e2c2 | f2c2 A,FcF | ed^cd =c2[A,F]2 | "Bb" [B,F]8 ::
+"Eb" [G,E]2[EB]2 B,GeG | eGBG [G,E]2[Ge]2 |"Bb" [Fd]2[B,F]2 B,FdF | dFBF [B,F]2[Fd]2 | 
+"F7" A,2>C2 F2A2 | [A,F]2e2 [Fc]4 | A,2>B,2 C2A,2 |"Bb" [B,D]2[B,F]2 [DB]4 | 
+"Eb" [G,E]2[EB]2 B,GeG | eGBG [G,E]2[Ge]2 | "Bb" [Fd]2[B,F]2 B,FdF | dFBF [B,F]2[Fd]2 | 
+"F7" A,2>C2 F2A2 | [A,F]2e2 [Fc]4 | A,2>B,2 C2A,2 |"Bb" [B,F]4 [B,F]4 :: 
+[K:Eb]"Eb" G2>E2 G,2B,2 | BGEG [B,G]2[G,E]2 |"Ab" C2>A,2 C2E2 | [A,E]4 [CA]4 | 
+"Bb7" B2>A2 F2D2 | [B,D]4 [A,D]4 | [AB]4 [CA]4 |"Eb" [B,G]8 | 
+G2>E2 G,2B,2 | BGEG [B,G]2[G,E]2 | "Ab" C2>A,2 C2E2 | CEAE [Ec]2[A,E]2 |
+"Bb7" DB,DF [FB]2[B,F]2 | f2d2 B2A2 | [B,D]4 [A,D]4 | "Eb" [B,E]8 :|
+

@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Vägen till Dalstuga
+T:Gånglåt
+C:Jonas Knutes
+O:Bingsjö, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:Stämma av "Maffe" 1995.
+N:Finns på youtube med Jonas Knutes och Johan Nylander: https://www.youtube.com/watch?v=U51cZtZ3Qt0
+Q:90
+L:1/8
+M:2/4
+K:G
+V:1
+"^1"u D |:v G>D B,(D/B,/) | G,B, DG | B2 (B/c/)B/A/ | B3 (A/B/) | c>B AG | 
+ (F/G/)F/E/ D2 | DE/D/ CD/C/ | B,3 D | G>D B,(D/B,/) | G,B, DG | B2 (B/c/)B/A/ | 
+B3 (A/B/) | c>B AG | (F/G/)F/E/ D2 | (D/F/)A/F/ (D/F/)A/F/ |1 G3 D :|2 G3 G |:
+v E>C CE | GA/G/ (FE) | (D>C) (B,/D/)G/A/ | B3 B | A>A AB | cB AG | 
+FG/F/ EF/E/ | D3 G | E>C CE | GA/G/ (FE) | (D>C) (B,/D/)G/A/ | B3 B |
+A>A AB | cB AG | (F/G/)A/F/ (D/F/)A/F/ |1 G3 G :|2 G3 z |] 
+V:2
+"^2" D |: "G" B>G D(G/D/) | (B,D) (B,/D/)G/B/ | d2 (d/e/)d/c/ | d3 (c/d/) |"Am" e>d cB | 
+"D7" (A/B/)A/G/ F2 | FG/F/ EF/E/ |"G" D3 D | B>G D(G/D/) | (B,D) (B,/D/)G/B/ | d2 (d/e/)d/c/ | 
+d3 (c/d/) |"Am" e>d cB | "D7" (A/B/)A/G/ F2 | (C/D/)F/D/ (C/D/)F/D/ |1 "G" B,3 D :|2 "G" B,G, A,B, |: 
+"C" C>G, G,C | EF/E/ (DC) |"G" (B,>A,) (G,/A,/)B,/C/ | D3 D | "D7" F>F FG | AG FE |
+DE/D/ CD/C/ | "G" B,G, A,B, |"C" C>G, G,C | EF/E/ (DC) |"G" (B,>A,) (G,/A,/)B,/C/ | D3 E | 
+"D7" F>D FG | AF DC |"^Stämma av Maffe 1995." (A,/D/)F/D/ (C/D/)C/A,/ |1 "G" B,G, A,B, :|2 "G" B,3 z |]
+

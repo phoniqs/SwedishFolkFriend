@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Pers Hans
+S:Pers Hans Olsson
+O:Rättvik, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" AE A2 c2 | B>(c d/e/)d/c/ B>c | dc/d/ B2 a2 | g>(f e/f/)e/d/ cB | 
+AE A2 c2 | B>(c d/e/)d/c/ B>c | (3(d/e/d/) c/d/ (fe) c>d | (B/d/)B/G/ A4 :: 
+ef/e/ (cA) EE | AA cA/c/ e>(c | d)e/d/ (BG) EE | GG BG/B/ d2 | 
+(3(d/e/d/) c/d/ (fe) c>e | ef/e/ (dB) G>B | (B/d/)B/G/ A4 :| 
+V:2
+|:"^2" EC E2 A2 | G>(A B/c/)B/A/ G>A | BA/B/ G2 f2 | e>(d c/d/)c/B/ AG | 
+EC E2 A2 | G>(A B/c/)B/A/ G>A | BA/B/ (dc) A>B | (G/B/)G/E/ C4 :: 
+cd/c/ (AE) CC | EE AE/A/ c>(A | B)c/B/ (GE) B,B, | EE GE/G/ B2 | 
+BA/B/ (dc) A>c | cd/c/ (BG) E>G | (G/"^Stämförslag B.O."B/)G/E/ C4 :| 
+

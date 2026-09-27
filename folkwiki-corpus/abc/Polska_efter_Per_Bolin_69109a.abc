@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Per Bolin
+S:Efter Per Bolin
+O:Tåsjö, Östra by, Jämtland
+R:Polska
+Z:Efter Per Bolin, (1837-1914), Tåsjö, Östra by.
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+Q:1/4=100
+M:3/4
+K:F
+V:1
+"^1" c/d/ |: c>B Af ed | cB (3BAB A2 | FG/A/ BB AA | GG (3FGF EG | 
+c>B Af ed | cB (3BAB A2 | FG/A/ BB AA | GG F4 :: 
+(3cde ff aa | (3gag (3fgf ed | (3cde f2 a2 | (3gag c4 | 
+(3cde f2 a2 | (3gag (3fgf ed | (3cdc BB AA | GG F4 :| 
+V:2
+"^2" A/B/ |: A>G Fd cB | AG (3GFG F2 | A,C/F/ GG FF | EE (3DED CE | 
+A>G Fd cB | AG (3GFG F2 | A,C/F/ GG FF | EC A,4 :: 
+(3EFG AA cc | (3BcB (3ABA GF | (3EFG A2 c2 | (3BcB E4 | 
+(3EFG A2 c2 | (3BcB (3ABA GF | (3EFE DD CC | B,B,"^B.O." A,4 :|
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:6
+T:Familjevals
+O:Sverige
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sverige, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/4
+M:3/4
+K:G
+V:1
+"^1""^Förspel" G B d | (f/e/) (d/c/) B/A/ | G2 z |]:[K:G][M:3/4][K:treble]"^Dans" G B d | d3/2 c/ B | A f/A/ c | 
+B g/B/ d | G B d | d3/2 c/ B | A (f/d/) f/a/ |1 g2 z :|2 g2 (b/a/) |: 
+g d g | f2 a/g/ | f e f | g2 b/a/ | g d g | f2 a/g/ | f e f |1 g2 (b/a/) :|2 g2 z |: 
+d B B | e2 d | c A A | f2 e | d B B | g2 d | (f/e/) (d/c/) B/A/ |1 G2 (B/c/) :|2 G2 z |] 
+V:2
+"^2" B, G B | (d/A/) (F/A/) F/D/ | B,2 z |]:[K:G][M:3/4][K:treble] B, G B | B3/2 A/ G | F A F | 
+G B G | B, G B | B3/2 A/ G | F A c |1 B2 z :|2 B2 (d/c/) |: B G B | c2 f/e/ | d c d | B2 d/c/ | 
+B G B | c2 f/e/ | d c d |1 B2 (d/c/) :|2 B2 z |: B G G | c2 B | A F F | "^Stämförslag B.O." c2 c | B G G | B2 B | 
+(d/A/) (F/A/) F/D/ |1 B,2 (G/A/) :|2 B,2 z |]
+

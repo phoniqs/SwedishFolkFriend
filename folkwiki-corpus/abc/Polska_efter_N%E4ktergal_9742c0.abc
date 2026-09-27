@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Näktergal
+S:Kers Erik Ersson
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (8) eft. Kers-Erik Ersson Näktergal, Säter."
+Z:"Alla flickor dom ä klara som e sol
+Z:sällan ä dä kräka hemma. 
+Z:inte kan dom spinna, sätta väv igång å
+Z:Inte kan dom spinna, sätta väv igång å
+Z:men en del bli usla kviinnor"
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" d>(^c A>)(c d>)e | f>(e d/^c/d) e>g | f>(e d>)(e f>)a |
+(g<=b) a4 :: f(f a>)(g e>)f | d(dT f>e) ^c5/4e/4 | 
+f(f a>)(g e>)f | d(dT f>e) ^c>c | d>(e f>)(gT f>)e | ^c2 d4 :| 
+V:2
+|:"^2" F>(E ^C>)(E F>)A | d>(A F/E/F) [E^c]>e | d>(A F>)(A d>)f | 
+(e<d) [^ce]4 :: d(d f>)(e ^c>)d | A(A d>^c) A5/4E/4 | 
+F(F A>)(G E>)F | D(D F>E) ^C>E | F>(A d>)(e d>)A"^Stämförslag B.O." | E2 [FA]4 :|
+

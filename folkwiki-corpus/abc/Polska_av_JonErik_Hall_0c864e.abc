@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:2
+T:Polska av Jon-Erik Hall
+T:(SvL Hälsingland 2)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 2
+O:Hassela, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]] (Nr 14 i Bengt Ohlsons Hall-samling)
+L:1/8
+M:3/4
+K:Gm
+V:1
+|:"^1" G>D G>A BG | A>G (^F/G/)A/B/ G2 | B>F B>d fd | e>d (c/d/)e/f/ d2 | 
+ G>D G>A BG | A>(G ^F/G/)A/B/ cA | B>A (G/A/)B/c/ dc/B/ | AB/A/ G4 :: 
+(F/E/)D/E/ (FB) dB | FG/F/ EF/E/ DB, | (F/E/)D/E/ (FB) dB | FG/F/ EF/E/ D2 | 
+(B/A/)G/A/ (Bc) dB | (c/=B/)c/d/ eg d2 | (f/=e/)f/g/ (fd) BD | FB/d/ c2 B2 :| 
+V:2
+|:"^2""Gm" B,2 D2 GD |"D7" ^F2 DC "Gm"B,2 |"Bb" D2 F2 BB | "F7"A2 AG "D7"^F2 | 
+"Gm"B,2 D2 GD |"D7" ^F2 (DF) AF | "Gm" G2 (DG) BG |"D7" (^FD) "Gm" B,4 ::
+"Bb" B,2 (DF) BF |"Bb" D2 "F7"C2 "Bb" B,F |"Bb" B2 (DF) BF |"Bb" D2 "F7"C2 "Bb" B,2 | 
+"Gm" (G/D/)B,/D/ (GA) BG |"Cm" (A/G/)A/B/ cB "D7" ^F2 |"F7" (A/^G/)A/B/ (AF)"Bb" DB, | "Bb" DD/F/"_B.O." "F7" E2 "Bb" D2 :| 
+

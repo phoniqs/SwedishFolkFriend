@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Stjuls
+R:Gånglåt
+C:Benny Andersson
+Z:Karin Helander
+N:Inspelad på CD med Benny Andersson och Orsa Spelmän "November 1989": https://www.youtube.com/watch?v=GvH830WjjcI
+N:Finns även en annan version på spillefolk: https://www.spillefolk.dk/nodesamling/visnode.php?key=xx-stjuls
+N:Stjuls är en egen dans från Rättvik (uttalas s-t-j-uls), se exempel med Leif Virtanen: https://www.youtube.com/watch?v=7x4AkEttmp4
+M:2/4
+Q:100
+L:1/16
+K:D
+V:1
+"D" (d2A2) FAAd | "G" (d2B2) BGBd | "A" e2d2 cAce | "A7" a2g2 "D" (f2d2) | 
+"D" (d2A2) FAAd | "G" (d2B2) BGBd | "A7" e2c2 A2(Bc) | "D" d4 !fine! d4 :| 
+|: "A" cdef g2ed | cdec "G" G4 | "A" cdef gfed | fedc "D" B2A2 :|
+[| "A" cdef g2!>!a2 | cdeg "G" G4 | "A" cdef gfed | fedc "D" B2A2 |
+"A" cdef g2ed | cdec "G" G4 | "A" cdef gfed | fedc "A7" BABc !D.C.! |]
+

@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Hälsingebocken
+T:Polka
+C:Eric Öst
+R:Polka
+O:Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Eric Öst."
+Z:"Arr. Eric Öst."
+L:1/16
+M:2/4
+K:C
+V:1
+|:"^1"v gage gage | g2ee (!>!e2!>!e2) | gage gage | g2ff (!>!f2!>!f2) | (fg)fe (de)dc | (Bc)BA (GA)Bc | 
+(d^c)de (fg)ab | (ag)ec G4 | gage gage | g2ee (!>!e2!>!e2) | (cB)cd (ec)de | (fe)fg a4 | 
+afdf afdf | gece gece | fedc BagB | c2c2 c4 ::[K:G]v (DG)BG (DG)BG | (EG)cG (EG)cG | (DF)cF (DF)cF | 
+(GF)GA (BG)F=F | (E^G)BG (EG)BG | (EA)cA (EA)cA | (DF)AF (DF)AF | G2G2 G4 ::[K:C][K:F]v Acfc Acfc | Acfc Acfc | 
+Acfc Acfc | Bcec Bcec | Bcec Bcec | Bcec Bcec | Bcec Bcec | d2cc (!>!c2!>!c2) | Acfc Acfc | 
+Acfc Acfc | Acfc Acfa | g2dd (!>!d2!>!d2) | gdBd gdBd | fcAc fcAc | edcd eceg | f2f2 f4 :| 
+V:2
+|:"^2""C"v efec efec | e2cc (!>!c2!>!c2) | efec efec |"G7" B2dd (!>!d2!>!d2) | (de)dc (Bc)BA | 
+(GA)GF (DF)GA | (B^A)Bc (de)fd |"C" c2GE E4 | efec efec | e2cc (!>!c2!>!c2) | E2EG (cE)FG | 
+"F" A2Ac f4 |"Dm" fdAd fdAd |"C" ecGc ecGc |"G7" dcBA GcBF |"C" E2E2 E4 :: 
+[K:G]"G" (B,D)GD (B,D)GD |"C" (CE)GE (CE)GE |"D7" (CD)AD (CD)AD |"G" (B,C)DF (GG,)A,B, | 
+"E7" (B,E)^GE (B,E)GE |"Am" (CE)AE (CE)AE |"D7" (A,D)FD (A,D)FD |"G" B,2B,2 B,4 :: [K:C][K:F]"F" FAcA FAcA | FAcA FAcA | 
+FAcA FAcA |"C7" GBcB GBcB | GBcB GBcB | GBcB GBcB | GBcB GBcB |"F" B2AA (!>!A2!>!A2) | FAcA FAcA | 
+FAcA FAcA | FAcA FAcf |"Bb" d2BB (!>!B2!>!B2) | "Gm" dBGB dBGB |"F" cAFA cAFA |"C7" cBGB cBcB |"F" A2A2 A4 :|
+

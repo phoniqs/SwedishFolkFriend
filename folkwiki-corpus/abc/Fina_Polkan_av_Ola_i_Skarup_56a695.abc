@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:1
+T:Fina Polkan av Ola i Skarup
+R:Polka
+O:Blekinge
+Z:Andy Davey 2023
+M:2/4
+L:1/16
+K:D
+|: "D"D2E2 F2G2 | AAAA A2F2 | "A7"GGGG G2E2 | "D"AAAA AGFE |  
+   "D"D2E2 F2G2 | AAAA A2F2 | "A7"GGGG G2C2 | "D"D2D2 D2 z2 :|
+K:G
+|: "G"B3A  "C"G2E2 | "G"DEDC D4  | "G"B3A  "C"G2E2 | "G"DEDC D4  |
+   "D7"cccc c2A2 | "G"BBBB B2G2 | "D7"c2A2 G2F2 | A4 "G"G2 z2 :|
+

@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Kindbopolska
+B:25 Västgötalåtar arrangerade för två fioler och altfiol, Gösta Klemming, 1978, Göteborgs Spelmansgille
+O:Västergötland
+C:efter Gösta Rackare
+C:efter Karl Salomonsson
+Z:Göran Gustafsson, 2020-07-01
+R:Polska
+M:3/4
+L:1/8
+K:Gm
+|:(g>d) (d>c) (c>B) | (B>c) A2 ^F2 | (G>A) (B>c) (d>c) | (B>c) (A>^F) D2 | 
+(g>d) (d>c) (c>B) | (B>c) A2 ^F2 | (G>A) (B>c) (d>c) | (A>^F) G4 :|
+(d>c) (B>A) (B>c) | (d>c) A2A2 | (d>c) (B>A) (B>c) | (d>c) [DA]2 ([DA]>c) |
+(B>A) (G>^F) (G>A) | (B>c) d2g2 | d2 (d>c) (B>c) | (A>^F) D4 | 
+(d>c) (B>A) (B>c) | (d>c) A2A2 | (d>c) (B>A) (B>c) | (d>c) [DA]2 ([DA]>c) |
+(B>A) (G>^F) (G>A) | (B>c) d4 !breath!| (d>c) (B>c) (A>^F) | (D>^F)G4 ||
+

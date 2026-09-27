@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1346
+T:Polska efter Gustaf Tornberg
+T:(SvL Dalarna 1346)
+O:Enviken, Dalarna
+S:Vilhelm Hedlund
+S:Gustaf Tornberg
+B:Svenska Låtar Dalarna
+R:Polska
+N:SvL: Polskan sjöngs mycket av Hedlunds moder. Den skall, enligt Hedlund, härstamma från Gustav Tornberg.
+Q:1/4=144
+M:3/4
+L:1/8
+K:Ddor
+A>d d(e/d/) ^c>(c|d>)(e f/)(e/.f/)d/ [ee][ee]|ef/g/ (a/_/b/)a/g/ e>d|d/e/d/^c/ [AA,]2-L[AA,]2|
+A,2 d(e/d/) ^c>(c|d>)(e f/)e/f/d/ [ee][ee]|ef/g/ (a/_/b/)a/g/ e>d|d/e/d/^c/ [AA]4:|
+|:a2 {/_b}ag/a/ _ba|Ta2 (gf/g/) a>^c|d>e e>f fd|d^c/d/ !tenuto!e!tenuto!c [AA]2|
+[aA]2 {/_b}ag/a/ _ba|Ta2 (gf/g/) a>^c|d>e e>f fd|^c2 [dD]4:|
+

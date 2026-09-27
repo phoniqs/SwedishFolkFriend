@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1349
+T:Polska efter Vilhelm Hedlund
+T:(SvL Dalarna 1349)
+S:Vilhelm Hedlund
+B:Svenska Låtar Dalarna Nr 1349
+O:Enviken, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Vilhelm Hedlunds farfar. Sv.L. nr.1349.
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1" (ea) (^ga) ef | de c2 A2 | (A^G) (AB) cA | AB/A/ ^GB E2 | 
+(ea) (^ga) ef | de c2 A2 | (A^G) (AB) cA | (B^G) A4 :: 
+(ea) (^gb) ae | g(a/g/) f2 d2 | (c>B) (AB) c>A | (A^G) B4 | 
+(ea) (^gb) ae | g(a/g/) f2 d2 | (c>B) (cd) ed | (B^G) A4 :| 
+V:2
+|:"^2" c2 B2 A2 | G2 E2 C2 | (CB,) (CD) EC | CD/C/ B,E B,2 | 
+c2 B2 A2 | G2 E2 C2 | (CB,) (CD) EC | (DB,) C4 :: 
+c2 d2 c2 | B2 A2 F2 | (E>D) (CD) E>C | (CB,) [B,D]4 | 
+c2 d2 c2 | B2 A2 F2 | (E>D) (EF) GF | (DB,)"^B.O." [CE]4 :|
+

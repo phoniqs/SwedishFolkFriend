@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Trefaldighetsträffen
+T:Gånglåt
+C:Joel Rådberg
+O:Sandviken, Gästrikland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Joel Rådberg"
+L:1/16
+M:2/4
+K:D
+V:1
+"^1" A2 |: [Af]4 (af)ge | d4 (fe)dc | B2GB d2cB | A2d2 f2a2 | [Ag]4 (ga)gf | 
+e2A2 c2e2 | [Af]4 (fg)fe | d2A2 (FA)(de) | [Af]4 (af)ge | d4 (fe)dc | B2GB d2cB | 
+A2d2 f2a2 | b2gd (Bd)gb | a2fd (Ad)fa | [Ag]2[Ag]2 (fd)(ec) | [Fd]6 A2 :: 
+[Ae]4 (ef)gf | e2A2 G2E2 | [Af]4 (fg)ag | f2A2 F2D2 | [gb]4 [gb]2[gb]2 | [fa]2[df]2 [df]2[df]2 | 
+[Ae]2[Ae]2 g2fe | [df]4 [Fd]4 | [Ae]4 (ef)gf | e2A2 G2E2 | [Af]4 (fg)ag | f2A2 F2D2 | 
+B,2b2 b2(ge) | F2a2 a2(fd) | A2g2 (fd)(ec) |1 [Fd]6 A2 :|2 [Fd]6 z2 |] 
+V:2
+"^2" A2 |:"D" d4 (fd)cA | F4 (dc)BA | "G" G2DG B2AG |"D" D2A2 d2f2 |"A7" e4 (ef)ed | 
+c2E2 A2c2 | "D" d4 (de)dA | [FA]2[FA]2 (DF)(Ac) | d4 (fd)cA | F4 (dc)BA | "G" G2DG B2AG |
+"D" D2A2 d2f2 | "G" g2dB (GB)dg | "D" f2dA (FA)df |"A7" [ce]2[ce]2 (dB)(cA) |"D" [DA]6 A2 ::
+"A7" [Gc]4 (cd)ed | c2G2 E2C2 |"D" d4 (de)fe | d2F2 D2A,2 |"^pizz.""G" .B,2.D2 .G2.D2 |"D" .F2.A2 .d2.A2 | 
+"^arco.""A7" [Gc]2[Gc]2 e2dc |"D" d2A2 F2A2 |"A7" [Gc]4 (cd)ed | c2G2 E2C2 |"D" d4 (de)fe | 
+d2F2 D2C2 |"G" G,2g2 g2(BG) |"D" D2f2 f2(dA) |"A7" E2e2 (dB)(cA) |1 "D" [DA]6 A2 :|2 "D" [DA]6 z2 |]
+

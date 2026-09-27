@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:19
+T:Laforsen Polska.
+C:Jon-Erik Öst
+R:Polska
+O:Hälsingland
+Z:Karin Helander
+B:25 spelmanslåtar från Hälsingland nr 19
+N:"Tillägnad av J. E. Öst 1927"
+N:Andrastämma av [[Personer/Thore Härdelin den äldre]]
+L:1/16
+M:3/4
+K:Dm
+V:1
+{A=B^c} d2=c_B A2G2 {FG}F2D2 | {EF}E2D^C D8 | (A,D)(FD) (AF)(dA) (fd)(af) | (ed)^ca A2G2 [F4A4] |
+{A=B^c} d2=c_B A2G2 {FG}F2D2 | {EF}E2D^C D8 | (A,D)(FD) (AF)(dA) (fd)(af) | (ed)^ce d6 z2 :| 
+((3 F2c2a2) {cd}c2B2 B2A2 | ((3 E2c2g2) {cd}c2B2 B2A2 | ((3D2A2f2) {fe}d2dc B2BA | G2GA (GE)FD C4 | 
+((3 F2c2a2) {cd}c2B2 B2A2 | ((3 E2c2g2) {cd}c2B2 B2A2 | ((3D2A2f2) {fe}d2dc B2BA | EGcG [F4A,4] z4 :|
+([DA][FD])([FA][DF]) ([DA][^CE])([EA][EC]) [D2A2][A2A,2] | ([DA][FD])([FA][DF]) ([DA][^CE])([EA][EC]) [D2A2][A2A,2] | ([eA][^cA])([ecA][cA]) ([ecA][^G=B])([eB][BG]) ([eA][cA])([ce][cA]) | 
+(E^G)=Be [A4A,4] z4 :: G,[db][da][db] ([c'd][bd])[ad][bd] ([d'd][bd])[ad][bd] | (af)ef (gf)ef (af)ef | 
+(gf)ed (^cA)eA (cA)eA | (d^c)de (fe)fg [a4A4] | G,bab (c'b)ab (d'b)ab | 
+(af)ef (gf)ef (af)ef | (gf)ed (^cA)eA (cA)eA | (fe)d^c d4 z4 :| 
+

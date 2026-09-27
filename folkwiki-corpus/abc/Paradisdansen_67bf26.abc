@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Paradisdansen
+O:Vinslöv, Skåne
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Vinslöv, Skåne, 1875.
+Z:Spelas med repr. önsk. ant. ggr. Avslutas med första repr.
+L:1/8
+M:3/4
+K:Am
+V:1
+"^1""^Förspel" e2 d2 B2 | d2 c2 A2 | (cB) (^GA) BG | A3 z |][M:3/4][K:treble]"^Dans" (ed) |: c2 B2 A2 | 
+e4 ^G2 | (Ac) B^G E2 | A3 ^GAc | B3 ^G E2 | B3 ABd | c3 B A2 | 
+e2 d2 B2 | d2 c2 A2 | (cB) (^GA) BG |1,8 A3 z (ed) :|2 A4 z2 | 
+(A^G) (Ac) BA | (BA) (Bd) cB | (A^G) (Ac) BA | E4 z2 | 
+(A^G) (Ac) BA | (BA) (Bd) cB | (A^G) (Ac) BA | E3 z (ed) |] 
+V:2
+"^2" c2 B2 ^G2 | B2 A2 E2 | (A^G) (E^F) GE | [CE]3 z |][M:3/4][K:treble] (cB) |: A2 E2 C2 | 
+[^GB]4 D2 | (CA) ^GE [B,D]2 | C3 B,CE | ^G3 E [B,D]2 | ^G3 ^FGB | A3 E [CE]2 | c2 B2 ^G2 | 
+B2 A2 E2 | (A^G) (E^F) GE |1,8 [CE]3 z (cB) :|2 [CE]4 z2 | (cB) (ce) dc | (dc) (df) ed | 
+(cB) (ce) dc | [^GB]4 z2 | (CB,) (CE) DC | "^Spelas med repr. önsk. ant. ggr.""^Avslutas med första repr." (DC) (DF) ED | (CB,) (CE) DC | "^Stämförslag B.O." [B,D]3 z (cB) |]
+

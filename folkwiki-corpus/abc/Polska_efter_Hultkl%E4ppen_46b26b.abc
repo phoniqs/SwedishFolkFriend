@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:370
+T:Polska efter Hultkläppen
+T:(SvL Hälsingland 370)
+C:Johan von Schwartz
+S:Per Hult Alcén Hultkläppen
+S:Jonas Erik Bergsman
+B:Svenska Låtar Hälsingland Nr 370
+O:Hassela, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter J. E. Bergsman, Ljusdal
+L:1/16
+M:3/4
+K:Dm
+V:1
+|:"^1" A2=B^c d4 A2>f2 | (3(fgf) ed e4 A2>e2 | (fe)fg (ag)fe (gf)(ed) | (fe)d^c d2A2 F2ED | 
+A2=B^c d4 A2>f2 | (3(fgf) ed e4 A2>e2 | (fe)fg (ag)fe (gf)(ed) |1 (fe)d^c d8 :|2 (fe)d^c d6u a2 |:
+ (Fc)(ac) (Fc)(ac) (Fc)(ac) | a2gf (e2g2) e2g2 | (3(gag) fe (d2f2) a2>f2 | e2>d2 (^cd)ec A2uua2 |
+ (Fc)(ac) (Fc)(ac) (Fc)(ac) | a2gf (e2g2) e2g2 | (3(gag) fe (d2f2) a2>f2 | e2>d2 (^cd)ec A4 | 
+A2=B^c (d2f2) e2a2 |1 (fe)d^c d6u a2 :|2 (fe)d^c d8 |] 
+V:2
+|:"^2""Dm" D2FE F4 D2>A2 | A2GF"A7" G4 E2>^c2 |"Dm" (d^c)de (fe)dc"A7" (ed)(c=B) | "Dm" (AG)FE F2D2 A2GF | 
+D2FE F4 D2>A2 | A2GF"A7" G4 E2>^c2 |"Dm" (d^c)de (fe)dc (ed)(c=B) |1 "A7" (AG)FE"Dm" [FA]8 :|2"A7" (AG)FE"Dm" [FA]6u c2 |:
+"F" (A,F)(cF) (A,F)(cF) (A,F)(cF) |"A7" f2ed (^c2e2) c2e2 |"Dm" B2AG (F2A2) d2>d2 |"A7" ^c2>=B2 (AB)cA E2c2 | 
+"F"(A,F)(cF) (A,F)(cF) (A,F)(cF) |"A7" f2ed (^c2e2) c2e2 |"Dm" B2AG (F2A2) d2>d2 | "A7" ^c2>=B2 (AB)cA E4 |
+"A7" ^C2DE"Dm" (F2A2)"A7" G2^c2 |1"A7" (AG)FE"Dm" [FA]6u c2 :|2 "^Stämförslag B.O.""A7" (AG)FE"Dm" [FA]8 |] 
+

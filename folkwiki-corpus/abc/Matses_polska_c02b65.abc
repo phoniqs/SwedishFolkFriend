@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:95
+T:Matses polska
+T:(SvL Västmanland 95)
+B:Svenska Låtar Västmanland nr 95
+O:Västmanland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter farfadern."
+Z:"Lämplig till skuv-polska"
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1""^Lämpl. t. skuv-polska" d2 (^f>a) g2 | g(e ce) f2 | f2 a>(a g>)e | f/e/f/e/ (d>B) G>B | 
+d2 ^f>a g2 | g(e ce) f2 | f2 a>(a g>)e |1{fe} f2 d3 z :|2{fe} f2 d3 A |:
+[K:Bb] B>(B B>d) c>A | {Bc} BA (G>B) d>c | B2 B>d c>A |{BA} B2 (GB) d>B | 
+d2 ^f>a g>=e | ^f2 d3 A | B2 d>(d c>)A |1 B2 G3 A :|2 B2 G4 |] 
+V:2
+|:"^2" A2 c2 (B2 | B2) G2 A2 | A2 c2 B>G | A2 F2 D>G | A2 c2 B2 | B2 G2 A2 | A2 c>(c B>)G |1 {AG} A2 [FA]3 z :|2{AG} A2 [FA]3 ^F |:
+[K:Bb] G2 (G>B) A>^F |{GA} GD (B,>G) B>A | G2 G>B A>^F | {GF} G2 (DG) F>D | 
+^F2 A>c B>G | A2 [^FA]3 F |"^Stämförslag B.O." G2 B2 A>^F |1 G2 [B,D]3 ^F :|2 D2 [B,D]4 |]
+

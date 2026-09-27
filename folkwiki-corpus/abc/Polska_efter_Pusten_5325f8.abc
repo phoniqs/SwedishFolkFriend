@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Pusten
+R:Polska
+O:Rogsta, Hälsingland
+S:Pusten, Jonas Persson Wiik
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 35. Polska efter Pusten"
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" (E |: F>)G A2 G2 | FA d2"^Rogsta" A2 | ^c2 (eg) f(g/f/) | (ef) (dc) (A/B/)(A/G/) | 
+F>G A2 G2 | FA d2 A2 | ^c2 (eg) f(g/f/) |1 (e^c) d3 E :|2 (e^c) d3 e |:
+[K:D] f>g fe/f/ de/f/ | g>a gf/g/ eA | f>g fe/f/ de/f/ | g>a gf/g/ eA | 
+a>^g ab af | d>e fa (g/f/)e/d/ |1 c/d/e/c/ d3 A :|2 c/d/e/c/ d3 z |] 
+V:2
+"^2" A, |: D>E F2 E2 | DF A2 E2 | A2 ^ce d(e/d/) | ^cd (AG) (F/G/)(F/E/) | 
+D>E F2 E2 | DF A2 E2 | A2 ^ce d(e/d/) |1 ^cA F3 A, :|2 ^cA F3 c |:
+[K:D] d>e dc/d/ Ac/d/ | e>f e^d/e/ cE | A>B A^G/A/ FG/A/ | B>c BA/B/ GE | 
+c>B cd cA | F>G Ac (B/A/)G/F/ |1 E/F/G/E/ [FA]3 D :|2 E/F/G/E/"^B.O." [FA]3 z |]
+

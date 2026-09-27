@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Vismelodi
+C:Jon-Erik Hall
+O:Hassela, Hälsingland
+R:Visa
+Z:[[Personer/Bengt Ohlson]] nr 41
+L:1/8
+M:4/4
+K:Em
+V:1
+"^1"u B2 |:v e3 B (AG) FG | E4 B,3 A, | (G,B,) EF (GE) AG | F6 B2 |
+ c3 B (AG) FG | B4 E3 F | (GB,) EG (F2 ^D2) |1 E6 B2 :|2,8  E6 E2 [|
+ (^DE) FG (AB) c=d | c4 B3u B |  A3 A G3 G | F6 B2 |
+ (GE) B,G, (A,B,) C^D | E4 F3u G | AB GB, G2 F2 |1 !dacapo!"^Da capo"  E6 z2  |]2
+EG, B,E GB eg | ab gB g2 f2 | e6 z2 |] 
+V:2
+"^2" E2 |:"Em" G3 E (FE) ^DE | B,4 G,3 ^D | E2 B,A, (G,B,) CD |"B7" ^D6 G2 |
+"Am" A3 G (FE) ^DE | "Em" E4 B,3 ^D |"Em" E2 B,2"B7" ^D2 A,2 |1"Em" G,6 E2 :|"Em" G,6 G,2 [|
+"B7"(A,B,) ^DE (FG) AF | E4 ^D3 D | "B7" F3 ^D "Em"E3 E |"B7" ^D6 D2 | E2 ^D2 C2 A,2 | 
+"Em"G,4 "B7" A,3 B, | "Em"^D2 E2 "B7" B,2 A,2 |1"Em" G,6 z2 |]2
+"Em" G,6 (GB) | "B7" ^d2 e2 B2 A2 |"Em" G6 "^B.O." z2 |] 
+

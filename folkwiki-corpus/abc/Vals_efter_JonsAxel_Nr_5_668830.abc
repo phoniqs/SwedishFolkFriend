@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:5
+T:Vals efter Jons-Axel Nr 5
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Vals
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 5. Vals"
+L:1/8
+Q:1/4=132
+M:3/4
+K:G
+V:1
+"^1"u G,2 |: G,2 B,2 D2 | G2 B2 d2 | g2 ef e2 | e2 cA F2 | D2 F2 A2 | d2 f2 a2 | c'2 e2 f2 | g2 gd BG | 
+G,2 B,2 D2 | G2 B2 d2 | g2 ef e2 | e2 cA F2 | D2 F2 A2 | d2 f2 a2 | c'2 e2 f2 |1 g4u G,2 :|2 g4u g2 |: 
+(gb) (gd) BG | (DG) Bd g2 | (gb) (gd) BG | (DF) Ac e2 | (ef) (ec) AF | (DF) FA c2 | 
+(ef) (ed) cA | (GB) Bd g2 | (gb) (gd) BG | (DG) Bd g2 | (gb) (gd) BG | (DF) Ac e2 | 
+(ef) (ec) AF | (DF) FA c2 | (Bc) (ed) cA |1 G4 g2 :|2 G4 d2 |: (dB) (gf) ed | (dB) (GB) dB |
+(cA) (FA) dc | (BA) (GA) Bc | (dB) (gf) ed | (dB) (GB) dB | (cA) (FA) dA |1 G4 d2 :|2 G4 z2 |] 
+V:2
+"^2"u D2 |:"G" D2 G,2 B,2 | D2 G2 B2 | B2 GA G2 |"D7" A2 FD C2 | A,2 D2 F2 | A2 d2 f2 | 
+f2 c2 d2 |"G" B2 BG DB, | D2 G,2 B,2 | D2 G2 B2 | B2 GA G2 |"D7" A2 FD C2 | A,2 D2 F2 | 
+A2 d2 f2 | f2 c2 d2 |1"G" B4u D2 :|"G" B4u B2 |:"G" (Bd) (BG) DB, | (G,B,) DG B2 | 
+(Bd) (BG) DB, |"D7" (A,D) FA c2 | (cd) (cA) FD | (A,D) DF A2 | (cd) (cA) FD |"G" (B,D) GB d2 | 
+(Bd) (BG) DB, | (G,B,) DG B2 | (Bd) (BG) DB, |"D7" (A,D) FA c2 | (cd) (cA) FD | (A,D) DF A2 | 
+(FA) (cA) FD |1 "G" B,4 B2 :|2 "G" B,4 B2 |: "G" (BG) (ed) cB | (BG) (DG) BG | "D7" (AF) (DF) BA | 
+"G" (GD) (B,D) GA | (BG) (ed) cB | "^Stämförslag B.O." (BG) (DG) BG |"D7" (AF) (DF) AD |1 "G" B,4 B2 :|2 "G" B,4 z2 |]
+

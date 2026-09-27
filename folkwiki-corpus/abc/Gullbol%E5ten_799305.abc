@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Gullbolåten
+T:Gånglåt
+C:Brodd-Albin Johansson
+R:Gånglåt
+O:Vika, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Albin Brodd, Vika."
+Q:80
+L:1/8
+M:2/4
+K:D
+V:1
+"^1"u A, |:v (D>F)u "^Högtidligt"(E/C/)E/G/ | .F.D .G.E | A2 (A/B/)A/G/ | FA de | [df]2 [df]>u[df] | ([Af]>a) (g/f/)e/d/ | 
+[Af]3/2 eu e x/ | (e>a) (b/a/)^g/a/ |Tv fdT fd | BG (B/d/)(B/G/) | T AF GE | FA de | 
+[Af]2 (f/a/)uf/d/ | (e>d) (c/d/)ue/f/ | (d>f) (e/c/)ue/f/ |1 [Dd]3u A, :|2 [Dd]3u A |:
+v a2 a>ua | (b/a/)g/f/ (g/f/)e/d/ |T eu e x2 | e3 A | [Ag]2 g>ug | (a/g/)f/e/ (f/e/)d/c/ |
+({Bc)} (B>A) Au A | A2 (B/A/)G/F/ | ({FG)} (F>E) .Eu.E | EF/G/ (A/G/)F/E/ |({EF)} (E>D) DuD | DuF Ad | 
+({fg)} f(e/f/)T ge | T fdT euc | (d>f) (e/c/)ue/f/ |1 [Dd]3u A :|2 [Dd]3 z |] 
+V:2
+"^2" z |:"D" z2 "A7" A,B,/C/ |"D" .D.F"A7" .E.C |"D" F2 (F/G/)F/[EA]/ | [DA]A FA, | [DA]2 F>A | ([Dd]>[Dc]) ([DB]/[DA]/)[GA]/[FA]/ |
+"A7" [A,E]2 [Ac][Ac] | [Ac]3/2 z/ z2 | "D" (af) d/A/F/D/ | "G" (gd) B/G/D/B,/ |"D" (A,/B,/)C/D/T (3(E/F/G/) (3A/B/c/ | dA FA, | 
+[DA]2 [DA][DA] | "A7" [A,G]2 [A,G][A,G] |"D" [A,F]2 "A7" [A,G][A,G] |1 "D" [A,F]3 z :|2 "D" [A,F]3 F |: 
+"D" [df]2 [df]>[df] | (g/f/)e/d/ e/d/A/F/ |"A7" [A,E]2 [Ac][Ac] | [Ac]E/F/ (G/F/)E/D/ | [CE]2 [Ae]>[Ae] | (f/e/)d/c/ d/c/B/A/ | 
+"D" ([GA]>[FA]) [DF][DF] | [DF]2 z2 | "A7" .A,"^pizz.".G .C.G | .A,.G .C.G | "D" .A,.F .D.F | .A, "^arco"(AFD) |
+"D" (A,/B,/)C/D/"A7" E/F/G |"D" D/E/F "A7" [A,G][A,G] | "D" [A,F]2 "A7" [A,G][A,G] |1 "D" [A,F]3 F :|2"D" [A,F]3 z |]
+

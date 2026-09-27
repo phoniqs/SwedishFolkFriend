@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Ullånger
+S:Jonas Sundin
+O:Ullånger, Ångermanland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Jonas Sundin (1859-1920) Torrom, Nora.
+L:1/8
+Q:1/4=90
+M:3/4
+K:D
+V:1
+|:"^1" AB/c/ (dA) GF | FE ED/E/ F2 | AB/c/ (de) fd | dB Bc/d/ e2 |
+ AB/c/ (dA) GF | FE ED/E/ F2 | AB/c/ (de) fd | AB/c/ d2 z2 :|
+|: af{g} fe/f/ g2 |{fg} fe{f} ed/e/ f2 | de/f/ ga/g/ fg/f/ | ef/e/ dc{Bc} BA |
+ af{g} fe/f/ g2 |{fg} fe{f} ed/e/ f2 | de/f/ (ga) bg | (ec) d2 z2 :| 
+V:2
+|:"^2" FG/A/ (FF) ED | DC CB,/C/ D2 | FG/A/ (FG) AF | FD DE/F/ G2 | FG/A/ (FF) ED | DC CB,/C/ D2 | 
+FG/A/ (FG) AF | EF/G/ F2 z2 :: fd dc/d/ e2 | dc cB/c/ d2 | FA/d/ ef/e/ de/d/ | cd/c/ BA GF | 
+fd dc/d/ e2 | dc cB/c/ d2 | FA/d/ (ef) ge | "^B.O." (cA) F2 z2 :|
+

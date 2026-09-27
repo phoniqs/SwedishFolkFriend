@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Strömgubben
+T:Polska
+C:Wiktor Öst
+O:Bergsjö, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Arr D. Daniels
+L:1/16
+M:3/4
+K:Eb
+V:1
+|:"^1" C2g^f g2e2 d2c2 | C2c=B c2A2 G4 | [Ge]4 [Fd]4 [F=B]4 | (g^f)ga g2e2 d2c2 | 
+C2g^f g2e2 d2c2 | C2c=B c2A2 G4 | [Ge]4 [=B,G]4 g4 | (ed)c=B c8 :: 
+(AB)fB (AB)fB DBAB | EBGB EBGB EBGB | (AB)(fB) (AB)(fB) DBAB | EBGB EBGB EBGB | 
+(G,=E)(cE) (CE)(cC) (G,E)(cE) | FcAc FcAc FcAc | (B,=A,)B,C (DE)FG (_AF)DF |1 (ED)EF (GA)=AB (cB)AB :|2 E4 [Ge]8 |: 
+cgeg cgeg cgeg | =Bgdg Bgdg Bgdg | FcAc FcAc FcAc | EcGc EcGc EcGc | 
+DBAB DBAB DBAB | EBGB EBGB EBGB | (B,=A,)B,C (DE)FG (_AF)DF |1 (ED)C=B, (CD)EF G4 :|2 E4 [Ge]8 |] 
+V:2
+|:"^2""Cm" C2>E2 E4 D4 | C2>G2 G2E2 C4 | E2>G2"G" D2F2 D4 |"Cm" C2E2 G2c2 G4 |
+ c4 G2E2 G2E2 | C2>G2 G4 E4 | C2>E2"G" D2G2 F2D2 |"Cm" C2>E2 [G,E]8 ::
+"Bb7" B,2D2 F2B2 A2F2 | "Eb7" G2E2 G2B2 e4 |"Bb7" D2B2 d2B2 A2F2 |"Eb" G2E2 B2G2 [Ge]4 |
+"C" C2=E2 G2E2 G2c2 | "Fm" C2F2 _A2c2 f4 |"Bb7" B2A2 F2D2 c2B2 |1"Eb" [G,E]4 [G,E]8 :|2"Eb" [G,E]4 [G,E]8 |: 
+"Cm" E2G2 C2G2 E2G2 |"G7" (D2G2) G,2G2 =B4 |"Ab" c2c2 _A2A2 F2F2 |"Cm" G2G2 E2E2 C4 | 
+"Bb7" _B,2>D2 F2_A2 B2d2 |"Eb" E2G2 B2e2 g4 |"Bb7" [D2B2]>F2 "^Arr. D. Daniels"F2F2 D2F2 |1 "Cm" [G,2E2]>E2 [G,E]8 :|2"Eb" [G,E]4 [G,E]8 |]
+

@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Akademipolska
+C:Eric Sahlström
+R:Polska
+O:Uppland
+M:3/4
+L:1/16
+K:F
+|: "F" F2EF A2F2 c4 |"F" f2cf ageg f2c2 |"C7" BcBc GcBc GcBc |"F" FcAc FcAc FcAc | %4
+"C7" BcBc GcBc GcBc |"F" FcAc FcAc FcAc |"F" F2[A,F]2 A2c2 f2a2 |"C" gbge"C7" g2f2"F" f4 :: %8
+"C" c2=Bc dc_BG ECEG |"F" FEFG A^GAB"C" c4 |"Gm" d2^cd edcd BGDB, |"Gm" G,B,DG BABc d4 | %12
+"C" C2Gc (3g/a/g/ece (3g/a/g/ecA |"F" [A,F]2cf (3a/b/a/fcf (3a/b/a/fcA |"C7" Gceg bgec BGEC |1 %15
+"F" F2A2 F6 =B2 :|2"F" F2A2 f6 fd |:"Dm" Adfd adfd Adfd |"A" A^cec acec Acec |"Bb" FBdB fBdB FBdB | %20
+"F" FAcA fAcA FAcA |"Bb" B2BA G^FGA BABd |"F" cdcB AFAc fcfa |"C" gagf efga bgeg |1 %24
+"F" f2a2 f6 fd :|2"F" f2a2 f8 |] %26:|
+

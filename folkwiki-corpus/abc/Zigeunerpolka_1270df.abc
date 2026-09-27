@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Zigeunerpolka
+O:Tyskland
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Utländska danser. Tyskland."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" B z d z | B z d z | c>B cd | B2 z2 |] [K:G][M:2/4][K:treble]"^Dans" (G/A/)B/c/ dd/^c/ | dd/^c/ dd | 
+gg fe | (ed) d2 | A>B cc/B/ | cc/B/ cc | ee dc | (cB) B2 |]:
+"^Sakta" gg fe | d2 z2 | ee dc | B2 z2 :|"^á tempo" B z d z | B z d z | 
+c>B cd | (ed) d z | B z d z | B z d z | c>B cd | B2 z2 |] 
+V:2
+"^2""G" G z B z | G z B z |"D7" A>G AB |"G" G2 z2 |] 
+[K:G][M:2/4][K:treble]"G" (B,/D/)G/A/ BB/^A/ | BB/^A/ BB |"C" ee dc |"G" (cB) B2 | 
+"D7" F>G AA/G/ | AA/G/ AA | cc BA |"G" (AG) G2 |]:"C" ee dc |"G" B2 z2 |"D7" cc BA | 
+"G" G2 z2 :|"G" G z B z |"^Önskat antal ggr." G z B z |"D7" A>G AB |"G" (cB) B z | G z B z | 
+"^Stämförslag B.O." G z B z |"D7" A>G AB |"G" G2 z2 |]
+

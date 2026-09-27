@@ -1,0 +1,11 @@
+%%abc-charset utf-8
+
+X:2
+M:4/4
+L:1/8
+K:G
+|:"C"C3 B, CDEF|"G"G6 G2|"D"FGFD A,2 D(E/F/)|"G"GAGD B,2 G,A,/B,/|
+"C"C3 B, CDEF|"G"G6 G2|"D"FGFD A,2 CA,|1 "G"G,4- G,G, G,A,/B,/:|2 "G"G,4 zDGA||
+"G"B3 c B2 (3GFD|"C/G"E6 G2|"D/G"F3 D A,2 (DE/F/)|"G"GAGD B,2 "G/B"G,A,/B,/|
+"C"C3 B, CDEF|"G"G6 G2|"D"FGFD A,2 CA,|"G"G,4 z|]
+

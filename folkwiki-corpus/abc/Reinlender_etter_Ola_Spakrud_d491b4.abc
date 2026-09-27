@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Reinlender etter Ola Spakrud
+R:Reinländer
+O:Norge
+S:Marianne Stensgård
+Z:[[Personer/Bengt Ohlson]]
+Z:"Från CD: "Torader-jentene" med Marianne Stensgård och Hanne-Kari Bakke."
+L:1/16
+M:2/4
+K:G
+V:1
+|:"^1" B2AG B>BAG | B>BBB B2G2 | B>AAA A2D2 | B>BBB B2AG | 
+B>BAG B>BAG | B>BBB B2G2 | B>AAA A>DEF | G2G2 G4 :: 
+B>cde e>ddc | c>AAc B2AG | B>AAA A2D2 | B>BBB B2AG | 
+B>cde e>ddc | c>AAc B2AG | B>AAA A>DEF | G2G2 G4 :| 
+V:2
+|:"^2" "G" D2CB, D>DCB, | D>DDD D2B,2 | "D7" G>FFF F2C2 | "G" D>DDD D2CB, | 
+D2CB, D>DCB, | D>DDD D2B,2 | "D7" G>FFF F>A,CD | "G" B,2B,2 B,4 ::
+"G" G>ABc c>BBA | A>FFA G2DB, |"D7" D>CCC C2A,2 | "G" D>DDD D2CB, | 
+G>ABc c>BBA | "^Stämförslag B.O." A>FFA G2DB, | "D7" G>FFF F>A,CD | "G" B,2B,2 B,4 :|
+

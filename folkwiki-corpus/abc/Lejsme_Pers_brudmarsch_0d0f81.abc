@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Lejsme Pers brudmarsch
+R:Marsch
+O:Malung, Dalarna
+S:Lejsme Per
+Z:Karin Helander
+N:Från Stefan Lindén SEL00314 version 150227: https://www.stefanlinden.se/L/brudmarsch%20Lejsme%20Pers%20brudmarsch%20Malung%202st.pdf
+N:Även benämnd "Malungs brudmarsch" eller "Leisme Per"
+N:Andrastämma av [[Personer/Lennart Bergström]]
+M:4/4
+L:1/8
+K:D
+V:1
+A,2 | A,3 D D2 D2 | D4 F2 (DF) | A3 F A2 d2 | A3 (GF2) (FA) | 
+!trill! G4 (E2F2) | G2 B2 (AG) F2 | !uppermordent! (F3 E) E2 E2 | E6 :|
+|: A,2 | g6 (eg) | !trill! f2 d2 f2 (df) | a6 (df) | a2 f2 a2 (fa) | 
+b3 (a !trill! g2) e2 | {e} c6 (eg) | {g} f3 d d2 d2 | d6 :|
+V:2
+A,2 | "D" A,3 [A,G] [A,F]2 [A,E]2 | [A,F]4 D2 D2 | F3 D F2 A2 | F3 (E D2) (DF) | 
+"A7" E2 A,2 (C2 D2) |"A7"  E2 G2 "D" (FE) D2 | "D"(D3 C) "A7" A,2 D2 | C6 :|
+|: A,2 | "A7"  E3 F G2 (cA) | "D"d2 A2 A2 [GA]2 | [FA]3 E [AD]4 | F2 A2 d2 (df) | 
+"G" g3 (f "A7" e2) c2 | "A7" A6 c2 | "D" d3 [A,G] [A,F]2 [FA,]2 | [A,F]6 :|
+

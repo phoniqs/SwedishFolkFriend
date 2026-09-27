@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:498
+T:Polska efter Axel Axelsson
+T:(OA 498)
+B:Sörmländska låtar samlade av Olof Andersson nr 498
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:"Jfr Leffler: Bidr. t. Söderm. äld. kulturhist. X n:r 39"
+Z:Anders Larsson 2025-02-01
+M:3/4
+L:1/4
+Q: 90
+%%MIDI ratio 2 1
+%%printtempo 0
+K: G
+B/ |: d/d/ (B/4d/4)B/4G/4 D | G/F/4G/4 A/G/4A/4 B | (c/4B/4)c/4d/4 e/d/ c/B/ |  A/A/ (F/4G/4)A/4F/4 D |
+d/d/ (B/4d/4)B/4G/4 D | G/F/4G/4 A/G/4A/4 B | (c/4B/4)c/4d/4 e/d/ c/B/ |1  A/>G/ F G/B/ :|2 A/>G/ F G |:
+d/d/ (B/4d/4)B/4G/4 (B/4d/4)B/4G/4 | c/c/ (A/4c/4)A/4F/4 (A/4c/4)A/4F/4 |  B/B/ (G/4A/4)G/4F/4 G/G/ | A/A/ (F/4G/4)F/4E/4 D |
+d/d/ (B/4d/4)B/4G/4 (B/4d/4)B/4G/4 | c/c/ (A/4c/4)A/4F/4 (A/4c/4)A/4F/4 |  B/B/ G/A/ B/c/ | (A/4B/4)A/4F/4 G2 :|
+

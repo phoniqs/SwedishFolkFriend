@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Ristmans vals
+C:Pelle Björnlert
+R:Vals
+Z:Karin Helander
+N:Från inspelning med Pelle Björnlert på skivan "Fors": https://music.youtube.com/watch?v=mP6-qXsxWPk
+N:(Önskad låt "Ritsmans vals")
+N:(Oklart var låten kommer ifrån)
+L:1/8
+M:3/4
+Q:160
+K:D
+A Bc |: dA FD FA | dA FD FA | dA FA de | f4 !trill! f2 | 
+ed cd e2 | ed cd e2 | ed cd ef |1 g3 A Bc :|2 g4 g2 |: 
+!segno! {B}g3 g g2 | gb ba gf | fd df af | d4 e2 | 
+{D} f3 f f2 | fa ag fe | ec Ac Ac |1 e3 e f2 :|2 d6 !fine! || 
+D2 DF AF | D2 DF AF | D2 DF AB | =c4 c2 | 
+B2 GD GA | BA GD GA | BA GA Bc | d3 d ef !D.S.! |]
+

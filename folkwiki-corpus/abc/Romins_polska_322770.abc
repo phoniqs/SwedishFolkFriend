@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:275
+T:Romins polska
+C:Karl Romin
+O:Burs, Gotland
+B:Gotlandstoner nr 275
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Karl Romin var bl.a. "fiolist" vid hovkapellet 1804-1831.
+Z:"En av Gotlands ståtligaste polskor. August Fredin, Gotlandstoner nr. 275."
+L:1/16
+M:3/4
+K:Bb
+V:1
+|:"^1" B,2DF B2d2 f4 | (ed)cB (cB)AG F2>E2 | DBFB DBFB DBFB | EBGB EBGB EBGB | 
+=EcGc EcGc EcGc | FcAc FcAc FcAc | (BA)Bd (tf2tF2) G2e2 | (df)Ac B2d2 B,4 :: 
+F2Ac f2a2 c'4 | (ba)gf (gf)=ed c2>B2 | (AF)GA (Bc)d=e f2a2 | (gb)=eg f2a2 F4 | 
+f2fe (d2f2) g2f2 | (ef)ed (c2e2) f2e2 | (df)ga (ba)bf (ed)cB | 
+(BA)Bd (cA)BG (tF2>tE2) | DBFB DBFB DBFB | EBGB EBGB EBGB | 
+=EcGc EcGc EcGc | FcAc FcAc FcAc | (BA)Bd (tf2tF2) G2e2 |"^Stämförslag B.O." (df)Ac B2d2 B,4 :| 
+V:2
+|:"^2" B,2B,D F2B2 d4 | (cB)AG (AG)FE D2C2 | Bfdf Bfdf Bfdf | Bgeg Bgeg Bgeg | 
+cg=eg cgeg cgeg | cafa cafa cafa | D2DF (EF)Ac B2G2 | F2FE D2F2 [B,D]4 :: 
+C2CF A2c2 f4 | (gf)=ed (ed)cB A2G2 | (Ff)=ed (cB)AG A2c2 | B2C2 (AG)F=E (F_E)DC | 
+B,2DF (B2d2) e2d2 | A,2CF (A2c2) d2c2 | (BA)GF (ED)CB, (CD)EF | 
+(GF)GB (AF)GE (DE)DC | B,2>D2 F2_A2 G2F2 | (E2>D2) E2F2 G4 | 
+c2>d2 c2A2 B2G2 | (F2>G2) F2=E2 _E4 | D2DF (EF)Ac B2G2 | F2FE D2F2 [B,D]4 :|
+

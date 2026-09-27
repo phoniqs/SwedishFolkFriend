@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:146
+T:Polska efter Daniel Frid
+R:Polska
+O:Bergsjö, Hälsingland
+S:Daniel Frid Johansson
+S:Helmer Larsson
+Z:Karin Helander
+B:Register för Hälsinglands Spelmansförbunds låtar nr 146
+N:"Polska efter Daniel Frid, Bergsjö. Uppt: Helmer Larsson. Stämma [[Personer/Sven Åkerström]]"
+N:"Hälsinglands Spelmansförbund 1981"
+M:3/4
+L:1/16
+K:A
+V:1
+e2(ce) f2e2 c2e2 | .A.e.c.e .A.e.c.e .A.e.c.e | e2(ce) f2e2 ^d2e2 | .E.B.G.B .E.B.G.B .E.B.G.B | 
+e2(ce) f2e2 c2e2 | e2(ce) a2e2 c2e2 | {f}e2^de f2e2 G2B2 | {Bc}B2AG [AA]4 [AA]4 :|
+|: {d}c4 [EA,]2c2 [EA,]2c2 | d4 [DB,]2d2 [DB,]2d2 | {d}c2Ac a2g2 {fg}f2e2 | {d}c2Ac a2g2 {fg}f2e2 | {d}c4 [EA,]2c2 [EA,]2c2 | 
+d4 [DB,]2d2 [DB,]2d2 | {d}c2Ac a2g2 {fg}f2e2 | {d}c2Ac a2g2 {fg}f2e2 | {f}e2^de f2e2 G2B2 | {Bc}B2AG [AA]4 [AA]4 :|
+|: [cE]3[cE] [BE]2[BE]2 [AE]4 | [EC]3[EC] [EB,]2[EB,]2 [EA,]4 | A2(EA) c2Ac e2a2 | {d}c2BA c2BA [EB]4 | 
+[cE]3[cE] [BE]2[BE]2 [AE]4 | [EA,]3[EA,] [EB,]2[EB,]2 [EA,]4 | A2(EA) c2Ac e2a2 | {d}c2BA [BG]4 [AA]4 :| 
+V:2
+c2(Ac) d2c2 A2c2 | .E.c.A.c .E.c.A.c .E.c.A.c | c2(Ac) d2c2 A2c2 | (B,E)(BE) (B,E)(BE) (B,E)(BE) | 
+c2(Ac) d2c2 A2c2 | c2(Ac) e2c2 A2c2 | {d}c2Ac d2c2 E2G2 | E2CB, C4 C4 :|
+|: (Ec)(ac) (Ec)(ac) (Ec)(ac) | (Fd)(ad) (Fd)(ad) (Fd)(ad) | E2DE c2B2 A2G2 | E2DE c2B2 A2G2 | (Ec)(ac) (Ec)(ac) (Ec)(ac) |
+ (Fd)(ad) (Fd)(ad) (Fd)(ad) | E2DE c2B2 A2G2 | E2DE c2B2 A2G2 | G2FG A2G2 E2G2 | E2CB, C4 C4 :|
+|: [A,E]3[A,E] [B,E]2[B,E]2 [A,E]4 | [AE]3[AE] [BE]2[BE]2 [AE]4 | E2(CE) A2EA c2e2 | E2DC E2DC [DD]4 | 
+ [A,E]3[A,E] [B,E]2[B,E]2 [A,E]4 | [AE]3[AE] [BE]2[BE]2 [AE]4 | E2(CE) A2EA c2e2 | E2DC [DE]4 [EC]4 :|
+

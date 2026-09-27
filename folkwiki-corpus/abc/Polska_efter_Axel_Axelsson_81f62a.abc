@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:499
+T:Polska efter Axel Axelsson
+T:(OA 499)
+B:Sörmländska låtar samlade av Olof Andersson nr 499
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson 2025-02-02
+M:3/4
+L:1/4
+Q: 110
+%%MIDI ratio 2 1
+%%printtempo 0
+K: G
+B/ |: d/>B/ g3/2 d/ | B/>d/ G3/2 B/ | B/>A/ A/>f/ A/>f/ |  d/>B/ B/>g/ B/>g/ |
+d/>B/ g3/2 d/ | B/>d/ G3/2 B/ | A/>B/ c/>d/ e/>f/ |1  g g z :|2 g g z/ B/ |:
+c/>e/ c/>e/ g/>e/ | d/>B/ G/>B/ d/>B/ |  A/>c/ D/>F/ A/>F/ | G/>B/ G/>B/ d/>B/ |
+c/>e/ c/>e/ g/>e/ | d/>B/ G/>B/ d/>B/ |  A/>B/ c/>d/ e/>f/ |1 g g z/ B/ :|2 g g z |]
+

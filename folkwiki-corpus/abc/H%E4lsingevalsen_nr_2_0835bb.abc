@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Hälsingevalsen nr 2
+C:CF Apelgren
+R:Vals
+O:Ore, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"C. F. Apelgren."
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1" G3 FEG | c3 BAG | (3BcB A2 ^G2 | A6 | f3 edc | Bc de fg | ag ^fg ag | 
+e3 d c2 | G3 FEG | c3 BAG | F2 FE FG | A6 | G2 fe dc | B2 ag fe | de fG Bd | c6 :: 
+(3gag ^f2 g2 | a4 e2 | (3gag f2 d2 | B6 | (3FGF E2 F2 | d3 e d2 | (3FGF E2 G2 | 
+c3 d c2 | (3gag ^f2 g2 | a4 e2 | (3gag f2 d2 | B6 | G2 f2 e2 | d2 A2 B2 | c3 c c2 | c6 :: 
+(3g^fg c'2 b2 | a3 gfe | fg a2 g2 | f3 edc | de f2 e2 | d3 cBA | AG ^FG AG | EC EG ce | 
+(3g^fg c'2 b2 | a3 gfe | fg a2 g2 | f3 edc | de fe dc | Bc dc BA | EF DG Bd | c6 :| 
+V:2
+|:"^2""C" E3 DCE | E3 DCE |"F" G2 F2 ^E2 | F6 |"G7" d3 cBA | GA Bc de | fe de fe |"C" c3 G E2 | 
+E3 DCE | E3 DCB, |"Dm" A,2 A,G, A,C | F6 |"G7" D2 dc BA | G2 fe dc | Bc dD FG |"C" E6 :: 
+"C" e2 ^d2 e2 | f4 c2 |"G7" e2 d2 B2 | G6 | D2 ^C2 D2 | F3 G F2 |"C" D2 C2 D2 | E3 F E2 | 
+e2 ^d2 e2 | f4 c2 |"G7" e2 d2 B2 | G6 | D2 d2 c2 | B2 F2 G2 | E3 E E2 |"C" E6 ::
+"C" e2 a2 g2 | f3 edc |"Dm" de f2 e2 | d3 cBA |"G7" Bc d2 c2 | B3 AGF | "C" FE DE FE | CG, CE Gc | e2 a2 g2 | 
+f3 edc |"Dm" de f2 e2 | d3 cBA |"G7" Bc dc BA | GA BA GF | "^B.O." CD B,D GF |"C" E6 :|
+

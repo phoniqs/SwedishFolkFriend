@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:8
+T:Pingstvalsen
+T:Vals av Valfrid Rönnlund
+R:Vals
+O:Rö, Högsjö, Ångermanland
+C:Valfrid Rönnlund
+S:Osvald Wallin
+Z:Karin Helander
+N:Från handskriven not "8 Vals av Valfrid Rönnlund Rö Högsjö, Pingstvalsen, uppt o arr Osvald Wallin, W.i. Utgiven 1965 av Ångermanlands Spelmandsförbund"
+N:https://www.martinlinden.se/pingstvalsen.pdf
+N:Finns inspelning med [[Personer/Magdalena Eriksson]] från Gottne och [[Personer/Isak Eriksson]] från Säbrå: https://www.youtube.com/watch?v=ZlGPL8cupi4
+M:3/4
+L:1/8
+K:D
+V:1
+u(FG) |: vA2 f3 d | e2 d2 (3 (BcB) | A2 (^GA) (BA) | F2 (Ad) (fd) | e2 (ge) (ce) | 
+(E2 A2) c2 | d2 (fd) (AF) |(D2 F2) uG2 | (A2 f3) d | e2 d2 (3 (BcB) | A2 (^GA) (BA) | 
+F2 (Ad) (fd) | e2 (ge) (ce) | E2 A2 c2 |  d2 (cd) fe |1 v[dF]4 u(FG) :|2 [dF]4 u(EF) |]
+|: G2 E3 G | (3 (BcB) uA2 vG2 | A2 (DF) (Ad) | f2 a2 b2 | a2 (ge) (cA) | 
+(E2 A2) ce | d2 (cd) (fe) | ud3 z EF | [GE]2 [EC]3 [CG] | (3 (BcB) A2 G2 | A2 (DF) (Ad) |
+ f2 a2 b2 | a2 (ge) (cA) | (E2 A2) (ce) | d2 (cd) (fe) |1 [dF]4 (EF) :|2 [dF]4 z2 |] 
+V:2
+u(DE) |: vF2 A3 F | G2 B2 G2 | F2 D2 D2 | A,2 D2 (FA) | G2 E2 E2 | (A,2 C2) (EG) | 
+(F2 D2) D2 | A,2 D2 E2 | (F2 A3) F | G2 B2 G2 | (F2 D2) D2 | A,2 D2 FA | 
+(G2 E2) E2 | A,2 C2 E2 | (AB) AG FE |1 v [AD]4 u(DE) :|2 [AD]4 u(CD) |]
+|: E2 C3 C | A,2 C2 E2 | D2 (A,D) (FA) | d2 c2 B2 | A2 (BA) (GE) | 
+A,2 C2 E2 | D2 F2 A2 | dc BA GF | E2 C3 C | A,2 C2 E2 | D2 (A,D) (FA) | 
+d2 c2 B2 | A2 (cA) GE | (A,2 C2) (EG) | [AF]2 [AD]2 [AD]2 |1 [AD]4 (CD) :|2 [AD]4 "^w.i" z2 |]
+

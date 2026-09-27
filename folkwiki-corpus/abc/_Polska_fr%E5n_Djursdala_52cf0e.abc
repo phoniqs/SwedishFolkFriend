@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:16
+T: Polska från Djursdala
+R: Polska
+S: Magnus Gustafsson
+N: Aug 1993 workshop
+N: Från John Chambers sida (2001)
+M: 3/4
+L:  1/16
+K: Dm
+|: "Dm"D3F "A"A2^c2 "Dm"{c}~d2e2 \
+| "Dm"{g}Tf2ef gfed "A"^c2c2 \
+| "Dm"(d^c)de (Tf3e) d2f2 \
+| "C"(ef)ed "Am"(cd)cB "A7"AGFE |
+| "Dm"D2F2 A2d2 f2a2 \
+| "Gm"a2{ba}ga {a}b2a2 "A7"~g2e2 \
+| "Dm"{e}f2af "A7"e2ge "Dm"(d^c)df \
+| "A7"a2gf ^c2d2 "Dm"d4 :|
+|: "F"f4 {gfe}f4 {gfe}f2fg \
+| "C"e2ed e2ed "(A)"e2{e}f2 \
+| "Dm"d2d^c {c}~d2dc d2(3fgf \
+| "C"(ef)ed "Am"(cd)cB "A7"AGFE |
+| "Dm"D2F2 A2d2 f2a2 \
+| "Gm"a2{ba}ga {a}b2a2 "A7"~g2e2 \
+| "Dm"{e}f2af "A7"e2ge "Dm"(d^c)df \
+| "A7"a2gf ^c2d2 "Dm"d4 :|
+

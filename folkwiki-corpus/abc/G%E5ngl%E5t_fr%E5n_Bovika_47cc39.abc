@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Bovika
+C:Tage Nilsson
+O:Västerås, Västmanland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. o. arr. Tage Nilsson, 68-04-26 Västerås"
+L:1/8
+Q:1/4=98
+M:2/4
+K:Bb
+V:1
+"^1" d>c |: B/c/B/A/ BG | F/E/G/E/ DC | B,>D FB | d^c/d/ ed | cF e/d/c/=B/ | 
+cF dc |1  B>d c/B/A/G/ | F2 d>c :|2 B>d c/e/c/A/ | [DB]3 D |: G/B/d/g/ ba | 
+gf e>d | c>e ge | d/e/d/B/ G2 | ^FA d>c | B/c/B/A/ GB | A=E G^F | D>C [B,D]D | 
+G/B/d/g/ ba | gf e>d | c>e g^f | dB/A/ G2 | ^FA dc | B/c/B/A/ GB | 
+A>c !trill!B/A/G/^F/ |1 [G,G]3 D :|2 [G,G]3 [B,D] |:[K:Eb] E>G BA | G/A/G/F/ E_D | C>E Ac | e2 dc |1 
+B(a g/a/)f/d/ | B(A G/A/)F/D/ | E>(g f/e/)d/c/ | B2 (GF) :|2 B(a g/a/)f/d/ | B(A G/A/)F/D/ | E2 (G/F/)E/D/ | [G,E]4 |] 
+V:2
+"^2" B>A |:"Bb" G/A/G/^F/ GE | D/C/E/C/ B,A, | D>B, DF | BA/B/ cB | "F" AC c/B/A/G/ | 
+AC FE |1 "Bb" D>B A/G/F/E/ | D2 B>A :|2 "Bb" D>B "F" A/G/F/E/ | "bb" [B,D]3 G, |:"Gm" B,/D/G/B/ dc | 
+BA G>F |"Cm" E>c ec | "Gm" B/c/B/G/ D2 |"D" A,D ^F>D | "Gm" G/A/G/D/ B,G |"A7" ^C2 A,[=A,D] | "Gm" B,>A, G,2 | 
+B,/D/G/B/ dc | "G" [D=B]2 [G,D][G,D] | "Cm" Ec ed | "Gm" BG/D/ [B,D]2 | "D" A,D ^FD | "Gm" G/A/G/D/ B,G | 
+"D" ^F>A D/C/B,/A,/ |1 "Gm" [B,D]3 G, :|2"Gm" [B,D]3"Bb" G, |:[K:Eb]"Eb" B,>E GF | E/F/E/_D/ CG, | A,>"Ab"C EA | c2 BA |1
+"B7" D(d B/d/)B/A/ |"Bb" D(C B,/D/)C/A,/ |"Eb" G,(B =A/_A/)F/D/ | "Bb" [B,D]2 [A,D]2 :|2"Bb" B4 | D4 | G,2 (E/D/)B,/A,/ | B,4 |]
+

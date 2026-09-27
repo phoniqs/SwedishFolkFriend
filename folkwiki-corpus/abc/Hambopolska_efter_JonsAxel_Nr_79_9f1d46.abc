@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:79
+T:Hambopolska efter Jons-Axel Nr 79
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Hambo
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 79. Hambopolska"
+L:1/8
+Q:1/4=120
+M:3/4
+K:D
+V:1
+|:"^1"v f2 (f>e) d>c | (e>d) B>G g2 | (e>c) (A>E) A>c | (d>A) F>A [Fd] z | 
+f2 (f>e) d>c | (e>d) B>G g2 | (e>c) (A>E) A>c | [Fd]2 [Fd]2 z2 ::
+v (F>A) (d>c) B>A | (G>E) C>E G z | (A>G) C>E G z | (A>G) F>A [Fd] z | 
+(F>A) (f>e) d>c | (B>e) (g>f) e>d | (c>B) (A>G) E>F | D z [Fd]2 z2 ::
+[K:G]v (g>d) (B>G) B>d | (g>e) c>e g2 | (d>a) (f>d) f>a | (g>d) B>d g z | 
+(g>d) (B>G) B>d | (g>e) c>e g2 | (d>a) (f>d) f>a | "^Stämförslag B.O." g z [Bg]2 z2 :|[K:D] |] 
+V:2
+|:"^2""D" d2 (d>c) B>A |"G" (G>B) G>E B2 |"A7" (c>A) (E>C) E>A | "D" (A>F) D>F A z | 
+d2 (d>c) B>A | "G" (G>B) G>E B2 |"A7" (c>A) (E>C) E>A |"D" [FA]2 [FA]2 z2 ::
+"D" (D>F) (B>A) G>F | "A7" (E>C) A,>C E z | (E>C) A,>C E z | "D" (F>E) D>F A z | 
+(D>F) (A>G) F>E |"G" (D>G) (B>A) G>F | "A7" (A>G) (F>E) C>A, |"D" A, z [FA]2 z2 ::
+[K:G]"G" (d>B) (G>D) G>B |"Am" (e>c) A>c e2 | "D7" (A>f) (d>A) d>c |"G" (B>G) D>G B z | 
+(d>B) (G>D) G>B |"Am" (e>c) A>c e2 | "D7" (A>f) (d>A) d>c |"G" B z [GB]2 z2 :|[K:D] |]
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Pusten "Moll och dur"
+S:Pusten Jonas Persson Wiik
+O:Rogsta, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Arr: [[Personer/Otôrgs-Kaisa Abrahamsson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" (E"^\"Moll och dur\"" |: F>)G{G} A2 G>G | FA{A} d2 A>A | ^c e2 g fg/f/ | ef/e/ dc A/B/A/G/ | 
+F>G{G} A2 G>G | FA{A} d2 A>A | ^c e2 g fg/f/ |1 e^c [Dd]3 E :|2 e^c [Dd]3 A |: 
+[K:D] f>(g f)e/f/ de/f/ | g>a gf/g/ e>A | f>(g f)e/f/ de/f/ | g>a gf/g/ e>A |
+ a>(^g ab) af | d>e fa (g/f/)(e/d/) |1 c/d/e/c/ [Dd]3 A :|2 c/d/e/c/ [Dd]3 z |] 
+V:2
+"^2" A, |: D>E{E} F2 E>E | DF{F} A2 [A,E]>E | A ^c2 e de/d/ | ^cd/c/ AG F/G/F/E/ | D>E{E} F2 E>E | 
+DF{F} A2 [A,E]>E | A ^c2 e de/d/ |1 ^c[A,E] [A,F]3 A, :|2 ^c[A,E] [A,F]3 D |: 
+[K:D] d>e dc/d/ Ac/d/ | e>f ed/e/ c>D | d>(e d)c/d/ Ac/d/ | e>f ed/e/ c>A | 
+f>(e fg) fd | A>c df (e/d/)(c/B/) |1 A/B/A/G/ [A,F]3 D :|2 A/B/A/G/ [A,F]3 z |]
+

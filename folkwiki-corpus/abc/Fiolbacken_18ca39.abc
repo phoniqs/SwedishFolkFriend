@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Fiolbacken
+C:Emil Olsson
+O:Uppsala, Uppland
+O:Alfta, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Q:80
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Gånglåt" D |: "D" F>GT FE/F/ | "Em" G2 Ed | "A7" cA (A/c/)e/c/ | "D" dA/G/ FD | 
+"D" F>GT FE/F/ | "Em" G2 Ed | "A7" cA (A/c/)e/c/ |1 "D" d3 D :|2 "D" d3 A |: 
+"Dm" =ff a>f | "Am" (e/=f/)e/=c/ A>c | "Em" BG (E/G/)B/G/ | "A7" A3 A | 
+"Dm" d>d "Am" (=c/d/)c/A/ | "Dm" =FA/F/ "Gm" G>_B | "A7" Ad (^c/A/)c/e/ | "D" d3 A :: 
+"D" a>gT fe/f/ | "G" gB e>d | "A7" cA (A/c/)e/c/ | "D" dA/G/ FD | 
+"D" a>gT fe/f/ | "G" gB e>d | "A7" cA (A/c/)e/c/ |1 "D" d3 A :|2 "D" d3 z |] 
+V:2
+"^2" [FA] |: D2 [=CD][CD] | [B,D]2 [G,E][G,E] | [A,E][CE] (C/E/)A/E/ | [FA][FA]/[FA]/ [DA][FA] | 
+D2 [=CD][CD] | [B,D]2 [G,E][G,E] | [A,E][CE] (C/E/)A/E/ |1 [FA]3 [FA] :|2 [FA]3 [DA] |: 
+dd =f>d | (=c/d/)c/A/ E>A | GE (B,/E/)G/E/ | [CE]3 D | 
+_B>B (A/B/)A/=F/ | D[=FA] E>D | CE (A/G/)E/G/ | [A,F]3 D :: 
+[Af]>[Ae] [Dd][D=c] | BG [B,D]>[B,D] | [A,E][EA] (C/E/)A/E/ | FF/E/ [DA][DA] | 
+[Af]>[Ae] [Dd][D=c] | [DB][G,G] [B,D]>[_B,D] | [A,E][EA] (C/E/)A/G/ |1 [A,F]3 [DA] :|2 [A,F]3 z |]
+

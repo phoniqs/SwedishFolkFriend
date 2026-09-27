@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Thoréns vals
+T:(Herrgårdsvals från Värmland)
+S:Anders Petter Thorén
+O:Värmland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" A2 (d3 [FA]) | [FA]6 | E2 (A3 C) | D6 | A2 (g3 A) | e6 | A2 (g3 A) | d6 | 
+A2 (d3 A) | [FA]6 | E2 (A3 C) | D6 | A2 (g3 e) | c3 AGE | D3 d d2 | d4 z2 ::
+[K:A] (cE) Ac ea |{a} c'4 b2 | (ba) a2 g2 | d6 | (BE) GB eg |{g} b4 d2 | (fe) e2 A2 | c6 | 
+(cE) Ac ea |{a} c'4 a2 | ea c2 f2 | e4 d2 | (E^D) EF GA | (Bc) de fg | (ae) B2 c2 | A4 z2 ::
+[K:D] (F4 A2) | (d4 c2) | (E4 F2) | G6 | (E4 G2) | (c4 B2) | (B4 A2) | F4 (AG) | 
+(F4 A2) | (d4 c2) | (e4 d2) | B4 A2 | d4 F2 | A3 GEC | D3 d d2 | d4 z2 :| 
+V:2
+|:"^2""D" D2 (F3 D) | A,2 [FA]2 [FA]2 |"A7" A,2 (C3 A,) |"D" D2 [FA]2 [FA]2 |"A7" A2 (c3 A) | 
+A,2 [EA]2 [EA]2 | A2 (c3 A) |"D" [FA]2 [DA]2 [DA]2 | D2 (F3 D) | A,2 [FA]2 [FA]2 | "A7" A,2 (C3 A,) |"D" D2 [FA]2 [FA]2 |"A7" A2 (c3 A) | G3 AcA |"D" D3 [FA] [FA]2 | [FA]4 z2 :: 
+[K:A]"A" (A,C) EA ce |{e} a4 g2 | ("E7" gf) f2 e2 | G6 | (B3 c) d2 |{e} g4 B2 | "D" (dc) c2 E2 | A,2 [EA]2 [EA]2 | 
+(A,C) EA ce | e4 c2 | cf e2 A2 |"E7" c4 B2 | G4 F2 | E2 F2 G2 |"A" A2 E2 C2 | "A" A,4 z2 ::
+[K:D]"D" (DF) AF AF | (DF) AF AF |"G" (G,B,) DG Bd | (gd) BG DB, | "A7" (A,C) EA cA | (A,C) EA cA | 
+A,2 B,2 C2 | "D" (Dd) AG FE | (DF) AF AF | (DF) AF AF | "G" (G,B,) DG Bd | (gd) BG DE |"D" [FA]6 |"A7" [EA]6 |"D" (Dd) cd AF |"D" [DA]4 z2 :|
+

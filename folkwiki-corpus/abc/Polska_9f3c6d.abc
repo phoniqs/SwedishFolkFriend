@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:10
+T:Polska
+T:Tillägnad Thore Härdelin
+C:Jon-Erik Öst
+O:Hälsingland
+R:Polska
+Z:Karin Helander
+B:25 Öst-låtar Nr 10
+L:1/16
+M:3/4
+K:A
+V:1
+ABcd e2e2 c2A2 | ABcd [df]4 [ce]4 | eaga !trill!f2ed c2A2 | cBAG A2E2 C2A,2 | 
+ABcd e2e2 c2A2 | ABcd [df]4 [ce]4 | eaga !trill!f2ed c2A2 | cBAG [AA,]4 z4 :| [K:E] 
+|: gfed e2g2 B4 | BcBA G2F2 E4 | B,2DF B2df a4 | gfed e2B2 G2E2 | 
+gfed e2g2 [BG]4 | BcBA G2F2 E4 | B,2DF B2df a4 | gfed [eG]4 z4 :| [K:A]
+|: [A,E][CE][EA][CE] [A,E]2[ca]2 E2[Bg]2 | [AD][FA]A[FA] [DA]2[Af]2 [Ac]2[ce]2 | B,2Bc d2fe dcBA | GABG A2Bc [EA,]4 | 
+[A,E][CE][EA][CE] [A,E]2[ca]2 E2[Bg]2 | [AD][FA]A[FA] [DA]2[Af]2 [Ac]2[ce]2 | B,2Bc d2fe dcBA | GABG [AC]4 z4 :| 
+V:2
+e2ae c2ec A2cA | E2AE F2B2 A2[EA]2 | Acec !trill!d2cB E2c2 | EDCB, A,2C2 E2A2 | 
+AGAB c2c2 [AE]2[EA,]2 | FGAB F2B2 E2A2 | Acec !trill!d2cB E2c2 | edcB [ca]4 z4 :| [K:E]
+|: edcB c2B2 G2E2 | DFdc B2A2 G4 | [Fd]4 F2B2 d2f2 | BAGF E2G2 B2e2 | 
+edcB c2B2 G2E2 | DFdc B2A2 G4 | [Fd]4 F2B2 d2f2 | BAGF [EB]4 z4 :| [K:A]
+|: aecA [Ac]2[Ae]2 [GB]2e2 | dAFD F2d2 E2A2 | [^G,E]2GA B2dc BAGF | EDCB, A,2C2 [CA]4 | 
+aecA [Ac]2[Ae]2 [GB]2e2 | dAFD F2d2 E2A2 | [^G,E]2GA B2dc BAGF | D2E2 [EA,]4 z4 :|
+

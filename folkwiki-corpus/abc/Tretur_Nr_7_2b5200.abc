@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:43
+T:Tretur Nr 7
+T:(Gamla Dansar i Skåne)
+O:Arild, Skåne
+S:Pål Svensson
+R:Engelska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Tretur (7) efter Pål Svensson (f 1792), Stubbarp, Arild. Mandelgrens saml."
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (FA)df (eg)ec | (dc)ec d3 |][K:D][M:2/4][K:treble]"^Dans" F |: (AF)AF (GB)AG | 
+(AF)AF (GB)AG | F2AF G2EG | F2DF E2CA, | F2DF (GB)AG | 
+F2DF (GB)AG | (FA)df (eg)ec |1 (dc)ec d3 F :|2 (dc)ec d3 e |: 
+(fd)cd (fa)^ga | (ed)cd (ef)ga | (fd)cd (fa)^ga | (ba)^ga A2a2 | 
+(fd)cd (fa)^ga | (ed)cd (ef)gb | (af)df (ec)AG |1 F2A2 d3 e :|2 F2A2 d3 z |] 
+V:2
+"^2" (DF)Ad (ce)cA | (FE)GE F3 |][K:D][M:2/4][K:treble] D |: (FD)FD (EG)FE | (FD)FD (EG)FE | 
+D2FD E2CE | D2A,D C2A,G, | D2A,D (EG)FE | D2A,D (EG)FE | (DF)Ad (ce)cA |1 (FE)GE F3 D :|2 (FE)GE F3 G |: 
+(AF)EF (Ad)cd | (cB)AB (cd)ef | (AF)EF (Ad)cd | (dc)Bc c2c2 | 
+(AF)"^Efter Pål Svensson (f 1792),  Stubbarp, Arild.""^Mandelgrens saml."EF (Ad)cd | 
+(cB)AB (cd)eg | (fd)Ad (cA)GE |1 "^Stämförslag B.O." D2F2 F3 c :|2 D2F2 F3 z |]
+

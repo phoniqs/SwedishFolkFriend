@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Je skull föll ut å fria
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad.
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1""^\"Je skull föll ut å fria...\"" A2 (d>^c) d>e | f2 (ag) e2 | c2 (e>c) d>B | B2 A4 :: 
+f2 (f>e) f>g | a2 (a^c) d>e | f2 (f>e) ^c>d | (e<f) (d^c) A2 | 
+A2 (f>e) f>g | a2 a^c d>e | f2 f>e d>e | ^c2 d4 :| 
+V:2
+|:"^2" F2 A>G A>^c | d2 fe c2 | A2 c>A B>^G | E2 C4 :: 
+d2 d>^c d>e | f2 fA F>A | d2 d>^c A>B | ^c<d (BA) E2 | 
+F2 (d>^c) d>e | f2 fA F>^c | d2 d>^c B>c |"^Stämförslag B.O." A<G F4 :|
+

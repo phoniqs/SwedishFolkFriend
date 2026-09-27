@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska från Södra Dalarna
+T:av Bengt Ohlson
+C:Bengt Ohlson
+O:Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(34) Hambo-polska från Södra Dalarna av Bengt Ohlson, Hedemora."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (D>G) (B>D) G>B | (G>B) (d>B) d>g | (f>e) (d>c) A>F | (3(GFG) (B>G) D2- | 
+D>G (B>D) G>B | G>B (d>B) d>g | f>e (d>c) A>F | G2 G4 ::
+[K:C] e>d (c>G) E>G | ^F>G A2 A2 | G>B (d>^f) e>d | c>d (e>c) G>c | 
+e>d (c>G) E>G | ^F>G A2 A2 | G>B (d>^f) e>d | c2 c4 :| 
+V:2
+|:"^2""G" B,>D (G>B,) D>G | D>G (B>G) B>e |"D7" d>c (A>F) D>C |"G" (3B,A,B, (D>B,) B,2- | 
+B,>D (G>B,) D>G | D>G (B>G) B>e |"D7" d>c (A>F) D>C |"G" B,2 B,4 ::
+[K:C]"C" G>^F (E>C) G,>C | "Dm" A,>D ^F2 F2 |"G7" B,>D (G>A) G>^F |"C" E>^F (G>E) C>E | 
+G>^F (E>C) G,>C | "Dm" A,>D ^F2 F2 |"G7" B,>D (G>A) G>^F |"C" E2 E4 :|
+

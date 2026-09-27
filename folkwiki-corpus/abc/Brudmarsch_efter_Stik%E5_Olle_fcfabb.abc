@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch efter Stikå Olle
+R:Marsch
+O:Dalarna
+B:Spelmansmusik
+M:C|
+L:1/8
+K:Am
+"Am"(A>B)AG A2 "G"B2|"C"c4 (ce)ed|"G"B2G2 (B d3)|"Am"A4 z2 (Ac)|
+"C"(e>f)ed e2 "D"^f2|"G"g4 (gb)(ba)|"D"(^f2{gf}) d2 (f2 a2)|1"E"e6 z2:|2"E"e4 z2e2]|
+|:"C"e2 a2 a2 b2|"Am"a>(ba)g e2 e^f|"Em"g>(ag)^f "Bm"f2 d2|"A"e6 A2|
+"Bm"d^cd^f "Em"a2 g2|"Bm"(^f3{gf}) "Em"e e3 (d|"A"^c2) A2 "G"(B2{cB}) G2|1"A"A4 z2 e2:|2"A"A6 z2]|
+

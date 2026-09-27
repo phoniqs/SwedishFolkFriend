@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska i dur och moll
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1""^Polska i dur och moll" F- |: F2 (DF) A>F | (FE) (EG) B2- | B2 (Ac) e>c | d2 (3(B/c/B/) A/G/ A>G | 
+F2 (DF) A>F | (FE) (EG) B2- | B2 (A>c) e>c |1 d2 d3 F- :|2 d2 d3 (e |: 
+[K:F] f2) (fa)T g>f | (e>d) (eg)T f>e | d>(^c"^dr" d)(e f>)e | (d^c/d/) (ec) A2- | 
+A2 (fa)T g>f | (e>d) (eg)T f>e | d>(^c"^dr" d)(e f>)e |1 (d/^c/=B/c/) d3 e :|2 (d/^c/=B/c/) d3 z |] 
+V:2
+"^2" D- |: D2 (A,D) F>D | (DB,) (B,E) G2- | G2 (EA) c>A | F2 GF/E/ F>E | 
+D2 (A,D) F>D | (DB,) (B,E) G2- | G2 (E>A) c>A |1 F2 [FA]3 D :|2 F2 [FA]3 (^c |:
+[K:F] d2) (df) e>d | (^c>=B) (ce) d>A | F>(E F)(G A>)G | (FE/F/) (GE) ^C2- | 
+^C2 (df) e>d | (^c>=B) (ce) d>A | F>(E F)(G A>)G |1 (F/E/D/"^Stämförslag B.O."E/) [FA]3 ^c :|2 (F/E/D/E/) [FA]3 z |]
+

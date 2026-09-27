@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:10
+T:Ekebypolska
+T:(Sv Folkdanser Del 1)
+O:Ekeby, Skåne
+R:Polska
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 10
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 10. Ekebypolska"
+Z:http://runeberg.org/folkdans/besk/0141.html
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^Förspel" (D>^C) (DF) BA | G2 G4 |]:[K:G][M:3/4][K:treble]"^Dans" D>G B2 B2 | "^Lugn hambotakt" G>B d2 d2 | (g>f) (ed) cB |
+ (Bc/B/) A2 A2 | D>(F A2) A>G | F>A d2 d2 | f>e (dc) BA | G>A Be d2 | D>G B2 B2 | 
+G>B d2 d2 | g>f (ed) cB |Bc/B/ A2 A2 | fg/f/ e2 c2 | AB/A/ d2 d2 | 
+D>^C (DF) BA |G2 G4 ::[K:C] c>c G2 E2 | C>E G2 G2 | c>B (dc) Bc | Bc/B/ A2 A2 | 
+^f>f d2 B2 | G>B d2 d2 | Bc/B/ A2 G2 | ^FG/F/ E2 E2 | c>c G2 E2 | C>E G2 G2 | 
+c>B (dc) Bc | Bc/B/ A2 A2 | ^f>f d2 B2 | G>B d2 d2 | b>a (g^f) de | c2 c4 :| 
+V:2
+"^2""D7" A,>^G, (A,D) FD |"G" B,2 B,4 |]:[K:G][M:3/4][K:treble]"G" B,>D G2 G2 | D>G B2 B2 | 
+"D7"e>d (cB) AG | GA/G/ F2 F2 | A,>D F2 F>E | D>F A2 A2 | d3/2 c/ B A FD |"G" B,>D Gc B2 | 
+B,>D G2 G2 | D>G B2 B2 | e>d (cB) AG |"Am" GA/G/ E2 E2 |"D7" de/d/ c2 A2 | FG/F/ F2 F2 | A,>^G, (A,D) FD | 
+"G"B,2 B,4 ::[K:C] "C"E>E E2 C2 | G,>C E2 E2 | E>D (^FE) DE |"Dm" GA/G/ ^F2 F2 |"G7" d>d B2 G2 | 
+D>G B2 B2 | "^1:a    2 ggr.          1:a    2 ggr.          1:a   2 ggr.""^2:a    2 ggr.          2:a    2 ggr.          2:a   1 ggr." GA/G/ ^F2 E2 |"C" DE/D/ C2 C2 |  E>E E2 C2 | G,>C E2 E2 | 
+E>D (^FE) DE |"Dm"  GA/G/ ^F2 F2 | "G7"d>d B2 G2 |"^Stämförslag B.O." D>G B2 B2 | d>c (BA) ^FG | "C" E2 E4 :|
+

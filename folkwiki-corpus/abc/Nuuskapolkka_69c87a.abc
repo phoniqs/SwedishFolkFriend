@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:32
+T:Nuuskapolkka
+O:Finland
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Finland, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1"D"^Förspel" | G>A BB | A>B cc | BB AA | G2 z |]
+[K:G][M:2/4][K:treble]"^Dans" D | G>A BB | A>B cc | BB AA | GB DD | 
+G>A BB | A>B cc | BB AA | G2 z G/B/ |] dd BG | e2 z A/B/ | 
+cc AF | d2 z B/c/ | dd BG | e2 d2 | c2 A2 | G3 z |] 
+V:2
+"^2" B, | B,>D GG | C>E AA | DD CC | B,2 z |][K:G][M:2/4][K:treble] B, | B,>D GG | C>E AA | DD CC | 
+B,D B,B, | B,>D GG | C>E AA | DD C"^Spelas önskat antal ggr."C | B,2 z E/G/ |] BB GD | c2 z F/G/ | 
+AA FD | B2 z G/A/ | BB GD | "^Stämförslag B.O." c2 B2 | F2 D2 | B,3 z |]
+

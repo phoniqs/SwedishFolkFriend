@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:14
+T:Engelska Nr 6
+T:(Gamla Dansar i Skåne)
+Z:"Gamla Dansar i Skåne. Engelska (6)"
+Z:"Efter Odina Jönsson, Allerum. Nordiska Museet, Folklivsavdelningen. Sångtext: :/: Högen o jögen o gläntan påga krågan o mågan o hinstufar la la li, la la li, la la la la la la li, la la li, la la la :/: La la li, la la ...."
+R:Engelska
+O:Allerum, Skåne
+B:Gamla Dansar i Skåne
+Z:[[Personer/Bengt Ohlson]]
+S:Odina Jönsson
+L:1/8
+M:2/4
+K:A
+V:1
+"^1""^Förspel" cc/c/ BB/B/ | A3 z |]:[K:A][M:2/4][K:treble]"^Dans" EC/C/ EC/C/ | EA AA | EC/C/ EC/C/ | 
+CB, B, z | EC/C/ EC/C/ | EA AA | GB/B/ dG/G/ | BA A z :: 
+cc/c/ ce | BB/B/ Bd | cc/c/ ce | (B/A/)G/F/ FE | 
+cc/c/ ce | BB/B/ Bd | cc/c/ BB/B/ | A3 z :| 
+V:2
+"^2" AA/A/ EE/E/ | C3 z |]:[K:A][M:2/4][K:treble] CA,/A,/ CA,/A,/ | CE EE | CA,/A,/ CA,/A,/ | 
+A,G, G, z | CA,/A,/ CA,/A,/ | CE EE | EG/G/ BE/E/ | DC C z :: "^Efter Odina Jönsson, Allerum.""^Nordiska Museet, Folklivsavdelningen.""^Sångtext:""^:/: Högen o jögen o gläntan påga""^krågan o mågan o hinstufar""^la la li, la la li, la la la la""^la la li, la la li, la la la :/:""^La la li, la la ...." AA/A/ Ac | GG/G/ GB | AA/A/ Ac | 
+(G/F/)E/D/ DB, | 
+AA/A/ Ac | GG/G/ GB | AA/A/ EE/E/ | "^Stämförslag B.O." C3 z :|
+

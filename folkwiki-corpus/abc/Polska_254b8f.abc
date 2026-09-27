@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska
+T:efter C E Hartman
+C:C E Hartman
+O:Västmanland
+R:Polska
+Z:Till abc av Göran Gustafsson
+N:http://urn.kb.se/resolve?urn=urn:nbn:se:statensmusikverk-30498
+M:3/4
+L:1/8
+K:C
+|:G|G>F E>G c>e | f>A A>f d>c | B>G G>B B>d | d>c e>c G2 |
+G>F E>G c>e | f>A A>f e>c | B>G G>B B>d | d>B c2 z :|
+|:e|f>f Af Af | e>e Ge Ge | d>c Bd Bd | g>g (3(ege) c2 | 
+f>f Af Af | e>e Ge Ge | d>c Bd Bd | g>B c2 z :| 
+|:G|G>F E>G c>e |d>c B>d (g2 | g>)g B>d (g2 | g>)g (3(ege) G2 | 
+G>F E>G c>e | d>c B>d (g2 | g>)g B>d g>B | c2c2 z :|
+

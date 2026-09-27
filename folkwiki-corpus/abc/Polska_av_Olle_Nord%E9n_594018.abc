@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Olle Nordén
+C:Olle Nordén
+O:Nordsjö, Arbrå, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Stämförslag I Andersson
+Z:Uppt av Johan Forsberg d.y. Enånger
+L:1/16
+M:3/4
+K:F
+V:1
+|:"^1"v f2>g2 a4 (fc)BA | G2>B2 d4 (BA)GF | (EG)ce (ge)be (ge)cG | uu (FA)cf (ag)bg a2uuf2 |
+v (dg)bg (dg)bg (dg)bg |uu (cf)af (cf)af (cf)af | v (eg)bg (fe)dc (BA)GF |uu (EF)GA [G,G]4 [A,F]4 ::
+v C2>F2 A2>G2 (FE)FA | uu (dc)BA (BA)G^F G4 | C2>E2 G2c2 e2g2 | (ag)fe (f2c2) B2A2 | 
+C2>F2 A2>G2 (FE)FA | uu (dc)BA (BA)G^F (GB)dg | b4 (a2>g2) f2ed |uu (cd)ef [cg]4 [Af]4 :: 
+v (af)dA (FE)FG F2(ED) | (^CE)(AE) (CE)(AE) (CE)(AE) | (DF)(AF) (DF)(AF) (DF)(AF) | (bg)ec (BA)Bc B2(AG) |
+ (FA)(dA) (FA)(dA) (FA)(dA) | (GB)(dB) (GB)(dB) (GB)(dB) | (Ec)(gc) (bc)(gc) (Ec)(gc) | (ag)(fe) [cg]4 [Af]4 :| 
+V:2
+|:"^2" A2>c2 f4 (cA)GF | B,2>D2 B4 (GF)ED | (CE)Gc (ec)gc (ec)GE | (CF)Ac (fe)ge f2A2 | 
+(Bd)gd (Bd)gd (Bd)gd | (Ac)fc (Ac)fc (Ac)fc | (ce)ge (dc)BA (GF)ED | (CD)EF [CE]4 C4 :: 
+A,2>C2 F2>C2 (A,G,)A,C | (BA)G^F (GD)B,A, [B,D]4 | G,2>C2 E2G2 c2e2 | (fc)AB (c2A2) G2F2 | 
+A,2>C2 F2>C2 (A,G,)A,C | (BA)G^F (GD)B,A, (B,D)GB | d4 (f2>c2) A2cB | (AB)cd [Be]4 [Fc]4 :: 
+(fd)AF (D^C)DE D2A,2 | (A,^C)(EC) (A,C)(EC) (A,C)(EC) | (A,D)(FD) (A,D)(FD) (A,D)(FD) | (ge)cB (EC)EG E2C2 | 
+(DF)(AF) (DF) (AF) (DF)(AF) | (DG)(BG) (DG)(BG) (DG)(BG) | (CG)(eG) (CG)(eG) (CG)(eG) | (fc)(Ac) [Be]4 [Fc]4 :|
+

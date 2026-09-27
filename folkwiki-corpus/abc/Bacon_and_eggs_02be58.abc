@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Bacon and eggs
+C:Eric Öst
+O:Hälsingland
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik och arr. Eric Öst"
+L:1/16
+M:2/4
+K:G
+V:1
+|:"^1" G,A,B,D EGBd | eged "^Polka" BGDB, | A,B,^CE GBA^G | A^ceg bgec | 
+d^de=f ^fafd | cecA FAFD | FGBF GBFG | AcAF DCB,A, | 
+G,A,B,D EGBd | eged BGDB, | A,B,^CE GBA^G | A^ceg bgec | 
+d^de=f ^fafd | cecA FAFD | FGBF GBFG | AcAF G4 ::
+[K:C] ^FGeG FGeG | ^FGdG FGdG | EGdG EGdG | EGcG EGcG | 
+D^FcF DFcF | D^FBF DFBF | EGBG EGBG | EGAG EGAG | 
+^FGeG FGeG | ^FGdG FGdG | EGdG EGdG | EGcG EGcG | 
+cA^Fc AFcF | GcAG EGce | ^fdBG ^FGBd | c2c2 c4 ::
+[K:F] AFAc BGBd | cAcf eceg | faca faca | faca faca | 
+ebcb ebcb | ebcb ebcb | fgag fedc | Bcdc BAGB | 
+AFAc BGBd | cAcf eceg | faca faca | faca faca | 
+fbdb fbdb | faca faca | egec Bceg | f2f2 f4 :|
+

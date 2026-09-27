@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:5
+T:Fru Granhammars polska
+C:Jon-Erik Öst
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Arr Thore Härdelin d.ä.
+B:25 Öst-låtar Nr 5
+L:1/8
+Q:1/4=90
+M:3/4
+K:Bb
+V:1
+"^1" D |: GB/d/ g2 b2 | a>g ^f/g/a/f/ d2 | d'2 c'a bg | ^f/g/a/f/ dc BA | 
+GB/d/ g2 f2 | cB/c/ d3 z | c/d/c/A/ BG dB | A>G G/^F/A/F/ D>D | 
+GB/d/ g2 b2 | ag ^f/g/a/f/ d2 | dd' c'a bg | ^f/g/a/f/ dc BA | 
+GB/d/ g2 f2 | e/d/c/e/ d2 z2 | c/d/c/A/ BG A^F | D/^F/A/F/ G3 D :: 
+GA/B/ A3 A | cG B2 A2 | d2 de/d/ c/B/A/G/ | ^F/G/A/F/ GD B,D | 
+GA/B/ A3 A | c/d/c/G/ B2 A2 | d=e/^f/ gB AG | ^F/G/A/F/ G2 z2 :: 
+[B,Fdb]2 [B,D]2 [CE]2 | F2 d>c BA | GE G,/B,/E/G/ BG | GF =E/F/G/E/ F2 | 
+E2 ED/E/ FE | ED D/F/B/d/ f2 | f=e/f/ g>f _ed | cB AG F2 | 
+[B,Fdb]2 [B,D]2 [CE]2 | FB, d>c BA | GE G,/B,/E/G/ BG | GF F/d/B/F/ DF |
+ FE ED/E/ cE | ED D/F/B/d/ f2 | f=e/f/ gF A_e | d/c/B/A/ B2 z2 :| 
+

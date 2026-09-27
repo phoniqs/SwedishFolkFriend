@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Slövagubbens måg
+S:Efter Jonas Hedin
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+U:t=tenuto
+K:G
+V:1
+"^1""^\"Slövagubbens måg ...\"" (d2- |: d2 z g) (g2>f2) f2>e2 | (e2>d2) (td2tG2) B4- | B2AB (cd)cA F2>A2 | (AB)AF (G2B2) d4- | 
+d2 z g (g2>f2) f2>e2 | e2>d2 (td2tG2) B4- | B2AB cdcA F2>A2 |1 ABAF G6 d2 :|2 ABAF G6 B2- |: 
+B2 z c d4 g4- | g2 z2 fgfe f2>A2- | A2 z B c4 e4- | e2 z2 dedc d2>G2- | 
+G2 z A B4 d4- | d2 z2 cdcB c2>c2- | c2 z B A2d2 f2>a2 |1 abaf g6 B2- :|2 abaf g6 z2 |] 
+V:2
+"^2" B2- |: B2 z e (e2>d2) d2>c2 | (c2>B2) (tB2tD2) G4- | G2FG (AB)AF D2>F2 | (FG)FD (B,2G2) B4- | 
+B2 z e (e2>d2) d2>c2 | c2>B2 (tB2tD2) G4- | G2FG ABAF D2>F2 |1 FGFD B,6 B2 :|2 FGFD B,6 G2- |: 
+G2 z A B4 e4- | e2 z2 dedc d2>F2- | F2 z G A4 c4- | c2 z2 BcBA B2>B,2- | 
+B,2 z D G4 B4- | B2 z2 ABAG A2>A2- | A2 z G F2A2 d2>f2 |1 "^Stämförslag B.O." fgfd B6 G2 :|2 fgfd B6 z2 |]
+

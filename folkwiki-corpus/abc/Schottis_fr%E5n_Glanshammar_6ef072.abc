@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Glanshammar
+R:Schottis
+S:Erik Olsson
+O:Glanshammar, Närke
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Glanshammar,  Västmanland eft. Erik Olsson."
+Z:http://www.martinlinden.se/schottisfranasta.pdf
+L:1/16
+M:2/4
+K:G
+V:1
+|:"^1" G2BA (!>!G2!>!G2) | (B>d)gB d2dg | f2AB c2Bc | e2dc (!>!B2!>!D2) | 
+G2BA (!>!G2!>!G2) | (B>d)gB d2dg | f2AB c2AF | A2GF G4 :: 
+e2ce g2fe | d>BGB d2d2 | D2FA (cA)FA | G2Bd (!>!g2!>!g2) | 
+e2ce g2fe | d>BGB d2d2 | (cB)AB (cA)FA | G2B2 G4 :| 
+V:2
+|:"^2" B,2DC (!>!B,2!>!B,2) | (G>B)dG B2Be | d2FG A2GA | c2BA (!>!G2!>!B,2) | 
+B,2DC (!>!B,2!>!B,2) | (G>B)dG B2Be | d2FG A2FD | C2B,A, B,4 :: 
+c2Gc e2dc | B>GDG B2B2 | A,2DF (AF)DC | B,2DG (!>!B2!>!B2) | 
+c2Gc e2dc | B>GDG B2B2 | (AG)FG (AF)DC | "^Stämförslag B.O." B,2D2 B,4 :|
+

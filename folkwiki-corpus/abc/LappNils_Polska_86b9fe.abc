@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:427
+T:Lapp-Nils Polska
+T:(SvL Jämtland 427)
+S:Pål Nilsson
+S:Lapp-Nils
+B:Svenska Låtar Jämtland nr 427
+O:Föllinge, Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Pål Nilsson, Tornäs, Föllinge. (1834-1919)
+Z:Stämma Hans-Ers
+L:1/8
+M:3/4
+K:F
+V:1
+|:"^1" f2 c>(e f>)g | a>b g<a f2- | f2 (b>a) g>f | e>g (3f(ed) c2- | 
+c>(f c>)(e f>)g | a>b g<a f2- | f2 (b>a) g>e | (3(ceg) f4 :: 
+c>f (3a(fa) g>e | c>e (3g(ag) f>e | d>(c B>)(c d>)c | B>A (3G(AB) A2 | 
+c>f (3a(fa) g>e | c>e (3gag f>e | d>c (3BdB (3A(cA) | G2 F4 :| 
+V:2
+|:"^2" A2 A>c A>B | c>d e<f d2- | d2 d>c B>A | G>B (3AGF E2 | A>(c A>)(c d>)e | f>g e<f d2- | 
+d2 d>c B>G | (3GcB A4 :: A>A (3FAc e>c | E>G (3BcB A>G | F>E D>(E F>)A | G>F (3EFG F2 | 
+A>A (3F(Ac) e>c | E>G (3BcB A>G | "^Sv. L. Jämtland nr. 427.  Stämma Hans- Ers." F>E (3DFD (3C(FC) | B,2 A,4 :|
+

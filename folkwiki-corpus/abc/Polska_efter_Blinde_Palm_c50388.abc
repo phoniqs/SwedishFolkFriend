@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:377
+T:Polska efter Blinde Palm
+S:Blinda Palm
+O:Svärdsjö, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+Q:1/4=82
+M:3/4
+K:D
+V:1
+|:"^1" [Aa]2 [DA]2 [EA]2 | FG/F/ ED/^C/ D2 | [Aa]2 [DA]2 [EA]2 | FG/F/ ED/^C/ D2- | 
+D>(^c d>)(e f/)e/f/g/ | a>a ^ge/g/ a2 | [Aa]2 [DA]2 [EA]2 | FG/F/ ED/^C/ D2 | 
+[Aa]2 [DA]2 [EA]2 | FG/F/ ED/^C/ D2- | D>(^c d>)(e f/e/)f/g/ | (a^c) d4 :: 
+f>(a g/a/)g/e/ c>e | f>(a g/e/)g/b/ a2 | a>(g b)(g a>)f | e(d ^c)e/c/ A2 | 
+f>(a g/a/)g/e/ c>e | f>(a g/e/)g/b/ a2- | a>(g b)(g a>)f | ed/^c/ d4 :| 
+V:2
+|:"^2" A2 [A,D]2 [^CE]2 | DE/D/ ^CA,/G,/ A,2 | A2 [A,D]2 [^CE]2 | DE/D/ ^CA,/G,/ A,2- | 
+A,>(A B>)^c (d/c/)d/e/ | ^c>c dB/d/ c2 | A2 [A,D]2 [^CE]2 | DE/D/ ^CA,/G,/ A,2 | 
+A2 [A,D]2 [^CE]2 | DE/D/ ^CA,/G,/ A,2- | A,>(A B>)(^c d/c/)d/e/ | (^cG) F4 :: 
+A>(d c/d/)c/A/ E>A | d>(f e/c/)e/g/ f2 | f>(e g)(e f>)d | ^c(B A)c/A/ E2 | 
+A>(d c/d/)c/A/ E>A | d>(f e/c/)e/g/ f2- | f>(e g)(e f>)d | ^cA/G/"^B.O." F4 :|
+

@@ -1,0 +1,42 @@
+%%abc-charset utf-8
+
+X:56
+T:Kadrilj från Övraby socken
+T:(Sv Folkdanser Del 1)
+O:Övraby socken, Halland
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 56. Kadrilj från Övraby socken, Halland"
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 56
+Z:"1:a 2 ggr. 2:a 1 ggr. 3:a 4 ggr. 4:a 2 ggr. 5:a 2 ggr. Återupprepas 1 gång. Därefter galopp en gång med repris."
+N: Galoppen på slutet är en förenklad form av ''Über Stock und Stein'', op. 98  av schlesiske Carl Faust (1825-92).
+L:1/8
+M:2/4
+K:A
+V:1
+"^1""^Förspel""A" (c/e/)c/A/"E7" (B/d/)B/G/ |"E7" BA"A" A2 |: [K:A][M:2/4][K:treble]"^Dans""^(1)""A" A>A Ac | e>e ee | aA ce |
+"A" a2"E7" g2 | bd/d/ df/f/ |"A" fe Ac |"E7" e/e/e/e/ dG |"E7" B2 A2 :|
+"^(2)""Bm" d/d/d/d/ f>d | "A" c/c/c/c/ e>c | "E7" B/B/B/B/ gg |"E7" b2"A" a2 |"Bm" d/d/d/d/ f>d |"A" c/c/c/c/ e>c | 
+"E7"B/B/B/B/ gg |"E7" b2"A" ac/e/ |:"^(3)""A" ae cA |"E7" BB Ed/B/ | GA Bc |"A" ef ec/e/ | 
+ae cA |"E7" BB Ed/B/ | GA Bc |1 "E7" B2"A" Ac/e/ :|2"E7" B2"A" A2 |:"^(4)""A" c2 A2 | c2 A2 | 
+"E7"ce/d/ BG |"E7" Bd"A" cA |"A" c2 A2 | c2 A2 |"E7" ce/d/ BG |"A" A2 z2 ::
+"^(5)""A" (e/c/)A/c/ (e/c/)A/c/ | ea aa | (e/c/)A/c/ (e/c/)A/c/ |"E7" cB BB |"A" (e/c/)A/c/ (e/c/)A/c/ | 
+ea aa | "A" (c/e/)c/A/"E7" B/d/B/G/ |1"E7" BA"A" A z :|2 B"^Galopp"A A e/e/ |: 
+"A""^1:a 2 ggr. 2:a 1 ggr. 3:a 4 ggr. 4:a 2 ggr. 5:a 2 ggr. Återupprepas 1 gång. Därefter galopp en gång med repris."ec Ac | EA ce/e/ | ec Ac | EA ce/e/ |1"E7" e2 Be/e/ | e2 Be/e/ | 
+e2 Bd |"A" cB Ae/e/ :|2"E" e2 Bg/g/ | g2 eb/b/ |"B7"  b2 fg | "E" ee/e/ ee |: 
+"E" d3 c | Bc de | f3 e | de fg |1"A" a2 g2 | g2 f2 | 
+f2 e2 | ee/e/ ee :|2"A" a2 A>B | c2 f>e |"E7" e2 B>c |"A" A4 |] 
+V:2
+"^2" (A/c/)A/E/ (G/B/)G/E/ | DC C2 |:[K:A][M:2/4][K:treble] C>C CA | c>c cc | cE Ac | 
+f2 e2 | gB/B/ Bd/d/ |dc EA | c/c/c/c/ BE | D2 C2 :|
+ B/B/B/B/ d>B | A/A/A/A/ c>A | G/G/G/G/ BB | d2 c2 | B/B/B/B/ d>B | A/A/A/A/ c>A | 
+ G/G/G/G/ BB | d2 cA/c/ |: ec AE | GG GB/G/ | EF GA | cd cA/c/ | 
+ec AE | GG GB/G/ | EF GA |1 E2 CA/c/ :|2 E2 C2 |: A2 E2 | A2 E2 | 
+ Ac/B/ GE | GB AE | A2 E2 | A2 E2 | Ac/B/ GE | C2 z2 :: 
+(c/A/)E/A/ (c/A/)E/A/ | cc cc | (c/A/)E/A/ (c/A/)E/A/ | AG GG | (c/A/)E/A/ (c/A/)E/A/ | 
+cc cc | (A/c/)A/E/ (G/B/)G/E/ |1 DC C z :|2 DC C c/c/ |:
+ cA EA | CE Ac/c/ | cA EA | CE AB/B/ |1 B2 GB/B/ | B2 GB/B/ | 
+B2 GB | AE Cc/c/ :|2 B2 Ge/e/ | e2 Bf/f/ | f2 ^dB | GG/G/ GG |:
+ B3 A | GA Bc | d3 c | Bc de |1 f2 e2 | e2 d2 | 
+d2 c2 | cc/c/ cc :|2 c2 E>G | "^Stämförslag B.O." A2 d>c | c2 G>E | C4 |]
+

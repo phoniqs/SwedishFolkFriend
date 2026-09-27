@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Sex Man Engelska från Finnström
+O:Finnström, Finland
+R:Engelska
+Z:[[Personer/Bengt Ohlson]]
+N:"Finlands svenska folkdiktning VI, Folkdans."
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" e2e2 (ge)ce | e2d2 d4 |]:[K:D][M:2/4][K:treble]"^Dans" (AF)DF (AF)DF | A2dd d2d2 | (AF)DF (AF)DF | 
+F2EE E4 | (AF)DF (AF)DF | A2dd d2d2 | e2e2 (ge)ce | e2d2 d4 :: 
+f2ff f2d2 | e2ee e2A2 | f2ff f2d2 | (ed)cB A4 | 
+f2ff f2f2 | g2bb b2>g2 | a2f2 (ge)ce | e2d2 d4 :: 
+f2f2 (fg)af | d2d2 d2ef | f2f2 (fg)ag | f2e2 e4 |
+f2f2 (fg)bf | d2d2 d2ef | g2g2 (ge)ce | e2d2 d4 :| 
+V:2
+"^2" c2c2 (ec)AG | G2F2 [FA]4 |]:[K:D][M:2/4][K:treble] (FD)A,D (FD)A,D | F2FF F2F2 | 
+(FD)A,D (FD)A,D | D2CC C4 | (FD)A,D (FD)A,D | F2FF F2F2 | c2c2 (ec)AG | G2F2 [FA]4 :: d2dd d2A2 | 
+c2cc c2E2 | d2dd d2A2 | (cB)AE C4 | d2dd d2A2 | B2gg g2>d2 | f2d2 (ec)AG | G2F2 [FA]4 :: 
+d2d2 (de)fd | F2F2 F2cd | d2d2 (de)fe | d2c2 c4 | d2d2 (de)gd | F2F2 F2cd | 
+"^Stämförslag B.O." e2e2 (ec)AG | G2F2 [FA]4 :|
+

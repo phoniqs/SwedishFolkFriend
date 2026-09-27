@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Mora efter Karl Halvarsson
+S:Karl Halvarsson
+O:Mora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Karl Halvarsson, Kättbo.
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" (D>F) (F>A) A>d | (d<f) f4 | (D>F) (F>A) A>d | (d<c) c4 | (A>c) (c>e) e>^g | 
+(^g<a) a4 | a>b a2 g2 | g>fT (f>e) f2 | (D>F) (F>A) A>d | (d<f) f4 | 
+(D>F) (F>A) A>d | (d<c) c4 | (A>c) (c>e) e>^g | (^g<a) a4 | (a>b) (a>g) e>c | d2 d4 :: 
+(F>G) (A>B) A>G | F>G (A>B) A2 | (G>A) (B>c) B>A | G>A (B>c) B2 | (A>c) (c>e) e>^g | 
+(^g<a) a4 | a>b a2 g2 | g>fT (f>e) f2 | (F>G) (A>B) A>G | F>G (A>B) A2 | (G>A) (B>c) B>A | 
+G>A (B>c) B2 | (A>c) (c>e) e>^g | (^g<a) a4 | (a>b) (a>g) e>c | d2 d4 :| 
+V:2
+|:"^2" (A,>D) (D>F) F>A | (A<d) d4 | (A,>D) (D>F) F>B | (B<A) A4 | (E>A) (A>c) c>d | 
+(B<c) c4 | c>d c2 c2 | c>d (d>c) d2 | (A,>D) (D>F) F>A | (A<d) d4 | 
+(A,>D) (D>F) F>B | (B<A) A4 | (E>A) (A>c) c>d | (B<c) c4 | (c>d) (c>B) A>G | F2 F4 :: 
+(D>E) (F>G) F>E | D>E (F>G) F2 | (B,>D) (G>A) G>D | B,>D (G>A) G2 | (E>A) (A>c) c>d | (B<c) c4 | 
+c>d c2 c2 | c>d (d>c) d2 | (D>E) (F>G) F>E | D>E (F>G) F2 | (B,>D) (G>A) G>D | B,>D (G>A) G2 | 
+(E>A) (A>c) c>"^Stämförslag B.O."d | (B<c) c4 | (c>d) (c>B) A>G | F2 F4 :|
+

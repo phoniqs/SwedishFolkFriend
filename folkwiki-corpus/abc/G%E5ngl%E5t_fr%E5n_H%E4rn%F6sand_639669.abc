@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Härnösand
+R:Gånglåt
+C:Osvald Wallin
+O:Härnösand, Ångermanland
+Z:Karin Helander
+N:Från handskriven not hos Ångermanlands spelmansförbund: https://spelmansforbundet.com/spelmanslag/allspelslatar/
+N:"1. Skriven och arr. av Osvald Wallin"
+M:2/4
+L:1/16
+K:D
+V:1
+!mf! u(F2G2) |: vA3(F A2d2) | f4 f(gfe) | d4 B(dBG) | [FA]6 d2 | !p! c4 (cd)ef | 
+g2e2 c2e2 | !p!d4 (dc)dB | !crescendo(! A2G2 F2uG2 !crescendo)! | !f! vA3(F A2d2) | f4 f(gfe) | d4 B(dBG) | 
+[FA]6 d2 | !p! c4 (cd)ef | g2e2 c2e2 | d4 (Acec) |1 d4 u(F2G2) :|2 [dD]4 d2c2 || 
+|: !f! v[BD]3[GB] [GB]2[GB]2 | ([GB]3d) c2B2 | [Ac]3[FA] [FA]2[FA]2 | !p! ([DA]3d) (c2B2) | A3(c e2f2) | 
+g2e2 c2e2 | d4 (dc)de | !crescendo(! f2!tenuto!d2 !tenuto!c2!tenuto!e2 !crescendo)! | !f! v[BD]3[GB] [GB]2[GB]2 | ([GB]3d) (c2B2) | [Ac]3[FA] [FA]2[FA]2 |
+ [DA]3d c2B2 | !piano! A3(c e2f2) | g2e2 c2e2 | d4 (Acec) |1 [dD]4 (d2c2) :|2 !fermata! [dD]6 z2 |]
+V:2
+u(F2G2) |: vF3(D F2A2) | d4 d(edc) | B4 G,(B,DG) | [DA]6 [FA]2 | [AG]4 (GF)GA | 
+B4 (A2G2) | [FA]4 (DE)FG | F2D2 A,2uD2 | vF3(D F2A2) | d4 d(edc) | B4 G,(B,DG) | 
+[DA]6 [FA]2 | [AG]4 (GF)GA | B4 (A2G2) | [FA]4 D2[GA]2 |1 [FA]4 u(F2G2) :|2 [FA]4 B2A2 ||
+|: vG3D [DB,]2[DB,]2 | [DG,]4 (A2G2) | F2D2 [AD]2[AD]2 | [FA]4 (E2D2) |  C4 (A,2C2) | 
+C2E2 A2G2 | F3D F2A2 | d2!tenuto!A2 !tenuto!F2!tenuto!A2 | G3D [DB,]2[DB,]2 | [DG,]4 (A2G2) | F3D [AD]2[AD]2 | 
+[FA]4 E2D2 | C4 (A,2C2) | C2E2 A2G2 | [FA]4 (DEFG) |1 [AF]4 (B2A2) :|2 [FA]6 z2 |]
+

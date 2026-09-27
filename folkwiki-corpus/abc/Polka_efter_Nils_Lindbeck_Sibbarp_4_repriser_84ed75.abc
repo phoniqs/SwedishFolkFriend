@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polka efter Nils Lindbeck,  Sibbarp, 4 repriser
+R: Polka
+S:Bror Dahlgren
+O:Bjärsjölagård
+Z:Skåning
+M:2/4
+L:1/16
+K:D
+V:1   clef=treble   %name="Fiol 1"
+"D"AdcB Agfe|d2F2 AFAd|"A"c2E2 AEAB|A2D2 FED2|
+"D"AdcB Agfe|d2F2 AFAd|"A"c2E2 A3C|D2D2 D4:|
+K:A
+|:"A"cde2 eefg|a2c2 ecea|"E"g2B2 eBef|e2A2 cBA2|
+"A"cde2 eefg|a2c2 ecea|"E"g2B2 e3G|A2A2 A4:|
+K:D
+|:"D"f2A2 f2A2|f2a2 gfed|"A"e2A2 g2A2|g2b2 agfe|
+"D"f2A2 a2A2|a2d'2 fgab|"A"a2c2 a2c2|1d2d2 d2z2:|2d2d2 d2Bc|]
+K:G
+|:"G"d2b2 gfg2|G2B2 BAG2|"D"F2e2 d^cd2|G2B2 BAGA|
+"G" B2b2 gfg2|G2B2 BAG2|"D"FGAB cdef|1g2g2 g2Bc:|2g4 .g2z2|]
+

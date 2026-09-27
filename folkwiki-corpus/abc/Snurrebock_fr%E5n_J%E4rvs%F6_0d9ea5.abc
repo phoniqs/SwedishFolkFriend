@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:16
+T:Snurrebock från Järvsö
+S:Efter Oskar Bergqvist
+O:Järvsö, Hälsingland
+B:Musik till Hälsingedanser nr 16
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 16. Snurrebock från Järvsö eft. Oskar Bergqvist"
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" (A |: d>)(f e)(d c>)B | (B>A) (AF) D>F | A>(B A>)(F G>)E | (E>D) (DF) A>A |
+ d>(f e)(d c>)B | (B>A) (AF) D>F"^Förspel -------------------------------" | A>(B A>)(F G>)E |1 (ED) D3 A :|2 
+(ED) D3 F |: (A>d) (f>f) f>f | (f>e) (e>c) A5/4A/4 | (A>c) (e>e) e>e |
+ (e>d) (d>A) F2 | "^Långsamt" d c2 d B2 | e d2 B A2 | F G2 E D2 :| 
+V:2
+"^2" (D |: F>)(d c)(B A>)G | (G>F) (FD) A,>D | F>(G F>)(D E>)C | (C>A,) (A,D) F>F | 
+F>(d c)(B A>)G | (G>F) (FD) A,>D | F>(G F>)(D E>)C |1 (CA,) A,3 D :|2 (CA,) A,3 D |: 
+(F>A) (d>d) d>d | (d>c) (c>A) E5/4E/4 | (E>A) (c>c) c>c | (G>F) (F>F) D2 | F E2 F G2 | 
+c B2 G F2 | "^Stämförslag B.O."D E2 C [A,F]2 :|
+

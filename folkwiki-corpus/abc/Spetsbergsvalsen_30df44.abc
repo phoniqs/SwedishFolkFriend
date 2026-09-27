@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Spetsbergsvalsen
+S:Henry Fredriksson
+O:Ludvika, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Fredriksson."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" Bc |: d2 B2 d2 | e2 g3 e | d2 B2 G2 | D3 GBc | B2 A2 F2 | 
+D2 F2 (3ABA | G2 B2 c2 | d4 Bc | d2 B2 d2 | e2 g3 e | d2 B2 G2 | 
+D3 GBc | B2 A2 F2 | D2 B3 A | G3 G G2 |1 G4 Bc :|2 G3 DDG |: 
+B2 B3 A | G2 A2 B2 | c2 c3 G | E2 A2 G2 | F2 F3 E | D2 c2 A2 | 
+B4 c2 | d4 ed | B2 B3 A | G2 A2 B2 | c2 c3 G | E2 A2 G2 | F2 F3 E |1 
+D2 B2 A2 | G2 Ac BA | G3 DDG :|2 D2 E2 F2 | G3 G G2 | G4 z2 |] 
+V:2
+"^2" GA |:"G" B2 G2 B2 |"C" c2 e3 c |"G" B2 G2 D2 | B,3 DGA |"D7" G2 F2 D2 | 
+A,2 D2 C2 | "G" B,2 G2 A2 | B4 GA | B2 G2 B2 |"C" c2 e3 c |"G" B2 G2 D2 | B,3 DGA |
+"D7" G2 F2 D2 | A,2 F3 D |"G" B,3 B, B,2 |1"G" [B,D]4 GA :|2"G" [B,D]3 B,B,D |:
+"G" G2 G3 D |"G7" B,2 F2 =F2 | "C" E2 E3 E | C2 F2 E2 |"D7" D2 D3 C | A,2 A2 F2 |
+"G" G4 A2 | B4 cB | G2 G3 D | "G7" B,2 F2 =F2 |"C" E2 E3 E | C2 F2 E2 |"D7" D2 D3 C |1 
+"^Stämförslag B.O."  A,2 D2 C2 |"G" B,2"D7" CE DC | "G" B,3 B,B,D :|2"D7" A,2 C2 D2 |"G" B,3 B, B,2 |"G" [B,D]4 z2 |]
+

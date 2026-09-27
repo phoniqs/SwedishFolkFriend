@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:5
+T:Häxritten
+T:Polskan som får alla häxor att stampa takten
+O:Hälsingland
+R:Polska
+C:Eric Öst
+B:Spelmanshälsning
+Z:Karin Helander
+L:1/16
+M:3/4
+K:Dm
+V:1
+"^1:a stämma" |: (D2"Dm"[f2a2]) [f2a2][fb][fa] "A7"[e2g2][e2g2] | "Dm" (D2[d2f2]) [d2f2][dg][df] "Gm"[B2e2][B2e2] | "E7"[^G4d4] [G2d2][Gc][=BG] "A7"[=G2^c2][G2A2] | [^C2G2][_B2G2] [B2G2][BG][AG] [A2f2][A2f2] | 
+"Dm"(D2[f2a2]) [f2a2][fb][fa] "A7"[e2g2][e2g2] | "Dm"(D2[d2f2]) [d2f2][dg][df] "Gm"[B2e2][B2e2] | "E7"[^G4d4] [G2d2][Gc][=BG] "A7"[=G2^c2][G2A2] | "A7"(AG)EF "Dm"D6 z2 :|
+|: [K:D] "D"(Fd)(Ad) (Fd)(Ad) (Fd)(Ad) | "A"(Ec)(Ac) (Ec)(Ac) (Ec)(Ac) | "A7"(Ge)(Ae) (Ge)(Ae) (Ge)(Ae) | "D"(Fd)(Ad) (Fd)(Ad) (Fd)(Ad) | 
+"D"(Fd)(Ad) (Fd)(Ad) (Fd)(Ad) | "A"(Ec)(Ac) (Ec)(Ac) (Ec)(Ac) |  "A7"(gf)ga  (ba)gf (ag)fe | (gf)ec "D"d8 :|
+|: [K:Dm] "^(arco)" "Dm"A,2[FA][FA] [F2A2]D2 [F2A2]_A,2 | "Gm"G,2[Bf][Bf] [B2f2]G,2 [d4b4] | "Dm"(3 [f2a2][f2a2][f2a2] "Gm"(3 [e2g2][e2g2][e2g2] "Fdim"(3 [d2f2][d2f2][d2f2] | "A" !>! "^Pizz" A, a^gf edcB A2A,2 | 
+"Dm"A,2[FA][FA] [F2A2]D2 [F2A2]_A,2 | "Gm"G,2[Bf][Bf] [B2f2]G,2 [d4b4] | "Dm"(3 [f2a2][f2a2][f2a2] "Gm"(3 [e2g2][e2g2][e2g2] "Fdim"(3 [d2f2][d2f2][d2f2] | "A7"(eA)^ce "Dm"d8 :| 
+|: "Dm"(A,"^4"F)"^02"([AA]F) !>!([AA]F)!>!([AA]F) !>!([dA]F)!>!([AA]F) | "A7""^02"([AA]E)([GA]E) ([GA]E)([GA]E) ([GA]E)([GA]E) | "Dm" ([GA]"^4"D)([FA]D) ([FA]D)([FA]D) ([FA]D)([FA]D) | 
+"A7"([FA]^C)([EA]C) ([EA]C)([EA]C) ([EA]C)([EA]C) | "Dm"(A,"^4"F)"^02"([AA]F) !>!([AA]F)!>!([AA]F) !>!([dA]F)!>!([AA]F) | "A7" "^02"([AA]E)([GA]E) ([GA]E)([GA]E) ([GA]E)([GA]E) | 
+"Dm"([GA]"^4"D)([FA]D) ([FA]D)([FA]D) ([FA]D)([FA]D) |1 "A7"(A,^C)EC "Dm"D8 :|2 "^rit." "A7"(A,^C)EC !fermata! "Dm" D8 |]
+

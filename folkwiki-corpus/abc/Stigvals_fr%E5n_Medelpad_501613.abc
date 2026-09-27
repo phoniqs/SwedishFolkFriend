@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Stigvals från Medelpad
+S:Pelle Dahlén
+O:Krången, Indal, Medelpad
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Pelle Dahlén, Krången, Indal."
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" A2 |: d4 (ef) | d4 (ef) | g2!trill! f2 e2 | d2 c2!trill! B2 | A2 (^GA) Bc | 
+A4 (Ac) | e4 (Ac) | e4 (ef) | g2 (B2 c2) |1 d4 A2 :|2 d4 (Ad) |: 
+f2{g} fe f2 | A2 df b2 | b2 (ge) ce | A2 ce g2 | 
+f2{g} fe f2 | A2 df b2 | (bg) (fg) ec |1 d4 (Ad) :|2 d4 z2 |] 
+V:2
+"^2" D2 |: F4 (GA) | F4 (GA) | B2 A2 G2 | F2 E2 D2 | C2 (B,C) DE | 
+C4 (EA) | c4 (EA) | c4 (cd) | e2 (G2 A2) |1 F4 D2 :|2 F4 (FA) |: 
+d2{e} dc d2 | F2 Ad f2 | g2 (ec) Ac | E2 Ac e2 | d2{e} dc d2 | 
+F2 Ad f2 | "^Stämförslag B.O." (ge) (cA) GE |1 F4 (FA) :|2 F4 z2 |]
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Jannes polska
+O:Ilsbo, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. o. Arr. Ingemar Lundberg, Ilsbo. (1973)"
+C:Ingemar Lundberg
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" DG/F/ GB de | c2 c/B/c/d/ BG | E^D/E/ c>B AE | GF F/G/A/F/ D2 | 
+DG/F/ GB de | c2 c/B/c/d/ BG | Ec/B/ AG FE | D/^C/D/B/ A2 G2 :: 
+B2 B^A/B/ g>f | fe e/f/e/c/ A2 | c>D FA ed | d>c cB B/c/B/A/ | 
+G>F GB GE | c>B A/^G/A/B/ A2 | B>c BG FD | B,G/F/ E4 :| 
+V:2
+|:"^2""G" G,B,/^A,/ B,D G^G |"Am" [EA]2"D7" DE/F/"G" [B,G]2 | 
+"Am" [G,E]2 [CE][B,E]"A" [A,E]2 |"D7" [^CE]2 [=CE]2 [A,D]2 |"G" G,B,/^A,/ B,D G^G | 
+"Am" [EA]2"D7" DE/F/"G" [B,G]2 |"Am" [G,E]2 [CE][B,E] [A,E]2 |"D" [A,F]2 [CF]2 [B,D]2 :: 
+"Em" [G,E]2 E^D/E/ B2 |"Am" BA A/c/A/E/ C2 |"D7" F>A, DF cA | F>D EF"G" AG |"Em" E>^D EG EB, | 
+"Am" [A,E]2 CB,/D/ [CE]2 |"Em" G>A GE B,G, |"Bb" A,B,/A,/"Em" G,4 :|
+

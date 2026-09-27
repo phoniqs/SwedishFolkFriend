@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Vispolska efter Olof Tillman
+R:Polska
+O:Dala-Floda, Dalarna
+S:Olof Tillman
+Z:Karin Helander
+N:Från http://www.rudemex.co.uk/library/Scandinavian/Vispolska%20efter%20Olof%20Tillman.pdf
+N:In Paley "Swedish Fiddle Music" No. 5
+M:3/4
+L:1/8
+K:Gm
+V:1
+|: "D" D>^F G>A "Gm" B>d | "F" c>B G>A F2 | "F7" F>_E C>D E>F | "Gm" G>A G>^F D2 :| 
+|: "Gm" B>G "D" A<^F D2 | "Gm" G>A B<c d2 | B>G "D" A<^F D2 | "Gm" G>A B<c "D7" d>^F | 
+"Gm" G>B d2 "D7" d>^F | "Gm" G>A B2 B>c | (3 BAG "D7" A>^F D>F | "Gm" G2 G4 :|
+

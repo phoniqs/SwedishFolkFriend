@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:495
+T:Polska efter Axel Axelsson
+T:(OA 495)
+B:Sörmländska låtar samlade av Olof Andersson nr 495
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:"De dubbelgrepp som här och annorstädes förekomma spelades av Melker Andersson, enligt uppgift av Axelsson. Jfr Svenska Låtar Närke n:r 72, Östergötland h. I n:r 248, Samt Nils Andersson, Skånska Melodier n:r 419"
+Z:Anders Larsson 2025-02-01
+M:3/4
+L:1/4
+Q: 90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+D/4F/4A/4d/4 f/d/4f/4 a | g/4f/4e/4d/4 (c/4d/4)e/4f/4 g | (g/4b/4)g/4e/4 f/4a/4f/4d/4 e/f/ | g/4f/4e/4c/4 d/4A/4F/ D |
+D/4F/4A/4d/4 f/d/4f/4 a | g/4f/4e/4d/4 (c/4d/4)e/4f/4 g | (g/4b/4)g/4e/4 (f/4a/4)f/4d/4 e/f/ | g/4f/4e/4d/4 c/d/ d ::
+a/[DF]/ [DF]/a/ (b/4a/4)g/4f/4 | g/[CE]/ [CE]/g/ (a/4g/4)f/4e/4 | f/[DA]/ [DA]/f/ f/d/ | e/4d/4c/4d/4 e/4d/4c/4B/4 A/4G/4F/4E/4 |
+D/4F/4A/4d/4 f/d/4f/4 a | g/4f/4e/4d/4 (c/4d/4)e/4f/4 g | (g/4b/4)g/4e/4 (f/4a/4)f/4d/4 e/f/ | g/4f/4e/4d/4 c/d/ d :|
+

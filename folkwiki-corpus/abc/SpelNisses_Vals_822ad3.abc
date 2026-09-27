@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Spel-Nisses Vals
+S:Spel-Nisse
+O:Malmberget, Lappland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. Eric Eriksson, Gällivare."
+Z:"Den legendariske spelmannen "Spel-Nisse" var en av "1888 års män" d.v.s. en av de första gruvarbetarna i Malmberget. Från LP och CD med [[Grupper/JPNystroms]]"
+L:1/4
+M:3/4
+K:F
+V:1
+"^1" F |: F (A B) | c3/2 A/ F- | F (B c) | d3/2 B/ G- | G (c e) | 
+g3/2 e/ c- | c (d e) | f3/2 d/ (c | F) (A B) | c3/2 A/ F- | F (B c) | 
+d3/2 B/ G- | G c e | g3/2 e/ c- | c (d e) |1 f2 F :|2 f2 f |: 
+f (a f) | g2 f | (3(f/g/f/) (e B) | d2 c | c (d A) | c2 B | 
+B (A G) | (A3/2 B/) c | f (a f) | g2 f | (3(f/g/f/) (e B) | 
+d2 c | c (d A) | c2 B | B (A G) |1 F2 f :|2 F2 z |] 
+V:2
+"^2" A, |:"F" A, (C F) | A3/2 F/ (A, |"Gm" B,) (D F) | B3/2 D/ (B, |"C7" C) (E G) | B3/2 G/ E- | 
+E (G B) |"F" A3/2 G/ (F | A,) (C F) | A3/2 F/ (A, |"Gm" B,) (D F) | B3/2 F/ (B, |"C7" C) E G | 
+B3/2 G/ E- | E (G B) |1"F" A2 A, :|2"F" A2 A |:"F" A (c A) |"Bb" B2 B | d (c G) | 
+"F" B2 A | A (B F) | "C7" A2 G | G (F E) |"F" F2 A | A (c A) |"Bb"  B2 B | d (c G) |"F" B2 A | 
+A (B F) |"C7" A2  "^Uppt. o. stämförslag B.O."G | G (E C) |1"F" A,2 A :|2"F" A,2 z |]
+

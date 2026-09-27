@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska från Södra Dalarna
+T:efter Olof Olsson
+S:Olof Olsson
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(31) Hambo-polska från Södra Dalarna efter Olof Olsson (1846-1916), Säter."
+L:1/8
+M:3/4
+K:Am
+V:1
+"^1"v (f |: e>)(f e>d) c>A | G>c e2 e>(g | f>)(e f>G) B>d | c>e a2 g>(f | 
+e>)(f e>d) c>A | G>c e2 e>(g | f>)(e f>G) B>d |1,8 (de/d/) c3 f :|2 (de/d/) c3u e |: 
+c>d e2 c>(f | e)d/c/ d2 B>d | c>(B A>d) c>A | (B^G) (AB) c>e | 
+c>d e2 c>(f | e)d/c/ d2 B>d | c>(B A>c) e>^G |1 ^G2 A3u e :|2 ^G2 A3 |] 
+V:2
+"^2" (d |: "C" c>)(d c>B) A>F | E>G c2 c>(e |"G7" d>)(c B>D) F>G |"C" E>G c2 c>(d | c>)(d c>B) A>F | 
+E>G c2 c>(e |"G7" d>)(^c d>D) G>F |1,8"G7" (FG/F/)"C" E3 d :|2"G7" (FG/F/)"C" E3 c |: 
+"Am" A>B c2 A>(d |"Am" c)B/A/"E7" ^G2 E>G | "Am" A>(E C>E) A>E |"E7" (^GD) "Am" EG A>c |
+"Am" A>B c2 A>(d | "Am" c)B/A/"E7" ^G2 E>G | "Am" A>"^Stämförslag B.O." (E C>E) A>B, |1 "E7" B,2 "Am" C3 c :|2 "E7" B,2 "Am" C3 |]
+

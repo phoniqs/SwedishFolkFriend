@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Fest-marsch av Jon-Erik Hall
+C:Jon-Erik Hall
+O:Hassela, Hälsingland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]] nr 36
+L:1/16
+M:4/4
+K:C
+V:1
+"^1" G2 |:"C" e4 (dc)Bc G6 F2 | (EG)ce g2fg"Dm" (ag)fe f2d2 | a4 (fe)^cd A6 F2 |
+"G7"(DE)FG B2>A2"C" (AG)FA G2E2 | "C" g2ga"G7" f2fd"C" e2ed c4 | "C" e2ef"E7" d2dB"Am" c2cB"C" G4 |
+"F" A2AB c2cd "C"e2ag (ec)GE |"G7" G2GF (DC)B,D "C" C2C2C2 z2 :: "G7"D2DE F2D2 (GA)BG (cG)EC |"C" e2ce"E7" d2Bd"D7" (cB)cA"G7" G4 |1 
+"E7" E2E^F ^G2E2"Am" (AB)cA"E7" d2=f2 |"Am" (ea)ec"E7" (BA)^GB "Am"A2A2A2 z2 :|2 "G7"(FE)FD d2F2 "C" (FE)EC (cG)EC |"G7" (DE)EF (GF)DB, "C" C2C2C2 z2 [|
+[K:F]"F" F2Ac d2cB (AG)FA"C7" G2C2 | "Bb" D2DE F2ED "F" (DC)CB, A,4 |"C7" (G,A,)B,C D2EG"F" (FG)AB c2A2 | 
+"G7" (G=B)cd"C" e2dc"G7" (Bc)dB"C" c4 | "F"(fc)BA "Bb"d2eg (fe)fd "F"c2A2 | "C7" B2Bc d2cB"F" (BA)AG F4 |
+"Dm" D2DF A2DF "A7"(FE)ED E2A,2 |"A" (^CE)A^c e2Ad"E7" (c=B)A^G"A" A4 | "F" F2Ac d2cB (AG)FA"C7" G2c2 |
+"Bb" d2de f2ed"F" (dc)cB A4 |"Gm" (GA)Bc d2BG"F" (FC)FA c2AF |"C7" (EF)GA (Bc)de"F" [cf]2"C7"([Be][Bg])"F" [Af]2 z2 |] 
+

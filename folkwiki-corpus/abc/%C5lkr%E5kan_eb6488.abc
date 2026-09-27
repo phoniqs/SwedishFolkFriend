@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Ålkråkan
+T:Hambopolska
+O:Upplands Väsby, Uppland
+R:Hambo
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+N:"Tillägnad vännen Albin Lundin, Adelsö, vars fiskebåt bär detta stolta namn..."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" D |:"G"  G>B{B} "^Tillägnad vännen Albin Lundin, Adelsö," d2 d>c | (B>c)  (B>A) G2 | "C" c>e "^vars fiskebåt bär detta stolta namn . . ." g2 (g>f) | "Am" (e>f) (e>d) (c>A) | 
+"D7" d>f  a2 (a>g) | (g>f) (f>g) (f>e) | (e>d)  (d>e) (d>c) | "G" c3/2B/4c/4 (d>B) (G>D) | 
+G>B{B} d2 (d>c) |(B>c) (B>A) G2 |  "C"c>e g2 (g>f) | "Am"(e>f) (e>d) (c>A) | 
+"D7" d>f a2 (a>g) | (g>f) (f>g) (f>e) | (e>d) (d>c{dc)} A>F |1,8 "G"(F<G) G3 D :|2 "G"(F<G) G3 z |: 
+"C" c>C (E>G) (c>e) | g>g (f>a) (g>e) |"G" e>d (d/e/d/B/) G>D | (G,>B,) (D>G) (B>c) | 
+"D7"({Bc} BA/B/) c2 A>F | (D>F) (A>d) (f>e) | (e>d) (d>e) (d>c) |"G" (cB/c/) d>B G2 | 
+"C" ({cd)} c>C (E>G) (c>e) | g>g (f>a) (g>e) |"G" e>d (d/e/d/B/) (G>D) | (G,>B,) (D>G) (B>c) | 
+"D7"({Bc} BA/B/) c2 A>F | (D>F) (A>d) (f>e) | (e>d) (d>c){AB} A>F | "G" (F<G) G3 z :: [K:C] "C"  G>c e2 (e>d) | 
+(d>c) (c>G) (E>C) |"F" ^F>A c2 (c>B) |"Dm" (B>A) (A>^F) (D>C) | "G7"(B,>D) (G>B) (d>c) | (B>G) (B>d) (g>a) | 
+(g>^f) (f>e) (f>g) | "C" ^f>e e3 E | G>c e2 (e>d) | (d>c) (c>G) (E>C) | "F"^F>A c2 c>B |"Dm" (B>A) (A>^F) (D>C) | 
+"G7"(B,>D) (G>B) (d>c) | (B>G) (B>d) g3/2^f/4g/4 | (a>g) (^f>d) (B>d) |1 "C" (d<c) c4 :|2,8[K:G] "C" (d<c) "^B.O." c3 z |]
+

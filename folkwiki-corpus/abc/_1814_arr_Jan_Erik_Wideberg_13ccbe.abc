@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X: 1
+T: 1814 (arr: Jan Erik Wideberg)
+R: Slängpolska
+N: Arr: Jan-Erik Wideberg
+Z: Patrik Månsson 2023-07-25
+M: 3/4
+L: 1/16
+K: G
+V:1
+|: d3c B4 G4 | c3B A4 D4 | G3F G2A2 B2c2 | d3e d2c2 B2c2 |
+V:2
+|: B3A G4 D4 | A3G F4 D4 | D4 D2F2 G2A2 | B3GB2A2 G2A2 |
+V:1
+d3c B4 G4 | c3B A4 D4 | G3F G2A2 B2c2 | A2F2 G8 :|
+V:2
+ B3A G4 D4 | A3G F4 D4 | D4 D2F2 G2A2 | F2D2 B,8 :|
+

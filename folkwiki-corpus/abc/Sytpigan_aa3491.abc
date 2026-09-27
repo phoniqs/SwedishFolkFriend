@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Sytpigan
+T:Hambo
+C:Eric Öst
+R:Hambo
+O:Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Eric Öst."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1""G"v B2 D2 B2 |"Am"u c2 (E>B) A2 |"D7" (F>E) (D>F) A>F |"G" (G>B) e>B d2 | 
+B2 D2 B2 |"Am" u (c>e) (a>g) (f>e) |"D7" (3d^cd e>d (3=cBA |"G" G2 g4 ::
+[K:D]"D"v (f>a) (g>f) e>^d |"Em" (f>e) ^d>e B2 |"A7" (e>g) (f>e) d>c | "D" (e>d) c>d A2 | 
+(F>A) (B>d) c>B |"A7" A>c e2 e2 | A>c =f2 f2 |"D" A>d f2 f2 | 
+(f>a) (g>f) e>^d |"Em" (f>e) ^d>e B2 |"A7" (e>g) (f>e) d>c | "D" (e>d) c>d A2 |
+"G" (B>^A) (B>e) d>B | "D" (A>F) (A>d) f>a |"A7" (g>e) (c>A) G>E |"D" D2 d4 ::
+[K:G]"G"v D2 (B>G) A>B |"Am" c2 E>B A2 |"D7" F2 (f>d) e>f |"G" g2 f>e d2 | 
+(3gfg (a>g) e>g | "D7" f2 f>e c2 | (3fef (g>f) e>d |"G" e2 e>d B2 | 
+D2 (B>G) A>B |"Am" c2 E>B A2 | "B7" B2 (f>B) ^d>f |"Em" (a>f) g4 | 
+"C" (3e^de (a>g) f>e |"G" (d>g) (B>d) G>B |"D7" (c>e) A>c (3DFA |"G" G2 G4 :|
+

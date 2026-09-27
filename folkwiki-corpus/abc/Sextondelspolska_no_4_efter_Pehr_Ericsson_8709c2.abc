@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Sextondelspolska n:o 4 efter Pehr Ericsson
+O:Helgarö, Södermanland
+B:Folkmusik från norra Södermanland
+R:Slängpolska
+M:3/4
+L:1/8
+N:Ur notsamlingen "Folkmusik från norra Södermanland" av KP Leffler. Utgiven 1899. Ur avdelningen Sextondelspolskor, Korspolskor, Slängpolskor. 
+N:Variant på polskan "En sup till"
+N:Melodin finns i olika varianter från skilda landskap, bl.a. Värmland, Dalarna, Hälsingland, Närke och Skåne.
+N:Se även +, + och +. Jämför andrareprisen i +.
+Z:Anders Larsson
+K:C
+ [Ec]2 [DB]2 [Ec]2 | dc Bcde | f2 fedc | cB/c/ d/c/B/A/ G2 | [Ec]2 [DB]2 [Ec]2 | dc Bcde | %6
+ fa gfed | cB/c/ d2 c2 :: e2 ce gf | dc Bc d2 | fe de fa | ag ga g2 | ag fe dc | cB/c/ d2 c2 :| %14
+

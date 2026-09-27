@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Pirilpolskan
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad.
+L:1/8
+M:3/4
+U:t=tenuto
+K:A
+V:1
+"^1""^\"Piril-polskan\"" a- |: a>(g b>)(g a>)f |T f2 (e/f/)e/c/ A>c | (c/d/4c/4B/c/) (dE) G>B | (B>A) Ac e>a- | 
+a>(g b>)(g a>)f |T f2 (e/f/)e/c/ A>c | (c/d/4c/4B/c/) (dE) G>B |1 (B/c/)B/G/ A3 a- :|2 (B/c/)B/G/ A3 E- |: 
+E>(A c2) c>d | (c/d/4c/4B/c/) d3 (3f/g/f/ | e>(g b>)(g a>)f |T f2 e/f/e/^d/ e>E- | 
+E>(A c2) c>d | cB/c/ d3 f- | f2 ec d>B |1 G<B A3 E- :|2 G<B A3 d |:
+"^dr" c2 (e>c) A>c | d2 tftd B>a |"^dr" g2 b>g e>a | a2 tc'ta e>d |
+"^dr" c2 e>c A>c | d2 tftd B>a |"^dr" g2 b>g e>g |1 a2 a3 d :|2 a2 a3 z |] 
+V:2
+"^2" c- |: c>(B d>)(B c>)d | d2 (c/d/)c/A/ E>A | A2 (BB,) E>D | (D>C) CA c>c- | 
+c>(B d>)(B c>)d | d2 (c/d/)c/A/ E>A | A2 (BB,) E>D |1 C2 C3 c :|2 C2 C3 C- |: 
+C>(E A2) A>B | A2 F3 (d | B>)(e g>)(e f>)d | d2 (c/d/)c/^B/ c>C- | 
+C>(E =G2) G>F | E2 F3 d- | d2 cA B>G |1 E<D C3 C :|2 E<D C3 B |: 
+A2 (c>A) E>A | F2 tdtB F>f | e2 g>e B>c | c2 tate c>B | 
+A2 c>A E>A | F2 tdtB F>f | e2 g>e B>d |1 "^Stämförslag B.O." c2 c3 B :|2 c2 c3 z |] 
+

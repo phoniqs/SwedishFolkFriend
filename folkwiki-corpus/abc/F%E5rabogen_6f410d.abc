@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:46
+T:Fårabogen
+C:O-Lars Erik Fernmalm
+O:Järvsö, Hälsingland
+R:Gånglåt
+Z:Hudiksvalls spelmanslag 46
+Z:2017-11-04
+N:"Upptecknad o Arr 
+N:R. Westerlund dec -76"
+N:(Sannolikt [[Personer/Rolf Westerlund]])
+L:1/16
+M:2/4
+K:Bb
+V:1
+DE |:v"Bb" F4 (FG)FE |"Bb"v D2B,2 D2F2 |"Bb"v B2AB (cB)AB | "Eb"v G2[G,E]2 [G,E]2(cB) |
+v"F" A2>F2 A2c2 |v"F" (fg)(f=e) f2A2 | "Bb"v B2AB"F" (dc)BA |1"Bb"v [DB]6 (DE) :|2"Bb"v B4 B4 |:
+"Bb"v f2=ef (gf)ef | "Bb"v (d2B2) [DB]4 |"Bb"v B2AB (cB)AB |v"Eb" (G2[G,E]2) [G,E]4 |
+"F"v F2>A2 c2f2 | "F"v (a2f2) [Af]4 |1"F"v f2=ef (gf)ef |"Bb"v (d2B2) [DB]4 :|2
+"F"v f2=efv gfga | "Bb"u b4 z4 |: "Bb"v B,2>D2 F2B2 |v"Bb" d4 c4 |"Bb"v B2(AB) c2B2 |"Eb"v G4 E4 | 
+"F"v F2>A2 c2f2 |"F"v a6 g2 |1v"F" f2(=ef) g2f2 |"Bb"v d4 B4 :|2 "F"v f2(=ef) g2a2 |"Bb"v b8 |] 
+V:2
+z2 |: D4 (DE)DC | B,2D2 B,2D2 | D2CD (ED)CD | E2B,2 B,2G,2 | C2>D2 F2A2 | (AB)AG A2F2 | 
+D2B,D (FE)DC |1 [B,F]6 (B,C) :|2 [B,D]4 [B,D]4 |: d2^cd (ed)cd | (B2D2) F4 | D2CD (ED)CD | 
+(E2B,2) B,4 | A,2>C2 F2A2 | (c2A2) A4 |1 A2GA (BA)GA | (B2D2) F4 :|2 A2GA BABc | d4 z4 |: 
+D2>B,2 D2D2 | F4 E4 | D2(CD) E2D2 | B,4 G,4 | A,2>C2 F2A2 | c6 B2 |1 A2(GA) B2A2 | F4 D4 :|2 A2(GA) B2c2 | [DB]8 |]
+

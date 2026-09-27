@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska från Södra Dalarna efter Gustav Westin
+S:Gustav Westin
+O:Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(16) Hambo-polska från Södra Dalarna efter G. Westin, Västerby, Hedemora."
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1" E>G c2 c>(c | B)G/B/ d2 d>e | f>(d BG) A>c | (B>d) (cE) F>G | 
+E>G c2 c>(c | B)G/B/ d2 d>e | f>(d BG) A>c | (Bd) c4 ::
+[K:F] cA/c/ a2 f>a | ge/g/ f2 c>f | e>(d BG) E>G | (F>A) (GB) A>c | 
+cA/c/ a2 f>a | ge/g/ f2 c>f | e>(d BG) E>G | (GF) F4 :|[K:C] |] 
+V:2
+|:"^2""C" C>D E2 E>(E |"G7" D)_B,/D/ F2 F>G | A>(G FD) F>E |"G7" (D>F)"C" (EC)"C" D>E | 
+C>D E2 E>(E |"G7" D)_B,/D/ F2 F>G | A>(G FD) F>E |"G7" (DF)"C" E4 ::
+[K:F]"F" AF/A/ c2 A>c | BG/B/ A2 F>A | "C7"G>(F ED) C>B, |"F" (A,>C) (B,D) C>A | 
+AF/A/ c2 A>c | "^Stämförslag B.O." BG/B/ A2 F>A | "C7" G>(F ED) C>B, | "C7" (B,A,) "F" A,4 :|[K:C] |] 
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Valbo
+S:Erik Härdelin
+O:Valbo, Gästrikland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Erik Härdelin (1871-1937), Valbo."
+Z:"Uppt. av Karl Sporr (1887-1967) efter Erik Härdelin, Valbo, vid en hembygdsfest på Vretas gammelgård i Valbo 8 aug. 1929. Enligt Härdelin spelades den när brudparet gick in i kyrkan. Han hade lärt sig den av sin mor. (Svenskt visarkiv acc. nr 412:4)"
+L:1/16
+M:2/4
+K:Gm
+V:1
+|:"^1" (D2d2) d2=ed | (cd)cA (c2A2) | B4{c}T B2AG | (G^F)AF D4 | 
+(D2d2) d2=ed | (cd)c=B (c2A2) | B4{c}T B2AG | (G^F)AF G4 :: 
+A2>(c2 B2)AG | (G^F)AF (D=E)FG | A2>(c2T B2)AG | (G^F)AF D4 | 
+(BA)G^F (DF)Ac | (BA)G^F (DF)Ac | "^Arr. och stämförslag B.O."T B2AG (Ad)A^F | (A2G2) G4 :| 
+V:2
+|:"^2" (G2B2) B2AG | A2G2 ^F2D2 | G4 G2^F=E | D2DC A,4 | 
+(G2B2) B2AG | ^F2=E2 (D2C2) | D4 D2CB, | A,2CA, B,4 :: 
+^F4 G2F=E | =E2D2 A,2D2 | ^F4 D2CB, | B,2CA, A,4 | 
+G2D2 A,2D2 | C2B,2 A,2C2 | D2D2 ^F2>D2 | (C2B,2) B,4 :|
+

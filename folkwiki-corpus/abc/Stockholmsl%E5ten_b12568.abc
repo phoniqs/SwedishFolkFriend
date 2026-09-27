@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Stockholmslåten
+C:Jöns Jonas Hansson
+O:Boda, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:2/4
+K:A
+V:1
+"^1""^Gånglåt." E2 |: A2>A2 A2Ac | e2fe c2A2 | d2>f2 a2af | e4 c2>e2 | a2ba f2ed | 
+e2ae c2Bc | d2dB (EG)BG | A2AE (CA,)CE | A2>A2 A2Ac | e2fe c2A2 | d2>f2 a2af | 
+e4 c2>e2 | a2ba f2ed | e2ae c2Bc | d2dB (EG)BG |1 A6 E2 :|2 A6 a2 |: 
+(fa)fd (fa)fd | f2fa (g2f2) | (ef)ec A2Ac | e2fe (c2A2) | E2>G2 B2e2 |
+{e} g4 (ga)gf | e2fe d2fd | c6 a2 | (fa)fd (fa)fd | f2fa (g2f2) | (ef)ec A2Ac | 
+e2fe (c2A2) | E2>G2 B2e2 |{e} g4 (ga)gf | (ef)ed (EG)BG |1 A6 a2 :|2 A6 z2 |] 
+V:2
+"^2" C2 |: C2>C2 C2EA | c2dc A2E2 | F2>d2 f2fd | c4 A2>c2 | f2gf d2cB | c2ec A2GA | 
+B2BG (B,E)GE | C2CA, (EC)EA | C2>C2 C2EA | c2dc A2E2 | F2>d2 f2fd | c4 A2>c2 | 
+f2gf d2cB | c2ec A2GA | B2BG (B,E)GE |1 [CE]6 C2 :|2 [CE]6 c2 |: 
+(df)dA (df)dA | d2df (e2d2) | (cd)cA E2EA | c2dc (A2E2) | B,2>E2 G2B2 | 
+e4 (ef)ed | c2dc B2dB | A6 c2 | (df)dA (df)dA | d2df (e2d2) | (cd)cA E2EA | 
+c2dc (A2E2) | B,2>E2 G2B2 | e4 (ef)ed | "^Stämförslag B.O." (cd)cB (B,E)GE |1 [CE]6 c2 :|2 [CE]6 z2 |] 
+

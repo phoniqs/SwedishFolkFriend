@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:376
+T:Polska efter Blinde Palm
+S:Blinda Palm
+O:Svärdsjö, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+L:1/8
+Q:1/4=82
+M:3/4
+K:G
+V:1
+|:"^1" D>(F A)B/A/ FD | (GB) dd B>G- | G(c e)g/e/ cA | DF/A/ d2 D2- | 
+D>(F A)B/A/ FD | (GB) dd B>G- | G(c e)g/e/ cA | DF/A/ d4 :: 
+G>(g e)f/e/ d>B | A>(B c)d/c/ BG | (AB) G2 D2- | 
+D>(g e)f/e/ d>B | A>(B c)d/c/ BG | (FA) G4 :| 
+V:2
+|:"^2" A,>(D F)G/F/ DA, | (B,E) GG E>B,- | B,(E A)c/A/ EC | A,D/F/ F2 A,2- | 
+A,>(D F)G/F/ DA, | (B,E) GG E>B,- | B,(E A)c/A/ EC | A,D/F/ F4 :: 
+D>(B c)d/c/ B>G | F>(G A)B/A/ GE | (FG) D2 B,2- | 
+B,>(B c)d/c/ B>G | F>(G A)B/A/ GE | (DC)"^B.O." B,4 :| 
+

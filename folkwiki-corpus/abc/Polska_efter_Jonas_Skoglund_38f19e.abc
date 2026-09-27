@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:17
+T:Polska efter Jonas Skoglund
+O:Järvsö, Hälsingland
+R:Polska
+S:Jonas Skoglund
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingendanser 12. Polska efter Jonas Skoglund"
+L:1/8
+Q:1/4=125
+M:3/4
+K:G
+V:1
+|:"^1" (B>c) B2 A>G | (G>F) F2"^Järvsö" AB | (c>d) e2 dc | Bg d2 c2 | 
+(B>c) B2 A>G | (G>F) F2 AB | (c>d) e2 dB | cA/F/ G4 :: 
+G2 (B>d) g>f | e2 (e>d) cB | (A>^G) (A>d) FA | G>F GB/G/ D2 | 
+G2 (B>d) g>f | e2 (e>d) cB | (A>^G) (A>d) FA | AF/A/ G4 :| 
+V:2
+|:"^2" (G>A) G2 F>E | (E>D) D2 FG | (A>B) c2 BA | Gd B2 A2 | 
+(G>A) G2 F>E | (E>D) D2 FG | (A>B) c2 AG | FD/C/ B,4 :: 
+B,2 (D>G) B>d | c2 (c>B) AG | (F>E) (F>A) DC | B,>A, B,D/B,/ G,2 | 
+B,2 (D>G) B>d | c2 (c>B) AG | (F>E) (F>A) DC |"^B.O." C2 B,4 :|
+

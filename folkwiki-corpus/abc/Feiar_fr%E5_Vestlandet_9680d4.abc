@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:10
+T:Feiar frå Vestlandet
+R:Långdans
+O:Norge
+Z:[[Personer/Bengt Ohlson]]
+Z:"Norge, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/16
+Q:1/4=110
+M:2/4
+K:D
+V:1
+"^1""^Förspel" fge2 efd2 | dec2 d4 |]:[K:A][M:2/4][K:treble]"^Dans" a4 (gf)ed | c2A2 e4 | (dc)BA (GF)Ed | 
+c2B2 A4 ::[K:D] F2G2 A4 |{c} B2A2 f4 | fge2 efd2 | dec2 d4 :| 
+V:2
+"^2" ABG2 GAF2 | FGE2 F4 |]:[K:A][M:2/4][K:treble] c4 (ed)cB | A2E2 c4 | (BA)GF (EB,)G,F | 
+E2D2 C4 ::[K:D] D2E2 F4 |{A} G2F2 A4 | ABG2 GAF2 | "^Stämförslag B.O." FGE2 F4 :|
+

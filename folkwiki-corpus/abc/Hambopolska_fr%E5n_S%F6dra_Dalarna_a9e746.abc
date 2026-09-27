@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska från Södra Dalarna
+T:efter Olles-Johan
+S:Olles-Johan Johansson
+O:Svärdsjö, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Hambo-polska från Södra Dalarna"
+Z:Eft. Olles-Johan Johansson, Svärdsjö.
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" (A/B/ |: A>)(F D>F) A>B | A>G (3FAd f2 |T (fg/f/) (e>A) c>e | (e/f/)e/c/ (d>F) A>B | 
+A>(F D>F) A>B | A>G (3FAd f2 |T (fg/f/) (e>A) c>e |1 (e/f/)e/c/ d3 A/B/ :|2 (e/f/)e/c/ d3 A |:
+f2T (fe/f/) g>f | f>e (e>c) A>F | G2T GF/G/ B>A | F2T FD/F/ A>A | 
+f2T fe/f/ g>f | f>e (e>c) A>F | G2T GF/G/ B>A |1 A<d d3 A :|2 A<d d3 z |] 
+V:2
+"^2" F/G/ |:"D" F>(D A,>D) F>G | F>E (3DFA d2 |"A7" de/d/ (c>E) A>G |"D" G/A/G/E/ (F>A,) D>E | 
+F>D A,>D F>G | F>E (3DFA d2 |"A7" de/d/ (c>E) A>G |1"A7" GE "D" F3 F/G/ :|2"A7" GE "D" F3 F |: 
+"D" d2 (dc/d/) e>d |"A7" d>c (c>A) E>D | E2 ED/E/ G>F |"D" D2 DA,/D/ F>F | 
+d2 dc/d/ e>d | "A7" d>c (c>A) E>D | "^Stämförslag B.O." E2 ED/E/ G>F |1"D" D<F F3 F :|2"D" D<F F3 z |] 
+

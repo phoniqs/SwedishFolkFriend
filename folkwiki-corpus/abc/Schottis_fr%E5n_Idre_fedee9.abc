@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Idre
+S:Efter Arvid Eriksson
+O:Idre, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Idre (3)"
+L:1/16
+Q:1/4=60
+M:2/4
+K:G
+V:1
+"^1" (D |: G2)Bd e>(dB/d/B) | G2Bd e2d2 | D2FA (cd/c/)BA | G>FG>A B>cd<B | 
+G2Bd e>(dB/d/B) | G2Bd e2d2 | D2FA (cd/c/)BA |1 G>A(G<F) G3 D :|2 G>A(G<F) G3 B |: 
+c2ce (ga/g/)fe | d>edB G2{Bc}B2 | D2FA cd/c/BA | G>FG>A B>cd<B | 
+c2ce ga/g/fe | d>edB G2{Bc}B2 | D2FA cd/c/BA |1 G>AG<F G3 B :|2 G>AG<F G3 z |] 
+V:2
+"^2" A, |: "G" B,2GB c2G2 | B,2GB c2B2 |"D7" A,2DF A2FD |"G" B,2D2 G2D2 |
+ B,2GB c2G2 | B,2GB c2B2 | "D7" A,2DF A2FD |1 "G" B,>CB,<A, B,3 A, :|2 "G" B,>CB,<A, B,3 D |:
+"C" E2Ec e2dc |"G" B2G2 B,2D2 | "D7" A,2DF A2FD |"G" B,2D2 G2D2 |
+"C" E2Ec e2dc |"G" B2G2 B,2D2 | "D7" A,2DF A2FD |1 "G" B,>CB,<A, B,3 D :|2 "G" B,"^Stämförslag B.O." >CB,<A, B,3 z |]
+

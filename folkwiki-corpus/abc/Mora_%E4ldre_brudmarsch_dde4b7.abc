@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:16
+T:Mora äldre brudmarsch
+S:Eric Öst
+O:Mora, Dalarna
+R:Marsch
+Z:Karin Helander
+B:Spelmanshälsning
+N:"Den här mycket gamla låten har jag upptecknat och bearbetat"
+N:Uppt. och bearb. Eric Öst
+N:Kallas även "Mora äldra brudlåt" efter Anders Myhr d.ä., Selja, Mora, Dalarna, och finns hos Stefan Lindén: https://www.stefanlinden.se/L/skanklat%20Mora%20aldre%20brudlat%20Da.pdf
+L:1/8
+M:4/4 3/4
+K:D
+V:1
+"^1:a stämma"
+A2 |: "D"d2 d2 "A7"(c2 A2) | "D""^Den här mycket gamla låten har jag upptecknat och bearbetat"d2 d2 "A7"(c2 A2) | "D"d2 (de) f2 (fg) | a2 (ag) f2 (fe) | "D"d2 d2 "A7"(cA) (ce) |1
+"D" d6 A2 :|2 "D"d6 (fg) |: "D"a>g f2 (ef) | d2 d2 d2 (ef) | "A7"g2 f2 e2 d2 | 
+"A7"c2 c2 c2 e2 | "D"a>g f2 (ef) | d2 d2 d2 (ef) | "A7"g2 f2 e2 d2 | c2 c2 c2 (cB) | 
+"A7"A2 (AB) c2 (cd) | (e^d) (ef) g2 e2 | "D"d2 d2 "A7"(cA) (ce) |1 "D"d6 (fg) :|2 "D"d6 z2 |]
+

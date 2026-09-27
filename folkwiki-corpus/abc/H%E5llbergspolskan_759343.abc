@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Hållbergspolskan
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad.
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1""^\"Hållbergs-polskan\"" D2 (FA) d>c | (B>A) (GA) B>B | A2 (ce) a>g | (f>e) (de) fd | 
+D2 (FA) d>c | (B>A) (GA) B>B | A2 (ce) a>c |1 d2 d4 :|2 d2 d3 (B |:
+[K:G] d>)(g b)(b a>)f | (gB) d3 B | c>(A FA) d>c | B>A (GA) B>c | 
+d>g b(b a>)f | gB d3 B | c>(A FA) d>F |1 G2 G3 B :|2 G2 G4 |] 
+V:2
+|:"^2" A,2 (DF) B>A | (G>D) (B,D) G>G | E2 (Ac) f>e | (d>A) (FA) dA | 
+A,2 (DF) B>A | (G>D) (B,D) G>G | E2 (Ac) e>A |1 F2 F4 :|2 F2 F3 (G |:
+[K:G] B>)(d g)(g f>)c | (BG) B3 G | A>(F DF) B>A | G>D (B,D) G>A | 
+B>d g(g f>)c | BG B3 G | A>(F DF) A>D |1 "^Stämförslag B.O." B,2 B,3 G :|2 B,2 B,4 |]
+

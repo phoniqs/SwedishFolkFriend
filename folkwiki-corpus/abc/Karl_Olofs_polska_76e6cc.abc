@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Karl Olofs polska
+S:Efter [[Personer/Gössa Anders]] Andersson
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^\"Karl Olofs polska\"" A>(^c d>)(e f/e/f/)g/ | a>(b ad) g>e | f>(g fe) d(^c/d/) | e>(d (3B)GB A2- | 
+A>(^c d>)(e f/e/f/)g/ | a>(b ad) g>e | f>(g fe) d>e |({^cd} cB/c/) d4 :: 
+A>(E (3G)E^C D>E | (F/G/A) (3BGB A2- | A>(E (3G)E^C D>E | 
+(F/G/A) (3BGB A>A | f>(g fe) d>e | (^c/A/c) d4 :| 
+V:2
+|: E>(G A>)(^c d/c/d/)e/ | f>(g fA) e>^c | d>(e dA) F(E/F/) | ^c>(B (3G)DG E2- | 
+E>(G A>)(^c d/c/d/)e/ | f>(g fA) e>^c | d>(e dA) F>G |({EF} ED/E/) F4 :: 
+E>(^C (3E)CA, A,>C | (D/E/F) (3GDG E2- | E>(^C (3E)CA, A,>C | 
+(D/E/F) (3GDG E>E | d>(e dA) F>G"^Stämförslag B.O." | 
+E2 F4 :|
+

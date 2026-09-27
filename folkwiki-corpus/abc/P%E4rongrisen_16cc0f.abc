@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:15
+T:Pärongrisen
+C:Eric Öst
+O:Hälsingland
+R:Polka
+B:Spelmanshälsning
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Eric Öst."
+Z:"Arr. Eric Öst."
+Z:"Polkan är en hyllning till päron- och polkagrisstaden Gränna."
+L:1/16
+M:2/4
+K:D
+V:1
+|:"^1""^Polka" "D" (3(FGF)D2 (3(ABA)F2 | (3(ded)A2 f2ef | "A7" (3(gag)e2 c2Bc | "D" d2fd (AG)FE | (3(FGF)D2 (3(ABA)F2 | 
+(3(ded)A2 f2ef | "A7" (3(gag)e2 c2Bc | "D" d2d2 d4 :: [K:A] "A" [ce]2[ce][ce] [ce]2[ce]2 | "E7" (3[de]2[de]2[de]2 [de]2[de]2 | 
+d2Bc (de)fg | "A" aag2 (!>!f2!>!e2) | [ce]2[ce][ce] [ce]2[ce]2 | "E7" (3[de]2[de]2[de]2 [de]2[de]2 | dcBc defg | "A" a2a2 a4 ::
+[K:D] "D" fagf "A7" egfe | "D" dfed "A7" cedc | "G" BdcB "D" AcBA | "A7" GBAG "D" FAGF | "A7" E2EF (GF)GA | 
+"D" FDFA dcd^d | "E7" e^gbg edcB | "A7" ABce a2a2 | "D" fagf "A7" egfe | "D" dfed "A7" cedc | "G" BdcB "D" AcBA | 
+"A7" GBAG "D" FAGF | "Em" (EG)(BG) (EG)(BG) | "D" (DF)(AF) (DF)(AF) | "Em" (EG)(BG) "A7" (Ac)(ec) | "D" d2d2 d4 :| 
+V:2
+|:"^2" (3(DED)A,2 (3(FGF)D2 | (3(ABA)F2 d2cd | (3(efe)c2 A2EG | A2dA (FE)DB, | 
+(3(DED)A,2 (3(FGF)D2 | (3(ABA)F2 d2cd | (3(efe)c2 A2EG | [FA]2[FA]2 [FA]4 :: 
+[K:A] [EA]2[EA][EA] [EA]2[EA]2 | (3[EB]2[EB]2[EB]2 [EB]2[EB]2 | B2EA (Bc)de | ffe2 (!>!d2!>!c2) | 
+[EA]2[EA][EA] [EA]2[EA]2 | (3[EB]2[EB]2[EB]2 [EB]2[EB]2 | BAGA Bcde | [ce]2[ce]2 [ce]4 :: 
+[K:D] dfed cedc | BdcB AcBA | GBAG FAGF | EGFE DFED | C2CD (ED)EF | 
+DA,DF AFAF | Be^ge cBA^G | EGAc e2e2 | dfed cedc | BdcB AcBA | GBAG FAGF | 
+EGFE DFED |  (B,E)(GE) (B,E)(GE) | (A,D)(FD) (A,D)(FD) | (B,E)(GE) (EG)(cG) | [FA]2[FA]2 [FA]4 :|
+

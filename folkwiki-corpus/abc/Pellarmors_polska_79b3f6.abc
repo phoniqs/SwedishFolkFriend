@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Pellar-mors polska
+S:Björn Ståbi
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Björn Ståbi, 93.06.05.
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1""^\"Pellar-mors polska\"" (A |: d>)(e{fe)} f2 d>d | (e/g/)e/^c/ [Ae]3 c | d>(e{fe} f>a)T g>e | [Af]2 [Ae]3 A | 
+d>(e{fe)} f2 d>d | e/g/e/^c/ [Ae]3 ^F | D>(E"^dr" F2) G>G | A/=B/A/G/ [A,E]4- | [A,E] z [EA]3 A :| 
+A2T g>f d>e |{^cB} c2 [Ae]3 c | d>(e{fe} f>a)T g>e | [Af]2 [Ae]4- | [Ae] z [Ae]3 A |]: 
+A2 a/g/e/=b/ a>e | {fe} f>(a g)e/=b/ a2- | a>g e>f d>d | e/g/e/^c/ d2 e>e |
+|1 f/g/4f/4e/f/ a2 g>e | [Af]2 [Ae]4- | [Ae] z [Ae]3 A :|2 f/g/4f/4e/f/ a>(f d>)e |"^Stämförslag B.O."{^c=B} c2 [Dd]3 z |] 
+V:2
+"^2" E |: F>(A d2) A>A | ^c/e/c/A/ E3 E | F>(A d>f) e>^c | [Fd]2 [E^c]3 E | F>(A d2) A>A | 
+^c/e/c/A/ E3 D | A,>(^C D2) E>E | F/G/F/E/ ^C4- | ^C z C3 E :| E2 e>d =B>^c | A2 [EA]3 E | 
+F>(A d>f) e>^c | d2 ^c4- | ^c z c3 E |]: E2 f/e/^c/d/ c>c | d>f e^c/d/ c2- | ^c>e c>d A>A | ^c/e/c/A/ F2 A>c |
+|1 d2 f2 e>^c | d2 ^c4- | ^c z c3 E :|2 d2 f>d A>G | [EA]2 [FA]3 z |]
+

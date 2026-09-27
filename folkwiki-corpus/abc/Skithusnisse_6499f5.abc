@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:1
+T:Skithusnisse
+T:Polka
+O:Malmberget, Lappland
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad låt från Malmberget.
+Z:Text repr. 1:  Skithusnisse står på gården, kikar upp mot oss. Han kikar upp mot oss, han kikar upp mot oss. Han brukar komma hit och tömma tunnorna hos oss, men han får dom inte loss, hem hos oss!
+Z:Uppt. fr. LP.
+Z:Stämförslag B.O.
+N:JP Nyströms har spelat in låten 1979, på skivan "Låtar i Norrbotten", men i A-dur: https://www.youtube.com/watch?v=5K36lg1vyW8
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" f | e>e ec | A2 Bc | d4- | d2"^Dans" F2 |] A>A ^GA | BA ^GA | 
+f>f fd | A3 f | e>e ec | A3 e | f>f fd | A2 F2 | 
+A>A ^GA | BA ^GA | f>f fd | A2 ff |  e>e ec | A2 Bc |
+d4- | d def |]: g2 g2 | gg ag | f2 f2 | ff gf |
+e2 e2 | eg fe | d>c de | fd ef | g2 g2 | gg ag | 
+f2 f2 | ff gf | e2 e2 | eg fe | d2 f2 |1 d def :|2,8 d2 |] 
+V:2
+"^2" A | "A7" G>G GE | C2 EG | "D" F4- | F2 D2 |] "D" F>F EF | GF EF | 
+A>A AF | D3 A | "A7" G>G GE | C3 G | "D" A>A AF | D2 D2 | 
+F>F EF | GF EF | A>A AF | D2 AA | "A7" G>G GE | C2 EG | 
+"D" F4- | F FGA |]: "G" B2 B2 | BB cB | "D" A2 A2 | AA BA | 
+"A7" G2 G2 | GB AG |"D" F>E FG | Ad c=c |"G" B2 B2 | BB cB |
+"D" A2 A2 | AA BA |"A7" G2 G2 | GB AG |"D" F2 A2 |1  "^Stämförslag B.O." F FGA :|2,8  F2 |]
+

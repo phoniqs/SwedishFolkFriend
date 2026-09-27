@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals efter Kopparslagaren
+R:Vals
+S:Olov Johansson
+Z:Karin Helander
+N:Inspelad på skiva "Storsvarten" från 1998 med Olov Johansson.
+N:Oklart ursprung, kan var komponerad av Olov Johansson eller traditionell.
+N:Noten anger hur den spelas på skivan, förutom att reprisen spelas ytterligare ett varv på slutet.
+Q:180
+L:1/8
+M:3/4
+K:Dm
+V:1
+D2 AA AA | D2 AA AA | A2 B2 A2 | G2 F2 E2 | D2 (^cd) (ed) | D2 AA AA | D2 AA AA | 
+A2 B2 A2 | G2 F2 E2 | D2 (^cd) (ed) | D2 AA AA | D2 AA AA | A2 dd dd |: 
+!segno! d2 (fd) (fd) | (d^c) (ec) (ec) | e2 (ag) (fe) | f2 dd dd | (d^c) (de) (fd) | 
+e2 AA AA | (AB) (AG) (FE) | D2 ff ff | f2 (af) (af) | (fe) (e^c) (e^c) | 
+e2 (ag) (fe) | D2 ff ff | f2 (af) (af) | (fe) (e^c) (e^c) | e2 (ag) (fe) | 
+f2 dd dd | (d^c) (de) (fe) | (ea) (^ga) (^ce) |1 d4 d2 | D2 dd dd :|2 d4!fine! d2 | 
+[| A3 A AA | A2 B2 A2 | G2 F2 E2 | D2 (^cd) (ed) | D2 AA AA | D2 AA AA | 
+A2 B2 A2 | G2 F2 E2 | D2 AA AA | D2 AA AA | A2 dd "^D.S. al FINE" dd |]
+

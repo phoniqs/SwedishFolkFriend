@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:12
+T:Engelska Nr 4
+T:(Gamla Dansar i Skåne)
+O:Skåne
+R:Engelska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Engelska (4). Ur Löfgrens saml."
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (ef) | g2dB d2cA | G2G2 G2 |][K:G][M:2/4][K:treble]"^Dans" (DG) |: B2B2 (Bc/B/)(AG) | 
+F2d2 d2(DG) | B2B2 (Bc/B/)(AG) | (FG)AF D2DG | B2B2 (Bc/B/)(AG) | 
+F2d2 d2(ef) | g2dB d2cA |1 G2G2 G2 (DG) :|2 G2G2 G2 z2 |: 
+(GB)dB (GB)dB | A2D2 D4 | (GB)dB (GB)dB | A2D2 D4 | 
+(GB)dB (GB)dB | (ce)ge (ce)ge | (dB)GB (cA)FA | G2G2 G2 z2 :| 
+V:2
+"^2" (cd) | B2BG A2FD | B,2B,2 [B,D]2 |][K:G][M:2/4][K:treble] (B,D) |: G2G2 G2(FE) | 
+D2F2 F2(B,D) | G2G2 G2(FE) | (DE)FD A,2B,D | G2G2 G2(FE) | D2F2 F2(Ac) | d2BG A2FD | 
+B,2B,2 [B,D]2 B,D :| B,2B,2 [B,D]2 z2 |: (DG)BG (DG)BG | F2A,2 A,4 | (DG)BG (DG)BG | F2A,2 A,4 | 
+(DG)B"^Ur Löfgrens saml."G (DG)BG | (Gc)ec (Gc)ec | (BG)DG (AF)DC | "^Stämförslag B.O." B,2B,2 [B,D]2 z2 :|
+

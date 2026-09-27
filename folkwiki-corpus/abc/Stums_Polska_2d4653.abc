@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Stums Polska
+M:3/4
+L:1/8
+R:Polska
+N:Enl C-E Berndt, Lund är polskan troligen från Blekinge och en variant på "Strömkarlen spelar"
+S:efter Johan Marin, Kristianstad (1869-1928)
+Z:Andy Davey 2018
+K:Gm
+|:[D2G,2] G>^F G>A | (3BcB A2 A2 | d2 d>B G>B | B>A A>^F [D2G,2] | 
+  [D2G,2] G>^F G>A | (3BcB A2 A2 | d2 d>B G>B | (3A^FA [G2G,2] z2 :| 
+|:G2 d>^c d>e | (3ded =c2 c2 | B>A Bc d>B | B>A A>^F D2 | 
+  D2 d>^c d>e | (3ded =c2 c2 | B2 d>B G>B | (3A^FA [G2G,2] z2 :|
+|:d>B G>B d2 | c>A ^F>A c2 | e2 d>B G>B | A>^F D2 D2 |
+  d>B G>B d2 | c>A ^F>A c2 | e2 d>B G>B | (3A^FA G2 z2 :|
+

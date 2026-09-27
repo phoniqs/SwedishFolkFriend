@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Lissmyr Erik
+S:Efter Lissmyr Erik Persson
+O:Malung, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" (G |: F>)(G A2) A>F | (3ABc d2 c>d | e>f (3geg (3fdf | (3ece A3 (G | 
+F>)(G A2) A>F | (3ABc d2 c>d | e>f (3geg (3fdf |1 (3ece d3 G :|2 (3ece d3 (c |: 
+(3d)ef g2 f>e | (3dcd e2 e2 | (3def ga f>g | (3ece a2 (A2 | 
+(3d)ef g2 f>e | (3dcd e2 e2 | (3def gb f>g |1 (3ece d3 c :|2 (3ece d3 z |] 
+V:2
+"^2" (E |: D>)(E F2) F>D | (3FGA F2 A>B | c>d (3ece (3dBd | (3cAc E3 (E | 
+D>)(E F2) F>D | (3FGA F2 A>B | c>d (3ece (3dBd |1 (3cAG [FA]3 E :|2 (3cAG [FA]3 (E |: 
+(3F)GA B2 A>G | (3FEF G2 G2 | (3FGA Bc d>e | (3cAc e2 (E2 | 
+(3F)GA B2 A>G | (3FEF G2 G2 | (3FGA Bd A>B |1 (3GE"^Stämförslag B.O."G [FA]3 E :|2 (3GEG [FA]3 z |]
+

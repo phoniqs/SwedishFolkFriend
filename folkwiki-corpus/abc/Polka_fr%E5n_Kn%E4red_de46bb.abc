@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:79
+T:Polka från Knäred
+T:(Sv Folkdanser Del 1)
+S:Upptecknad av [[Personer/August Ysenius]]
+R:Polka
+O:Knäred, Halland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 79. Polka från Knäred. Uppt. av Aug. Ysenius."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 79
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" A2ce (eg)fe | e2dc d4 |]:[K:D][M:2/4][K:treble]"^Dans" A2df (af)df | f2ee (.e2.e2) | A2ce (eg)fe | 
+e2de (.[df]2.[df]2) | A2df afdf | f2ee (.e2.e2) | A2ce egfe | e2dc d4 :: 
+a2aa (.a2.a2) | (gf)ef gfef | g2gg (.g2.g2) | (fg)fe f2d2 | 
+f4 f4 | e4 (e2f2) | (g2g2) f2ee | e2dc d4 :| 
+V:2
+"^2""A7" E2Ac (ce)cA |"D" G2FE F4 |]:[K:D][M:2/4][K:treble]"D" F2Ad (fd)Ad | "A7" d2cc (.c2.c2) | 
+E2Ac (ce)cA |"D" G2FG (.A2.A2) | F2Ad (fd)Ad |"A7" d2cc (.c2.c2) | 
+E2Ac (ce)cA |"D" G2FE F4 ::
+"D" f2ff (.f2.f2) |"A7" (ed)cd edcd | e2ee (.e2.e2) | "D" (de)dc d2A2 | 
+d4 d4 |"A7" c4 (c2d2) | (e2e2)"^Stämförslag B.O." d2AA |"D" G2FE F4 :|
+

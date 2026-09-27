@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Långsjönäsvalsen
+C:Manne Böhlén
+R:Vals
+O:Böle, Jämtland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Manne Böhlén. Uppt. Erik Englund, Böle."
+L:1/4
+M:3/4
+K:Gm
+V:1
+"^1" (g/a/) |: b a g | d3/2 c/ B | A/c/ B A | G3 | A3/2 D/^F/A/ | 
+d3/2 c/B/A/ | (G/^F/) (G/A/) B/c/ | d2 (g/a/) | b a g | d3/2 c/ B | 
+(A/c/) B A | G3 | A3/2 D/^F/A/ | d2 ^f |1 g3- | g z (g/a/) :|2 g3- | g z z |: 
+d3 | B A G | e3 | d3 | c3 | A G F | d3 | c3 | d3- | d g a | 
+b2 a | g2 f | d3/2 c/ B | (A/c/) B A | G3- | G z z :| 
+V:2
+"^2" (d/^f/) |: g d B | B3/2 A/ G | ^F G D | B,3 | D2 D/^F/ | 
+^F2 (G/D/) | B, D G | ^F A (d/^f/) | g d B | B3/2 A/ G | ^F G D | 
+B,3 | D2 (D/^F/) | ^F2 c |1 B3- | B z (d/^f/) :|2 B3- | B z z |: 
+F3 | D F D | G3 | F3 | E3 | F C A, | F3 | ^F3 | B3- | B B c | 
+d2 c | B2 d | B3/2 A/ G | ^F D C | B,3- | B, z"^B.O." z :|
+

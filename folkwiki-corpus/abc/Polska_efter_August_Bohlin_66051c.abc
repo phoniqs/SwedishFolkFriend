@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter August Bohlin
+S:August Bohlin
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1" g>(g (3e)ge c>e | (G>B) (d>f) a>g | f>(d (3f)dB G>B | (d>c) (e>g) c'>e | 
+g>g (3ege (3cec | (G>B) (d>f) a>g | f>(d (3f)dB G>B | (d<c) c3 z :: 
+(C>E) (EG) E>E | (E>F) (FA) F>F | G2 (3GBd f>B | dB/d/ c>G (3EGE | 
+(C>E) (EG) E>E | (E>F) (FA) F>F | G2 (3GBd f>B | dB/d/ c3 z :| 
+V:2
+|:"^2" e>(e (3c)ec G>c | (D>G) (B>d) f>e | d>(B (3d)BG D>G | (F>E) (c>e) g>c | 
+e>e (3cec (3GcG | (D>G) (B>d) f>e | d>(B (3d)BG D>F | (F<E) E3 z :: 
+G,2 C2 _B,2 | A,2 D2 C2 | B,2 (3B,DG B>G | FD/F/ E>E (3CEC | 
+G,2 C2 _B,2 | A,2 D2 C2 | B,2 (3B,DG B>G | "^Stämförslag B.O." FD/F/ E3 z :|
+

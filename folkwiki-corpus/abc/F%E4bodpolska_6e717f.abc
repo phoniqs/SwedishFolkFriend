@@ -1,0 +1,39 @@
+%%abc-charset utf-8
+
+X:1
+T:Fäbodpolska
+C:Folke Hedman
+O:Enviken, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Text och melodi: Folke Hedman, Enviken.
+Z:Text: Det var en sommarkväll när solen hon gick ner
+Z:då hördes det en sång jag aldrig glömmer mer.
+Z:Det klingade så vackert ibland gran och tall,
+Z:den kom ifrån en gammal fäbodvall.
+Z:Det var en melodi med skrock och trolldom i.
+Z:Jag smög mig fram, jag kunde inte låta bli!
+Z:Jag ville veta vem som sjöng den melodin.
+Z:Det var en fäbodjänta, skön och fin!
+Z:Och visan handlade om tider som har gått
+Z:på fäbodvallen där med både ont och gott.
+Z:Om bygdens folk som där har vallat sina djur,
+Z:det var ett liv i både moll och dur.
+Z:Det var en sång om kärlek till en älskad vän,
+Z:som nu till bygden gick men kom ju snart igen.
+Z:När hornlåt blandades med fäbodjäntans trall,
+Z:som ekat mången gång bland gran och tall.
+L:1/8
+M:3/4
+K:Gm
+V:1
+"^1"v (D |: G>)(^F G>A) B>c | d>(g ^f>g) d>c | (B>A) (G>^F) G>B | (A>B) (A>^F) D>D | 
+ G>(^F G>A) B>c | d>(g ^f>g) d>c | (B>A) (G>^F) G>B | (A>^F) G3v B | 
+ d>(c B>A) B>d | d>c (c>=B) c>c | B>A G>^F G>B | A>B (A>^F) D>B |
+ d>c B>A B>d | d>c (c>=B) c>c | B>A G>^F G>B |1 A>^F G3v D :|2 A>^F G3 z |] 
+V:2
+"^2" A, |:"Gm" B,>(A, B,>D) G>A | B>d ^c>d B>A | G>D (B,>A,) B,>D | "D7"^F>G (F>D) A,>A, | 
+"Gm" B,>A, B,>D G>A | B>d ^c>d B>A | G>D (B,>A,) B,>D | "D7" C>A, "Gm" [B,D]3 G | 
+"Bb"B>(G D>C) D>B | "F" B>A (A>G) A>A |"Gm" G>D B,>A, B,>G | "D7" ^F>G (F>D) A,>G | 
+"Bb" B>G D>C D>B | "F" B>A (A>G)"D7" ^F>F | "Gm" D>C B,>A, B,>D |1"D7" C>A,"Gm" B,3 A, :|2"D7" C>A,"Gm" B,3 "^B.O." z |]
+

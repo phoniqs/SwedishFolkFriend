@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Frisells D-mollpolska
+C:Anders Frisell
+O:Mockfjärd, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:Dm
+V:1
+|:"^1""^\"Frisells D-mollspolska\"" (Ad) f3 e | d^c/d/ e2 c2 | df (ag) fe | d^c/d/ tetc A2 | 
+Ad f3 e | d^c/d/ e2 c2 | df (ag) fe |1 d^c d4 :|2 d^c d3 A |: 
+df a3 f | af g3 e | f/e/f/g/ (ag) fe | d^c/d/ tetc A2 | 
+A2 a3 f | af g3 e | f/e/f/g/ (ag) fe |1 d^c d3 A :|2 d^c d4 |] 
+V:2
+|:"^2" DF A3 G | FE/F/ G2 E2 | FA (d^c) AG | FE/F/ tGtE ^C2 | 
+DF A3 G | FE/F/ G2 E2 | FA (d^c) AG |1 FE F4 :|2 FE F3 F |: 
+Ad f3 d | fd e3 ^c | d>e (fe) dA | FE/F/ tGtE ^C2 | 
+D2 f3 d | fd ^c3 A | d>e (fe) dA |1 FE F3 F"^Stämförslag B.O." :|2 FE F4 |]
+

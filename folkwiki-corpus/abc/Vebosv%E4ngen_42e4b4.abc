@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Ve'bosvängen
+T:Polka
+C:Rolf Jonsson
+O:Norge
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Utländska danser. Norge. Av Rolf Jonsson"
+L:1/16
+Q:1/4=76
+M:2/4
+K:C
+V:1
+"^1" EF |: G2AG CEGc | e2ed cBAG | F2AF CFAc | f4- fedc | B2dB GBdg | 
+b2ba g2de | f2dB GBdB | c2ec GFEF | G2AG CEGc | e2ed cBAG | F2AF CFAc |
+ f4- fedc | B2dB GBdg | b2ba g2de | f2dB GBdB |1 c6 EF :|2,8 c6 c2 |:
+[K:F] a2>f2 c2A2 | F2>A2 cFAc | B2>d2 B2F2 | D4- DFED | C2EC G,CEG | 
+c2c2 c4 | F2AF CFAc | f2f2 f4 | a2>f2 c2A2 | F2>A2 cFAc | B2>d2 B2F2 | 
+D4- DFED | C2EC G,CEG | c2c2 c4 | c2bg eceg |1 f2f2 f2c2 :|2 [K:C] f2f2 f2 |] 
+V:2
+"^2" CD |: "C"E2FE G,CEG | c2c_B AGEC | "F" A,2CA, A,CFA |"Dm" d4- dc_BA |"G7" G2_BG DGBd | d2dc _B2Bc | 
+d2_BG DGBG | E2GE EDCD |"C" E2FE G,CEG | c2c_B AGEC | "F" A,2CA, A,CFA |"Dm" d4- dc_BA | "G7" G2_BG DGBd | 
+d2dc _B2Bc | d2_BG DGBG |1"C" E6 CD :|2,8"C" E6 A2 |:[K:F]"F" f2>c2 A2F2 |"F7" A,2>C2 FCFA | 
+"Bb" D2>B2 F2D2 |"Gm" B,4- B,DCB, |"C7" G,2CG, B,G,B,C | E2E2 E4 |"F" A,2CA, A,CFG | A2A2 A4 | 
+f2>c2 A2F2 |"F7" A,2>C2 FCFA | "Bb" F2>B2 F2D2 |"Gm" B,4- B,DCB, |"C7" G,2CG, B,G,B,C | E2E2 E4 | E2ec BGBc |1"F" A2A2 A2A2 :|2[K:C]"F" A2A2 "^B.O." A2 |]
+

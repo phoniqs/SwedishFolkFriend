@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Systerpolska 2 efter Bleckå och Gössa Anders
+S:Bleckå
+S:Gössa Anders
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:D
+V:1
+|:"^1""^\"Systerpolska nr. 2\"" A2 d>(eT f>)e | (ed) (dc) c>B | (B/G/B) A5/2 F/ | A>(G E>)(G{FG} (3F)(EF) | 
+A>G E>(G{FG} (3F)(EF) | D>F (A>d){fg} f>e | ed (dc) c>B | {Bc} B(A Bc) d>f |1 
+e/f/e/c/ d4 :|2 e/f/e/c/ d3 A |: d>(f tatb) a>f | d>f tatb g>f | 
+ef (g/a/)g/e/ f>d | cd (3:2:4(e2 f2) e3/2d/ | c>e tgtb a>f | d>f tatb g>f | 
+ef (g/a/)g/e/ f>d | cd (ea) (f/d/)f |1 ec d3 A :|2 ec d4 |] 
+V:2
+|:"^2" F2 A>c d>c | cB (BA) A>G | G/E/G [CE]5/2 D/ | F>(E C>)(E{DE} (3D)(CD) | 
+F>E C>(E{DE} (3D)(CD) | A,>D (F>A) d>c | cB (BA) A>G | GF GE F>A |1 
+G/A/G/E/ F4 :|2 G/A/G/E/ F3 F |: A>(d tftg) f>d | A>d tftg te>d | 
+cd (e/f/)e/c/ d>B | AB (3:2:4(c2 d2) c3/2B/ | A>c tetg f>d | A>d tftg e>d | 
+cd (e/f/)e/c/ d>B | AB (cf) (d/A/)d |1 cA [FA]3 F :|2 "^Stämförslag B.O." cA [FA]4 |]
+

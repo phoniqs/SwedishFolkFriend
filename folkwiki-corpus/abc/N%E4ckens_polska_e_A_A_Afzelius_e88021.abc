@@ -1,0 +1,46 @@
+%%abc-charset utf-8
+
+X:649
+T:Näckens polska e. A. A. Afzelius
+R:Polska
+M:3/4
+L:1/16
+K:Dm
+Z:Robert Boström
+D:CD: Forsmark Tre "Västgötalåtar" FMPCD-001 (1992)
+B:Jämför FMK - katalog M19 bild 41 (nr 137) efter [[Personer/Johan August Ericsson]] från [[Platser/Södermanland]]
+B:Jämför FMK - katalog M26 bild 26 (nr 132) efter [[Personer/Abraham Hagholm]]
+B:Jämför FMK - katalog M165 bild 8 (nr 12)
+B:Jämför FMK - katalog Upprop 26e bild 30 från [[Platser/Småland]] (med text)
+B:Jämför FMK - katalog Upprop 26a bild 9 (med text)
+B:Jämför FMK - katalog MMD24 bild 45
+B:Jämför FMK - katalog Vs4 bild 21 efter [[Personer/Jan Erik Hammarberg]]
+B:Jämför FMK - katalog MMD53 bild 5 "Necken Polonesse".
+B:Jämför FMK - katalog Ån1 bild 75 nr 130
+B:Jämför FMK - katalog Ske21 bild 60 nr 21 efter [[Personer/John Enninger]]
+B:Jämför FMK - katalog Svldiv 2:36 bild 4
+B:Jämför FMK - katalog MMD66 bild 68 nr 31
+B:Jämför FMK - katalog Upprop22 bild 49 nr 130
+B:Jämför FMK - katalog M31 bild 6 nr 16
+B:Jämför FMK - katalog Sm18 bild 51
+B:Jämför FMK - katalog MMD65 bild 69
+B:Jämför FMK - katalog M147 bild 7 nr 12
+B:Jämför notbok efter [[Personer/August Widmark]] (s. 9)
+B:Jämför FMK - katalog M22b bild 44 nr 44
+B:Jämför nr 979a-d i [[Notböcker/Äldre dansmelodier]] från [[Platser/Finland]].
+Q:1/4=105
+N:Se även SvL Medelpad nr 230 och nr 105
+%%score (T1) (B1)
+V:T1  clef=treble
+V:B1 clef=treble % clef=bass   %octave=+2 %middle=d %octave=-2
+%%MIDI program 1 57 %   53=Choir Oohs  19 = Church Organ 56=trumpet
+%%MIDI program 2 53
+[V:T1]|:"Dm"D3F A4 ^c4|"Dm/C"e3f d2d2 c2A2|"Dm/B"A2A2 F4 A3G|"Dm/A"E2F2 "Dm"D4 z4 :|
+[V:B1]|:A,3D F4 F2EF|G3A F2F2 E2E2|F2EF D2A,=B, C3=B,|=B,2C2 A,4 z4:|
+[V:T1]|:"Dm"F2F2 A2A2 c3A|"G"G2G2 G2FG "Am"A4 |"F"F2F2 A2A2 c3A|"A/E"G2G2 "A/D"AGFG "A/C#"A4|
+[V:B1]|:D2D2 F2E2 D3C|=B,2B,2 B,2A,B, C4|C2C2 F2F2 A3F|E2E2 FEDF E4|
+[V:T1]"Dm"F3A "G"G4 A3G |"Am"E3F "Dm"D6 d2|"Dm"^c2d2 A2F2 A2G2 |"A"E2EF "Bb"D6 d2|
+[V:B1]D3C =B,2A,B, C3C|C=B,A,G, A,6 A,2|E2F2 D4 C2D2|A,4B,4z4|
+[V:T1]"Dm"^c2d2"G" A2F2 A2G2|"A"E2EF "Dm"D6 E2:|
+[V:B1]E2F2 D4 C2D2 |A,2A,2 A,4 z4:|
+

@@ -1,0 +1,35 @@
+%%abc-charset utf-8
+
+X:46
+T:Kadrilj från Gotland
+T:(Sv Folkdanser Del 1)
+O:Gotland
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 46. Kadrilj från Gotland, förkortad"
+Z:http://runeberg.org/folkdans/besk/0192.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 46
+L:1/16
+M:2/4
+K:F
+V:1
+"^1""^Förspel" F2 |"F" B2BA (Bc)BA | B2dc (BA)GF | "C7" E2G2 C2DE |"F" F6 |] [K:F][M:2/4][K:treble]"^Dans" c2 |: 
+"F" f2fe (fg)fe | f2a2 c2^c2 | "Dm" d2d^c (de)dc | d4 A4 | "Gm" B2BA (Bc)BA |  
+B2dc (BA)GF | "C7" E2G2 C2DE |1 "F" F6 c2 :|2 "F" F6 ef [|[K:C] "C"g2g2 agec | 
+"G7" c_BB2 (Bc)de | (fe)fa (gf)ed | "C" (c_B)cd (cd)ef | g2g2 agec | "G7" c_BB2 (Bc)de | 
+fefa gfed | "C" d4 c2A_B |]: [K:F]"F" c2de f2AB | c2de f2fg |"C7" a2ab g2ga |
+"F" f2af c2AB | c2de f2AB | c2de f2fg |"C7" a2ab g2ga |1"C7" g4"F" f2AB :|2"C7" g4"F" f2cB |:
+"F" A2c2 f2a2 |"C7" c'2=b2 _b2ge | G2c2 e2g2 |"F" b2_a2 =a2cB | A2c2 f2a2 | "C7" c'2=b2 _b2ge | 
+c2c2 dfeg |1 "F" f2a2 f2cB :|2"F" f2a2 f2F2 |] [K:Bb] "Bb" d4 (cd)Ac | B4 g2>e2 | 
+"F7" "^Spelas rätt igenom med repriser 5 ggr" c2c2 (cB)cd |"Bb" (BA)Bc d2F2 | d4 (cd)Ac | B4 g2>e2 | "F7" c2c2 (cB)cd | "Bb" B6 z2 |] 
+V:2
+"^2" D2 | D2DC (DE)DC | D2BA (GF)ED | C2E2 G,2B,C | A,6 |][K:F][M:2/4][K:treble] A2 |: 
+ A2AG (AB)AG | A2c2 A2A2 | A2AG (AB)AG | A4 F4 | D2DC (DE)DC | D2BA (GF)ED | 
+ C2E2 G,2B,C |1 A,6 A2 :|2 A,6 cd |[K:C]e2e2 fecG | GFF2 (FA)_Bc | 
+(d^c)d=c (_Bd)BG |(ED)EG (EG)cd | e2e2 fecG |GFF2 (FA)_Bc | (d^c)d=c (_Bd)BG | 
+ F4 E2FG |]:[K:F] A2Bc A2FG | A2Bc A2AB | c2cd B2Bc | A2cA A2FG | A2Bc A2FG | 
+A2Bc A2AB | c2cd B2Bc |1 B4 A2FG :|2 B4 A2AG |:
+ F2A2 c2f2 | a2^g2 =g2ec | E2G2 c2e2 | g2e2 f2AG | F2A2 c2f2 | a2^g2 =g2ec | 
+G2G2 BdcB |1 A2c2 A2AG :|2 A2"^Spelas rätt igenom med repriser 5 ggr"c2 A2D2 |[K:Bb] F4 (EF)CE | D4 e2>c2 | 
+ A2F2 (ED)EF | (DC)DE F2D2 | F4 (EF)CE | D4 e2>c2 | "^Stämförslag B.O." A2F2 (ED)EF |  D6 z2 |]
+

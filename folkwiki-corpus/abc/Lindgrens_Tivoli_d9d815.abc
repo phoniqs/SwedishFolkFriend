@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Lindgrens Tivoli
+T:Gånglåt
+C:Olle Moraeus
+O:Orsa, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. från CD. med stämförslag B.O."
+L:1/16
+M:2/4
+K:D
+Q:90
+V:1
+|:"^1" D2>F2 A2d2 | (fg)fe (fd)AF | G2>g2 (gf)ga | g6 fg | A2>c2 e2f2 | 
+ (gf)ga b2ga | b2>a2 a2e2 | g2f2 f4 | D2>F2 A2d2 | (fg)fe (fd)AF | 
+ G2>g2 (gf)ga | g6 fg | A2>c2 e2f2 | (gf)ga b2ga | b2>a2 a2c2 | d6 z2 :: 
+[K:A] E2>A2 A2A2 | E2>c2 c2c2 | A2>d2 d2d2 | B2f2 (f=g)fe | (de)dc (Bc)BA | 
+(GA)GF E4 | (ga)gf (ef)ed | (cd)ef e4 | E2>A2 A2A2 | E2>c2 c2c2 | 
+A2>d2 d2d2 | B2f2 (f=g)fe | (de)dc (Bc)BA | (GA)GF E4 | (EG)Bc (de)fg | a6 z2 :| 
+V:2
+|:"^2""D" A,2>D2 F2A2 | (de)dc (dA)FD | "G" B,2>B2 (BA)Bc | "Em" B6 AB | "A7" E2>A2 c2d2 | 
+"Em" (ed)ef "A7" g2ef |"Em" g2>f2 "A7"f2c2 |"D" e2d2 d4 | A,2>D2 F2A2 | (de)dc (dA)FD | 
+"G" B,2>B2 (BA)Bc |"Em" B6 AB | "A7" E2>A2 c2d2 |"Em" (ed)ef"A7" g2ef |"Em" g2>f2"A7" f2E2 |"D" [FA]6 z2 ::
+[K:A]"A" C2>E2 E2E2 |"A7" C2>A2 A2A2 | "D" D2>F2 F2F2 | "Bm" D2d2 (de)dc |"E7" (Bc)BA (GA)GF | 
+(EF)EB, G,4 | (ef)ed (cd)cB |"A" (AB)cd c4 | C2>E2 E2E2 |"A7" C2>A2 A2A2 |
+"D" D2>F2 F2F2 | "Bm" D2d2 (de)dc |"E7" (Bc)BA (GA)GF | "^Uppt. från CD. med stämförslag B.O."(EF)EB, G,4 | (B,E)GA (Bc)de |"A" [ce]6 z2 :|
+

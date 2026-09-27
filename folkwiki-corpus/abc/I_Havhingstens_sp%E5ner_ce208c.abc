@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:2
+T:"I Havhingstens spåner"
+T:(Totakt-pols, nr. EJ-42)
+R:Totakt-pols
+O:Boes, Århus amt, Danmark
+N:Melodin med stämma, såsom den (med variationer) spelas på CD:n Totakt-pols. Andrastämman av Åke Persson
+M:2/4
+L:1/16
+Q:1/4=100
+K:D
+V:1
+|: D2(EF) A2(Bc) | d6 f2 | g2f2e2d2 | c2(dc) A4 | D2(EF) A2(Bc) | d6 B2 | (B2A2)(A2G2) | A4 A,4 :|
+|: a2a2 g2(ag) | !tenuto!e6 f2 | g2f2e2d2 | c2(dc) A4 | a2a2 g2(ag) | !tenuto!e6 f2 | g2e2d2c2 | d4 D4 :|
+V:2
+|: A,2D2 D2F2 | A6 c2 | e2d2c2B2 | A2(BA) E4 | A,2D2 D2F2 | A6 G2  | G2E2E2E2 | [E8c8] :|
+|: f4 e2(fe) | "^*"!tenuto!c6 d2 | e2d2c2B2 | A2(BA) E4 | f4 e2(fe) | "^*"!tenuto!c6 d2 | e2c2A2G2 | [F4A4] [A4D4] :|
+

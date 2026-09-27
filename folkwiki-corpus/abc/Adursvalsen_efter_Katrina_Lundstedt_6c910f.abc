@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:16
+T:A-dursvalsen efter Katrina Lundstedt
+S:Katrina Lundstedt
+S:Otôrgs-KaisaAbrahamsson
+O:Hassela, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA. 16. A-dursvalsen"
+Z:"Uppt. OKA -86."
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/4
+M:3/4
+K:A
+V:1
+"^1" A |: c B c | d c d | e a3/2 a/ | e e3/2 e/ | g g f | d d d | f f e | c c A | 
+c B c | d c d | e a3/2 a/ | e3 | e g3/2 f/ | d f f | e g g |1 a2 A :|2 a2 z | 
+A2 c/e/ | a2 f | e2 c | A2 c/e/ | d2 B | G2 B | A c/A/ c | E3 | A2 c/e/ | 
+a2 f | e2 c | A2 E | A2 E | A E/C/ A,/E/ | A c G | A c d | e c e | 
+a3/2 c'/ a | e3 | e g3/2 f/ | d2 B | d f e | c3 | c B c | d c d | 
+e a3/2 a/ | e3 | e g3/2 f/ | d f f | e g g | a3 |] 
+V:2
+"^2" E |:"A" A G A |"E7" B A B |"A" c e3/2 e/ | c c3/2 c/ |"E7" e e d | B B B |"A" d d c | A A E | 
+A G A |"E7" B A B |"A" c e3/2 e/ | c3 |"E7" B d3/2 B/ | G B B | G B B |1"A" c2 E :|2 "A" c2 z |
+"A" C2 E/A/ |"D" c2 d |"A" c2 A | E2 A/c/ |"E7" B2 G | E2 D |"A" C E/C/ E | C3 | 
+E2 A/c/ |"D" f2 d |"A" c2 A | E2 C | E2 C | E C/A,/ E/C/ | E A E | E A B | c A c | 
+c3/2 e/ c | c3 |"E7" c e3/2 d/ | B2 G | B d c |"A" A3 |"A" A G A |"E7" B A B |
+"A" c e3/2 e/ | c3 | "E7" B d3/2 B/ | G B B | "^B.O." G B B |"A" c3 |]
+

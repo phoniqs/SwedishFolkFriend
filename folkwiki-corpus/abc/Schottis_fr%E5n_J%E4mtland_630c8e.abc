@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Jämtland
+T:efter Oskar Eriksson
+S:Oskar Eriksson
+O:Sve, Jämtland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Jämtland (5) efter Oskar Eriksson på "Sve""
+L:1/16
+M:2/4
+K:A
+V:1
+|:"^1" c>eac d>efd | c>eab a>ecA | B2B2 B>dcB | A2A2 A>Bcd | 
+c>eac d>efd | c>eab a>ecA |  B2B2 B>dcB | A2A2 A2 z2 :: 
+c>Ace d>cdf | e2A2 c>Aca | g2B2 d>cdf | e2A2 (cB)A2 | 
+c>Ace d>cdf | e2A2 c>Aca | g2f2 e>dcB | A2A2 A2 z2 :| 
+V:2
+|:"^2""A" A>ccA"D" B>cdB |"A" A>ccd c>cAE | "E7" G2G2 G>BGE |"A" C2C2 C>EAB |
+"A" A>ccA"D" B>cdB | "A" A>ccd c>cAE | "E7" G2G2 G>BGE | "A" C2C2 C2 z2 ::
+"A" A>EAc"D" B>ABd |"A" c2E2 A>EAc | "E7" B2G2 B>ABd |"A" c2E2 (AE)C2 |
+"A" A>EAc"D" B>ABd |"A" c2E2 A>EAc | "E7" d2B2 G>FED |"A"  C2"^Stämförslag B.O."C2 C2 z2 :| 
+

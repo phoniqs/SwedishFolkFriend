@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Sôbi-polskan
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+S:Jonas Hedin
+L:1/8
+Q:1/4=100
+M:3/4
+K:D
+V:1
+"^1""^Sôbi-polskan" D- |: D2 (D>E) F>G | A2 (A>G) F>A | d2 (A>B) A>F | G2 E4 | A,2 (C>D) E>F | 
+G2 (G>A) B>c | (e>c) (A>B) A>G | G2 F4 | D2 (D>E) F>G | A2 (A>G) F>A | d2 (A>B) A>F | G2 E4 | 
+A,2 (C>D) E>F | G2 (G>F) E>c | (c>B) (A>g) e>c |1 d2 d3 D- :|2 d2 d3 ^c- |:
+[K:A] c>(e a>g) f>e | T (d>c) (B>c) d>e |T (f>e) (d>B) G>B | (A>B) (c>d) e>d | 
+c>(e a>g) f>e | T (d>c) (B>c) d>e |T (f>e) (d>B) G>B |1 A2 A3 c- :|2 A2 A3 z |] 
+V:2
+"^2" A,- |: A,2 (A,>C) D>E | F2 (F>E) D>F | A2 (F>G) F>D | E2 C4 | E2 (A,>B,) C>D | E2 (E>F) G>A | 
+(c>A) (E>D) C>E | E2 D4 | A,2 (A,>C) D>E | F2 (F>E) D>F | A2 (F>G) F>D | E2 C4 | C2 (A,>B,) C>D | 
+E2 (E>D) C>A | (A>E) (C>c) A>G |1 F2 F3 A, :|2 F2 F3 A |:
+[K:A] A>(c f>e) d>c | (B>A) (G>A) B>c | (d>c) (B>G) E>D | (C>E) (A>B) c>B | A>(c f>e) d>c |
+ (B>A) (G>A) B>c | (d>c) (B>G) E>D |1 C2 C3 A :|2"^Stämförslag B.O." C2 C3 z |]
+

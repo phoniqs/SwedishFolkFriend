@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:28
+T:Martin Wappu
+O:Finland
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Finland, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:C
+V:1
+"^1""^Förspel" GG/G/ AB | cc c2 |]:[M:2/4][K:treble]"^Dans" GG AB | cc BA | GG/G/ AB | cc c2 :: 
+dd/e/ ff/a/ | gg/e/ cc/A/ | BB/G/ BB/d/ | cc c2 :| 
+V:2
+"^2" B,B,/B,/ DF | EE E2 |]:[M:2/4][K:treble] "^Spelas 3 ggr. med repriser." B,B, DF | EE GF | 
+B,B,/B,/ DF | EE E2 :: FF/A/ dd/f/ | ee/c/ AA/E/ | GG/D/ GG/F/ | "^Stämförslag B.O." EE E2 :|
+

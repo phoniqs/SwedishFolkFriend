@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Fest på Listvägen
+T:Gånglåt
+O:Säter, Dalarna
+R:Gånglåt
+C:Roland Johansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Roland Johansson,  Säter."
+L:1/8
+Q:1/4=90
+M:2/4
+K:G
+V:1
+"^1" B,C |: "G" D2 B,C | DD GA | B>c BG | D2 GB | "D7" A>G FE | D^C =CA | 
+"G" G>F E^D | =D2 B,C | D2 B,C | DD GA | B>c BG | D2 GB |
+"D7" A>G FE | D^C =CA |1"G" G4- | G z B,C :|2"G" G4- | GG AB |: 
+"C" c>G EG | ce dc | "G" B>A GA | B2 DB |"D7" c>B AG | FD EF |
+"G" G>F E^D | =D2 AB | "C" c>G EG | ce dc |"G" B>A GA | B2 DB |
+"D7" c>B AG | FD BA |"G" GF/G/"D7" BA |1"G" G2 AB :|2 "G" G2 z2 |] 
+V:2
+"^2" G,A, |: B,2 G,A, | B,B, DF | G>A GD | B,2 DG | F>E DC | B,^A, =A,F | E>^D CC | 
+B,2 G,A, | B,2 G,A, | B,B, DF | G>A GD | B,2 DG | F>E DC | B,^A, =A,C |1 B,4- | B, z G,A, :|2 B,4- | B,E FG |:
+E>E CE | Gc BA | G>D B,D | G2 B,G | A>G FE | DA, CD | B,>D CC | B,2 FG | 
+E>E CE | Gc BA | G>D B,D | G2 B,G | A>G FE | DA, DC | "^Uppt. o stämförslag B.O." B,A,/B,/ DC |1 B,2 FG :|2 B,2 z2 |]
+

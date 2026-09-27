@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:62
+C:Jon Magnusson, Torbjörn Lindberg & Robert Boström
+M:3/4
+L:1/4
+K:Dm
+[V:1] "Dm" fe^c|"Dm" d2A|"G" =BA G |"Dm" A2          F     |"Dm" D/2^C/2D/2E/2 F/2G/2|"Dm" Ac=B|"G" G     A      =B     |"A7" A2e|
+[V:2]      AG E|     F2E|    DA,G,|     A,A,/2=B,/2 C/2D/2|     F/2E/2F/2G/2 A/2=B/2|     dAG|     D/2E/2G/2A/2 =B/2d/2|    ^c2z|
+[V:1] "Dm" fe^c|"Dm" d2A|"G" =BA G |"Dm" A2          F     |"Dm" D/2^C/2D/2E/2 F/2G/2|"Dm" Aff|"A7" eA^c    |"Dm" d2e:|
+[V:2]      AG E|     F2E|    DA,G,|     A,A,/2=B,/2 C/2D/2|     F/2E/2F/2G/2 A/2=B/2|     dAG|     EAG/2E/2|     F2z:|
+[V:1]|:"Dm" f2a|"Am" e2a|"Dm" d2          d      |"Am" c2A|"Dm" d/2c/2d/2e/2 f/2g/2|"Dm" ac'=b|"G" ga=b|"A7" a2e| 
+[V:2]|:     d2f|     c2e|     A/2F/2A/2d/2 c/2B/2|     AEG|     A     A      d     |     fa  g|    dc=B|    ^c2A|
+[V:1]"Dm" faa|"Am" eaa|"Bb" d3/2d/2d|"F" c2     A     |"Dm" d/2^c/2d/2e/2 f/2g/2|"Dm" aff|[1 "A7" eA ^c     |"Dm" d2e:|[2 "A7" eA ^c     |"Dm" d2z|]
+[V:2]     dff|     cee|     B>B    B|    AA/2G/2F/2E/2|     D      D/2A,/2D/2E/2|     FDD|      EA,^C/2E/2|     F2z:|      EA,^C/2E/2|     F2z|]
+

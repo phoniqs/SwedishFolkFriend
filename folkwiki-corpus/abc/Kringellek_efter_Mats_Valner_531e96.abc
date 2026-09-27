@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Kringellek efter Mats Valner
+S:Efter Mats Valner
+O:Gagnef, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:Dm
+V:1
+|:"^1" (A>d) (de) ^c>e | (e>g) tgta f2 | (f>e) tdte c2 | (c>=B) tAt^G A2 :| 
+A2 (d>^c) A>c | e2 g3 (g | a2) (3afd e>d | (^c>e) tdtc A2 | 
+(A>d) (d>^c) A>c | e2 g3 (g | a2) (3afd e>^c | (A<^c) [Fd]3 z |] 
+"^Efterspel" (f | a>)(g f>)(e d>)^c | (A<^c) [Fd]4 |] 
+V:2
+|:"^2" (D>F) (FG) E>G | (^c>e) tetc d2 | (d>A) tFtG E2 | (A>G) tEtD C2 :| 
+D2 (F>E) ^C>E | A2 [^ce]3 (e | f2) (3fdA G>F | (E>G) tFtE ^C2 | 
+(E>F) (F>E) ^C>E | A2 [^ce]3 (e | f2) (3fdA G>E | (E<G) [DA]3 z |] 
+(d | f>)(e d>)(A F>)E"^Stämförslag B.O." | (E<G) [DA]4 |]
+

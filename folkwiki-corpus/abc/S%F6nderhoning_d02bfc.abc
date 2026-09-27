@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:42
+T:Sönderhoning
+O:Danmark
+R:Sönderhoning
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danmark, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" d | B>A Bd | G2 BG | Ac FA | G3 z |][K:G][M:2/4][K:treble]"^Dans" d | B>A Bd | 
+G2 BG | AB cd | ed gd | B>A Bd | G2 BG | 
+Ac FA | G3 d |] dB gg | fA Af | g>f ge | 
+d3 c | B>A Bd | G2 BG | Ac FA | G3 z |] 
+V:2
+"^2" B | G>F GB | D2 GD | FA DC | B,3 z |][K:G][M:2/4][K:treble] B | G>F GB | D2 GD | FG AB | 
+cB dB | G>F GB | D2 GD | "^Spelas önskat antal ggr." FA DC | B,3 B |] BG ee | dF Fd | e>d ec | 
+B3 A | G>F GB | D2 GD | "^Stämförslag B.O." FA DC | B,3 z |]
+

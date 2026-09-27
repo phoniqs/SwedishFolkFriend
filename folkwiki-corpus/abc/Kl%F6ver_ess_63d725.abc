@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T:Klöver ess
+C:Michael Boman 2018
+M:2/4
+L:1/8
+O:Malå, Lappland
+Q:1/4=120
+K:D
+| zAAF |: "D" D2E2 | FAAF | D2E2 | F2zA | d2dc | B2BA |  G2GF | "A" E  GGF 
+| E2F2 | GGGF | E2F2 | G2zG | c3/c/ cB | A3G |1 "D" F3/G/AF  | "A"  EAAF :|2 "A" A3/A/Bc  | "D" dddc 
+|: "G"B2 d2 | d2zG | "D" A3/B/AG | F2A2 | "A" G3/A/GF | E2B2 | "D" A3/B/AG | Fddc 
+| "G" B2d2 | d2zG | "D" A3/B/AG | F2d2 | "A"c2c2 | cABc |1 "D" d4 | dddc :|2 "D" d4 | d4 |
+

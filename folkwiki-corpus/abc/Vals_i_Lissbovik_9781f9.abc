@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals i Lissbovik
+R:Vals
+O:Upplands Väsby, Uppland
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+N:"Lissbovik - sommar, sol, vågskalp, fågelröster och dofter från skog och sjö..."
+L:1/8
+M:3/4
+I:linebreak $
+K:C
+V:1
+|:"^1" "C" C2 (EG) (ce) | (Bd) (cG) "^Lissbovik - sommar, sol, vågskalp, fågelröster" "^och dofter från skog och sjö . . ."(EC) |"Dm"  A,2 (DF) Ad | f4 a2 |"G7" (ag) (gf) (fd) | (dB) (BG) G2 | 
+(GA) G2 F2 | "C"(EF) (ED) C2 | C2 (EG) (ce) | (Bd) (cG) (EC) | "Dm" A,2 (DF) (Ad) | f4 a2 |
+"G7" (ag) (gf) (fd) | (dB) (BG) (GF) | (FD) (DG) (Bd) |1,8"C" [EGc]6 :|2"C" [EGc]3 E(Gc) |:
+"C" e2 (cG) (EC) | (G,C) (EG) (ce) | "G7" (3(ded) (BG) (DB,) | (G,B,) (DG) (Bd) |"F" (3(cdc) (AF) (CA,) | (CF) (Ac) (BA) | 
+"C" (AG) (GA) (GE) | C2 (CE) (Gc) | e2 (cG) (EC) | (G,C) (EG) (ce) |"G7" (3(ded) (BG) (DB,) | (G,B,) (DG) (Bd) | 
+"F"c2 (AF) (CA,) |(CF) (Ac) (BA) |  "C" (AG) (GA) (GE) | C3 D(C_B,) | "F" A,2 (CF) (AB) | (3(cBc) (dc) (BA) | 
+"C"(GE) (CE) (Gc) | e4 g2 |"G7" (gf) (af) (dB) | G2 B2 d2 |"C" d (3(c/d/c/) Bc dB |1 "C" c3 E(Gc) :|2"C" c3 _B(AG) |:
+[K:F] "F"[A,F]2 A2 F2 | (CD) (CB,) (A,G,) | A,2 (CF) (Ac) | d4 c2 | "C7" (cB) (AB) (GE) | C2 (EG) (AB) |
+"F" (dc) (=Bc) (fc) | (AB) (AG) F2 | [A,F]2 A2 F2 | (CD) (CB,) (A,G,) | A,2 (CF) (Ac) | d4 c2 |
+"C7" (cB) (AB) (GE) | (CE) (Gc) (eg) |"F" (gf) (fe) (fg) |1"F" f3 B(AG) :|2[K:C]"F" f4 z2 |]
+

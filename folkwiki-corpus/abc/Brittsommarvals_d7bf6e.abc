@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Brittsommarvals
+T:(Andrastämman)
+C:Rolf Jonsson
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Rolf Jonsson"
+L:1/8
+Q:1/4=120
+M:3/4
+K:Bb
+V:2
+"^2" dfd |: "Bb" e3 dBF | D3 FBd | "Eb" f3 ecG | "Cm" E6 | "F7" C2 E2 F2 | A6 |
+"Bb" F2 DF Be |"F7" d3 dfd | "Bb" e3 dBF | D3 FBd |"Eb" f3 ecG |"Cm" E6 |
+"F7" C2 E2 F2 | A2 FA ec | "Bb" d3 d d2 |1 "Bb" d3 dfd :|2 "Bb" d3 ddc |: 
+"Gm" B2 d3 c | B3 AGF | "Cm" E2 G3 F | E3 ccB | "F7" A2 c3 B | A2 A3 G |"Bb" F6 | 
+"D7" ^F3 AGF | "Gm" D2 D3 G | B3 BBA | "Cm" G2 G3 c | e3 eef | "Gm" d2 B2 G2 | 
+"D7" ^F2 A2 c2 |1 "Gm" B3 B B2 | "Gm" B3 ddc :|2 "Gm" B4 B2 | "F7" A3 dfd | "Bb" d2 F2 A2 |:
+[K:Eb]"Eb" B6- | B2 A3 B | A2 G3 F | G6 | G2 A2 B2 | G2 B2 e2 | 
+"Bb7" d6- | d6 | f6- | f2 e3 f | e2 d3 ^c | d6 | B2 A2 F2 | B2 c2 d2 |
+"Eb" e6 |"Bb7" d2 c2 =B2 |"Eb" B6- | B2 A3 B | A2 G3 F | G6 | B2 A2 G2 | B2 d2 g2 | 
+"Ab" e6- | e6 | a6 | "Abm" g6 | "Eb" g2 ^f2 =f2 |"C7" =e6 | 
+"F7" c4 e2 | "Bb7" B4 A2 | "Eb" G3 G G2 |1 "Eb" G2 F2 A2 :|2"Eb" G4  "^B.O."z2 |]
+

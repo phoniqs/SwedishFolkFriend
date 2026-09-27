@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:303
+T:En liten polska
+T:Polska efter August Strömberg (SmM I:303)
+R:Polska
+S:August Strömberg
+O:Jät, Småland
+N:Ca 1900
+B:Småländsk Musiktradition
+M:3/4
+L:1/8
+K:Am
+A>^G AB c(d/c/)|(B{cB})A ^GB e2|A>^G AB c(d/c/)|(B/c/)(B/A/) B=G EE|
+A>^G AB c(d/c/)|(B{cB})A ^GB e2|(c/d/)(c/B/) Ac BE|^G2 A2 z2:|
+|:g>e ce gg|(3(agf) Bd f2|f>d Bd ff|(3(gfe) cd e2|
+(c/d/)(c/B/) (A/^G/)(A/B/) cc|(d/c/)(B/A/) (^G/A/)(B/c/) dd|(c/d/)(c/B/) (A/^G/)(A/c/) e^g|(b/a/)(^g/e/) ga a2:|
+|:e2 c2 A2|a2 f2 d2|c(d/c/) B(c/B/) A(B/A/)|G(A/G/) F(G/F/) EC|
+(e/f/)(e/d/) ec A2|(a/b/)(a/^g/) af d2|(c/d/)(c/B/) ce BE|^G2 A2 z2:|
+

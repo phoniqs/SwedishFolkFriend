@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:494
+T:Polska efter Axel Axelsson
+T:(OA 494)
+B:Sörmländska låtar samlade av Olof Andersson nr 494
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:Låten visar frändskap med den s.k. Leipzigpolskan. Jfr Nils Andersson, Skånska Melodier n:r 39, Svenska Låtar, Östergötland, h. I n:r 167 och 212, II n:r 457 och 529, samt Fredin, Gotlandstoner n:r 216
+Z:Anders Larsson 2025-02-01
+M:3/4
+L:1/4
+Q: 90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+D/4E/4 |: F/F/4G/4 E/E/4F/4 D | F/F/4D/4 E/E/4G/4 F | (D/4E/4)F/4G/4 (A/4B/4)c/4d/4 (e/4f/4)g/4e/4 |  d/>f/ (e/4d/4)c/4B/4 A/4G/4F/4E/4 |
+F/F/4G/4 E/E/4F/4 D | F/F/4D/4 E/E/4G/4 F | (D/4E/4)F/4G/4 (A/4B/4)c/4d/4 e/f/ |1  (g/4f/4)e/4d/4 c/d/ d/D/4E/4 :|2 (g/4f/4)e/4d/4 c/d/ d/A/ |:
+A/4d/4f/4d/4 A/4d/4f/4d/4 A/4d/4f/4d/4 | A/4d/4f/4a/4 a/g/ g/f/ |  A/4c/4e/4c/4 A/4c/4e/4c/4 A/4c/4e/4c/4 | A/4c/4e/4g/4 g/f/ f/e/ | F/F/4G/4 E/E/4F/4 D |
+F/F/4D/4 E/E/4G/4 F |  (D/4E/4)F/4G/4 (A/4B/4)c/4d/4 e/f/ |1 (g/4f/4)e/4d/4 c/d/ d/A/ :|2 (g/4f/4)e/4d/4 c/d/ d |]
+

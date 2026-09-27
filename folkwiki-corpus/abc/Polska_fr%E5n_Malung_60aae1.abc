@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Malung
+S:Efter Hampus Henrik
+S:Efter Skinnar Albin
+O:Malung, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1" (3Ace a3 (^g/a/ | b)(a/^g/ a3) e | f>(e d>)(e f>)g | (3agf e>d c>B | 
+(3Ace a3 ^g/a/ | b(a/^g/ a3) e | f>(e d>)(e f>)g | (3agf e4 :: 
+e>a (c>d) e>f |{ef} e>c AB c2- | cB/c/ d>(c B>)^G | A>B c/B/c/d/ e2- | 
+e>a (c>d) e>f |{ef} e>c AB c2- | cB/c/ d>(c B>)^G | BA A4 :| 
+V:2
+|:"^2" (3EAc e3 B/c/ | d(c/B/ c3) c | d>(A F>)(A d>)e | (3fed c>B A>F | 
+(3EAc e3 B/c/ | d(c/B/ c3) c | d>(A F>)(A d>)e | (3fed c4 :: 
+c>e (A>B) c>d | c>A E^G A2- | A>A B>(A ^G>)E | C>E A>B c2- | 
+c>e (A>B) c>d | c>A E^G A2-"^Stämförslag B.O." | A>A B>(A ^G>)E | DC C4 :|
+

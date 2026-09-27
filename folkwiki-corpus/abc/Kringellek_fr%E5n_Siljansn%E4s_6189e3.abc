@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Kringellek från Siljansnäs
+T:Jämn polska efter Roligs Per Andersson
+R:Polska
+S:Roligs Per Andersson
+O:Siljansnäs, Dalarna
+Z:Karin Helander
+N:Från Stefan Lindén SEL00852 version 230324: http://www.stefanlinden.se/L/polska%20Kringellek%20fr%20Siljansnas.pdf
+N:"Jämn polska efter Roligs Per Andersson, Siljansnäs, Dalarna"
+M:3/4
+L:1/16
+K:C
+V:1
+([Ae]2 |: [Ae]3)a (a2!trill!g2) (e2g^f) | d2^fd e4 (e4 | [Ae]3)a (a2!trill!g2) (e2g^f) | d2^fd e4 e2B2 | 
+(cB)cd {d}e2ec A2(AB) | {B}(cB)cd {d}e2ec A2(AB) | (cB)cd {d}e2ec A2(cB) |1
+^G2[GB]G [Ac]6 :|2 ^G2[GB]G [A^c]6 || [K:D] |: v ([AD]2 | [AD]2)a2 (ab)af a2a2 | u{a}!lowermordent!b4 (ga)gf {f}g2g2 | 
+{[Ag]}u[aA]4 (fa)fd (ef)ed | v(cd)cB (AB)AG (FG)FE | u(D2a2) (ab)af a2a2 | 
+u{a}!lowermordent!b4 (ga)gf  {f}g2g2 | {[Ag]}[aA]4 (fa)fd (ef)ed | "_SEL00852 230324" ((3cdc)Bc {[cD]}[dD]6 :|
+

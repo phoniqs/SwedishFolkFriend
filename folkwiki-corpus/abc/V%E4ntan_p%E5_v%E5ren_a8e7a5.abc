@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:12
+T:Väntan på våren
+T:Vals
+R:Vals
+O:Sandviken, Gästrikland
+C:Edvin Holmberg
+Z:[[Personer/Bengt Ohlson]]
+Z:"Tillägnad spelkvinnan och vännen Eva Pettersson, KLÄDPIRATEN. Som minne och förhoppningsvis lite nöje."
+B:Låtar för fiol av Edvin Holmberg
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" (DF) (Ad) fa | (ba) (fd) AF | (EF) (GA) Be | g3 fed | (cd) (cA) GE | 
+CE A3 G | (FG) (FE) FG | A4 A2 | (DF) (Ad) fa | (ba) (fd) AF | 
+(EF) (GA) Be | g3 fed | (cd) (cA) GE | (Ac) (ea) c'a | 
+(ge) (cA) fe | d6 :: f4 gf | d6 | d4 ed | B6 |
+c4 dc | B4 cB | A3 GFG | A6 | f4 gf | d6 | d4 ed | 
+B6 | (cd) (cA) GE | (Ac) (ea) c'a | .d'.a .f.d .A.F | D2"^Flag." d4 :| 
+V:2
+|:"^2""D" (A,D) (FA) df | "D7" (gf) (dA) FD |"Em" (G,B,) (EF) GA | B3 AGF |"A7" (GA) (GE) CA, | 
+A,C F3 E |"D" (DE) (DC) DE | F4 F2 | (A,D) (FA) df | "D7" (gf) (dA) FD |"Em" (G,B,) (EF) GA | 
+B3 AGF | "A7" (GA) (GE) CA, | (CE) (Ac) ec | (BA) (GE) AG | "D" [FA]6 :: "D" "^Tillägnad spelkvinnan och vännen Eva Pettersson, KLÄDPIRATEN.""^Som minne och förhoppningsvis lite nöje." A4 BA | "D7" F2 G2 A2 | "G" B4 cB | 
+"Em" E2 F2 G2 | "A7" A4 BA | G4 AG | "D" F3 EDE | FD EF GA | d4 c2 | "D7" =c2 B2 A2 |"G" B4 B2 |"Em" G2 A2 B2 |"A7" (AB) (AE) CA, | "^Stämförslag B.O." (CE) (Ac) ec | "D" .f.d .A.F .D.A, | F2 z4 :|
+

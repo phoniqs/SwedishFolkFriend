@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:2
+T:Stenbockens polska
+T:(för lyssning, noterad för normalstämning)
+T:efter Näcken i Degeberga
+R:Omstämt
+O:Degeberga, Skåne
+M:3/4
+L:1/4
+Q:110
+%%printtempo 0
+%%MIDI ratio 2 1
+K:A
+[L:1/8]|: !+!cz !+!Az !+!Ez | c>A E2 E2 | !+!cz !+!Az !+!Ez | c>A E2 E2 | !+![EA]>A BA/B/ cA |
+ !+![EA]>A BA/B/ cA | !+![EA]>A BA/B/ cA/c/ |1 BA/G/ GA A2 :|2 BA/G/ GA AE |]
+[L:1/16]|: (DF)(AF) (DF)(AF) (DF)(AF) | (CE)(AE) (CE)(AE) (CE)(AE) | (DF)(AF) (DF)(AF) (DF)(AF) | (CE)(AE) (CE)(AE) (CE)(AE) |
+[L:1/8] !+![EA]>A BA/B/ cA | !+![EA]>A BA/B/ cA | !+![EA]>A BA/B/ cA/c/ |1 BA/G/ GA AE :|2 BA/G/ GA Avc |] 
+[L:1/8] |: ue(e/f/ e)c Ac | BA/G/ AE v(D/C/B,/A,/) | ue(e/f/ e)c Ac |1 BA/G/ (GA) A>vc :|2 BA/G/ GA A>E |]
+[L:1/16]|: (DF)(AF) (DF)(AF) (DF)(AF) | (CE)(AE) (CE)(AE) (CE)(AE) | (DF)(AF) (DF)(AF) (DF)(AF) | (CE)(AE) (CE)(AE) (CE)(AE) |
+[L:1/8] !+![EA]>A BA/B/ cA | !+![EA]>A BA/B/ cA | !+![EA]>A BA/B/ cA/c/ |1 BA/G/ GA AE :|2 BA/G/ GA A2 |]
+

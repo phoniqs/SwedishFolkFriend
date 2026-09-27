@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Glada Nisses hambo
+O:Hälsingland
+S:Ols David
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:Traditionell norra Hälsingland
+Z:"Uppt. Ols David."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" B>e d2 d2 | G>c B2 B2 |({A} G>F) (G>B) A>G | G>F F2 F2 | A>B (c>f) e2 | A>B c2 c2 | 
+(F>E) (F>c) B>A | (3(ABA)u G2u G2 | B>e d2 d2 | G>c B2 B2 | (3(gfg) (a>g) f>g | 
+f>e e2 e2 | (e>^d) (e>f) g>a | (b>a) (g>f) e>d | (f>e) (d>c) B>A | G2 G2 z2 :: 
+(3(d^cd) e2 d2 | (3(ded) (3(cdc) B2 | (3(BcB) (3(ABA) G2 | (3(GAG) F2 F2 | (A>B) (c>d) e>d | 
+f2 f3u c | e2 e3u B | d2 d3 z | (3(d^cd) e2 d2 | (3(ded) (3(cdc) B2 | (3(gfg) (a>g) f>g | 
+f>e e2 e2 | (e>^d) (e>f) g>a | (b>a) (g>f) e>d | (f>e) (d>c) B>A | G2 G2 z2 :| 
+V:2
+|:"^2""G" G>c B2 B2 | D>A G2 G2 | (D>^C) (D>G) F>E |"D7" E>D D2 D2 | F>G (A>d) c2 | 
+F>G A2 A2 | (D>^C) (D>A) F>D |"G" C2 B,2 B,2 | G>c B2 B2 | D>A G2 G2 | B2 (c>B) A>B |
+"C" d>c c2 c2 | (c>B) (c>d) e>f |"G" (g>f) (e>d) c>B | "D7"(A>G) (F>E) D>C | "G"B,2 B,2 z2 ::
+"G" (3(BAB) c2 B2 | (3(BcB) (3(ABA) G2 | G2 (3(FGF) E2 |"D7" (3(EFE) D2 D2 | (F>G) (A>B) c>B | 
+A2 A3 A | c2 c3 G | "G" B2 B3 z | (3(BAB) c2 B2 | (3(BcB) (3(ABA) G2 | B2 (c>B) A>B |
+"C" d>c c2 c2 | (c>B) (c>d) e>f |"G" (g>f) (e>d) c>B | "D7"(A>G) (F>E) D>C | "G"B,2 B,2"^B.O." z2 :|
+

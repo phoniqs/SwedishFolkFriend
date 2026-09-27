@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Martins vals
+C:Leonard Larsson
+O:Viksta, Upppland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Leonard Larsson, Viksta."
+Z:"Martin Ris var född 1902"
+Z:"Uppt. av Nils Presto 1952."
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" (Ac) e2 ce | a2 (g2 f2) | fe e2 c2 | A4 E2 | (EF) (GA) Bc | B4 G2 | 
+(AB) (cd) ef | e4 A2 | (Ac) e2 ce | a2 (g2 f2) | fe e2 c2 | A4 E2 | (EF) (GA) Bc | 
+(dB) (GE) GB | (BA) (GA) cB | A4 A2 :: (Ac) (eA) ce | (Ac) (eA) ce | 
+(Bd) (fB) df | (Bd) (fB) df | (eg) (be) gb | (eg) (be) gb | 
+(ag) (fe) fg | (af) (ed) cB | (Ac) (eA) ce | (Ac) (eA) ce | (Bd) (fB) df | 
+(Bd) (fB) df | (eg) (be) gb | (eg) (be) gb | (ag) (fe) fg |1 a4 A2 :|2 a4 z2 |] 
+V:2
+|:"^2""A" (CE) A2 EA | c2 (c2 d2) | dc c2 A2 | E4 C2 |"E7" (B,D) (EF) GA | G4 D2 | 
+"A" (CD) (EG) AB | c4 C2 | (CE) A2 EA | c2 (c2 d2) | dc c2 A2 | E4 C2 |"E7" (B,C) (DE) FG | 
+(BG) (EB,) DE |"A" (DC) (B,C) ED | C4 C2 :: "A" (CE) (AE) AE | (CE) (AE) DC |"Bm" (DF) (BF) BF | 
+(DF) (BF) ED |"E7" (GB) (eB) eB | (GB) (eB) AG | (fe) (dc) de |"A" (cA) (GF) ED | (CE) (AE) AE | 
+(CE) (AE) DC |"Bm" (DF) (BF) BF | (DF)"^Martin Ris var född 1902""^Uppt. av Nils Presto 1952." (BF) ED |
+"E7" (GB) (eB) eB | "^Arr B.O. 2006." (GB) (eB) AG | (fe) (dc) de |1"A" c4 C2 :|2"A" c4 z2 |]
+

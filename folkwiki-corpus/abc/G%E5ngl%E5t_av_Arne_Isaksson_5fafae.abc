@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt av Arne Isaksson
+R:Gånglåt
+C:Arne Isaksson
+O:Resele, Ångermanland
+Z:Karin Helander
+N:Från not hos Ångermanlands spelmansförbund: https://spelmansforbundet.com/spelmanslag/allspelslatar/
+N:"Gånglåt av Arne Isaksson, av Arne Isaksson, Resele"
+M:4/4
+L:1/8
+K:D
+Q:1/4=160
+V:1
+F2 |: A3B A2 G2 | F2 D2 (FA)(df) | a3b a2f2 | d4 (f2a2) | g3a g2 e2 | 
+c2 A2 B2 c2 | d3 e f2 d2 | A2 G2 F2 G2 | A3 B A2 G2 |  F2 D2 (FA)(df) | 
+a3b a2f2 | d4 (f2a2) | g3a g2 e2 | c2 A2 B2 c2 | d4 (d3d) |1 d6 F2 :|2 d6 !fine! f2 |]
+|:(a^g)(ab) a2 f2 | d2 A2 F2 D2 | C3D E2 F2 | G6 E2 | (gf)(ga) g2 e2 | 
+c2 A2 B2 c2 | d3 e (fe)(fg) | a6 f2 | (a^g)(ab) a2 f2 | d2 A2 F2 D2 | 
+C3D E2 F2 | G6 E2 | (gf)(ga) g2 e2 | c2 A2 B2 c2 | d4 (d3 d) |1 [dD]6 f2 :|2 [dD]6 !D.C.! F2 |] 
+V:2
+z2 |: F3G F2 E2 | D2 (DA,) D2 F2 | (FE)(FG) F2 A2 | A3 B A2 F2 | E3 F E2 C2 | 
+A,4 (GF)(GE) | (FG)FE D2 F2 | [CE]4 A,2 A,2 | F3G F2E2 | (DE)(DA,) D2 F2 | 
+F3G F2 A2 | [FA]4 (A2F2) | E3F E2C2 | (A,2G2) [GA,]2 [GA,]2 | [FA,]4 ([FA,][EA,])[FA,][GA,] |1 [FA,]6 z2 :|2 [FA,]6 (DE) |] 
+|: F4 (F^E)(FG) | [FA]4 A2 F2 | (ED)(CB,) A,2 D2 | (CD)EF G4 | E4 (ED)(EF) | 
+G4 G2 G2 | (FE)(FA) (dc)(de) | f6 (DE) | F3 G (F^E)(FG) | [FA]4 A2F2 | 
+(ED)CB, A,2 D2 | (CD)EF G4 | E4 (ED)(EF) | G4 G2 G2 | F3 G (FE)(FG) |1 [FA]6 (DE) :|2 [FA]6 z2 |]
+

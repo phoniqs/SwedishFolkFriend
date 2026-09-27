@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:123
+T:Åstorpastycket
+T:(Sv Folkdanser Del 1)
+O:Skåne
+R:Engelska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 123. Åstorpastycket, Engelska från Skåne"
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 123
+Z:http://runeberg.org/folkdans/besk/0287.html
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" GB Ac | B2 d2 | ec AF |"G" G2 z2 |: [K:G][M:2/4][K:treble]"^Dans" GB Ac | 
+B2 dB | GB AF | GB D2 | GB Ac | B2 d2 |
+ ef ge | d2 z2 :: ef ge | e2 dB | ce dc | 
+c2 B2 | GB Ac | B2 d2 | ec AF | G2 z2 :: 
+d^c de | dB GB | dc AF | GB D2 | 
+d^c de | dB GB | dc AF | G2 z2 :| 
+V:2
+"^2" "G"DG FA | G2 B2 | cA FD | "G"B,2 z2 |:[K:G][M:2/4][K:treble] "G"DG FA | G2 BG | DG FD | D G B,2 | 
+DG FA | G2 B2 | "C"cd ec | "G"B2 z2 ::"C" cd ec |"G" c2 BG |"D7" Ac BA |"G" A2 G2 | DG FA | G2 B2 | 
+"D7" cA FD |"G" B,2 z2 ::"G" BA Bc | BG DG |"D7" BA FD |"G" DG B,2 | "^Stämförslag B.O." BA Bc | BG DG |"D7" BA FD |"G" B,2 z2 :|
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:62
+T:Kulldans
+T:(Sv Folkdanser Del 1)
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 62. Kulldans"
+Z:http://runeberg.org/folkdans/besk/0067.html
+Z:"Sverige, Gillesdanser i Norden"
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 62
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:3/4
+K:F
+V:1
+"^1""^Förspel""F" f2 c2 BA |"C7" G2"F" F3 |][K:F][M:3/4][K:treble]"^Dans" A |:"F" cf c3 A | c>A F3 C | 
+F>G A2 B>c | d2 c3 A | cf c3 A | c>A F3 C | F>G A2 B>c | 
+d2 c3 z | "F"F>F G>G A>A | "C7" B>B G>G"F" A>A | F>F G>G A>A |
+"C7" B>B G>G"F" A>A | f2 c2 B>A |1"C7" G2"F" F3 A :|2 "C7" G2"F" F3 z |] 
+V:2
+"^2" A2 A2 GF | C2 A,3 |][K:F][M:3/4][K:treble] F |: Ac A3 F | A>F A,3 A, | 
+A,>C F2 G>A | B2 A3 F | Ac A3 F | A>F A,3 A, | A,>C F2 G>A | 
+B2 A3 z | A,>A, C>C F>F | G>G E>E F>F | "^Spelas önskat antal ggr." A,>A, C>C F>F | 
+G>G E>E F>F |"^Stämförslag B.O."A2 A2 G>F |1 C2 A,3 F :|2 C2 A,3 z |]
+

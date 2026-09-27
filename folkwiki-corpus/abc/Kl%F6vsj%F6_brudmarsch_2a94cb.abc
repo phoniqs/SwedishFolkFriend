@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Klövsjö brudmarsch
+S:Olof Rönnqvist
+O:Klövsjö,  Jämtland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Olof Rönnqvist, Vigge, Medelpad"
+L:1/8
+M:2/4
+U:t=tenuto
+K:D
+V:1
+"^1" (f/g/) |: a2 ab/a/ |"D7" f2 de/f/ |"G" g2 (gb) |"Em" g2 (gf) | 
+e>f ed | (c>B) AB/c/ | "D" de/g/"A7" fe/c/ |1"D" d3 (f/g/) :|2"D" d3 A |:
+"D" (Ad) dc/e/ | dA/G/ FE/F/ | D>G tGtA | B3 d | 
+(ce) ef/e/ | (c>B) AB/c/ |"D" de/g/"A7" fe/c/ |1"D" d3 A :|2 "D" d3 z |] 
+V:2
+"^2" (d/e/) |:"D" [Af]2 [Af][Af] | [F=c]2 [Fc][Fc] | [GB]2 [GB][GB] | [EB]2 [EB][EB] | 
+"A7" [Gc]2 [Gc][Gc] | AE CE | FA/B/ AG/E/ |1 [FA]3 (d/e/) :|2 [FA]3 D |: 
+(DF) FE/G/ | FF/E/ DC | "G" B,D tDtF | G3 B |
+"A7" (Ac) cd/c/ | AE CE | "^Stämförslag B.O." FA/B/ AG/E/ |1  [FA]3 D :|2 [FA]3 z |]
+

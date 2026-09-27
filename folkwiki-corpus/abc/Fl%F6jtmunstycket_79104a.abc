@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:5577
+T:Flöjtmunstycket
+T:Polska
+R:Polska
+C:Lennart Sohlman
+N:Polskan, i jämtstil, tillägnas en skicklig flöjtblåsare i bekantskapskretsen, på det att han måtte få något mer att bita i än sitt blockflöjtsmunstycke
+M:3/4
+Q:1/4=150
+L:1/8
+K:G
+V:1
+{de}d>c B>d d>B|(3d(cB) (3A(Bc) B2-|B>c (3A(Bc) A>c|(3c(BA) (3G(AB) G>B|!
+(3A(B^c) d>e (3f(ed)|g>(g e>)(e f>)d|d>B (3c(BA) B>G|[1(GF) D3z:|[2(GF)G3z"Fine"|:!
+F>A A>A (3c(BA)|G>B (3B(GB) (3B(^cd)|e>^c A>c (3A(ce)|(ea) (fd) A2-|!
+A>F A>A (3c(BA)|G>B (3B(GB) (3B(^cd)|e>^c A>c (3A(ce)|(af) "Da Capo al Fine"d3z:|]
+V:2
+B>A G>B B>G|(3B(AG) (3F(GA) G2-|G>A (3F(GA) F>A|(3A(GF) (3[G,D](FG) D>G|!
+(3A(GE) F>A (3d(^cB)|e>(e ^c>)(c d>)A|F>G (3A(GF) G>D|[1(DC) A,3z:|[2(DC) [B,3D3]z|:!
+[A,3/D3/]F/ F>F (3A(GF)|D>G (3G(DG) (3G(AB)|^c>A E>A (3E(GA)|(Af) (dA) F2-|!
+F>D F>F (3A(GF)|D>G (3G(DG) (3G(AB)|^c>A E>A (3E(GA)|G2[F3A3]z:|]
+

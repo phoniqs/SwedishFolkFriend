@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska efter August Sjöberg
+S:August Sjöberg
+O:Falun, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(40) Hambo-polska från Södra Dalarna efter August Sjöberg, Slussen, Falun"
+%%score 1 2
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1
+"^1" (g |: f>)(d A>d) f>a | (gf) (e>d) c>d | e>(c A>c) e>g | (fd) (A>G) F>A | 
+f>(d A>d) f>a | (gf) (e>d) c>d | e>(c A>g) e>c |1 d2 d3 g :|2 d2 d3 (f |:
+[K:A] e>)(d c2) ce | d>c B2 B2 | d>(c B>c) d>e | (A>B) (c>d) e>f | 
+e>(d c2) ce | d>c B2 B2 | (A>c) e2 G>B |1 A2 A3 f :|2 A2 A3 z |] 
+V:2
+"^2" (e |: d>)(A F>A) d>f | (ed) (c>B) A>B | c>(A E>A) c>e | (dA) (F>E) D>F | 
+d>(A F>A) d>f | (ed) (c>B) A>B | c>(A E>c) A>E |1 F2 F3 e :|2 F2 F3 (d |:
+[K:A] c>)(B A2) Ac | B>A G2 G2 | B>(A G>A) B>G | (E>G) (A>B) c>d | 
+c>(B A2) Ac | B>A G2 G2 | (E>F) G2 E>D |1 C2 C3 d :|2 C2 C3"^B.O." z |] 
+

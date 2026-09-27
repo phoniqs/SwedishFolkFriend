@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Nåvårsetermarsjen
+C:Johannes Langøygard
+S:Hans W. Brimi
+R:Marsch
+O:Lom, Norge
+M:2/4
+L:1/8
+K:G
+G2 (3ABc|BA A2|GF EF|GD B,G,|G2 (3ABc|\
+BA A2|GF EF|G2 GG|1G3D:|2G3e|:\
+(3efg ec|AA A2|(3Ace dB|(3GBd G2|\
+F/G/A/B/ ~BA|(3GBd G>F|G/A/B ~BA|(3GFE (3DFA|1\
+M:3/4
+G2 GG G2:|2\
+M:2/4
+G2 GG|G3D|:\
+B/cA/ c/BG/|B/AF/ G/EG/|(3DB,D (3GAB|\
+M:3/4
+B/cc/ (3BGB (3AFA|\
+M:2/4
+G2 G>G|1\
+M:3/4
+G3D (3GAB:|2\
+M:2/4
+G3D|]
+

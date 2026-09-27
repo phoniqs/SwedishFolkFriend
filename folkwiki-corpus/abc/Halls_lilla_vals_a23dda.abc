@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:41
+T:Halls lilla vals
+T:(SvL Hälsingland 41)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 41
+O:Hassela, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]] (nr 31 i Hall-samlingen)
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" F3 Adf | a3 gef | (dc) (ed) cB | A2 (F2 D2) | G3 ABG | 
+E2 (C2 A,2) | D3 EFG | A4 G2 | F3 Adf | a3 gef | (dc) (ed) cB | 
+A2 (F2 D2) | G3 BdB | (Ad) (fe) dc | (BA) c2 Bc | d4 z2 :: 
+D3 FBd | cf d2 c2 | B3 cde | fb a2 g2 | f3 gfe | 
+(dc) (ed) cB | (AB) (AG) FE | F6 | D3 FBd | cf d2 c2 | B3 cde | 
+fb a2 g2 | f3 gfe | (dc) (ed) cB | (3(Ace) a2 ce | d4 z2 :| 
+V:2
+|:"^2""D" D3 FAd |"A7" c3 BGA |"D" (FE) (GF) ED | F2 (D2 A,2) |"A7" E3 FGE | C2 (A,2 G,2) | "D" A,3 CDE |"A7" F4 E2 |
+"D" D3 FAd |"A7" c3 BGA |"D" (FE) (GF) ED | F2 (D2 A,2) | "G" B,3 GBG |"D" (FA) (dc) BA |"A7" (GF) E2 DE |"D" F4 z2 ::
+"Bm" B,3 DFB |"F#7" ^Ac B2 F2 | "Bm" D3 FBc |"Em" dg f2 e2 |"Bm" d3 edc |"A7" (BA) (cB) AG | (FG) (FE) DC |"D" D6 | 
+"Bm" B,3 DFB |"F#7" ^Ad B2 A2 |"Bm" D3 FBc |"Em" dg f2 e2 |"Bm" d3 edc |"A7" (BA) (cB) AG | (3(EGc) c2 EG |"D" F4"^B.O." z2 :|
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:16
+T:Fyratur Nr 2
+T:(Gamla Dansar i Skåne)
+O:Skåne
+R:Fyrtur
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Fyratur (2)"
+Z:"Mandelgrens saml. nr. 128."
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" (gf)ga (gf)ed | (ce)Ac d2 z2 |]:[K:D][M:2/4][K:treble]"^Dans" (dc)dA (FD)FA | 
+(df)ed dcA2 | (ge)cA (GB)FA | (EG)FA d2 z2 :: 
+e2cA (EA)ce | (fd)AF (DF)Ad | (fa)fa (gb)eg | (ce)Ac d2 z2 :: 
+(dc)de (dc)BA | (GF)EF G2>e2 | (gf)ga (gf)ed | (ce)Ac d2 z2 :| 
+V:2
+"^2" (ed)ef (ed)cB | (Ac)EG F2 z2 |]:[K:D][M:2/4][K:treble] (FE)FF (DA,)DF | (Fd)cB BAE2 | 
+(ec)AE (EG)DF | (CE)DE F2 z2 :: c2AE (CE)Ac | "^Mandelgrens saml. nr. 128." (dA)FD (A,D)FA | (df)df (eg)ce | 
+(Ac)EG F2 z2 :: (BA)Bc (BA)GF | (ED)CD E2>c2 | (ed)ef (ed)cB | "^Stämförslag B.O." (Ac)EG F2 z2 :|
+

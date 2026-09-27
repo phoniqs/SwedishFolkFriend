@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Pelle på Prispallen
+C:Pär Harald Hyberg
+R:Engelska
+Z:Patrik Månsson, 14/11 2023
+O:Ask, Skåne
+M:4/4
+L:1/16
+Q:1/4=80
+K:D
+V:1
+|: "D"FEFA dcde fedc d z (A2|"D"A)BAG FGAB AGFG "A"EFD2|"D"FEFA dcde fedc d z (A2 |
+V:2
+|: DA,DF AEFA dAFE Fz (D2|D)GFE DEFG FEDE CDA,2 |DA,DF AEFA dAFE F z (D2|
+V:1
+"Bm"A)BAG FGAF "A"ECA,F "D"D4 :||: "D"A,DFD A,DFD "A"EDCD EFGA | "Bm"BABc dAFD "A"ECA,C EGFE |
+V:2
+D)GFE DEFD GECA F4 :||: DFAF DFAF GFEF GABc | dcde fdAF  GECE GBAG |
+V:1
+"D"FDA,D FDA,D "Em"EDCD EFGA | "G"BABc dAFD "A"ECA,F "D"D4 :|
+V:2
+AFDF AFDA GFEF GABc | dcde fdAF GECA F4 :|
+

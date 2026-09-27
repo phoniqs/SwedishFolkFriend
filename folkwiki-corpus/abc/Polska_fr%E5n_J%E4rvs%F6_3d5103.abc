@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:404
+T:Polska från Järvsö
+T:(SvL Hälsingland 404)
+S:From-Olle
+S:Ingrid Maria Lindahl
+O:Järvsö, Hälsingland
+R:Polska
+B:Svenska Låtar Hälsingland Nr 404
+Z:[[Personer/Bengt Ohlson]]
+N:"Vid en spelmanstävling i Bollnäs år 1909 antecknades av Nils Andersson följande tre polskor ur en äldre handskriven notsamling, tillhörande Ingrid Maria Lindahl i Nordsjö, Järvö. Maria Lindahl var född 1893 och hade lärt spela av Fritjov Falk i Järvsö och Jonas Andersson i Nordsjö. Hon dog 1915"
+N:"Polskan spelades av From Olle och Tomsa Pelle m. fl. Tomsa Pelles rätta namn var Per Collin. Han var född i Tomsagården i byn Uvås, Järvsö socken, år 1861, reste till Transvaal och dog där."
+L:1/16
+M:3/4
+K:G
+V:1
+|:"^1" (GA)GF (G2A2) (B2c2) | (Bd)BG (Ac)AF G4 | (de)d^c (d2e2) (f2g2) | (fa)fd (eg)e^c d4 :: 
+d2ef (g2f2) (e2d2) | (cB)AB c4 e4 | A2B2 c2cB d2dB | (cA)FA G2D2 (CB,)A,G, | 
+d2ef (g2f2) (e2d2) | (cB)AB c4 e4 | A2B2 c2cA B2BG | (Ac)AF [G,G]8 :| 
+V:2
+|:"^2" (B,C)B,A, (B,2D2) (G2A2) | (GB)GD (FA)FD B,4 | (FG)FE (F2A2) (d2e2) | (df)dA (^ce)cA F4 :: 
+B2cd (e2d2) (c2B2) | (AG)FG A4 c4 | F2G2 A2AG B2BG | (AF)DC B,2G,2 (CB,)A,G, | 
+B2cd (e2d2) (c2B2) | (AG)FG A4 c4 | F2G2 A2AF G2G D | "^Stämförslag B.O." (FA)FD [B,D]8 :|
+

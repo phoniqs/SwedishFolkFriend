@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Jämtland
+T:efter Olle Falk
+S:Olle Falk
+O:Offerdal, Jämtland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Jämtland (6) efter Olle Falk, Offerdal"
+L:1/16
+M:2/4
+K:A
+V:1
+|:"^1" E>DC>E{E} A2A2 | A>c (3(cAc) e2>g2 | f>(ed>)(c d>)EG>B | B>e(ec) c>AAA | 
+E>DC>E{E} A2A2 | A>c (3cAc e2>a2 | g>(fe>)(c d>)EG>B | (3BAA (3cec A4 :: 
+f>edf a2gf | e>cAc e2ec | d>EGB d2d2 | e>cAc e2e2 | 
+f>edf a2gf | e>cAc e2a2 | g>fe>(c d>)EGB | (3BAA (3cec A4 :| 
+V:2
+|:"^2" "A" C>B,A,>C E2E2 | E>A (3AEA c2>e2 |"E7" d>(cB>)(A B>)B,D>G | "A" G>c(cA) A>EEE | 
+C>B,A,>C E2E2 | E>A (3AEA c2>f2 |"E7" e>(dc>)(A B>)B,E>G | "A" (3ECC (3EAE C4 ::
+"D" d>AFd f2ed |"A" c>AEA c2cA | "E7" B>B,EG B2B2 |"A" c>AEA c2c2 |
+"D" d>AFd f2ed |"A" c>AEA c2f2 |"E7" e>dc>(A B>)B,EG | "A" (3E"^Stämförslag B.O."CC (3EAE C4 :|
+

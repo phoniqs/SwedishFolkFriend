@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1016
+T:Brännvinspolska
+T:(SvL Skåne 1016)
+B:Svenska Låtar Skåne Nr 1016
+O:Sjörup, Skåne
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Brännvinspolska. Efter Ola Nilsson Lans, Sjörup. Sv.L. 1016."
+S:Ola Nilsson Lans
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" f2fd e2ec | d2d2 d2 z2 |]:[K:D][M:2/4][K:treble]"^Dans" (DE)FG A2d2 | f2>(e2 (3ded) c2 | 
+B4 BABc | d2G2 A4 | (DE)FG A2d2 | f2>(e2 (3ded) c2 | B4 BABc | d2G2 A4 :: 
+a4 (f2a2) | (ga)gf e2eg | f2fd e2ec | d2A2 F2D2 | 
+a4 (f2a2) | (ga)gf e2eg | f2fd e2ec | d2d2 d2 z2 :| 
+V:2
+"^2" d2dA c2cA | F2F2 F2 z2 |]:[K:D][M:2/4][K:treble] (A,C)DE F2A2 | d2>(c2 B2)A2 | G4 GFGA | 
+B2E2 F4 | (A,C)DE F2A2 | d2>(c2 B2)A2 | G4 GFGA | B2E2 F4 :: "^Efter Ola Nilsson Lans, Sjörup. Sv.L. 1016." f4 (d2f2) | (ef)ed c2ce | d2dA c2cA | 
+ F2F2 D2A,2 | f4 (d2f2) | (ef)ed c2ce | 
+d2dA c2cA | "^Stämförslag B.O." F2F2 F2 z2 :|
+

@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T:Rackelhanen
+R:Polska
+C:Niklas Roswall
+Z:Jesper Brunholm
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+|:(A2 | A)d dc/d/ ed/c/ | d>f ec dA | Ad dc cB/A/ | B>d cA BA | Ad dc/d/ ed/c/ | d>f ec df |
+ g>b af df | ed/c/ d3 (A :: A)a af/a/ ba | g2 gf/g/ ae | f>a gf ed | e>d c/e/d/B/ c(A |
+ A)a af/a/ ba | g2 gf/g/ ae | f>a gf ed | (c/d/)e/a/ fe/d/ Ad/c/ | B/A/c/e/ d3 d :|
+

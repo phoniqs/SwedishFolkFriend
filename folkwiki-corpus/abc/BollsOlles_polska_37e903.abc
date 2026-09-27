@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Bolls-Olles polska
+T:Hambopolska
+C:Olov Olsson
+O:Knisselbo, Hälsingland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Olov Olsson, Knisselbo, Hälsingland."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1"v D>G B2 B2 | G>B d2 d2 | e>d (c>B) c>uc | d>c (B>A) G2 | 
+D>G B2 B2 | G>B d2 d2 | e>d (c>A) F>uF | G2 G4 ::
+v g>f e2 e>ue | f>e d2 d2 | e>d (c>B) c>uc | d>c (B>A) G2 | 
+g>f e2 e>ue | f>e d2 d2 | e>d (c>A) F>uF | G2 G4 :| 
+V:2
+|:"^2""G" B,>D G2 G2 | D>G B2 B2 |"D7" c>B (A>G) A>A | "G" B>A (G>D) B,2 | 
+B,>D G2 G2 | D>G B2 B2 | "D7" c>B (A>F) D>C |"G" B,2 B,4 ::
+"C" e>d c2 c>c |"G" d>c B2 B2 |"D7" c>B (A>G) A>A | "G"B>A (G>D) B,2 |
+"C" e>d c2 c>c |"G" d>c B2 B2 |"D7" c>B"^Stämförslag B.O."  (A>F)D>C | "G" B,2 B,4 :|
+

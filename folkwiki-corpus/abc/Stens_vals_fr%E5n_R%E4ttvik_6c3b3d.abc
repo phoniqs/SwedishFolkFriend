@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Stens vals från Rättvik
+R:Vals
+O:Rättvik, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Allm. version."
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" A2 |: F>(G FE) FG | (A2 F2) D2 | G3 FGA | B4 d2 | c>(d cB) cd | 
+(e2 c2) A2 | d3 cde | (fe) (dc) BA | F>(G FE) FG | (A2 F2) D2 | 
+G3 FGA | B4 d2 | c>(d cB) cd | e2 (cA) ce | d3 edc |1 d4 A2 :|2 
+d3 efg |: a2 (a3 g) | (f2 g2) a2 | b2 (b3 a) | g3 agf | e2 (e3 !>!e) | 
+(e2 f2) g2 | b2 (a^g) ab | a3 bag | f2 (dc) de | d3 edc | B2 (GF) GA | 
+G4 B2 | A2 (AB) cd | (ef) (ge) ce | d3 edc |1 d3 efg :|2 d4 z2 |] 
+V:2
+"^2" F2 |: D3 CDE | (F2 D2) =C2 | B,3 A,B,D | G4 B2 | A3 ^GAB | 
+(c2 A2) G2 | F3 EFA | (dc) (BA) GF | D3 CDE | (F2 D2) =C2 | 
+B,3 A,B,D | G4 B2 | A3 ^GAB | (c2 A2) G2 | F3 GFE |1 F4 F2 :|2 
+F3 cde |: f2 (f3 e) | (d2 c2) =c2 | g2 (g3 f) | e3 fed | c2 (c3 B) | (A2 c2) e2 | 
+g2 (fe) fg | f3 gfe | d2 (FE) FG | F3 cBA | G2 (B,A,) B,C | B,4 G2 | 
+E2 (EG) AB | (cd) (ec) AG | F3 GFE |1 F3 cde"^B.O." :|2 F4 z2 |]
+

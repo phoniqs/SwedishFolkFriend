@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:41
+T:Tretur Nr 5
+T:(Gamla Dansar i Skåne)
+O:Lerberget, Skåne
+R:Engelska
+S:Per Christiansson
+B:Gamla Dansar i Skåne
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Tretur (5) efter Pehr Christiansson, Lerberget. Mandelgrens saml." 
+L:1/16
+M:2/4
+K:F
+V:1
+"^1""^Förspel" bg | e2e2 e2ge | (fa)ge f2 |][K:F][M:2/4][K:treble]"^Dans" AB |: c2fd c2Ac | 
+(BA)Bd c2af | e2fd c2dB |1 (Ac)BG F2 AB :|2 (Ac)BG F2 bg |: 
+e2e2 e2ge | f2f2 f2bg | e2e2 e2ge |1 (fa)ge f2 bg :|2 (fa)ge f2 z2 |] 
+V:2
+"^2" ge | c2c2 B2cB | (Ac)BG A2 |][K:F][M:2/4][K:treble] FG |: A2dB A2FA | 
+"^Efter Pehr Christiansson, Lerberget.""^Mandelgrens saml." (GF)GB A2fd | c2dB A2BG |1 (FA)EC A,2 FG :|2 (FA)EC A,2 ge |: 
+c2c2 B2cB | A2A2 A2ge | c2c2 B2cB |1 (Ac)BG A2 ge :|2"^Stämförslag B.O." (Ac)BG A2 z2 |]
+

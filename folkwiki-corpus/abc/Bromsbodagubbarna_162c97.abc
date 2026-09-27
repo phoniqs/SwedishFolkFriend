@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Bromsbodagubbarna
+C:Lars Erik Jansson
+O:Upplands Väsby, Uppland
+Z:[[Personer/Bengt Ohlson]]
+N:"Ett jaktlag om fyra kluriga gubbar på hemskogen..."
+R:Schottis
+L:1/8
+M:2/2
+K:C
+V:1
+"^1""^Schottis" e<(ed/) |: "C" (d>c)(c>B)"^Ett jaktlag om fyra kluriga gubbar på hemskogen . . ." (B>A)(A>G) | "F" G>FA>F"Dm" (D>E)D>C |"G7" B,>G,(B,>D) G2 (GF) |
+"C" (E>F)"G7"D>E"C" C2 (e>d) | (d>c)(c>B) (B>A)(A>G) |"F" G>FA>F"Dm" (D>E)D>C | 
+"G7" B,>G,(B,>D) (G>B)(d>B) |1 "C"c2 c2 c>e(e>d) :|2 "C" c2 c2 c2"C7" c>_B |:
+[K:F]"F" A>FA>c f2 f>e |"Gm" e>dd>B G2 (G>F) |"C7" E>CE>G c2 (c>B) | "F" A>B"C7"G>A"F" F2"C7" (c>B) |
+"F" A>FA>c f2 f>e |"Gm" e>dd>B G2 (G>F) | "C7" E>C(E>G) (c>B)G>E |1"F" F2 F2 F2 (c>B) :|2,8
+[K:C]"F" F2 F2 F>e(e>d) |"C" c2 c2 c3 z |: [K:F]"F" (3(fef) a>g f>ed>c |
+"Bb" (3(BAB) d>c B>AG>F |"C7" E>CE>G c2 c>B |"F" (A>B)A>G GF F2 | (3(fef) a>g f>ed>c |
+"Bb" (3(BAB) d>c B>AG>F |"C7" E>CE>G c>BG>E |1 "F" F2 A2 F3 z :|2 "F" F2 A2 F>ee>d |:
+[K:C]"C" (d>c)(c>_B) (B>A)(A>G) |"F" G>FA>F"Dm" D>ED>C | "G7" _B,>G,(B,>D) G2 (GF) | 
+"C" (E>F)"G7"D>E "C"C2 (e>d) | (d>c)(c>_B) (B>A)(A>G) |"F" G>FA>F"Dm" (D>E)D>C | 
+"G7"_B,>G,(B,>D) (G>_B)(d>B) |1 "C"c2 c2 c2 e>d :|2 "C"c2 c2 c3 z |]
+

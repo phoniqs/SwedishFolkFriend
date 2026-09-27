@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Erkgärds Mats
+S:Efter Erkgärds Mats Ersson
+O:Malung, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" A>(B c>)(d e>)f | (3gab a2 g>f | d>(c (3d)ef g>a | f>(d e)c A2 | 
+A>(B c>)(d e>)f | (3gab a2 g>f | d>(c (3d)ef g>a | (3fdf e4 ::
+[K:C] e>a ^g^f/g/ a2 | ^f>(e d>)(^c (3d)(ef) | e2 ^c>(B A>)^G | (3AB^c [A,E]4 | 
+e>a ^g^f/g/ a2 | ^f>(e d>)(^c (3d)(ef) | e2 ^c>(B A>)^G | (3AB^c A4 :| 
+V:2
+|:"^2" C>(E A>)(B c>)d | (3efg f2 e>d | B>(A (3B)cd e>f | d>(B c)A E2 | 
+C>(E A>)(B c>)d | (3efg f2 e>d | B>(A (3B)cd e>f | (3dBd c4 ::
+[K:C] ^c>e d^c/d/ =c2 | d>(A ^F>)(E (3F)(Ad) | ^c2 A>(E ^C>)B, | (3^CDE C4 | 
+A>^c BA/B/ c2 | A>(^G ^F>)(E (3F)(GA) | ^G2 E>(D ^C>)B,"^Stämförslag B.O." | (3^CDE C4 :|
+

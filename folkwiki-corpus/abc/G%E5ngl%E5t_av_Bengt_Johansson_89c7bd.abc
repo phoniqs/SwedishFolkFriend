@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt av Bengt Johansson
+C:Bengt Johansson
+O:Falun, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bengt Johansson (1919- 1991), Ryggen, Falun."
+Z:Stämma [[Personer/Brodd-Albin Johansson]]
+L:1/16
+M:2/4
+K:D
+V:1
+A2 |: d4 (fe)dc | d2D2 F2B2 | A2>G2 F2G2 | E4 (Ac)eg | b2>a2 a2f2 | a2>g2 e2c2 | d4 (fe)dc | 
+d2A2 F2D2 | (GB)(dB) (GB)(dB) | (FA)(dA) (FA)(dA) | (EA)ce (ge)ce | d4 (AF)DF | 
+(GB)(dB) (GB)(dB) | (FA)(dA) (FA)(dA) | (EA)ce (ge)ce |1 d6 A2 :|2 d6 (dc) |: 
+B2D2 G2b2 | g2{a}gf g2fe | d2D2 F2B2 | A4 (Ac)eg | b2>a2 a2f2 | (a2ba) (g2e2) | 
+b2>a2 a2f2 | d4 (fe)dc | B2D2 G2b2 | g2{a}gf g2fe | d2D2 F2B2 | A6 D2 | 
+(GB)(dB) (GB)(dB) | (DF)(Ad) (fd)(AF) | (EA)ce (gf)ec |1 d6 (dc) :|2 d6 z2 |] 
+V:2
+"^2" A,2 |: [FA]4 (!>![GA]2!>![GA]2) | [FA]2A,2 D2G2 | [FA]2>[EA]2 [DA]2[EA]2 | C2A,C (EA)ce | 
+[Ag]2>f2 f2d2 | [Af]2>e2 c2A2 | [FA]4 (DE)FG | [FA]2G,2 D2F2 | (DG)BG (dG)(BG) | 
+(DF)AF (cF)(AF) | (CE)Ac ecAG | F2AF (!>!D2!>!C2) | (B,D)GD (B,D)(GD) | (A,D)FD (A,D)(FD) | (CE)Ac eGAG |1 F2AF (D2A,2) :|2 F2AF D2BA |: 
+G2G,A, B,2GA | B2cd (eA)Bc | d2AB (A2G2) | (FG)FE FAce | g2>f2 f2d2 | (f2gf) e2c2 | 
+g2>f2 f2d2 | (AB)AG FGFE | D2G,A, B,2GA | B2cd (eA)Bc | d2AB (A2G2) | F2>E2 D2C2 | 
+(B,D)GD (B,D)(GD) | (A,D)FA (dA)(FD) | "^Stämma: Brodd Albin." (CE)Ac edcA |1  [FA]6 (BA) :|2 [FA]6 z2 |]
+

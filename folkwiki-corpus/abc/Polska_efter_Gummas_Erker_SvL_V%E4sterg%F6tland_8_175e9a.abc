@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:8
+T:Polska efter Gummas Erker (SvL Västergötland 8)
+R:Polska
+O:Fägre, Västergötland
+B:Svenska Låtar Västergötland
+S:Gummas Erker
+S:Anton Lund
+N:SvL: Lund hade polskan från Gummas Erker, en spelman i Fägre socken, även kallad Erker i Lia.
+N:Låten är en variant av 'Vi ska ställa till en roliger dans', jfr Hakberg nr 47.
+M:3/4
+L:1/8
+K:G
+v[G,DBg]z vd4|e>d (B3 c/B/)|A>B c>d e>f|(g/a/g/f/) g>a b>a|
+[Bg]z d4|e>d (B3 c/B/)|A>B c>d e>c|(A/c/A/F/) G4:|
+|:G>A B2 B2|((B{cB})A/B/) c>B G2|F>B d2 d2|((d{ed})^c/d/) e>d B(=c/B/|A>)B G4:|
+

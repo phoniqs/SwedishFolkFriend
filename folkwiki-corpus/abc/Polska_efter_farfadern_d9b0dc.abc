@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:5
+T:Polska efter farfadern
+T:(SvL Hälsingland 5)
+R:Polska
+O:Hassela, Hälsingland
+S:Jon-Erik Hall
+B:Svenska låtar Hälsingland nr 5
+Z:Karin Helander
+N:Svenska låtar har, utöver denna "huvudnot", även 4 olika varianter av olika enskilda takter.
+M:3/4
+L:1/16
+K:Dm
+V:1
+vD3D F2DF (A4 | A2)=B^c d2ef A3(_B | A3)G F4 E2{FG}D2 | ^C2D2 !tenuto!E2!tenuto!F2 [EA,]4 | 
+D3D F2DF (A4 | A2)=B^c d2ef A3(_B | A3)G F4 (E2{FE})D2 |1 (F>E)D^C D8 :|2 
+(F>E)D^C D6 e2 |:  !segno! (f/g/a3) (e/f/g3) d3(f | e3)d (d^c)(ec) A3(B  | A3)G F4 !trill! (E3{FE})D | 
+^C2D2 !tenuto!E2!tenuto!F2 [GG,]4 | {e}f2ga e2fg d2fe |1 (A^c)ec [dD]6 e2 :|2 (A^c)ec !fine! [dD]6 =B2 |] [K:C]
+|: c3B !tenuto!c2!tenuto!d2 e2c2 | (B2{cB})A2 ^G2A2 [BE]4 | {B}c4 (cA3) cBA^G | A3A !tenuto!E!tenuto!C3 A,4 | 
+c3B !tenuto!c2!tenuto!d2 e2c2 | (B2{cB})A2 ^G2A2 [BE]4 | {B}c4 (cA3) (cB)A^G |1 A4 [AA,]4 z2 =B2 :|2 A4 [AA,]4 z2 !D.S.! e2 |]
+

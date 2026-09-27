@@ -1,0 +1,37 @@
+%%abc-charset utf-8
+
+X:1
+T:Till Landskrona
+R:Svingedans
+Z:Patrik Månsson, 2023-07-20
+O:Skåne
+Q:1/4=108
+S:efter Carin Hallberg, Eslöv
+M:3/4
+L:1/8
+K:G
+V:1
+|: "G"d>B G2 G2 | B>G "am"E2 E2 | "D"c>A F2 F2 | "C"e>d "G"B2 B2 |
+w: Till Lands-kro-na vill jag fa-ra Där finns tö-ser som är ra-ra
+w:Närja kom fram blev ja så gla-der där stod tö-ser'i lån-ga rad-er
+w:När jag res-te från Lands-kro-na ha'd ja nä-ra slitt opp skor-na
+V:2
+|: B>G D2 B,2 | G>E C2 C2 | A>F D2 D2 | c>B G2 G2 |
+V:1
+ d>B G2 G2 | B>G "am"E2 E2 | "D"c>A F2 F2 | "G"G2 G2 z2 :|
+w:vack-ra ög-on ger dom kar-lar som hos dom vill va-ra
+w:med kransar ut av blom och bla-der ut i fle-ra la-ger
+w:dan-sens virv-lar fick jag so-na skomag-arn fick'min siste kro-na
+V:2
+B>G D2 B,2 | G>E C2 C2 | A>F D2 C2 | [D B,]2 [D B,]2 z2 :|
+V:1
+|: "C"E>F G2 E2 | "G"D>F G2 G2 | "D"F>A c2 A>F | "G"G>B d2 B2 |
+w:Tra-la-la-la Tra-la-la-la Tra-la-la-la-la Tra-la-la-la
+V:2
+|: C>D E2 C2 | B,>D B,2 B,2 | D>F A2 F>D | D>G B2 G2 |
+V:1
+"C"E>F G2 E2 | "G"D>F G2 G2 | "D"F>A A<c A>F | "G"G2 G2 z2 :|
+w:Tra-la-la-la Tra-la-la-la Tra-la-la-la-la Tra-la
+V:2
+C>D E2 C2 | B,>D B,2 B,2 | D>F F<A F>D | C2 [D B,]2 z2 :|
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Kristoffers schottis
+S:Kristoffer Galin
+O:Norrbygden, Tåsjö, Ångermanland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Kristoffer Galin, Norrbygden, Tåsjö."
+L:1/16
+Q:1/4=84
+M:2/4
+K:G
+V:1
+"^1" d2 |: ed (3(BdB) G2Bd | (3(ded) cB A2Ac | d2d2 AcBA | GGBd g2>d2 | 
+ed (3(BdB) G2Bd | (3(ded) cB A2Ac | d2d2 (Ac)BA |1 A2GG G2>d2 :|2 A2GG G2>B,2 |: 
+(B,D)GD B,2DG | C2 (3(EGE) C2(EG) | D2 (3(FAF) D2(FA) | G2(BG) D2>B,2 | 
+(B,D)GD B,2DG | C2 (3(EGE) C2(EG) | D2 (3(FAF) D2(FA) |1 G2B2 G2>B,2 :|2 G2B2 G3 z |] 
+V:2
+"^2" G2 |: "G" B2G2 B,2DG | "D7" B2A2 F2FE | F2F2 D2DC | "G" B,2DG B2>G2 | 
+B2G2 B,2DG | "D7" B2A2 F2FE | F2F2 D2DC |1 "G" C2B,B, B,2>G2 :|2 "G" C2B,B, B,2>G,2 |:
+"G" G,2B,2 G,2B,D |"C" A,2C2 A,2(CE) |"D7" A,2D2 A,2(DC) | "G" B,2(GD) B,2>G,2 | 
+G,2B,2 G,2(B,D) |"C" A,2C2 A,2(CE) |"D7" A,2D2 A,2(DC) |1 "G" B,2D2 B,2>G,2 :|2"G" B,2"^B.O."D2 B,3 z |]
+

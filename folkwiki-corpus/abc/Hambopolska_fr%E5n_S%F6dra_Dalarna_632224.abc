@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska från Södra Dalarna
+T:efter Per Wilhelm Bergström
+S:Per Wilhelm Bergström
+O:Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(11) Hambo-polska från Södra Dalarna efter P.W. Bergström, Matsbo, Hedemora."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" G2 (G>F) G>B | d2 (d>B) G>B | g2 (g>e) c>e | e2 (d>B) G>D | 
+G2 (G>F) G>B | d2 (d>B) G>B | g2 (g>e) c>e | e2 d4 ::
+[K:Bb] G2 (G>^F) G>B | A2 (A>^F) D>A | d2 (d>c) A>c | B2 (A>^F) G>D | 
+G2 (G>^F) G>B | A2 (A>^F) D>A | d2 (d>c) A>B | A2 G4 :| 
+V:2
+|:"^2""G" B,2 (B,>A,) B,>G | B2 (B>G) D>G |"C" c2 (c>G) E>G |"G" c2 (B>G) D>A, | 
+B,2 (B,>A,) B,>G | B2 (B>G) D>G |"C" c2 (c>G) E>G |"C" c2"G" B4 :: 
+[K:Bb]"Gm" B,2 (B,>A,) B,>D |"D7" ^F2 (F>D) A,>D | A2 (A>^F) D>F |"Gm" G2 "D7" (D>C) "Gm" B,>A, | 
+B,2 (B,>A,) B,>D |"D7"  ^F2 (F>D) A,>D | "^Stämförslag B.O."^F2 (F>D) C>D |"D7" C2"Gm" B,4 :|
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:74
+T:Monfarino
+T:(Sv Folkdanser Del 1)
+R:Engelska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 74. Monfarino"
+Z:http://runeberg.org/folkdans/besk/0241.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 74
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" bg gf/g/ | af fe/f/ | gA ce | d3 |] 
+[K:D][M:2/4][K:treble]"^Dans" A/d/ |: fd dA/d/ | fd dc/d/ | ee a>g | (f/g/)f/e/ dA/d/ | 
+fd dA/d/ | fd/d/ dc/d/ | ee aa |1 d3 A/d/ :|2 d3 c/d/ | 
+ee a>g | (f/g/)f/e/ dc/d/ | ee a>g | (f/g/)f/e/ d2 |
+{g} bg "^Önskat antal ggr.  Förslagsvis 3 ggr."gf/g/ | af fe/f/ | gA ce | (d/e/)f/g/ a2 | 
+{g} bg gf/g/ | af fe/f/ | gA ce | d3 z |] 
+V:2
+"^2" "G"ge ed/e/ | "D" fd dc/d/ | "A7" cE AG |"D" F3 |]
+[K:D][M:2/4][K:treble] F/A/ |: "D" dA AF/A/ | dA AG/A/ | "A7" cc c>e |"D" (d/e/)d/A/ FF/A/ | 
+dA AF/A/ | dA/A/ AG/A/ |"A7" cc cc |1"D" F3 F/A/ :|2"D" F3 A/B/ | 
+"A7" cc c>e |"D" (d/e/)d/A/ FA/B/ |"A7" cc c>e |"D" (d/e/)d/A/ F2 | 
+"G" dB BA/B/ |"D" fd dc/d/ |"A7" eE AG | "D" (F/A/)d/e/ f2 |
+"G" dB BA/B/ |"D" fd dc/d/ |"A7" e"^Stämförslag B.O."E AG |"D" F3 z |]
+

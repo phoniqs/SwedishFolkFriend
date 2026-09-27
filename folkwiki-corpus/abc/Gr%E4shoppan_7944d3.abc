@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:3
+T:Gräshoppan
+O:Röke, Skåne
+C:Lennart Thörn
+R:Schottis
+%%score 1 2
+L:1/16
+Q:1/4=76
+M:2/4
+K:G
+V:1 treble nm="Violin 1" snm="Vln.1"
+V:2 treble nm="Violin 2" snm="Vln.2"
+V:1
+Bc |: d2dc (Bc)de | c2cB A2AB | c2cB (AB)cd | B2BA G2Bc | d2dc (Bc)de | c2cB A2ce | 
+(ed)Bd (dc)AF |1 G2B2 G2Bc :|2 G2B2 G2Bc |: d2d2 g2g^f | (e^f)ed c2cd | e2e2 a2ag | 
+(ff)fe d2Bc | d2d2 e2ed | (cd)cB A2ce | (ed)Bd (dc)AF |1 G2B2 G2Bc :|2 G2B2 G2 z2"^D.C." |] 
+V:2
+GA |: B2D2 (GA)Bc | A2D2 F2FG | A2D2 (EF)GA | G2D2 B2GA | B2D2 (GA)Bc | A2D2 F2Ac | B2G2 F2DC |1 
+B,2D2 B,2GA :|2 B,2D2 B,2GA |: B2B2 B2BA | (GA)G^F E2EF | G2c2 ^c2cB | (AB)AG F2DE |
+ F2F2 ^G2GF | (EF)ED C2Ec | B2G2 (FE)DC |1 B,2D2 B,2GA :|2 B,2D2 B,2 z2 |] 
+

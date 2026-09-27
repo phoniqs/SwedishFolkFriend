@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:530
+T:Polska efter Axel Axelsson, efter Strandberg
+T:(OA 530)
+B:Sörmländska låtar samlade av Olof Andersson nr 530
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:Efter en skräddare och spelman från Odensberga i Runtuna som hette Strandberg, död sedan länge.
+Z:Anders Larsson 2025-04-19
+M:3/4
+L:1/4
+Q:90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+D/ | D/>G/ (B/4c/4)B/4A/4 B/>d/ | B/>d/ (d/4e/4)d/4c/4 B/>d/ | d/>e/ (e/4f/4)e/4d/4 c/g/ |  f/>g/ (a/4b/4)a/4f/4 d/ ::
+d/ | d/>g/ e/e/ e/e/ | g/g/4e/4 a/a/4f/4 d/>d/ |  d/>g/ e/e/ e/e/ | g/g/4e/4 a/f/4a/4 g/>e/ | e/>d/ B/B/ c/A/ | (B/4A/4)G/4F/4 G3/2 :|
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Idre
+S:Efter Storbo Jöns
+O:Idre, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Idre  (1)"
+L:1/16
+Q:1/4=60
+M:2/4
+K:Dm
+V:1
+|:"^1" a>age{fg} f2ed | ^c2A2 A4 | A>=B^cd e2{ef}e2 | (d>^c)df a4 | 
+a>age{fg} f2ed | ^c2A2 A4 | A>=B^cd (e>f)ec | d2d2 [Fd]4 :: 
+f2fg{fg} f2ed | e2a2{b} a2ge | f2fg{fg} f2ed | e2e^c A2A2 | 
+f2fg{fg} f2ed | e2a2{b} a2ge | f2df e2A^c | d2d2 [Fd]4 :: 
+d2d2({e} d^c)ed | ^c2A>A A>bag | f2fg f2af |{fg} f2e^c (!>!A2!>!A2) |
+d2d2({e} d^c)ed | ^c2A>A A>bag | f2df e2A^c | d2d2 [Fd]4 :| 
+V:2
+|:"^2""Dm" f2e^c d2AF |"A7" E2^C2 C4 | E2A=B ^c2c2 |"Dm" F2Fd f4 | 
+f2e^c d2AF |"A7" E2^C2 C4 | E2A=B ^c2cA |"Dm" F2F2 [FA]4 ::
+"Dm" d2de d2AF |"A7" A2^c2 c2ec |"Dm" d2de d2AF | "A7" ^c2cA E2^C2 |
+"Dm" d2de d2AF |"A7" A2^c2 c2ec |"Dm" d2Ad"A7" ^c2AG |"Dm" F2F2 [FA]4 :: 
+"Dm" F2F2 (FE)GF |"A7" E2^C>C C>gfe |"Dm" d2de d2fd |"A7" d2^cA (!>!^C2!>!C2) |
+"Dm" F2F2 (FE)GF |"A7" E2"^Stämförslag B.O."^C>C C>gfe |"Dm" d2Ad"A7" ^c2AG |"Dm" F2F2 [FA]4 :|
+

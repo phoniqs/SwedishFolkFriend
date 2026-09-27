@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1363
+T:Spelfasters polska
+T:(SvL Dalarna 1363)
+S:Vilhelm Hedlund
+B:Svenska Låtar Dalarna Nr 1363
+O:Enviken, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"3. Polska från Enviken. Spel-fasters polska"
+Z:"Polskan skall ha spelats av Hedlunds farfars-fars faster"
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" (Ad)({de} d/>e/d/^c/) de | (fa/f/) e2 d^c | (e^c) A4 :: 
+(Aa) a2 a(g/a/) | (ba) a2 f>d | (^ce) g3 (e | 
+f)e/f/ (af) f>f | (fe) e2 A^c | (^cd) d4 :| 
+V:2
+|:"^2" (DF) F2 FG | (Ad/A/) G2 FE | (GE) [^CE]4 :: 
+(df) f2 f(e/f/) | (gf) f2 d>A | (GA) ^c3 (c | 
+d)^c/d/ (fd) d>A | (AG) G2 EG | (GF)"^B.O." F4 :| 
+

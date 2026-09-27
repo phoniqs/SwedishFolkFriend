@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Anna-Gretas vals
+T:(Andrastämman)
+C:Greta Skoglund
+O:Ilsbo, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Greta Skoglund."
+L:1/8
+M:3/4
+K:G
+V:2
+"^2" GA^A |:"G" B2 D2 GB |"C" e2 d2 c2 |"G" c2 B^A Bc | B4 c2 |"D7" B2 A3 ^G | A4 B2 | "G" A2 G3 A | B3 GA^A | 
+B2 D2 GB |"C" e2 d2 c2 |"G" c2 B^A B=A |"E7" ^G4 G2 |"Am" A2 E2 G2 | "D7" A2 F2 D2 |"G" B,3 B B2 |1,8"G" B3 GA^A :|2"G" B3 ed^c |:
+"C" c2 B2 c2 | e2 d2 c2 | "G" B2 B3 A | G4 B2 |"D7" A2 A3 G | F4 A2 |"G" G2 A2 ^A2 | B3 ed^c |"C" c2 B2 c2 | 
+e2 d2 c2 | "G" B2 B3 A |"E7" ^G4 G2 |"Am" A2 A3 E |"D7" C3 A,CD |"G" B,3 CB,A, |1"G" [B,D]3 ed^c :|2 "G" [B,D]3 GA^A |
+"G" B2 D2 GB |"C" e2 d2 c2 |"G" c2 B^A Bc | B4 c2 |"D7" B2 A3 ^G | A4 B2 | "G" A2 G3 A | 
+B3 GA^A | B2 D2 GB |"C" e2 d2 c2 |"G" c2 B^A B=A |"E7" ^G4 G2 |"Am" A2 E2 G2 | "D7" A2 F2 D2 |"G" B,3 B B2 | B3 ee=f |]:
+"C" e2 c2 E2 | E3 ee=f |"G" d2 B2 D2 | G3 FFA | "D7" d2 A2 F2 | A2 F2 D2 |"G" B,2 B,D GA | B3 ee=f |
+"C" e2 c2 E2 | E3 ee=f |"G" d2 B2 D2 | G3 FFA |"D7" d2 A2 F2 | A2 F2 D2 | "G" B,3 B B2 |1"G" B3"^Stämförslag B.O." ee=f :|2"G" B3 |]
+

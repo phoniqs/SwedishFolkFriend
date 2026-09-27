@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Urmulagöken
+T:Schottis
+O:Upplands Väsby, Uppland
+R:Schottis
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+N:"Erhöll 1:a pris vid Upplands-schottis kompositionstävling år 1975."
+L:1/8
+M:2/2
+K:F
+V:1
+"^1" C2 |: "F" F>A,(C>F) "^Erhöll 1:a pris vid Upplands-schottis" "^kompositionstävling år 1975." A>G(F>A) |  c>A(c>f) A3 c | "C7"  (3(BAB) d>B C2 (E>G) | "F"G>F(A>F) C>B,(A,>C) | 
+F>A,(C>F) A>G(F>A) | c>A(c>f) A3 c | "C7"(3(BAB) d>B (C>E)(G>E) |1 "F"F2 F2 F2 C2 :|2 "F"F2 F2 F4 |: 
+"F" f2 a2 c3 B | A2 (A>B) (AG) F2 | "C7"G,>C(E>G) B>C(E>G) | "F"(F>A,)(C>F) (AB) c2 | 
+f2 a2 c3 B | A2 (A>B) (AG) F2 | "C7" G,>C(E>G) B>C(E>G) |1 "F" F2 A2 F4 :|2 "F"F2 A2 F3 A |: 
+[K:C]"G7" G>_B(B>c) (B>A)(G>F) |"C" (E>C)(E>G) c2 c2 |"G7" _B>G(B>d) f>d(B>d) | "C" d>c(c>e) g4 |
+"G7" G>_B(B>c) B>A(G>F) |"C" (E>C)(E>G) c2 c2 |"G7" _B>G(B>d) f>d(B>d) |1 "C" c2 c2 c2 A2 :|2"C" c2 c2 c4 |
+[K:F] "F"f2 a2 c3 B | A2 (A>B) (AG) F2 | "C7"G,>C(E>G) B>C(E>G) | "F"(F>A,)(C>F) (AB) c2 | 
+f2 a2 c3 B | A2 (A>B) (AG) F2 | "C7" G,>C(E>G) B>C(E>G) | "F"F2 A2 F2 z2 |]
+

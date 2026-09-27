@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Vimmerby-hambo
+C:Eric Öst
+R:Hambo
+O:Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Eric Öst."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (d/e/d/^c/) (d>g) B>e | d>G B3 d | (3dc'a (3faf (3def | (3gba (3gfe d2 | 
+(d/e/d/^c/) (d>g) B>e | d>G B3 d | (3dc'a (3faf (3def | g z g3 z ::
+[K:D] (3A^GA (3ABc (3de^e | f>c (d>b) a2 | (3a^ga (3c'ba (3=gfe | 
+(3dcd (3fdB A2 | (3A^GA (3ABc (3de^e | f>c d>b a2 | (3a^ga (3c'ba (3=gfe | d z d3 z ::
+[K:G][K:C] (3Gce (3g^fe (3dcB | (3Ad^f (3agf (3edc | (3Bd^f (3bag (3fed | (3ced (3cBA G2 | 
+(3Gce (3g^fe (3dcB | (3Ad^f (3agf (3edc | (3Bd^f (3bag (3fed | c z c3 z :| 
+V:2
+|:"^2" (B/c/B/A/) (B>d) G>c | B>D G3 A | (3Aaf (3dfd (3Acd | (3Bgf (3edc B2 | 
+(B/c/B/A/) (B>d) G>c | B>D G3 A | (3Aaf (3dfd (3Acd | B z B3 z ::
+[K:D] (3E_E=E (3EFG (3ABc | d>F (A>g) f2 | (3e^de (3agf (3ecA | (3FEF (3dBG F2 | 
+(3E_E=E (3EFG (3ABc | d>F (A>g) f2 | (3e^de (3agf (3ecA | F z F3 z ::
+[K:G][K:C] (3EGc (3edc (3BAG | (3^FAd (3^fed (3cBA | (3GBd (3g^fe (3dBG | (3GcB (3AG^F E2 | 
+(3EGc (3edc (3BAG | (3^FAd (3^fed (3cBA | (3GBd (3g^fe (3dBG |"^Stämförslag B.O." E z E3 z :|
+

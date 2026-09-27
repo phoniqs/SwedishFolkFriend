@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Transtrand efter Omas Ludvig
+S:Efter Omas Ludvig Larsson
+O:Transtrand, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:Dm
+V:1
+|:"^1"{ab} a>g a2 A2 | g/a/g/f/ f2 A2 | f2 e>(d ^c>)A | (^c<e) tdtc A2 | 
+{ab} a>g a2 A2 | g/a/g/f/ f2 A2 | f2 e>(d ^c>)A | (^c<e) d4 ::
+{^c} d>(e f2) e>d | (^c<e) A3 ^F | D>(E F2) E>D | ^C<D EC D>^c |
+ d>(e f2) e>d | ^c<e A3 ^F | D>(E F2) E>D | ^C<E D4 :| 
+V:2
+|:"^2"{fg} f>e f2 F2 | e/f/e/d/ d2 F2 | d2 ^c>B A>E | E<G tFtE ^C2 |
+{fg} f>e f2 F2 | e/f/e/d/ d2 F2 | A2 G>F E>^C | E<G F4 ::
+{E} F>(A d2) ^c>=B | A<^c E3 A | F>(A d2) A>F | E<F GE F>E |
+ F>(A d2) ^c>=B | A<^c E3 A | F>(A d2) A>F |"^Stämförslag B.O." E<G F4 :|
+

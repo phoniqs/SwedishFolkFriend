@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Säckpipslåt efter Jont Lars Olsson
+S:Jont Lars Olsson
+O:Nås, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" A2 (d>^c) A>c | e2 (g>e) f2 | a2 (g>f) e>d | ^c2 d4 :: 
+d2 a>f a>f | a2 a>g e2 | g2 (g>e) f>d | e2 e>^c A2 | 
+d2 (d>^c) A>c | e2 g>e f2 | a2 (g>f) e>d | ^c2 d4 :| 
+V:2
+|:"^2" D2 F>E ^C>E | A2 ^c>A d2 | ^c2 (=B>A) G>F | E2 [FA]4 :: 
+A2 f>d f>d | f2 f>e ^c2 | e2 (e>^c) d>=B | ^c2 c>A E2 | 
+F2 (F>E) ^C>E | A2 ^c>A d2 | ^c2 (=B>A) G>"^Stämförslag B.O."F | E2 [FA]4 :|
+

@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Nianforslåten
+T:(andrastämman)
+C:Nisse Damberg
+O:Iggesund, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:Kan vara (C) Iggesundsgänget
+L:1/8
+M:2/4
+K:G
+V:2
+"^2" D |:"G" D>G, B,D | GG/D/ (B,G) | BA/B/ (cG) |"D7" (A/B/)A/G/ (FD) | 
+CA, D>F | A>A- A/G/F | AG/F/ (FD) | "G" (D/E/)D/C/ (B,D) | 
+D>G, B,D | GG/D/ (B,G) | BA/B/ (cG) |"D7" (A/B/)A/G/ (FD) | 
+CA, D>F | A>A- A/G/F | AG/F/ (FD) |1,8"G" B,3 D :|2"G" B,3 B, |:
+"G" B,>D GB | (B/d/)d/B/ (GD) | BA/B/ (cG) |"D7" (A/B/)A/G/ (FD) | 
+CA, D>F | A>A- A/G/F | AG/F/ (DD) | "G" (D/E/)D/C/ (B,B,) | 
+B,>D GB | (B/d/)d/B/ (GD) | BA/B/ (cG) |"D7" (A/B/)A/G/ (FD) | 
+CA, D>F | A>A- A/G/F | AG/F/ (DA,) |1 "G" B,3 B, :|2"G" B,3 A, |:
+"Em" G,>B, EF | GF/G/ (AG) |"B7" FF/G/ (F^D) |"Em" EB, G,G, | 
+G,>B, EF | GF/G/ (AG) | "B7" FF/G/ (F^D) |1 "Em" EB, G,G, :|2 "Em" EB, C"^B.O." z |]
+

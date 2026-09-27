@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Ulf Andersson
+C:Ulf Andersson
+O:Föllinge, Jämtland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Passande dans: Gammelpolska efter Ernst Grip"
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" (D>F) [FA]>([EA] [FA]>)A | A>d (3faf (3dAF | ([A,E]>[CE]) [EA]>([DA] [EA]>)[EA] | D>F (3FEF (3BAF | 
+(D>F) [FA]>([EA] [FA]>)A | A>d (3faf (3dAF | ([A,E]>[CE]) [EA]>([DA] [EA]>)[EA] ||1 (3[DA][EA][FA] [DA]3 z :|2 (3[DA][EA][FA] [DA]3 f |: 
+(3gbg (3dgd B>d | (3gbg (3dgd (3Bdg | (3faf (3dfd A>d | (3faf (3dfd (3Adf | 
+(3ege (3cec (3AcA | (3EAE (3CEC B,>C | [A,E]>[CE] (3[CE][B,E][CE] [A,E]>[CE] | [DA]>[FA] (3[FA][EA][FA] [DA]>f | 
+(3gbg (3dgd B>d | (3gbg (3dgd (3Bdg | (3faf (3dfd A>d | (3faf (3dfd (3Adf | 
+(3ege (3cec (3AcA | (3EAE (3CEC B,>C | [A,E]>[CE] (3[CE][B,E][CE] [A,E]>[CE] |1 (3[DA][EA][FA] [DA]3 f :|2 (3[DA][EA][FA] [DA]3 z |] 
+V:2
+|:"^2" A,2 D2 D>D | D>F A2 F2 | C2 E2 E>C | A,>D D2 D2 | A,2 D2 D>D | D>F A2 F2 | C2 E2 E>C |1 D2 D3 z :|2 D2 D3 A |: 
+B2 G2 D>G | B2 G2 D2 | A2 F2 D>F | A2 F2 D2 | G2 E2 C2 | A2 G2 E2 | 
+C2 E2 C>E | D2 F2 F>A | B2 G2 D>G | B2 G2 D2 | A2 F2 D>F | A2 F2 D2 | 
+G2 E2"^Passande dans: Gammelpolska efter Ernst Grip." C2 | A2 G2 E2 | C2 E2 C>E |1 "^Stämförslag B.O." D2 D3 A :|2 D2 D3 z |]
+

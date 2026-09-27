@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:37
+T:Tretur Nr 1
+T:(Gamla Dansar i Skåne)
+O:Skåne
+R:Engelska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Tretur (1). Mandelgrens saml. nr. 43."
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (AF)DF G2Bd | (dc)AF G2 |][K:G][M:2/4][K:treble]"^Dans" B2 |: (AF)DF G2Bd | 
+(dc)ed B2dc | (AF)DF G2Bd |1 (dc)AF G2 B2 :|2 
+(dc)AF G2 Bc |: (dc)Bc (de)fg | (ab)ge d2Bd | 
+(dc)Ac (cB)GB |1 (dc)AF G2 Bc :|2 (dc)AF G2 z |] 
+V:2
+"^2" (FD)A,C B,2GB | (BA)FD B,2 |][K:G][M:2/4][K:treble] G2 |: (FD)A,C B,2GB | (BA)cB G2BA | 
+(FD)A,C B,2GB |1 (BA)FD B,2 G2 :|2 (BA)FD B,2 GA |: (BA)GA (Bc)de | (fg)ec B2GB | 
+(B"^Mandelgrens saml. nr. 43."A)FA (AG)DG |1 (BA)FD B,2 GA :|2"^Stämförslag B.O." (BA)FD B,2 z |]
+

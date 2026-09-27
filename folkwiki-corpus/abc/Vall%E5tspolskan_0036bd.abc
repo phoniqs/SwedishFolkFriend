@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:98
+T:Vallåtspolskan
+T:(SvL Dalarna 98)
+S:Gössa Anders
+O:Orsa, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 77. Orsapolska"
+Z:http://runeberg.org/folkdans/besk/0075.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 77
+B:Svenska Låtar Dalarna nr 98
+N:Finns även på Stefan Lindén: "Vallåtspolskan efter Gössa Anders Andersson, Orsa, Dalarna, Svenska låtar, Dalarna, nr 98"
+N:https://www.stefanlinden.se/L/polska%20Vallatspolskan%20fr%20Orsa%202st%20V2.pdf
+L:1/8
+M:3/4
+U:t=tenuto
+K:Dm
+V:1
+"^1" A- |: A>(^c d>)(e{fe} f>)a | (ag) (g<a) .f/.g/.f/.e/ | (^c/d/4c/4=B/c/) d>(e f>)e | (g{fg}f) (tdt^c) A2- |
+ A>(^c d>)(e{fe} f>)a | (ag) (g<a) .f/.g/.f/.e/ | (^c/d/4c/4=B/c/) d>(e f>)e |1 (g{fg}f) d3 A- :|2 (g{fg}f) d4 |: 
+A>(B A)B/c/ d2- | d>(^F tGtA) B>c | d>(e d>)(c B>)A | (c{Bc}B) (tGt^F) D2- |
+ D>(B A)B/c/ d>c | (B/c/B/A/) (G/^F/)G/A/ B>c | d>(e d>)(c B>)A | (c{Bc}B) G4 :| 
+V:2
+"^2" [EA]- |: [EA]>([EA] [FA]>)(A d>)f | (fe) e<f .d/.e/.d/.^c/ | [EA]2 [FA]>(A d>)^c |(ed) tAtG [EA]2- | 
+[EA]>([EA] [FA]>)(A d>)f | (fe) e<f .d/.e/.d/.^c/ | [EA]2 [FA]>(A d>)^c |1 (ed) [FA]3 [EA] :|2 (ed) [FA]4 |: 
+^F>(G F)G/A/ [FA]2- | [^FA]>(C tDtF) G>A | B>(c B>)A G>^F | (AG) tDtC [A,^F]2- | 
+[A,^F]>(G F)G/A/ B>A | (GD) B,/A,/B,/D/ G>A |"^Stämförslag B.O." B>(c B>)A G>^F | (AG) [B,D]4 :|
+

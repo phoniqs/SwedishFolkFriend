@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Malung
+T:efter Eva Jansson
+R:Schottis
+O:Malung Dalarna
+S:Eva Jansson
+Z:Karin Helander
+N:Från not på Dalarnas spelmansförbunds hemsida allspelslåtar 2023: https://www.dalarnasspelmansforbund.se/allspelslatar
+N:"Schottis (Reinländer) från Malung efter Eva Jansson"
+M:4/4
+L:1/8
+Q:140
+K:D
+V:1
+f>g a<f d2 d2 | f>g a<f d2 d2 | e>f g<e c2 c2 | B2 B2 A2 A2 | 
+f>g a<f d2 d2 | f>g a<f d2 d2 | e>f g<e c>A B<c | d2 d2 d4 :|
+|: g2 g2 g2 g2 | f>e d<e f>e d2 | e>c A<c e>c A<c | d>e f<g a4 | 
+g2 g2 g2 g2 | f>e d<e f>e d2 | e>c A<c e>c A<c | d2 d2 d4 :| 
+V:2
+"D" d>e f<d [AF]2 [AF]2 | d>e f<d [AF]2 [AF]2 | "A7" c>d e<c A2 A2 | "Em" G2 G2 "A7" E2 [EC]2 |
+"D" d>e f<d [AF]2 [AF]2 | d>e f<d [AF]2 [AF]2 | "A7" c>d e<c A>G E<G | "D" [FA]2 [FA]2 [FA]4 :|
+|: "G" B2 B2 B2 B2 | "D" d>A F<A d>A F2 | "A7" c>A E<A c>A E<A | "D" F>A d<e f4 | 
+"G" B2 B2 B2 B2 | "D" d>A F<A d>A F2 | "A7" c>A E<A c>A E<A | "D" [FA]2 [FA]2 [FA]4 :|
+

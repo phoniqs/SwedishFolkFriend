@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:255
+T:Polonäs efter handskrift 1760-talet
+R:Polska
+O:Säby, Småland
+B:Småländsk Musiktradition
+N:SmM I:255 (i A-bas, utan andrastämma)
+M:3/4
+L:1/16
+K:D
+Z: Eva Zwahlen 2019-04-08. Andra stämma Eva Zwahlen
+V:1
+|: d4 D2d2 D2d2 | f4 D2f2 D2f2 | a4 a2g2 f2a2 | a2gf f4 e4 | A4- A2ge f2d2 | A4- A2ge f2d2 | A4- A2ge f2d2 | (cd)ec d4 D4:: e2c2  c2e2 e2dc | d2B2 B2d2 d2cB | ABcd ef!+!ge a2ed | cBA^G A4 A,4 | f4 f2d2 d2B2 | g4g2e2 e2c2 | a4 a2g2 f2a2 | a2gf f4 e4 | A4-A2ge f2d2 | A4- A2ge f2d2 | A4- A2ge f2d2 | (cd)ec d4 D4 :|
+V:2
+|: D4 D2F2 D2F2 | D4 D2F2 D2F2 | F4 F2E2 D2D2 | F2ED D4 C4 | A,6 E2 D4 | A,6 E2 D4 | A,6 E2 D4 | EFGE F4  F4 :: c2A2 A2c2 c2BA | B2^G2 G2B2 B2AG | E2A2 E2B2 c2B2 | A2E2 C4 A,4 | d2d2 A2A2A2A2 | e2e2 c2c2A2A2 | d2d2 d2d2d2d2 | F2ED D4 C4 | A,6 E2 D4 | A,6 E2 D4 | A,6 E2 D4 | EFGE F4 A,4 :|
+

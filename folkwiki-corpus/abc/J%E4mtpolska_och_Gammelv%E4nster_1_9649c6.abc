@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:37
+T:Jämtpolska och Gammelvänster 1
+T:(Sv Folkdanser Del 1)
+O:Jämtland
+R:Polska
+S:Lapp-Nils
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 37. Jämtpolska och Gammelvänster 1"
+Z:http://runeberg.org/folkdans/besk/0173.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 37
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^Förspel" A>B (3c(dc) (3B(AG) | F2 G4 |]:[K:G][M:3/4][K:treble]"^Dans" d>(c B>)(b g>)e | 
+d>c (B/>c/B/)A/ (3G(AB) | A>B (3c(dc) (3B(AG) | A>F (3G(Ac) B>c | d>(c B>)(b g>)e | 
+d>c (B/>c/B/)A/ (3G(AB) | A>B (3c(dc) (3B(AG) |1 F2 G4 :|2 F2 G3u d |: 
+(g/>a/g/f/) (ga) b>g | (3f(ef) (3g(eg) f>d | (g/>a/g/f/) (ga) b>g | (gf) d4 | 
+(g/>a/g/f/) (ga) b>g | (3f(ef) (3g(fe) d>B | (3G(AB) (3c(dc) (3B(AG) |1 F2 G3u d :|2 F2 G4 |] 
+V:2
+"^2" F>G (3A(BA) (3G(FE) | (DC) B,4 |]:[K:G][M:3/4][K:treble] B>(A G>)(d B>)c | 
+B>A G>D (3B,(DG) | F>G (3A(BA) (3G(FE) | F>D (3B,(DA) G>A | B>(A G>)(d B>)c | 
+B>A G>D (3B,(DG) | F>G (3A(BA) (3G(FE) |1 (DC) B,4 :|2 (DC) B,3u B |: 
+(B>A) (Bc) d>B | (3A(GA) (3B(GB) A>F | (B>A) (Bc) d>B | (BA) F4 | 
+(B>A) (Bc) d>B | (3A(GA) (3B(AG) F>G | (3E(FG) (3A(BA) (3G(FE) |1"^Stämförslag B.O." (DC) B,3u B :|2 (DC) B,4 |]
+

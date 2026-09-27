@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt till Lasse
+C:Bertil Bengtsson
+O:Hedemora, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bertil Bengtsson, Hedemora."
+Z:"Stämförslag "Maffe" 15/2, 00."
+L:1/8
+M:4/4
+K:C
+V:1
+|:"^1" G>G G>c e2 c2 | e>e e>a g4 | f>e d>c B2 G2 |1 
+G>A G>F E4 :|2 G>B d>B c4 |: c2 c>B A>C F>A | G2 G>F E>G, C>E | 
+F2 F>E D>G, B,>D |1 C2 E>F G4 :|2 C2 E>D C4 |: (A,/C/)F/A/ cf a2 f2 | 
+(C/E/)G/c/ ec g2 e2 | (G,/B,/)D/G/ Bd f2 d2 |1 cG/c/ ec/e/ ge/c/ G2 :|2 cG/F/ (E/D/)C/B,/ C4 |] 
+V:2
+|:"^2""C" C2 B,>A, G,2 E2 | C2 D>F E4 |"Dm" d>c B>A"G7" G2 D2 |1
+"G7" B,>C B,>A,"C" G,4 :|2 "G7" B,>D F>D"C" E4 |:"F" a2 a>g f>A c>f |"C" e2 e>d c>E G>c |
+"Dm" D2 D>C"G7" B,>G, D>F |1 "C" E2 G>A"C7" _B4 :|2"C" G,2 G>F E4 |:"F" F2 FA c2 A2 |
+"C" EG, CE E2 C2 | "G7" D2 DC B,2 G,2 |1"C" "^Stämförslag \"Maffe\" 15/2,  00." C2 E2 "C7" G4 :|2 "C" E2 "G7" GF"C" E4 |]
+

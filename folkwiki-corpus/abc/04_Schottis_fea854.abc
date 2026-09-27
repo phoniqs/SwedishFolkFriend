@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:4
+T:04 Schottis
+R:Schottis
+O:Källnatrion, Skåne
+T:(stenkaka CRG 78028)
+Z:Upptecknad av Åke Persson och inskriven i abc 2024-09-05
+N:Inspelad 1908 på stenkaka med gruppen [[Grupper/Källnatrion]]
+M:2/4
+L:1/8
+Q:140
+K:D
+A>(G | F)>A f>(d | A)>d f>d | B2 g2 | g2 e>(d | c)>e a>(e | c)>e g>e | b2 a2| a2 A>(G | 
+F)>A f>(d | A)>d f>d | B2 g2  | g2 e>(d | c)>(e b)>(a | g)>e  c>e | d2 d2 | d2 ::
+a2 | A>A A>(A | B)>(c d)>e | f>d d>F | A2 A2 | d>c E>F | G2 G2 | b>a f>d | A2 a2 |
+A>A A>(A | B)>(c d)>e | f>d d>F | A2 A2 | d>(c B)>(c | d)>(e f)>(e | d2) d2 | d2 ::
+"Trio"[K:G]
+d>c | B>G G>B | d>(g b)>(g | a2) e2 | e2 (a>g) | f2 LA2 | LA2 (f>e) |d2 LG2 | LG2 d>(c |
+B)>G G>(B | d)>(g b)>g | a2 e2 | e2 (a>g) | f2 A>(B | c)>(A F)>A | G2 G2 | G2 :|
+

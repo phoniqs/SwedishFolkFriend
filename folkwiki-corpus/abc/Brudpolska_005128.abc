@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:3
+T:Brudpolska.
+O:Hälsingland
+R:Polska
+S:Efter Murare Sundqvist
+B:Ny samling spelmanslåtar från Hälsingland nr 3
+Z:Karin Helander
+N:Uppteckning och andrastämma av [[Personer/Thore Härdelin den äldre]]
+L:1/16
+M:3/4
+K:G
+V:1
+(def) |: g4 d3b f2g2 | d2ef g2B2 e2d2 | (c2a2) (B2g2) (A2f2) | (a2g2) (fg)fe d2ef | g4 d3b f2g2 | 
+d2ef g2B2 e2d2 | (ce)cA (Bd)BG (Ac)AF | G4 "x"G,4 z4 :: G2AB !>! [c4G4] [B3G3]A | G2B2 A2GF G4 | 
+g4 d3B G2AB | cAFA G2D2 B,2D2 | G,3B, A,3C B,2d2 | g2d2 (B2cB) (A2BA) | G,3B, A,3C B,2d2 | 
+g2d2 (B2cB) (A2BA) | (de)fg a2fa g2Bc | (de)fg a2fa g3B | (ce)cA (Bd)BG (Ac)AF | G4 "x"G,4 z4 :|
+V:2
+z2 z |: d4 [B4G4] A2G2 | g4 d2b2 c2B2 | A2c2 G2B2 [D4c4] |f2e2 (de)dc BcBA | d2b2 d2g2 c2B2 | 
+B2cA [B2G2][B2G2] [c2G2][B2G2] | (Ec)(cE) (DB)(BD) (CA)(AD) | [G,4] "x"[D4B4g4] z4 :: G2=FE !>! _E4 D3C | B,2D2 C2B,A, G,4 | 
+G,4 B,3D G2FE | D2CA, G,2B,2 D2G2 | G,3B, A,3C B,2D2 | [G4B4] [G4B4] [F4A4] | B,2G,2 C2A,2 G,2D2 | 
+B2D2 B2D2 c2D2 | [G4B4] [E4c4] [G4B4] | [G4B4] [E2c2]Ac B2G2 | (Ec)(cE) (DB)(BD) (CA)(AC) | G,4 "x"[D4B4g4] z4 :|
+

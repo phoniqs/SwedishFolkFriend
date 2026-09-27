@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:816
+T:Getabockadansen efter Erland Hansson
+T:(SvL Skåne 816)
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Getabockadansen (2)"
+Z:"Efter Erland Hansson, Flädinge. Sv.L. 816."
+B:Gamla Dansar i Skåne
+B:Svenska Låtar Skåne Nr 816
+O:Flädinge, Skåne
+R:Långdans
+S:Erland Hansson
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel" e2 A2 Bc | d2 D2 z2 |]:[K:D][M:3/4][K:treble]"^Dans" (df) a2 ag | (fe) (fg) fe | 
+dc d2 e2 | f2 d2 z2 :: e2 A2 Bc | d2 (dc) df | 
+e2 A2 Bc | d2 (dc) df | e2 A2 Bc | d2 D2 z2 :| 
+V:2
+"^2" c2 E2 GA | F2 [A,F]2 z2 |]:[K:D][M:3/4][K:treble] (Fd) f2 fe | (dc) (de) dA | 
+FE F2 G2 | A2 F2 z2 :: "^Efter Erland Hansson, Flädinge. Sv.L. 816." c2 E2 GA | F2 (FE) Fd | 
+c2 E2 GA | F2 (FE) Fd | "^Stämförslag B.O." c2 E2 GA | F2 [A,F]2 z2 :|
+

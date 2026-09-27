@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:101
+T:Långalns böljor
+T:Polka-mazurka efter Jons-Axel Nr 101
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Mazurka
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 101. Polka-mazurka"
+Z:"Uppt. från bandinspelning med Jons-Axel av B.O."
+L:1/16
+Q:1/4=152
+M:3/4
+I:linebreak $
+K:A
+V:1
+|:"^1"v (e2>f2 e3) z (cA2) z | (e2>f2 e3) z c3 z | (cB2) z (Bd2) z GB2 z | (BA2) z Ac2 z E3 z | 
+(e2>f2 e3) z (cA2) z | (e2>f2 e3) z c3 z | (cB2) z (Bd2) z GB2 z | A3 z A4 z4 ::
+v c3 z (3(c2B2c2) e3 z | d3 z (3(d2c2d2) f3 z | (EG2) z (Be2) z (GB2) z | (BA2) z Ac2 z E3 z | 
+c3 z (3(c2B2c2) e3 z | d3 z (3(d2c2d2) f3 z | (EG2) z (Be2) z GB2 z | A3 z A4 z4 :| 
+V:2
+|:"^2" "A" (c2>d2 c3) z (AE2) z | (c2>d2 c3) z A3 z | "E7" (AG2) z (GB2) z ED2 z |"A" (DC2) z CE2 z A3 z | 
+(c2>d2 c3) z (AE2) z | (c2>d2 c3) z A3 z |"E7" (AG2) z (GB2) z ED2 z |"A" C3 z C4 z4 :: 
+"A" A3 z A3 zu =G3 z | "D" F3 z F3 zu D3 z |"E7" (B,E2) z (GG2) z (ED2) z | "A" (DC2) z CE2 z C3 z | 
+"^Uppt. från bandinspelning ""^med Jons-Axel av B.O." A3 z A3 zu =G3 z | "D" F3 z F3 zu D3 z |"E7" (B,E2)"^Stämförslag B.O." z (GG2) z ED2 z |"A" C3 z C4 z4 :|
+

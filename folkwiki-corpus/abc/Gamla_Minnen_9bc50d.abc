@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:40
+T:Gamla Minnen
+T:Schottis efter August Strömberg (SM V-40)
+O:Jät, Småland
+R:Schottis
+S:August Strömberg
+B:Småländsk Musiktradition
+N:Småländsk Musiktradition V-40
+Z:Till abc Jonas Brunskog
+Q:1/4=120
+M:2/4
+L:1/8
+K:Am
+E/E/^G/B/ d/c/B/G/|A/B/c/d/ ee|aE c(TB/A/)|^G/A/B/c/ de|
+E/E/^G/B/ d/c/B/G/|A/B/c/d/ ee|aE c(TB/A/)|^G/A/B/c/ A2:|
+|: {/f}e/(c/e/)(c/ e)e|{/e}d/(B/d/)(B/ d)d|c/B/A/^G/ A/B/c/(d/|e)E/E/ EE|
+{/f}e/(c/e/)(c/ e)e|{/e}d/(B/d/)(B/ d)d|c/B/A/^G/ A/c/e/(^g/|a)A, A,2:|
+|:a/(^g/a/)(b/ c'/)(b/a/)(c'/|b/)(a/^g/)(b/ a)e|f/e/d/f/ e/d/c/e/|d/c/B/d/ ce|
+a/(^g/a/)(b/ c'/)(b/a/)c'/|b/a/^g/b/ ae|f/e/d/f/ e/d/c/e/|E^G A2:|
+

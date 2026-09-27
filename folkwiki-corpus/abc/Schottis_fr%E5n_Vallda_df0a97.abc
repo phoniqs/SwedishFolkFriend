@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:45
+T:Schottis från Vallda
+R:Schottis
+O:Vallda, Halland
+C:Adolf Olsson
+Z:Karin Helander
+B:Hallands Spelmansförbunds Låtarkiv nr 45
+N:Från https://www.hallandsp.com/spelm%C3%A4n-och-l%C3%A5tar/l%C3%A5tarkiv-31775626
+N:"45. Schottis från Vallda. Av Adolf Olsson (Spelianus) 1841-1912. Vallda Halland"
+M:4/4
+L:1/8
+K:D
+V:1
+A2 |:  f2 f>e d2 d>c |  B2 B>d  E2 E2 |  c2 c>e A2 Bc | dccB A2 A2 |
+ f2 f>e d2 d>c | B2 B>d  E2 E2 |  c2 c>e A2 Bc |1  d2 d2 d2 A2 :|2 d2 d2 d4 |]
+|: D2 FA AFDF |  G2 G>A  B2 B2 |  dccB A2 A2 | edcB A2 A2 |
+  D2 FA AFDF |  G2 G>A  B2 B2 |  gfed A2 ce |1 d2 f2 d2 z2 :|2 d2 f2 d4 |]
+V:2
+F2 |: "D" d2 d>c B2 B>A | "G"G2 G>B "Em"G2 G2 | "A7"A2 A>c F2 GA | "D" AGGE F2 F2 |
+ "D"d2 d>c B2 B>A | "G"G2 G>B "Em"G2 G2 | "A7"A2 A>c F2 GA |1 "D"B2 A2 F2 F2 :|2 "D"B2 A2 F4|]
+|: "D" B,2 DF FDB,D | "G"E2 E>F "Em"G2 G2 | "A7"BAAG F2 F2 | cBAG F2 F2 |  
+"D"B,2 DF FDB,D | "G"E2 E>F "Em"G2 G2 | "A7"BAAG F2 F2 |1 "D"B2 A2 (F2 F2) :|2 "D"  B2"^SS-2015" A2 F4 |]
+

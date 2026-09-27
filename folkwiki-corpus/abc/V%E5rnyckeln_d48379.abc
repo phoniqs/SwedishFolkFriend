@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Vårnyckeln
+T:Gånglåt
+C:Greta Skoglund
+O:Ilsbo, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik och text av Greta Skoglund"
+L:1/8
+M:2/4
+K:G
+V:1
+|:"^1" G,2 (B,C) | D2 (GA) | B2 (ed) | B2 G2 | D2 (c>B) | 
+(A>G) (FE) | (DE) (DC) | (B,C) (B,A,) | G,2 (B,C) | D2 (GA) | B2 (ed) | 
+B2 G2 | D2 (c>B) | (AG) (FE) | D^C/D/ (BA) |1 G3 z :|2 [B,G]3 g |: 
+e>c Gc | (eg) (fe) | d>e dG | B2 (ed) | c>d cB | (AD) (BA) | 
+"^Vid sång utan omtag rätt igenom."G>A Bc | d2 (gf) | e>c Gc | (eg) (fe) | d>e dG | B2 (ed) | 
+c>d cB | (AD) (BA) | GF/G/ (AF) |1 [B,G]3 g :|2 [B,G]3 z |] 
+V:2
+|:"^2""G" G,2 G,A, | B,2 B,D | G2 cB | G2 D2 | "D7"A,2 (A>G) | (F>E) (DC) | 
+B,C B,A, | DE DC | "G" B,2 G,A, | B,2 B,D | G2 cB | G2 D2 |
+"D7" A,2 A>G | FE DA, |"G" B,^A,/B,/"D7" DC |1 "G" B,3 z :|2"G" [DB]3 e |:
+"C" c>G EG | (ce) (dc) |"G" B>c BD | G2 (cB) |"D7" A>B AG | (FC) (DC) |
+"G" B,>D GA | B2 (ed) |"C" c>G EG | (ce) (dc) | "G" B>c BD | G2 (cB) |
+"D7"  A>B AG | (FC) (DC) |"G" B,A,/B,/"D7" (CA,) |1"G" [G,D]3 e :|2 "G" [G,D]3"^B.O." z |]
+

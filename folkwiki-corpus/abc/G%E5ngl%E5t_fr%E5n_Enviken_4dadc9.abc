@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Enviken
+C:Vilhelm Hedlund
+O:Enviken, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"29. Gånglåt från Enviken av Vilhelm Hedlund, Enviken."
+L:1/16
+M:2/4
+U:t=tenuto
+K:Gm
+V:1
+"^1"u D2 |:v G2GA B2Bc | d2dg (d2B2) | A2Ac (A2^F2) | G2GB (GD)B,D | 
+G2GA B2Bc | d2dg (d2B2) | A2A^F (DF)AF |1 G2G2 G2 D2 :|2 G2G2 G2 B2 |: 
+d2^cd =e2de | (3(^fgf) =ef (g2d2) | (Bd)BG (Ac)A^F | (GA)G^F D4 | 
+d2^cd =e2de | (3(^fgf) =ef (g2d2) | (Bd)BG (Ac)A^F |1 G2G2 G2 B2 :|2 G2G2 G2 d2 |: 
+ g2>(b2 ag)^fg | (ab)a^f d2>c2 | BABc (d2B2) |!trill! B2>A2 A4 | 
+ g2>b2 ag^fg | aba^f (d2>B2) | G2GA tB2tB2 |1 A4 G2u d2 :|2 A4 G2 z2 |] 
+V:2
+"^2" D2 |:"Gm" B,2B,D G2GA | B2Bd B2G2 | "D7" ^F2FA F2D2 |"Gm" B,2B,D DB,G,B, | 
+B,2B,D G2GA | B2Bd B2G2 | "D7" ^F2FD A,DFD |1"Gm" B,2B,2 B,2 D2 :|2"Gm" B,2B,2 B,2 G2 |:
+"Gm" B2AB"D7" c2Bc | "D7" A2GA"Gm" B2G2 | "Gm"GBGD "D7"(^FA)FD |"D7" B,CB,A, A,4 |
+"Gm" B2AB"D7" c2Bc |"D7" A2GA"Gm" B2G2 | "Gm" GBGD "D7"(^FA)FD |1 "Gm" B,2B,2 B,2 G2 :|2 "Gm" B,2B,2 B,2 G2 |: 
+"Gm" B2>d2 cBAB |"D7" cdcA ^F2A2 |"Gm" G^FGA (B2G2) | "Gm" G2^F2 "D7" F4 | 
+"Gm" B2>d2 cBAB |"D7" cdcA (^F2D2) |"Gm" B,2B,D tG2tD2 |1 "D7" C4"Gm" B,2 G2 :|2"D7" C4"Gm" B,2 "^B.O."z2 |]
+

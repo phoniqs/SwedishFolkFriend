@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X: 311
+T: Polska efter Pelle Hjelm
+T:(SvL Jämtland 311)
+O: Efter Pelle Hjelm
+S: Pelle Hjelm
+B: Svenska Låtar Jämtland
+R: Polska
+M: 3/4
+L: 1/8
+O: Mattmar, Jämtland
+Z: Fredrik Nilsson
+K: G
+!fermata![DG,]2> |: C2 | A,C B,D GA | (3B(AG) (A{BA})F (3G(AB) | (3c(dc) (3(B{cB})(AG) A>G|
+(3B(AG) (3F(AF) DC | A,C B,D GA | (3B(AG) (A{BA})F (3G(AB) | (3c(dc) (3(B{cB})(AG) A/2c/2A/2F/2 | [GD]4 z :|
+|: [K:D] f | (3g(ag) (3f(ed) ec | d2 !fermata!e2>> (f2 | g)>e d>f ed | cd ec (3d(ef) |
+(3g(ag) (3f(ed) e/2g/2e/2c/2 |1 [dD]4 z :|2 [dD]4 (3(def) |: [K:G] g>e cB GB | Ac (c{dc})B (3G(AB) |
+(3c(dc) (3B(AG) {AB}AF | (3B(AG) F/2G/2A/2F/2 D>f | g>e cB GB | Ac (c{dc})B (3G(AB) |
+c(d/2c/2) B(A/2G/2) A/2c/2A/2F/2 | G4 z f :| ga bg af | (3g(ag) (3f(af) (3d(ef) | ga bg g/2a/2g/2f/2 |
+d4 z f | ga bg af | (3g(ag) (3f(af) dB | (3c(dc) (3(B{cB})(AG) A/2c/2A/2F/2 |1 G4 z f :|2 G4 z||
+

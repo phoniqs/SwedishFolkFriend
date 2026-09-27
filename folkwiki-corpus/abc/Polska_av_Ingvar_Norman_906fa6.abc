@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:118
+B:Låtar från Dalarnes Bergslag Nr 118
+T:Polska av Ingvar Norman
+T:(Dalarnes Bergslag 118)
+C:Ingvar Norman
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (21) av Ingvar Norman, Säter."
+L:1/8
+M:3/4
+K:Am
+V:1
+"^1" e- |: e2 (a>e) e>d | d2 (ec) d2- | d2 (e>c) B>^G | (A>c) (B/c/)B/^G/ E>e | 
+e2 (a>e) e>d | d2 (ec) d2- | d2 (e>c) B>A |1,8 ^G2 A3 e- :|2 ^G2 A3 A- |: 
+A>(B c>d) c>B | ^G>(A B)G/B/ A2- | A>(B c>d) e>g |1 ^f^d/f/ e3 A- :|2 (^f^d) e3 |] 
+V:2
+"^2" A- |: A2 (c>A) A>B | B2 (cA) B2- | B2 (c>A) ^G>E | (C>E) D2 B,>A | 
+A2 (c>A) A>^G | ^G2 (AE) F2- | F2 (^G>E) D>C |1,8 B,2 [CE]3 A :|2 B,2 [CE]3 C- |: 
+C>(D E>F) E>D | B,>(C D)B,/D/ C2- | C>(E A>B) c>e |1 "^Stämförslag B.O." ^dB/A/ ^G3 C :|2  (^dB) ^G3 |]
+

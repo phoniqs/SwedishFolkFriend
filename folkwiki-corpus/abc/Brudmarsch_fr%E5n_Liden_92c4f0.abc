@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Liden
+O:Liden, Medelpad
+S:Efter Olof Mellberg
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:4/4
+K:D
+V:1
+"^1" a |:"D" ad' af d2 d2 |{e}"D" dA df"Em" e3 d' |"A7" b2 (ge) c2 c2 | "A7" {d} cA Bc "D" (d/e/)d/c/ (de) | f3 g ad' af | 
+d2 d2{e} dA df |"D" e3 d'"Em" b2 (ge) | "A7" c2 c2{d} cA Bc |1 "D" (d/e/)d/c/ (df) d3 a :|2 "D" (d/e/)d/c/ (df) d3 f |:
+"D" a2({b} ag) fa d'c' | "Em" b2({c'} ba) g3 f |"A7" e2({f} ed) ce ag | "D" f>e fg ad' fg | 
+a2({b} ag) fa d'c' | "Em" b2({c'} ba) g2 (ed) | "A7" c>d ef gA Bc |1 "D"d2 (df) d3 f :|2 "D" d2 df d3 z |] 
+V:2
+"^2" F |: FA FD F2 F2 |{G} FD FA G3 b | g2 (ec) A2 A2 |{A} GE FG FE FA | d3 G FA FD | 
+F2 F2 FD FA | G3 b g2 (ec) | A2 A2 GE FG |1 FE FA F3 F :|2 FE FA F3 d |: 
+f2({g} fe) df af | g2({a} gf) e3 d | c2({d} cB) Ac ce | dc de ff de | 
+f2({g} fe) df af | g2({a} gf) e2 (cB) | AB cd cE FG |1 F2 (FA) F3 d :|2 "^Stämförslag B.O." F2 FA F3 z |]
+

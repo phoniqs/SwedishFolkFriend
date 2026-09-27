@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:17
+T:Fyrmannaschottisch
+O:Sverige
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sverige, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:F
+V:1
+"^1""^Förspel" a/a/a/a/ c'f | eg/b/ d'2 | g/g/g/g/ be | fa f |] [K:F][M:2/4][K:treble]"^Dans" (3c/d/e/ |: 
+fA A/>A/B/c/ | dG GG/F/ | EG CD/E/ | FA c/>c/d/e/ | 
+fA A/>A/B/c/ | dG GG/F/ | EG CD/E/ |1 FF F (3c/d/e/ :|2 FF F F |:
+[K:Bb] dd/d/ dd/d/ | df B2 | ce A2 | Bd f>e | dd/d/ dd/d/ | df B2 | 
+cc/e/ Ac |1 BB B F :|2 BB B c/f/ |:[K:F] a/a/a/a/ c'f | eg/b/ d'2 | g/g/g/g/ be | 
+fa/c'/ f'2 | a/a/a/a/ c'f | eg/b/ d'2 | g/g/g/g/ be |1 fa f c/f/ :|2 fa f z |] 
+V:2
+"^2" f/f/f/f/ ac | Be/g/ b2 | e/e/e/e/ cB | Ac A |][K:F][M:2/4][K:treble] (3A/B/c/ |: 
+AF F/>F/G/A/ | BD DE/D/ | CE G,B,/C/ | A,F A/>A/B/c/ | AF F/>F/G/A/ | BD DE/D/ | CE G,B,/C/ |1 A,A, A, (3A/B/c/ :|2 A,A, A, D |:
+[K:Bb] BB/B/ BB/B/ | Bd F2 | Ac E2 | DB d>c | BB/B/ BB/B/ | Bd F2 | AA/c/ FE |1 DD D D :|2 DD D A/c/ |:
+[K:F] f/f/f/f/ ac | Bc/e/ g2 | e/e/e/e/ gB | Ac/f/ a2 | f/f/f/f/ ac | Bc/e/ g2 | e/e/e/e/ gB |1 Ac A A/c/ :|2"^Stämförslag B.O." Ac A z |]
+

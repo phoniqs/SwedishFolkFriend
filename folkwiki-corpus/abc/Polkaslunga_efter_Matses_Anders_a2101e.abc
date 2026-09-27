@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Polka-slunga efter Matses Anders
+S:Matses Anders Norman
+O:Säter, Dalarna
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Matses Anders Norman (1863-1919), Säter
+L:1/16
+M:2/4
+K:A
+V:1
+|:"^1" cdec a2c2 | e2A2 c2(Bc) | BABd f2G2 | B2A2 A2(GA) | 
+cdec a2c2 | e2A2 c2(Bc) | BABd f2>G2 | A2c2 A4 ::
+ (3(cdc) A2 (EA)ce | d2G2 B4 | (3(BdB) G2 (EG)Be | f2e2 aecA | 
+(3(cdc) A2 (EA)ce | f2e2 g4 | f2>e2 fedB | A2c2 A4 ::
+[K:D] FGAB A2g2 |T f2d2T B2A2 | CEAc e2>c2 | d2d2 A2>G2 | 
+FGAB A2g2 |T f2d2T B2A2 | CEAc e2>c2 | d2d2 d4 :| 
+V:2
+|:"^2""A" ABcA e2A2 | c2E2 A2(GA) |"E7" GEGB G2E2 |"A" D2C2 C2(CE) | 
+ABcA e2A2 | c2E2 A2(GA) | "E7" GEGB G2>E2 | "A" C2E2 C4 :: 
+"A" A2E2 (CE)Ac | "E7" B2E2 G4 | G2E2 (B,E)GB | "A" d2c2 cAEC | 
+A2E2 (CE)Ac | "E7" d2c2 B4 | d2>c2 dBGE |"A" C2E2 C4 ::
+[K:D] "D" DEFG F2B2 | A2F2 G2F2 |"A7" A,CEA G2>E2 | "D" F2F2 D2>E2 | 
+DEFG F2B2 | "^Stämförslag B.O." A2F2 G2F2 |"A7" A,CEA G2>E2 |"D" F2F2 F4 :|
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:3
+T:Allfingerpolskan
+T:Polska efter Per Danielsson (SvL Jämtland 3)
+R:Polska
+O:Mörsil, Jämtland
+S:Per Danielsson
+B:Svenska Låtar Jämtland
+N:A-bas.
+N:Polskan spelades även på norska sidan.
+N:Ett ornament i andra och sjätte takten, första repris, är här skrivna som trioler i 16-delar, för att midi'n ska fungera bättre.
+M:3/4
+L:1/8
+K:D
+z(a f)(d A)(G|F)(E D)(g (3f/g/f/)d|(3f(af) (3d(fd) (3A(Bc)|dA (3F(GF) (3E(DC)|
+{/C}D(a f)(d A)(G|F)(E D)(g (3f/g/f/)d|(3f(af) (3d(fd) (3A(Bc)|1(^G<B) [AA]4:|2(^G<B) [AA]2 (A,2]|
+|:[DD]2) (3FDF [AA]2|d2 (3cBc de|fd ge fg|(3a(^ga) (3b(gb) af|
+=ge bg ed|cB (3A(Bc) (3d(AF)|GA (3BAG FD|EC (3D(FD) A,2|
+[DD]2 (3FDF [AA]2|d2 (3cBc de|fd ge fg|(3a(^ga) (3b(gb) af|
+=ge bg ed|cB (3A(Bc) (3d(AF)|(3G(Ac) (3BAG F>D|1A,2 [DD]3 (A,:|2A,2 [DD]4]|
+

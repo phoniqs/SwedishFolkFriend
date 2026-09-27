@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Gatans parlament
+T:Marsch
+C:Sören Johansson
+O:Dorotea, Lappland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Sören Johansson, (f.1939) Dorotea."
+L:1/8
+M:4/4
+K:G
+V:1
+"^1" D |: G2 G>A cB AG | Bd cB/c/ d3 c | B>A GA cB AG | [CD]2 [CD]>[CD] [CD]3 D | 
+A2 A>B cB AG |1 Bd cB/c/ d3 c |T B>A GE D2T FD/F/ | G2 G>G G3 D :|2 
+D(B/D/) E(c/E/) d3 c |T B>A GE D2T FD/F/ | G2 G>G G3 d |: d>f fg a2 gf |
+d(f/d/) c(e/c/) d3 c | B>A GB dg bg | [ca]2 [ca]3/2 [ca]/ [ca]3 d | d>f fg a2 gf |
+d(f/d/) c(e/c/) d3 c | T B>A GE D2T FD/F/ |1 G2 G>G G3 d :|2 G2 G>G G3 z |] 
+V:2
+"^2" G, |:"G" [B,D]2 [B,D]2 AG DB, |"G" [B,D]2 "C"[CE]2 "G"[DB]3 A |"G" [B,G]2 [B,D]2 AG DB, | "D7" A,2 A,>A, A,3 A, | 
+[CF]2 [CF]2 AG DB, |1 "G" [B,D]2 "C"[CE]2 "G" [DB]3 A | "G" [B,G]2 [B,G]2"D7" A,2 CA, |"G" [B,D]2"C" [CE]>[CE]"G" [B,D]3 G, :|2 
+"G" [B,G]2 "C"[CG]2 "G"[DB]3 A |"G" [B,G]2 [B,G]2"D7" A,2 CA, |"G" [B,D]2 "C"[CE]>[CE]"G" [B,D]3 G |: "D7" [DA]2 [DA]2 [CF]2 [CF][CF] | 
+"G" [GB]2 "D7" [FA]2 "G" [GB]3 A | [B,G]2 [B,G]2 GB dB | "D7" [Af]2 [Af]>[Af] [Af]3 G | "D7" [DA]2 [DA]2 [CF]2 [CF][CF] | 
+"G" [GB]2 "D7" [FA]2 "G" [GB]3 A | "G" [B,G]2 [B,G]2 "D7" A,2 CA, |1 "G" [B,D]2"^Från CD.""C" [CE]>[CE]"G" [B,D]3 G :|2 "^Stämförslag B.O." "G" [B,D]2 "C" [CE]>[CE] "G" [B,D]3 z |] 
+

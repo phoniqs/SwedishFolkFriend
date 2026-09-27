@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Jämtgubben
+T:Snopolka
+C:Gnesta-Kalle
+C:Sölve Strand
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gnesta-Kalle -- Sölve Strand"
+L:1/8
+M:2/4
+K:G
+V:1
+|:"^1"v GB/d/ (g/f/)e/d/ | Bd/B/ (.G.B) | GB/d/ (g/f/)e/d/ | cd/c/ (.A.c) | D>F Ac | ff f(e/f/) | ed f>e | dB/B/ (.B.B) | 
+GB/d/ (g/f/)e/d/ | Bd/B/ (.G.B) | GB/d/ (g/f/)e/d/ | cd/c/ (.A.c) | D>F Ac | ff f(e/f/) | ed ef | gg g z :: 
+[K:D]v af/d/ af/d/ | ce/e/ (.e.e) | ge/c/ ge/c/ | df/f/ (.f.f) | AB cd | (cG) G2 | GA Bc | (BF) F2 | 
+af/d/ af/d/ |  ce/e/ (.e.e) | ge/c/ ge/c/ | df/f/ (.f.f) | AB cd | (eB) B2 | cA f>e | dd d z ::
+[K:C]v ^c'2 (ge) | ^c3 (e/g/) | ^ce/g/ ce/g/ | Bd/^f/ Bd/f/ | b2 (g^f) | B3 g | bb b>a | (ag) g2 | 
+^c'2 (ge) | ^c3 (e/g/) | ^ce/g/ ce/g/ | Bd/^f/ Bd/f/ | b2 (g^f) | B3 g | bb b(a/b/) | ^c'c' c' z :| 
+V:2
+|:"^2""G" B,D/G/ (B/A/)G/D/ | DG/D/ (.B,.D) | B,D/G/ (B/A/)G/D/ | "D7" FA/F/ (.D.F) | A,>D FA | cc c(c/d/) | cA c>c | "G" BG/G/ (.G.G) | 
+"G" B,D/G/ (B/A/)G/D/ | DG/D/ (.B,.D) | B,D/G/ (B/A/)G/D/ | "D7" FA/F/ (.D.F) | A,>D FA | cc c(c/d/) | cA cd |"G" BB B z ::
+[K:D]"D" fd/A/ fd/A/ | "A7" Gc/c/ (.c.c) | cA/E/ cA/E/ |"D" FA/A/ (.A.A) | FG AB | "A7" (AE) E2 | EF GA | "D" (GD) D2 | 
+"D" fd/A/ fd/A/ |"A7" Gc/c/ (.c.c) | cA/E/ cA/E/ |"D" FA/A/ (.A.A) | FG AB | "G" (.A.G) G2 | "A7" AE A>G | "D" FF F z ::
+[K:C] "C" e2 (^cG) | E3 (G/^c/) | EG/^c/ EG/c/ |"G7" D^F/B/ DF/B/ | ^f2 (dB) | ^F3 d | gg g>^f | "C" (^fe) e2 | 
+"C" e2 (^cG) | E3 (G/^c/) | EG/^c/ EG/c/ |"G7" D^F/B/ DF/B/ | ^f2 (dB) | ^F3 d | gg g(^f/g/) | "C" ee"^B.O." e z :|
+

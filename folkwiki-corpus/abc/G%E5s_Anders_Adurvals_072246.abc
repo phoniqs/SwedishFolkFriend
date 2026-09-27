@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Gås Anders A-durvals
+R:Vals
+C:Gås-Anders
+O:Uppland
+S:Bo Larsson
+Z:Karin Helander efter Karen Myers http://bluerose.karenlmyers.org/trans/1216.pdf
+M:3/4
+L:1/8
+Q:200
+K:A
+|: "^A" E2 AA A2 | BA =GF E2 | E2 cc cc | c2 Bc A2 | 
+A2 dd d2 | AF Ad f2 | fe ce ae | c4 A2 :|
+[| "^B" !segno! Ad fd fd | AF Ad fd | cd ec ec | AE Ac ec | 
+cB BB B2 | Bc de fg | a2 ae ce | ae ce A2 |
+Ad fd fd | AF Ad fd | cd ec ec | AE Ac ec | 
+cB BB B2 | Bc de fg | ae ce dB |1 "^Da capo" A4 E2 |]2 "^Fine" A4 f2 |:
+"^C" e3 a ec | A4 f2 |e2 ea ec | A4 a2 | 
+a2 c'2 c'2 | e4 e2 | ae ce ae |1 c4 f2 :|2 "^Dal signo" c2 B2 A2 |]
+

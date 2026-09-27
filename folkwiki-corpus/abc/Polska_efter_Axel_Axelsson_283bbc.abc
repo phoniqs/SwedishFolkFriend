@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:520
+T:Polska efter Axel Axelsson
+T:"Pinntorpafruns polska"
+T:(OA 520)
+B:Sörmländska låtar samlade av Olof Andersson nr 520
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson 2025-03-01
+H: Låten kallades ’Pinntorpafruns polska’. Axelsson hade lärt den av en statdräng vid Östtorp.
+M:3/4
+L:1/4
+Q:100
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+d/ | d/>c/ B/>A/ B/>A/ | B/>c/ d3/2 d/ | d/B/4d/4 c/A/4c/4 B/G/4B/4 |  A/F/4A/4 G/D/ B,/D/ |
+d/>c/ B/>A/ B/>A/ | B/>c/ d3/2 d/ | d/B/4d/4 c/A/4c/4 B/G/4B/4 |  A/F/4A/4 G2 ::
+G,/ | G,/>B,/ B,/B,/ B,/B,/ | G,/>C/ C/C/ C/C/ |  G,/>B,/ D/G/ B/d/ | A/4c/4A/4F/4 G/ z/ G/ z/ :|
+W:Text: 
+W:”Söte jävel, ta mej inte än, 
+W:a tadeli, tadeli, tadeli, da ja ja ja.
+W:Jo, jag tar dej, tar dej, tar dej, tar dej,
+W:för du har länge nogsamt vänt’ på mej, sa’n”.
+W: 
+

@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:15
+T:Fjäskern
+T:(Sv Folkdanser Del 1)
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 T:15. Fjäsken"
+Z:http://runeberg.org/folkdans/besk/0044.html
+Z:"Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 15
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1
+"^1""^Förspel""G" dc Bc dg Bd |"D7" dc cA"D7" A2"G" G2 |]: [K:G][M:4/4][K:treble]"^Dans""G" DG B2"D7" AB c2 | 
+Bc AB"G" GB d2 | DG B2"D7" AB c2 | Bc AB"G" G2 G2 ::
+"G" dc Bc dg Bd |"D7" dc Bc"G" e2 d2 | dc Bc dg Bd | "D7" dc cA"D7" A2"G" G2 :| 
+V:2
+"^2" BA GA Bd GB | BA AF C2 B,2 |]:[K:G][M:4/4][K:treble] B,D G2 FG A2 | 
+GA FG DG B2 | B,D G2 FG A2 | GA FD B,2 B,2 ::
+"^Spelas önskat ant. ggr." BA GA Bd GB | BA GA c2 B2 | BA GA Bd GB |"^Stämförslag B.O." BA AF C2 B,2 :|
+

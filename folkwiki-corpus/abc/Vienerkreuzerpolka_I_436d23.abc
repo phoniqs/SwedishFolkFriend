@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:50
+T:Vienerkreuzerpolka I
+O:Sverige
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sverige, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" g | (f/a/)f/d/ (e/g/)e/c/ | dd d z |]:[K:D][M:2/4][K:treble]"^Dans" ff/e/ df | a z g z | 
+gg/e/ ce | g z f z | aa/f/ df | b z g z | (f/a/)f/d/ (e/g/)e/c/ | dd d z :: 
+aa/b/ af | g z e z | gg/a/ ge | f z d z | 
+(e/d/)e/f/ gg | (f/e/)f/g/ a2 | (a/b/)a/g/ fe | d3 z :| 
+V:2
+"^2" e | (d/f/)d/A/ (c/e/)c/A/ | FF F z |]:[K:D][M:2/4][K:treble] dd/A/ Fd | f z e z | ee/c/ Ac | 
+e z d z | ff/d/ Ad | g z e z | (d/f/)d/A/ (c/e/)c/A/ | FF F z :: ff/g/ fd | e z c z | ee/f/ ec | 
+"^Spelas önskat antal ggr." d z A z | (c/B/)c/d/ ee | (d/c/)d/e/ f2 | "^Stämförslag B.O." (f/g/)f/e/ dA | F3 z :|
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:96
+T:Schottis i turer
+T:(Sv Folkdanser Del 1)
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 96 Schottis i turer"
+Z:http://runeberg.org/folkdans/besk/0091.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 96
+L:1/16
+M:2/4
+K:C
+V:1
+"^1""^Förspel" G,B,DF AGFD | C2c2 c4 |:[M:2/4][K:treble]"^Dans" CEGc e2c2 | (3(cBc) (dc) B2A2 | G,B,DF AGFD | 
+CEGc e2c2 | CEGc e2c2 | (3(cBc) (dc) B2A2 | G,B,DF AGFD | C2c2 c4 :: 
+ (3(g^fg) (ag) e2c2 |"^Spelas med repr.  2 ggr."(3(cBc) (dc) B2A2 | G,B,DF AGFD | CEGc e2c2 | 
+(3(g^fg) (ag) e2c2 | (3(cBc) (dc) B2A2 | G,B,DF AGFD | C2c2 c4 :| 
+V:2
+"^2""G7" DG,B,D FEDB, |"C" G,2E2 E4 |:[M:2/4][K:treble]"C" G,CEG c2E2 | "C" (3(EDE) (GE)"Dm" G2F2 |"G7" DG,B,D FEDB, |
+"C" G,CEG c2E2 | G,CEG c2E2 | "C" (3(EDE) (GE)"Dm" G2F2 |"G7" DG,B,D FEDB, |"C" G,2E2 E4 :: "C"(3(e^de) (fe) c2G2 | 
+"Dm" (3(A^GA) (BA) =G2F2 | "G7" DG,B,D FEDB, |"C" G,CEG c2E2 |"C" (3(e^de) (fe) c2G2 | 
+"Dm"(3(A^GA) (BA) =G2F2 |"G7" DG,B,D "^Stämförslag B.O." FEDB, |"C" G,2E2 E4 :|
+

@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo om bakfoten
+C:Svend Asmussen
+O:Danmark
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sven Asmussen"
+Z:"Arr. Lars Holm."
+L:1/8
+M:5/4
+K:G
+V:1
+|: G,B, DG FG D2 B,2 | CE Gc Bc G2 E2 | DF Ad ^cd A2 F2 | GB GD B,E DC B,A, | 
+G,B, DG FG D2 B,2 | CE Gc Bc G2 E2 | DF Ad ^cd A2 F2 | GB GD B,D G,2 z2 :| 
+z2 z EGB eg be' | d'2 c' d'2 c' b2 a2 | z2 z B,^DF B^d fb | a2 g a2 g f2 e2 | 
+z2 z EGB eg be' | d'2 c' d'2 c' b2 a2 | z2 z B,^DF B^d fb | e2 z [Gce] [Gce]2 [Gce]2 [Fcd]2 |] 
+G,B, DG FG D2 B,2 | CE Gc Bc G2 E2 | DF Ad ^cd A2 F2 | GB GD B,E DC B,A, | 
+G,B, DG FG D2 B,2 | CE Gc Bc G2 E2 | DF Ad ^cd A2 F2 | GB GD B,D G,2 z2 |] 
+[K:C] ([CE]2 [D^F]2 [^D^F]2 [EG]2) [Gce]2 | d3 cdc B2 A2 | GA BA G^F ED CB, | A,6- A,2 z2 | 
+[CE]2 [D^F]2 [^D^F]2 [EG]2 [Gce]2 | d3 c dc B2 A2 | GA BA G^F GF ED | (3(CDC) B,C EG c2 z2 |] 
+[D^FA]2 z [DFA] [DFA]2 [DFA]2 [DFA]2 | [G,DG]2 z [G,DG] [G,DG]2 [G,DG]2 [G,DG]2 | [CEG]2 z [CEG] [CEG]2 [CEG]2 [CEG]2 | [C^Fc]2 z [CFc] [CFc]2 [CFc]2 [CFc]2 | 
+[D^F_B]2 z [DFB] [DFB]2 [DFB]2 [DFB]2 | [_B,_E_B]2 z [B,EB] [B,EB]2 [B,EB]2 [B,EB]2 | [_E_Ac]2 z [EAc] [EAc]2 [EAc]2 [EAc]2 | [D^FGB]3 z z2 z2 z2 |]
+

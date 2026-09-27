@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Lill-Truls
+T:Hambopolska
+C:Jan O Löfgren 
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik: Jan Löfgren"
+L:1/8
+M:3/4
+K:F
+V:1
+"^1"u C |:v (F>E) (F>A) d>A | c2 c3u C | (F>E) (F>A) d>A | B2 B3u A | (G>^F) (G>B) =f>B | e2 e3u B | 
+d2 d3u f | c2 c3u C | (F>E) (F>A) d>A | c2 c3u c | (A>^G) (A>^c) e>=g | f2 f3u f | 
+(g>f) (f>d) d>B | (A>f) c3u A | (G>^F) (G>e) d>E |1 F2 F3u C :|2,8 F2 F3u F |: 
+[K:Bb] (B>A) (B>c) d>c | B2 F3u F | (B>A) (B>c) d>B | c2 G3u G | (c>=B) (c>d) e>c | 
+A>a a2 a2 | A>g g2 g>ua | (g>f) (f>=e) f>F | (B>A) (B>c) d>c | B2 F3u F | (B>A) (B>c) d>B | 
+c2 G3u G | (c>=B) (c>d) e>c | A>a a2 a2 | (g>f) (=e>f) _e>A |1,8 B2 B3u F :|2[K:F] B2 B2u C2 |] 
+V:2
+"^2"u A, |:"F" (C>=B,) (C>F) _B>F | A2 [FA]3 A, | (C>=B,) (C>F) _B>F |"Gm" E2 [CE]3 F | 
+ "C7"  (E>D) (E>G) c>G | B2 [GB]3 G | B2 [GB]3 B |"F" A2 [FA]3 A, | (C>=B,) (C>F) _B>F | A2 [FA]3 A | 
+"A7" E2 A2 ^c2 |"Dm" d2 [Fd]3 d |"Bb" (e>d) (d>B) B>G |"F" (F>A) [FA]3 F | 
+"C7" (E>D) (E>G) E>C |1"F" A,2 A,3 A, :|2,8"F" A,2 A,3 B, |:[K:Bb]"Bb" (D>^C) (D>E) F>E | 
+D2 [B,D]3 B, | (D>^C) (D>E) F>D |"Cm" E2 [CE]3 C | (E>D) (E>F) G>E |"F7" [CE]>c c2 c2 | 
+[A,F]>A A2 A>c |"Bb" (e>d) (d>^c) d>B, | (D>^C) (D>E) F>E | D2 [B,D]3 B, | (D>^C) (D>E) F>D | 
+"Cm" E2 [CE]3 C | (E>D) (E>F) G>E |"F7" [CE]>c c2 c2 | "^Arr. B.O." (B>A) (G>A) F>C |1,8"Bb" D2 D3 B, :|2 [K:F]"Bb" D2 D2"C7" A,2 |]
+

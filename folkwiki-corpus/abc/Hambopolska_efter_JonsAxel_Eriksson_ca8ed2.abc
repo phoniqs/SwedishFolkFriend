@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:82
+T:Hambo-polska efter Jons-Axel Eriksson
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(27) Hambo-polska från Södra Dalarna efter Jons-Axel Eriksson, Ingevallsbo."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1"v G2 (B>D) G>B | d2 (e>d) c>B | A2 (c>D) F>A | c2 (e>d) c>A | 
+G2 (B>D) G>B | d2 (e>d) c>B | A2 (c>D) F>A | G2 G3 z ::
+v G2 (c>e) c>e | G2 (B>d) B>G | D2 (F>A) c>A | G2 (B>d) g>B | 
+G2 (c>e) c>e | G2 (B>d) B>G | D2 (F>A) c>A | G2 [Bg]3 z :| 
+V:2
+|:"^2""G" D2 (G>B,) D>G | B2 (c>B) A>G |"D7" F2 (A>A,) C>D | F2 (c>B) A>F |
+"G" D2 (G>B,) D>G | B2 (c>B) A>G |"D7" F2 (A>A,) C>D |"G" B,2 [B,D]3 z ::
+"C" E2 (G>c) G>c |"G" D2 (G>B) G>D | "D7" A,2 (C>D) F>D |"G" B,2 (D>G) B>G |
+"C" E2 (G>c) G>c |"G" D2 (G>B) G>D | "D7" "^Stämförslag B.O." A,2 (C>D) F>D |"G" B,2 [B,G]3 z :|
+

@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Ingvar Norman
+T:"Afrika-polskan"
+C:Ingvar Norman
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (41) av Ingvar Norman, Säter."
+Z:"Melodin tillkom hösten 1955 under en spelmansresa i Afrika."
+L:1/8
+M:3/4
+K:Gm
+V:1
+"^1"u c |:v (3(B/c/B/) A/B/ G2 D>B,"^Afrika-polskan" | G,2 (3(d/e/d/) B/d/ g2- | g^f/g/ (ag) =f>a | (3(g/a/g/) =e/g/ (f_e) d>c | 
+(_e>d) (dc) A(c/A/) |1 Bd/B/ GB/G/ Duc :|2 Bd/B/ G3v D- |: D>B G(B/G/) G(B/G/) | 
+^F>c A(c/A/) A(c/A/) | (c>A) (A^F) F2- | ^F=E/F/ (GD) D2- | D(g ^f)a/f/ d2- | 
+db ab/a/ g2 | ce/c/ d>(G ^F)(A/F/) |1 (^FG) G3v D- :|2 (^FG) G3 z |] 
+V:2
+"^2"u A |:v G^F/G/ D2 B,>G, | D2 GD/G/ B2- | BA/B/ (cB) A>c | BG/B/ (AG) ^F>A | 
+(c>B) (BA) ^FF |1 GG DD B,uA :|2 D2 B,3v G,- |: G,2 B,2 DD | 
+C2 D2 ^FF | A2 (^FD) C2- | CB,/C/ (DB,) B,2- | B,(B A)c/A/ ^F2- | 
+^Fd cd/c/ B2 |  Ac/A/ ^F>(E D)D |1 (CB,) B,3v G, :|2"^Stämförslag B.O." (CB,) B,3 z |] 
+

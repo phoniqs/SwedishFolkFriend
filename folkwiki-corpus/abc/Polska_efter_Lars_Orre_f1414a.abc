@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:615
+T:Polska efter Lars Orre
+S:Efter Lars Orre Rot
+O:Älvdalen, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+U:t=tenuto
+K:Am
+V:1
+|:"^1" (3e4 (^g4 b4) a4- | a4 (ga)ge f4- | f2>e2 d2te2 tf2tg2 | a4 (fd)fd e4- | 
+(3e4 (^g4 b4) a4- | a4 (ga)ge f4- | f2>(e2 d2>)(f2 a2>)g2 | (g2<e2) e8 :: 
+B4 (cB)cd e2>c2 | (3B4 A4 B4 c4 | B4 (cB)cd e2>c2 | (3B4 A4 G4 E4 | 
+B4 (cB)cd e2>c2 | (3B4 A4 B4 c4 | B4 (cB)cd e2>c2 | (B2<G2) A8 :| 
+V:2
+|:"^2" (3B4 (e4 d4) c4- | c4 (ef)ec d4- | d2>A2 F2tA2 td2te2 | f4 (d2A2) B4- | 
+(3B4 (e4 d4) c4- | c4 (Bc)B^G A4- | A2>(^G2 F2>)(A2 c2>)B2 | (B2<^G2) G8 :: 
+^G4 (AG)AB c2>A2 | (3^G4 E4 G4 A4 | ^G4 (AG)AB c2>A2 | (3^G4 E4 D4 B,4 | 
+^G4 (AG)AB c2>A2 | (3^G4 E4 G4 A4 | ^G4 (AG)AB c2>A2 |"^Stämförslag B.O." (^G2<E2) C8 :|
+

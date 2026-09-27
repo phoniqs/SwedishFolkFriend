@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Västerdalälven
+T:Vals
+C:Hans Lisper
+R:Vals
+O:Malung, Dalarna
+Z:Karin Helander
+N:Från inspelning https://www.jollybob.se/Database/audio/Vdalalven.mp3
+N:Inspelningen är något otydlig, rätta gärna felen.
+L:1/8
+M:3/4
+K:Am
+Q:160
+V:1
+E2 |: A2 {B}A^G AB | c2 {d}cB cd | e2 a2 ^f2 | g4 e2 | a3 ^g a2 | 
+e3 d ce | fe dc Be | B4 E2 | A2 {B}A^G AB | c2 {d}cB cd | 
+e2 a2 ^f2 | g4 e2 | a3 ^g a2 | e3 d ce | fe dc B^G |1 A4 E2 :|2 E2 A4 |:
+f2 fe fg | a2 f2 d2 | c2 {d}cB ce | a2 e2 c2 | !trill!B2 BA Be | 
+g4 f2 | e2 ed cd | e2 c2 A2 | f2 fe fg | a2 f2 d2 | 
+c2 {d}cB ce | a4 c2 | !trill!B2 BA Be | g4 f2 | e2 ed cB | A6 :|
+

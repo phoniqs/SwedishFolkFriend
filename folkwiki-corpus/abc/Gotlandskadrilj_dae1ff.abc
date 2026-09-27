@@ -1,0 +1,46 @@
+%%abc-charset utf-8
+
+X:26
+T:Gotlandskadrilj
+T:(Sv Folkdanser Del 1)
+O:Gotland
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 26. Gotlandskadrilj Philochoros"
+Z:http://runeberg.org/folkdans/besk/0193.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 26
+L:1/4
+Q:1/4=384
+M:2/2
+K:G
+V:1
+"^1""^Förspel" B/c/ | d B d B | d B d c/d/ | e c f d | g2 g |][K:G][M:2/2][K:treble]"^Dans" B/c/ |: 
+"^(1)" d B d"^Första reprisen spelas staccato andra gången." B | d B d c/d/ | e c e c | e c e f/g/ | a f a f | a f d e/f/ | g d g b | g3 z ::
+"^(2)" G G G B/G/ | E E E2 | E E E G/E/ | E D D2 | c c c d/c/ | B B B c/B/ | D F/A/ D F/A/ | A G G2 | 
+G G G B/G/ | E E E2 | E E E G/E/ | E D D2 | c c c d/c/ | B B B c/B/ | D F/A/ D F/A/ | A G G2 :|
+"^(3)" G2 G, B,/C/ | D E D B |A2 A, A,/B,/ | C D C A | G2 G, B,/C/ | D G/B/ d c/B/ | A A A B/A/ | G G G z |]
+"^(4)" B2 G2 | A A A z | c2 F2 | G G G z | B2 G2 | A A A z | D F/A/ D F/A/ | A G G f/g/ |] 
+[K:D]"^(5)" a a a b/a/ | f f f g/f/ | e A e A | d/e/ f/g/ a f/g/ | a a a b/a/ | f f f g/f/ | e A e A | d2 d2 |]
+[K:G]"^(6)" B G D D/G/ | B, G D B | A d F A | D F A,2 | B G D D/G/ | B, G D B | A d F A | G2 G f/g/ |]
+[K:D]"^(7)""D" a a a b/a/ | f f f g/f/ | e A e A | d/e/ f/g/ a f/g/ | a a a b/a/ | f f f g/f/ | e A e A | d2 d2 |:
+[K:G]"^(8)" G D/G/ B G | G D/G/ B G | A A d d | B B G2 | G D/G/ B G | G D/G/ B G | A A d d | 
+B B G2 | A A d d | B B G G | A A d d | G2 g2 | e c c/B/ c | d B B/^A/ B | c A A/^G/ A | 
+G/A/ B/c/ d2 | e c c/B/ c | d B B/^A/ B | c A A/^G/ A |1 G2 G2 :|2 G2 g2 |] 
+V:2
+"^2" G/A/ |:"G" B G B G | B G B A/B/ |"Am" c E"D7" d F |"G" B2 B |] 
+[K:G][M:2/2][K:treble][Q:1/4=384] G/A/ |:"G" B G B G | B G B A/B/ |"Am" c E c E | c E c d/e/ | 
+"D7" f d f d | f d F A/d/ |"G" B G B d | B3 z ::"G" B, B, B, D/B,/ |"C" C C C2 | C C C E/C/ | 
+"G" C B, B,2 |"D7" A A A B/A/ |"G" G G G A/G/ |"D7" A, D/F/ A, D/F/ |"G" C B, B,2 | 
+B, B, B, D/B,/ |"C" C C C2 | C C C E/C/ |"G" C B, B,2 |"D7" A A A B/A/ |"G" G G G A/G/ | 
+"D7" A, D/F/ A, D/F/ |"G" C B, B,2 :|"G" B,2 B, G,/A,/ | B, C B, G |"D7" F2 C C/D/ | 
+A, B, A, F |"G" B,2 B, G,/A,/ | B, D/G/ B A/G/ |"D7" F F F G/D/ |"G" B, B, B, z |]"G" G2 D2 | 
+"D7" F F F z | F2 C2 |"G" B, B, B, z | G2 D2 |"D7" F F F z | A, D/F/ A, D/F/ | 
+"G" C B, B, d/e/ |][K:D]"D" f f f g/f/ | d d d e/d/ |"A7" c E A G |"D" F/A/ d/e/ f d/e/ | 
+f f f g/f/ | d d d e/d/ |"A7" c E A G |"D" F2 F2 |][K:G]"G" G D B, B,/D/ | G, D B, G | 
+"D7" F A D F | A, D D2 |"G" G D B, B,/D/ | G, D B, G |"D7" F A D C |"G" B,2 B, d/e/ |] 
+[K:D] f f f g/f/ | d d d e/d/ |"A7" c E A G |"D" F/A/ d/e/ f d/e/ | f f f g/f/ | d d d e/d/ | 
+"A7" c E A G |"D" F2 F2 |:[K:G][Q:1/4=384]"G" D B,/D/ G D | D B,/D/ G D |"D7" F F A A | 
+"G" G G B,2 | "^1:a     2 ggr.""^2:a     2 ggr.""^3:e     1 ggr.""^4:e     1 ggr.""^5:e     1 ggr.""^6:e     1 ggr.""^7:e     1 ggr.""^8:e     3 ggr."  D B,/D/ G D | D B,/D/ G D |"D7" F F A A |"G" G G B,2 |"D7" F F A A | 
+"G" G G B, B, | "D7" F F A A | "G" B,2 B2 |[Q:1/4=552]"C" c E E/D/ E |"G" B G G/F/ G |"D7" A F F/E/ F |"G" B,/D/ G/A/ B2 | 
+"C" c E E/D/ E |"G" "^Stämförslag B.O." B G G/F/ G |"D7" A F F/E/ F |1"G" B,2 B,2 :|2 "G" B,2 B2 |] 
+

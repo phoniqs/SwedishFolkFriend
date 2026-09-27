@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Kringellek efter Kers Erik
+S:[[Personer/Kers Erik Ersson]], Näktergal
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+I:linebreak $
+K:Am
+V:1
+|:"^1" a>(g e>)(f g>)a | f>e d2 ^c2"^Kringellek" | f>(e d>)(c A>)B | G2 A4 :: 
+A>(^c d>)(e f>)g | f>d e2 ^c2 | A>(^c d>)(e f>)g | 
+f>d e2 ^c2 | d>(f a>)(g f>)e | ^c2 d4 :| 
+V:2
+|:"^2" ^c>(B A>)(B c>)d | A>G F2 E2 | A>(G F>)(E D>)E | B,2 ^C4 :: 
+F>(G A>)(^c d>)e | d>B ^c2 A2 | D>(E F>)(G A>)_B | 
+A>F G2 E2 | F>(A"^Stämförslag B.O." d>)(^c A>)G | E2 F4 :|
+

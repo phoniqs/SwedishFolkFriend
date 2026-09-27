@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Bergviken
+C:Ivar Thorn
+O:Bergvik, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:2/4
+K:D
+V:1
+"^1" (F/G/) |: A(B/A/) F(A/F/) | (D/F/)(A/d/) f"^Gånglåt"a | B(d/B/) G(B/G/) | (E/G/)(B/e/) gb | A,>C EA | 
+(C/E/)(A/c/) eg | c[Ae] (G/A/)(c/e/) | [Af]3 (F/G/) | A(B/A/) F(A/F/) | (D/F/)(A/d/) fa | 
+B(d/B/) G(B/G/) | (E/G/)(B/e/) gb | A,>C EA | (g/f/)(e/d/) cB | A(^G/A/) fe |1 d3 (F/G/) :|2 d4 |: 
+[DAf]>g ag | f2 d2 | g(g/a/) bg | [EB]4 | c(c/d/) e(e/f/) | ge cA | d(d/e/) f(f/g/) | ag eA | 
+[DAf]>g ag | f2 d2 | g(g/a/) bg | [EB]4 | c(c/d/) e(e/f/) | ge cA | GA (E/A/)(c/e/) | d4 :| 
+V:2
+"^2" (D/E/) |: F(G/F/) D(F/D/) | A,F (A/d/)(f/d/) | G(B/G/) B,(D/B,/) | G,E (G/B/)(e/B/) | c>A Ge | 
+(A,/C/)(E/A/) cA | GE (C/E/)(A/c/) | [Fd]3 (D/E/) | F(G/F/) D(F/D/) | A,F (A/d/)(f/d/) | 
+G(B/G/) B,(D/B,/) | G,E (G/B/)(e/B/) | c>A Ge | (e/d/)(c/B/) A^G | G(E/G/) AG |1 F3 (D/E/) :|2 F4 |: 
+d>e fe | dA FD | e(e/f/) ge | BG EB, | A(A/B/) c(c/d/) | ec AG | F(F/A/) d(d/e/) | fe cA | 
+d>e fe | dA FD | e(e/f/) ge | Be G>B | A(A/B/) c(c/d/) | ec AG | EG (G/F/)(E/G/) | [FA]4 :|
+

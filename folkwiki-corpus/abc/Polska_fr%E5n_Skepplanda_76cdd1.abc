@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Skepplanda
+S:J Olsson
+O:Skepplanda, Västergötland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter J. Olsson
+Z:Uppt. Ingvar Norman
+Z: Arr. B.O
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" d>(e f2) e>c | (d>e) (3(de"^Västergötland"d) c>A | B>(c d2) c>A | B>A GA/G/ F2 | 
+d>(e f2) e>c | (d>e) (3(ded) c>A | B>(c d>)(d c>)A | (AB) G4 :: 
+G2 (G>A) G>F | (GA) Bc d2 | d2 (c>B) G>B | (BA) FA c2 | 
+G2 (G>A) G>F | (GA) Bc d2 | d2 (B>A) F>A | (AB) G4 :| 
+V:2
+|:"^2" A>(c d2) c>A | (B>c) (3(BcB) A>F | G>(A B2) A>F | E>C B,C/B,/ A,2 | A>(c d2) c>A | 
+(B>c) (3(BcB) A>F | G>(A B>)(B A>)F | (DC) B,4 :: B,2 (B,>C) B,>A, | (B,D) GA B2 | B2 (A>G) D>G | 
+(GF) DF E2 | B,2 (B,>C) B,>A, | (B,D) GA B2 | "^Uppt. Ingvar Norman. Arr. B.O." B2 (G>F) D>C | (CD) B,4 :| 
+

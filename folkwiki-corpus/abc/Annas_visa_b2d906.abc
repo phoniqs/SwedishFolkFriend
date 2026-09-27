@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Annas visa
+C:Leif Göras
+O:Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Uppt. från CD. med stämförslag B.O.
+L:1/4
+M:3/4
+K:A
+V:1
+"^1"u c |:v E2 E | E E E/D/ | C (E A) | c2 (A/G/) | F (B c) | 
+d3/2 c/B/A/ | A G3/2u F/ | F Eu c | E2 E | E E E/D/ | C E A | 
+c d e | d F3/2u A/ | G (A B) |1 A3- | A2u c :|2 A3- | A2v E/E/ |:v 
+(E/c/) c E/E/ | (E/A/) (A/c/) c/e/ | e d3/2u c/ | c B3/2u A/ | 
+A G3/2u F/ | F Eu d | d2 c | c2 (c/d/) | e E A | c d e | f d c | 
+B c d | c E3/2u A/ | G (A B) |1 A3- | A2v E/E/ :|2 A3- | A2 z |] 
+V:2
+"^2" E |:"A" C2 C |"E7" B, B, B,/G,/ |"A" A, (C E) | A2 (E/C/) |"D" D (F A) | "Bm" B3/2 A/G/F/ |"E7" E D3/2 D/ | D B, E |
+"A" C2 C |"E7" B, B, B,/G,/ |"A" A, C E | A G =G | "D" F D3/2 F/ |"E7" E (_E D) |1"A" C3- | C2 E :|2"A" C3- | C2 C/C/ |:
+"A" (C/E/) E C/C/ | (C/E/) (E/A/) A/=G/ |"D" =G F3/2 F/ |"Bm" F D3/2 F/ |"E7" F E3/2 D/ | D B, G |"D" F2 E | 
+"A" E2 (E/F/) | A C E | A G =G |"D" A F E |"Bm" D E F |"A" E C3/2 E/ |"E7" E (_E D) |1 "A" C3- | C2 C/C/ :|2"A" C3- | "^B.O."C2 z |]
+

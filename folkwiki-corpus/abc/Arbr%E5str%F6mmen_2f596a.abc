@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Arbrå-strömmen
+T:Polska
+C:Johan Hall
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:C. Sv. Bygdedanser, B. Hälsingland
+Z:Komp och arr Johan Hall
+L:1/16
+M:3/4
+K:Gm
+V:1
+|:"^1" (B,A,)B,D (FD)FB (dB)FD | (C=B,)CE (G^F)Gc (ec)GE | (F=E)FA (c=B)cf (af)=ef | (ec)AF B2F2 D2B,2 | 
+(B,A,)B,D (FD)FB (dB)FD | (C=B,)CE (G^F)Gc (ec)GE | (F=E)FA (c=B)cf (af)=ef | (ec)AF [DB]8 ::
+ (GB)dB (GB)dB (GB)dB | (ed)c=B (c_B)AG (AG)^F=E | (D^F)AF (D^F)AF (D^F)AF | (dc)BA (BA)G^F (GD)B,D | 
+(G,B,)DB, (G,B,)DB, (G,B,)DB, | (G,C)EC (G,C)EC (G,C)EC | (D^F)Ac (dc)BA (BA)GF | [DA]4 [B,G]6 z2 :: 
+(EF)Ac (ec)Ac (fe)cA | (FB)dB (FB)dB (FB)dB| (D^F)Ac (dc)AF (DF)AF | (DG)BG (DG)BG  (DG)BG | 
+ (CE)Gc (ed)c=B (cG)EC | (B,D)GB (dc)BA (BG)DB, | (CD)^FA (dc)BA (BA)GF | [DA]4 [B,G]6 z2 :| 
+V:2
+|:"^2""Bb" [B,F]2[B,F]2 (DB,)DF (BF)DB, |"Cm" [CG]2[CG]2 (EC)EG (cG)EC | "F7" [EA]2[EA]2 (A^G)Ac (fd)^cd |"F7" (cA)FE"Bb" (d2B2) F2D2 |
+"Bb" [B,F]2[B,F]2 (DB,)DF (BF)DB, | "Cm" [CG]2[CG]2 (EC)EG (cG)EC |"F7" [EA]2[EA]2 (A^G)Ac (fd)^cd |"F7" (cA)FE"Bb" [B,F]8 :: 
+"Gm"(DG)BG (DG)BG (DG)BG | "D7" (cB)AG (AG)^F=E (FE)DC | "Gm" (CD)^FD (CD)^FD (CD)^FD | (BA)G^F (GD)B,D (BG)DB, | 
+(B,D)GD (B,D)GD (B,D)GD | "Cm"(CE)GE (CE)GE (CE)GE |"D7" (A,D)^FA (BA)GF (GD)B,A, |"D7" [CD]4"Gm" [G,D]6 z2 :: 
+"F7" (CE)FA (cA)FA (dc)AF |"Bb" (DF)BF (DF)BF (DF)BF |"D7" (CD)^FA (BA)FD (CD)FD | "Gm" (CD)GD (CD)GD (CD)GD | 
+"Cm"(G,C)EG (cG)ED (GE)CG, |"Gm" (G,B,)DG (BA)G^F (GD)B,G, |"D7" (A,C)D^F (BA)GF (GD)B,A, |"D" [CD]4 "Gm" [G,D]6 z2 :|
+

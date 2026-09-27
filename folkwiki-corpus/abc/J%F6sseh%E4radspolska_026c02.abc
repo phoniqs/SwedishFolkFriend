@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:40
+T:Jössehäradspolska
+T:(Sv Folkdanser Del 1)
+O:Värmland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 41. Jössehäradspolska (2)"
+Z:http://runeberg.org/folkdans/besk/0060.html
+Z:"Spelas rätt igenom 5 ggr."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 41
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^Förspel" d2 (3(BGB) (3(AFA) | G2 g2 z2 |][K:G][M:3/4][K:treble]"^Dans" d2 (3(BGB) (3(cAc) | 
+(3(BGB) (3(dBd) g2 | d2 (3(BGB) (3(cAc) | (3(BGB) (3(ABA) D2 | d2 (3(BGB) (3(cAc) | 
+(3(BGB) (3(dBd) g2 | d2 (3(BGB) (3(AFA) | G2 g2 z2 |] 
+g2 (e>^d) e>f | (3(gfg) (e2 B2) | g2 (e>^d) e>g | (3(fef) (b2 B2) | 
+g2 (e>^d) e>f | (3(gfg) (e2 B2) | G2 (F>E) ^D>E | (FG) E4 |] 
+V:2
+"^2" B2 (3(GDG) (3(FDC) | B,2 B2 z2 |][K:G][M:3/4][K:treble] B2 (3(GDG) (3(AFA) | 
+(3(GDG) (3(BGB) B2 | B2 (3(GDG) (3(AFA) | (3(GDG) (3(FGF) A,2 | B2 (3(GDG) (3(AFA) | 
+(3(GDG) (3(BGB) B2 | B2 (3(GDG) (3(FDC) | B,2 B2 z2 |] 
+B2 (G>F) G>A | (3(BAB) (G2 E2) | "^Spelas rätt igenom  5 ggr." B2 (G>F) G>B | (3(A^GA) (^d2 F2) | 
+B2 (G>F) G>A | (3(BAB) (G2 E2) | "^Stämförslag B.O." B,2 (A,>G,) A,>B, | (A,B,) G,4 |]
+

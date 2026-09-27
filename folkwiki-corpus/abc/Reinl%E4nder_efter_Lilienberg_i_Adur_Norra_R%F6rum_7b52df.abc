@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:2
+T:Reinländer efter Lilienberg i A-dur (Norra Rörum)
+C:Trad
+R:Reinländer
+Z:Patrik Månsson, 2024-08-26
+O:Skåne
+B:Transponerad (P-A spelar den i A-dur med Papporkestern)
+M:2/4
+L:1/8
+Q:1/4=160
+K:A
+| "A" e3 d | c3 B | A2 Ac | E2 Bc | "D" d3 c | "E" B2 B2 | "A" e3 d | c2 A2 |
+| "A" e3 d | c3 B | AG Ac | E2 Bc | "D" d3 c | "E" B2 cB | "E" B2 "A" A2 | A4 |
+| "A" e3 d | c3 B | A2 Ac | E2 Bc | "D" d3 c | "E" B2 B2 | "A" ef ed | c2 A2 |
+| "A" e3 d | c3 B | A2 Ac | E2 Bc | "D" d3 c | "E" B2 cB | "E" B2 "A" A2 | A4 |
+| "A" E3 F | E2 E2 | "D" F2 "E" G2 | "A" A2 "E" B2 | "A" c4 "D" | d3 c | "E" B2 B2 "A" | e3 d | c2 A2 |
+| "A" E3 F | E2 E2 | "D" F2 "E" G2 | "A" A2 "E" B2 | "A" c4 "D" | d3 c | "E" B2 cB | B2 "A" A2 | A4 |
+| "A" E3 F | E2 E2 | "D" F2 "E" G2 | "A" A2 "E" B2 | "A" c4 "D" | d3 c | "E" B2 B2 | "A" ef ed | c2 A2 |
+| "A" E3 F | E2 E2 | "D" F2 "E" G2 | "A" A2 "E" B2 | "A" c4 "D" | d3 c | "E" B2 cB | B2 "A" A2 | A4 |
+

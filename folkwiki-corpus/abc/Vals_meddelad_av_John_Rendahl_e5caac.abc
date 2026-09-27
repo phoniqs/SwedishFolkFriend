@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:15
+T:Vals meddelad av John Rendahl
+T:(SmM II:15)
+R:Vals
+O:Jönköping, Småland
+S:John Rendahl
+B:Småländsk Musiktradition
+M:3/4
+L:1/8
+K:D
+A(B A)(G F)E|D2 f2 f2|ef gf ed|(cd) (ec) A2|
+A(B A)(G F)(E|D2) f2 f2|ef gf ec|d6:|
+K:A 
+|:A2 ce ce|a2 aa a2|b2 be f=g|a2 ed (cB)|
+A2 ce ce|a2 aa a2|b2 be f=g|a6:|
+K:D
+|:[Af]2 {/g}fe f2|fa af g2|e2 ec ec|d2 fd A2|
+[Af]2 {/g}fe f2|fa af g2|ge ec A2|d6:|
+

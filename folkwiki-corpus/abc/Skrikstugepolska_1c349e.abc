@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Skrikstugepolska
+O:Upplands Väsby, Uppland
+R:Polska
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Från LP och CD med [[Personer/Åsa Jinder]]. Uppt. och stämförslag B.O. 2006-08-03."
+N:"Skrikstugan var ett torp i Runaskogen, Upplands Väsby. I dag finns endast en husgrund kvar - och låten."
+L:1/16
+Q:1/4=96
+M:3/4
+K:F
+V:1
+|:"^1"v (A,2C2) F2A2 c4 | (B,2D2) G2B2 d4 | c2Ac B2GE (CE)GB | (AG)FE F2C2 B,2A,2 | (A,2C2) F2A2 c4 | 
+(B,2D2) G2B2 d4 | (cA)fc (dc)=Bc _B2GE | (CE)GA G4 F4 :: v (CF)(AF) (CF)(AF) (CF)(AF) | 
+(^CE)(AE) (CE)(AE) (CE)(AE) | (DF)(AF) (DF)(AF) (DF)(AF) | (_EF)(AF) (EF)(AF) (EF)(AF) | D2B,D F2DF B2d2 |1
+ "^Skrikstugan var ett torp i Runaskogen, Upplands Väsby." c2Ac (fc)AF C2A,2 | G,2=B,2 D2G2 =B2d2 | (fd)=Bd c8 :|2 "^I dag finns endast en husgrund kvar - och låten." c2Ac (fc)AF (CF)Ac | B2AB d2B2 G2GE | (CE)GA G4 F4 |: 
+v d2D2 ^F2A2 d2Ac | B2AB (Bd)BA G4 | c2C2 E2G2 c2cB | (AG)AB (cd)cA F4 | 
+A,2^C2 E2A2 ^c2e2 | d2B2 G2D2 B,2G,2 | A,2C2 F2A2 c2cB | (CE)GA G4 F4 :| 
+V:2
+|:"^2""F" (F2A,2) C2F2 A4 |"Gm" (G2B,2) D2G2 B4 | "F" A2FA "C7" G2EC"C7" (G,C)EG |"F" (ED)CB, A,2C2 B,2A,2 | 
+(F2A,2) C2F2 A4 |"Gm" (G2B,2) D2G2 B4 | "F" (AF)cA "F" (BA)GF "C7" E2DC |"C7" (G,C)DC"C7" B,4"F" A,4 :: "F" (A,C)(FC) (A,C)(FC) (A,C)(FC) |
+"A7" (A,^C)(EC) (A,C)(EC) (A,C)(EC) | "Dm" (A,D)(FD) (A,D)(FD) (A,D)(FD) |"F7" (C_E)(FE) (CE)(FE) (CE)(FE) |"B" B,2>B,2 D2B,D F2B2 |1 
+"F" A2FA (cA)FC A,2F2 |"G7" =B,2D2 G2=B2 d2f2 |"G7" (d=B)GF"C7" E8 :|2 "F" A2FA (cA)FC (A,C)FA | "C7" G2EG B2G2 E2EC |"C7" (G,C)DC"C7" B,4"F" A,4 |:
+"D7" ^F2A,2 D2F2 A2FA |"Gm" G2^FG (GB)GD B,4 | "C7" E2G,2 C2E2 G2GE |"F" (FE)FG (AB)AF A,4 |"A7" E2A,2 ^C2E2 A2^c2 |"Gm" B2G2 D2B,2 D2B,2 |"F" F2A,2 C2F2 A2AF | "C7" (G,C)DC"C7" B,4"F" A,4 :|
+

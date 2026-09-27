@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Sizzi
+C:Tommy Rådberg
+R:Visa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Text: Dan Andersson. Musik från CD."
+L:1/8
+M:6/8
+K:C
+C | CEG cBA | GAG EC>G, | G,B,D GAF | EFD C2 C | 
+CEG cBA | GAG EC>G, | G,B,D GAF | EFD C2 c | 
+ccc ccc | cBc dc>A | GGG ccc | EEA G2 c | 
+ccc ccc | cBA GE>G, | G,B,D GAF | EFD C2 z |] 
+[K:D][M:6/8] D | DFA dcB | ABA FD>A, | A,CE ABG | FGE D2 D | 
+DFA dcB | ABA FD>A, | A,CE ABG | FGE D2 d | 
+ddd ddd | dcd ed>B | AAA ddd | FFB A2 d | 
+ddd ddd | dcB AF>A, | A,CE ABG | FGE D2 z |]
+

@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:8
+T:Brudmarsch från Hassela
+S:Efter Bytt-Lasse
+O:Hassela, Hälsingland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Arr. Thore Härdelin d.ä."
+B:25 spelmanslåtar från Hälsingland nr 8
+L:1/16
+M:2/4
+Q:80
+K:Am
+V:1
+|:"^1" c4{d} c2BA | [EB]6 (Bd) | (cB)A^G (AB)cd | e2^f2 g2e2 | 
+c4{d} c2BA | [EB]6 (Bd) | (cB)A^G Ace2 | (E^G)BG A4 :: 
+(AB)^cd e2ce | [Aa]6 (e^f) | g2^f2 e2^c2 | d4 a4 | e4 (cB)cd | 
+c4 (!>!e2!>!e2) | [EB]6 (Bd) | (cB)A^G Ace2 | B4 (E^G)BG | A6 z2 :| 
+[K:A] (AB)cd e2ce | [Aa]4 [^dc']4 | [=db]4 [de][df][dg]2 | [ca]6 z2 |] 
+V:2
+|:"^2""Am" [A,E]4 [A,E]4 |"E7" z2 [^G,D]2 [G,D]4 |"Am" (ED)CB, (CD)EF | E2^D2 [G,E]2[G,E]2 | 
+[A,E]4 [A,E]4 |"E7" z2 [^G,D]2 [G,D]4 |"Am" (ED)CB, CE[EA]2 |"E7" [B,D]4 "Am" [CE]4 :: 
+"A" (^CE)A[EB] [E^c]2A[Ec] | [E^c]4 [GA]4 |"Em" [DB]2[DA]2 "A" G2E2 | "Dm" [FA]4 [FA]4 | "Am" c4 (A^G)AB | 
+[A,E]4 (!>![A,E]2!>![A,E]2) |"E7" [B,^G]6 (DF) |"Am" (ED)CB, CEA2 | "E7" [B,D]4 (!>![B,D]2!>![B,D]2) |
+"Am" [CE]6 z2 :|[K:A]"A" [A,E]4 [Ec]2[EA][Ec] | [ce]4 [Bf]4 | "E7" [GB]4 [GB][FB][EB]2 |"A" [A,E]6 z2 |] 
+

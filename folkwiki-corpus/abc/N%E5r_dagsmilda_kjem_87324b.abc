@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Når dagsmilda kjem
+C:Jostein Sørbøen
+O:Norge
+R:vals
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+FA d |:"D" f2 fA df |"A" e2 eA ce |"Bm" d2 de fd |"G" B2 BA GB |
+"D/F#" A2 AF Ad |"G" B2 BA G2 | "Em" G>F D2 B,2 |"A7" C2 (3A,CE (3Ace |"D" f2 fA df |"A" e2 eF Ae |"Bm" d2 de fd |
+"G" B2 BA GB | "D/F#" A2 AF Ad |"G" B2 gf ed |1"A7" cd e2 c2 |"D" d3 F Ad :|2"A7" cd e2 c2 |"D" d2 cd fa |:
+"G" b3 g ed |"A" c3 c de |"F#m" fa af ef |"Bm" d3 c BA |
+"G" G2 BG Bd |"Em" g3 f ed |"E7" f3 e dB | "A7" c3 f ga |"G" b3 g ed |"A" c3 c de |"F#m" fa af ef |"Bm" d3 c BA |
+"G" G2 BG Bd | "Em" g3 f ed |1"A7" cd e2 c2 |"D" d3 d fa :|2"A7" cd e2 c2 |"D" d6 |]
+

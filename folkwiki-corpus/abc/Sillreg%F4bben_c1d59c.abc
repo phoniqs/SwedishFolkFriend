@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Sillregôbben
+T:Hambopolska
+C:Otôrgs-Kaisa Abrahamsson
+O:Bergsjö, Hälsingland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Kaisa Andersson, Bergsjö.  11-04-80."
+L:1/8
+M:3/4
+U:t=tenuto
+K:Bb
+V:1
+"^1"u F |:"Bb" (B>A) (Bd) fg | f2 dB F2 | B,2 (DF) Bc |"F7" B2 A^G A2 | (e>d) (ef) ge | 
+(3(cec) (tA2 tF2) | (E>D) (CF) Ac |"Bb" (cA) Bd F2 | (B>A) (Bd) fg | f2 dB F2 | B,2 (DF) Bc |
+"F7" B2 A^G A2 | (e>d) (ef) ge | (3(cec) (tA2 tF2) | (E>D) (CF) AB |1"F7" (3(cAc)"Bb" B3u F :|2"F7" (3(cAc)"Bb" B3 z |: 
+"Bb" (3(f3/2g/a) b2 d>c | Bb (fd) B2 | g>f d2 B2 |"F7" gf (eA) c2 | (e>d) (cB) AG | 
+F2 Ac f2 | (fa) (ae) ec | "Bb" B2 df b2 |(3(f3/2g/a) b2 d>c | Bb (fd) B2 | g>f d2 B2 |
+"F7" gf (eA) c2 | (e>d) (cB) AG | F2 Ac f2 | f>(a fe) cA |"Bb" B2 B3 z :| 
+V:2
+"^2" D |: F2 (FB) de | d2 BF D2 | D2 (B,D) FG | F2 ED E2 | A2 (AB) cA | F2 E2 CB, | A,2 (A,C) FE | 
+E2 DF D2 | F2 (FB) de | d2 BF D2 | D2 (B,D) FG | F2 ED E2 | A2 (AB) cA | F2 E2 CB, | 
+A,2 (A,C) FG |1 E2 [B,D]3 D :|2 E2 [B,D]3 z |: B2 d2 B>F | Dd (BF) D2 | B2 F2 DF | 
+BA (GF) E2 | A2 F2 EC | A,2 CF A2 | (Ac) (cA) AF | D2 FB d2 | B2 d2 B>F | Dd (BF) D2 | 
+B2 F2 DF | BA (GF) E2 | A2 F2 EC | A,2 CF A2 | A2"^Arr. B.O." (AF) EC | D2 [B,D]3 z :|
+

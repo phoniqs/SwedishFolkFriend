@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Jämt Olof
+S:Jämt Olof Ersson
+O:Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+Q:1/4=91
+M:3/4
+U:t=tenuto
+K:C
+V:1
+(F |: E>)G c2 d2 | (c/B/)c/d/ e3 d | c>(e a3) g | ^f>e (d>c) B(A/B/) | dc (tAtB) G>F | 
+E>G c2 d2 | c/B/c/d/ e3 d | c>(e a2) g>d |1 B/A/B/d/ c3 F :|2 B/A/B/d/ c3 e |: 
+g/>a/g/e/ (tgtc') e>g | a2 g/a/g/e/ c>e | g/>a/g/e/ (tfta) g>d | B/A/B/d/ (tctA) G>e | 
+g/>a/g/e/ (tgtc') e>g | a2 g/a/g/e/ c>e | g/>a/g/e/ (tfta) g>d |1 B/A/B/d/ c3 e :|2"^Stämförslag B.O." B/A/B/d/ c3 z |] 
+V:2
+D |: C>D E2 F2 | E/D/E/G/ c3 G | E>(A c3) e | d>c (B>A) G(^F/G/) | BA (t^FtD) B,>D | 
+C>D E2 F2 | E/D/E/G/ c3 G | E>(A c2) B>A |1 G/^F/G/=F/ E3 D :|2 G/^F/G/=F/ E3 c |: 
+e>c (tetg) c>e | f2 e/f/e/c/ G>c | e>c (tdtc) B>B | G/^F/G/B/ (tAt=F) E>c | 
+e>c (tetg) c>e | f2 e/f/e/c/ G>c | e>c (tdtc) B>B |1 G/^F/G/=F/ E3 c :|2 G/^F/G/=F/ E3 z |]
+

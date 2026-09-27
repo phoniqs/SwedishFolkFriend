@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:4
+T:Familie Sekstur
+O:Danmark
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danmark, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:6/8
+K:D
+V:1
+"^1""^Förspel" c | B2 e f2 g | a2 f d2 B | A2 c e2 f | (d3 d2) |][K:D][M:6/8][K:treble]"^Dans" A | F2 A B2 A | F2 A d2 A | 
+F2 A f2 e | (d3 d2) c | B2 e f2 g | a2 f d2 B | A2 c e2 f | (d3 d2) f |] 
+[K:A] e2 d B2 d | c2 A E2 E | F2 F B2 A | (G3 G2) F | EGB Ace | 
+EGB Ace | f2 d B2 G | (A3 A2) f |] [K:D] d2 f a2 f | (d3 d2) A | 
+d2 f a2 b | agf e2 e | fef g2 g | aga b2 b | afa gec | (d3 d2) z |] 
+V:2
+"^2" A | G2 c d2 e | f2 d B2 G | E2 A c2 A | (F3 F2) |][K:D][M:6/8][K:treble] F | D2 F G2 F | 
+D2 F A2 F | D2 F d2 A | (F3 F2) A | G2 c d2 e | f2 d B2 G | E2 A c2 A | (F3 F2) d |] 
+[K:A] c2 B G2 B | A2 E C2 C | D2 D G2 F | (E3 E2) D | B,DE CEA | B,DE CEA |"^Spelas önskat antal ggr." d2 B G2 E | 
+ (C3 C2) d |][K:D] "^Avslutas med första repr." A2 d f2 d | (F3 F2) F | 
+A2 d f2 g | fed c2 c | dcd e2 e | fef g2 g | "^Stämförslag B.O." fdf ecA | (F3 F2) z |]
+

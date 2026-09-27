@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:521
+T:Vals efter Axel Axelsson
+T:efter fadern
+T:(OA 521)
+B:Sörmländska låtar samlade av Olof Andersson nr 521
+R:Vals
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson 2025-03-01
+M:3/4
+L:1/4
+Q:130
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+G/B/ | d g g | g b b/g/ | f A/B/ A/G/ |  A2 d/d/ |
+d f g | a b c' | (d'/c'/) b/c'/ a/f/ |  g2 ::
+B/c/ | d B/G/ B/c/ | d B/G/ B/d/ |  c e c | A2 F/G/ |
+A/A/ F/D/ F/A/ | A/A/ F/D/ F/A/ |  A G/F/ G/A/ | G2 :|
+W:Text: 
+W:"Ja, värdes den flickan som fått en spelman
+W:för kan hon bara dansa, nog spelar väl han"
+

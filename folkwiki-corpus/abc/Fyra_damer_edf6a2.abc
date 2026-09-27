@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Fyra damer
+T:Alla är de olika
+R: Vals
+C:Michael Boman
+M:3/4
+L:1/8
+O:Malå, Lappland
+Q:1/4=120
+K:D
+|:"D" d3ec2 | d2B2c2 | "A"  A3B F2 | G4EF | G2A2B2
+|1 A4E2 | "D" A6- | A4z2 :|2 c2d2e2 | "D" d6- | d4z2 
+|: "G" g2e3g | "D" f2d4 | "C"  =cB cd ec | "G"  B2d4 | "Am"  A^G AB =cA 
+| "G"  GF GA BG | "A"  A2B2c2 |1 "D"  d2f4 :|2 "D"  d4ge |: [K:G] "G"  d4AB 
+| "C"  c4dc | "G"  B2d2d2 | d4AB | "C"  c4dc | "G"  B2G2AB | "D"  c2B2A2 
+|1 "G"  G4ge :|2 "G"  G4D2 |: "D"  d4D2 | "C"c4AB | c2B2A2 | "G"  G2B2D2 | "D"d4D2 
+| "C"  c4AB | c2B2A2 |1 "G"  G4D2 :|2 "G"  G4ge |: "G"  d4AB | "C"  c4dc | "G"  B2d2d2 
+| d4AB | "C"  c4dc | "G"  B2G2AB | "D"  c2B2A2 |1 "G"  G4ge :|2 "G"  G6 |
+

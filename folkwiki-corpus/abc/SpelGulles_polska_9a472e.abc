@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:1
+T:Spel-Gulles polska
+O:Medelpad
+R:Polska
+S:Spel-Gulle
+B:Spelmansmusik
+M:3/4
+L:1/8
+Q:1/4=135
+K:Dm
+"Dm"(A>d) (d>^c) (de)|f2 {fg}(fe) (d^c/d/)|"A"e2 (e^c) (3(A=B^c)|"Dm"d2 (dA) (FD)|
+"Dm"(A>d) (d>^c) (de)|f2 {fg}(fe) (d^c/d/)|"A"e2 (e^c) (3(A=B^c)|"Dm"d2 D2 z2:|
+|:"F"a2 (f>a) (f>a)|"C"(ag/a/) (ba) (ge)|"A"{ga}g2 (eg) (eg)|"Dm"{ga}(gf/g/) (ag) {fg}(fe)|
+"Dm"d2 (d^c) (de)|f2 {fg}(fe) (d^c/d/)|"A"e2 (e^c) (3(A=B^c)|"Dm"d2 D2 z2:|
+

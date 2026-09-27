@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Hälsingelåten.
+O:Hälsingland
+R:Gånglåt
+S:Thore Härdelin den äldre
+Z:Karin Helander
+N:Uppteckning och andrastämma av [[Personer/Thore Härdelin den äldre]]
+B:25 spelmanslåtar från Hälsingland
+L:1/8
+M:4/4
+K:Bb
+V:
+d2 B>A G2 B>c | (d2 {ed^cd}) gf d2 z c/d/ | ec c (B/c/ d)B B (A/B/) | c>B AG F(ABc) | 
+d2 B>A G2 B>c | (d2 {ed^cd}) gf d2 z c/d/ | ec c B/c/dB B (A/B/) | cGAF B{c}B/A/ [BD] z :|
+|: d2 =e/f/g/a/ bb aa | gg aa dd/d/ dd | D2 =E/^F/G/A/ BB AA | GG AA D2 !>![F2A,2] |
+B2 c/d/e/f/ g2 f2 | ed ec (f3e) | dB Ge [d2D2] [c2E2] | B2 ({cBA}) Bc [B2D2] z2 :|
+|: [K:Eb] G>A BB cc B2 | F>G AA BB A2 | E>F GG AA G2 | fedc B2 !>! [b2d2] |
+ G>A BB cc B2 | F>G AA BB A2 | G>A Be c2 a2 | !>! [g2B2] !>! [f2B2] !>![e4E4] :|
+V:2
+B2 G>D B,2 G>A | (B2 {cBAB}) EF B2 z A/B/ |  cA A G/A/ BG G ^F/G/ | C>=E EE F_EDC | 
+B2 G>D B,2 G>A | (B2 {cBAB}) EF B2 z A/B/ |  cA A G/A/ BG GD | EEFF [F2B,2] [FB,] z :|
+|: D2 =E/^F/G/A/ BB d/c/B/A/ | GG AA DD/D/ DD | D2 ^C/=C/B,/A,/ G,G, D/C/B,/A,/ | B,B, CC A,2 !>! C2 | 
+D2 F/B/c/d/ e2 d2 | c=B c[AF] [A3F3] c | BG EG [F2B,2] [F2A,2] | D2 {EDC} DE [F2B,2] z2 :|
+|: [K:Eb] E>F GG AA G2 | D>E FF GG F2 | C>D EE FF E2 | FEDC B,2 !>! [_A2B2] |
+E>F GG AA G2 | D>E FF GG F2 | E>F GG A2 c2 | !>! [B2E2] !>![B2D2] !>! [B4G4] :|
+

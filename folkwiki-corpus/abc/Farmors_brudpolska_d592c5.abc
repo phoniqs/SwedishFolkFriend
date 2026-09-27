@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Farmors brudpolska
+S:Efter Evert Åhs
+O:Älvdalen, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1""^\"Farmors  brudpolska\"" [A,A]2 ([A,A]<^c) [A,A]>c | [A,A]2 ([A,A]<^c) [A,A]>c | e2 (g/a/)g/e/{e} f2 |({g} f/g/f/e/) [Dd]>^c [Dd]>e |
+{e} f2 (f/a/)f/d/ e>^c | [A,A]2 ([A,A]<^c) [A,A]>c | [A,A]2 ([A,A]<^c) [A,A]>c | e2 (g/a/)g/e/{e} f2 | 
+({g} f/g/f/e/) [Dd]>^c [Dd]>e |{e} f2 (f/a/)f/d/ e>^c |1{^c} d2 d3 (3c/d/c/ :|2{^c} d2 d3 f |: 
+a2 (a=b) a>g | e2 g/a/g/e/ (3(f/g/f/) (e/f/) | a2 ac' a>g | e2 g/=b/g/e/{e} f2 | 
+{g} f/g/f/e/ [Dd]>^c [Dd]>e |{e} f2 (f/a/)f/d/ e>^c | [A,A]2 ([A,A]<^c) [A,A]>c | [A,A]2 ([A,A]<^c) [A,A]>c | 
+e2 (g/a/)g/e/{e} f2 |({g} f/g/f/e/) [Dd]>^c [Dd]>e | {e} f2 (f/a/)f/d/ e>^c |1 (^c<d) d3 f :|2 (^c<d) d3 z |] 
+V:2
+|:"^2" [^CE]2 ([CE]<A) [CE]>A | [^CE]2 ([CE]<A) [CE]>A | ^c2 (e/f/)e/c/{c} d2 | (d>A) F>E F>A | 
+{^c} d2 (d/f/)d/A/ c>A | [^CE]2 ([CE]<A) [CE]>A | [^CE]2 [CE]<A [CE]>A | ^c2 (e/f/)e/c/{c} d2 | 
+(d>A) F>E F>A |{^c} d2 (d/f/)d/A/ c>A |1{E} F2 F3 E :|2{E} F2 F3 d |: 
+f2 (fg) f>e | ^c2 e/f/e/c/ d(c/d/) | ^c2 ce c>e | ^c2 e/g/e/c/{c} d2 | 
+d>A F>E F>A |{^c} d2 (d/f/)d/A/ c>A | [^CE]2 ([CE]<A) [CE]>A | [^CE]2 ([CE]<A) [CE]>A | 
+^c2 (e/f/)e/c/{c} d2 | (d>A) F>E F>G | {^c} d2 (d/f/)d/A/ c>A |1"^Stämförslag B.O." (E<F) F3 d :|2 (E<F) F3 z |] 
+

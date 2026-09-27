@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:66
+T:Lachats
+T:(Sv Folkdanser Del 1)
+O:Färs härad, Skåne
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 66. Lachats"
+Z:http://runeberg.org/folkdans/besk/0068.html
+Z:"Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 66
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" "D7"FA c/B/c | Ac e/d/e | (3ced (3cBA |"G" GGG z |: 
+[K:G][M:2/4][K:treble]"^Dans""G" d/B/G d/B/G |"D7" d/c/A c/B/A |"G" G/B/d g/f/g |"D7" ba a2 | 
+"G" d/B/G d/B/G |"D7" d/c/A c/B/A | A/d/f f/e/f |"G" ag g2 ::
+"G" b2 g2 |"D7" ba a/^g/a | c'2 f2 |"G" ag g/f/g | b2 g2 |"D7" ba a/^g/a | 
+c'2 f2 |"G" gg g2 ::"G" Bd d/^c/d | Bd d/^c/d | (3def (3gab | 
+(3bag (3fed | "D7" FA c/B/c | Ac e/d/e | (3ced (3cBA |"G" GG G2 :| 
+V:2
+"^2" DF A/^G/A | FA c/B/c | (3AcB (3AFD | B,B,B, z |:
+[K:G][M:2/4][K:treble] B/G/D B/G/D | B/A/F A/G/F | D/G/B B/A/B | dc c2 | 
+B/G/D B/G/D | B/A/F A/G/F | D/F/A A/G/A | cB B2 :: 
+d2 B2 | dc c/B/c | d2 A2 | cB B/A/B | d2 B2 | dc c/B/c | 
+d2 A2 | BB B2 :: GB B/^A/B | GB B/^A/B | (3Bcd (3efg | 
+"^Rätt igenom med repr. önskat antal ggr." (3gfe (3dcB | DF A/G/A | FA c/B/c | (3AcB (3AFD |"^Stämförslag B.O." B,B, B,2 :|
+

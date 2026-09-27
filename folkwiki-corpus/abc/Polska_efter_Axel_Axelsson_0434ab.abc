@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:510
+T:Polska efter Axel Axelsson
+T:efter fadern
+T:(OA 510)
+B:Sörmländska låtar samlade av Olof Andersson nr 510
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:"Melodien är en variant av en i Uppland och Dalarna upptecknad polska. Andra reprisen ingår i den s.k. Jössehäradspolskan. Jfr Svenska Låtar, Dalarna, h. I n:r 153 och III n:r 987 och Uppland n:r 31." 
+Z:Anders Larsson 2025-02-19
+M:3/4
+L:1/4
+Q:100
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+D/>D/ G/>A/ B | B/>A/ G/>B/ d | d/>d/ c/4e/4c/ A | A/>G/ F/4A/4F/ D |
+D/>D/ G/>A/ B | B/>A/ G/>B/ d | d/>d/ c/4e/4c/ A/G/ | F/4D/4F/ A G ::
+(3d/B/d/ (3c/A/c/ B/G/ | (3B/G/B/ (3d/B/d/ g | (3d/B/d/ (3c/A/c/ (3B/G/B/ |
+(3A/F/A/ G/D/ B,/D/ |  (3d/B/d/ (3c/A/c/ B/G/ | (3B/G/B/ (3d/B/d/ g | (3d/B/d/ (3c/A/c/ (3B/G/B/ | A/F/ F/G/ G ::
+[K:D] a/>g/ f/>g/ a | g/4a/4g/4f/4 g/b/ e/g/ | f/4g/4f/4e/4 f/a/ d/f/ | e/>d/ c/4e/4c/ A |
+a/>g/ f/>g/ a | g/4a/4g/4f/4 g/b/ e/g/ | f/4g/4f/4e/4 f/a/ d/f/ | e/>c/ c/d/ d :|
+

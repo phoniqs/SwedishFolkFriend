@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Bojäntan
+T:Hambopolska
+C:Lars Erik Jansson
+R:Hambo
+O:Upplands Väsby, Uppland
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" A |: "D" (f>g) (f>e) (d>c) | d>f A>d F>A |"G" (B>c) (B>A) (G>F) |"Em" E>D B,3 B, | "A7" A,2 C>E A>B | 
+(c>d) e3 f | (g>e) (c>e) (a>g) |"D" g>f f3 A |"D" (f>g) (f>e) (d>c) | d>f A>d F>A |"G" (B>c) (B>A) (G>F) |
+"Em" E>D B,3 B, |"A7" A,2 C>E A>B | (c>d) e3 f | (g>e) (c>e) a>c |1"D" (c<d) d3 A :|2,8"D" (c<d) d3 d |:
+"G" (g>f) (g>a) (b>a) | g>d B3 g | "D" (f>e) (f>g) (a>g) | f>d (A>F) (D>F) |"A7" (E>D) (C>E) (A>B) | 
+(c>d) (e>c) (A>c) | (e>f) gf/g/ (b>a) |"D" g>f f3 d |"G" (g>f) (g>a) (b>a) | g>d B3 g |"D" (f>e) (f>g) (a>g) | 
+ f>d (A>F) D>F |"A7"  (E>D) (C>E) (A>B) |(c>d) (e>d) (c>e) | (a>g) (e>c) AB/c/ |1 "D" (c<d) d3 d :|2,8 "D" (c<d) d3 |] 
+V:2
+"^2" F |: A>B A>G F>E | F>A D>F A,>D | G>A G>F E>D | C>B, G,3 D | C2 E>A c>d | A>B c3 d | 
+c>A E>A c>e | e>d d3 F | A>B A>G F>E | F>A D>F A,>D | G>A G>F E>D | C>B, G,3 D | C2 E>A c>d | 
+A>B c3 d | c>A E>A c>A |1 F2 F3 F :|2,8 F2 F3 B |: B>A B>c d>c | B>G D3 B | A>G A>d f>e | 
+d>A F>D A,>D | C>B, A,>C E>G | A>B c>A E>A | c>d ed/e/ g>f | e>d d3 B | B>A B>c d>c | 
+B>G D3 B | A>G A>d f>e | d>A F>D A,>D | C>B, A,>C E>G | A>B c>B A>c | e>c A>G EF/G/ |1 F2 F3 B :|2,8 F2"^B.O." F3 |]
+

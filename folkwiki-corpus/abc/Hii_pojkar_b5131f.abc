@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Hii pojkar
+T:Hambopolska
+C:Pelle Schenell
+O:Gnarp, Hälsingland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Pelle Schenell."
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" (A2 F2) A2 | (f/e/)d/c/ dB A2 | (A2 F2) A2 | (B/A/)G/F/ GF E2 | (G2 E2) G2 | 
+(g/f/)e/^d/ (ef) gf | (e>d) (cB) AG | (F>G) AB A2 | (A2 F2) A2 | (f/e/)d/c/ dB A2 | (A2 F2) A2 | 
+(B/A/)G/F/ GF E2 | (G2 E2) G2 | (g/f/)e/^d/ (e=d) cB | (A>B) (cd) eg | (f/e/)d/c/ d4 :: 
+DF/A/ (dF) Ad | FA/d/ (fA) df | Ad/f/ (aA) df | (g>f) (ed) cB | CE/A/ (cE) Ac | 
+EA/c/ (eA) ce | Ac/e/ (gf) ed | (c>B) (AG) FE | DF/A/ (dF) Ad | FA/d/ (fA) df | 
+Ad/f/ (aA) df | (g>f) (ed) cB | CE/A/ (cE) Ac | EA/c/ (eA) ce | Ac/e/ (gf) ed | cB/c/ d4 :| 
+V:2
+|:"^2" (F2 D2) F2 | (A/G/)F/E/ FG F2 | (F2 D2) F2 | (G/F/)E/^D/ E=D C2 | (E2 C2) E2 | 
+(e/d/)c/B/ (cd) ed | (c>B) (AG) FE | (D>E) FG F2 | (F2 D2) F2 | (A/G/)F/E/ FG F2 | (F2 D2) F2 | 
+(G/F/)E/D/ ED C2 | (E2 C2) E2 | (e/d/)c/B/ (cB) AE | (C>E) (AB) cB | (A/G/)F/E/ F4 :: 
+A,4 D2 | D4 F2 | F4 A2 | (e>d) (cB) AE | A,4 C2 | C4 E2 | E4 A2 | (A>E) (CE) DC | 
+A,4 D2 | D4 F2 | F4 A2 | (e>d) (cB) AE | A,4 C2 | "^Stämförslag B.O." C4 E2 | E4 A2 | (AG) F4 :|
+

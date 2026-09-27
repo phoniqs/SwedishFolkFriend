@@ -1,0 +1,45 @@
+%%abc-charset utf-8
+
+X:18
+T:Tordyveln och fluga
+B:August Bondesons Visbok
+L:1/8
+M:2/4
+S: Efter Anders Backman, backstugusittare i Holms församling (Dalsland). 
+O:Dalsland
+Z:Jimmy Utterström, först publicerad på  Fria Noter. Konverterad från MusicXML till ABC med xml2abc, därefter manuellt kompletterad.
+R: Visa
+S: August Bondesons visbok. Första Bandet. Nr 18.
+I:linebreak $
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^Måttligt" D | G G F E/ E/ | F G A2 | F D G2 |: B3/2 A/ G G | G c/ e/ d2 | A3/2 B/ c c | %7
+w: 1.  Tor-|dyf- veln skul- le till|flu- ga fri.|Pi- ri- um!|»Vill du   blif- va|kä- rin- ga mi?»|Pi- ri- mitt- mitt|
+ E3/2 F/ G2 | F3/2 G/ A A | D3/2 D/ D2 | E F G2 :| E F G |] %12
+w: a- ri- um,|pi- ri- mitt- mitt|a- ri- um!|Pi- ri- um!|Pi- ri- um!|
+W:2. "Vad skall då detta bliva likt?
+W: du, som är fattig, och jag är rik.
+W:
+W:3. Och när du gräver inunder måk,
+W:då äter jag på silverfat.
+W:
+W: 4. Och när du gräver inunder jol,
+W: då sitter jag på kungens stol
+W:
+W: 5. Och när du gräver i åker och äng,
+W: då vilar jag på fjädersäng."
+W: 6. Tordyveln slog till fluga för kind:
+W: "Här skall du ha för käften din!"
+W: 7. Fluga börja’ med snyft och gråt:
+W: "Skall du och jag nu skiljas åt?
+W:
+W: 8. Vårt bröllop blir väl inte stort,
+W: det firas på en hästelort."
+W: 
+W: 9. Det var så käckt i brudehus,
+W: Pirium!
+W: Där spela’ två loppor, där dansa’ e’ lus,
+W: Pirimittmitt arium, pirimittmitt arium,
+W: Pirium!
+

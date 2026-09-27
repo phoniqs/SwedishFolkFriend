@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Snurrbock från Hälsingland
+O:Hälsingland
+R:Dans
+Z:[[Personer/Bengt Ohlson]]
+Z:Hälsingedanser
+%%score 1 2
+L:1/8
+Q:1/4=116
+M:3/4
+I:linebreak $
+K:D
+V:1
+"^1""^Förspel" (D>F) (A>G) B>G | (E>C) D3 z |]:[Q:1/4=116]"^Dans" (d>f) (e>f) d>D | F>A (G>B) A2 | 
+(D>F) (A>G) B>G | E>C D2 A,2 | (d>f) (e>f) d>D | F>A (G>B) A2 | (D>F) (A>G) B>G | (E>C) D4 :| 
+[Q:1/4=84]"^Långsamt" d2 B4 | A2 F3u G | (E>F) D4 |[Q:1/4=116]"^a´ tempo" d>e f2({g} fe/f/) | 
+g2 e2 c>A | d>e f2({g} fe/f/) | g2 e4 |[Q:1/4=84]"^Långsamt" d2 B4 | A2 F3u G | (E>F) D4 |] 
+V:2
+"^2" (A,>D) (F>E) G>E | (C>A,) A,3 z |]: (F>d) (c>d) A>A | D>F (E>G) F2 | (A,>D) (F>E) G>E | 
+C>A, A,2 D2 | (F>d) (c>d) A>A | D>F (E>G) F2 | (A,>D) (F>E) G>E | (C>A,) [A,F]4 :| B2 G4 | 
+F2 D3u E | C2 [A,F]4 | F>A d2 (dc/d/) | e2 c2 A>E | F>A d2 (dc/d/) | 
+"^Spelas till dans önskat antal ggr." e2 c4 | B2 G4"^Stämförslag B.O." | F2 D3u E | C2 [A,F]4 |]
+

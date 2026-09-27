@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Masurka etter Rönnaug Vangen
+S:Rönnaug Vangen
+S:Marianne Stensgård
+O:Norge
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Från CD: "Torader-jentene" med Marianne Stensgård och Hanne-Kari Bakke."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1""G" B>d B>d B>d | e>d B2 B2 |"D7" d>c A2 A2 |"G" c>B G2 G2 | 
+B>d B>d B>d | e>d B2 B2 | "D7" d>c A2 A>F |1"G" G2 G3 d :|2"G" G2 G4 |: 
+"G" D2 G2 G>B |"D7" B>A{A} F2 F>A | c>A{A} F2 F>A |"G" c>B{B} G2 G2 | 
+D2 G2 G>B |"D7" B>A{A} F2 F>A | c>A{A} F2 F>A |"G" G2 G4 :| 
+V:2
+|:"^2" G>B G>B G>B | c>B G2 G2 | B>A F2 F2 | G>D B,2 B,2 | 
+G>B G>B G>B | c>B G2 G2 | B>A F2 F>D |1 B,2 B,3 B :|2 B,2 B,4 |:
+B,2 D2 D>G | G>F{F} D2 D>F | A>F{F} D2 D>F | G>D{D} B,2 B,2 | 
+B,2 D2 D>G | G>F{F} D2 D>F |"^Stämförslag B.O." A>F{F} D2 D>C | B,2 B,4 :|
+

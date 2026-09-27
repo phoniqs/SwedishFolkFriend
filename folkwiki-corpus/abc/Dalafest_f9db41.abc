@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Dala-fest
+T:Gånglåt
+C:Nelly Östlund
+O:By, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Nelly Östlund, By,  1978."
+L:1/8
+M:2/4
+K:D
+V:1
+"^1" (D/F/) |: AB/A/ GA/G/ | (FD) (F>A) | (d/e/4d/4)c/d/ (e>d) | (BG) (B>d) | (g>f) (ed) | 
+(c>B) (AF) | (G/A/4G/4)F/G/ (B>A) | (F/G/)F/E/ (DF) | AB/A/ GA/G/ | (FD) (F>A) | (d/e/4d/4)c/d/ (e>d) | 
+(BG) (B>d) | (g>f) (ed) | (c>B) (AF) | (GE) (A/c/)e/c/ |1 d3 (D/F/) :|2 d3 (d/f/) |:
+ (af) (d/A/)d/f/ | (af) d>uA | FF/E/ (D/F/)A/F/ | (GB) Be/f/ | (ge) (c/A/)c/e/ | 
+(ge) c>uB | (A>G) EF/G/ | BA/G/ (F/A/)d/f/ | (af) (d/A/)d/f/ | (af) d>uA | FF/E/ (D/F/)A/F/ | 
+(GB) Be/f/ | (ge) (c/A/)c/e/ | (ge) c>uB | AG/F/ (E/A/)c/e/ |1 d3 (d/f/) :|2 d3 z |] 
+V:2
+"^2" (A,/D/) |: "D"FG/F/ EF/E/ | (DA,) (D>F) | FE/F/ (G>F) |"Em" (GE) (G>B) |"A7" (e>d) (cB) | 
+(A>G) (FD) | ED/E/ (G>E) |"D" DD/B,/ (A,D) | FG/F/ EF/E/ | (DA,) (D>F) | FE/F/ (G>F) | 
+"Em" (GE) (G>B) | "A7" (e>d) (cB) | (A>G) (FD) | (EC) (C/E/)G/E/ |1"D" F3 (A,/D/) :|2"D" F3 (A/d/) |: 
+"D"(fd) (A/F/)A/d/ | (fd) A>F | DD/B,/ (A,/D/)F/D/ |"Em" (EG) Gc/d/ | "E7" (ec) (A/E/)A/c/ | (ec) A>G | 
+(F>E) CD/E/ | "D" GF/E/ (D/F/)A/d/ | (fd) (A/F/)A/d/ | (fd) A>F | DD/B,/ (A,/D/)F/D/ | "Em" (EG) Gc/d/ |
+"A7" (ec) (A/E/)A/c/ | (ec) A>G |"^Stämförslag B.O." FE/D/ (C/E/)G/A/ |1 "D" F3 (A/d/) :|2 "D" F3 z |] 
+

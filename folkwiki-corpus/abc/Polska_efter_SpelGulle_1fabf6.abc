@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Spel-Gulle
+S:Spel-Gulle
+O:Medelpad
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Stämma: [[Personer/Göran Larsson]]
+L:1/16
+M:3/4
+K:C
+V:1
+|:"^1" (GF)(EG) c2e2 C2e2 | (dc)(Bc) d2f2 D2f2 | (ec)eg (c'g)eg (fe)dc | (cB)ce (dc)BA G4 | 
+(GF)(EG) c2e2 C2e2 | (dc)(Bc) d2f2 D2f2 | (ec)eg (c'g)eg (fe)dc | (Bc)AB d4 c4 :: 
+(g^f)ga g2G2 G4 | (fe)fg f2G2 G4 | (ec)eg (c'g)eg (fe)dc | (cB)ce (dc)BA G4 :| 
+(GF)(EG) c2e2 C2e2 | (dc)(Bc) d2f2 D2f2 | (ec)eg (c'g)eg (fe)dc | (Bc)AB d4 c4 :| 
+V:2
+|:"^2" (ED)(CB,) G,2C2 E2G2 | (FE)(DC) B,2D2 G2d2 | (cG)ce (ge)cB (AG)FE | (ED)EG (FE)DC B,4 | 
+(ED)(CB,) G,2C2 E2G2 | (FE)(DC) B,2D2 G2d2 | (cG)ce (ge)cB (AG)FE | (DE)FG F2GF E4 :: 
+(ed)ef e2[Ec]2 [Ec]4 | (d^c)de d2[GB]2 [GB]4 | (cG)ce (ge)cB (AG)FE | (ED)EG (FE)DC B,4 :| 
+(ED)(CB,) G,2C2 E2G2 | (FE)(DC) B,2D2 G2d2 | (cG)ce (ge)cB (AG)FE | (DE)FG F2GF E4 :| 
+

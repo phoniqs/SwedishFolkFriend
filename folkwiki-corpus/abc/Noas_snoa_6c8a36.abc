@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Noas snoa
+C:Tage Öst
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Tage Öst."
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" D |: (B,D) (D/E/)D/C/ | (B,D) D>D | (CE) (E/F/)E/D/ | (CE) E>E | D>D FA | 
+d2 d>(B | c>)A FA | G3 D | (B,D) (D/E/)D/C/ | (B,D) D>D | 
+(CE) (E/F/)E/D/ | (CE) E>E | D>D FA | d2 d>(B | c>)A FA | G3 D :: 
+B>c BA | G>A GF | E>F ED | C3 C | A>B AG | F>G FE | 
+D>E DC | B,2 (G,/B,/)D/G/ | B>c BA | G>A GF | E>F ED | C3 C | 
+A>B AG | F>G FE | D/D/D/D/ D/c/B/A/ |1 GG GD :|2 GG G z |] 
+V:2
+"^2" B, |: (G,B,) (B,/C/)B,/A,/ | (G,B,) B,>B, | (G,C) (C/D/)C/G,/ | (G,C) C>C | A,>A, DF | 
+F2 F>(G | A>)F DC | B,D CB, | (G,B,) (B,/C/)B,/A,/ | (G,B,) B,>B, | 
+(G,C) (C/D/)C/G,/ | (G,C) C>C | A,>A, DF | F2 F>(G | A>)F DC | B,3 B, :: 
+G>A GD | B,>C B,D | C>D CB, | A,3 A, | F>G FE | D>E DC | 
+B,>C B,A, | G,2 (D/G,/)B,/D/ | G>A GD | B,>C B,D | C>D CB, | A,3 A, | F>G FE | 
+D>E DC | A,/A,/A,/A,/ A,/F/D/C/ |1 B,B, B,B, :|2 "^Stämförslag B.O." B,B, B, z |]
+

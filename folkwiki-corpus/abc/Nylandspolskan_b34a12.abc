@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Nylandspolskan
+S:Allm trad
+O:Bingsjö, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+I:linebreak $
+K:A
+V:1
+|:"^1""^\"Nylandspolskan\"" A,2CE A4 c4 | (e2a2) f2ed c4 | B2>c2 d2fd c2ec | (EG)BG A2AE C2(EC) | 
+A,2CE A4 c4 | (e2a2) f2ed c4 | B2>c2 d2fd c2ec | (EG)BG A8 :: 
+(AB)cd e2ae c2ec | (AB)cd e2ce (a2 z A) | (Ad)(fd) (Ad)(fd) (Ad)(fd) | 
+(Ac)(ec) (Ac)(ec) (Ac)(ec) | (Ad)(fd) (Ad)(fd) (Ad)(fd) | (Ac)(ec) (Ac)(ec) (Ac)(ec) | 
+(cd)cB A4 E4 | (A2>c2) (BA)Bd c4 | B2>(c2 dc)de f2a2 | (ga)bg a8 :| 
+V:2
+|:"^2" A,2A,C E4 A4 | (c2f2) d2cB A4 | G2>A2 B2dB A2cA | (B,E)GE C2CA, A,2(CA,) | 
+A,2A,C E4 A4 | (c2f2) d2cB A4 | G2>A2 B2dB A2cA | (B,E)GE [CE]8 :: 
+(EG)AB c2ec A2cA | (EG)AB c2Ac (e2 z F) | (FA)(dA) (FA)(dA) (FA)(dA) | (EA)(cA) (EA)(cA) (EA)(cA) | 
+(FA)(dA) (FA)(dA) (FA)(dA) | (EA)(cA) (EA)(cA) (EA)(cA) | (AB)AE C4 A,4 | (E2>A2) (GF)GB A4 | 
+G2>(A2 BA)Bc d2f2"^Stämförslag B.O." | (ef)ge c8 :|
+

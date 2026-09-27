@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Anders Tull
+S:Efter Anders Tull
+O:Leksand, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1" A>(B{cB} cd) e>^g |{^g} a2 (a/b/)a/g/ e>^f |{^f} g2{ga} g>(e{=fg} f>)d | (de) (ec) A>B | 
+{B} c2 (c/d/)c/A/{Bc} B>^G | (A<c) e4 | A>(B{cB} cd) e>^g |{^g} a2 (a/b/)a/g/ e>^f | 
+{^f} g2{ga} g>(e{=fg} f>)d | (de) (ec) A>B |{B} c2 (c/d/)c/A/{Bc} B>^G | (^G<A) A4 :: 
+A2 (E>^G) A>B |{B} c2 (A/B/)c/d/ e>f | (e>c) (AB){B} c>A | c2{Bc} BA/^G/ E>G | 
+A2 (E>^G) A>B |{B} c2 (A/B/)c/d/ e2 | ea (ed) c(d/c/) |{Bc} BA/^G/ A4 :| 
+V:2
+|:"^2" E>^G AB c>B | c2 c/d/c/B/ ^G>A | B2 B>c d>B | Bc (cA) E>^G | A2 A/B/A/E/ ^G>D | 
+E<A [^GB]4 | E>^G AB c>B | c2 c/d/c/B/ ^G>A | B2 B>c d>B | 
+Bc (cA) E>^G | A2 A/B/A/E/ ^G>D | B,<C [CE]4 :: 
+E2 C>D E>^G | A2 E/^G/A/B/ c>d | c>A (E^G) A>E | A2 ^GE/D/ B,>D | 
+E2 C>D E>^G | A2 E/^G/A/B/ c2 | ce (cB) A(B/A/) |"^Stämförslag B.O." ^GE/D/ [CE]4 :|
+

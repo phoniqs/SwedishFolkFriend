@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:703
+T:Godnattlåten
+O:Härjedalen
+S:Fritiof Mesch
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 18. Godnattlåten efter Fritiof Mesch"
+L:1/8
+Q:1/4=120
+M:3/4
+K:Dm
+V:1
+"^1" (A |: d>)(^c d>)(e f>)g | a>b a2 g2 | a2 (f>e) f>g |1 
+(ag) e3 A :|2 (ag) e3 g |: f>e (d>^c) d>f | 
+e<^c (e>d) f>a | a>g (e>g) f>d |1 e<^c A3 g :|2 e<^c d3 |] 
+V:2
+"^2" E |: F>(E F>)(A d>)e | f>g f2 e2 | f2 d>^c d>e |1 
+fe ^c3 E :|2 fe ^c3 B |: A>G (F>E) F>A | 
+G<E (G>^F) A>^c | ^c>B (G>B) A>E |1 G<E [^CE]3 B :|2"^B.O." G<E [FA]3 |]
+

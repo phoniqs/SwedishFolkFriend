@@ -1,0 +1,32 @@
+%%abc-charset utf-8
+
+X:44
+T:Kadrilj från Ekeby socken
+T:(Sv Folkdanser Del 1)
+O:Ekeby, Skåne
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 44. Kadrilj från Ekeby socken"
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 44
+Z:http://runeberg.org/folkdans/besk/0178.html
+L:1/16
+M:2/4
+U:t=tenuto
+K:A
+V:1
+"^1" (A"^Förspel"c) | e2c2 d2f2 | e2ae (c2A2) | B2AB (c2B2) | A4 z2 |] [K:A][M:2/4][K:treble]"^Dans" (Ac) |:"^(1)" e2c2 d2f2 | e2ae (c2e2) | 
+f2af (d2f2) | e2ae (c2e2) | d2cd (e2d2) | c2Bc (d2c2) | B2AB (c2B2) |1 A4 z2 (Ac) :|2 A4 z4 |:
+[K:E]"^(2)" B2cB (G2B2) | g2ag (f2e2) | d2Bd (f2a2) |(ga)gf (e2G2) | B2cB (G2B2) | g2ag (f2e2) | 
+d2Bd (f2d2) | e4 z4 :: [K:A]"^(3)" c2EA (ce)fe | c2EA (ce)fe | d2Bc (de)fg | a2gf (ed)cB | 
+c2EA (ce)fe | c2EA (ce)fe | d2Bc (de)fg |1 a4 z4 :|2 a6 a2 |:"^(4)" g2gg (tg2tg2) | a2aa (ta2ta2) | 
+g2gg (tg2tg2) | a2gf (ed)cB | c2EA (ce)fe | c2EA (ce)fe | d2Bc (de)fg |1 a4 z2 a2 :|2 a4 z4 |] 
+V:2
+"^2" (EA) |"A" c2A2 B2d2 | c2ec (A2E2) |"E7" D2CD (E2D2) |"A" C4 z2 |] 
+[K:A][M:2/4][K:treble] (EA) |:"A" c2A2 B2d2 | c2ec (A2c2) |"D" d2fd (A2d2) |"A" c2ec (A2c2) | 
+"E7" B2AB (c2B2) |"A" A2GA (B2A2) |"E7" G2FG (E2D2) |1"A" C4 z2 (EA) :|2"A" C4 z4 |: 
+[K:E]"E" G2AG (E2G2) | B2cB (A2G2) |"B7" B2FB (d2f2) |"E" (ef)eB (G2E2) | G2AG (E2G2) | B2cB (A2G2) | 
+"B7" B2FB (d2B2) |"E" G4 z4 ::[K:A] "A"A2CE (Ac)dc | A2CE (Ac)dc |"E7" B2GA (Bc)de | 
+"A" c2ed (cB)AG | A2CE (Ac)dc | A2CE (Ac)dc |"E" B2GA (Bc)de |1"A" c4 z4 :|2"A" c6 c2 |: 
+"E7"e2ee (td2td2) |"A" c2cc (tc2tc2) | "E7" "^Spelas rätt igenom med repr. 4 ggr.  Därefter 1:a och 2:a med repr."   e2ee (td2td2) | "A" c2ed (cB)AG | 
+A2CE (Ac)dc | A2CE (Ac)dc |"E7" "^Stämförslag B.O." B2GA (Bc)de |1"A" c4 z2 c2 :|2"A" c4 z4 |]
+

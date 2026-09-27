@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Ingels-Jans Gånglåt
+C:Lars G Hedin
+O:Säter, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Lars G. Hedin, (1818-1904). Klockare i Säter"
+Z:"Arr. [[Personer/Brodd-Albin Johansson]]"
+L:1/8
+M:2/4
+K:D
+V:1
+"^1" FA |: d2 d>d | dA FA | A>G GG | G2 (A/B/)c/d/ | e2 e>e | 
+ec Ac | e>d dd | d2 FG | B>A AA | AB/A/ (F/A/)d/f/ |
+a>g gg | ga/g/ fe | d>A FA | A>G EF | D2 d>d | d2 FA :: 
+f2 f>f | fc fe | d2 d>d | dc BA | ^G2 G>G | ^GB ed | 
+c2 A>A | AB/A/ FG | B>A AA | AB/A/ (F/A/)d/f/ | a>g gg | 
+ga/g/ fe | d>A FA | A>G EF | D2 d>d |1 d2 FA :|2 d2 z2 |] 
+V:2
+"^2" z2 |:"D" DA FA | fd AF |"A7" A,E CE | AE cA | CA GA | 
+cA GA |"D" DA FA | fA DE | GF FF | FG/F/ (D/F/)A/d/ | 
+"G" [Af][Ae] [Ae][Ae] | ef/e/ dA | "D" F>D A,>D | "A7" c>B G>A | "D" [FA]2 [DF]>[DF] | [DF]2 z2 ::
+"F#" F2 ^A>c | f>e ^A>c |"Bm" B,2 F>F | B>A [^GB]>[FB] | "E7" [EB]2 [^GB]>B | e>[de] [ce]>[Be] |
+"A7" [Ae]2 [ce]>[ce] | (c/d/)c/B/ (A/B/)A/G/ | "D" (F/G/)F/E/ (D/F/)A/d/ | [df]3 z | "G" A,C/E/ (A/c/)e/a/ | 
+"^Arr. Brodd-Albin."  [Ae]f/e/ dA | "D" F>D A,>D | "A7" c>B G>A | "D" [FA]2 [DF]>[DF] |1 "D" [DF]2 z2 :|2 "D" [DF]2 z2 |]
+

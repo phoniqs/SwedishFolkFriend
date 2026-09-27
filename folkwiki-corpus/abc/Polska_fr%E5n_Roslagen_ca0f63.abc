@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:73
+T:Polska från Roslagen
+T:(Polska efter Jons-Axel Nr 73)
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polska
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 73. Polska från Roslagen"
+L:1/8
+Q:1/4=120
+M:3/4
+K:G
+V:1
+"^1"u (3(Bc^c) |:v (d>b) b3u a | a>g g2 g2 | (d>g) g>(g a>)g |  g>f f2 f2 |
+(c'>e) e3u e | e>d d2 d2 | (f>e) (d>c) B>A |1 G>A (B>c) d2 :|2 G2 g2 zu (3(G/F/E/) |:
+v D>A AA AA | D>B BB BB | (A>^G) (A>B) c>d | e>d d2 d z | 
+D>A AA AA | D>B BB BB | (A>B) (c>d) e>f |1  g2 g2 zu (3(G/F/E/) :|2 g2 g2 z2 |] 
+V:2
+"^2" E2 |:"G" (G>d) d3 c | c>B B2 B2 | (G>B) B>(B c>)B | "D7" B>A A2 A2 | 
+"C" (e>c) c3 c |"G" c>B B2 B2 |"D7" (d>A) (F>A) F>D |1 "G" B,>D (G>A) B2 :|2 "G" B,2 B2 z D |:
+"D7" C>D DD DD |"G" B,>G GG GG | "D7" (F>E) (F>G) A>B |"G" c>B B2 B z |
+"D7" C>D DD DD |"G" B,"^Stämförslag B.O.">G GG GG |"D7" (F>G)  (A>B) c>d |1 "G" B2 B2 z D :|2 "G" B2 B2 z2 |]
+

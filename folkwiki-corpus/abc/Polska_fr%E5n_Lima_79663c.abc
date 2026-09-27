@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Lima
+T:(Tridi hompa)
+S:Lars Wilhelm Johansson
+O:Lima, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Lima (6) eft. Lars Wilhelm Johansson."
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1""^\"Norsk mazurka\""{fg} f>A d2 d2 |{fg} f>A d2"^\"Tridi hompa\"" d2 | e>f g2 g>(a |gf) (e2 e>)f |
+ e>d c2 c2 |{cd} c>B A2 A2 | A>c e2 e>(g | f2) d4 :: 
+d>f a2 a2 |{ab} a>f g2 g2 | {ga} g>e =f2 f2 |{=fg} f>d e4 |
+{ef} e>d c2 c2 |{cd} c>B A2 A2 | A>c e2 e>(g | f2) d4 :| 
+V:2
+|:"^2" d>F A2 A2 | d>F A2 A2 | c>d e2 e>(f | ed) (c2 c>)d | 
+c>B A2 A2 | A>E C2 C2 | C>A c2 c>(e | d2) [FA]4 :: 
+A>d f2 f2 | f>d e2 e2 | e>c d2 d2 | d>A c4 | c>B A2 A2 |
+A>E C2 C2 | C>A c2 c>(e | "^Stämförslag B.O." d2) [FA]4 :|
+

@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt av Roland Johansson
+O:Säter, Dalarna
+R:Gånglåt
+C:Roland Johansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Roland Johansson, Säter."
+Z:"Uppt. o. Arr. B.O. 2006."
+L:1/4
+Q:1/4=136
+M:4/4
+K:C
+V:1
+"^1" G |: c3/2 B/ c d | e2 d c | d3/2 ^c/ d e | f3 d | G3/2 B/ d e | f d B G | 
+A3/2 G/ ^F A | G3 G | c3/2 B/ c d | e2 d c | f3/2 e/ f g | a3/2 c'/ b a | g3/2 e/ c e | 
+g f d B | d c c/e/ d/B/ |1 c3 G :|2,8 c3/2 e/ f ^f |: g3/2 f/ e g | c'2 b c' | 
+b3/2 a/ a ^g | a3 f | d3/2 e/ f g | b2 a b | a3/2 g/ ^f a | g3/2 e/ f ^f | g3/2 f/ e d |
+ c2 G c | B3/2 A/ A ^G | A3/2 c/ B A | G3/2 B/ d f | e d A B | d c c/e/ d/B/ |1 c3/2 e/ f ^f :|2 
+c3 G |] c3 G | G3/2 A/ B c | d f e B | d c c/e/ d/B/ | c3 z |] 
+V:2
+"^2" E |:"C" E2 E F |"C7" G2 F E |"F" F2 F G |"Dm" A3 F |"G7" D2 F G | A2 G D |"C" F2 ^D F | 
+E3 E | E2 E F |"C7" G2 F E |"F" A2 A c |"Dm" f3/2 a/ g f |"C" e2 G c |"G7" B A G F | 
+"C" F E"G7" E F |1"C" E3 E :|2,8"C" E3/2 c/ d ^d |:"C" e2 c e |"C7" g2 f e | 
+"F" g3/2 f/ f e |"Dm" d3 d |"G7" B2 d e | f2 f g |"C" f3/2 e/ d f | e3/2 c/ d ^d |"C" e2 c G | 
+"C7" E2 E G |"F" G2 F E |"Dm" F2 G F |"G7" D2 G B | G F D F |"C" F E"G7" E G |1 "C" E3/2 c/ d ^d :|2
+"C" E3 E |]"C" E3 E |"G7" D2 "^Uppt. o. Arr. B.O. 2006." G A | B d B G | "C" F E"G7" E F |"C" E3 z |]
+

@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:82
+T:No 82 Polka Marsch
+T:ur Sven Johnssons notbok
+R:Polka
+O:Mörrum, Blekinge
+B:Sven Johnssons notbok 
+M:2/4
+L:1/8
+Q:1/4=120
+Z:Peter Svensson
+K:D
+|: AF    B>F           | AG   G/2F/2G     | GE  c>B     | BA  A/2G/2A     | AF    B>F | AG   G/2F/2G | GA  c>e     | dddz               ::
+   c>c   c>c           | cB   G2          | B>B B>B     | BA  F2          | A>A   A>A | AGEc         | e>e e>e     | e/2d/2c/2B/2 A2    |
+   c>c   c>c           | cB   G2          | B>B B>B     | BA  F2          | A>A   A>A | AG   E2      | G>A c>e     | dddz               ::
+   [K:G] [Bg] z [Bg] z | [Bg] z       B>c | d   z   B z | g   z       f z | fe    A2- | A2   A>B     | c   z   A z | e            z d z |  dg  B2-  |
+   B2    B>c           | d    z       B z | g   z   f z | A>B c2          | (c>e) e>e | e    d2 B    | d   c2  A   | B>c          d>f   |  ggg z   :|
+

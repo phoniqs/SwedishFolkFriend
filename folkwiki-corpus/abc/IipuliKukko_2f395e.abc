@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:20
+T:Iipuli-Kukko
+O:Finland
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Finland, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" dc/B/ Ac | d2 d2 |]:[K:D][M:2/4][K:treble]"^Dans" dc/B/ AA | 
+dc/B/ AA | dc/B/ Ac | e2 e2 :: 
+Ac/e/ gg | gf df | fe/d/ ce | d2 d2 :| 
+V:2
+"^2" FA/G/ EG | F2 F2 |]:[K:D][M:2/4][K:treble] FA/G/ FF | 
+"^Spelas önskat antal ggr." FA/G/ FF | FA/G/ E A | c2 c2 :: 
+EA/c/ ee | ed Fd | "^Stämförslag B.O." dc/B/ AG | F2 F2 :|
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:69
+T:Leksandslåten 2
+T:(Sv Folkdanser Del 1)
+S:Jones Mats Persson
+O:Leksand, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 69. Leksandslåten 2"
+Z:http://runeberg.org/folkdans/besk/0069.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 69
+L:1/16
+M:3/4
+K:D
+V:1
+"^1" A2- |: A2>(c2 d2)e2 (=fe)fg | a2a2 (ga)ge c2A2- | A2f2 (fg)fe (ef)ed |1 
+(de)dc A4 A4- :|2 (3cdc Ac d8 |:({g} f/g/f/g/f/g/f) e2c2 A4 | 
+(cB)cd (e^d)(e^g) a4 |({g} f/g/f/g/f/g/f) e2c2 A4 | (cB)cd (e^d)(e^g) a4 | 
+(fe)f^g a2af d2d2 |1 (cd)ec d4 d4 :|2 (cd)ec d6 z2 |] 
+V:2
+"^2" C2- |: C2>(E2 F2)A2 (dc)de | =f2f2 (ef)ec A2^F2- | ^F2d2 (de)dc (cd)cB |1 
+(Bc)BA E4 C4 :|2 A2EG F8 |: d2-d2 c2A2 E4 | 
+(A^G)AB (cB)(cd) c4 | d2-d2 c2A2 E4 |  (A^G)AB (cB)(cd) c4 | 
+"^Spelas rätt igenom med repriser önskat antal ggr." (dc)de f2fd F2F2 |1 (AB)cA F4 F4 :|2 "^Stämförslag B.O." (AB)cA F6 z2 |]
+

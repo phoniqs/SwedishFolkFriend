@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Nätt och jämt
+T:Snoa
+R:Snoa
+O:Upplands Väsby, Uppland
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:2/4
+K:F
+V:1
+"^1" A |: c=B/c/ (a/g/)f/e/ | fe dc | B>A GF | D3 F | EG/E/ (C/E/)G/c/ | ef g>f | 
+(e/f/)e/d/ cB | {cB}Ad cA | c=B/c/ (a/g/)f/e/ | fe dc | B>A GF | D3 F | 
+ E(G/E/) (C/E/)G/c/ | ef g>a | bb (e/f/)g/e/ |1 fff A :|2,8 fff e |:
+[K:C] gc' (e/f/)e/d/ | cG EC | F>G AF | D3 C | _B,(D/B,/) (G,/B,/)D/G/ | 
+_Bc d>c | (_B/c/)B/A/ GF | {GF}EA Ge | (g/4a/4g/^f/g/) (e/=f/)e/d/ | cG EC | F>G AF | 
+D3 C | _B,(D/B,/) (G,/B,/)D/G/ | _Bc d>e | f(e/f/) (g/f/)d/_B/ |1 ccc e :|2,8 ccc |] 
+V:2
+"^2" F |:"F" A^G/A/ c/B/A/G/ | AG FE | "Bb" D>F ED | "Gm" B,3 D | "C7" CE/C/ G,/C/E/G/ | cd e>d | 
+c/d/c/B/ AG | FB AF | "F" A^G/A/ c/B/A/G/ | AG FE | D>F ED | "Bb" B,3 D | "Gm" CE/C/ G,/C/E/G/ | "C7" c=B _B>G | cc G/A/B/G/ |1 "F" AAA F :|2,8"F" AAA c |:
+[K:C] "C" ce G/A/G/F/ | EC _B,G, | "F" A,>D FD | "Dm" [A,F]3 E | "G7" DF/D/ _B,/D/F/G/ | DE F>A | G/A/G/F/ ED |"C" CF EG | c_B/c/ G/A/G/F/ | EC _B,G, | 
+"F" A,>D FD |"Dm" [A,F]3 E |"G7" DF/D/ _B,/D/F/G/ | DE F>G | _BA/B/ (c/B/)G/D/ |1 "C" EEE c :|2,8"C"  E"^B.O."EE |]
+

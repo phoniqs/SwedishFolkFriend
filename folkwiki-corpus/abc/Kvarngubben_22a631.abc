@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Kvarngubben
+T:Polska
+S:Efter Ante Sundin 
+S:Anders Sundin
+O:Medelpad
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Arr. Öst / Schönning / Sundin d.y."
+L:1/16
+M:3/4
+K:G
+V:1
+|:"^1" D2G2- G2A2 (_BA)Bc | c2d2 d4 (DF)AF | A2G2 G8- | G2e2 e6 e2 |
+ (ef)ed (ef)ed e2f2 | [G,D]2[Bg]2 [Bg]6 gg |{fg} f2>e2- e2e2 (DF)AF |1 A2G2 [G,G]6 D2 :|2 A2G2 G6 E2 |: 
+[G,E]2[Bg]2 [Bg]6 g2 | (Be)(ge) (Be)(ge) (Be)(ge) | (B^d)(fd) (Bd)(fd) (Bd)(fd) | (Be)(ge) (Be)(ge) (Be)(ge) |
+ (B^d)(fd) (Bd)(fd) (Bd)(fd) | B2[^db]2 [db]6 B2 | (Be)(ge) (Be)(ge) (Be)(ge) | (B^d)(fd) (Bd)(fd) (Bd)(fd) | 
+B2[^db]2 [db]4 (Bd)fd | f2e2 e6 g2 | T f2ed (cB)cA (FD)FA | A2G2 [G,G]8 :| 
+V:2
+|:"^2""Gm" D4 _B,2A,2 G,2_E2- |"D7" E2D2 (DF)AF (D=E)DC |"G" C2B,2 (G,B,)(DB,) (G,B,)(DB,) | 
+"C" G,2c2 c2G2 E2C2 | (cd)cB (cd)cB c2d2- |"G" d2e2 e6 e2 |"D7" d2>c2- c2c2 (DE)DC |1 "G" C2B,2 B,6 D2 :|2"G" C2B,2 [B,D]6 B,2 |:
+"Em" [EB]2[Be]2 [Be]4 g4 | gBbB gBbB gBbB | "B7" fBaB fBaB fBaB |"Em" gBbB gBbB gBbB |"B7" fBaB fBaB fBaB |"B7" B2a2 a6 a2 | 
+"Em" gBbB "^Arr. Öst / Schönning / Sundin d.y." gBbB gBbB |"B7" fBaB fBaB fBaB | 
+"B7" B2a2 a4 (Bc)BA |"Em" A2G2 G6 e2 |"D7" d2cB (AB)AF (DE)DC |"G" C2B,2 [B,D]8 :|
+

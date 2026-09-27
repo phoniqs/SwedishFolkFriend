@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:46
+T:Trommelvals
+O:Danmark
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danmark, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^Förspel" (cB) | .A.d .f.A .d.f | g4 |][K:G][M:3/4][K:treble]"^Dans" (dc) |: (Bd) (gB) (gB) | 
+(bB) (gB) (gB) | (Ad) (fA) (fA) | (aA) (fA) (fA) | (Bd) (gB) (gB) | 
+(bB) (gB) (gB) | .A.d .f.A .d.f |1 g4 (dc) :|2 g4 d2 |: 
+.e.d .B.d .g.e | .e.d .B.d .c.d | .A.d .B.d .c.d | .A.d .B.d .c.d | 
+.e.d .B.d .g.e | .e.d .B.d .c.d | .A.d .e.d .e.f |1 g4 d2 :|2 g4 z2 |] 
+V:2
+"^2" (AG) | .F.A .d.F .A.d | B4 |][K:G][M:3/4][K:treble] (BA) |: (GB) (BG) (BG) | (dB) (BG) (BG) | 
+(FA) (AF) (AF) | (cA) (AF) (AF) | (GB) (BG) (BG) | (dB) (BG) (BG) | .F.A .d.F .A.d |1 B4 (BA) :|2 B4 B2 |: 
+.c.B .G.B .B.c | .c.B .G.B .A.B | .F.A"^Spelas önskat antal ggr." .G.A .F.A | 
+.F.A .G.A .F.A | .c.B .G.B .B.c | .c.B .G.B .A.B | "^Stämförslag B.O." .F.A .c.A .c.d |1 B4 B2 :|2 B4 z2 |]
+

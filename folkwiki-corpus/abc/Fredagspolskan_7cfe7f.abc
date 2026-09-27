@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Fredagspolskan
+C:Bertil Eriksson
+O:Härnösand, Ångermanland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bertil Eriksson, Härnösand."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1"u D |: G>(B d>)(c B>)A | (G>B) d3u D | G>(B d>)(e d>)B | (3(cdc) A3u F | D>(F A>)(G F>)E | 
+(D>F) A3u F | D>(F A>)(c B>)A | G2 G3u D | G>(B d>)(c B>)A | (G>B) d3u D | G>(B d>)(e d>)B |
+(3(cdc) A3u F | D>(F A>)(G F>)E | (D>F) A3u F | D>(F A>)(c B>)A |1 G2 G3u D :|2 G2 G3u B |: 
+d>(g b>)(a g>)B | e>(B d3)u B | d>(g b>)(a g>)B | (e>B) c3u B | A>(B c>)(B A>)G | (F>A) d3u c | 
+d>(e d>)(c A>)F | F2 G3u B | d>(g b>)(a g>)B | (e>B) d3u B | d>(g b>)(a g>)B | (e>B) c3u B | 
+A>(B c>)(B A>)G | (F>A) d3u c | d>(e d>)(c A>)F |1 F2 G3u B :|2 F2 G3 z |] 
+V:2
+"^2"u B, |: "G"D>(G B>)(A G>)E | (D>G) B3u B, | D>(G B>)(c B>)G | "D7" A2 F3u D | A,>(D F>)(E D>)B, | 
+(A,>D) F3u D | A,>(D F>)(A F>)D | "G" B,2 B,3u B, | D>(G B>)(A G>)E | (D>G) B3u B, | D>(G B>)(c B>)G | 
+"D7" A2 F3u D | A,>(D F>)(E D>)B, | (A,>D) F3u D | A,>(D F>)(A F>)D |1 "G" B,2 B,3u B, :|2 "G" B,2 B,3u D |:
+"G" G>(B d>)(c B>)G | c>(G B3)u D | G>(B d>)(c B>)G |"Am" (c>G) A3u G | "D7" F>(G A>)(G F>)E | 
+(D>E) F3u E | F>(G F>)(E D>)C | "D7" A,2"G" B,3u D |"G" G>(B d>)(c B>)G | (c>G) B3u D | G>(B d>)(c B>)G | 
+"Am" (c>G) A3u G | "D7" F>(G A>)(G F>)E | (D>E) F3u E | F>(G F>)(E D>)C |1 "D7" A,2"G" B,3u D :|2"D7""^Arr. B.O." A,2"G" B,3 z |]
+

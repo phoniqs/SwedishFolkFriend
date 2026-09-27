@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Lasse-Margits polska
+T:"Söderstens minne"
+S:Efter Anders Södersten.
+O:Älvdalen, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1""^\"Lasse-Margits polska\" eller \"Söderstens minne\""{^F} G>A (3(B/c/B/) A GG | A>c (c/d/)c/A/ B2 | (A<^F) GG (g/a/)g/^f/ | (^f<d) d4 ::
+{^c} d=e (f/g/)f/e/ fA- | Ac (c/d/)c/A/ B2 |{^c} d=e (f/g/)f/e/ fA- | Ac (c/d/)c/A/ B2 | 
+(A<^F) GG (g/a/)g/^f/ | (^f<d) d4 | ({de} dc) (c/d/c/A/){A} B (3(B/c/B/) | (A/^F/)A/F/ G4 :| 
+V:2
+|:"^2"{A,} B,>D GD B,B, | ^F>A (A/B/)A/F/ G2 | (^F<D) B,B, (B/c/)B/A/ | (A<^F) [FA]4 :: 
+{A} Bc (d/=e/)d/^c/ d^F- | ^FA (A/B/)A/F/ G2 | ^FG (A/B/)A/G/ A^F- | ^FA (A/B/)A/F/ G2 | 
+(^F<D) B,B, (B/c/)B/A/ | (A<^F) [FA]4 | (BA) (A^F)"^Stämförslag B.O." GG | (^FD) [B,D]4 :|
+

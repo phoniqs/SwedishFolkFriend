@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:55
+T:No 55 Polka af Rosen
+T:ur Sven Johnssons notbok
+R:Polka
+O:Mörrum, Blekinge.
+B:Sven Johnssons notbok
+M:2/4
+L:1/8
+Q:1/4=115
+Z:Renskrivning Lena Dalquist, ABC-notation Peter Svensson
+K:D
+(df).f.f             | f3   f  |  (fd).e.f         | g>f  e2  |  (ce)ee       | e3    f       | ge a>g     |
+fa           d2-     | dfff    |  f3           f   | fdef     |  g>a    Lb2   | gg    g/2f/2e | ff f/2e/2d |
+ee           e/2d/2c | dddz    :: g/2g/2g/2g/2 fe  | df   La2 |  ce     La2   | df    a2      |
+g/2g/2g/2g/2 fe      | df   a2 |  ce           ac  | dddz     :: [K:G]  (B3c) | (d3B)         | dB gg      | f2 z2 | (A3B) |
+(c3d)                | fedf    |  gggz            :|
+

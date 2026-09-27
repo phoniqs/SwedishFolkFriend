@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:6405
+T:Synneshallingen
+C:Jens Synnes
+R:Halling
+O:Norge
+Z:ABC av Lennart Sohlman
+M:2/4
+L:1/16
+K:Dm
+A2{^g}a2 {ab}a2(ga|b2)a^g a4|(=gb)ag f2(ed)|(^cd)ef e4|!
+A2{^g}a2 {ab}a2(ga|b2)a^g a4|(=gb)ag f2(e^c)|d4d4::!
+(DFA)d (d^ce)c|d2fg a4,|(age)f d2(e^c)|d2(fd) ^c2 "+"A2|!
+(DFA)d (d^ce)c|d2fg a4,|(age)f d2(e^c)|d2d2:|]
+

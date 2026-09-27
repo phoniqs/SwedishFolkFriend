@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:231
+T:Delsbo brudmarsch
+C:Per Söderblom
+O:Delsbo, Hälsingland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter klockare Per Söderblom, 1840"
+Z:"Arr. [[Personer/Thore Härdelin den äldre]]"
+B:25 spelmanslåtar från Hälsingland nr 2
+L:1/4
+M:2/2
+K:C
+V:1
+"^1" G |: c2 c/d/c/B/ | c d e c | [A,A]2 [A,F]3/2 G/ | [A,F]2 z [G,F] | 
+[G,E] [G,G] c e | g a/g/ f d | c2 B/A/B/d/ |1 [Ec]2 z G :|2 [Ec]2 z g |: 
+a/g/^f/g/ a/g/f/g/ | c' g e c | B2 G3/2 G/ | [G,G]2 z g | f d/f/ e c | f d/f/ e c | 
+[cg]2 g/^f/g/a/ | [Bg]2 z G | c2 c/d/c/B/ | c d e c | [A,A]2 [A,F]3/2 G/ | 
+[A,F]2 z [G,F] | [G,E] [G,G] c e | g a/g/ f d | c2 B/A/B/d/ |1 [Ec]2 z g :|2 [Ec]2 z z |] 
+V:2
+"^2" G, |:"C" [CE]2 [CE]3/2 [CE]/ |"C7" [CE]2 [CE]2 |"F" [CF]2 [CF]3/2 [CF]/ | [CF]2 z D | 
+"C" C E G c |"G7" B c/B/ A F |"C" E2"G7" D/^C/D/F/ |1"C" [G,E]2 z G, :|2"C" [G,E]2 z e |: 
+"C" f/e/^d/e/ f/e/d/e/ | c G E C |"G7" G,2 B,3/2 D/ | [B,D]2 z G | "G7" [B,G] [B,G]"C" [CG] [CG] |"G7" [B,G] [B,G]"C" [CG] [CG] |
+"G7" [CE]2 [G,G]3/2 [G,G]/ | [G,G] [G,F] [G,E] [G,D] |"C" [CE]2 [CE]3/2 [CE]/ |"C7" [CE]2 [CE]2 |
+"F" [CF]2 [CF]3/2 [CF]/ | [CF]2 z D |"C" C E G c |"G7" B c/B/ A F |"C" E2"G7" D/^C/D/F/ |1 "C" [CG]2 z e :|2"C" [CG]2 z z |]
+

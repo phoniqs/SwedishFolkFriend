@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:30
+T:Avskedsgånglåt
+T:(SvL Hälsingland 30)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 30
+O:Hassela, Hälsingland
+R:Gånglåt
+Q:50
+Z:[[Personer/Bengt Ohlson]] (Nr 34 i Hall-samlingen)
+L:1/16
+M:2/4
+K:Cm
+V:1
+|: G2GF E2D2 | C2CD E2F2 | (GF)AF G2c2 | (=Bc)dB G2g2 | (fg)fe d2f2 | e2ed c4 | 
+G2=A=B c2Bc | d2d=B G4 | (G=A)=Bc d2e2 | (fg)fe d2g2 | (ef)ed c2e2 | d2d=B c4 :: 
+ c'2c'2 g2fg | (ag)fe (de)fg | e2ec d2d=B | G2G2 G2 z2 | c2c2 G2FG | (AG)FE (DE)FG |
+E2EC D2D=B, | C2C2 C2 z2 :: (g^f)ga g2g=f | d4 (=Bc)de | (f=e)fg f2f_e | c4 G4 | 
+e2ef e4 | (dc)de d4 | c2c2 (=Bc)dB | G2G2 G4 | (G^F)GA G2G=F | D4 (=B,C)DE |
+ (F=E)FG F2F_E |  C4 G,4 |  E2EF E4 |  (DC)DE D4 |  (C=B,)CD (ED)CB, |  C6 z2 :| 
+V:2
+|: "Cm" z4 "G7" z4 |"Cm" G2GF E2D2 | (ED)FD E2G2 |"G7" F4 D2=B2 | (de)dc =B2d2 |"Cm" c2cG E4 | 
+G2^F=F E2DC | "G7" =B2BG D4 | D4 F4 | (de)dc =B2B2 |"Cm" (GA)GF E2G2 |"G7" G2GF"Cm" E4 :: 
+"Cm" e2e2 e4 | "Fm" (fe)dc (=Bc)de | "Cdim"[^F=A]4 "G7" G2GD | [=B,D]2[B,D]2 [B,D]2 z2 |"Cm" C2C2 [CE]4 |"Fm" [CF]4 [CE]4 | 
+"Cdim" [^F=A]4 "G7" G2>=F2 | "Cm" [G,E]2[G,E]2 [G,E]2 z2 :: "Cm" (ed)ef e2ed | "G7"=B4 (G=A)Bc | (dc)de d2dc | "Cm" G4 E4 |
+[CE]2[CE]2 [CE]4 |"G7" [=B,G]2[=B,G]2 [=B,G]4 |"Cdim" [^F=A]4 [FA]4 | "G7" (GG,)=B,D (GF)ED | "Cm" (ED)EF G,2=B,D | "G7" G4 G2G,2 | 
+=B,2D2 G,2CE | "Cm" G4 C2E2 | "Cdim" [=A,^F]2[A,F]2 [A,F]4 | "G7" [A,F]2[A,F]2 [A,F]4 | "Cm" (ED)EF (GF)ED | "Cm" [G,E]6 z2 :| 
+

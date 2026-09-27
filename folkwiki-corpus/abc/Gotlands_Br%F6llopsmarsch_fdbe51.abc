@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:688
+T:Gotlands Bröllopsmarsch
+O:Gotland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Enkelt arr. B.O."
+N:Kallas även "Gotländsk brudmarsch"
+L:1/8
+Q:1/4=84
+M:4/4
+K:G
+V:1
+"^1" de/f/ |: g2 (d>d) d2 (B/G/)B/d/ | (d>c) (cc) c2 (Ac) | (BG) (Bd) (ed) (cB) | (B>A) ([DA][DA]) [DA]2 de/f/ | 
+g2 (d>d) d2 (B/G/)B/d/ | (d>c) (cc) c2 Ac | (Bg) (f/e/)d/c/ BA/B/ cF |1 (A>G) (GG) G2 de/f/ :|2 (A>G) (GG) G2 GA/B/ |: 
+c2 (c>c) c2 (c/B/)A/B/ | (B>d) (dd) d2 d/e/f/g/ | f2 (f>f) (fe) de/f/ | g2 gf/g/ (ba) de/f/ | 
+(g>d) (dd) d2 B/G/B/d/ | (d>c) (cc) c2 Ac | (Bg) (f/e/)d/c/ BA/B/ cF |1 (A>G) (GG) G2 GA/B/ :|2 (A>G) (GG) G2 z2 |] 
+V:2
+"^2" (dc) |: B2 ([GB]>[GB]) [GB]2 G/F/E/D/ | E2 ([CE][CE]) [CE]2 DF | (GD) GB cB (AG) | G2 (FF) F2 dc | 
+B2 ([GB]>[GB]) [GB]2 G/F/E/D/ | E2 ([CE][CE]) [CE]2 DF | (GB) d/c/B/A/ G2 FD |1 C2 (B,A,) B,2 dc :|2 C2 (B,A,) B,2 G=F |: 
+E2 (E>E) E2 DF | (G>B) BB B2 BG | A2 (A>A) AG FA | B2 (Bd) gf dc | 
+B2 ([GB][GB]) [GB]2 G/F/E/D/ | E2 ([CE][CE]) [CE]2 DF | (GB) d/c/B/A/ G2 FD |1 C2 (B,A,) B,2 G=F :|2 C2 (B,A,) B,2 z2 |]
+

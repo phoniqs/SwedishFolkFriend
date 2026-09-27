@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:3
+T:Spelmanshälsning
+T:Gånglåt
+C:Eric Öst
+O:Hälsingland
+R:Gånglåt
+B:Spelmanshälsning
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Eric Öst."
+L:1/8
+M:4/4
+K:G
+V:1
+"^1"u d2 |:v g2 gg g2 gf | (fe) ec A2 AG | F2 Ac e2 dc | (BG) Be ^A3u d | 
+g2 gg g2 bg | (fe) ec A2 g(f/e/) | d2 Bd c2 DF |1 (AG) GG G3u d :|2 (AG) GG G3u D |: 
+v B2 BB c2 cc | ^c2 cc d2 dd | e2 f2 g2 (a/g/f/g/) | b<c c2 e<F (FD) | 
+B2 BB c2 cc | ^c2 cc d2 dd | e2 f2 g2 (a/g/f/g/) |1 bc dF GG GD :|2 bc dF GG G2 |] 
+V:2
+"^2" G2 |:"G" B2 BB B2 Bd |"Am" d2 cA E2 FE |"D7" D2 FA c2 BA |"G" D2 GB"D7" [Fd]3 G | 
+"G" B2 BB B2 dB |"Am" A2 AE"C" C2 BA |"G" B2"E7" GB"Am" A2"D7" A,D |1 "D7" (CB,)"G" B,A, B,3 G :|2"D7" (CB,)"G" B,A, B,3 B, |:
+"G" G2 GG"D7" A2 AA | "Gdim" ^A2 AA"G" B2 BB |"C" c2"B7" A2"Em" B2 G2 |"A7" A2 F2"D7" D2 C2 |
+"G" G2 GG"D7" A2 AA | "Gdim" ^A2 AA"G" B2 BB |"C" c2"B7" A2"Em" B2 G2 |"A7" E2"D7" D2"G" B,2 B,2 :| "A7" E2"D7" D2"G" "^B.O." B,2 B,2 |] 
+

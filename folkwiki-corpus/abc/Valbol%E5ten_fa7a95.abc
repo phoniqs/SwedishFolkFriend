@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+S:Karl Johan Sjöstrand
+T:Valbolåten
+O:Valbo, Gästrikland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter K. J. Sjöstrand (1875-1956), Hemlingby."
+Z:"Uppt. av [[Personer/Karl Sporr]] (1887-1967) 1929 efter Karl Johan Sjöstrand (1875-1956), Hemlingby. Sjöstrand ansåg att han spelade Valbolåten precis som A. G. Boström (1839-1922) i Valbo. Hade även sjungits av Per Perssons änka i Kusbo, vilken troligtvis var Greta Andersdotter (1839-1912). (Svenskt visarkiv acc. nr 412:4)"
+L:1/8
+Q:1/4=69
+M:2/4
+K:C
+V:1
+"^1"G"^Gånglåt" |: c2({d} c/4d/4c/4B/4)c/d/ |{cdcB} c2 (C/D/)E/F/ | G2 G2 |({GF)} G3{cd} c | AF Ac | {Bc} BG Bd | c2({Bc} B/A/)B/d/ |1 
+c3 G :|2 c3 (G/F/) |: EG EG | (F/G/)(F/E/) FD | EC/E/ (G/F/)E/F/ | D3 (G/F/) | EG EG | (F/G/)(F/E/) FD | 
+G2 (G/A/)G/F/ | E3 (E/D/) | (C/D/)E/F/ GA/B/ | (c/B/)(c/d/) ec | A2 F2 | (F/G/)A/B/ (c/B/)c/A/ | Gc EG | FD Bd | 
+c2({Bc} B/A/)B/d/ |1,8 c3 (G/F/) :|2 c3 z [| G3 (E/G/) | FE (F/E/)(F/G/) | A2 A2 | A3 G | FD/G/ FE/D/ | 
+CC B,B, | D2 D2 | D3 B | cB/d/ cB/d/ | cB cA | d2 d2 | d3 (B/d/) | cB cA | 
+GB (D/^F/)(A/F/) | G2 G2 | G3 (c/B/) | AF F(D/F/) | EC/E/ (G/F/)E/F/ | D2 D2 | D3 (G/F/) |] 
+V:2
+"^2" C |: E2 E2 | E2 (G,/B,/)C/D/ | E2 (E/F/)E/D/ | E3 E | FC FA | GD GF | E2 DF |1 
+E3 C :|2 E3 (E/D/) |: CE CC | DD B,G, | CC DC | B,G FD | CE CC | DD B,G, | 
+C2 CB, | C3 (C/B,/) | G,C EC | EF GE | C2 (A,/B,/)A,/G,/ | A,C FC | EG CE | 
+DB, DF | E2 DF |1,8 E3 (E/D/) :|2 E3 z [| E3 (C/E/) | DC B,D | F2 (F/G/)F/E/ | 
+F3 E | DB, DB, | A,A, G,G, | B,2 (G,/A,/)B,/C/ | B,3 D | ED ED | ED EC | F2 (F/G/)F/E/ | 
+F3 (D/F/) | ED EC | B,D A,C | B,2 (DE) | F3 (A/G/) | FC CB, | "^Arr. och stämförslag B.O." CG, DC | B,2 (G,A,) |  B,3 (E/D/) |]
+

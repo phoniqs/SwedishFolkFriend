@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X: 94
+T: Rafflakittas klagan
+S: efter August Strömberg
+O: Jät, Småland
+N: Småländsk musiktradition II-94
+B: Småländsk musiktradition 
+D: Svensson, Gustafsson mfl - Bålgetingen
+Z: Till abc av Jon Magnusson 100511 
+R: Vals
+M: 3/4
+L: 1/8
+K: Gm
+d2|:b2 (c'b) (ab)|g2 ^f2 g2|d2 (ed) (ce)|d2 c2 d2|B2 (cB) (AB)|G2 B2 d2|f2 =e2 ^c2|d4 z2|
+b2 (c'b) (ab)|g2 ^f2 g2|d2 (ed) (ce)|d2 c2 d2|B2 (cB) (AB)|G2 B2 d2|b2 a2 ^f2|1 [B4 g4] d2:|2 [B4 g4] z2|:
+(d'2^c'2)d'2|(b2a2)b2|(g2 b2) g2|(a2f2)d2|(B2 A2) B2|(G2 B2) d2|(f2 =e2) ^c2|d4 z2|
+(d'2^c'2)d'2|(b2a2)b2|(g2 b2) g2|(a2f2)d2|(B2 A2)B2|(G2 A2) B2|(A2D2) ^F2|G4 z2::
+d2 (fd) (Bd)|(fd) (Bd) f2|c2 (fc) (Ac)|(fc) (Ac) f2|(BA) (Bd) (cB)|(AG) (Ac) (BA)|(GF) (GB) (A=F)|[D4 A4] z2|
+d2 (fd) (Bd)|(fd) (Bd) f2|c2 (fc) (Ac)|(fc) (Ac) f2|(BA) (Bd) (cB)|(AG) (Ac) (BA)|(GB) (df) (af)|[B4 g4] z2:|
+

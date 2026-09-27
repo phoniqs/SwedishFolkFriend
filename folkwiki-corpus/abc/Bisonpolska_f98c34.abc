@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Bisonpolska
+C:Olov Johansson
+R:Polska
+L:1/8
+M:3/4
+N:[[Grupper/Väsen]]
+Z:Ivan Nitkin, 2026-08-02
+K:Ador
+V:1
+|:"^Am" EA c2 B3/2A/ |"^G" BG G3 G- | GB dd BB |"^Am" c2 ed/c/ "^G"dB |"^Am" cA E4 |
+"^Am" EA c2 B3/2A/ |"^G" BG G3 G- | GB dd BB |"^Am" c2 ed/c/ "^G"dB |"^Am" cA A4 :||
+|:"^Am" EA c2 eg |"^D" f2 fe/d/"^Am" e2- |"^D" eg fd/f/ ag/f/ |"^C" ge c2 eg |
+"^D" f2 fe/d/"^Am" e2- |"^D" eg fe/d/ "^Am"ec | AE"^F" =F2 Ac |"^G" BG G3 G- |
+"^Em" GB dd B B |"^Am" c2 ed/c/ "^G"dB | "^Am" cA A4 :||
+V:2
+|: A,C E2 D3/2C/ | DB, B,3 D- | DG BB GG | E2 cB/A/ BG |AE E4 |
+ A,C E2 D3/2C/ | DB, B,3 D- | DG BB GG | E2 cB/A/ BG  | AE A,4 :||
+|: A,C E2 Ac | d2 dc/B/ c2- |cB AA/d/ fe/d/ | ec A2 ce |
+d2 dc/B/ A2- | Ae dc/B/ cA | EC A,2 CE | DB, B,3 B,- |
+ B,D BB GG | E2 cB/A/ BG | AE A,4 :||
+

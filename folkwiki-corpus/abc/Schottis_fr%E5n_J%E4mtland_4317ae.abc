@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Jämtland
+T:efter Gustav i Backen
+S:Gustav i Backen
+O:Jämtland
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Jämtland (3)"
+L:1/16
+M:2/4
+K:F
+V:1
+|:"^1" (c>a)Bg f2Ac | (c>B)Bd G2>F2 | (F>E)EG c2EG | (F>A)cf a2>c2 | 
+(c>a)Bg f2Ac | (c>B)Bd G2>F2 | (F>E)EG c2EG | F2A2 F2 z2 :: 
+A2AG F2GA | B2gf d4 | c2bg (ec)BG | FA,CF (Ac)f2 | 
+A2AG F2GA | B2gf d4 | c2bg (ec)BG | F2F2 F2 z2 :| 
+V:2
+|:"^2" (A>c)GB A2FA | (A>G)GB D2>D2 | (D>C)CE E2CE | (A,>F)Ac c2>A2 | 
+(A>c)GB A2FA | (A>G)GB D2>D2 | (D>C)CE E2CB, | A,2C2 A,2 z2 :: 
+F2FC A,2CF | D2ed B4 | E2ge (cG)EC | A,CFA (CF)A2 | 
+F2FC A,2CF | D2ed B4 | "^Stämförslag B.O." E2ge (cG)EC | A,2A,2 A,2 z2 :| 
+

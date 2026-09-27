@@ -1,0 +1,34 @@
+%%abc-charset utf-8
+
+X:2
+T:Hälsinge storpolska
+S:Hans Nilsson
+O:Hälsingland
+R:Polska
+N:Uppteckning av [[Personer/Hans Nilsson]], andrastämma av [[Personer/Thore Härdelin den äldre]]
+B:Ny samling spelmanslåtar från Hälsingland nr 2
+Z:Karin Helander
+L:1/16
+M:3/4
+K:C
+V:1
+c2Gc e2ce g4 | (ab)c'a a4 g4 | (ab)c'a a4 g4 | (fg)af (ef)ge (de)fd | (Bc)dc A4 G4 | 
+G2Bd (fG)dG (fG)(dG) | G2ce (gG)eG (gG)eG | G2Bd (fG)dG (fG)(dG) | G2ce (gG)eG (gG)eG | 
+(GF)ED C2EG c4 | (AF)EF (AF)EF [F4d4] | (de)fe (dc)BA (GF)ED | (Bc)de [d4D4] c4 :|
+|: e2cd e2c2 (eg)^fg | d2Bc d2B2 d2g2 | (^fe)fa (gf)ed (cB)AG | (^FG)AG E4 D4 |
+d2^fa (c'd)ad (c'd)ad | d2gb d'dbd d'dbd | d2^fa (c'd)ad (c'd)ad | 
+d2gb d'dbd d'dbd | (g^f)(ga) (gf)ed (cB)AG | (^FG)AF (GD)B,D G,4 | c2GE C2EG c4 | 
+A2G2 =FEFG F4 | F4 (fe)fg a4 | c2e2 (dc)BA G4 | G2Bd (fG)dG (fG)(dG) | 
+G2ce (gG)eG (gG)eG | G2Bd (fG)dG (fG)(dG) | G2ce (gG)eG (gG)eG | (GF)ED C2EG c4 | 
+(AF)EF (AF)EF [D4d4] | (de)fe (dc)BA (GF)ED | (Bc)de [d4D4] [E4c4] :|
+V:2
+z4 c2Gc e2ce | (fg)af f4 e4 | (FG)AF F4 E4 | (de)fd (cd)ec (Bc)dB | (DE)^FD C2A,2 B,2G,2 | 
+(G,D)(BD) (G,D)(BD) (G,D)(BD) | (G,E)(cE) (G,E)(cE) (G,E)(cE) | (G,D)(BD) (G,D)(BD) (G,D)(BD) | (G,E)(cE) (G,E)(cE) (G,E)(cE) | 
+(ED)CB, A,2CE [A,4E4A4] | (FD)^CD (FD)CD [A4D4] | (Bc)dc (BA)GF (ED)CB, | (DE)FG [G,4F4] [C4E4] :|
+|: c2AB c2A2 ce^de | B2GA B2G2 [D4B4] | (d^c)d^f (ed)cB (AG)FE | (AE)^FD [A,4G4] [A,4F4] |
+(A,^F)(AF) (A,F)(AF) (A,F)(AF) | G,GBG G,GBG G,GBG | (A,^F)(AF) (A,F)(AF) (A,F)(AF) | 
+G,GBG G,GBG G,GBG | (e^d)(e^f) (e=d)cB (AG)FE | (A,B,)CA, G,B,DB, G4 | A2EC A,2CG A4 | 
+F2E2 D^CDE D4 | [A,4D4] (d^c)de f4 | A2c2 (BA)GF E4 | (G,D)(BD) (G,D)(BD) (G,D)(BD) | 
+(G,E)(cE) (G,E)(cE) (G,E)(cE) | (G,D)(BD) (G,D)(BD) (G,D)(BD) | (G,E)(cE) (G,E)(cE) (G,E)(cE) | 
+EDCB, A,2CE [A,4E4A4] | FD^CD FDCD [F4A4] | (Bc)dc (BA)GF (ED)CB, | (DE)FG [F4G,4] [E4C4] :|
+

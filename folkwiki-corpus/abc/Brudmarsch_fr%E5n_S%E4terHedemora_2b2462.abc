@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Säter-Hedemora
+S:Ingels Jan Andersson
+S:Matses Anders Norman
+O:Säter-Hedemora, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Ingels Jan och Matses Anders."
+L:1/16
+Q:1/4=82
+M:2/4
+U:t=tenuto
+K:G
+V:1
+"^1" (GB)dg |: g2>B2 B2B2 | B4 (Ad)fe | d2>A2 A2A2 | A4 (DF)Ac | 
+e2e2 (DF)Ac | e2e2 (df)ba | g2>B2 d2d2 |1 d4 (GB)dg :|2 d4 d2ef |: 
+g4 (tg2tg2) | g4 (tf2te2) | d6 B2 | G4 (GB)ed | c2>F2 F2F2 | 
+F4 (FA)ed | B2>G2 G2G2 | G4 d2ef | g4 (tg2tg2) | g4 (tf2te2) | 
+d6 B2 | G4 (GB)ed | c2>F2 F2F2 | F4 (FA)ed | G4 B4 |1 G4 d2ef :|2 G4 z4 |] 
+V:2
+"^2" (B,D)GB |: B2>G2 G2G2 | D4 (FA)dA | A2>F2 F2F2 | C4 (A,D)FA | 
+c2c2 (A,D)FA | c2c2 (Fd)fd | B2G2 B2B2 |1 B4 (B,D)GB :|2 B4 B2cd |: 
+B4 (tB2tB2) | e4 (td2tc2) | B4 G4 | B,4 (DG)cB | A2D2 D2D2 | 
+C4 (DF)AF | G2D2 D2C2 | B,4 B2cd | B4 (tB2tB2) | e4 (td2tc2) | 
+B4 G4 | B,4 (DG)cB | A2D2 D2D2 | C4 (DF)AF | [B,D]4 D2GD |1 "^Stämförslag B.O." [B,D]4 B2cd :|2 [B,D]4 z4 |]
+

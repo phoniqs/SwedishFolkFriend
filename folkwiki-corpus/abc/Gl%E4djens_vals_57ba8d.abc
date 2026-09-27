@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Glädjens vals
+S:Anselm Sandström
+O:Fågelsta, Dorotea, Lappland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Anselm Sandström, Fågelsta, Dorotea."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" d (3BdB |: G2 e3 d | B2 Bd (3BdB | G2 e3 d | A4 (3FAF | D2 F3 A | 
+f3 f f2 | f2 e2 d2 | G3 d (3BdB | G2 e3 d | B2 Bd (3BdB | G2 e3 d | 
+A4 (3FAF | D2 F3 A | f4 (3efe | d2 e2 f2 |1 g3 d (3BdB :|2 g3 edc |: 
+B2 g3 B | g2 B2 (3dgd | c2 e3 c | e6 | f2 (3efe d2 | c2 B2 A2 | 
+G2 e3 B | d3 edc | B2 g3 B | g2 B2 (3dgd | c2 e3 c | e6 | 
+f2 (3efe d2 | c2 B2 A2 |1 G6- | G3 edc :|2 G6- | G3 z z2 |] 
+V:2
+"^2" B (3GBG |:"G" D2 c3 B | G2 GB (3GBG | D2 c3 B |"D7" F4 (3DFD | A,2 D3 F | 
+A3 A A2 | A2 G2 F2 |"G" D3 B (3GBG | D2 c3 B | G2 GB (3GBG | D2 c3 B |
+"D7" F4 (3DFD | A,2 D3 F | A4 (3GAG | F2 G2 A2 |1"G" [DB]3 B (3GBG :|2"G" [DB]3 cBA |:
+"G" G2 B3 G | B2 G2 B2 | "C" A2 c3 A | [Ec]6 |"D7" d2 c2 A2 | F2 D2 C2 |
+"G" B,2 G3 D | [DB]3 cBA | G2 B3 G | B2 G2 B2 | "C" A2 c3 A | [Ec]6 |
+"D7" d2 c2 A2 | F2 D2 C2 |1"G" [B,D]6- | [B,D]3 cBA :|2"G" [B,D]6- | [B,D]3"^B.O." z z2 |]
+

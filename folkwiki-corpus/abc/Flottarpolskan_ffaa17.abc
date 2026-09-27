@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Flottarpolskan
+S:Konrad Holmgren
+O:Sorsele, Lappland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Konrad Holmgren, Sorsele.
+Z:Uppt. William Holmgren
+Z:Stämförslag B.O.
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" d>c B2 g2 | f>e d2 B2 | d>e dc AB | cd/c/ BA G2 | 
+d>c B2 g2 | f>e d2 B2 | d>e dc AB | G2 G3 z ::
+[K:D] F>G A2 A2 | d>e f2 f2 | a>b ag ef | ga/g/ fe d2 |
+ F>G A2 A2 | d>e f2 f2 | a>b ag ec | d2 d3 z :| 
+V:2
+|:"^2" B>A G2 B2 | d>c B2 G2 | B>c BA FG | AB/A/ GD B,2 | B>A G2 B2 | d>c B2 G2 | B>c BA FD | 
+B,2 B,3 z ::[K:D] D>E F2 F2 | F>A d2 d2 | c>d cB GA | Bc/B/ AG F2 | D>E F2 F2 | 
+"^Uppt. William Holmgren.  Stämförslag B.O." F>A d2 d2 | c>d cA GE | F2 F3 z :|
+

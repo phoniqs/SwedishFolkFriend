@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska i A och D
+S:Pellmas Olle
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:A
+V:1
+"^1"v (c |: e2) e>(e d>)d | c>(c e>)(e a>)a | B>(B g>)(g b>)g | a2 (ac) e2- | 
+e2 e>(e d>)d | c>(c e>)(e a>)a | B>(B g>)(g b>)g |1 a2 a3v c :|2 a2 a3v (A |] [K:D] 
+|: d2) (dA) F>E | (D>F) (Ad) f>a | g>(f ge) c>e | d2 (d>A) F>A | 
+d2 (dA) F>E | (D>F) (Ad) f>a | g>(f ge) c>e |1 d2 d3v A :|2 d2 d3 z |] 
+V:2
+"^2"v (A |:"A" c2) c>(c B>)B | A>(A c>)(c e>)e |"E7" G>(G B>)(B d>)B |"A" c2 (cA) c2- | 
+c2 c>(c B>)B | A>(A c>)(c e>)e |"E7" G>(G B>)(B d>)B |1"A" c2 [ce]3 A :|2"A" c2 [ce]3 (F |] [K:D]
+|: "D" A2) (AF) D>C | (A,>D) (FA) d>f |"A7" e>(d ec) A>G |"D" F2 (F>D) D>F | 
+A2 (AF) D>C |"^Stämförslag B.O." (A,>D) (FA) d>f |"A7" e>(d ec) A>G |1 "D" F2 [FA]3 F :|2"D" F2 [FA]3 z |]
+

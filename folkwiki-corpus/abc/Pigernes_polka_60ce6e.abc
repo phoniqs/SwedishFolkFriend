@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:35
+T:Pigernes polka
+O:Danmark
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danmark, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel" ff/g/ aa/b/ | ad f/f/f | gc e/e/e | df d z |]:[K:D][M:2/4][K:treble]"^Dans" ff A z | 
+dF A/A/A | GE c/c/c | dF A2 | ff A z | dF A/A/A | 
+GE c/c/c | dd d z :: [K:A] cc/d/ ef/g/ | ac e/e/e | dB g/g/g | 
+ac e2 | cc/d/ ef/g/ | ac e/e/e | dB g/g/g | aa a z ::
+[K:D] ff/g/ aa/b/ | ad f/f/f | gc e/e/e | fd A2 | 
+ff/g/ aa/b/ | ad f/f/f | gc e/e/e | df d z :| 
+V:2
+"^2" dd/e/ ff/g/ | fA d/d/d | eA G/G/G | FA F z |]:[K:D][M:2/4][K:treble] dd F z | AD F/F/F | 
+EC A/A/A | AD F2 | dd F z | AD F/F/F | EC A/A/A | FF F z ::[K:A] AA/B/ cd/e/ | cA c/c/c | 
+BG B/B/B | cA c2 | AA/B/ cd/e/ | cA c/c/c | BG B/B/B | cc c z ::[K:D] dd/e/ ff/g/ | fA d/d/d | 
+eA c/c/c | dA F2 | dd/e/ ff/g/ | "^Stämförslag B.O." fA d/d/d | eA G/G/G | FA F z :|
+

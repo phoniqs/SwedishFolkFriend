@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Leksands brudmarsch
+S:Skaft Erik
+O:Leksand, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Skaft Erik."
+L:1/8
+M:2/4
+K:Am
+V:1
+"^1" A |: (A>^c) (de) | f2 (ag) | ef/e/ (d^c) | A2 (F/G/)A/B/ | 
+c2({d} cB) | G2 (G/A/)B/c/ | de/d/ (BG) |1 A3 A :|2 A3 A |: 
+(AE) FF/G/ | (FA) (cA) | (AG) GG/E/ | (GA) (de) | 
+fg/f/ (e^c) | A2 (^c/d/)e/f/ | ga/g/ (e^c) |1 d3 A :|2 d3 z |] 
+V:2
+"^2" ^C |: (^C>E) (FA) | d2 (fe) | ^cd/c/ (BA) | E2 (D/E/)F/G/ | 
+A2 (AG) | B,2 (B,/D/)G/A/ | B^c/B/ (GD) |1 ^C3 C :|2 ^C3 F |: 
+(F^C) DD/E/ | (DF) (AF) | (FE) EE/C/ | (EF) (B^c) | 
+de/d/ (^cA) | E2 (A/B/)^c/d/ | "^Stämförslag B.O." ef/e/ (^cA) |1 [FA]3 F :|2 [FA]3 z |]
+

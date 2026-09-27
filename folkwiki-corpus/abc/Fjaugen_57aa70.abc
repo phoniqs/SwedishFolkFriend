@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:1
+T:Fjaugen
+R:Polska
+O: Gotland
+C: Jan Ekedahl
+N: Ursprungligen från musikdramat Volund
+M:3/4
+L:1/8
+K:Bm
+| A "F#m"c>d |: "Bm"(B2 B/)B/c/d/ fe/d/ | "A"c3 A cd | [M: 2/4] "Em"eg "F#m"fc | "G"Bf "A"e/d/c/d/ |
+[M: 3/4] "Bm"B>B B/c/d/e/ fe/d/ | "A"e(a a)(e e)f | "Em"g>g g/f/e/g/ "F#m"fc | "G"B>B B/c/d/e/ "A"cd ::
+  "G"B>b ba/g/ "A"ae/f/ | "G"g>a gf/e/ "D"fe/d/ | [M: 2/4] "Bm"d>c' d'e'/d'/ | "F#m"c'/b/a/c'/ "G"b/a/g/b/ |1 "A"ae cA :|2 "A"a4 ||
+|| [M: 3/4] "Em"g6 | "Bm"f6 | "C"e6 | "G"d4 de/f/ | "Em"g6 | "Bm"f6 | "C"e6 | "G"d2>A2 "F#m"c>d !D.C.! |]
+

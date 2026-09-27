@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:6361
+T:Sydjämtsk polska efter Jonken i  Klaxåsen
+R:Polska
+O:spelad av Harald Johansson i Nästeln
+Z:Abc Lennart Sohlman
+N:Förslag till stråkfrasering/arr: Lennart Sohlman
+M:3/4
+L:1/8
+Q:1/4=150
+K:D
+V:1
+(A|d>)(A GF) E>d|(c>d) e3 (f|(3g)(ag) (3f(ed) (3c(Ac)|d2 A3 (A|!
+d>)(A GF) E>d|(c>d) e3 (f|(3g)(ag) (3f(ed) (3(cAc)|d2 d3::!
+(A|d>)f (3a(fa) a>f|g>a (3b(gb) b>g|e>f (3g(ag) (3f(ed)|(3c(Ac) d2 A2|!
+d>f (3a(fa) a>f|g>a (3b(gb) b>g|e>f (3g(ag) (3f(ed)|(3(cAc) d3:|]
+V:2
+(E|F>)(E- ED) C>A|A2 c3(d|(3e)(fe) (3d(cA) (3G(EG)| A2 E3 (E|!
+F>)(E- ED) C>A|A2 c3(d|(3e)(fe) (3d(cA) (3G(EG)|F2 [F3A3]::!
+(F|A>)d (3f(df) f>d|e>f (3g(eg) g>e|c>d (3e(fe) (3d(cB)|(3A(EA) F2D2|!
+A>d (3f(df) f>d|e>f (3g(eg) g>e|c>d (3e(fe) (3d(cB)|(3(AGE) [F3A3]:|]
+

@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Säbb Johns gånglåt
+O:Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Allm. trad."
+L:1/16
+M:4/4
+U:t=tenuto
+K:G
+V:1
+"^1" C2 |: (B,/C/B,/C/)B,A, (G,B,)DG B2cB (tA2tG2) | C2>(E2 GE)Gc e2ed (tc2tB2) | A2>(G2 FA)de f4 (f/g/f/g/f)ue | 
+(ef)ed d2dc (Bc)dB (tG2tD2) | (B,/C/B,/C/)B,A, (G,B,)DG B2cB (tA2tG2) | C2>(E2 GE)Gc e2ed (tc2tB2) | 
+A2>(G2 FA)de f4 (f/g/f/g/f)ue |1 (ef)ed d2dF G6 C2 :|2 (ef)ed d2dF G6 D2 |: 
+G2>(B2 td2tg2) b4 (tb2tb2) | (a2>g2) (g2f2) c6 (3(BcB) | A2>(G2 FA)de f4 f/g/f/g/fue | 
+(ef)ed d2dc (Bc)dB (tG2tD2) | G2>(B2 td2tg2) b4 (tb2tb2) | (a2>g2) (g2f2) c6 (3(BcB) | 
+ A2>(G2 FA)de f4 f/g/f/g/fue |1 (ef)ed d2dF G6 D2 :|2 (ef)ed d2dF G6 z2 |] 
+V:2
+"^2" E2 |:"G" D2DC B,2B,D G2AG (tD2tB,2) | "C" A,2>(C2 E2)EA"Am" c2cB (tA2tG2) | "D7" F2>(E2 DF)AB A4 A2>A2 | 
+"D7" A2AF F2FA"G" (GA)BG (tD2tB,2) | D2DC B,2B,D G2AG (tD2tB,2) | "C" A,2>(C2 E2)EA"Am" c2cB (tA2tG2) |
+"D7" F2>(E2 DF)AB A4 A2>c2 |1 "D7" c2cB A2FD"G" B,6 E2 :|2"D7" c2cB A2FD"G" B,6 B,2 |: 
+"G" B,2>(D2 tG2tB2) d4 (td2td2) |"G" (c2>B2) (B2A2)"Am" E6 G2 | "D7"  F2>(E2 D2)FA c4 c2>B2 |
+"D7" A2AG F2FA"G" G2AG (tD2tB,2) | "G" B,2>(D2 tG2tB2) d4 (td2td2) |"G" (c2>B2) (B2A2) "Am"  E6 G2 | 
+"D7" F2>(E2 D2)FA c4 c2>B2 |1"D7" A2AG F2FD"G" B,6 B,2 :|2"D7" A2AG F2FD"G" B,6 "^B.O."z2 |]
+

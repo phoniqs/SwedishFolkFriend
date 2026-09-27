@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Till havs i motorbåt
+C:Sixten Engström
+R:Vals
+O:Råneå, Norrbotten
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+"^1" (D"^Vals"E) |: F4 EF | G4 FG | A2 (fd) AF | (DF) AB A2 | G2 (ec) AG | (EG) AB A2 | 
+D2 (fd) AF | A4 (DE) | F4 EF | G4 FG | A2 (fd) AF | (DF) AB A2 | (Ac) (eg) ec | 
+(Ad) (fa) fd | (Ac) (eg) ec |1 d4 (DE) :|2 d4 A,2 |: (3(A,GA) (3(AGA,) A,G | 
+(3(B,GA) (3(AGB,) CG | (DF) (AB) AF | (DF) AF d2 | (EG) (AB) AG | (EG) AG c2 | 
+(DF) (AB) AF | (DF) AF d2 | (3(A,GA) (3(AGA,) A,G | (3(B,GA) (3(AGB,) CG | (DF) (AB) AF | 
+(DF) AF d2 | (Ac) (eg) ec | (Ad) (fa) fd | (Ac) (eg) ec |1 d4 A,2 :|2 d4 z2 |] 
+V:2
+"^2" A,C |: D4 CD | E4 DE | F2 (dA) FD | (A,D) FG F2 | E2 (cA) EC | (A,C) EF E2 | 
+F2 (dA) FD | F4 (A,C) | D4 CD | E4 DE | F2 (dA) FD | (A,D) FG F2 | (EA) (ce) cA | 
+(FA) (df) dA | (EA) (ce) cA |1 F4 (A,C) :|2 F4 C2 |: C4 C2 | 
+D4 E2 | (A,D) (FG) FD | (A,D) FD A2 | (CE) (FG) FE | (CE) FE G2 | 
+(A,D) (FG) FD | (A,D) FD A2 | C4 C2 | D4 E2 | (A,D) (FG) FD | (A,D) FD A2 | 
+(EA) (ce) cA | (FA) (df) dA |"^Stämförslag B.O." (EA) (ce) cA |1 F4 C2 :|2 F4 z2 |]
+

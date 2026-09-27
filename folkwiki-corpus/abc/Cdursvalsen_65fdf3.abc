@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:36
+T:C-dursvalsen
+T:(SvL Hälsingland 36)
+C:Jon-Erik Hall
+B:Svenska Låtar Hälsingland Nr 36
+O:Hassela, Hälsingland
+Q:140
+R:Vals
+Z:[[Personer/Bengt Ohlson]] (Nr 28 i Hall-samlingen)
+L:1/8
+M:3/4
+K:C
+V:1
+"^1" E2 |: G2({A} G^F) G2 | (FE) (DE) F2 |(EG) (ce) ga | g4 f2 | e3 dcB | e4 d2 | (dc) (ce) cA | G4 E2 | 
+G2({A} G^F) G2 | (FE) (DE) F2 | (EG) (ce) ga | g4 f2 | e3 dcB | e4 d2 | (dc) (ce) dB | "^Fine" c4 E2 :: 
+A3 BcB | A2 (e2 c2) | A3 BcB | A2 (e2 c2) | B3 cdB | c4 B2 | A3 ^GBG | E4 E2 |
+A3 BcB | A2 (e2 c2) | B3 cdc | B2 (f2 e2) | d3 cBd | c4 B2 | (BA) (A^G) BG | "^D.C. al Fine" A4 E2 ::
+!coda! F2 (a^g) a2- | ag (fe) f2 | C2 (g^f) g2- | gf (ed) e2 | G,2 (fe) fe | (dc) (BA) BA | (GF) (EF) GA | G2 (c2 E2) |
+F2 (a^g) a2- | ag (fe) f2 | C2 (g^f) g2- | gf (ed) e2 | G,2 (fe) fe | (dc) (BA) BA | (GF) (EG) AB |1 c4 E2 :|2 c4 z2 |] 
+V:2
+"^2" C2 |:"C" E2 (ED) E2 |"G7" (DC) (B,C) D2 |"C" (CE) (Gc) ec | B4 A2 |"G7" G3 FED | G4 F2 | "C" (FE) (EG) EF | E4 C2 | 
+E2 (ED) E2 |"G7" (DC) (B,C) D2 |"C" (CE) (Gc) ec | B4 A2 | "G7" G3 FED | G4 F2 |"C" (FE) (EG) FD |  E4 C2 ::
+"Am" C3 DED | C2 (A2 E2) | C3 DED | C2 (A2 E2) | "E7" ^G3 ABG | E4 D2 |"Am" C3 B,DB, |"E7" ^G,4 B,2 |
+"Am" C3 DED | C2 (A2 E2) |"Dm" ^G3 ABA | ^G2 (d2 c2) |"E7" B3 A^GB | A4 E2 |"Am" (DC) (CB,)"E7" DB, |"Am"  C4 B,2 ::
+ "F" A2 (fe) f2- | fc (AG) A2 |"C"  G2 (ed) e2- | ed (cB) c2 |"G7" D2 (d^c) d=c | (BA) (G^F) G=F | (ED) (CD) EF | "C" E2 (G2 c2) |
+"F"A2 (fe) f2- | fc (AG) A2 |"C" G2 (ed) e2- | ed (cB) c2 |"G7" D2 (d^c) d=c | (BA) (G^F) G=F | (DC) (B,D) FG |1"C" E4 C2 :|2"C" E4"^B.O." z2 |]
+

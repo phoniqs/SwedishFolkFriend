@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X: 52
+T: Hjortingen
+T: Andrastämma
+N: Förslag // Håkan
+S: Hjort Anders Olsson
+O: Bingsjö, Dalarna
+Z: Håkan Lidén, 2014-01-05
+R: Polska
+M: 3/4
+L: 1/8
+K: A
+B,/ |: C>E A>B A>G | c/d/c/A/ E2 [E2A,2]- | (3[E2A,2] f2 e2 ^d>c | B/c/^d/e/ fg/f/ eB |
+GF/G/ AF/A/ GE |1 B,E/B,/ G,3  B, :|2 B,E/B,/ G,3  B, ||
+|: A,>C EC D2 | D>F FD E2 | E>G BG A2 | A>c cA B2 | 
+B>^d fd e>f | ed/c/ B/c/d/B/ c2 | AG/A/ Fd/c/ B/A/G/F/ |1 ED/B,/ C3 B,:|2 ED/B,/ C4 ||
+|: cd/c/ B/A/G/F/ E/F/G/A/ | Fd/B/ c4 | cd/c/ B/A/G/F/ E/F/G/A/ |1 G/F/E/D/ C4 :|2 G/F/E/D/ C3 B,||
+A,>C EC D2 | D>F FD E2 | E>G BG A2 | A>c cA B2 | 
+B>^d fd e>f | ed/c/ B/c/d/B/ c2 | AG/A/ Fd/c/ B/A/G/F/ | ED/B,/ C4 |]
+

@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:484
+T:Polska efter Axel Axelsson
+T:(OA 484)
+B:Sörmländska låtar samlade av Olof Andersson nr 484
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson
+M:3/4
+L:1/4
+Q: 90
+%%MIDI ratio 2 1
+%%printtempo 0
+K:G
+d/e/4f/4 g/4f/4g/4a/4 b/4g/4b/4g/4 | a/a/4f/4 d/4A/4d/4f/4 a/4f/4a/4f/4 | g/4f/4g/4e/4 c/4A/4c/4e/4 g/4f/4g/4e/4 | d/4e/4d/4B/4 G/4D/4G/4B/4 d |
+g/4f/4g/4e/4 c/4A/4c/4e/4 g/4f/4g/4e/4 | d/4e/4d/4B/4 G/4D/4G/4B/4 d/B/ | c/4B/4c/4d/4 e/4d/4c/4B/4 A/B/ | c/4A/4F/4A/4 A/G/ [G,G] ::
+G/4G/4G/4G/4 F/D/ E/F/ | G/4G/4G/4G/4 F/D/ E/F/ | G/4D/4E/4F/4 G/4D/4E/4F/4 G/4D/4E/4F/4 | G/4A/4B/4^c/4 d/4A/4B/4c/4 d/4A/4B/4c/4 |
+d/e/4f/4 g/4f/4e/4f/4 g/4f/4e/4f/4 | d/e/4f/4 g/4f/4e/4f/4 g/4f/4e/4d/4 | B/c/4d/4 e/4d/4c/4B/4 A/B/ | c/4A/4F/4A/4 A/G/ [G,G] :|
+

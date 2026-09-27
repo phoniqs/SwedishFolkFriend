@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Östbjörka gånglåt
+C:Pers Erik Olsson
+O:Östbjörka, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Pers Erik"
+Z:"Obs! Både titel och uppt. osäkra!! B.O."
+L:1/8
+M:2/4
+K:D
+V:1
+"^1" A, |: D>D DF | A2 (Ad) | fg/f/ (ed) | a3 f | g>f ed | 
+(cB) A2 | AB/A/ GA/G/ | FE DA, | D>D DF | A2 (Ad) | fg/f/ (ed) | 
+a3 f | g>f ed | (cB) A2 | (A>c) (e/g/)e/c/ |1 d3 A, :|2 d3 A |: 
+f>g fe | d2 (ef) | g>a gf | ed cB | A>A AA | c2 (E>F) | 
+(GB) BA/G/ | (F/G/)F/E/ (D/F/)A/d/ | f>g fe | d2 (ef) | g>a gf | 
+ed cB | A>A AA | c2 ee/f/ | ge/c/ (A/c/)e/c/ |1 [Fd]3 A :|2 [Fd]3 z |] 
+V:2
+"^2" A, |: A,>A, A,D | F2 (FA) | AB/A/ (GF) | d3 d | e>d cB | 
+(AE) C2 | FG/F/ EF/E/ | DB, A,A, | A,>A, A,D | F2 (FA) | AB/A/ (GF) | 
+d3 d | e>d cB | (AE) C2 | (C>E) (A/c/)A/E/ |1 F3 A, :|2 F3 F |: 
+A>B AG | F2 (GA) | B>c BA | GF ED | C>C CC | E2 (C>D) | (EG) GF/E/ | 
+(D/E/)D/A,/ (A,/D/)F/A/ | A>B AG | F2 (GA) | B>c BA | 
+"^Obs! Både titel och uppt. osäkra!! B.O." GF ED | C>C CC | E2 AA/B/ |"^Stämförslag B.O." cA/E/ (C/E/)A/E/ |1 F3 F :|2 F3 z |] 
+

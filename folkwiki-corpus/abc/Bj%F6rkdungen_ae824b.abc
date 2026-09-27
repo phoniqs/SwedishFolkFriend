@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Björkdungen
+C:Olof Tillman
+R:Vals
+O:Dala-Floda, Dalarna
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Olof Tillman, Dala-Floda."
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1""^Vals" (A,C) (CE) EA | (c3 B) A2 | (AG) (GB) Bd | f4 e2 | (ea) (ae) ec | 
+(cd) (dB) BG | (GA) (AE) EC | C4 A,2 | (A,C) (CE) EA | (c3 B) A2 | (AG) (GB) Bd | 
+f4 e2 | (ea) (ae) ec | (cd) (dB) BG | A3 A A2 |1 A4 z2 :|2 A3 Ace |: 
+a3 a a2 | (af) (dA) (df) | e3 e e2 | (ed) (cA) (ce) | d3 ddc | (BE) (GB) fe | 
+c4 A2 | (AE) (Ac) eg | a3 a a2 | (af) (dA) (df) | e3 e e2 | (ed) (cA) (ce) | 
+d3 ddc | (Be) (gb) eg | a3 a a2 |1 a3 Ace :|2 a4 z2 |: 
+D3 FAd | f2 d2 A2 | C3 EAc | e2 c2 A2 | E3 GBd | f2 e2 ^d2 | f2 e2 ^d2 | e4 c2 | 
+D3 FAd | f2 d2 A2 | C3 EAc | e2 c2 A2 | f3 e d2 | d3 B G2 | A3 A A2 |1 A4 z2 :|2 A4 A2 |:
+[K:D] f3 gfe | (df) (Ad) FA | (GF) (GA) Bc | B4 B2 | A3 cef | g4 b2 | 
+(ba) (fa) fd | A4 A2 | f3 gfe | (df) (Ad) FA | (GF) (GA) Bc | B4 B2 |
+ A3 cef | (A^G) (Ac) ef | (gb) (eg) ce |1 d4 A2 :|2 d4 z2 |]
+

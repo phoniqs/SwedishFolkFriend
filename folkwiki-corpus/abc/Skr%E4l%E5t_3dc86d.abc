@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:102
+T:Skrälåt
+T:(Sv Folkdanser Del 1)
+O:Värmland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 102. Skrälåt"
+Z:http://runeberg.org/folkdans/besk/0254.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 102
+L:1/8
+M:3/4
+K:Gm
+V:1
+"^1""^Förspel" d>c A4 | A>B G4 |G>A D2 (^F>G) | (A>B)G3 z |] 
+[K:Bb][M:3/4][K:treble]"^Dans" (A2 B2) c2 | d2 (d>e) c>d | A2 (B>d) c>A | (G>B) A>^F D2 | 
+(A2 B2) c2 | "^Spelas rätt igenom  20  ggr."d2 (d>e) c>d | (A2 B2) (3(cBc) | d2 d4 |]
+ d>c A4 | A>B G4 | G>A D2 (^F>G) | (A>B) G>^F D2 |
+ d>c A4 | A>B G4 | G>A D2 (^F>G) | (A>B) G4 |] 
+V:2
+"^2" "D7"B>A ^F4 | "Gm"D>C B,4 | "D7"B,>C A,2 (A,>B,) | "D7"(C>D) "Gm"B,3 z |] 
+[K:Bb][M:3/4][K:treble]"D7" (^F2 G2) A2 |"Gm" B2 (B>c)"D7" A>B | ^F2 (G>B) A>F | "Gm" (D>G) "D7"^F>D A,2 | 
+(^F2 G2) A2 |"Gm" B2 (B>c)"D7" A>B |"D7" (^F2 G2) A2 |"D7" ^F2 F4 |] 
+"D7"B>A ^F4 | "Gm"D>C B,4 | "D7" B,>C A,2 (A,>B,) | "Gm"(C>D) B,>C A,2 | 
+"D7"B>A ^F4 | "Gm"D>C B,4 | "D7" B,>C "^Stämförslag B.O."A,2 (A,>B,) | "D7"(C>D) "Gm"B,4 |]
+

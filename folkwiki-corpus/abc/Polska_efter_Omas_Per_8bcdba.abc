@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Omas Per
+S:Efter Omas Per
+O:Transtrand, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" A2 a2{b} a>g | (ef) (g<a)T g>e | (^cd) (e<f) d>e | (^c/4B/4c3/2) A4 | 
+A2 a2{b} a>g | (ef) (g<a)T g>e | (^cd) (e<f) d>e | (^c/4B/4c3/2) d4 :: 
+(3A2 (^c2 e2) d>B | G2 (B<d) ^c2 | (3A2 ^c2 e2 d>B | (B<G) (B<A) A2- | 
+(3A2 (^c2 e2) d>B | G2 (B<d) ^c2 | A>^c (e<f) d>e | (^c/4B/4c3/2) d4 :| 
+V:2
+|:"^2" D2 f2{g} f>e | (^cd) (e<f) e>c | (AB) (^c<d) B>c | A2 E4 | 
+D2 f2{g} f>e | (^cd) (e<f) e>c | (AB) (^c<d) B>c | G2 F4 :: 
+(3E2 (A2 ^c2) B>G | E2 (G<B) A2 | (3E2 A2 ^c2 B>G | (G<E) (G<E) E2- | 
+(3E2 (A2 ^c2) B>G | E2 (G<B) A2 | E>F (G<A) F>G |"^Stämförslag B.O." G2 [FA]4 :| 
+

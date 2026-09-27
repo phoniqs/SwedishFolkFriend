@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo från Granåsen
+S:Fridolf Jonsson
+O:Granåsen, Dorotea, Lappland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Fridolf Jonsson, Granåsen, Dorotea."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (G>B) (d>B) d>B | G>c e2 e2 | (D>F) (A>F) A>F | (D>G) (3BGB d>B | 
+(G>B) (d>B) d>B | G>c e2 e2 | (D>F) (A>F) A>F | G2 G3 z :: 
+B,>D G2 G2 | C>E E2 E2 | (D>F) F2 F>E | D>G G2 G2 | 
+B,>D G2 G2 | C>E E2 E2 | (D>F) (A>c) A>F | G2 G3 z :: 
+g2 B2 c>d | e2 A3u G | (F>G) (A>B) c>d | e>d (3BdB (3GBd | 
+g2 B2 c>d | e2 A3u G | (F>G) (A>d) e>f | g2 g3 z :| 
+V:2
+|:"^2""G" (B,>D) (G>D) =F>D |"Am" E>A c2 c2 |"D7" (A,>D) (F>D) C>A, |"G" (B,>D) (3GDG B>G | 
+(B,>D) (G>D) =F>D |"Am" E>A c2 c2 |"D7" (A,>D) (F>D) C>A, |"G" B,2 [B,D]3 z :: 
+"G" G,>B, D2 D2 |"Am" A,>C C2 C2 |"D7" (A,>D) D2 D>C |"G" B,>D D2 D2 | 
+G,>B, D2 D2 | "Am" A,>C C2 C2 |"D7" (A,>D) (F>A) F>D |"G" B,2 [B,D]3 z ::
+"G" B2 G2 A>B |"Am" c2 E3u E | "D7" (D>E) (F>G) A>B | "G" c>B (3GBG (3DGB | 
+B2 G2 A>B |"Am" c2 E3u E |"D7" (D>E) (F>A) B>A | "G" B2 [GB]3"^B.O." z :|
+

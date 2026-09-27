@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Visa från Offerdal
+R:Visa
+O:Offerdal, Jämtland
+Z:Karin Helander
+N:Från inspelning med Offerdals Spelmanslag: https://www.youtube.com/watch?v=dORxEqDPALM och https://open.spotify.com/track/5XiSzkvDKsjsafzU6Xi3cj?si=56081cf90fa248a6
+N:De skiljer sig lite i slutet på tredje reprisen. Noten försöker följa sången.
+N:Se även +
+M:4/4
+L:1/8
+Q:120
+K:C
+V:1
+G,2 |: C2 B,C D2 CD | E2 c4 G2 | A2 AA G2 cG | G2 FE !fermata!D3 G, | 
+C2 B,C D2 CD | E2 ed c2 BA | G2 EG E2 ED |1 C6 G,2 :|2 C6 C2 |:
+B,2 B,C D2 B,G, | C2 CD E3 G | A2 AA G2 cG | G2 FE D3 C | 
+B,2 B,C D2 B,G, | C2 CD E2 cB | A2 cG E2 ED |1 C6 C2 :|2 (C8 || [M:3/4][Q:160] C3) ccB |:
+B2 A3 G | F3 cBA | G2 c3 G | E4 E2 | D2 D3 E | F2 B,3 D | C2 E3 F | G3 ccB | 
+B2 A3 G | F3 cBA | G2 c3 G | E4 E2 | D2 A2 G2 | F2 B,2 D2 | (C6 |1 C3) ccB :|2 C6) |]
+

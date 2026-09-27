@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X: 1
+T:Slängpolska efter Tydell
+R:Slängpolska
+Z:Patrik Månsson, 2025-10-24
+O:Vitemölle
+S:TBC
+D:Efter en inspelning av Rolf Perleij
+M:3/4
+L:1/16
+K:D
+|: "D" DEFG A2A2 F2D2 | "G" GFGA B2B2 G2E2 | "A" e3f e2d2 c2B2 |
+|1 "A" ABcA "D" d2AG FED2 :|2 "A" ABcA "D" d4 D4 |
+|: "D" d3e f2fg f2ed | "A" cBcd  e2fe c2A2 | 
+| "G" d2c2 B2c2 d2f2 | "E" efed cdcB "A"A2G2 |
+| "D" FEFG A2A2 F2D2 | "G" GFGA B2B2 G2E2 |  
+| "A" e3f e2d2 c2B2 | "A" ABcA "D" d4 D4 :|
+

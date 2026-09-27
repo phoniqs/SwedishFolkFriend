@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X: 2
+T: Carl XIIs marsch vid Narva
+R: Marsch
+M: 4/4
+L: 1/8
+B: FMK - katalog M126a bild 19
+B: J Sidéns notbok
+D: Linnaeus Väsen spår 7 (avviker litet från denna uppteckning)
+O: Ångermanland, Styrnäs, Lo
+Q: 210
+%%printtempo 0
+K: Dm
+e2 f2 ^c2 d2 | efed ^c2 A2 | e2 f2 ^c2 d2 | efed ^c2 A2 |
+f2a2 e2 aa | f2 d2 ^c2 A2 | d2 d2 e2 ^cc | d2 d>d "?"d2 z2 ::
+de fg a2 af | b2 bg a2 f2 | ^cd cd e2 ff | e2 a2 "punkterad?"e2 a2 |
+d2 f2 e2 ^cc | d2 f2 e2 ^c2 | d2 dd e2 ^cc | d2 d>d d2 z2 :|
+

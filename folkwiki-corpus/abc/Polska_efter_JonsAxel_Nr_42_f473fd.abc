@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:42
+T:Polska efter Jons-Axel Nr 42
+C:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polska
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 42. Polska"
+L:1/8
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:G
+V:1
+|:"^1"v (3(ded) (G>B) d>g | (3(fgf) (A>"^Av Axel Eriksson"B) c2 | (3cdc (A>B) c>e | (3ded (G>A) B2 | 
+(3ded (G>B) d>g | (3fgf A>B c2 | (3cdc (A>B) c>A | G2 g2 z2 :: 
+(3ded (c'>b) a2 | (3ded (b>a) g2 | (3fef (A>B) c>e | (3ded (G>A) B2 | 
+(3ded (c'>b) a2 | (3ded (b>a) g2 | (3fef (A>B) c>A | G2 g2 z2 :| 
+V:2
+|:"^2""G" B2 D>G B>d |"D7" c2 F>G A2 | A2 (D>F) A>c |"G" B2 D>F G2 | B2 (D>G) B>d | 
+"D7" c2 F>G A2 | A2 (D>F) A>F |"G" B,2 B2 z2 ::"D7" A2 e>d c2 |"G" B2 d>c B2 | 
+"D7" A2 D>E F>A |"G" G2 B,>C D2 |"D7" A2 (e>d) c2 |"G" B2 d>c B2 | 
+"D7" A2 D>E F>D |"G" "^Stämförslag B.O." B,2 B2 z2 :|
+

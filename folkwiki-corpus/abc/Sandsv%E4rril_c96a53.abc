@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:37
+T:Sandsvärril
+O:Norge
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Norge, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:Bb
+V:1
+"^1""^Förspel" GB Ac | Bd ce | d2 B2 | B2 |][K:Bb][M:2/4][K:treble]"^Dans" (3FGA |: B2 B,2 | B,2 FE | DF BA | 
+Bd cB | c2 C2 | C2 cB | AB cd | ef ga | ba gf | gf ed | 
+ed cB | A2 F2 | GB Ac | Bd ce | d2 B2 |1 B2 (3FGA :|2 B2 FE |: 
+DF BF | DF BF | G2 E2 | E4 | EG cG | E2 cB | 
+A2 F2 | F2 cB | AB cd | ef ga | ba gf | 
+ed cB | GB Ac | Bd ce | d2 B2 |1 B2 FE :|2 B2 z2 |] 
+V:2
+"^2" EG FA | GB Ac | F2 D2 | D2 |][K:Bb][M:2/4][K:treble] (3CEF |: D2 D2 | D2 DC | B,D FE | DB AG | 
+F2 A,2 | A,2 FG | FG AB | cd ef | gf ed | ed cB | cB AG | F2 A,2 | EG FA | GB Ac | B2 D2 |1 D2 (3CEF :|2 D2 DC |: 
+B,D FD | _A,D FD | B,2 G,2 | G,4 | CE GE | G,2 GE | F2 A,2 | A,2 FG | 
+FG AB | cd ef | gf ed | cB AG | EG FA | "^Stämförslag B.O." GB Ac | F2 D2 |1 D2 DC :|2 D2 z2 |]
+

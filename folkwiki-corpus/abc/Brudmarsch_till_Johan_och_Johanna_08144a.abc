@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch till Johan och Johanna
+C:Åke Skog
+O:Bjursås, Västerbotten
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Från CD. Arr. B.O."
+L:1/8
+Q:1/4=78
+M:2/4
+K:G
+V:1
+"^1" D |:"G" B2 B/A/B/c/ | BA GB |"D7" A>G FE | D3 B | c2 c/B/c/d/ | 
+cA FD |"G" G>D"D7" AD | "G" B3 D | B2 B/A/B/c/ | BA GB |"D7" A>G FE | 
+D3 B | c2 c/B/c/d/ | cA FD | "G" G2"D7" F/D/F/A/ |1"G" G3 D :|2"G" G2 D/G/B/d/ |:
+"G" g>B G/B/d/g/ |"C" f>c cf | e>c G/c/e/c/ |"G" d3 B | d>B G/B/d/g/ | 
+"C"g>e ec |"A7" A>B AG |"D7" F3 d |"G" g>B G/B/d/g/ | "C" f>c cf | e>c G/c/e/c/ |
+"G" d3 B | d>B G/B/d/g/ | "C"g>e ec | "G"Bd "D7"AF |1 "G"G2 D/G/B/d/ :|2 "G"G3 z |] 
+V:2
+"^2" B, |: G2 G>A | GD B,G | F>E DC | A,3 D | F2 F>G | 
+FD CA, | B,2 CA, | D3 B, | G2 G>A | GD B,G | F>E DC | 
+A,3 D | F2 F>G | FD CA, | B,2 A,C |1 B,3 B, :|2 B,2 G,/B,/D/G/ |: 
+B>G D/G/B/d/ | c>E Ec | c>G E/G/c/G/ | B3 G | B>G D/G/B/d/ |
+e>c cA | F>G FE | D3 G | B>G D/G/B/d/ | c>E Ec | c>G E/G/c/G/ | B3 G | 
+B>G D/G/B/d/ | e>c cA | G2 FD |1B,2 G,/B,/D/G/ :|2 B,3 z |] 
+

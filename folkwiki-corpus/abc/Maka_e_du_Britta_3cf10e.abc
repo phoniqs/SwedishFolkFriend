@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Maka e du Britta
+C:Röjås Jonas
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:D
+V:1
+"^1""^Polska" (A |: d2) (d>f) d>A | d2 (d>f) d>A | e2 (e>f) g>e | (f>d) (ec) A>A | 
+d2 (d>f) d>c | B2 (e>g) b>b | a2 (g>e) f>d |1 (e<c) d3 A :|2 (e<c) d3 f- |: 
+f2 (a>g) f>a | g2 (b>a) g>b | a2 (g>e) f>d | (ec) (tdtB) A>A | 
+f2 (a>g) f>a | g2 (b>a) g>f | e>(d c>)(B A>)g |1 (e<c) d3 f- :|2 (e<c) d3 z |] 
+V:2
+"^2" (D |: F2) (F>A) F>D | F2 (F>A) F>D | c2 (c>d) e>c | (d>B) (cA) E>E | 
+F2 (F>A) F>F | G2 (B>e) g>g | e2 (e>c) d>A |1 (c<A) F3 D :|2 (c<A) F3 d- |: 
+d2 (f>e) d>f | e2 (g>f) e>g | e2 (e>c) d>A | (cA) (tBtG) F>F | 
+d2 (f>e) d>f | e2 (g>f) e>d | c>(B A>)(G E>)e |1 (c<A) F3 d :|2"^Stämförslag B.O." (c<A) F3 z |]
+

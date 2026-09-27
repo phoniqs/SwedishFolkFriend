@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Ransäterpolkan
+R:Polka
+C: Erik Gustavsson (1907-1982)
+S: V-Dala spelmanslaget
+M:2/4
+L:1/8
+K:D
+   A2 |: d2 Ad | f2 df | a2 ^ga | ba^ga  | f2 Ad | faba   | g2 cc |  c2 c2  | 
+         c2 Ac | e2 ce | g2  fg | agfe   | c2 cB | A2 AG  | F2 DD |  D2 D2  |
+         d2 Ad | f2 df | a2 ^ga | ba^ga  | f2 fe | d2 d=c | B2 GG |  G2 G2  |
+         DGBd  | g2 g2 | DFAd   | f2 f2  | gg g2 | cc c2  | d4-   |1 dz A2 :|2 dz D2 |
+[K:G] |: G4    | D3 B, | G,4-   | G,2 d2 | B2 g2 | g2 g2  | f4-   |  f2 z2  |
+         A4    | F3 D  | C4-    | C2 D2  | FA d2 | fedc   | BcAB  |  G2 d2  |
+         g4    | d3 B  | G4-    | G2 e2  | a4    | e3 c   | A4-   |  A2 G2  |
+         FGAB  | cdef  | g2  gB | d2 dB  | c2 a2 | fdef   | g2 gg |1 gz D2 :|2 gz z2 |]
+

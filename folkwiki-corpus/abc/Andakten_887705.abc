@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Andakten
+T:Gånglåt
+C:Eric Sahlström
+R:Gånglåt
+O:Uppland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Eric Sahlström  (1972)."
+L:1/8
+M:4/4
+U:t=tenuto
+K:Am
+V:1
+"^1"u E2 |:v (AB)A^G A2 AB | c2 (ce) c2 c2 | B2 B^G (EG)Bc | A6 G2 | 
+(cd)cG (EG)ce | g4 (ec)eg | f2 (ef) a2 g2 |1 e6u E2 :|2 e6u c2 |:
+v a4 (fe)fa | g4 (ec)eg | f2 f2 (dB)(df) | (ea)ec A2 AB | 
+c4 (te2 tc2) | B3 (^G EG)Bc |1 A6u c2 :|2 A6 z2 |] 
+V:2
+"^2" B,2 |:"Am" C2 CB, C2 CE | A2 (Ac) A2 A2 |"E7" ^G2 GE B,2 ED |"Am" C6 D2 |
+"C" E2 ED C2 EG | c4 G2 Gc |"Dm" B2 B2 c2 B2 |1"E7" ^G6 B,2 :|2"E7" ^G6 A2 |: 
+"F" f4 (cB)cf |"C" e4 (cG)ce |"Dm" d2 d2 (BG)(Bd) | "Am" c2 cA E2 E^G | 
+A4 A4 |"E7" ^G3 E B,2 D2 |1"Am" C6 A2 :|2"Am" C6"^B.O." z2 |]
+

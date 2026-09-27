@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Jamt-Lofs hambo
+C:Jemt Olof Ersson
+O:Orsa, Dalarna
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Jemt Olof Ersson (1872-1938), Orsa."
+Z:"Uppt. från CD. med stämförslag B.O."
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1" (G>c) (c>e) e>g | (g>a) (a>b) b>c' | (c'>b) (b>a) a>g | (g/a/g/e/) f4 | (G>B) (B>d) d>g | 
+(g>b) b4 | b>(a g>f) e>d | (c>a) g4 | (G>c) (c>e) e>g | (g>a) (a>b) b>c' | (c'>b) (b>a) a>g | 
+ (g/a/g/e/) f4 | (G>B) (B>d) d>g | (g>b) b4 | (b>a) (g/a/g/f/) e>d |1 c2 [Ec]4 :|2 c2 [Ec]3u e |: 
+(g>f) e3u G | (A>G) F4 | G>(B d>g) B>d | c>(a g>f) e>f | (g>f) e3u G | (A>G) F4 |
+G>(B d>g) B>d |1 c2 [Ec]3u e :|2 c2 [Ec]4 |: c>(e g>c) e>g | (c'>b) a3u f | 
+(d>e) (f>g) a2 |u (ga/g/) (fg/f/) e2 | c>(e g>c) e>g | (a>b) c'3u b | a>(g f>d) B>d | c2 [Ec]4 :| 
+V:2
+|:"^2""C" (E>G) (G>c) c>e | (e>f) (f>g) g>a | (a>g) (g>f) f>e |"G7" (e>c) d4 | (D>G) (G>B) B>d | 
+(d>g) g4 | g>(f e>d) B>G |"C" (E>f) e4 | (E>G) (G>c) c>e | (e>f) (f>g) g>a | (a>g) (g>f) f>e | 
+"G7" (e>c) d4 | (D>G) (G>B) B>d | (d>g) g4 | (g>f) (e>d) B>G |1"C" E2 [CE]4 :|2"C" E2 [CE]3u c |: 
+"C" (e>d) c3u E |"Dm" (F>C) A,4 |"G7" B,>(D G>B) D>F |"C" E>(f e>d) c>d | (e>d) c3u E | 
+"Dm" (F>C) A,4 | "G7" B,>(D G>B) D>F |1 "C" E2 [CE]3u c :|2 "C" E2 [CE]4 |: "C" G>(c e>G) c>e | "Dm" (a>g) f3u d | 
+"G7" (B>c) (d>e) f2 |u "C" e2 d2 c2 | "^Stämförslag B.O."G>(c e>G) c>e | "Dm" (f>g) a3u g |"G7" f>(e d>B) G>F |"C" E2 [CE]4 :| 
+

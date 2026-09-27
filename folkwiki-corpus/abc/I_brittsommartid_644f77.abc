@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:10
+T:I brittsommartid
+T:Spelmansvals
+O:Sandviken, Gästrikland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+C:Edvin Holmberg
+B:Låtar för fiol av Edvin Holmberg
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" Bc^c |: (db) (gd) BG | (B,D) (GB) dB | (ce) (cA) EC | A,3 GFE | (DF) (Ac) ed | 
+(cA) (FD) BA |1 (GF) (GA) Bc | d3 Bc^c :|2 (GD) (BD) AD | G3 GAB |: c2 G3 E | C3 GFG | B2 G3 D | 
+B,3 GFE | (DE) (FG) AB | (cd) (ef) ga | (ba) (gf) ge | d3 GAB | c2 G3 E | C3 GFG | B2 G3 D | 
+B,3 GFE | (DE) (FG) AB | (cA) (FD) BA | G2 (DG) BA |1 G3 GAB :|2 G3 Bdg |: [db]4 [Bg]2 | [Bd]6 | 
+[Ge]4 [Ec]2 | [A,E]6 | D3 FAd | [Af]6 | G3 Bdg | [db]3 Bdg | [db]4 [Bg]2 | [Bd]6 | 
+[Ge]4 [Ec]2 | [A,E]6 | [Af]4 ed |1 [dc']6 | f6 | [Bg]3 Bdg :|2 [dc']4 [df]2 | [Bg]3 [Bg] [Bg]2 | [Bg]3 z2 z |] 
+V:2
+"^2" GA^A |:"G" (Bd) (BG) DB, | (G,B,) (DG) BG |"Am" (Ac) (AE) CA, | [A,E]3 EDC | 
+"D7" (A,D) (FA) cB | (AF) (DA,) DC |1"G" (B,A,) (B,D) GA | B3 GA^A :|2"G" (DB,) (GB,) FC | 
+[B,D]3 GF=F |:"G" E2 E3 C | G,3 EDE |"Am" G2 D3 B, | G,3 EDC |"D7" (A,C) (DE) FG | 
+(AB) (cd) ef | "G" (gf) (ed) ec | B3 GF=F | E2 E3 C | G,3 EDE |"Am" G2 D3 B, | G,3 EDC | 
+"D7" (A,C) (DE) FG | (AF) (DA,) DC |"G" B,2 (G,B,) DC |1 B,3 GF=F :|2 B,3 GBc |:"G" B4 G2 | 
+"G7" =F6 |"Am" c4 A2 | C6 |"D7" A,3 DFA | F2 D2 C2 | "G" B,3 DGc | B3 GBc | B4 G2 |"G7" =F6 | 
+"Am" c4 A2 | C6 |"D7" F4 AF |1 f6 | [c4d4] [A2c2] |"G" [Gd]3 GBc :|2"D7" f4 c2 | "G" [Gd]3 [Gd] "^Stämförslag B.O." [Gd]2 |  [Gd]3 z2 z |]
+

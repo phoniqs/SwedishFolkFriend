@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Skomakarvalsen
+O:Uppland
+R:Vals
+S:Karl Styfberg
+Z:[[Personer/Bengt Ohlson]]
+Z:"Skomakarvalsen, Uppland efter Carl Styfberg"
+L:1/8
+M:3/4
+K:F
+V:1
+"^1" cB |:"F" (A2 c2) f2 | (fa) ag f2 |"Bb" B2 (dB) df |"F" (cd) c=B c2 |"C7" C2 E2 G2 | B2 A2 G2 | "F" F2 (AF) Ad | 
+c3 dcB | (A2 c2) f2 | (fa) ag f2 | "Bb" B2 (dB) df | "F" (cd) c=B c2 | "C7" C2 E2 G2 | B2 A2 G2 | "F" F3 f f2 |1 "F" f4 (cB) :|2 "F" f4 d2 |: 
+"Bb" (fd) (Bf) dB | (fd) (Bf) dB |"F" cA F2 A2 | c4 (eg) | "C7" (bg) (eb) ge | (bg) (eb) ge |{fe}"F" f2 (a2 f2) | c4 d2 | 
+"Bb" (fd) (Bf) dB | (fd) (Bf) dB | "F" cA F2 A2 | c4 (eg) |"C7" (bg) (eb) ge | (bg) (eb) ge |"F" f2 (ef) ag |1"F" f4 d2 :|2 "F" f4 A,2 |: 
+"F" (A,C) (FA) cf | (ca) (fc) AF |"Bb" (B,D) (FB) df | (Bf) (dB) FD | "C7" (CE) (Gc) eg | (ec) eg c'2 | (ba) (gf) eg |"F" (fe) (fc) AF | 
+(A,C) (FA) cf | (ca) (fc) AF | "Bb"  (B,D) (FB) df | (Bf) (dB) FD | (CE) (Gc) eg | "C7" (ec) eg c'2 | (ba) (gf) eg |1 "F" f4 A,2 :|2 "F" f4 z2 |] 
+V:2
+"^2" AG |: (F2 A2) c2 | (cf) fc A2 | D2 (BF) Bd | (AB) A^G A2 | G,2 C2 E2 | G2 E2 C2 | A,2 (FC) FB | A3 BAG | 
+(F2 A2) c2 | (cf) fc A2 | D2 (BF) Bd | (AB) A^G A2 |  G,2 C2 E2 | G2 E2 B,2 | A,3 A A2 |1 A4 (AG) :|2 A4 B2 |: 
+(dB) (Fd) BF | (dB) (Fd) BF | AF C2 F2 | A4 (ce) | (ge) (cg) ec | (ge) (cg) ec | A2 (f2 c2) | A4 B2 | 
+(dB) (Fd) BF | (dB) (Fd) BF | AF C2 F2 | A4 (ce) | (ge) (cg) ec | (ge) (cg) ec | A2 (GA) cB |1 A4 B2 :|2 A4 C2 |:
+(FA,) (CF) Ac | (Af) (cA) FC | (FB,) (DF) Bd | (Fd) (BF) DB, | (G,C) (EG) ce | (cE) Gc e2 | (gf) (ed) cB | 
+(A^G) (AF) CA, | (FA,) (CF) Ac | (Af) (cA) FC | (FB,) (DF) Bd | "^Stämförslag    B.O."  (Fd) (BF) DB, | (G,C) (EG) ce | (cG) ce g2 | (gf) (ed) cB |1 A4 C2 :|2 A4 z2 |]
+

@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Bältrosen
+T:Gånglåt
+C:Roland Nordlund
+O:Alfta, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:2/4
+K:F
+V:1
+"^1" C |: F>C FA | cA/c/ fe/f/ | g>f ef | d3 B | G>E CE | c=B/c/ e>(d | 
+c)d/c/ Bc/B/ | (A/B/)A/G/ (FC) | F>C FA | cA/c/ fe/f/ | g>f ef | 
+d3 B | G>E CE | c=B/c/ e>(d | c)d/c/ (BG) |1 F3 C :|2 F3 A |: 
+(c/d/)c/A/ (cf) | ab/a/ (gf) | g>f ef | d3 B | G>E CE | c=B/c/ e>(d | 
+c)d/c/ Bc/B/ | (A/B/)A/G/ (FC) | F>C FA | cA/c/ fe/f/ | gf ef | 
+d3 B | G>E CE | c=B/c/ e>(d | c)d/c/ (BG) |1 F3 A :|2 F3 z |] 
+V:2
+"^2" C |:"F" A,>A, CF |"F7" A>A cA |"Bb" B>A GA |"Gm" [GB]3 G |"C7" E>C G,C | EE G>F | 
+EE DD |  "F" CC A,C | A,>A, CF |"F7" A>A cA |"Bb" B>A GA |"Gm" [GB]3 G | 
+"C7" E>C G,C | EE G>F | EE CB, |1 "F" A,3 C :|2 "F" A,3 F |:
+"F" A>F Ac |"F7" c>c BA |"Bb" B>A GA |"Gm" [GB]3 G |"C7" E>C G,C | EE G>F | 
+EE DD |  "F" C>B, A,C | A,>A, CF |"F7" A>A cA |"Bb" BA GA |"Gm" [GB]3 G |
+"C7" E>C G,C | "^Stämförslag B.O." EE G>F | EE CB, |1"F" A,3 F :|2"F" A,3 z |]
+

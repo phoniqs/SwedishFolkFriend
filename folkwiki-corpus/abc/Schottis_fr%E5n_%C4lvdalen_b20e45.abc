@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Älvdalen
+R:Schottis
+O:Älvdalen, Dalarna
+Z:Karin Helander
+Q:70
+M:2/4
+L:1/16
+K:G
+V:1
+GB |: "G" d2A^c "A" e2GB | "G" d2dB G>Bdg | "D7" f2fe d2ef | "G" g2fe dBGB | 
+"G" d2A^c "A" e2GB | "G" d2dB G>Bdg | "D7" f2fe d2ef |1 "G" g>agf g2GB :|2 "G" g>agf  g2df |:
+"D" a2df a2df | a2af d3B | "C" c>Bce g2fe | "G" eddB G2df | 
+"D" a2df a2df | a2af d3B | "C" c>Bce g2fe | "G" eddB G2GB | 
+"G" d2A^c "A" e2GB | "G" d2dB G>Bdg | "D7" f2fe d2ef |1 "G" g>agf g2df :|2 "G" g>agf  g2z2 |:
+"C" e2c2 c>Bcd | "G" cBG2 G3B | "D7" cAF2 F3B | "G" dBG2 G>Bdg | 
+"C" e2c2 c>Bcd | "G" cBG2 G3B | "D7" c2A2 f>efa |1 "G" g>agf g2z2 :|2 "G" g>agf g2 |]
+

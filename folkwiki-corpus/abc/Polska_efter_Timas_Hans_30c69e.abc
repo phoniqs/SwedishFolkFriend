@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Timas Hans
+S:Timas Hans Hansson
+O:Ore, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+K:Gm
+V:1
+"^1" (D2 |: G2>)(B2 d4) g2>b2 | a2^fa g4 d2>c2 | B2dc A2cA G2>(A2 | B2)AG (G^F)AF D2>D2 | 
+G2>(B2 d4) g2>b2 | a2^fa g4 d2>c2 | B2dc A2cA G2BG |1 D^FAF G6 D2 :|2 D^FAF G6 B2 |: 
+d2>(c2 BA)Bc d2(d<e) |T c2>A2 F=EFA c2(c<d) |T B2>A2 G^FGA B2(B<d) |T A2>G2 G^FAF D4 | 
+d2>c2 BABc d2(d<e) |T c2>A2 F=EFA c2(c<d) |T B2>A2 G^FGA B2dB |1 D^FAF G6 B2 :|2 D^FAF G6 z2 |] 
+V:2
+"^2" B,2 |: D2>(G2 B4) d2>g2 | ^f2df d4 B2>A2 | G2BA ^F2AF B,2>D2 | G2DB, (B,A,)CA, A,2>A,2 | 
+D2>(G2 B4) d2>g2 | ^f2df d4 B2>A2 | G2BA ^F2AF D2GD |1 A,D^FD [B,D]6 B,2 :|2 A,D^FD [B,D]6 G2 |: 
+B2>(F2 D^C)DF B2(B<^c) | A2>F2 C=B,CF A2(A<=B) | G2>D2 B,A,B,D G2(G<B) | ^F2>B,2 B,A,CA, A,4 | 
+B2>F2 D^CDF B2(B<^c) | A2>F2 C=B,CF A2(A<=B) | G2>D2 B,A,B,D G2BG |1 A,D^FD [B,D]6 G2 :|2 A,"^Stämförslag B.O."D^FD [B,D]6 z2 |]
+

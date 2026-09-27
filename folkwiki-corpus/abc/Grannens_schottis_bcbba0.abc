@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Grannens schottis
+C:Bengt Jansson
+O:Hedemora, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Bengt Jansson, Hedemora"
+L:1/8
+M:2/4
+K:C
+V:1
+"^1"u (g/f/) |:v ec c/e/d/c/ | (BA) A2 | G/A/B/c/ d/e/f/d/ | c/d/e/f/ g(g/f/) | ec c/e/d/c/ | 
+(BA) A2 | G/A/B/c/ d/e/f/d/ |1 cc c (g/f/) :|2,8 cc c z |:[K:F]v ac A>c | (Bd) g2 | c/d/e/f/ g/a/b/g/ | 
+(f/g/)a/b/ c'2 | ac A>c | (Bd) g2 | c/d/e/f/ g/a/b/g/ |1 ff f z :|2 ff fu (g/f/) [|[K:C] ec c/e/d/c/ |
+ (_BA) A2 | G/A/_B/c/ d/e/f/d/ | c/d/e/f/ g(g/f/) | ec c/e/d/c/ | (_BA) A2 | G/A/_B/c/ d/e/f/d/ |
+ cc c z |]:[K:F]v a3 g | f3 A | d3 c | B3 G | E>G ce | c'c' c'>d' | c'b b>c' | (ba) a z |
+v a3 g | f3 A | d3 c | B3 G | E>G ce | c'c' c'>d' | c'b ge |1 ff f z :|2[K:C] ff f |] 
+V:2
+"^2" (e/d/) |: "C" cE E/c/_B/A/ | "Dm" (GF) F2 |"G7" _B,/D/G/A/ _B/c/B/G/ |"C" E/G/c/d/ e(e/d/) | 
+cE E/c/_B/A/ |"Dm" (GF) F2 |"G7" _B,/D/G/A/ _B/c/B/G/ |1"C" EE E (e/d/) :|2,8"C" EE E z |: 
+[K:F]"F" cA F>A |"Gm" (GB) B2 |"C7" E/G/c/d/ e/f/e/c/ |"F" (A/c/)f/g/ a2 | cA F>A | 
+"Gm" (GB) B2 |"C7" E/G/c/d/ e/f/e/c/ |1"F" AA A z :|2"F" AA A (e/d/) [|[K:C] "C" cE E/c/_B/A/ | 
+"Dm" (GF) F2 |"G7" _B,/D/G/A/ _B/c/B/G/ |"C" E/G/c/d/ e(e/d/) | cE E/c/_B/A/ | "Dm"(GF) F2 | 
+"G7" _B,/D/G/A/ _B/c/B/G/ | "C" EE E z |]:[K:F] "F" c>B AG | "F7" AG F_E | "Gm" B>A GF | D2 B,2 |"C7" C>E Gc | ee e>f | 
+ed d>e | "F" (dc) c z | "F" c>B AG | "F7" AG F_E | "Gm" B>A GF | D2 B,2 |"C7" C>E Gc | ee e>f | ed cB |1 "F" AA "^B.O." A z :|2[K:C]"F" AA A |]
+

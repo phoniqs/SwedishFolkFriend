@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Snoa - Polka Nr 10
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"10. Snoa - Polka sv. Folkdanser del 2."
+Z:DVD efter [[Personer/Ragnar Eriksson]]. "Ragges dans: Snoa åt två håll"
+L:1/8
+M:2/4
+K:A
+V:1
+|:"^1""^Ragges dans: Snoa åt två håll" A>c ce | e{cd}c A2 | ag/f/ ec | dB GB |
+A>c ce | e{cd}c A(c/e/) | ag/f/ eG | A4 :: 
+(e/f/)e/c/ Ac/e/ | ab/a/ (gf) |{g} fe{f} eG | Ac E(A/c/) | 
+(e/f/)e/c/ Ac/e/ | ab/a/ (gf) |{g} fe{f} eG | A4 :| 
+V:2
+|:"^2""A" C>E EA | A{EF}E C2 | ce/d/ cA | "E7" BG ED | 
+"A" C>E EA | A{EF}E C(E/A/) | "E7" cB/A/ GD |"A" C4 :: 
+"A" (c/d/)c/A/ EA/c/ |"E7" cd/c/ (BA) | BG GD |"A" EA C(E/A/) | 
+(c/d/)c/A/ EA/c/ | "E7" cd/c/ (BA) |"^Stämförslag B.O." BG GD |"A" C4 :|
+

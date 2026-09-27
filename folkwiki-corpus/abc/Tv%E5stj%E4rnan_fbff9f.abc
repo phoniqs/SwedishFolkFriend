@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Tvåstjärnan
+O:Ilsbo, Hälsingland
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. o. Arr. Ingemar Lundberg, Ilsbo"
+C:Ingemar Lundberg
+L:1/16
+M:2/4
+K:F
+V:1
+|:"^1" c2dc B2cB | A2F2 F2EF |"^Snoa" G2C2 C2DE | FEFG AGAB | 
+c2dc B2cB | A2F2 F2EF | G2C2 C2DE |1 F2C2 FGAB :|2 F2>G2 F_EDC |:
+[K:Bb] D2B,D F2DF | B2FB d4 | dcBA BAGF | F2E2 EDE2 | 
+C2A,C F2CF | A2FA c4 | e2>d2 cBAG | G2F2 F=EF2 | 
+D2B,D F2DF | B2FB d4 | E2B,E G2EG | B2GB e4 | 
+F2CF A2FA | c2Ac f4 | f2gf ecAc | B2F2 B4 :| 
+V:2
+|:"^2" A2BA G2AG | F2C2 C2=B,C | E2B,2 B,2>C2 | B,2A,2 A,CFG | A2BA G2AG | F2C2 C2=B,C | 
+E2C2 C2>B,2 |1 B,2A,2 A,CFG :|2 B,2A,2 FG,_A,=A, |:[K:Bb] B,2B,2 D2B,D | F2DF B4 | BAGF GFED | 
+C2A,2 A,A,A,2 | A,2A,2 C2A,C | F2CF A4 | c2>B2 AGFE | E2D2 D^CD2 | B,2B,2 D2B,D | F2DF B4 | 
+B,2G,B, E2B,E | G2EG B4 | A,2A,2 C2A,C | A2FA c4 | A2BA GECE | D2B,2 D4 :|
+

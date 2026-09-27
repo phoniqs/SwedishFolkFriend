@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Storpolska från Liden
+O:Medelpad
+R:Polska
+S:Utlärd av [[Anders Hällström]]
+Z:Uppteckning från Stefan Lindéns sida: SEL01353 Utskrivet av Stefan Lindén 140214
+L:1/16
+M:3/4
+K:Dm
+V:1
+"Dm"(D3E) (F2G2) A2d2 | "A7"^c2(ec) "Dm"d4 A4 | "Dm"d2(fd) "A7"e2(ge) "Dm"f2(af) |1 "A7"(g2a2) a6 D2 :|2 
+"Am"(g2a2) a8 | [K:Am] |: "Am"(ab)a^g a2(e2 "G7"f2)d2 | "Am"c3c "E7"(Bc)B^G "Am"A4 | "E7"B2(dB) "Am"c2(ec) "E7"d2(fd) | 
+"E7"e4 e6 e2 :| [K:Dm] |: "A7"(^c3d) e2g2 "Dm"f2ed | "A7"^c2(ec) A6 d2 | "A7"(^c3d) e2g2 "Dm"f2ed | 
+"A7"(^cd)ec A4 a3g | "Dm"f2(af) "A7"e2(ge) "Dm"d2(fd) | "A7"^c2(ec) "Dm"d4 (A3G) | "Dm"F2(AF) "A7"E2(GE) "Dm"D2(FD) | 
+|1 "A7"^C2(EC) "Dm"D6 d2 :|2 "A7"^C2(EC) "Dm"D6 D2 |: "Dm"(DF)(AF) (DF)(AF) (DF)(AF) | |
+"A7"(DE)(AE) (DE)(AE) (^CE)(AE) | "Dm"(DF)(AF) (DF)(AF) (DF)(AF) | "A7"(DE)(AE) (DE)(AE) (^CE)(AE) | 
+"Dm"(D3E) (F2G2) A2d2 | "A7"^c2(ec) "Dm"d4 (A3G) | "Dm"F2(AF) "A7"E2(GE) "Dm"D2(FD) |1 "A7"^C2(EC) "Dm"D6 d2 :|2 
+"A7"^C2(EC) "Dm"D8 |]
+

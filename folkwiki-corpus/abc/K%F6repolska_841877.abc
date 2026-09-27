@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1095
+T:Körepolska
+T:(SvL Skåne 1095)
+B:Svenska Låtar Skåne Nr 1095
+O:Skåne
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 63. Körepolska 1 Sv.L. Skåne nr. 1095."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 63
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^Förspel" d>c A>c D>F | G2 G3 z |:[K:G][M:3/4][K:treble]"^Dans" D2 (3GDG B2 | G2 (3BGB d2 | 
+d2 c2 B2 | B>d g>d B>G | D2 (3GDG B2 | G2 (3BGB d2 | 
+d2 c2 B2 | B>d g4 :: g>e c>e c>e | e>d B>d B>d | 
+d>c A>c D>F | G>B (3BGB g2 | g>e c>e c>e | 
+e>d B>d B>d | d>c A>c D>F | G2 G3 z :| 
+V:2
+"^2" "D7"B>A F>A C>D | "G"B,2 B,3 z |:[K:G][M:3/4][K:treble] "G"B,2 (3DB,D G2 | 
+D2 (3GDG B2 | B2 A2 G2 | G>B d>B G>D | B,2 (3DB,D G2 | 
+D2 (3GDG B2 | B2 A2 G2 | G>B B4 ::
+"C" e>c G>c G>c | "G" c>B G>B G>B |"D7" B>A F>A C>D |"G" B,>G (3GDG B2 |
+"C" e>c E>c E>c |"G" c>B G>B G>B | "D7" B>A F>A C>D |"G" B,2"^Stämförslag B.O." B,3 z :|
+

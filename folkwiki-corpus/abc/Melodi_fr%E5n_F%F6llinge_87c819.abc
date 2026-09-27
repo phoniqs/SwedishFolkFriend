@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Melodi från Föllinge
+S:Spel-Olle
+S:Göran Olsson Föllinger
+O:Föllinge, Jämtland
+R:Visa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Olof Olsson "Spel-Olle"(1877-1961)Föllinge"
+Z:"Uppt. av brodern Göran O:son Föllinger (1886-1969)."
+L:1/8
+M:4/4
+U:t=tenuto
+K:G
+V:1
+"^1" d |({[DB]} g/a/g/f/) (g/a/b) a3 g |"^tr." (fe) (dc){D} B3 d | (dc)({d} c/B/)c/e/ A3 f | 
+({[DB]} g/a/g/f/) (g/a/b) d3 d |({[DB]} g/a/g/f/) (g/a/b) a3 g |"^tr." (fe) (dc){D} B3 d | (dc)({d} c/B/)c/e/ Af [Af]f | 
+B[Bg] [Bg][Bg] [Bg]3 d |]: (gB)({d} c/B/)c/e/ (dG) (Bd) | (dc) (D/F/)A/F/ (GB) (tdtd) | 
+(gB)({d} c/B/)c/e/ (dG) (Bd) |1 (dc) (D/F/)A/F/ G3 d :|2 (dc) (D/F/)A/F/ G3 z |] 
+V:2
+"^2" G | B2 d2 c2 B2 | A2 F2 G2 G2 | F2 E2 D2 F2 | 
+B2 A2 G3 G | B2 d2 c2 B2 | A2 F2 G2 G2 | F2 E2 D2 C2 | 
+D2 GG G3 B |]: (BG) (EF) (GB,) (DF) | (FD) (A,C) (B,D) (GB) | 
+(BG) (EF) (GB,) (DF) |1 (FD) (A,C) B,3 B :|2"^Stämförslag B.O." (FD) (A,C) B,3 z |] 
+

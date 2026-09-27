@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Hagervals efter Björs Olle
+S:Efter Björs Olle
+O:Dala-Floda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:2/4
+K:D
+V:1
+"^1" A |: (d/c/)d/e/ fd | A>G (F/E/)F/G/ | Ad cB | A>G FA | (d/c/)d/e/ (f/g/)f/e/ | (dA) (g/f/)e/d/ | 
+cA ec |1 d3 A :|2 d3 f |: e>(c A/c/)e/g/ | fd A>f | (a/g/)f/g/ ec | 
+df/d/ Af | e>(c A/c/)e/g/ | fd A>f | (a/g/)f/g/ (ec) |1 d3 f :|2 d3 B |:
+[K:G] .G.D G>B | (d/B/)G/B/ de/f/ | (g/f/)e/d/ (^c/d/)f/e/ | .d.G B2 | .G.D G>B | 
+(d/B/)G/B/ de/f/ | gA/B/ cA/F/ | AG G2 :: B>A GE | .C.D .B,.C | A,/C/E D/F/A | 
+G/B/d B/d/g | B>A GE | .C.D .B,.C | A,/C/E D/F/A | G3 z :| 
+V:2
+"^2" F |: (F/E/)F/A/ dA | F>E (D/C/)D/E/ | FB AG | F>E DF | (F/E/)F/A/ (d/e/)d/A/ | 
+(FF) (e/d/)c/B/ | AE cA |1 F3 F :|2 F3 d |: c>(A E/A/)c/e/ | dA F>d | (f/e/)d/e/ cA | Fd/A/ Fd | 
+c>(A E/A/)c/e/ | dA F>d | (f/e/)d/e/ (cA) |1 F3 d :|2 F3 G |:[K:G] .D.B, D>G | (B/G/)D/G/ Bc/d/ | 
+(e/d/)c/B/ (A/B/)d/c/ | .B.D G2 | .D.B, D>G | (B/G/)D/G/ Bc/d/ | BF/G/ AF/D/ | CB, B,2 :: G>F EC | 
+.A,.B, .G,.A, | E/A,/C A,/D/F | B,/D/G D/G/B | G>F EC | .A,.B, .G,.A, | 
+E/A,/C A,/D/"^Stämförslag B.O."C | B,3 z :|
+

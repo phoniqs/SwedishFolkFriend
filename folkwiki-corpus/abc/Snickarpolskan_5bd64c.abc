@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Snickarpolskan
+T:Polska efter Per Wilhelm Bergström
+S:Per Wilhelm Bergström
+O:Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (31) efter P.W. Bergström, Mattsbo, Hedemora."
+N:Finns även på sidan för allspelslåtar Bingsjö 2023 "Snickarpolskan efter Per Wilhelm Bergström, Hesshyttan, Garpenberg": https://www.dalarnasspelmansforbund.se/allspelsltar-i-bingsj-2023
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" a2 ab/a/  g>e |  f>(g a>)(^c d)e | f2 fg/f/  e^c | d>(f e/f/)e/^c/ A2- | 
+A2 ab/a/  g>e |  f>(g a>)(^c d)e | f2 fg/f/ e^c |  (^cd) d4 :: 
+d2 (de) ^c>A | (^c>d) ef/e/ d>f |{f} a2 fa/f/ e^c | d>(f e/f/)e/^c/ A2- | 
+A2 (de) ^c>A | (^c>d) ef/e/ d>f |{f} a2 fa/f/ e^c | (^cd) d4 :| 
+V:2
+|:"^2" "Dm"  f2 fg/f/ "A7"e>^c | "Dm"d>(e ^c>)(A F)G | A2 AB/A/ "A7"GE | "Dm"F>(A "A7"G/A/)G/E/ ^C2- | 
+^C2 "Dm"fg/f/ "A7"e>^c | "Dm"d>(e ^c>)(A F)G | A2 AB/A/ "A7"GE | "Dm"(EF) F4 :: 
+"Dm" F2 (FG) "A7" E>^C | (E>F) GA/G/ "Dm" F>A |{A} d2 Ad/A/ "A7" GE | "Dm" F>(A G/A/)G/E/ "A7" ^C2- | 
+^C2 "Dm" (FG) "A7" E>^C | (E>F) GA/G/ "Dm" F>A |"^Stämförslag B.O."{A} d2 Ad/A/ "A7" GE | "Dm" (EF) F4 :| 
+

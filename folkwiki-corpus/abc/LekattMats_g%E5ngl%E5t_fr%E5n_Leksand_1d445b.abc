@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Lekatt-Mats gånglåt från Leksand
+S:Werner Höglund
+O:Leksand, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Werner Höglund, Leksand."
+Z:"Melodi och stämma uppt. efter W. Höglund av Pålers"
+L:1/16
+M:2/4
+K:G
+V:1
+"^1" D2 |:"G" G2>A2 (BA)Bc | d4 d2^cd | e2ef g2fe | d6 d2 |
+"C" (ga)gf (ef)ed | "C" c2c2"G" B2dc |1[M:3/4]"D7" (AB)AF"G" G6 D2 :|2[M:3/4]"D7" (AB)AF"G" G6 c2 |: 
+"G" B2>A2 (GF)GB |"C" e4"G" d2>c2 | (Bc)BA G2F2 |"D7" A6 D2 |
+"G" G2>A2 (BA)Bc | "G" d2f2"D" a4 |"C" (ga)gf e2c2 |"D7" d6 d2 |
+"C" (ga)gf (ef)ed |"C" c2c2"G" B2dc |1 [M:3/4]"D7" (AB)AF"G" G6 c2 :|2[M:3/4]"D7" (AB)AF"G" G6 z2 |] 
+V:2
+"^2" D2 |: B,2>D2 (GF)GA | B4 B2AB |"C" c2cd e2dc |"G" B6 B2 | 
+(ef)ed c2cB | (AB)AG F2FE |1 [M:3/4] (DE)DC B,6 D2 :|2[M:3/4] (DE)DC B,6 GF |: 
+G2>D2 (B,A,)B,G | c4 B2>A2 | (GA)GF E2D2 | F6 C2 | 
+B,2>D2 (GF)GA | (BA)Bd f4 | (ef)ed (cd)cA | F6 F2 | 
+"^Melodi och stämma uppt. efter W. Höglund av Pålers-B.O." (ef)ed c2cB | (AB)AG F2FE |1[M:3/4] (DE)DC B,6 GF :|2 [M:3/4] (DE)DC B,6 z2 |] 
+

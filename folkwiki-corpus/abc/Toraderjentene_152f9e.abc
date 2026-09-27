@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Toraderjentene
+T:Reinlender
+C:Knut Ivar Böe
+O:Norge
+R:Reinländer
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Knut Ivar Böe."
+Z:"Från CD: Torader-jentene"
+L:1/16
+M:2/4
+K:G
+V:1
+|:"^1""G" D>GGA B2B2 |"Am" E>AAB c2c2 |"D7" A>GAc e>dcA |"G" G>BeB"D7" d2d2 | 
+"G" D>GGA B2B2 |"Am" c>Bce g2g2 |"D7" f>edc B>Adc |"D7" B>GAF "G" G4 ::
+"G" G2FG A2G2 | "Am" G>EEC A,2>G2 |"D7" G>FFA c>Bcd |"G" e>dBG D2B,D | 
+G2FG A2G2 |"Am" G>EEd c2>f2 |"D7" f>eed d>ccA |"G" G>AGF G4 :| 
+V:2
+|:"^2" B,>DDF G2G2 | C>EE^G A2A2 | F>EFA c>BAF | D>GBG F2F2 | 
+B,>DDF G2G2 | E>DEG c2c2 | A>GFE D>CED | D>B,CA, B,4 :: 
+B2AB c2B2 | B>GGE C2>E2 | E>DDF A>GAB | c>BGD B,2G,B, | 
+B2AB c2B2 | c>GGF E2>d2 | d>ccA A>FFD | "^Stämförslag B.O." B,>CB,A, B,4 :|
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X: 42
+T: Bleking efter Carl Aron Hakberg
+T: (SvL Västergötland 42)
+S: efter Carl Aron Hakberg
+O: Skövde, Västergötland
+B: Svenska Låtar Västergötland
+Z: av Nils L (2008-12-22) efter Karen Myers (#2943) uppteckning efter [[!Markus Svensson]]
+R: Bleking
+L: 1/16
+M: 3/4
+K: A
+e2(e2 cA)ce a2a2 | (ef)ed (cd)ee f2f2 | e2(e2 cA)ce a2a2 | (ef)ed (cd)ee f2f2 | 
+(ef)ed (cd)cB A2c2-| \
+M: 4/4 
+c2B2- B2A2 (G2A2) A4 :| \
+[E2A,2]>[A2E2-] [c2E2][c2(E2] [D2)d2][d2(D2] [E2)c2][c2E2]- | 
+M: 3/4
+[c2E2][B2E2]- [B2E2]AB c2A2 | \
+M: 4/4
+[E2A,2]>[A2E2-] [c2E2][c2(E2] [D2)d2][d2(D2] [E2)c2][c2E2]- | c2(B2 -B2A2) (G2A2) A4 :|
+

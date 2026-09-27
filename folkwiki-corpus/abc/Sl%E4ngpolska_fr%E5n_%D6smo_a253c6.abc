@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Slängpolska från Ösmo
+R:Slängpolska
+O:Ösmo, Södermanland
+N:Spelad av spelmannen Hugo Sandberg från Södertörn; inspelad på fonografrulle av Yngve Laurell kring år 1919-1920. Inspelningen är utgiven på cd skiva "Äldre svenska spelmän", Caprice Records 1999, CAP 21604.
+Z:Anna Svensk
+M:3/4
+L:1/16
+Q:155
+K:D
+P:A
+|: D2>F2 A2>d2 f2>a2 | a2>g2 (3g2e2g2 f2>D2- | -D2>F2 A2>d2 e2>f2 | g4 f2gf e4 |
+[D2A2]>[F2A2] A2>d2 f2>a2 | a2>g2 (3g2e2g2 f2>D2- | -D2>F2 A2>d2 e2>f2 | g4 f2gf e4 |
+P:B
+f2>ef g2(3fgf e2>d2 | c2(3BcB A2>G2 F2>E2 | D2>F2 A2>d2 f2>a2 | a2c2 d4 A4- |
+-A2>f2 g2(3fgf e2>d2 | c2(3BcB A2>G2 F2>E2 | D2>F2 A2d2 f2a2 | a2c2 [D6d6] f2 |
+P:C
+a2>f2 (3d2f2d2 A4 | [F2A2]>F2 (3D2F2D2 A,4- | -A,2>A,2 C2>C2 C2>E2 | D2>F2 A2>d2 f4 |
+a2>f2 (3d2f2d2 A4 | [F2A2]>F2 (3D2F2D2 A,4- | -A,2>A,2 A,2>A,2 C2>E2 | (3E2F2E2 D8- |
+P:D
+-D2>[G2B2] [G2B2]>[G2B2] [G2B2][G2B2] | [G2B2]>[F2A2] [F2A2]>[F2A2] [F2A2][F2A2] | [F2A2]>E2 E2>E2 c2>c2 | {c}e2>d2 c2B2 A2>B2|
+A2>[G2B2] [G2B2]>[G2B2] [G2B2][G2B2] | [G2B2]>[F2A2] [F2A2]>[F2A2] [F2A2][F2A2] | [F2A2]>E2 E2>E2 E2c2 |1 c2d2 d4 D4 :|2 c2d2 d4- -[d4D4] |]
+

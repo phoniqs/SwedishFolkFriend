@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Villervallan
+C:Calle Hedin
+O:Linköping, Östergötland
+R:Polska
+M:3/4
+K:D
+Q:90
+N:Komponerad i källaren på Valla herrgård en lördagskväll i oktober 1990
+ A |: d>f (e1/2d1/2)c1/2B1/2 AB1/2c1/2 |  dd A>G  (F1/2G1/2)F1/2E1/2|
+DF1/2A1/2 df1/2d1/2 e>d | (c1/2d1/2)e1/2f1/2 gg e>d | (c1/2d1/2)c1/2B1/2 (A1/2B1/2)c1/2d1/2  (e1/2d1/2)e1/2f1/2 |
+ (g1/2f1/2)e1/2c1/2 d4 :||: (f1/2g1/2)f1/2e1/2   (f1/2e1/2)f1/2g1/2 aa  | (e1/2f1/2)e1/2d1/2 (c1/2d1/2)e1/2c1/2    A>(A           |
+  B1/2c1/2)B1/2A1/2  (G1/2F1/2)G1/2A1/2    B(d1/2B1/2) |  (A1/2B1/2)A1/2G1/2 (F1/2G1/2)A1/2F1/2  D>(D  |  
+ E1/2F1/2)E1/2D1/2   EF G(B1/2G1/2) | (A1/2B1/2)A1/2G1/2   (F1/2D1/2)F1/2G1/2  (Ad) |
+(e1/2f1/2)e1/2d1/2    (c1/2A1/2)c1/2e1/2    aa  | (e1/2f1/2)e1/2c1/2  d4 :|
+

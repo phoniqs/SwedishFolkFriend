@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Engelska efter Pelle Ror
+R:Engelska
+S:Pelle Ror
+O:Torsås, Småland
+N:Variant av Soldier's Joy
+Z:Peter Svensson
+M:2/4
+Q:1/4=90
+L:1/16
+K:D
+|: AFDF AFDF | A2Bc d2d2 | AFDF AFDF | F2EE [E2A,2][E2A,2]  |
+   AFDF AFDF | A2Bc d2d2 | fafd egec | c2d2 d4             :|
+|: f2d2 fagf | edcd e2g2 | f2d2 fagf | edcB A4              |
+   f2d2 fagf | edcd e2g2 | fafd egec | c2d2 d4             :|
+|: d2A2 A2Bc | d2B2 B2cd | e2c2 d2B2 | ABcB A4              |
+   d2A2 A2Bc | d2B2 B2cd | e2c2 d2B2 | ABcB A4             :|
+

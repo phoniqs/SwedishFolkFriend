@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Springlek efter Omas Per
+S:Omas Per
+O:Transtrand, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Håll Hans Per Nilsson.
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1""^\"Springlek\"" A>^c df e>c | d>e f<a g>b | a2 (3fdf e>^c |
+ d>f ga/g/ (f>d) | A>^c d<f e>d | ^c=B/c/ d4 ::
+{e} f2 (3afa g>f | e>f (3geg (f>e) |{e} f2 (3afa g>f | e>f (3geg (f>e) | 
+d>^c (3def (e>c) | d>f ga/g/ (f>d) | A>^c d<f e>d | ^c=B/c/ d4 :| 
+V:2
+|:"^2" E>G Ad ^c>A | F>A d<f e>g | f2 (3d=Bd ^c>A |
+ F>d ef/e/ (d>A) | D>E F<A G>F | ED/E/ F4 :: 
+{^c} d2 (3fdf e>d | ^c>d (3ece (d>c) | A2 (3cAc B>A | G>A (3BGB (A>G) |
+ F>A (3=B^cd (c>A) | F>d ef/e/ (d>A) | D>E F<A G>F"^Stämförslag B.O." | ED/E/ F4 :|
+

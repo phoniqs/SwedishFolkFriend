@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska efter Gubben Tångring
+S:Tore Tångring
+S:Stig Gustavsson
+O:Vålsjö, Järvsö, Hälsingland
+R:Hambo
+Z:Karin Helander
+N:Från handskriven not "Hambo-polska efter Gubben Tångring, Vålsjö, Järvsö. Upptecknad efter Stig Gustavsson, Tore Tångring. Stämma o arr: [[Personer/Rolf Westerlund]]. Transponerad till G-dur"
+L:1/8
+M:3/4
+K:G
+V:1
+(G>F) (G>B) d>g | (b>a) (g>f) g>a | (b>a) (g>f) e>d | c>(B c)d e2 | 
+D>D (D>F) (A>d) | !trill! (f>e) (d>^c) de | !trill! (f>e) (d>c) B>A |1 G>(A B)c d2 :|2  
+G2 [Bg]4 |: (d^c/d/) e2 d2 | {c}B>A G4 | (gf/g/) a2 g2 | {f}e>d c4 | 
+D>D (D>F) (A>d) | !trill! (f>e) (d>^c) de | !trill! (f>e) (d>c) B>A |1 G>(A B)c d2 :|2 
+G2 [Bg]4 |]
+V:2
+"G" (B,>A,) (B,>D) G>B | (d>c) (B>A) B>c | (d>c) (B>A) G>F | "C" E>(D E)F G2 | 
+"D7" A,>A, (A,>D) F>A | (A>G) (F>E) FG | (A>G) (F>E) D>C |1 "G" B,>(D G) A B2 :|2 
+"G" B,2 [DG,]4 |: "G" (BA/B/) c2 B2 | {A}G>D [DB,]4 | (BA/B/) c2 B2 | "C" {A}G>F [EG,]4 |
+"D7" A,>A, (A,>D) F>A | (A>G) (F>E) FG | (A>G) (F>E) D>C |1 "G" B,>(D G) A B2 :|2 
+"G" B,2 [DG,]4 |]
+

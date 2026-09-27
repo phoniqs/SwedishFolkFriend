@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Bjuråker
+S:Efter Mattias Blom
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Efter Mattias Blom  (1880-1936)
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" (D>G) (B>d) B>G | GF/G/ A2 A2- | A>(B c>)(D F>)A |
+ (A>G) GB G2 | G2 (G>B) g>f | (f>e) e3 z | d2 (d>e) d>c | 
+(c>B) B3 z | e>(d c>)(B A>)G | (G>F) (F>D) F>A | AF/A/ G3 z :: 
+DG/B/ d2 B>G | (G>F) D3 z | c>(B A>)(G F>)E | D>(B, C>E) ED | 
+DG/B/ d2 e>f | g2 (e>d) c>B | (A>B) (c>e) F>A | AG/F/ G3 z :: 
+(c>B) (ce) c2 | (B>G) (Bd) B2 | (A>B) (c>A) F>D | G2 (B/G/)(B/d/) g2 | 
+(c>B) (ce) c2 | (B>G) (Bd) B2 | (A>B) (cd) ef | g2 g3 z :| 
+V:2
+|:"^2" (B,>D) (G>B) G>E | ED/E/ F2 F2- | F>(G A>)(A, D>)C | 
+(C>B,) B,D B,2 | B,2 (B,>G) B>d | (d>c) c3 z | F2 (F>G) F>A |
+ (A>G) G3 z | c>(B A>)(G F>)E | (E>D) (D>A,) D>C | CA,/C/ B,3 z :: 
+B,D/G/ B2 G>E | (E>D) A,3 z | A>(G F>)(E D>)C | B,>(G, A,>C) CB, | 
+B,D/G/ B2 c>d | e2 (c>B) A>G | (F>G) (A>c) D>C | CB,/A,/ B,3 z :: 
+(A>G) (Ac) A2 | (G>D) (GB) G2 | (F>G) (A>F) D>A, | B,2 (D/B,/)(D/G/) B2 | (A>G) (Ac) A2 | (G>D) (GB) G2 | (F>G) (AB) c"^Stämförslag B.O."d | 
+B2 B3 z :|
+

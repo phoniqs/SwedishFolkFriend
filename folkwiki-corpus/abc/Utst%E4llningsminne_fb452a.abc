@@ -1,0 +1,41 @@
+%%abc-charset utf-8
+
+X:1
+T:Utställningsminne
+T:Gånglåt
+C:Jon-Erik Hall
+O:Hassela, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]] (Nr 38 i hans Hall-samling)
+L:1/16
+M:2/4
+K:D
+V:1
+|:"^1" [Fd]6 "^Göteborg 1923"cB | (A^G)AB (A=G)FE | F2D2 (DF)Ad | f2Ad (fa)gf | 
+g2ed c2A2 | [Ag]6 ed | (c^B)cd (ed)cB | c2E2 (EF)GA | 
+B2AB c2BA | B2FG A2D2 | [Fd]6 cB | (A^G)AB (A=G)FE | 
+F2D2 (DF)Ad | [^Af]6 de | (fe)fg (fe)dc | d2B2 (Bd)fb | 
+a2A2 (Ac)eg | f2A2 d2FB | (BA)GF G2C2 | D2D2 D4 :: 
+(DF)AB A2F2 | (DF)AB A2F2 | (DF)Ad (fe)dc | (BA)GB A2G2 | 
+(CE)GB A2G2 | (CE)GB A2G2 | (CE)Ac (ed)cB | (AG)BA A2F2 | 
+(DF)AB A2F2 | (DF)AB A2F2 | (DF)Ad (fe)dc | (BA)GB A2G2 | 
+(CE)GB A2G2 | (CE)GB A2G2 | (CE)Ac (eg)fe | d2d2 d4 :: 
+B,2D2 F2B2 | (dc)B^A B2g2 | f2f2 d'2c'b | ^a2a2 f4 | 
+d2d2 a2gf | e2[eg]2 [df]2[ce]2 | [Bd]2[Bd]2 [Df]2[ce][Bd] | [^Ac]2[Ac]2 [Ac]4 | 
+B,2D2 F2B2 | (dc)B^A B2g2 | f2f2 d'2c'b | ^a2a2 f4 | 
+g2fg b2ag | (fA)df a2F2 | (GE)Gc (eA)ce | d2d2 d4 :| 
+V:2
+|:"^2""D" A,2DF A2AG | (F^E)FG (F=E)DC | D2A,2 (A,D)FA | d2FA (df)ed | 
+"A7" [Ec]2[GA][GA] [CG]2[CG]2 | E2Gc e2cB | (A^G)AB (cB)AG | A2A,2 (CD)EF | 
+G2C2 A2G2 |"D" D2[Fd][Fd] [Fd]2[Fd]2 | A,2DF A2AG | (F^E)FG (F=E)DC | 
+D2A,2 (A,D)FA |"F#7" C2F^A c2Bc | "Bm" (dc)de (dc)B^A | B2B,2 (DF)Bd |
+"A7" (cE)GE (GA)ce |"D" (dD)FD (A,F)DG |"A7" (GF)E^D E2[A,E]2 |"D" [A,F]2[A,F]2 A,4 ::
+"D" (FA,)DG F2A,2 | (FA,)DG F2A,2 | (FA,)DF (dA)FG |"D" (GF)EA, "A7"C2E2 | 
+(A,C)EG C2E2 | (A,C)EG C2E2 | (A,C)EA (cB)AG | "A7"(FA,)GF "D"F2D2 | 
+[Af]2[Af]2 [Fd]2[Fd]2 | [Af]2[Af]2 [Fd]2[Fd]2 | (fd)AF (DE)FA |"D" (GF)EG "A7"c2e2 | 
+[Ag]2[Ag]2 [Ec]2[Ec]2 | [Ag]2[Ag]2 [Ec]2[Ec]2 | (ec)AE (CE)A[GA] |"D" [FA]2[FA]2 "A7"[FA]4 ::
+"Bm" z2 [B,D]2 [B,D]2[B,D]2 | "Bm" (BF)DF"Em" [G,E]2[EB]2 |"F#7" [F^A]2[FA]2 "Bm"[FB]2[Fc][Fd] | "F#7" [Fe]2[Fe]2 [F^A]4 | 
+"D" [FA]2[FA]2"A" [Ec]2[Ec]2 |"F#7" C2^A,2 "Bm"B,2C2 | D2F2 B2FD | "F#7" [^A,F]2[A,F]2 [A,F]4 | 
+"Bm" z2 [B,D]2 [B,D]2[B,D]2 |"Bm" (BF)DF "Em" [G,E]2[EB]2 |"Bm" [Fd]2[Fd]2 f2ag |"F#7" f2f2 "Bm"d4 | 
+"Em" e2^de g2fe |"D" (dF)Ad f2D2 |"A7" (A,C)EG (AG)EG |"D" [FA]2[FA]2 [FA]4 :|
+

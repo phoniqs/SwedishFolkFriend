@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:35
+T:Flickans blundvals
+T:Vals efter Jons-Axel Nr 35
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Vals
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 35. Vals. Flickans blund-vals"
+L:1/8
+Q:1/4=132
+M:3/4
+K:A
+V:1
+"^1"v aa |:v a2 z2 AA | A2 z2 ff | f2 z2 GG | G2 z2 ee | e2 z2 dd | d2 z2 G2 | 
+A2 z2 c2 | e2 z2 aa | a2 z2 AA | A2 z2 ff | f2 z2 GG | G2 z2 ee | 
+e2 z2 dd | d2 z2 G2 | A2 z A A2 |1 A2 z2 aa :|2 A4 ee |: 
+A4 ce | b4 ag | f3 edB | G4 ee | e4 gb | d'4 c'c' | 
+c'3u aec | A4 ee | A4 ce | b4 ag | f3u edB | G4 ee | 
+e4 gb | d'2 z2 g2 | a3 a a2 |1 a2 z2 ee :|2 a4 z2 |] 
+V:2
+"^2" cc |:"A" c2 z2 C C | C2 z2 dd |"E7" d2 z2 EE | E2 z2 GG | G2 z2 BB | B2 z2 E2 | 
+"A" C2 z2 A2 | c2 z2 cc | c2 z2 CC | C2 z2 dd |"E7" d2 z2 EE | E2 z2 GG | G2 z2 BB | B2 z2 E2 | 
+"A" C2 z C C2 |1 C2 z2 cc :|2"A" C4 AA |:
+"A" C4 EA | d4 cB |"E7" d3 BGE | D4 GG | G4 Be | g4 aa | 
+"A" a3 ecA | E4 AA | C4 EA | d4 cB |"E7" d3 BGE | D4 GG | 
+G4 Be | "^Stämförslag B.O." g2 z2 B2 | "A" c3 c c2 |1 "A" c2 z2 AA :|2 "A" c4 z2 |]
+

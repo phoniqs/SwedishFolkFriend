@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:9
+T:Dubbel fyrtur
+T:(Sv Folkdanser Del 1)
+R:Engelska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 9. Dubbel fyrtur"
+Z:http://runeberg.org/folkdans/besk/0141.html
+Z:"Dubbel fyrtur eller Fyrtur med keding, Sverige, Gillesdanser i Norden."
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 9
+B:Musik till Gillesdanser i Norden
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (fa)gf (gd)cA | G2B2 G2 |][K:G][M:2/4][K:treble]"^Dans" (Bc) |: (dB)ge (dB)cA | 
+(GF)AF D2AB | (cA)ed (cA)ag | (fe)dc B2Bc | (dB)ge (dB)cA | 
+(GF)AF D2DE | (FG)AB (cD)EF |1 G2G2G2 (Bc) :|2 G2G2G2 d2 |: 
+(gd)BG (DG)Bd | (gf)fe f2fg | (af)dA (FA)df | a4 g2fg | 
+(bg)dB (GB)dg | (fd)AF (DF)Ad | (fa)gf (gd)cA |1 G2B2G2 d2 :|2 G2B2 G2 z2 |] 
+V:2
+"^2" "D7"(df)ed cAFD | "G"B,2D2 B,2 |][K:G][M:2/4][K:treble] (GA) |:"G" (BG)ec (BG)AF | 
+"D7" (ED)FD A,2FG | (AF)cA (FD)fe | (dc)BA"G" G2GA | (BG)ec (BG)AF |
+"D7" (ED)FD A,2A,C | (DE)FG (AB,)CD |1"G" B,2B,2B,2 (GA) :|2"G" B,2B,2B,2 B2 |:"G" (dB)GD (B,D)GB | 
+"D7" (ed)d^c d2de | (fd)AF (DF)Ad |"G" c4 B2Bd | (gd)BG (DG)Be |"D7" (dA)FD (A,D)FA | 
+"^Stämförslag B.O."(df)ed (cA)FD |1"G" B,2D2B,2 B2 :|2"G" B,2D2 B,2 z2 |]
+

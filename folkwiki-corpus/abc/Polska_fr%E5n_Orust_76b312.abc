@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Orust
+S:J Pettersson
+S:Jacob Abrahamsson
+O:Orust, Bohuslän
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter J. Pettersson och Jacob Abrahamsson"
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" G>(c B>)(g f>)a |{gf} g2 B2 (3G(AB) | (c<A) (Bc/B/) FA | G>(B A>)(F (3D)(EF) | 
+G>(c B>)(g f>)a |{gf} g2 B2 (3G(AB) | (c<A) (Bc/B/) FA | G2 G4 ::
+{f} g2 d2 B>B | (c<e) (de/d/) B>d | (f/g/f/g/) d>(c A>)B | 
+(ce) (de/d/ B)G/(A/B/) | (c<A) (Bc/B/) F<A | G2 G4 :| 
+V:2
+|:"^2" B,>(E D>)(B A>)c | B2 G2 (3D(FG) | (A<F) (GA/G/) DC | B,>(G F>)(D (3A,)(CD) | 
+B,>(E D>)(B A>)c | B2 G2 (3D(FG) | (A<F) (GA/G/) DC | B,2 B,4 ::{c} d2 B2 G>G | 
+(A<c) (Bc/B/) G>B | A2 B>(A F>)G | (Ac) (Bc/B/ G)D/(F/G/) | (A<F) (GA/G/) D<C | "^Stämförslag B.O." B,2 B,4 :|
+

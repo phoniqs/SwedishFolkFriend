@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Pisten
+S:Efter Pisten
+O:Ore, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Am
+V:1
+|:"^1" DF/A/ d>(^c d>)f |T (fe) e3 e | d(d c/d/)c/B/ A>G | BA AF (E/G/)E/^C/ | 
+A,2 d>^c d>f | T fe e3 e | d(d c/d/)c/B/ A>G |1 BA A4 :|2 BA A3 D/4E/4F/4G/4 |:
+[K:C] A2 (a_b/a/) g>e | f>aT g(eT f>)d | df e/f/e/^c/ A>_B | G>_B AF (E/G/)E/^C/ | 
+A,2 a_b/a/ g>e | f>aT g(eT f>)d | d>f e>(^c A>)_B |1 G<_B A3 D/4E/4F/4G/4 :|2 G<_B A4 |] 
+V:2
+|:"^2" A,D/F/ A>^G A>d | d^c c3 A | B(B A/B/)A/G/ F>E | GF FD (^C/E/)C/A,/ | D2 A>^G A>d | 
+d^c c3 A | B(B A/B/)A/G/ F>E |1 D^C C4 :|2 D^C C3 D/F/ |:
+[K:C] F2 (fg/f/) e>^c | d>f e(^c d>)A | Fd ^c/d/c/A/ E>G | E>G FD (^C/E/)C/A,/ | 
+D2 fg/f/ e>^c | d>f e(^c d>)A | F>d  ^c>(A E>)G |1 "^Stämförslag B.O." E<D ^C3 D/F/ :|2 E<D ^C4 |]
+

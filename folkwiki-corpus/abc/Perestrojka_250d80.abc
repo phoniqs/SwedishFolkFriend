@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Perestrojka
+T:Pariserpolka
+C:Hugo Westling
+O:Norge
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Utländska danser, Norge. Av Hugo Westling"
+L:1/16
+Q:1/4=76
+M:2/4
+K:D
+V:1
+|:"^1""D" f2f2 (fe)dF | B2AA A2A2 | f2f2 (fe)dF |"G" c2BB B2B2 | 
+"A7" e2e2 (ef)ed | c2c2 (cd)cB | A2ce a2^ga |"D" bafd A2A2 | 
+f2f2 (fe)dF | B2AA A2A2 | f2f2 (fe)dF |"G" c2BB B2B2 |
+"A7" e2e2 (ef)ed | c2c2 (cd)cB | A2ce (ag)ec |"D" d2d2 d4 :: 
+[K:A]"A" c2c2 (cE)Ac |"D" d2d2 (dF)Ad |"E7" e2e2 e2>d2 |"A" d2cc (cB)AB | 
+c2c2 (cE)Ac | "D" d2d2 (dF)Ad |"E7" e2fe (ed)BG |"A" A2A2 A4 :| 
+V:2
+|:"^2" A2A2 (AG)FD | G2FF F2F2 | A2A2 (AG)FD | A2GG G2G2 | c2c2 (cd)cB | A2A2 (AB)AG | E2Ac e2^de | 
+gfdA F2F2 | A2A2 (AG)FD | G2FF F2F2 | A2A2 (AG)FD | A2GG G2G2 | c2c2 (cd)cB | A2A2 (AB)AG | 
+E2Ac (ed)cA | F2F2 F4 ::[K:A] E2E2 (EC)EA | F2F2 (FD)FA | G2G2 G2>G2 | F2EE (ED)CD | E2E2 (EC)EA | F2F2 (FD)FA | G2AG (GF)ED | C2C2 "^B.O." C4 :|
+

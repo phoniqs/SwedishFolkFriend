@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:221
+T:Västgötapolska
+T:(SvL Västergötland 221)
+O:Västergötland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 118. Västgötapolska 1"
+Z:http://runeberg.org/folkdans/besk/0274.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 118
+B:Svenska Låtar Västergötland Nr 221
+L:1/8
+M:3/4
+U:t=tenuto
+K:D
+V:1
+"^1""^Förspel" (DF) (Ad) fa | (gf) (gb) ag | (ef) (ga) fg | ef/e/ d4 |] 
+[K:D][M:3/4][K:treble]"^Dans""^(1)" (DF) (Ad) fd | c2 (ce) gf | d2 (df) ag | ef/e/ (dA) FD | 
+"^1:a 2 ggr. 2:a 1 ggr. 1:a 2 ggr. 2:a 2 ggr. 1:a  2 ggr. 2:a 2 ggr. 1:a 2 ggr.""^2:a 4 ggr. mazurka 1:a 2 ggr. 2:a 1 ggr. 1:a 2 ggr. 2:a 2 ggr. 1:a 2 ggr. 2:a 1 ggr. dalsteg"(DF) (Ad) fd | c2 (ce) gf | d2 (df) ag | ef/e/ d4 |]
+"^(2)" (AA) (df) af | (gf) (gb) ag | (ef) (ga) gf | ef/e/ (dA) FD | 
+(DF) (Ad) fa | (gf) (gb) ag | (ef) (ga) fg | ef/e/ d4 |] 
+V:2
+"^2""D" (A,D) (FA) df |"A7" (ed) (eg) fe | (cd) (ef) "D"dA | "A7"GA/G/ "D"F4 |] 
+[K:D][M:3/4][K:treble]"D" (A,D) (FA) dA |"A7" A2 (Ac) ed |"D" F2 (Fd) fe | "A7" GA/G/"D" (tFtF) DA, | 
+(A,D) (FA) dA |"A7" A2 (Ac) ed |"D" F2 (Fd) fe | "A7" GA/G/"D" F4 |]
+"D" (FF) (Ad) fd |"Em" (ed) (eg) fe | "A7" (cd) (ef) ed | 
+"A7" GA/G/"D" (tFtF) DA, |"D" (A,D) (FA) df |"Em" (ed)"^Stämförslag B.O."  (eg) fe | "A7"  (cd) (ef)"D" dA |"A7" GA/G/"D" F4 |]
+

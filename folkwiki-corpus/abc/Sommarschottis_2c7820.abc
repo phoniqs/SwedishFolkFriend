@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Sommarschottis
+C:Folke Hedman
+O:Enviken, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Folke Hedman, Enviken."
+L:1/16
+M:2/4
+K:D
+V:1
+|:"^1"v D2FA d2cB | A2F2 D2>A2 | G2E2 E2>G2 | F2D2 D5/2D/ | 
+D2FA d2cB | A2F2 D2>A2 | G2E2 E2Ac | d2d2 !fine! d4 ::
+[K:A]v E2EE (EF)ED | (CE)Ac e4 | e2dc B2Bd | c2cB (.A2.A2) | 
+E2EE (EF)ED | (CE)Ac e4 | e2dc B2cB |1 A2A2 A4 :|2[K:D] A2=G2 F2E2 |] 
+V:2
+|:"^2""D" A,2DF B2AG | F2D2 A,2>D2 |"A7" C2A,2 A,2>C2 |"D" D2A,2 A,5/2A,/ | 
+A,2DF B2AG | F2D2 A,2>D2 |"A7" C2A,2 A,2CE |"D" F2F2 F4 ::
+[K:A]"A" C2CC (CD)CB, | (A,C)EA c4 | "E7" G2FE D2DF | "A" E2ED (.C2.C2) | 
+C2CC (CD)CB, | (A,C)EA c4 | "E7" G2FE D2ED |1 "A" C2C2 C4 :|2[K:D] "A7" C2E2"^B.O." !D.C.! D2C2 |]
+

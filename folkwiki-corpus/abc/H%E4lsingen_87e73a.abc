@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Hälsingen
+R:Polka
+S:Eric Öst
+O:Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Ursprungligen gammal gånglåt från Galven"
+L:1/16
+M:2/4
+K:Bb
+V:1
+|:"^1""^Polka / snoa" B2dc B2b2 | d2f2 B2d2 | c2de F2Ac | (BA)Bc d2B2 | 
+B2dc B2b2 | d2f2 B2d2 | c2de F2Ac | (Bc)BA B4 ::
+[K:F] A2FA c2Ac | f2cf a2gf | (ef)ga (bg)eg | (fe)fg a2f2 | 
+A2FA c2Ac | f2cf a2gf | (ef)ga (bg)eg |1 (fg)fe f4 :|2 (fg)fe f2_e2 |:
+[K:Bb] d4 (de)dc | B2B2 (3(BcB) AB | c4 (cd)cB | (AB)AG F2B2 | 
+d4 (de)dc | B2b2 (bf)dB | A2g2 (ge)cA |1 (Bc)BA B2c2 :|2 (Bc)BA B4 |] 
+V:2
+|:"^2" D2FE D2d2 | B2d2 F2B2 | A2Bc C2FE | (D^C)DE F2D2 | 
+D2FE D2d2 | B2d2 F2B2 | A2Bc C2FE | (DE)D^C D4 ::
+[K:F] F2CF A2FA | c2Ac f2ed | (cd)ef (ge)cB | (AG)AB c2A2 | 
+F2CF A2FA | c2Ac f2ed | (cd)ef (ge)cB |1 (AB)AG A4 :|2 (AB)AG A2A2 |:
+[K:Bb] B4 (Bc)BF | D2D2 D2^CD | A4 (AB)AG | (FG)FC A,2F2 | 
+B4 (Bc)BF | D2d2 (dB)FD | "^Stämförslag B.O." E2c2 (cA)FE |1 (DE)D^C D2F2 :|2 (DE)D^C D4 |]
+

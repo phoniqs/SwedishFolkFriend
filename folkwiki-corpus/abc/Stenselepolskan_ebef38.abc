@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Stenselepolskan
+S:E Eriksson
+O:Stensele, Lappland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter E. Eriksson, Stensele, Lappland"
+L:1/16
+M:3/4
+K:Gm
+V:1
+|:"^1" D2B2 B2AB (cB)AG | F2A2 A2GA (BA)GF | E2EF G2GA B2(AG) | (^FG)AF G2D2 (B,C)B,A, | 
+G,2B2 B2AB (cB)AG | F2A2 A2GA (BA)GF | E2EF G2GA B2(AG) | (^FG)AF G8 :: 
+D2d2 d2^cd (e2d2) | D2c2 c2Bc (dc)BA | (G^F)GA (BA)Bc d2d2 | ^c2Ac d8 | 
+D2d2 d2^cd (e2d2) | D2c2 c2Bc (dc)BA | (G^F)GA (BA)Bc (d^c)de | d2^F2 G8 :| 
+V:2
+|:"^2""Gm" G,2G2 G2^FG (AG)F=E |"F" A,2F2 F2=EF (GF)_ED |"Cm" C2CD E2EF"Gm" G2^F2 | "D7" D2C2"Gm" B,2B,2 D2C2 |
+"Gm" B,2G2 G2^FG (AG)F=E |"F" A,2F2 F2=EF (GF)_ED | "Cm" C2CD E2EF"Gm" G2^F2 |"D7" D2DC"Gm" B,8 ::
+"Gm" G,2B2 B2AB (c2B2) |"D7" A,2A2 A2GA ^F2FD | "Gm" B,2B,D G2GA B2G2 |"A7" A2AG"D7" [^FA]8 |
+"Gm" G,2B2 B2AB (c2B2) |"D7" A,2A2 A2GA ^F2FD | "Gm" "^Stämförslag B.O." B,2B,D G2GA B2BG |"D7" ^F2"Gm"D2 B,8 :|
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Slöjdarvalsen
+C:Lars Erik Jansson
+O:Upplands Väsby, Uppland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+N:"Tillägnad vännen, spelmannen och slöjdaren Erik Kjällgren i Måttan..."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" "G" G,2 B,D GB | "^Tillägnad vännen, spelmannen och slöjdaren""^Erik Kjällgren i Måttan . . ." d2 g3 b | g2 B2 c2 | d3 d (^cd) |"D7" (ed) (cA) FA | D2 F2 A2 | 
+"G" (AG) FG (BG) | "D7"(DE) (DC) B,A, | "G" G,2 B,D GB | d2 g3 b | g2 B2 c2 |  d3 d ^cd | 
+"D7" (ed) (cA) FA | D2 F2 A2 | "G" (AG) FG BA |1 "G" G4 z2 :|2 "G" G4 G2 |: 
+[K:C] (CE) (GE) (GE) | (CF) (AF) (AF) | (CE) (GC) (EG) | c4 e2 |"G7" (ed) (fd) (Bd) | G2 B2 d2 | 
+"C" (dc) (Bc) (ec) | G2 (GF) (ED) | (CE) (GE) (GE) |"F" (CF) (AF) (AF) |"C" (CE) GC EG | 
+c4{c} e2 |"G7" (ed) (fd) (Bd) | G2 B2 d2 |"C" (dc{dc)} (Bc) (dB) |1"C" c4 z2 :|2"C" c4 c2 |: 
+"F" A2 (FA) (cA) | (fA) (cA) (FA) |"C" G2 (EG) (cG) | (ec) (GE) (GE) |"G7" D2 (B,D) (GB) | 
+(df) (Bd) (GB) |"C" (dc{dc)} (Bc) (ec) | G4 c2 |"F" A2 (FA) (cA) | (fA) (cA) (FA) | 
+"C" G2 (EG) (cG) | (ec) (GE) (GE) |  "G7" D2 (B,D) (GB) | (df) (Bd) (GB) | "C" (dc{dc)} (Bc) (dB) |1 "C" c4 c2 :|2 "C" c4 z2 |]
+

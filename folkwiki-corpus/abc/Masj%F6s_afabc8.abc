@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:29
+T:Masjös
+O:Danmark
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Danmark, Gillesdanser i Norden."
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (3Adf (3Adf | g2 z2 |]:[K:G][M:2/4][K:treble]"^Dans" Bd gB | B2 A2 | Ac eA | 
+c2 B2 | Bd gB | B2 A2 | (3Adf (3Adf | g2 z2 :: 
+fA ag | fA gf | eA fA | df a2 | 
+fA ag | fA gf | eA fe |1 df d2 :|2 d2 z2 |] 
+V:2
+"^2" (3FAd (3FAd | B2 z2 |]:[K:G][K:treble] GB dG | G2 F2 | FA cF | A2 G2 | GB dG | G2 F2 | 
+(3FAd (3FAd | B2 z2 :: AD A"^Spelas önskat antal ggr."A | AD AA | AG AG | FA f2 | AD AA | AD AA | 
+AG AG |1"^Stämförslag B.O." FA F2 :|2 F2 z2 |]
+

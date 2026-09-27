@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T:Halling efter P.A. Olsen
+R:Halling
+O:Stensland, Norge
+B:Spelmansmusik
+M:2/4
+L:1/8
+K:D
+"D"D(D/E/ F)(F/G/)|(A/B/)(A/G/) A2|"A"(c/d/)(e/f/) (d/c/)A|(c/d/)(e/f/) (d/c/)A|
+"D"DD/E/ FF/G/|(A/B/)A/G/ A2|"A"c/d/e/f/ d/c/A/c/|"D"d2 D2:|
+|"Dm"{/e}=f(f/a/) "A"{/a}gg/e/|"Dm"{/e}=f(a/g/) "A"e2|(c/d/)(e/f/) d/c/A|(c/d/)(e/f/) d/c/A|
+"Dm"{/e}=f(f/a/) "A"{/a}gg/e/|"Dm"(e/=f/)(a/g/) "A"e2|(c/d/)(e/f/) (e/c/)(A/c/)|"D"d2 D2]|
+

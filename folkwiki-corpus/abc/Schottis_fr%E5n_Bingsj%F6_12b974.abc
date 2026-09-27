@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Bingsjö
+S:Rolf Westerlund
+O:Bingsjö, Dalarna
+R:Schottis
+Z:Karin Helander
+N:Från handskriven not "Schottis från Bingsjö. R. Westerlund nov -79"
+L:1/16
+M:2/4
+K:D
+V:1
+A>BA>F A2d2 |  f>gf>e f2a2 | g2G2 G2B2 | B2AG A4 | 
+A>BA>F A2d2 |  f>gf>e f2a2 | g>fe>d c>AB>c |1 (d>e)d>c d4 :|2
+d>ed>c d2A2 |: !trill! f2d2 A>FA>d | f2d2 A2>f2 | g>fe>d c>Ac>e | 
+a>^ga>b a>=gf>e | !trill! f2d2 A>FA>d | f2d2 A2>f2 | g>fe>d c>Ac>e |1 
+d>ed>c d2A2 :|2 (d>e)d>c d4 |] 
+V:2
+F>GF>D F2[FA]2 | A>BA>G A2F2 | B2[DB,]2 [DB,]2G2 | G2FE F4 | 
+F>GF>D F2[FA]2 | A>BA>G A2F2 | B>AG>F [EA]2[EA]2 |1 (F>G)F>E [FA]4 :|2
+F>GF>E [FA]2[FA]2 |: A2F2 F>DF>A | A2F2 F2>A2 | B>AG>F [EA]2[EA]2 | 
+c>Bc>d c>BA>G | F2D2 F>DF>A |  A2F2 F2>A2 | B>AG>F [EA]2[EA]2 |1
+F>GF>E [FA]2[FA]2 :|2 (F>G)F>E [FA]4 |]
+

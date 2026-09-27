@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska efter Hampus August
+S:Hampus August Andersson
+O:Husby, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(35) Hambo-polska från Södra Dalarna efter Hampus August Andersson, Husby."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (D |: G2) (B>d) g>f | a>g f2 c2 | (A>B) (c>d) f>e | e2 (d>B) G2- | 
+G2 (B>d) g>f | a>g f2 c2 | (A>B) (c>d) f>e |1 (cA) G3 D :|2 (cA) G3 B |: 
+d>(e d)B/d/ e>B | d>B cd/c/ A2- | A>B c>d f>a | g>f (g>e) d>B | 
+d>e dB/d/ e>B | d>B cd/c/ A2- | A>B c>d f>a |1 ag g3 B :|2 ag g3 z |] 
+V:2
+"^2" B, |: D2 (D>G) B>A | c>B A2 E2 | F>G (A>B) A>c | c2 B>G D2- | 
+D2 D>G B>A | c>B A2 E2 | F>G (A>B) A>G |1 FD B,3 B, :|2 FD B,3 G |: 
+B2 BG/B/ c>G | B2 AB/A/ F2- | F>G A>B A>c | B>A (B>c) B>G | 
+B2 BG/B/ c>G | B2 AB/A/ F2- | F>G A>B A>c |1 cB B3 G :|2 cB B3"^B.O." z |]
+

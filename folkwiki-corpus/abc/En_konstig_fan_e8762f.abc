@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:En konstig fan
+C:Emil Olsson
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+N:"Komp och arr Emil Olsson 1980"
+L:1/16
+M:3/4
+K:Gm
+V:1
+|:"^1""^Polska" [G,D]4 (Bc)BA F2A2 | G2>B2 d4 g4 | (ga)gf (d2>B2) (3(cdc) (Bc) | d4 (de)dc A2F2 | 
+[G,D]4 (Bc)BA F2A2 | G2>B2 d4 g4 | (ga)gf (d2>B2) (cd)(cA) | (F2A2) [G,G]8 :: 
+[B,F]4 ([Fd]2[B,F]2) [Fe]2[Fd]2 | [A,Fd]4 (cd)cA F2A2 | [DB]4 G2>B2 d2g2 | (^fg)af [Dd]4 [Dd]4 | 
+[EB]4 ([Bg]2[EB]2) [Ba]2[Bg]2 | [DBf]4 (fg)fd B2d2 | (de)cA F2>A2 c2e2 | c2AF [G,G]4 [G,G]4 :| 
+V:2
+|:"^2" [G,D]4 (de)dc A2c2 | B2>D2 G4 B4 | (de)dB (!>![GB]2>!>![GB]2) [FA]2[FA]2 | 
+B4 (Bc)BA [^FA]2[DA]2 | [G,D]4 (de)dc A2c2 | B2>D2 G4 B4 | (de)dB (!>![GB]2>!>![GB]2) [FA]2[FA]2 | 
+(A2F2) [B,D]8 :: [DB]4 ([Bf]2[DB]2) [Bg]2[Bf]2 | [Af]4 (fg)fe c2[FA]2 | G,4 B,2>D2 G2B2 | 
+(AB)cA [^FA]4 [FA]4 | [G,E]4 ([EB]2[G,E]2) [Ec]2[EB]2 | [B,FB]4 (Bc)BF D2F2 | (Ac)AF C2>F2 A2c2 | 
+A2FD [B,D]4 [B,D]4 :|
+

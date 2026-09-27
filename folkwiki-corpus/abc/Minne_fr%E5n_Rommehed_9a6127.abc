@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Minne från Rommehed
+T:Polkaslunga från Södra Dalarna
+S:Ingvar Norman
+O:Säter, Dalarna
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polka-slunga från Södra Dalarna. Trad. Ingvar Norman, Säter"
+L:1/8
+M:2/4
+K:G
+V:1
+"^1" d/ |:{de} dB{de} dB | bg g/f/e | dA/B/ cA/F/ | GB d>d | 
+{de} dB{de} dB | bg g/f/e | dA/B/ cA/F/ |1 GG G3/2 d/ :|2 GG G2 |:
+[K:D] DF Ad | fa a/f/d | cg g/e/c | da a/f/d | 
+DF Ad | fa a/f/d | c>g g/e/c | d2 d2 ::
+[K:G]{a} g2 B>d | (d/c/)B/c/ A2 | (D/F/)A/d/ fa | (g/f/)g/b/ d2 |
+{a} g2 B>d | (d/c/)B/c/ A2 | (D/F/)A/d/ fa | gg g2 :| 
+V:2
+"^2" B/ |:"G"{Bc} BG{Bc} BG | dB B/A/G | "D7" AF/G/ AF/D/ | "G" B,G B>B |
+{Bc} BG{Bc} BG | dB B/A/G | "D7" AF/G/ AF/D/ |1 "G" [B,D][B,D] [B,D]3/2 B/ :|2 "G" [B,D][B,D] [B,D]2 |:
+[K:D]"D" A,D FA | df f/d/A | "A7" Gc c/A/G |"D" Fd d/A/F | 
+A,D FA | df f/d/A |"A7" G>c c/A/G |"D" [FA]2 [FA]2 :: 
+[K:G]"G"{c} B2 G>B | "D7" (B/A/)^G/A/ F2 | (A,/D/)F/A/ dc | "G" (B/A/)B/d/ [GB]2 |
+{c} B2 G>B | "D7" (B/A/)^G/A/ F2 | "^Stämförslag B.O." (A,/D/)F/A/ dc | "G" [GB][GB] [GB]2 :|
+

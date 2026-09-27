@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals av Ingels Jan
+R:Vals
+O:Stora Skedvi, Dalarna
+C:Ingels Jan Andersson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Vals från Södra Dalarna av Ingels Jan Andersson, Stora Skedvi."
+L:1/8
+M:3/4
+K:G
+V:1
+"^1"u d2 |: (gd) (dB) BG | D2 FA c2 | d2u c2u c2 | c4 A2 | (af) (fd) dc | A2 Bc d2 | e2u d2u d2 | 
+B4 d2 | (gd) (dB) BG | D2 FA c2 | d2u c2u c2 | c4 A2 | (af) (fd) dc | (gd) (dB) BG | (DF) (Ae) cA |1 
+G4 d2 :|2[K:C] G4 (Gc) |: e3 ^fed | c2u G2u E2 | ^F2u A2u c2 | G2u E2u C2 | e3 ^fed | c2u G2u E2 |1 
+^F2u A2u c2 | G2u E2u G2 :|2 (GA) (Bc) dB |[K:G] c4 (cd) |: (cB) (Bd) dg | B2u G2u G2 | (cB) (Bd) gB | 
+c2u A2u A2 | (AF) (FA) Ad | f2u d2u d2 | (fc) (cf) af | g2 B2 Bd | (cB) (Bd) dg | B2u G2u G2 | 
+(cB) (Bd) gB | c2u A2u A2 | (AF) (FA) Ad | f2u d2u d2 | (fg) (fd) fa |1 g4 (cd) :|2 g4 |] 
+V:2
+"^2"u B2 |: (dB) (BG) GD | A,2 DF A2 | B2u A2u A2 | F4 F2 | (fd) (dB) BA | F2 GA B2 | 
+c2u B2u B2 | G4 B2 | (dB) (BG) GD | A,2 DF A2 | B2u A2u A2 | F4 F2 | (fd) (dB) BA | 
+(dB) (BG) GD | (A,D) (FA) FD |1 B,4 B2 :|[K:C] B,4 (B,E) |: G3 AG^F | E2u C2u G,2 | 
+A,2u C2u ^F2 | E2u C2u G,2 | G3 AG^F | E2u C2u G,2 |1 A,2u C2u ^F2 | 
+E2u C2u E2 :|2 (B,D) (^FG) FD |[K:G] E4 (E^F) |: (ED) (DG) GB | D2u B,2u B,2 | 
+(ED) (DG) BD | E2u C2u C2 | (CA,) (A,C) CF | A2u F2u F2 | (cA) (Ac) cA | B2 G2 GB | 
+(ED) (DG) GB | D2u B,2u B,2 | (ED) (DG) BD | E2u C2u C2 | (CA,) (A,C) CF | 
+A2u F2u F2 | (AB) (AF) Ac |1 B4 (EF)"^B.O." :|2 B4 |]
+

@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T:Fredriks vals
+R:Vals
+O:Trässberg, Lidköping, Västergötland
+B:Spelmansmusik
+M:3/4
+L:1/8
+K:G
+"G"(GF) (GB) (dg)|"D"(gf) (af) d2|(a^g) (ba) (fa)|"G"(ag) (bg) (dB)|
+"G"(GF) (GB) (dg)|"D"(gf) (af) d2|(a^g) (ba) (fa)|"G"g2 g4:|
+|:"C"c2 (cd) (3(cdc)|"G"B2 (Bd) (3(BdB)|"D"(dc) (Ad) (fa)|"G"(ag) (bg) d2|
+"C"c2 (cd) (3(cdc)|"G"B2 (Bd) (3(BdB)|"D"(dc) (Ad) (fa)|"G"g2 g4:|
+

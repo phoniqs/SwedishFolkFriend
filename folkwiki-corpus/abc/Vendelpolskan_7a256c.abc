@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Vendelpolskan
+C:Viksta-Lasse
+R:Polska
+O:Uppland
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1""^Vendelpolskan"v"G" B2 (G>B) d>c |"D7" A2 (A>c) e>d |"G" (d>B) (G>B) d>c | "D7" (A<F) D4 |
+"G" B2 (G>B) d>c | "D7"A2 (A>c) e>d | "G" (d>B) (G>B) d>c | "D7" (A<F) "G"G3 z :: 
+"G"v g2 (g>B) d>c | "Am" e2 (e>A) c>B | "D7" d2 (d>D) F>A | "G" c>B (G<B) d2 | 
+g2 (g>B) d>c | "Am" e2 (e>A) c>B | "D7" d2 (d>D) F>A |"D7" (c<B)"G" G3 z :: 
+"G" B,2 D2 D>D | "Am"C2 E4 | "D7" (D>F) (A>c) B>A | "G" G2 GB d2 | 
+B,2 D2 D>D | "Am"C2 E4 |"D7" (D>F) (A>c) B>A | "G" G2 G3 z :| 
+V:2
+|:"^2" G2 (D>G) B>A | F2 (F>A) c>B | (B>G) (D>G) B>A | (F<D) A,4 | G2 (D>G) B>A | 
+ F2 (F>A) c>B | (B>G) (D>G) B>A | (F<D) B,3 z :: B2 (B>G) B>E | 
+ c2 (c>E) A>E | F2 (F>A,) D>F | A>G (D<G) B2 | B2 (B>G) B>E | c2 (c>E) A>E | 
+ F2 (F>A,) D>F | (A<G) B,3 z :: G,2 B,2 B,>B, | G,2 C4 | (A,>D) (F>A) G>D | 
+ B,2 B,G B2 | G,2 B,2 B,>B, | G,2 C4 |  (A,>D) (F>A) G>D |  "^Stämförslag B O." B,2 B,3 z :|
+

@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Leksands skänklåt
+O:Leksand, Dalarna
+R:Skänklåt
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:2/4
+K:Dm
+V:1
+|:"^1" a2a=b a2^fd | g2gaT g2ec | c2f2T f2ed |[M:3/4] ^c2ec A6 A2 |[M:2/4] a2a=b a2^fd | 
+g2gaT g2ec | c2f2T f2ed |[M:3/4] ^c2ec d6 A2 ::[M:2/4] (A2f2)T f2ed | (d2e2) e2cA | (A2d2)T d2c=B |
+"^dr" c2ec A4 | (A2f2)T f2ed | (d2e2) e2cA | (A2d2)T d2c=B | "^dr" c2ec A4 | (A2f2)T f2ed | 
+g2gaT (ge)fg | a2ab a2ab | (ag)fe d2ag | f2ed (ed)c2 |1 d6 A2 :|2 d6 e2 |: 
+f2agT f2ed | (cd)cB (AB)AG | F2>(G2 FE)D^C | (DE)FG A4 | f2agT f2ed | 
+(cd)cB (AB)AG | F2>(G2 FE)D^C | (DE)FG A4 |{afe} f2ed (ed)c2 | d8 :| 
+V:2
+|:"^2" ^f2fg f2d=B | e2ef e2cA | A2d2 d2^c=B |[M:3/4] A2^cA E6 E2 |[M:2/4] ^f2fg f2d=B | 
+e2ef e2cA | A2d2 d2^c=B |[M:3/4] A2^cA [FA]6 F2 ::[M:2/4] (F2d2) d2^c=B | (=B2^c2) c2AE | 
+(F2=B2) B2AG | A2cA E4 | (F2d2) d2^c=B | (=B2^c2) c2AE | (F2=B2) B2AG | A2cA E4 | (F2d2) d2c=B | 
+e2ef (ec)de | f2fg f2fg | (fe)dA F2fe | d2AF (GF)E2 |1 [FA]6 F2 :|2 [FA]6 ^c2 |: 
+d2fe d2cB | (AB)AG (FG)FE | D2>(E2 D^C)A,G, | (A,^C)DE C4 | d2fe d2cB | 
+(AB)AG (FG)FE | D2>(E2 D^C)A,G, | (A,^C)DE [CE]4 |"^Stämförslag B.O." d2AF (GF)E2 | [FA]8 :|
+

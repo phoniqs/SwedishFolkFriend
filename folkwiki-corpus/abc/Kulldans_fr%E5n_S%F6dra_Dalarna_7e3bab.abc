@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T:Kulldans från Södra Dalarna
+O:Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Svenska Folkdanser del 2 sidan 21"
+L:1/8
+M:3/4
+K:Gm
+V:1
+"^1""^Förspel" d2 B2 AG | F2 G3 z |]:[K:Bb][M:3/4][K:treble]"^Dans" d>e d2 c2 | (B>A) G3 ^F | 
+G>(A B>)(A B>)^c | ^cd d4 :| G>A (A>B) d>B | B>A (A>G) G>F | 
+G>A (A>B) d>B | B>A (A>G) G>F | d2 B2 A>G | F2 G4 |] 
+V:2
+"^2" B2 G2 DC | A,2 [B,D]3 z |]:[K:Bb][M:3/4][K:treble] B>c B2 A2 | G>D B,3 A, | 
+B,>(D G>)(^F G>)E | E^F [FA]4 :| B,>D (D>G) B>"^Spelas önskat antal ggr."G | D>C (C>B,) B,>A, | 
+B,>C (C>D) G>D | D>C (C>B,) B,>A, | B2 G2"^Stämförslag B.O." D>C | A,2 [B,D]4 |]
+

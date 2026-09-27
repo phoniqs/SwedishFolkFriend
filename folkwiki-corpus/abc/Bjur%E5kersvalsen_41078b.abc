@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Bjuråkersvalsen
+C:Per Söderqvist
+O:Bjuråker, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Per Söderqvist"
+L:1/8
+M:3/4
+K:C
+V:1
+"^1"u EF^F |:v G2 (G^F) G^G | A2 (c2 f2) | e2 (e^d) ec | G4 e2 | d2 (d^c) dB | G4 d2 | e2 (e^d) ec | G3 EF^F | 
+G2 (G^F) G^G | A2 (c2 f2) | e2 (e^d) ec | G4 e2 | d2 (d^c) de | f2 (e2 d2) | c3 c c2 |1 c3u EF^F :|2 c3u cB_B |:v 
+A2 (A^G) AB | c3 cBA | G2 (GF) EF | G3 GAG | F2 (FE) DE | F3 FGF | E2 (ED) EF | G3 cB_B | A2 (A^G) AB | 
+c3 cBA | G2 (GF) EF | G3 GAG | F2 (FE) DE | F2 (E2 D2) | C3 c c2 |1 c3u cB_B :|2 c3u EF^F | c3 cB_B |: 
+[K:F]v A2 (B2 =B2) | c2 f3u e | d2 (gf) ed | c4 c2 | (BA) (G^F) GA | B4 B2 | (AG) (FG) AB | c3 c=B_B | 
+A2 (B2 =B2) | c2 f3u e | d2 (gf) ed | c4 c2 | (BA) (G^F) GA | B2 (A2 G2) | F3 f f2 |1 f3u c=B_B :|2[K:C] f3 |] 
+V:2
+"^2" CD^D |:"C" E2 (E^D) E^E |"F" F2 (F2 A2) |"C" G2 (G^F) GE | [CE]4 G2 |"G7" F2 (FE) FD | [_B,D]4 F2 |"C" G2 (G^F) GE | 
+[CE]3 CD^D | E2 (E^D) E^E |"F" F2 (F2 A2) |"C" G2 (G^F) GE | [CE]4 G2 |"G7" F2 (FE) FG | A2 (G2 F2) |"C" E3 E E2 |1 E3 CD^D :|2 E3 A^G=G |:
+"F" F2 (FE) FG | A3 AGF |"C" E2 (ED) CD | E3 EFE |"G7" D2 (DC) _B,C | D3 DED |"C" C2 (C_B,) CB, | "C7" [_B,E]3 A^G=G |
+"F" F2 (FE) FG | A3 AGF |"C" E2 (ED) CD | E3 EFE |"G7" D2 (DC) _B,C | D2 (_B,2 G,2) |"C" E3 E E2 |1 E3 A^G=G :|2 E3 CD^D | E3"F" A^G=G |:
+[K:F] F2 (G2 ^G2) | A2 c3 A | "Bb" B2 Bd cB |"F" A4 A2 |"C7" (GF) (E_E) =EF | G4 G2 |"F" (FC) (A,C) FG | A3 A^G=G | F2 (G2 ^G2) | 
+A2 c3 A |"Bb" B2 Bd cB |"F" A4 A2 |"C7" (GF) (E_E) =EF | G2 (E2 C2) | "F"  A,3 [FA] [FA]2 |1 "^Arr. B.O." [FA]3 A^G=G :|2[K:C] [FA]3 |]
+

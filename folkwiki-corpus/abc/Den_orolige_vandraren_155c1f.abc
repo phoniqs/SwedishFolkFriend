@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Den orolige vandraren
+C:Wiktor Öst
+O:Bergsjö, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:Arr. Johan Hall
+L:1/16
+M:2/4
+K:Cm
+V:1
+|:"^1""^Gånglåt" (ge)ce (dc)=Bd | (c=B)cA G4 | A2FA (cA)FA | G8 | G,2[F=B]D [Fd]4 | 
+G,2[Ec]G [Ge]4 |1 [cf]2>[cf]2 [cf]2[cf]2 | [=Bg]8 :|2 (ed)ce (dc)=Bd | [Ec]2[Ec]2 [Ec]4 |: 
+(BD)FG (AB)cB | (Bc)de f2[AB]2 | (cE)Gc (c=E)Gc | (cF)Ac [cf]2[Ac]2 | 
+(B,A,)B,C (DE)FD | (EF)GA (=AB)cB | (Bc)de (fg)af | [Ge]2[Ge]2 [Ge]4 :: 
+(BA)FD (=A,B,)DF | (ED)EF G4 | ([G,D=Bg]f)dB (GF)DF | (ED)CD [G,E]4 | 
+(BA)DA (BG)EG | (cG)=EG [A,F]4 | (B,=A,)B,C (DE)FD |1 (EF)GA (=AB)cB :|2 E2[B,G]2 [G,E]4 |] 
+V:2
+|:"^2" (ec)Gc [F=B]4 | (AG)AF [G,E]4 | F2CF (AF)CF | [=B,D]8 | =B,2DB, [G=B]4 | 
+C2GE [Ec]4 |1 [Ad]2[Ad]2 [Ad]2[Ad]2 | [Gd]8 :|2 (GF)EG (FE)DF | [G,E]2[G,E]2 [G,E]4 |: 
+(AB,)DE (FG)AG | (GA)FA [DB]2[DF]2 | [CE]4 [C=E]4 | [CF]4 [CF]4 | 
+(DC)DE (FG)AF | (B,D)EF (^FG)AG | A2Bc (de)fd | [EB]2[EB]2 [EB]4 :: 
+(dc)AF (DE)FA | (GF)GA [G,D=B]4 | [=B,Gd]2=BG (FD)B,D | (GF)EF [CG]4 | 
+(FD)B,D (GE)B,E | (G=E)CE [CA]4 | (DC)DE (FG)AF |1 (B,D)E"^Arr. Johan Hall."F (^FG)AG :|2 [B,G]2[GB]2 [B,G]4 |] 
+

@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:135
+T:Gånglåt av Pelle Schenell
+T:(SvL Hälsingland 135)
+C:Pelle Schenell
+O:Gnarp, Hälsingland
+R:Schottis
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 6. Schottis Gånglåt av Pelle Schenell.  Sv.L. nr.135"
+N:Även kallad Kyrkschottis
+B:Svenska Låtar Hälsingland Nr 135
+L:1/4
+M:2/2
+K:Gm
+V:1
+|:"^1""^Långsamt" g d (d/c/)B/A/ | (B/A/)G/^F/ G (G/A/) | B B c B/c/ | d d A2 | 
+g d (d/c/)B/A/ | (B/A/)G/^F/ G (G/A/) | B B A G/^F/ | G G G z ::
+[K:F] d d (^c/A/)=B/c/ | (d/^c/)d/e/ f d | e e ^c c | d/^c/d/e/ c A | 
+d d (e/^c/)d/e/ | f f (g/e/)f/g/ | a a a (^c/e/) | d d d z :: 
+[K:Bb] D G A (B/G/) | D A B (c/A/) | d d A (A/B/) | G (G/A/) ^F D | 
+D G A (B/G/) | D A B (c/A/) | d d d (^F/A/) | G G G z :| 
+V:2
+|:"^2" d B (B/A/)G/^F/ | (G/^F/)D/C/ B, (B,/D/) | G G A G/A/ | ^F F D2 | 
+d B (B/A/)G/^F/ | (G/^F/)D/C/ B, (B,/D/) | G G ^F D/C/ | B, B, B, z ::
+[K:F] F F (E/^C/)D/E/ | (F/E/)F/G/ A F | ^c c A G | F/E/F/G/ E ^C | 
+F F (G/E/)F/G/ | A A (B/G/)A/B/ | ^c c c (A/G/) | F F F z :: 
+[K:Bb] A, D ^F (G/D/) | B, D G (A/^F/) | ^F F D (D/F/) | B, (B,/C/) A, A, | 
+A, D ^F (G/D/) | B, D G (A/^F/) | ^F F F (D/C/) |"^B.O." B, B, B, z :|
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Gås-Anders
+S:Efter Gås-Anders
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1" (3(GFG) (E>G) c>B | (B>A) A>F A2 | f>(d B>G) B>d | g>(e c>)G c2 | 
+(3(GFG) (E>G) c>B | (B>A) A>F A2 | f>(d B>g) B>g | (c/d/c/B/) c3 z :: 
+e>c (3ece g2 | c>B (B<A) f2 | d>(B G>g) B>d | c>G (E<G) c2 | 
+e>c (3ece g2 | c>B (B<A) f2 | d>(B G>g) B>d | (d/c/d/B/) c3 z :| 
+V:2
+|:"^2" (3(EDE) (C>E) A>G | (G>F) F>C F2 | d>(B G>D) F>A | e>(c G>)E G2 | 
+(3(EDE) (C>E) A>G | (G>F) F>C F2 | d>(B G>B) G>B | (E/F/E/D/) E3 z :: 
+c>G (3cGc e2 | A>G (G<F) d2 | B>(G D>B) G>F | E>E (C<E) E2 | 
+c>G (3cGc e2 | A>G (G<F) d2 | "^Stämförslag B.O." B>(G D>B) G>F | (F>D) E3 z :|
+

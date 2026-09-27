@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Säbb-Johns snoa
+T:(andrastämman)
+S:John Säbb
+O:Rättvik, Dalarna
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Uppt. [[Personer/Pontus Berggren]]"
+L:1/16
+M:2/4
+K:Am
+V:2
+|:"^2" A,2G,A, C2A,C | F2CF A4 | f2>e2 dcBA | A2GF G2E2 | C2G,C E2CE | 
+G2FG B4 | e2>d2 cGBc |  AGAB c2>E2 | A,2G,A, C2A,C | F2CF A4 | 
+f2>e2 dcBA | B2>F2 B4 | B2FB d2cB | A2FA c4 | cdcB G2AB |
+ AGAB c2>A2 | B2FB d2cB | A2FA c4 | cdcB G2AB | A2A2 A4 :: 
+ FBdB (FB)dB | FAcA (FA)cA | cdcB G2AB | AGAB c2>A2 |
+ FBdB (FB)dB | FAcA (FA)cA | cdcB (GE)CB, | A,2A,2 A,4 ::
+[K:Bb] g2>f2 e2d2 | B2>F2 D2B,2 | DA,B,C (DE)FG | F2EF E4 | g2>f2 e2d2 |
+c2>A2 F2C2 | CDEF (GA)Bc | edcd B4 | g2>f2 e2d2 | B2>F2 D2B,2 | DA,B,C (DE)FG | 
+F2EF E4 | B,EGB (eg)fe | dfdB F4 | EFAB (cA)FE | "^B.O." D2D2 D4 :|
+

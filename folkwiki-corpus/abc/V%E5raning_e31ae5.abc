@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Våraning
+T:Senpolska
+C:Tage Nilsson
+O:Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Komp. och arr. Tage Nilsson
+L:1/8
+M:3/4
+K:Gm
+V:1
+(g |: (3^f)af d3 c | B>G A3 D | G>(^F G)(A B)d | c<=e d3 g | 
+(3^fag d3 c | B>d A3 c | B>(A G2) B>A |1{^FE} F2 G3 g :|2{^FE} F2 G4 |:
+[K:G] =F>E FA c_e | _e>d _B2 d2 | ^c>e g_b ag | g<a f4 | 
+g>d Bc ed | d>B G2 B2 | B>c AD FA | cB G3 z :| 
+V:2
+d |:"D7" (3cec A3 D |"Gm" G>D"D" ^F3 A, |"Gm" B,>(A, B,)(D G)B |"Am" [CE]2 "D" [^FA]3 d | 
+"D" (3ce"Gm"d B3 A |"Gm" G>B"Cm" E3 A |"Gm" G>(D B,2) G>D |1 "D7" [A,D]2 "Gm" [B,D]3 d :|2 "D7"A,2"Gm" [B,D]4 |:
+[K:G]"F" A,>(G, A,C) =FA |"Bb" c>_B D2 B2 |"A7" E>(A ^cg) fe |"D" (e<f) d4 | 
+"G" d>(B GA) cB |"G" B>G D2 G2 |"D7" G>(A FA,) DF |"D" (AG)"G" [G,D]3 z :| 
+

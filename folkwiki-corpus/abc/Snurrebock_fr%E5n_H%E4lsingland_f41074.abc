@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Snurrebock från Hälsingland
+R:Polska
+O:Hälsingland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 40. Snurrebock"
+L:1/8
+Q:1/4=116
+M:3/4
+K:D
+V:1
+"^1" A |: d>(f e>)(f d>)D | F>(A G>)(B A2) | D>F A>(G B>)G | E>C D2 A,2 | 
+d>f e>(f d>)D | F>(A G>)(B A2) | D>F A>(G B>)G |1 E>C D3 A :|2 E>C D3 z |
+"^Långsamt"[Q:1/4=84] d2 B4 | A2 F3u G | E>F D3 z |"^á tempo"[Q:1/4=116] d>e f2 fe/f/ | g2 e2 c>A | 
+d>e f2 fe/f/ | g2 e4 | "^Långsamt"[Q:1/4=84] d2 B4 | A2 F3u G | E>F D3 z |] 
+V:2
+"^2" D |: F>d c>(d A>)A | D>(F E>)(G F2) | A,>D F>(E G>)E | C>A, A,2 D2 | 
+F>d c>(d A>)A | D>(F E>)(G F2) | A,>D F>(E G>)E |1 C>A, A,3 D :|2 C>A, A,3 z | 
+B2 G4 | F2 D3u E | C2 [A,F]3 z | F>A d2 dc/d/ | e2 c2 A>E | F>A d2 dc/d/ | 
+e2"^Spelas till dans önskat antal ggr." c4 | B2 G4 | F2 D3u E | C2"^B.O." [A,F]3 z |]
+

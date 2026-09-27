@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:1
+T: Eslövskadriljen
+R:Kadrilj
+S:efter Åke Persson, som har den efter inspelningar med Sven Thörn i Eslöv och Frans Olsson i Skarhult
+Z: Skåning
+O: Trad, Skåne
+M:2/4
+L:1/8
+K:G
+D |G2 B>c | d2 g2| fa ef | gb1/2g1/2 dB | G2 B>c | d2 g2| fa ef | g3  :|
+|: d | e>d cA | Bc d2 | AB c1/2B1/2A |Be dd | ed cA | Bc d2 | AB c1/2B1/2A |G3 :|
+|:[K: D] g| g1/2f1/2e g1/2f1/2e | fd1/2d1/2 df | eA1/2A1/2 A1/2c1/2e1/2c1/2 | df aa | (3gfe g1/2f1/2e | fd1/2d1/2 df | eA A1/2c1/2e1/2c1/2 | d3 :|
+|: [K: G] g| f>e d>c | BA GB |AD D1/2F1/2A1/2F1/2 | GB dg | f>e d>c | BA GB |AD D1/2F1/2A1/2F1/2 | G3 :|
+

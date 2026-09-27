@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis från Transtrand
+S:Efter Carl Gudmundsäter
+O:Transtrand, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Schottis från Transtrand (1)"
+L:1/16
+M:2/4
+K:Dm
+V:1
+|:"^1" A>=B^cd e2ef | d2de ^c2c2 | A>=B^cd e2ef | g>(ag/f/g) a4 | 
+A>=B^cd e2ef | d2de ^c2c2 | d>efg a>ge^c | d2d2 d4 ::
+{ab} a>gef g4 |{fg} a>fde f4 | e>^cAc e>cAc | d>efg a4 |
+{ab} a>gef g4 | {fg} a>fde f4 |{ef} e>^cAc e>cAc | d2d2 d4 :| 
+V:2
+|:"^2" E2EF G2GA | F2FG E2E2 | E2EF G2GA | B2B2 ^c4 | 
+E2EF G2GA | F2FG E2E2 | F>Ade f>e^cA | F2F2 F4 :: 
+f>e^cd e4 | f>dA^c d4 | ^c>AEA c>AEA | F>Ade f4 | 
+f>e^cd e4 | f>dA^c d4 | ^c>AEA c>AEA | "^Stämförslag B.O." F2F2 F4 :|
+

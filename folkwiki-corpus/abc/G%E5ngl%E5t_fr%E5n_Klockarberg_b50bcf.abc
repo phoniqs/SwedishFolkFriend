@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Klockarberg
+T:efter Kungs Levi Nilsson
+R:Gånglåt
+O:Klockarberg, Dalarna
+S:Kungs Levi Nilsson
+Z:Karin Helander
+N:Från not på Dalarnas spelmansförbunds hemsida 2023: https://www.dalarnasspelmansforbund.se/allspelslatar
+N:"Gånglåt från Klockarberg (Ovanlig marsch)"
+M:4/4
+L:1/16
+Q:100
+K:C
+V:1
+E2 | (A^G)AB (cB)cd (ef)ec A2AB | c2cA !uppermordent!(BA)^GB A6 E2 | (A^G)AB (cB)cd (ef)ec A2AB | 
+c2cA !uppermordent!(BA)^GB A6 E2 | (A^G)AB (cB)cd (ec)e^f =g2eg | a2ag !uppermordent!^f2ed e6 (ea) || [K:A]
+|: !trill! f2eg b2ag (ab)ag (af)ed | (ce)cA (Bd)BG (A!lowermordent!B)cd e2ea | 
+!trill! f2eg b2ag (ab)ag (af)ed |1 (ce)cA !uppermordent! BAGB A6 (ea) :|2 (ce)cA !uppermordent! (BA)GB A6 |]
+

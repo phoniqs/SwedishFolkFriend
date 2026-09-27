@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:24
+T:Långpolska efter Korpen
+O:Hassela, Hälsingland
+R:Polska
+S:Katrina Lundstedt
+S:Otôrgs-KaisaAbrahamsson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA 24. Långpolska efter Korpen"
+Z:"Uppt. OKA -86. Stämförslag B.O. -08."
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/16
+M:3/4
+K:D
+V:1
+"^1" (3(ABc |: d2)(AF) (DF)Ac d4 | (Bd)BG (EG)Bd c2>B2 | (A^G)AB (cd)e=g (fd)fa | 
+(gf)ge (dc)dA (GF)ED | d2(AF) (DF)Ac d4 | (Bd)BG (EG)Bd c2>B2 | 
+(A^G)AB (cd)e=g (fd)(fa) |1 (gf)ge [Dd]6 z2 :|2 (gf)ge [Dd]6 dc |: 
+B2b2{b} a2^ga (fa)fd | G2a2 g2fg (eg)ec | (A^G)AB (cd)e=g (fd)fa | 
+(gf)ge (dc)dA (GF)EF | D2b2{b} a2^ga (fa)fd | G2a2 g2fg (eg)ec | 
+(A^G)AB (cd)e=g (fd)(fa) |1 (gf)ge d6 dc :|2 gfge d6 z2 |] 
+V:2
+"^2" D2 |: "D" F2>D2 A,2DE F4 |"Em" (G2>E2) B,2EG E2>D2 |"A7" C2>(D2 E2)FG"D" A2d2 | 
+"A7" (cB)AG"D" F2FE D2A,2 |"D"  F2>D2 A,2DE F4 |"Em" (G2>E2) B,2EG E2>D2 |
+"A7" C2>(D2 E2)FG"D" A2d2 |1 "A7" (cB)AG"D" F6 z2 :|2"A7" (cB)AG"D" F6 FE |:
+"G" D2g2"D" f2ef dfdA |"Em" E2f2 e2de BeBG | "A7" C2>(D2 E2)FG"D" A2d2 |
+"A7" (cB)AG"D" F2FE D2A,2 |"G" B2g2"D" f2ef dfdA |"Em" E2f2 e2de BeBG |
+"A7" C2>(D2 E2)FG"D" A2d2 |1"A7" (cB)AG"D" F6 FE :|2 "A7" (cB)AG"D" F6 z2 |]
+

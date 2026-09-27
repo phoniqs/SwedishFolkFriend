@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Schottis av Åker Erland Jonsson
+R:Polska
+O:Malung, Dalarna
+C:Åker Erland Jonsson
+Z:Karin Helander
+N:Från http://www.rudemex.co.uk/library/Scandinavian/Schottis%20av%20Aker%20Erland%20Jonsson.pdf
+N:Finns en annan variant hos Stefan Lindén: https://www.stefanlinden.se/L/schottis%20e%20Aker%20Erland%20Malung%20Da.pdf
+N:Och ytterligare en hos Karen Myers: https://bluerose.karenlmyers.org/media/trans/1354.pdf
+N:Kallas "Schottis från Grimsåker" här: https://gada.se/afnot.schgrimsaker.pdf
+M:4/4
+L:1/8
+K:Gm
+V:1
+|: "Gm" g2 ga g2 d2 | dedc d2 B2 | "D7" A2 Ac BAG^F | "Gm" GABc "D" d^cd^f | 
+"Gm" g2 ga g2 d2 | dedc "(Bb)" d2 B2 | "D7" A2Ac BAG^F | "Gm" G2 G2 G4 :| 
+|: "Gm" G2 GA "D7" G^F D2 | "Gm" B2 Bc BAGB | d2 de dcBA | GABA "D7" G2 D2 | 
+"Gm" G2 GA "D7" G^F D2 | "Bb" B2 Bc "Eb" BAGB | "D7" d2de dcBA | "Cm7" G2 G2 "Gm" G4 :|
+

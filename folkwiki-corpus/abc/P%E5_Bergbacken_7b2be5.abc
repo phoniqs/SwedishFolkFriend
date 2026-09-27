@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:På Bergbacken
+T:Snoa
+C:Lasse Bertilsson
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Lars Ove Bertilsson. Gånglåt - snoa"
+Z:Finns inspelad av Bröderna Bertilsson 2006, med kommentaren "komponerad i början av 1980 till en kompositionstävling".
+Z:https://www.youtube.com/watch?v=zd046Yoz9-8
+L:1/8
+M:2/4
+K:D
+V:1
+|:"^1"v"D" (D>F) (A/d/)f/a/ | (ba) (g/f/)e/d/ |"G" (B>A) (GF) |"Em" E3 D | "A7" (C>E) (Ac) | 
+(eA) (Bc) |"D" (d>e) "Bm" (f/e/)f/g/ | "Em" ab/a/ "A7" (g/f/)e/d/ | "D" (D>F)  (A/d/)f/a/ | (ba) (g/f/)e/d/ |
+"G" (B>A) (GF) |"Em" E3 D |"A7" (C>E) (Ac) | (eA) (Bc) | "D" d3/2(f/4g/4) "A7" a{fg}f | "D" d4 ::
+v "G" [G,DB]>G DB, | (G,B,) (D/G/)B/d/ | "D" [DA]>F DE | (FA)"Bm" (df) |"Em" [EBg]a/g/ eg/e/ | 
+"A7" ce/c/ A2 | "D" [DAf]a/f/"Am" df/d/ | "D7" Ad/A/ (FA) | "G" [G,DB]>G DB, | (G,B,) (D/G/)B/d/ | "D" [DA]>F DE | 
+(FA) "Bm" (df) | "Em" [EBg]a/g/ eg/e/ | "A7" ce/c/ (Ac) | "D" d3/2(f/4g/4)"A7" a{fg}f |"D" d4 :: 
+[K:F]v "Dm" ([DA]/a/)(^g/a/) ([DA]/f/)e/f/ | ([DA]/d/)(^c/d/) (D/A/)(F/A/) | "Gm" G>A BA | G2 F2 |"A7" E[EA]/[EA]/u ([EA]u[EA]) | 
+A[^ce]/[ce]/u ([ce]u[ce]) |"Dm" (d>e) f/e/f/g/ |"A7" ab/a/ (g/f/)e/d/ |"Dm"  ([DA]/a/)^g/a/ ([DA]/f/)e/f/ | ([DA]/d/)^c/d/ (D/A/)(F/A/) | 
+"Gm" G>A BA | G2 [GB]2 | "A7" A>^c eg | f2 e2 |"D"  d3/2(^f/4g/4)"A7" a{fg}f |"D" [Dd]4 :|
+

@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Enånger
+C:Johan Enström
+O:Enånger, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+K:Bb
+V:1
+|:"^1"vv B,2>F2 D2B,2 G2D2 | F2ED E2G2 C4 | (A,C)FA (c=B)cd (ec)AF | (Bc)de f2b2 f2d2 | 
+B,2>F2 D2B,2 G2D2 | F2ED E2G2 C4 | (A,C)FA (c=B)cd (ec)(AF) | (AB)cA B8 :: 
+vv f2>b2 f2d2 B2cd | e2G2 B2E2 G4 | F2>G2 A2B2 c2F2 | B,2DF (B2F2) d2B2 | 
+f2>b2 f2d2 B2cd | e2G2 B2E2 G4 | F2>G2 A2B2 c2F2 | (AB)cA B8 :: 
+vv [EB]2[Bg][Bg]uu [Bg]2uu[Bg]2 [Bg]2[Bg]2 | (EB)(gB) (EB)(gB) (EB)(gB) | (g^f)ga (ba)g=f d2B2 | (DB)(fB) (DB)(fB) (DB)(fB) | 
+(gf)ed (ed)cB (AB)(cA) | (A,F)(cF) (A,F)(cF) (A,F)(cF) | (ed)cB"^Stämförslag B.O." (AB)cA (FA)cA | B4 B8 :| 
+V:2
+|:"^2" D4 F4 D2B,2 | D2C=B, C2E2 [G,E]4 | E2>C2 E2F2 A2F2 | D2>F2 B2d2 B2F2 | 
+D4 F4 D2B,2 | D2C=B, C2E2 [G,E]4 | E2>C2 E2F2 A2F2 | (C2E2) D8 :: 
+d4 B4 _A2F2 | G4 E2G,2 C4 | A,2>C2 F2G2 F2E2 | D4 (F2D2) B2F2 |
+ d4 B4 _A2F2 | G4 E2G,2 C4 | A,2>C2 F2G2 F2E2 | (C2E2) D8 :: 
+G2ee e2B2 G2E2 | (B,G)(eG) (B,G)(eG) (B,G)(eG) | B2>d2 e2d2 B2F2 | (B,F)(dF) (B,F)(dF) (B,F)(dF) | 
+e2>=B2 c2A2 F2E2 | (CE)(AE) (CE)(AE) (CE)(AE) | A2>G2 F2E2 C2E2 | D4 D8 :|
+

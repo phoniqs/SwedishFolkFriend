@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Lima
+T:(Norsk mazurka)
+S:Lars Wilhelm Johansson
+O:Lima, Dalarna
+R:Mazurka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Lima (5) eft. Lars V. Johansson."
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1""^\"Norsk mazurka\""{AB} A>(G F>)(A d>)f | g>(e c>)(d e>)f | g>(a g>)(f e>)d | (3(cBc) A>(G F5/4)A/4 | 
+A>(G F>)(A d>)f | g>(e c>)(d e>)f | g>(a g>)(f e>)d | (3(cBc) d4 :: 
+d>f{f} a2 d2 |({cd} c>B) A4 | c>(e g>)(f e>)d | (c/d/c/B/) A>(G F>)A | 
+d>f a2 a2 | (a/b/a/f/) g3 f | e>(d c>)(A B>)c |{c} d2 d4 :| 
+V:2
+|:"^2" F>E D>(F A>)d | e>c A>(B c>)d | e>f e>(d c>)B | (3AGA F>(E D5/4)F/4 | 
+F>E D>(F A>)d | e>c A>(B c>)d | e>f e>(d c>)B | (3AGA F4 :: 
+F>d f2 B2 | A>G E4 | A>c e>(d c>)B | A/B/A/G/ F>(E D>)F |
+A>d f2 f2 | f/g/f/d/ e3 d | c>(B A>)(E G>)A | "^Stämförslag B.O." F2 F4 :|
+

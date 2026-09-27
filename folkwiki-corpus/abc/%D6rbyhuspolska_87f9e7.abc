@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Örbyhuspolska
+S:Ceylon Wallin
+R:Polska
+O:Örbyhus, Uppland
+Z:Karin Helander
+N:"Ceylon har polskan efter "Knyppel-Pelle: Pelle Pettersson i Knypplan. Noterad av John O."
+L:1/8
+M:3/4
+K:G
+V:1
+v (B | "G"d>)(d B2) G>B | e>(!uppermordent!d B2) B>B | d>(!uppermordent!d B2) G>B | "D"(d>B{dB}) A2 A z | 
+u (A>B) A2 (F>A) | d2 d2 z d/d/ | (f>e) (d>c) BA |1 "G" G2 uG2 z (vB :|2  "G" G2 uG2 z2 || 
+v "G" D2 (D<B,) D>G | B2 !trill! (B>A) G>F | "C" E2 (E<C) E>G | c2 (!uppermordent!c!uppermordent!B) A>G | 
+"D" F2 (F>G) F>E | !trill! E<D D3 z | v (B,>C) (D>E) D>C | "G" (C<B,) B,3 z | 
+v D2 (D<B,) D>G | B2 !trill! (B>A) G>F | "C" E2 (E<C) E>G | c2 (!uppermordent!c!uppermordent!B) A>G | 
+"D" F2 (F>G) F>E | E<D D3 z | "G" (D>B,) (DG) "D" B>A | "G" (A<G) G3 z/ (B/ | 
+|: "G" d>)(d{Bd} B2) G>B | {B}d>(d{Bd}B2) B>B | "C" C2 c2 c>c | {c}e>(e{ce}c2) c>D | 
+"D" (D>F) F2 D>F | A>(A F2) F>D | D>D (3 (EDE) (3 (FEF) |1 "G" G2 uG3 z/ v(B/ :|2 "G" G2 uG3 |]
+

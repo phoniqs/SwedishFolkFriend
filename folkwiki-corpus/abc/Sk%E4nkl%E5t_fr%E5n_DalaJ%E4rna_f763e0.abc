@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Skänklåt från Dala-Järna
+S:Olof Goth
+O:Boda, Dalarna
+R:Skänklåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Olof Goth, Boda"
+L:1/16
+M:2/4
+U:t=tenuto
+K:D
+V:1
+"^1" DF |: A2AGT B2AG | F2>A2 d2f2 | e2>d2T c2Ac |1 d6 DF :|2 d6 A2 |: 
+d2>e2 f2fd | [M:3/4] (eg)ec A6 F2 |[M:2/4] G2>A2 B2BG |[M:3/4] (Ad)AF D6 (DF) |
+[M:2/4] A2AG B2AG | F2A2 d2f2 | e2>d2T c2Ac |1 d6 A2 :|2 d6 A2 |: 
+(fa)fd (fa)fd | (ea)ec A4 | (Bd)BG (Bd)BG | (Ad)AF D4 | 
+(fa)fd (fa)fd | (ea)ec A4 | (Bd)BG (Bd)BG | (Ad)AF (tD2tA2) | 
+d2>c2 d2e2 | f4 (a2f2) | g2e2T c2(Ac) |1 d6 A2 :|2 d6 z2 |] 
+V:2
+"^2" A,D |: F2FE G2FE | D2>F2 A2d2 | c2>B2 A2G2 |1 [FA]6 A,D :|2 [FA]6 D2 |: 
+F2>A2 d2dA | [M:3/4] (ce)cA E6 D2 |[M:2/4] B,2>D2 G2GD |[M:3/4] (FA)FD A,6 (A,D) |
+[M:2/4] F2FE G2FE | D2F2 A2d2 | c2>B2 A2G2 |1 [FA]6 D2 :|2 [FA]6 F2 |: 
+(df)dA (df)dA | (ce)cA E4 | (GB)GD (GB)GD | (FA)FD A,4 | 
+(df)dA (df)dA | (ce)cA E4 | (GB)GD (GB)GD | (FA)FD (tA,2tF2) | 
+F2>E2 F2A2 | d4 (f2d2) | e2c2 A2G2 |1"^Stämförslag B.O." [FA]6 F2 :| [FA]6 z2 |]
+

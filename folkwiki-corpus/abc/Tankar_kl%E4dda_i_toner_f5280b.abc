@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:13
+T:Tankar klädda i toner
+O:Sandviken, Gästrikland
+C:Edvin Holmberg
+R:Visa
+Z:[[Personer/Bengt Ohlson]]
+B:Låtar för fiol av Edvin Holmberg
+L:1/8
+M:4/4
+K:G
+V:1
+|:"^1""^Tempo di Andante" B3 A G4 | (3B,DG cB A2 E2 | F3 E D2 D2 | c2 BA B4 | 
+B3 A G4 | (3B,DG cB A2 E2 | F3 E D4 | c2 BA G4 :: 
+(3GBd g>f f2 e2 | [ce]6 [Ec]2 | A3 B c3 A | f2 e2 d4 | 
+[Bg]2 [ca]2 [db]3 [db] | [=fd']3 [ec'] [ec']2 [ce]2 | [Af]3 e d4 | [ec']2 [db][ca] [Bg]4 :| 
+[Bg]2 [ca]2 [db]2 [=fd']2 | [ec']2 [ce]2 [Af]4- | [Af]2 g2 [Bg]4- | [Bg]4 z4 |] 
+V:2
+|:"^2""G" G3 D B,4 |"G" (3G,B,D AG"Am" E2 C2 |"D7" D3 C A,2 A,2 |"D7" A2 GF"G" G4 | d3 c B4 | 
+"G" (3DGB ed"Am" c2 A2 | "D7" A3 G F4 | "D7" e2 dc "G" [DB]4 ::"G" (3B,DG B>d"Am" d2 c2 |"Am" A6 A2 | 
+"D7" F3 G A3 F |"D7" d2 c2"G" B4 |"G" d2 e2"G7" =f3 f |"G7" d3 c"Am" c2 A2 |"D7" c3 A F4 | 
+"D7" c2 BA"G" G4 :|"^Stämförslag B.O.""G" G2 A2"G7" B2 d2 |"Am" c2 E2"D" D4 | "D7" C2 B,2"G" [B,G]4- |"G" [B,G]4 z4 |]
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Laggar Fars polska
+S:Laggar Anders
+O:Boda, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:A
+V:1
+"^1" (E | A2) (AB) c>d | e2 (e/f/)e/d/ c>e | a2{g} a2 A>c | e2 e3 (d | 
+c>)(B A>)(B c>)d | e2 (e/f/)e/d/ c>e | a2{g} a2 A>c | e2 e3 (g |]: 
+f>)(e f2) d>e | f2 d3 (f | a2) (e/f/)e/c/ A>c | e2 e3 (g | 
+f>e) (dc) B2- | B>(A B)(c d>)e | f2 (e/f/)e/c/ d>B |1 (B<G) A3 g :|2 (B<G) A3 z |] 
+V:2
+"^2" (A, | C2) (CE) A>B | c2 (c/d/)c/B/ A>c | c2 c2 E>A | c2 c3 (B | 
+A>)(E C>)(E A>)B | c2 (c/d/)c/B/ A>c | c2 c2 E>A | c2 c3 (e |]: 
+d>)(c d2) F>A | d2 F3 (d | c2) (c/d/)c/A/ E>A | c2 c3 (e | 
+d>c) (BA) G2- | G>(F G)(A B>)c | d2 (c/d/)c/A/ B>G |1 (G<E) C3 e :|2 "^Stämförslag B.O." (G<E) C3 z |]
+

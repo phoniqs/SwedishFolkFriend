@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Pariserpolka Nr 1
+O:Norge
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:2/4
+K:D
+V:1
+"^1""^Förspel"v "D" fe/f/ (gf) | "A7" ed cB | A^G/A/ (Bc) | "D" d2 d2 |]: [K:D][M:2/4][K:treble]"^Dans""D"v AB/A/ (FA) | 
+[Dd]2 [Dd]2 | AB/A/ (FA) |"A7" [EA]2 [EA]2 | "D" AB/A/ (FA) | (de) [Af]2 |
+"A7" ag/f/ ef/e/ |"D" [Dd]2 [Dd]2 :|"D"v a^g/a/ (b/a/)=g/f/ | "A7" (ef) g2 | 
+gf/g/ (a/g/)f/e/ |"D" (de) f2 | fe/f/ (gf) |"A7" ed cB | A^G/A/ (Bc) | 
+"D" (df) a2 | a^g/a/ (b/a/)=g/f/ |"A7" (ef) g2 | gf/g/ (a/g/)f/e/ |
+"D" (de) f2 | fe/f/ (gf) | "A7" ed cB | A^G/A/ (Bc) |"D" [Dd]2 [Dd]2 |] 
+V:2
+"^2" dc/d/ (ed) | cB AG | GF/G/ (GA) | [FA]2 [FA]2 |]: 
+[K:D][M:2/4][K:treble] FG/F/ (DF) | [FA]2 [FA]2 | FG/F/ (DF) | [GA]2 [GA]2 | FG/F/ (DF) | 
+(FA) [Fd]2 | fd/A/ GA/G/ | [FA]2 [FA]2 :| fe/f/ (g/f/)e/d/ | (cd) [Ae]2 | e^d/e/ (f/e/)=d/A/ | 
+(FA) [Fd]2 | dc/d/ (ed) | cB AG | GF/G/ (GA) | (Fd) [Af]2 | fe/f/ (g/f/)e/d/ | (cd) [Ae]2 | 
+e^d/e/ (f/e/)=d/A/ |"^Spelas till dans 3 ggr." (FA) [Fd]2 | dc/d/ (ed) | cB AG | 
+"^Stämförslag B.O." GF/G/ (GA) | [FA]2 [FA]2 |]
+

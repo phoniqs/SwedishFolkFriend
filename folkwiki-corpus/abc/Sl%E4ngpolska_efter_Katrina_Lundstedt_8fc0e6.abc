@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:11
+T:Slängpolska efter Katrina Lundstedt
+O:Hassela, Hälsingland
+R:Slängpolska
+S:Katrina Lundstedt
+S:Otôrgs-KaisaAbrahamsson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Häfte av OKA. 11. Slängpolska"
+Z:"Uppt. OKA -86."
+B:Låtar efter Katrina Melinda Lundstedt
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" c>(B A2) AG | A>(f e2) ec | (d>B) (B>G) AB | (A>G) (A>B) cd | 
+c>(B A2) AG | A>(f e2) ec | d>B (3G(BG) (3E(FG) |1 A2 A3 z :|2 A2 A3 (=G |:
+[K:D] F>)(E F2) D>G | (B>A) G2 FG | (E>F) (G>A) Bc | d2 (dF) A>G | 
+(F>E) F2 D>G | (B>A) G2 FG | (E>F) (G>A) Bc |1 d2 d3 G :|2 d2 d3 z |] 
+V:2
+|:"^2" E>(D C2) CD | E>(A c2) cA | (B>G) (G>E) DE | (C>B,) (C>E) AB | 
+E>(D C2) CD | E>(A c2) cA | B>G E2 D2 |1 C2 C3 z :|2 C2 C3 (E |:
+[K:D] D>)(C D2) A,>E | (G>F) E2 DE | (C>D) (E>F) GA | F2 (FD) F>E | 
+(D>C) D2 A,>E | (G>F) E2 DE | "^Stämförslag B.O. -08." (C>D) (E>F) GA |1 F2 F3 E :|2 F2 F3 z |] 
+

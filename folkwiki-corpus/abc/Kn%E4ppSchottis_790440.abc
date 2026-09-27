@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Knäpp-Schottis
+C:Sigge Mattsson
+O:Hamra, Orsa Finnmark, Dalarna
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Sigge Matsson, Hamra, Orsa Finnmark."
+Z:"Uppt. från CD. med stämförslag B.O."
+L:1/8
+Q:1/4=84
+M:2/4
+K:D
+V:1
+|:"^1""D" A/>G/F/G/ Ad |"D" d/>e/d/B/"A7" c>e | gg/e/ c/>B/c |"D" ff/e/ d/>c/d | 
+A/>G/F/G/ Ad | "D" d/>e/d/B/"A7" c>e | gg/e/ c/>B/c/e/ |1,8"D" dd d2 :|2"D" dd d"D7"=c |: 
+[K:G]"G" B>c B/>A/G/E/ | De d>B |"D7" cc/A/ F/>E/F |"G" BB/A/ G/>F/G | 
+B>c B/>A/G/E/ | De d>B | "D7" cc/A/ F/>D/E/F/ |1"G" GG G2 :|2"G" GG G/>B/A/G/ |:
+[K:D]"D" FD FD |"A7" G/>A/G/F/ GE | cA cA |"D" d/>e/d/B/ A/>B/A/G/ | 
+FD FD |"A7" G/>A/G/F/ GE | cA cA |1"D" d/>e/d/c/ d/>B/A/G/ :|2 "D" d/>e/d/c/ d2 |] 
+V:2
+|:"^2" FD/E/ FA | FF/D/ E>G | cc/A/ GE | AA/G/ FA | 
+FD/E/ FA | FF/D/ E>G | cc/A/ GG/A/ |1,8 FF [FA]2 :|2 FF [FA]A |:
+[K:G] G2 G/>F/E/C/ | B,c B>G | AA/F/ DC | DD/C/ B,D | 
+G2 G/>F/E/C/ | B,c B>G | AA/F/ DC |1 B,B, [B,D]2 :|2 B,B, [B,D]F/E/ |:
+[K:D] DA, DA, | EE/D/ EC | AE GE | FF/E/ FE | 
+DA, DA, |"^Stämförslag B.O." EE/D/ EC | AE GE |1 FF/E/ FF/E/ :|2 FF/E/ [FA]2 |]
+

@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:3
+T:På Violadagen
+C:Lennart Thörn
+O:Röke, Skåne
+%%score 1 2
+L:1/8
+M:2/4
+K:G
+V:1 treble nm="Violin 1" snm="Vln.1"
+V:2 treble nm="Violin 2" snm="Vln. 2"
+V:1
+gd d>c | BG G>c | BG Be | d2 c2 | cA A>B | cA A>G | FA d>c | c2 B2 | gd d>c | BG G2 | BG AB | 
+c4 | ec c2 | dB B2 | cd BA | G2 G2 :: B>B B>c | dB G2 | dB Ge | d2 c2 | A>A A>B | cA F2 | cA Fd | 
+c2 B2 | B>B B>c | dB B2 | GB cd | e4 | ge e>e | ed B2 | cd BA | G2 G2 :| 
+V:2
+"^G" BB B>A | GD B,>E | DB, Dc |"^D7" B2 A2 | FF F2 | AF F>E | Dc B>A |"^G" G2 G2 | BB B>A | 
+GD B,>D | DB, CD |"^C" E4 | cE E>E |"^G" BD D>D |"^D7" EF DC |"^G" B,2 B,2 :: G2 G>A | BG D>C | 
+B,D Ec |"^D7" B2 A2 | F2 F>G | AF D2 | DC DC |"^G" A,2 G,2 | G2 G>A | BG D2 | B,G AB |"^C" c4 | 
+ec c2 |"^G" B2 G2 |"^D7" EF DC |"^G" B,2 B,2 :| 
+

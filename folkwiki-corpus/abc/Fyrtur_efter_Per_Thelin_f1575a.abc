@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:399
+T:Fyrtur efter Per Thelin
+T:(SvL Skåne 399)
+B:Svenska Låtar Skåne Nr 399
+B:Gamla Dansar i Skåne
+R:Fyrtur
+S:Per Thelin
+O:Kattarp, Skåne
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Fyrtur (8). Efter Per Thelin, Kattarp.  Sv.L. nr. 399."
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" e2gf (ed)cd | (cA)Bc d2 z2 |]:[K:D][M:2/4][K:treble]"^Dans" D2DD (FD)FA | 
+d2dd c2c2 | e2gf (ed)cd | (cA)Bc d2 z2 ::
+(fa)ga (ba)d'c' | (ba)ga (ba)gf | (eg)fg (ag)e'd' | (c'a)bc' d'2 z2 :: 
+(fa)A2 (fa)A2 | (cA)ce (ba)ge | (fa)A2 (fa)A2 | (cA)Bc d2 z2 :| 
+V:2
+"^2" c2ed (cB)AB | (AE)GA F2 z2 |]:[K:D][M:2/4][K:treble] A,2A,A, (DA,)DF | 
+F2FF E2E2 | c2ed (cB)AB | (AE)GA F2 z2 :: 
+(df)ef (gf)ba | (gf)ef (gf)ed | (ce)de (fe)c'b | (ae)ga f2 z2 :: 
+(d"^Efter Per Thelin, Kattarp.  Sv.L. nr. 399."f)F2 (df)F2 | (AE)Ac (gf)ec | (df)F2 (df)F2 | "^Stämförslag B.O." (AE)GA F2 z2 :|
+

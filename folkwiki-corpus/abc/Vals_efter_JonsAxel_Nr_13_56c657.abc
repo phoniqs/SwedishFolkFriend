@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:13
+T:Vals efter Jons-Axel Nr 13
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Vals
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 13. Vals"
+L:1/4
+Q:1/4=132
+M:3/4
+I:linebreak $
+K:G
+V:1
+|:"^1"v g z B | d z g | b z B | d2 z |v c z A | A z f | f2 e | e2 d | 
+g z B | d z g | b z B | d2 z |v c z A | A z f | g3/2 g/ g | g z2 :: 
+A/A/ A/A/ A/A/ | c z c | G/G/ G/G/ G/G/ | B z B | c' z b | a z g | f z e | e2 d | 
+A/A/ A/A/ A/A/ | c z c | G/G/ G/G/ G/G/ | B z B | c' z b | a z f | g3/2 g/ g | g z2 ::
+[K:C] c3 | c d e | ^f3 | e3 | ^f z d | B z b | c' z e | g2 z |v c3 | 
+c d e | ^f3 | e3 | ^f z d | B z b | c'3/2 c'/ c' | c' z2 :| 
+V:2
+|:"^2""G" B z D | G z B | d z G | B2 z | "D7" A z F | D z c | d2 c | "G" c2 B | B z D | G z B | d z G | 
+B2 z | "D7" A z F | D z c |"G" B3/2 B/ B | B z2 ::"D7" c2 F | A z A |"G" B2 D | G z G |"D7" a z g | 
+f z e | d z c | c2 A | c2 F | A z A |"G" B2 D | G z G | "D7" a z g | f z d |"G" B3/2 B/ B | B z2 :: 
+[K:C]"C" E3 | E G c | d3 | c3 |"G7" B z B | G z ^F |"C" E z G | c2 z | E3 | E G c | d3 | c3 | 
+"G7" B z B | G z ^F |"C" E3/2 "^Stämförslag B.O." E/ E | E z2 :|
+

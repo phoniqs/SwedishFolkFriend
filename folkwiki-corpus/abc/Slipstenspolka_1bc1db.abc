@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Slipstenspolka
+O:Norge
+R:Polka
+C:Rolf Jonsson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Utländska danser. Norge. Av Rolf Jonsson"
+L:1/16
+Q:1/4=76
+M:2/4
+K:Bb
+V:1
+|:"^1" "Bb" B,DFB dBgf | d2F2"^Pariserpolka" B4 | B,DFB dBgf |"F7" e2A2 c4 | CA,CF AFAc | 
+fAcf a4 | agf=e gfef |"Bb" d2BB B2B2 | B,DFB dBgf | d2F2 B4 | B,DFB dBgf |
+"F7" e2A2 c4 | CA,CF AFAc | fAcf a4 | fgag fedc |"Bb" B2B2 B4 ::
+[K:Eb]"Eb" g4 b2>g2 | e2de f2g2 |"Ab" a4 c'2>a2 | "Fm" c4- cedc |"Bb7" B2cB =AB_AF | 
+D2BB B2B2 |"Eb" e2de geBG | E4- E4 | g4 b2>g2 | e2de f2g2 | "Ab" a4 c'2>a2 |
+"Fm" c4- cedc |"Bb7" B2cB =AB_AF | D2BB B2B2 | B2=AB dBdf |"Eb" e2e2 e4 :| 
+V:2
+|:"^2" DFBd fded | B2D2 D4 | DFBd fded | c2E2 A4 | FCFA FCFA | cEFA c4 | cBAG BAGA | 
+F2DD D2D2 | DFBd fded | B2D2 D4 | DFBd fded | c2E2 A4 | FCFA FCFA | cEFA c4 | ABcB AGFE | 
+D2D2 D4 ::[K:Eb] B4 e2>B2 | G2^FG A2B2 | c4 e2>c2 | A4- AcBA | F2AF =EF_ED | B,2DD D2D2 | 
+G2FG BGEB, | G,4- G,4 | B4 e2>B2 | G2^FG A2B2 | c4 e2>c2 | A4- AcBA | F2AF =EF_ED | B,2DD D2D2 | D2^CD FDFA | "^B.O." G2G2 G4 :|
+

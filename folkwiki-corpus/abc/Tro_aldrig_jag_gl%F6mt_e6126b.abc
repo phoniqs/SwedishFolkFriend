@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Tro aldrig jag glömt
+T:Valsmelodi
+O:Säter, Dalarna
+R:Vals
+S:Ragnar Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Efter Ragnar Eriksson, Säter. Från stenkaka."
+L:1/4
+M:3/4
+K:G
+V:1
+"^1" D/D/ |: D E F | G2 A/G/ | G F =F | F2 F | E E E | 
+E G E | D3- | D z D | E E E | c2 c | B B G | D2 c | 
+B A G | D F A | G3- | G z2 | B2 B | D2 A | G3- | 
+G z B | c c c | c c c | B3- | B z D | D G A | B2 B | 
+c c c | c2 c | B A G | D F A |1 G3- | G z D :|2 G3- | G z2 |] 
+V:2
+"^2" D/D/ |:"D7" D ^C =C |"G" B,2 D/D/ |"D7" D C B, | C2 C |"C" C B, C | C E C |"G" B,3- | 
+B, z B, |"C" C B, C | E2 E |"G" G G D | B,2 A |"D7" G F E | A, D C |"G" B,3- | B, z2 | 
+"G" D2 D |"D7"  A,2 C |"G"  B,3- |"G7" B, z D |"C" E D E | G G E |"G" D3- | D z B, | B, D D | 
+"G7" =F2 F |"C" G F G |"Am" E2 E |"G" D C B, |"D7" A, D C |1"G" B,3- | B, z"^B.O." D :|2 "G" B,3- | B, z2 |]
+

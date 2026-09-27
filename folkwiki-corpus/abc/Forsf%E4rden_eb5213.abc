@@ -1,0 +1,35 @@
+%%abc-charset utf-8
+
+X:14
+T:Forsfärden
+O:Hälsingland
+C:Olle Nordén
+R:Polska
+Z:Karin Helander
+B:Ny samling spelmanslåtar från Hälsingland nr 14
+N:Uppteckning och andrastämma [[Personer/Thore Härdelin den äldre]]
+N:Oklart hur tredje och fjärde repriserna ska spelas, det står "1 bis" och "2 bis" kring rullstråken i originalet. Kanske är det endast en lång tredje repris.
+L:1/16
+M:3/4
+K:Eb
+V:1
+(Ee)BG (EF)GE E2B,2 | (ED)EF E2G,2 B,2E2 | G2FE (B=A)Bc !fermata![B2D2]eg | b2ag (fe)dc B2G2 | 
+(EA)(cA) (EG)(BG) (B,D)FD | (EA)(cA) (EG)(BG) (B,D)FD |  E2GB (ed)cB (AG)FE | (DE)FG [F4A,4] [G,4E4] :|
+|: !segno! (G,E)(BE) (eE)(BE) G2(BG) | (A,E)(cE) (eE)(cE) A2(cA) | (EA)(EC) (B,D)(FD) (AD)(FD) | 
+(EG)FE (ed)cB (gf)ed | e2B2 (ed)cB (AG)FE |1 (DE)FG [F4A,4] !fine! [G,4E4] :|2 (DE)FG F4 E2G2 |:
+G2c=B c2e2 d2cB | d2e2 d2g^f g4 | a2ga =f2=ef d2cd | g2fg _e2de (c=B)cd |
+e2dc (Bc)dB c2_BA | (GF)ED C2C2 B,4 |1 (G,E)(cE) (G,E)(cE) (G,E)(cE) | (G,D)(=BD) (G,D)(BD) (G,D)(BD) | 
+(G,E)(cE) (G,E)(cE) (G,E)(cE) | (G,D)(=BD) (G,D)(BD) (G,D)(BD) :|2 (G,E)(cE) (G,E)(cE) (G,E)(cE) | 
+(G,D)(=BD) (G,D)(BD) (G,D)(BD) | (G,E)(cE) (G,E)(cE) (G,E)(cE) | (G,D)(=BD) (G,D)(BD) (G,D)(BD) |: c2Bc G2FG E2DE | 
+C2EF G2cd e2dc |1 =BcdB c6 G2 :|2 =BcdB c4 B3(A | G)FED "^D.S. al Fine." E2B,2 G,2B,2 !segno! |]
+V:2
+[E4G,4] E2e2 B2G2 | [G4B,4] (ED)EF [G,4G4] | E2DC F4 !fermata! [B,2F2]GE | g2fe dcBA G2E2 | 
+(CA)(AC) (B,G)(GB,) (A,F)(FA,) | (CA)(AC) (B,G)(GB,) (A,F)(FA,) |  G2E2 (cB)AG (FE)DC | B,CDE [D4B,4] [B,4E4] :|
+|: (G,B,)(EB,) (GB,)(EB,) (G,B,)(EB,) | (A,C)(EC) (AC)(EC) (A,C)(EC) | [C2A2][C2A2] (DF)(BF) (DF)(BF) | 
+(FE)DE (cB)AG (ed)cB | [G2B2][G2B2] (gf)ed (cB)AG |1 AGDE [F4B,4] [E4B,4] :|2 AGDE [D4B,4] [E4B,4] |:
+E2G2 G2c=B F2ED | [G,2G2][G,2G2] [=B2D2][B2D2] [G4B4] | f2=ef d2^cd [=B4D4] | e2de c2=Bc [G4G,4] |
+G2FE (DE)FD A2GF | [G,2G2][G,2G2] (GF)ED [D4G,4] |1 (CG)(eG) (CG)(eG) (CG)(eG) | (=B,G)(dG) (B,G)(dG) (B,G)(dG) | 
+(CG)(eG) (CG)(eG) (CG)(eG) | (=B,G)(dG) (B,G)(dG) (B,G)(dG) :|2 G,4 C3D E2DC | 
+G,4 =B,3C D2CB, | G,4 C3D E2DC | G,4 =B,3C D2CB, |: [G4G,4] c2=Bc G2^FG | 
+E2DC G2FG G2FE |1 DEFD E6 z2 :|2 DEFD E4 [D4B,4] | B3A GFED [E4G,4] |]
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Gamla Forsabron
+O:Ilsbo, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Ingemar Lundberg."
+C:Ingemar Lundberg
+L:1/8
+M:2/2
+U:t=tenuto
+K:Bb
+V:1
+|:"^1""^Gånglåt" B,3 D D2 F2 | (B3 d) d2 BA | (G3 e) (ed) ef | (ec) =Bc (GF) ED | C3 F F2 A2 | 
+(c3 d) (c=B) cd |1 e2 cA (F=E) FG | F2 FE (tD2 tC2) :|2 e2 cA (FA) cA | (B3 c) (B_A) GF |:
+[K:Eb] (E3 G) G2 ^FG | B2 =AB (cB) AB | (Ec)(ac) (Ec)(ac) | (EB)(gB) (EB)(gB) | (B3 a) a2 fd |1 
+(Bd) cB (FG) AB | A3 G G2 G2 | G4 (BA) GF :|2 (Bd) cB (FG) AD | (F3 E) (EF) ED | E6 (B=A) |: 
+(B3 g) g2 eB | (Ge) BG (EB) AG | G3 F F2 F2 | F6 (GB) | (AB,) DF A2 =Ac | 
+(BE) GB (ed) e=e |1 (fe) c=A (F^F) GA | (BA) FD B,2 B=A :|2 (fe) c=A (B_A) FD | (3(FGF E2) E4 |] 
+V:2
+|:"^2" F3 B, B,2 D2 | (D3 F) F2 GF | (E3 G) (G^F) GA | (GE) DE (ED) CB, | A,3 C C2 F2 | 
+(A3 B) (AG) AB |1 c2 AF (C=B,) CD | C2 CB, (tA,2 tA,2) :|2 c2 AF (CF) AF | 
+(D3 E) (DC) B,_A, |:[K:Eb] (G,3 B,) B,2 =A,B, | E2 DE (FE) DE | (A,E)(cE) (A,E)(cE) | 
+(G,E)(BE) (G,E)(BE) | (D3 B) B2 AF |1 (DA) FD (DE) FG | F3 E E2 E2 | E4 (DC) B,A, :|2 (DA) FD (B,C) DB, | A,3 G, G,2 G,2 | G,6 (ED) |: 
+(E3 B) B2 GE | (EB) GE (B,G) FE | E3 D [A,D]2 [A,D]2 | [A,D]6 (EG) | (FA,) B,D F2 FA | 
+(GB,) EG (B=A) Bc |1 (dc) =AF (CD) EF | (GF) DB, A,2 ED :| "^Stämförslag B.O." (dc) =AF (GF) DB, | (A,2 G,2) G,4 |]
+

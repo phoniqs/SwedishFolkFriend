@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska efter Matses Petter
+S:Matses Petter
+O:Hedemora, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(37) Hambo-polska från Södra Dalarna efter "Matses Petter", Tjärnan, Hedemora"
+L:1/8
+M:3/4
+K:D
+V:1
+"^1"u F |: (D>A) (F>B) B>A | A2 (d>f) f>d | A2 (g>e) c>e | (A>f) (d>B) A>F | 
+(D>A) (F>B) B>A | A2 (d>f) f>d | A2 (g>e) c>e |1 (ed) d3u F :|2 (ed) d3u B |:
+[K:G] (d>g) (B>d) G>B | (c>e) (A>c) A>G | (G>F) (F>e) d>c | (c>B) (B>e) d>B | 
+(d>g) (B>d) G>B | (c>e) (A>c) A>G | (G>F) (F>e) d>F |1 (FG) G3u B :|2 (FG) G3 z |] 
+V:2
+"^2"u D |: (A,>D) (D>G) G>F | D2 (F>A) A>F | E2 (c>A) E>G | (F>d) (A>G) F>D | 
+(A,>D) (D>G) G>F | D2 (F>A) A>F | E2 (c>A) E>G |1 (GF) F3u D :|2 (GF) F3u G |:
+[K:G] (B>d) (G>B) D>G | (A>c) (E>A) C>E | (E>D) (D>G) F>E | (E>D) (D>c) B>G | 
+(B>d) (G>B) D>G | (A>c) (E>A) C>E | (E>D) (D>G) F>D |1 (CB,) B,3u G :|2 (CB,) B,3"^B.O." z |]
+

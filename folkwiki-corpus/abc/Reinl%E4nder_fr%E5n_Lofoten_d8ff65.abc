@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Reinländer från Lofoten
+S:Lars Hellan
+O:Vestvågöy, Lofoten, Norge
+R:Schottis
+Z:[[Personer/Bengt Ohlson]]
+Z:"Eft. Lars Hellan (1891-1981) Vestvågöy, Lofoten"
+Z:"Uppt. fr. CD. "En vårdröm""
+L:1/16
+Q:1/4=73
+M:2/4
+K:G
+V:1
+"^1" d |: d>gg>b b>dd>g | g>BB>e d2d2 | e>dcB c2A2 | d>cBA B2G2 | 
+d>gg>b b>dd>g | g>BB>e d2d2 | (D>F)FA (A>d)dF |1,8 G2G2 G3 d :|2 G2G2 G2 (FG) |:
+[K:D] A2(DF) ADFA | d2(DF) A2>g2 | T f2eg (f>e)ce | (e>d)fd B2A2 | 
+A2(DF) ADFA | d2(DF) A2>g2 |T f2eg (f>e)ce |1 d2d2 d2 (FG) :|2 d2d2 d2 (B=c) |:
+[K:G] d>cBc A2a2 | g2B2 d2>e2 | d2c2 (c>B)cd | c2B2 B2>d2 | 
+d>cBc A2a2 | g2>f2 edcB | (A>B)ce d2>F2 |1 G2G2 G2 B=c :|2 G2G2 G3 z |] 
+V:2
+"^2" B |: B>dd>g g>BB>B | B>GG>c B2B2 | c>BAG A2D2 | B>AGF G2B,2 | 
+B>dd>g g>BB>B | B>GG>c B2B2 | (A,>D)DF (F>F)FC |1,8 [B,D]2[B,D]2 [B,D]3 B :|2 [B,D]2[B,D]2 [B,D]2 (DE) |:
+[K:D] F2(A,D) FA,DF | F2(A,D) F2>e2 | d2ce (d>c)AG | (G>F)AF G2F2 | 
+F2(A,D) FA,DF | F2(A,D) F2>e2 | d2ce (d>c)AG |1 [FA]2[FA]2 [FA]2 (DE) :|2 [FA]2[FA]2 [FA]2 (GA) |:
+[K:G] B>A^GA F2c2 | B2G2 B2>c2 | B2A2 (A>G)AB | A2G2 G2>B2 | 
+B>A^GA F2c2 | e2>d2 cBAG "^B.O." | (F>G)Ac F2>D2 |1 [B,D]2[B,D]2 [B,D]2 GA :|2 [B,D]2[B,D]2 [B,D]3 z |]
+

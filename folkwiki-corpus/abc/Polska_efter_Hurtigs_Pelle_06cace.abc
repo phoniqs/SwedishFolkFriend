@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:798
+T:Polska efter Hurtigs Pelle
+T:(SvL Härjedalen 798)
+S:Hurtigs Pelle
+O:Los, Hälsingland
+R:Polska
+B:Svenska Låtar Härjedalen Nr 798
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 17. Polska efter Hurtigs Pelle. Jmf. Sv.L. Härjedalen nr. 798."
+L:1/8
+Q:1/4=120
+M:3/4
+K:Bb
+V:1
+|:"^1" d>(e d>)(B G>)A | A>(c B>)(A G>)A | B(c/B/ A>)(^F D>)F | G>(^F G>)(A B>)c | 
+d>(^c d>)(c d>)=e | (f/g/)f/=e/ (f>a) d>e | fg/f/ (=e>^c) A>c | =ef/e/ d4 :: 
+d^c/d/ g2 =e>g | (g>f) (f>a) d2- | dc/A/ (B>B) B>B | Bc/B/ (A>A) A>A | 
+G>(^F G>)(A B>)c | d>(^c d>)(g d>)=c | BA/B/ (d>c) B>A | D^F/A/ G4 :| 
+V:2
+|:"^2" "Gm" B>(c B>)(G D>)^F | "D7" ^F>(A "Gm" G>)(D B,>)C | G(A/G/ "D7" ^F>)(D A,>)C | "Gm" B,>(A, B,>)(D G>)A | 
+"Gm" B>(A B>)(A "D7" ^F>)G | "Dm" (A/B/)A/^G/ (A>d) F>G | AB/A/ "A7" (G>=E) ^C>E | GA/G/ "Dm" [FA]4 :: 
+"Gm" BA/B/ =e2 "C" ^c>e | "Gm" (=e>d) "Dm" (d>f) A2 | BA/^F/ "Gm" (G>G) G>D | GA/G/ "D7" ^F>F F>D | 
+"Gm" B,>A, B,>(D G>)A | B>A B>(d B>)A | G^F/G/ B>A G>D | "D7" A,C/"^B.O."D/ "Gm" [B,D]4 :|
+

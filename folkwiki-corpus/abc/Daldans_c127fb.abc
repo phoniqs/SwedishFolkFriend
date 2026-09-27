@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:6
+T:Daldans
+T:(Sv Folkdanser Del 1)
+R:Hambo
+O:Västergötland
+Z:[[Personer/Bengt Ohlson]]
+Z:"Svenska Folkdanser Del 1 6. Daldans"
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 6
+Z:http://runeberg.org/folkdans/besk/0130.html
+L:1/8
+M:3/4
+K:G
+V:1
+"^1""^Förspel" "G" (3(d/e/d/ c/d/) (e>d) B>d | "Am"e2 (=f>e) c>e |"D7" (3(f/g/f/ e/f/) (g>f) d(e/f/) |"G" g2 G4 |] 
+[K:Bb]"^(1)""^Dans""Gm" g2 (g>b)"D7" a>^f | "D7" d2 (d>e)"Gm" d>B |"Gm" G>(A Bc/B/)"D7" A>G | "D7" ^F>G (AB/"Gm"A/) G2 |
+"Gm" g2 (g>b)"D7" a>^f |"D7" d2 (d>e)"Gm" d>B | "Gm" G>(A Bc/B/)"D7" A>G |"D7" ^F>G (AB/A/)"Gm" G2 |] 
+"^(2)""Gm" D2 G2 B>G | "D7"(^F>G) (AB/A/) "Gm"G>F | "Gm"D(D G)(G B>)G | "D7"^F>G (AB/"Gm"A/) G2 | 
+"Gm" D2 G2 B>G |"D7" (^F>G) (AB/A/) GF |"Gm" D(D G)(G B>)G |"D7" ^F>G (AB/"Gm"A/) G2 |]
+[K:G]"^(3)""G" B>d c>d B>d | (c>e) d4 | B>d c>d B>d |"D7" (d>c) AB "G" G2 | 
+"G" B>d c>d B>d |"G" c>e d2"D7" f2 |"G" (g>e) (d>B)"D7" d>c | "D7" (A>B)"G" G4 |]
+"^(4)""G" B2 "D7" (A>B)"G" G2 |"G" (B>"D7"d) (c>"G"e) d2 | "G" B2 "D7"(A>B)"G" G2 | "G" (B>d)"D7" (c>e)"G" d2 | 
+"G"(3(d/e/d/ c/d/) (e>d) B>d | "Am" e2 (=f>e) c>e | "D7"(3(f/g/f/ e/f/) (g>f)"^Stämförslag B.O." d(e/f/) |"G" g2 G4 |]
+

@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:128
+T:Kullarpavalsen
+T:(SmM II:128)
+R:Vals
+B:Småländsk Musiktradition
+S:David Forséni
+S:Söderström
+O:Forsheda, Småland
+N:Ca 1960, ur Gösta Klemmings uppteckningar
+M:3/4
+L:1/8
+K:A
+A,2 CE A2|E2 CE A2|dc BA GE|A2 cA E2|
+A,2 CE A2|E2 CE A2|dc BA GE|1 [AA]4 z2:|2[AA]4 E2]|
+|:GE AE cA|dc BA GF|Ee dB GE|Ac AE CE|
+GE AE cA|dc BA GF|Ee dB GE|1[AA]4 E2:|2[AA]4 A2]|
+|:cA eA aA|fA dA FA|BA GE CA,|BA FD A,A|
+cA eA aA|fA dA FA|BA GE CA,|1D4 A2:|2D4 z2]|
+

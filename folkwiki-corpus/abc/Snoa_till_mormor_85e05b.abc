@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Snoa till mormor
+C:Britt-Marie Jonsson
+O:Hälsingland
+R:Snoa
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Britt-Marie Jonsson"
+Z:"För durspel"
+L:1/4
+M:4/4
+K:G
+V:1
+|:"^1" D "^För durspel"(E/D/) B, D | G B d3/2 B/ | c (e/c/) A B | A G (3(F/A/F/) E | D F/D/ (A,/D/) F/A/ | 
+c (c/A/) F A | G D/G/ (B/G/) B/e/ | d4 | D (E/D/) B, D | G/D/ G/B/ d3/2 B/ | c (e/c/) A B | 
+A G (3(F/A/F/) E | D F/D/ (A,/D/) F/A/ | c/A/ c/f/ (3(e/f/e/) d | d e/d/ (d/c/) A/F/ |1 G G G z :|2 G G G G |:
+[K:C] e3 G | c3 e | ^f3 A | d3 c | B c/B/ A B/A/ |
+ G D B, D | G (G/B/) A G | E3 G | e3 G | c (B/c/) e g | ^f3 A | 
+ d3 c | B c/B/ A B/A/ | G D B, D | G (G/B/) e d |1 c c c G :|2 c c c z |] 
+V:2
+|:"^2""G" B, (C/B,/) G, B, | D G =F3/2 D/ |"Am" E (G/E/) C D | C B, A, G, | "D7" A, D/A,/ (F/A,/) D/F/ | 
+A (A/F/) D C |"G" B, G,/B,/ (D/B,/) D/c/ |"D7" B D ^C =C | "G" B, (C/B,/) G, B, | D/B,/ D/G/ =F3/2 D/ | "Am" E (G/E/) C D | 
+C B, A, G, | "D7" A, D/A,/ (F/A,/) D/F/ | F/D/ F/A/ G F | F G/F/ (F/E/) D/C/ |1"G" B, B, B, z :|2"G" B, B, B, E |:
+[K:C] "C" c3 E | E3 G | "F" A3 ^F | ^F3 F | "G7" D E/D/ "F" C D/C/ | "G7" B, B, G, B, | 
+B, (B,/D/) C B, |"C" C3 E | c3 E | E (D/E/) G c | "F" A3 ^F | "D7" ^F3 F | 
+"G7" D E/D/ "F" C D/C/ | "G7" B, B, G, B, | B, (B,/D/) G ^F |1 "C" E E E E :|2 "C" E E"^B.O." E z |]
+

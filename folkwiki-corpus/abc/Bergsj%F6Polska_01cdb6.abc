@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X: 8
+T:Bergsjö-Polska
+T:(Erik Isaks polska)
+O:Bergsjö, Hälsingland
+B:Ny samling spelmanslåtar från Hälsingland Nr 8
+R:Polska
+N:Andrastämma av [[Personer/Thore Härdelin den äldre]]
+M:3/4
+L:1/16
+K:G
+V:1
+G2AB B2AB cBAB|G2AB c2Bc (dc)Bc|d3d e2d2 f2d2|d3d g2d2 b2g2| G2AB B2AB (cB)AB|
+G2AB c2Bc (dc)Bc|d3d e2d2 f2d2|bafa [g4B4] z4::d2b2 (ba)gf e2d2|^c2a2 (af)ge f2d2|d2ef gfed cBAG|
+FGAB AGFE DCB,A,|G,2>b2 bagf e2d2|^c2a2 afge f2d2|d2ef gfed cBAG| d2FA [G4B,4] z4 :|
+V:2
+G,2[G2B2] [G2B2][G2B2] [G2B2][G2B2] | C2[E2c2] [E2c2][E2c2] [E2c2][E2c2] | [c2D2]>[c2D2] [c2E2][c2E2] [c4F4] | [B2D2]>[B2D2] d2B2 d2[B2G2] | G,2B,D G2FG [G2B2][G2B2] |
+G,2CE A2^GA [c2E2][c2E2] | D2FA c2B2 A2f2 | dcAF [G4G,4] z4 :: G2g2 gfed c2B2 | A2f2 fde^c (dA)(FD) | B2cd edcB AGFE | 
+DEFG FED^C D4 | G2g2 gfed c2B2 | A2f2 fde^c (dA)(FD) | B2 cd edcB AGFE | DCB,A, [G,4D4] z4 :|
+

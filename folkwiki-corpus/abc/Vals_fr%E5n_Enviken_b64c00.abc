@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1359
+T:Vals från Enviken
+T:(SvL Dalarna 1359)
+S:Vilhelm Hedlund
+O:Enviken, Dalarna
+R:Vals
+B:Svenska Låtar Dalarna Nr 1359
+Z:[[Personer/Bengt Ohlson]]
+Z:"26. Vals från Enviken efter Vilhelm Hedlund. Sv.L. nr. 1359."
+L:1/4
+M:3/4
+K:Am
+V:1
+"^1" e- |: e a3/2 (^g/ | a2) e | (3(c/B/c/) e3/2 c/ | A2 E | E A B | c3/2 A/ A | A/^G/ G B | 
+E2 e- | e a3/2 ^g/ | a2 e | (3c/B/c/ e3/2 c/ | A2 E | E A B | c2 c | B E ^G | A2 e :: 
+e a3/2 e/ | f2 d | (3c/B/c/ e3/2 c/ | A2 E | E A B | c2 A | A ^G A | B3- | 
+B a3/2 e/ | f2 d | (3c/B/c/ e3/2 c/ | A2 E | E A B | c2 e | e/d/ B3/2 c/ |1 A2 e :|2 A2 c |:
+[K:F] c a g | f3/2 A/ A | A d c | B3/2 B/ B | B b a | g3/2 c/ c | c a g | f3/2 c/ c | 
+c a g | f3/2 A/ A | A d c | B3/2 B/ B | B b a | g3/2 c/ c | c a g |1 f2 c :|2 f2 z |] 
+V:2
+"^2" c- |: c e3/2 ^d/ | e2 c | A c3/2 A/ | E2 C | C E ^G | A3/2 E/ E | E/D/ D E | B,2 c- | 
+c e3/2 ^d/ | e2 c | A c3/2 A/ | E2 C | C E ^G | A2 A | ^G B, D | C2 c :: 
+c e3/2 c/ | d2 B | A c3/2 A/ | E2 C | C E ^G | A2 E | E D E | ^G3- | 
+G e3/2 c/ | d2 B | A c3/2 A/ | E2 C | C E ^G | A2 c | c/B/ ^G3/2 E/ |1 C2 c :|2 C2 A |:
+[K:F] A c B | A3/2 F/ F | F B A | G3/2 G/ G | G d c | B3/2 E/ E | E c B | A3/2 F/ F | 
+A c B | A3/2 F/ F | F B A | G3/2 G/ G | G d c | B3/2 E/ E | E c B |1 A2 A :|2 "^B.O." A2 z |]
+

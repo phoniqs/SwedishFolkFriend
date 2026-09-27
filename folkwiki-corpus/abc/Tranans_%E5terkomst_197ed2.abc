@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:1
+T:Tranans återkomst
+O:Hallabro, Blekinge
+C:Jeff Winter
+R:Schottis
+M:4/4
+L:1/8
+Z:Andy Davey 2024
+Q:1/4=140
+K:D
+ABc |: "D"d2 f2 "A"e2 c2 | "D"d3/2e/2 dB A2 F2 | "G"G2 B2 "A"A2 E2 |  "D"F3/2G/2 FE  DA Bc  |
+      "D"d2 f2 "A"e2 c2 | "D"d3/2e/2 dB A2 F2 | "G"G2 FE "A"D2 C2 |1 "D"D4-D    ABc       :|2 "D"D4-D DEF |]
+    |: "G"G2 B2 "A"A2 E2 | "D"F3/2G/2 FE DD EF | "G"G2 B2 "A"A2 c2 | "D"d3/2c/2 de  f2 d2  |
+      "G"G2 B2 "A"A2 E2 | "D"F3/2G/2 FE DD EF | "G"G2 B2 "A"A2 c2 |1 "D"d4-d    DEF       :|2 "D"d4-d     |]
+

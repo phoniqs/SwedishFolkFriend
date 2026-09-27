@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:84
+T:Hambopolska efter Jons-Axel Nr 84
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Hambo
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 84. Hambopolska"
+L:1/8
+Q:1/4=120
+M:3/4
+K:G
+V:1
+|:"^1"v d>g b2 a2 | g>e d2 g2 | B>c A2 e2 | d>c B2 d2 | 
+d>g b2 a2 | g>e d2 g2 | (B>c) A2 AF | G2 G2 z2 ::
+(d>B) (G>B) d>B | c>d e2 c2 | (A>F) (D>F) A>B | c>f a2 g2 | 
+(d>B) (G>B) d>B | c>d e2 a2 | (g>f) (e>d) e>f | g2 g2 z2 :| 
+V:2
+|:"^2""G" B>d g2 f2 | e>c B2 d2 | "D7" G>A F2 c2 |"G" B>A G2 B2 | 
+B>d g2 f2 | e>c B2 d2 | "D7" (G>A) F2 FD | "G" B,2 B,2 z2 :: 
+"G" (B>G) (D>G) B>G | "C" E>G c2 G2 |"D7" (F>D) (A,>D) F>G |"G" A>d c2 B2 | 
+(B>G) (D>G) B>G |"Am" E>G c2 e2 |"D7" "^Stämförslag B.O." (e>d) (c>B) c>d |"G" B2 B2 z2 :|
+

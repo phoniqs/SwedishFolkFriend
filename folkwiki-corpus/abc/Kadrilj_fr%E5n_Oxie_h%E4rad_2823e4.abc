@@ -1,0 +1,31 @@
+%%abc-charset utf-8
+
+X:1115
+T:Kadrilj från Oxie härad
+T:(SvL Skåne 1115)
+O:St. Herrestad, Skåne
+R:Kadrilj
+Z:[[Personer/Bengt Ohlson]]
+S:efter Kristoffer Ramelius
+Z:"Sv Folkdanser Del 1 51. Kadrilj från Oxie härad Sv.L. Skåne nr. 1115."
+B:[[Notböcker/Svenska Låtar Skåne]] n:r 1115 e. Kristoffer Lorens Ramelius, St. Herrestad, uppt. [[Personer/Nils Andersson]].
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 51
+Z:http://runeberg.org/folkdans/besk/0209.html
+L:1/8
+M:2/4
+K:A
+V:1
+"^1""^Förspel" E | c>d B>c | Aa gf | ef/e/ dG | A3 |][K:A][M:2/4][K:treble]"^Dans" E |: "^(1)"c>d B>c | A2 GA | 
+B>c d>e | "^Spelas 4ggr. Avslutas med 1:a, 2:a och 3:e repr. en gång vardera."f/e/d cE | c>d B>c | Aa gf | ef/e/ dG |1 A3 E :|2 A3 B |: 
+[K:E]"^(2)" gg/f/ gb | aa/g/ ag | fB df | eb/b/ ba | gg/f/ gb | aa/g/ ag | fB df |1 
+e3 B :|2 e3 e/a/ |: [K:A]"^(3)" c'c'/c'/ (c'/b/)c'/e/ | a2 cf/e/ | dd/c/ Be/d/ | (c/d/)B/c/ Ae/a/ | 
+c'c'/c'/ (c'/b/)c'/e/ | a2 cf/e/ | dd/c/ Bg |1 a3 e/a/ :|2 a3 D |:"^(4)" CE Ac | Bd/c/ B2 | 
+B,E GB | de/d/ ce/a/ | c'c'/c'/ (c'/b/)c'/e/ | a2 cf/e/ | (d/e/)d/c/ Bg |1 a3 D :|2 a3 z |] 
+V:2
+"^2" C |"A" E>F D>E | Cc BA | "E7"GA/G/ ED | "A"C3 |][K:A][M:2/4][K:treble] C |:"A" E>F D>E | C2 B,C | 
+"E7" G>A B>c |"A" d/c/B AC | E>F D>E | Cc BA |"E7" GA/G/ ED |1"A" C3 C :|2"A" C3 G |: 
+[K:E]"E" ee/d/ eg |"B7" ff/e/ fe | dF BA |"E" Gg/g/ gf | ee/d/ eg |"B7" ff/e/ fe | dF BA |1 
+"E" G3 G :|2"E" G3 c/e/ |:[K:A] "A"aa/a/ (a/g/)a/c/ | c2 Ad/c/ |"E7" BB/A/ Gc/B/ | 
+"A" (A/B/)G/A/ Cc/e/ | aa/a/ (a/g/)a/c/ | c2 Ad/c/ |"E7" BB/A/ GB |1"A" c3 e/a/ :|"A" c3 B, |: "A" A,C EA |"E7" GB/A/ G2 | 
+ G,B, EG | "E7" Bc/B/ Ac/e/ | "A"aa/a/ (a/g/)a/c/ | "^Stämförslag B.O."c2 Ad/c/ |"E7" (B/c/)B/A/ GB |1"A"  c3 B, :|2"A" c3 z |]
+

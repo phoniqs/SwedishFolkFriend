@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Pingstliljor
+C:Frans Bodin
+O:Hedemora, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Frans Bodin, Hedemora."
+L:1/4
+M:3/4
+K:A
+V:1
+"^1""^Vals" E A c | f2 e | e3 | c3 | A G A | B2 A | G3- | G3 | E G B | 
+d2 e | g3 | f3 | e B c | d2 e | c3- | c3 | E A c | f2 e | e3 | c3 | 
+A G A | B2 A | F3- | F3 | F G A | F2 A | E3 | c3 | e2 e | d2 G | A3- | A z e |] 
+e c d | e c e | f3 | B2 c | d B c | d e3/2 d/ | c3- | c2 A | A B c | d c B | 
+B3 | F3 | G E F | G A B | c3- | c2 e | e c d | e c e | f3 | B2 c | d B c | d e3/2 d/ | 
+c3- | c2 A | A B c | d c B | B3 | F3 | G E F | G c3/2 B/ | A3- | A2 z |] 
+V:2
+"^2" C E A | d2 c | c3 | A3 | C B, C | E2 C | D3- | D3 | B, E G | B2 B | 
+d3 | B3 | B G A | G2 G | A3- | A3 | C E A | d2 c | c3 | A3 | C B, C | 
+E2 C | D3- | D3 | D E F | D2 D | C3 | E3 | G2 G | E2 D | C3- | C z c |] 
+c A B | c A c | d3 | G2 A | B G A | B c B | A3- | A2 C | C E A | B A G | 
+F3 | D3 | E B, D | E F G | A3- | A2 c | c A B | c A c | d3 | G2 A | B G A | B c B | 
+A3- | A2 C | C E A | B A G | F3 | D3 | E B, D | E"^Stämförslag B.O." E D | C3- | C2 z |]
+

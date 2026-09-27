@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Lundkullarn
+T:Hambopolska
+O:Upplands Väsby, Uppland
+R:Hambo
+C:Lars Erik Jansson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Lundkullar'n"
+N:"Valle i Lundkulla gav namn åt låten som är tillägnad hälsingehambon. Erhöll 1:a pris vid Upplands-schottis kompositionstävling år 1973..."
+L:1/8
+M:3/4
+K:F
+V:1
+"^1" (A |: c>=B) (c>d) c>c | _BA/B/ (c<A) F2 | B,2 D>_E (D>C) | C>B, (B,>A,) G,2 |{G,-} G,>C (C>E) (E>G) | 
+G2 B/4c/4B/A/B/ d2 |{d} c>=B (c>d) (c>_B) | BA/B/ (c>A) F2 |{A} c>=B (c>d) c>_B | BA/B/ (c<A) F2 | B,2 D>_E (D>C) | 
+C>B, (B,>A,) G,2 | {G,} G,>C (C>E) (E>G) | G2 B/4c/4B/A/B/ d2 |{d} c2 (B>G) (E>G) |1{G} F2 F3 A :|2{G} F2 F3 z |: 
+B,2 D>F (B>c) | d>c B4 |{A,} A,2 (C>F) (A>B) | c>A (f>A) c2 |{c} B2({cBA} B>G) (E>C) | 
+G,2 C>E (G>A) | B>A (B>d) (c>B) | BA/B/ (c>A) F2 | B,2 D>F (B>c) | d>c B4 | {A,} A,2 (C>F) (A>B) | 
+c>A (f>A) c2 |{c} B2({cBA} B>G) (E>C) | G,2 C>E (G>A) | B>d (c>C) (E>G) | {G} F2 F3 z :| 
+V:2
+"^2" F |: "F" A>G A>B A>A | GF/G/ A<F C2 |"Bb" G,2 B,>C B,>A, |"Gm" A,>G, G,>A, B,2 | 
+"C7" C>E E>G G>B | B2 GF/G/ G2 | E>D E>F E>G | "F" GF/G/ A>F C2 | A>G A>B A>G | GF/G/ A<F C2 | 
+"Bb" G,2 B,>C B,>A, |"Gm" A,>G, G,>A, B,2 |"C7" C>E E>G G>B | B2 GF/G/ B2 | G2 E>C G,>B, |1 "F" A,2 A,3 F :|2"F" A,2 A,3 z |:
+"Bb" D2 F>B D>E | F>E D4 |"F" C2 F>A C>F | A>F c>F A2 | "C7" G2 G>E C>G, | "^Valle i Lundkulla gav namn åt låten som""^är tillägnad hälsingehambon.""^Erhöll 1:a pris vid Upplands-schottis""^kompositionstävling år 1973 . . ." B,2 G,>C E>F | G>F G>B A>G | "F" GF/G/ A>F C2 |"Bb" D2 F>B D>E | 
+F>E D4 | "F" C2 F>A C>F | A>F c>F A2 |"C7" G2 G>E C>G, | B,2 G,>C E>F | G>F E>G, C>B, | "F" A,2 "^B.O." A,3 z :|
+

@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Linåkersvalsen
+T:(andrastämman)
+C:Rolf Jonsson
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Rolf Jonsson"
+L:1/8
+M:3/4
+K:G
+V:2
+"^2"u GA^A |:"G"v B2 (^AB) dB | G2 (FE) D^C |"C" C2 (G,C) EG |"Am" c3u cu c2 | "D7" A2 (^GA) cA | 
+F2 (^EF) GF | "G" G2 (DG) Bc | "D7" B2 z GA^A | "G" B2 (^AB) dB | G2 (FE) D^C | "C" C2 (G,C) EG |
+"Am" c3u cu c2 |"D7" A2 ^GA cA | F2 (DF) Ac |"G" B3u Bu B2 |1 "G" B2 zu GA^A :|2"G" B2 zu ed^c |:
+"C" c2 (ec) GE | (CE) (Gc) ec |"G" B2 (dB) GD | (B,D) (GB,) DG |"D7" F2 (AF) DA, | (CA,) (CD) FD |
+"G" (B,A,) B,D Gc |"G7" B3 ed^c | "C" c2 (ec) GE | (CE) (Gc) ec |"G" B2 (dB) GD | (B,D) (GB,) DG |
+"D7" F2 (AF) DA, | (CA,) (CD) FA |"G" B3u Bu B2 |1"G" B2 zu ed^c :|2 B2 zu GA^A |] B3u cd^d |: 
+[K:C]"C" e2 (^de) cG | E3 ee^e |"Dm" ^f2 (ef) dA | ^F3 ccd |"G7" d2 d3u d | 
+"Dm" c2 c3u d |"C" e2 (ed) e^f | e3 cd^d | e2 (^de) cG | E3 ee^e |"Dm" ^f2 (ef) dA | 
+^F3 ccd | "G7" d2 d3u c | B2 (de) g^f | "C" e3u eu e2 |1 "^B.O." e2 zu cd^d :|2"C" e4 z2 |] 
+

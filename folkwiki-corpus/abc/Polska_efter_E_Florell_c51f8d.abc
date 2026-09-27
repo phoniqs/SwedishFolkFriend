@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter E Florell
+S:Efter E Florell
+O:Nås, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1
+"^1" (G |: F>)(E D>)(E F>)G | A>d f2 (fe/f/) | a>g e2 cB/c/ | d>B A2 G2 | 
+F>(E D>)(E F>)G | A>d f2 fe/f/ | (f>e) (gf) e>d |1 (c<e) d3 G :|2 (c<e) d3 d |: 
+(d>c) (ce) e>e | e>d (df) (fe/f/) | g>(f e>)(d c>)B | A>(d B>)(G F>)E | 
+D>(E F>)(G A>)A | d>e f2 (fe/f/) | (f>e) (gf) e>d |1 (c<e) d3 d :|2 (c<e) d3 z |] 
+V:2
+"^2" (E |: D>)(C A,>)(C D>)E | F>A d2 (dc/d/) | f>e c2 AG/A/ | B>G F2 E2 | 
+D>(C A,>)(C D>)E | F>A d2 dc/d/ | (d>c) (ed) c>B |1 (A<G) F3 E :|2 (A<G) F3 F |: 
+(F>E) (EG) G>G | G>F (Fd) (dc/d/) | e>(d c>)(B A>)G | F>(B G>)(E D>)C | 
+A,>(C D>)(E F>)F | A>c d2 (dc/d/) | (d>c) (ed) c>B |1 (A<G)"^Stämförslag B.O." F3 F :|2 (A<G) F3 z |]
+

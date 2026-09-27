@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:17
+T:Gammal polska från Uppland
+B:Gamla spelmanslåtar för violin, del 2, Nathanaël Beckman
+B:FMK - katalog M139b bild 7
+O:Uppland
+R:Polska
+Z:Nils L
+M:3/4
+L:1/16
+%%graceslurs 0
+K:Dm
+.d2(F2 D2).f2 {g/}f2ed | .e2(^c2 A2).g2 {a/}g2fe | f2T^c2 d2e2 f2a2 | efed ^cded {d/}c2BA | 
+.d2(F2 D2).f2 {g/}f2ed | .e2(^c2 A2).g2 {a/}g2fe | f2T^c2 d2e2 f2a2 | (fed^c) d4 D4 :: 
+.f2(F2 E2)a2 (a2gf) | g2(E2 F2)b2 (b2ag | a2)(A,2 B,2C2) (D2E2) |  (EFG).E (F4 E4) | 
+.d2(F2 D2).f2 {g/}f2ed | .e2(^c2 A2).g2 {a/}g2fe | .f2T(^c2 d2)D2 (F2d2) | (fed^c) d4 D4 :|
+

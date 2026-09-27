@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Kesti min vän
+C:Michael Boman 2018
+M:3/4
+L:1/4
+O:Malå, Lappland
+Q:1/2=70
+%% MIDI ratio 2 1
+%% print tempo 0
+K:G
+R:Vals
+| "B7" B,_B, =B, | G2F | "Em" E2^D | "D7" D2B,/C/ |: "G" D_DE | D2G/A/ | BGc | B3 | B3 | A2G 
+| "D" F3- | FzA,/B,/ | CB,D | C2F/G/ | A_AB | AFD | A3 | D2d | "G" B3/A/ G/E/ | D2B,/C/ 
+| D_D E | D2G/A/ | BGc | B3 | G3 | A2G | "C" E3/D/ C/D/ | E2C/D/ | E_E=E | G2F/E/ 
+| "G" D_D=D |"Em" C3 | "D7" c3 | B2A | "G"G3- | Gz2 | "Em" E3/ _E/ =E/F/ | GFE | "B7" GF=F | F3 
+| B,BA | F2G | "Em" G3 | "B7" F3 |"G" G3/F/ G/A/ | BAG | "D" A3/B/ A/G/ 
+| F3 | "B7" B,_B,=B, | G2F | "Em" E2^D | "D7" D2B,/C/ :| "G" D_DE | D2G/A/ | BGc 
+| B3 | B3 | A2G | "D" F3- | FzA,/B,/ | CB,D | C2F/G/ | A_AB | AFD | A3 
+| D2d | "G" B3/A/ G/E/ | D2 B,/C/ | D_DE | | D2G/A/ | BGc | B3 | G3 | A2B 
+| "C" c3- | czA/B/ |: "Am" ccc | "D" cBA | "G" GBA | "Em" G3 | "C" c3 | "D7" B2 A | "G" G3- |1 GzA/B/ :|2 G z2 |
+

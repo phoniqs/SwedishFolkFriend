@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:2
+T:Marlborough-visan
+T:(för lyssning, noterad för normalstämning)
+R:Omstämt
+O:variant på engelsk visa, Skåne
+M:6/8
+L:1/8
+Q:160
+%%printtempo 0
+%%MIDI ratio 2 1
+K:A
+c |: c2 c cBc | d3 c2 c | B2 B BAB | c3 A2 c | c2 c cBc | 
+d3 c2 e | c2 A B2 G | A3 z2 c :: e2 e f2 f | e3 !+![cA]z c | e2 e f2 f | 
+e3 !+![cA]z c | c2 c cBc | d3 c2 e | c2 A B2 G |1 [AA]3 z2 c :|2 [A,A]3 z3 |]
+

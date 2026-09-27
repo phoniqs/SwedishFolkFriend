@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:502
+T:Polska efter Axel Axelsson
+T:(OA 502)
+B:Sörmländska låtar samlade av Olof Andersson nr 502
+R:Polska
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+H:Från uppteckningen:
+H:"Låten är en variant av en känd polska. Jfr Leffler: Bidr. t. Söderm. äld. kulturhist. X n:r 65 och Bagge, 76 polskor från Östergötland n:r 75. "
+Z:Anders Larsson 2025-02-03
+M:3/4
+L:1/4
+Q:100
+%%MIDI ratio 2 1
+%%printtempo 0
+K:A
+A/A/ c/A/4c/4 e/a/ | A/A/ c/A/4c/4 e/f/ | e/e/ d/d/ c/c/ | B/B/ A/c/4e/4 a |
+A/A/ c/A/4c/4 e/a/ | A/A/ c/A/4c/4 e/f/ | e/e/ d/d/ c/c/ |1 (B/c/4B/4) A2 :|2  (B/c/4B/4) A3/2 A/ |:
+A/>B/ B/B/ B/B/ | B/>c/ c/c/ c/c/ | A/>d/ d/d/ d/d/ |  d/f/ f/e/4d/4 e/>e/ |
+e/f/4g/4 a/e/4d/4 c/A/4c/4 |1 B/G/4B/4 A3/2 A/ :|2 B/G/4B/4 A2 |]
+

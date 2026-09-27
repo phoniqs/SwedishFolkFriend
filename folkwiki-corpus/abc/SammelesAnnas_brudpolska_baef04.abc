@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:1
+T:Sammeles-Annas brudpolska
+C:Hans Dalfors
+O:Ore, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:3/4
+K:Dm
+V:1
+"^1" (A2 |: de)d^c (A2>B2) G2>A2 | (FD)FA (^c2>d2) e2>f2 | (de)d^c (A2{Bc}B2) G2>B2 | (A2[FA]2) [EA]6 A2 | 
+ded^c A2>B2 G2>A2 | FDFA ^c2>d2 e2>f2 | ded^c A2>g2T f2>e2 |1 d2<^c2 [Dd]6 A2 :|2 d2<^c2 [Dd]6 D/E/F/G/ |: 
+A4 a4{a}T g2ge | f4{a}T g2fg a4 |{a} =b4{a}T g2>(e2 fe)fg | a2g2 e6 D/E/F/G/ | 
+A4 a4{a}T g2ge | f4{a} g2fg a4 |{a} =b4{a}T g2>(e2 fe)fg |1 a2^c2 [Dd]6 D/E/F/G/ :|2 a2^c2 [Dd]6 (e2 |: 
+ga)g^f (d2>e2)T c2>A2 | (d^c)df e6 e2 |{fe} f2>(a2T g2>)e2T f2ef | d2>e2T f2ed e2>e2 | 
+gag^f (d2>e2)T c2>A2 | d^cdf e6 e2 |{fe} f4{a}T g2>e2T f2ed |1 d^cec [Dd]6 e2 :|2 d^cec [Dd]6 z2 |] 
+V:2
+"^2" E2 |: ABAG (F2>G2) E2>F2 | DA,DF (A2>=B2) ^c2>d2 | ABAG (F2G2) E2>G2 | F2D2 ^C6 E2 | 
+ABAG (F2>G2) E2>F2 | DA,DF (A2>=B2) ^c2>d2 | ABAG (E2>e2) d2>^c2 |1 A2<G2 [FA]6 E2 :|2 A2<G2 [FA]6 DE |: 
+F4 f4 e2e^c | d4 e2de f4 | g4 e2>^c2 dcde | f2e2 ^c6 DE | 
+F4 f4 e2e^c | d4 e2de f4 | g4 e2>^c2 dcde |1 ^c2A2 [FA]6 DE :|2 ^c2A2 [FA]6 (c2 |: 
+e^f)ed (=B2>^c2) A2>E2 | (A^G)Ad ^c6 c2 | d2>(f2 e2>)^c2 d2cd | A2>^c2 d2c=B c2>c2 | 
+e^fed (=B2>^c2) A2>E2 | A^GAd ^c6 c2 | "^Stämförslag B.O." d4 e2>^c2 d2c=B |1 =BA^cA [FA]6 c2 :|2 =BA^cA [FA]6 z2 |]
+

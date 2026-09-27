@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:74
+T:Polska från Sundsvall
+T:(Polska efter Jons-Axel Nr 74)
+S:Jons-Axel Eriksson
+O:Ingevallsbo, Dalarna
+R:Polska
+B:Notböcker efter Jons-Axel Eriksson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Fr. notbok eft. Jons-Axel Eriksson, Ingevallsbo. 74. Polska från Sundsvall"
+L:1/8
+Q:1/4=120
+M:3/4
+K:Dm
+V:1
+|:"^1" A2u d2u d2 | A>(^c e>)(c e>)c | (de) fg/f/ e^c | ef/e/ de/d/ (^c/d/)(c/B/) | 
+A2u d2u d2 | A>(^c e>)(c e>)c | (de) fg/f/ e^c | (3(efe) d2 z2 ::
+d2u a2u a2 | (g/a/)g/f/ (3(efg) ag | (fd) fg/f/ e^c | ef/e/ de/d/ (^c/d/)(c/B/) | 
+A2u a2u a2 | (g/a/)g/f/ (3(efg) ag | (fd) fg/f/ e^c | ef/e/ d2 z2 :| 
+V:2
+|:"^2""Dm" D2 F2 F2 | "A7" E>(G A>)(E A>)E |"Dm" (FA) de/d/"A7" ^cA | "A7" GA/G/ FG/F/ EG | 
+"Dm" D2 F2 F2 | "A7" E>(G A>)(E A>)E | "Dm" (FA) de/d/"A7" ^cA |"A7" G2 "Dm" F2 z2 :: 
+"Dm" A2 f2 f2 | "A7" (e/f/)e/d/ (3(^cde) fe |"Dm" (dA) de/d/"A7" ^cA | "A7" GA/G/ FG/F/ EG |
+"Dm" F2 f2 f2 | "A7" (e/f/)e/d/"^Stämförslag B.O." (3(^cde) fe |"Dm" (dA) de/d/"A7" ^cA | "A7" GA/G/ "Dm" F2 z2 :|
+

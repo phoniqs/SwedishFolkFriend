@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:76
+T:Nigdans från Gotland
+T:(Sv Folkdanser Del 1)
+O:Gotland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 76. Nigdans från Gotland"
+Z:http://runeberg.org/folkdans/besk/0241.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 76
+L:1/8
+M:3/4
+K:D
+V:1
+"^1"A"^Förspel" | (A>B) (A>G) F>E | D>F A2 d2 | (c>d) (e>A) B>c | d3 z2 |] 
+[K:D][M:3/4][K:treble]"^Dans" A |: (A>B) (A>G) F>E | D>F A2 d2 | (c>d) (e>A) B>c | (d>c) (d>e) f>d | 
+(A>B) (A>G) F>E | D>F A2 d2 | (c>d) (e>A) B>c |1 d3 z2 A :|2 d3 Adf | 
+e3 Adf | e3 Adf | e3 Adf | e4 A2 |
+(A>B) (A>G) F>E | D>F A2 d2 | (c>d) (e>A) B>c | (d>c) (d>e) f>d | 
+(A>B) (A>G) F>E | D>F A2 d2 | (c>d) (e>A) B>c | d4 z2 |] 
+V:2
+"^2" F |"D" (F>G) (F>E) D>C | A,>D F2 F2 |"A7" (A>B) (c>E) G>A |"D" F3 z2 |] 
+[K:D][M:3/4][K:treble] F |: "D"(F>G) (F>E) D>C | A,>D F2 F2 |"A7" (A>B) (c>E) G>A | "D" (F>E) (F>A) d>A | 
+(F>G) (F>E) D>C | A,>D F2 F2 |"A7" (A>B) (c>E) G>A |1"D" F3 z2 F :|2 "D" F3 FAd |
+"A7" c3 EAd | c3 FAd | c3 EFA | G4 G2 | 
+"D"(F>G) (F>E) D>C |"^Spelas önskat antal ggr." A,>D F2 F2 | "A7" (A>B) (c>E) G>A |"D" (F>E) (F>A) d>A | 
+(F>G) (F>E) D>C | "^Stämförslag B.O."A,>D F2 F2 |"A7" (A>B) (c>E) G>A |"D" F4 z2 |]
+

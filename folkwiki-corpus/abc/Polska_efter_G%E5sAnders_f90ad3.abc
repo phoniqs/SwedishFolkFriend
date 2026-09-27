@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:117
+T:Polska efter Gås-Anders
+T:(SvL Uppland nr 117)
+S:Gås-Anders
+B:Svenska Låtar Uppland Nr 117
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:C
+V:1
+|:"^1"v c2 (e>G) c>e | e2 (c>e) g>e | d2 (d>B) G>B | (d>g) (a>g) f>d | 
+c2 (e>G) c>e | e2 (c>e) g>e | d2 (d>B) G>B | (d<c) c3 z ::
+v g2 (g>a) f>d | (c>e) (g>c') e>g | (g>f) (f>d) B>d | d>c (c<e) G2 |
+ g2 (g>a) f>d | (c>e) (g>c') e>g | (g>f) (f>d) B>d | (d<c) c3 z :| 
+V:2
+|:"^2" "C" G2 (c>E) G>c | c2 (G>c) e>c | "G7" B2 (B>G) D>G | (F>B) (c>B) G>F |"C" G2 (c>E) G>c | 
+c2 (G>c) e>c |"G7" B2 (B>G) D>G | "G7" (F<E) "C" E3 z :: 
+"G7" B2 (B>c) A>F |"C" (E>c) (e>g) c>e |"G7" (e>d) (d>B) G>F |"C" F>E (E<G) E2 |
+"G7" B2 (B>c) A>F |"C" (E>c) (e>g) c>e |"G7" (e>d) "^Stämförslag B.O." (d>B) G>F |"C" (F<E) E3 z :|
+

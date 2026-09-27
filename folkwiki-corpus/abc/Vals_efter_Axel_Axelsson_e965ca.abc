@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:487
+T:Vals efter Axel Axelsson
+T:(OA 487)
+B:Sörmländska låtar samlade av Olof Andersson nr 487
+R:Vals
+S:Efter Axel Axelsson
+O:Östtorp, Husby, Södermanland
+Z:Anders Larsson
+M:3/4
+L:1/4
+Q: 140
+%%MIDI ratio 2 1
+%%printtempo 0
+K:D
+D/F/ A/F/ A/F/ | D/G/ B/G/ B/G/ | D/F/ A/F/ A/F/ | [A,E]{/F} [A,E]/D/ [A,E] |  D/F/ A/F/ A/F/ |
+D/G/ B/G/ B/G/ | A/c/ e/c/ e/c/ | d2 z ::  e/f/ g/f/ g/e/ | A/d/ f/A/ d/f/ | A/c/ e/A/ c/e/ |
+d/e/ f/g/ a |  e/f/ g/f/ g/e/ | A/d/ f/A/ d/f/ | A/c/ e/A/ c/e/ | d2 z :|
+

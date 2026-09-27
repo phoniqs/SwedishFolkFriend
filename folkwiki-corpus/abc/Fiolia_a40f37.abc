@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Fiolia
+T:Polska
+O:Ilsbo, Hälsingland
+R:Polska
+C:Ingemar Lundberg
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. o. arr. Ingemar Lundberg."
+Z:"Sveriges spelmanslåt 1999"
+L:1/8
+M:3/4
+K:A
+V:1
+|:"^1" "A" ([Ae]>[ca]) [ca]3u e | (c/d/)c/B/ AE Ac |"Bm" (d>c) BF DF | (B>A) AG GD | 
+"E" FG/F/ E3u G | "E7" (B/c/)B/A/ G>E GB |1 (e>[Bg]) ([Bg]f) eB |"A" d2 (c/d/)c/B/ A/B/(c/d/) :|2
+(e>g) gf ec |"E7" dB/G/"A" A4 |:[K:D]"D" A>G (F/D/)F/A/ df | (a>b) a3u g | 
+(f/g/)f/e/ dA F>B |"A7" (A/B/)A/F/ G>F ED | C>E EA c(B/c/) |"D" d>A FA (d/c/)d/^d/ |1 
+"E" e>B ^GB/G/ EF/G/ |"A" A>E CE/C/ A,2 :|2,8"D" e>B ^GB"A7" A>=g | "A7" (f/g/)e/c/"D" d4 |] 
+V:2
+|:"^2" ([Ec]>[Ae]) [Ae]3u c | (e/f/)e/d/ cA ce | (B>F) FD FB | (d>c) ([Dc][DB]) [DB][DA] | 
+AB/A/ G3u B | (d/e/)d/c/ (B>G) Bd |1 (B>e) (ed) BG | B2 (A/B/)A/E/ (C/E/)A/B/ :|2 
+(B>e) (ed) BE | GE/D/ C4 |:[K:D] [A,F]>E (D/A,/)D/F/ (Ad) | ([Af]>g) [Af]3u e | 
+(d/e/)d/A/ (FE) D>G | (F/G/)F/D/ (C>D) CB, | A,>C CE G(E/G/) | 
+F>D A,D F(^G/A/) |1 "^Sveriges spelmanslåt 1999." B>d dB ^GB | E>G FG/E/ C2 :|2,8 B>E DE C>c | (A/c/)A/G/ F4 |]
+

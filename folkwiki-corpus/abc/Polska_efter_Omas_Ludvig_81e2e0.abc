@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Omas Ludvig
+T:(Norsk mazurka)
+S:Omas Ludvig Larsson
+O:Transtrand, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Transtrand (4) eft. Omas Ludvig Larsson."
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1""^\"Norsk mazurka\"" A |: f>(e d>)(^c d>)A | B>(A G>)(^F G>)B | (A>^c) (A>c) A>c | f>(e d>)(^c d>)A | 
+f>(e d>)(^c d>)A | B>(A G>)(^F G>)B | AA{fg} f2 e2 |1 (d>^c) d3 A :|2 (d>^c) d3 z |:
+({cd} c=B/c/) _b3 a | ge/g/ f3 c |{cd} c>A (B>d) B>d | d>c (A>c) A>c | 
+{cd} c=B/c/ _b3 a | ge/g/ f4 |{cd} c=B/c/ (d2 e2) |{fg} f>e f4 :| 
+V:2
+"^2" F |: d>A F>(E F>)F | G>D B,>(A, B,>)G | E>A (E>A) E>A | d>A F>(E F>)F | 
+d>A F>(E F>)F | G>D B,>(A, B,>)G | EE d2 ^c2 |1 A>G F3 F :|2 A>G F3 z |: 
+ED/E/ d3 c | BG/B/ A3 A | A>F (G>B) G>B | B>A (F>A) F>A | 
+ED/E/ d3 c | BG/B/ A4 | G^F/G/ (A2 c2) | "^Stämförslag B.O." A>G A4 :|
+

@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:1
+T:PAM-polskan
+C:Björn Lindström
+R:Polska
+O:Gopa,Bjursås, Dalarna
+N:Finnskogarn ovan ommodifierad till "enkel" polska.
+M:3/4
+L:1/8
+K:Dm
+|:f2 a2 a2 | fd d2 fd | c2 e2 ce | fa fd- d2 | f2 a2 a2 | fd d2 fd | c2 e2 ce | fe d4 :: fa ff af | %9
+ ed d2 fd | c2 eA ce | fa f d3 | fa ff af | ed d2 fd | c2 eA ce |1 fd d4 :|2 fd d2 ^f2 |: %17
+ d2 A2 ^f2 | (3d^fd A2 g2 | e2 A2 g2 | (3ege A2 ^f2 | d2 A2 ^f2 | (3d^fd A2 g2 |e^c A2 ce |1 %24
+ d4 ^f2 :|2 d6 |]
+

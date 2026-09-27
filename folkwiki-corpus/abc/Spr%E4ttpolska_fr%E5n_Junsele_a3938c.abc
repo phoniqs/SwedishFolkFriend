@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Sprättpolska från Junsele
+O:Junsele, Ångermanland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:Trad. från Junsele-trakten, Ångermanland.
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" g2 (Bd) GB | (DG) (B,D) G,B | (AB) (cc) BA | (A/c/)A/F/ GB D2 |
+ g2 (Bd) GB | (DG) (B,D) G,B | (AB) (cc) BA | (A/c/)A/F/ G3 z :|
+|: (Bc) (dd) cB | (cd) e2 c>A | (AB) (cc) BA | (A/c/)A/F/ GB D2 |
+ (Bc) (dd) cB | (cd) e2 c>A | (AB) (cc) BA | (A/c/)A/F/ G3 z :| 
+V:2
+|:"^2""G" B2 (GB) DG | B2 (GB) DG |"D7" (FG) (AF) DC |"D7" CC/A,/"G" B,D B,2 |"G" B2 (GB) DG | 
+B2 (GB) DG |"D7" (FG) (AF) DC |"D7" CC/A,/"G" B,3 z ::"G" (GA) (BB) AG |"Am" (AB) c2 A>F | 
+"D7" (FG) (AF) DC |"D7" CC/A,/"G" B,D B,2 |"G" (GA) (BB) AG |"Am" (AB) c2 A>F | 
+"D7" (FG) (AF)"^B.O." DC |"D7" CC/A,/"G" B,3 z :|
+

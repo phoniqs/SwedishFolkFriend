@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1378
+T:Vals från Enviken
+T:(SvL Dalarna 1378)
+R:Vals
+O:Enviken, Dalarna
+S:Vilhelm Hedlund
+B:Spelmansmusik
+B:Svenska Låtar Dalarna
+N:Variant av Svenska Låtar Dalarna 1378
+M:3/4
+L:1/8
+Q:3/4=63
+K:Gm
+d2|"Gm"ga g^f ga|g4 d2|Bc BA Bd|B3 G GA|
+"D"D2 ^F2 A2|(d=e/d/) A2 ^F2|"Gm"G2 D2 B,2|G,4 d2|
+ga g^f ga|g4 d2|Bc BA Bd|B3 G GA|
+"D"D2 ^F2 A2|(d=e/d/) A2 ^F2|"Gm"G3 G G2|1 G4:|2 G4 z2]|
+|:"Bb"d2 b2 db|"Cm"{/b}a3 g g2|"Gm/D"B2 g2 (Bg)|{/B}d3 B G2|
+"D"D2 ^F2 A2|{de}d2 A2 ^F2|"Gm"D2 G3 B|d6|
+"Bb"d2 b2 db|"Cm"{/b}a3 g g2|"Gm/D"B2 g2 (Bg)|{/B}d3 B G2|
+"D"D2 ^F2 A2|d2 A2 ^F2|"Gm"G3 G G2|1G4 z2:|2G4]|
+

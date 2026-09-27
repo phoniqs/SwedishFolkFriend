@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X: 74
+T: Polonäs ur Andreas Dahlgrens notbok nr 74
+R: Slängpolska
+B: Andreas Dahlgrens notbok
+B: FMK - katalog Ma7 bild 28
+O: Fågelvik, Tryserum, Småland
+S: efter Andreas Dahlgren
+B: [[Notböcker/Småländsk musiktradition]] nr I-142
+B: Jämför FMK - katalog Ma1 bild 14 ur [[Pehr Anderssons notbok]] nr 38
+B: Jämför Polonoise nr 41 ur Rasmus Storms notbok (ca. 1760) från Håstrup, [[Platser/Danmark]]
+B: Jämför Polonesse nr 40 (och andrastämma nr. 41) ur Jens Christian Svabos notbok (1775) från [[Platser/Danmark]]
+D: [[Grupper/Sågskära]] - Krook
+Z: till abc av Jon Magnusson
+N: Se även +
+M: 3/4
+L: 1/16
+K:Dm
+"Dm" (DEFG) A4 d4 | "A" ^cdec A8 |"Gm" {A2}B2A2G2F2"Bb"E2D2|DEFG "A" A8| 
+"Dm" {e2}f2fa "A" e2ef "Bb" d2e2|f2ed "A" ^c2e2 A4|"Dm" f2fa "A" e2ef "Bb" d2a2|fed^c "A" c4 "Dm" d4 ::
+"F" c2cd c4 A4 |"C" B2AG "F" A4 F4 |c2cd c2c2 A2A2|"C" B2AG "F" A8|
+"Gm" B2A2G2F2"Bb"E2D2|(DEFG) "A"A6 e2| "Dm" f2fa "Am" e2ef "Bb" d2e2|
+f2ed "A" ^c2e2 A4|"Dm" f2fa "Am" e2ef "Bb" d2a2|"Gm" fed^c "A" c4"Dm"d4 :|
+

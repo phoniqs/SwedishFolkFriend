@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska av Ingvar Norman
+T:"Amerika-polskan"
+C:Ingvar Norman
+O:Säter, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (42) av Ingvar Norman, Säter."
+Z:"Melodin tillkom under en spel och dans-turne i mellanvästern, USA, hösten 1959."
+L:1/8
+M:3/4
+K:F
+V:1
+"^1" c/A/ |: F>A- Ac- cf- | fa- a/g/f/e/ (f/a/)f/c/ | .B.d .A.c C>B | (A/G/)F/E/ Fd (c/A/)B/G/ |
+ F>A- Ac- cf- | fa- a/g/f/e/ (f/a/)f/c/ | .B.d .A.c C>B |1 (A/G/)F/E/ [FA]3 c/A/ :|2 
+ (A/G/)F/E/ [FA]3 z |: DF/A/ (d/e/)f/a/ g(a/g/) | f(a/f/) e(g/e/) ^ce | F(A/F/) E(G/E/) FD | 
+(F/E/)D/^C/ A,3 z | DF/A/ (.d.e) .f.a | (^ga) (ga) ^f=g- | ga (^ga) (^f=g) | fa (g/f/)e/d/ ^cA | 
+DF/A/ d/e/f/a/ g(a/g/) | fa/f/ e(g/e/) ^ce | FA/F/ E(G/E/) FD | F/E/D/^C/ D3 z :| 
+V:2
+"^2" F/C/ |: "F" A,>C- CF- FA- | Ac- c/B/A/G/ AA/F/ | "C7" .E.E "F" .F.F "C7" E>G | "C7" F/E/C/B,/ "F" A,F "C7" (F/E/)C/B,/ | 
+"F" A,>C- CF- FA- | Ac- c/B/A/G/ AA/F/ | "C7" .E.E "F" .F.F "C7" E>G |1 "C7" F/E/C/B,/ "F" A,3 F/C/ :|2 
+"C7" F/E/C/B,/ "F" A,3 z |: "Dm" A,D/F/ A/^c/d/f/"A7" e(f/e/) |"Dm" dd"A7" ^cc AG |"Dm" DD "A7" ^CC "Dm" DA | 
+A/G/F/E/"A7" [^CE]3 z |"Dm" A,D/F/ .A.^c .d.f |"A7" ef (ef) d^c- | "^Stämförslag B.O." ^cc (=Bc) (Ac) | "Dm" A^c (=B/A/)G/F/"A7" E^C | 
+"Dm" A,D/F/ "A7" A/^c/d/f/"A7" e(f/e/) | "Dm" dd "A7" ^cc "Dm" AG |"Dm" DD "A7" ^CC "Dm" DA | "A7" A/G/F/E/ "Dm" [A,F]3 z :|
+

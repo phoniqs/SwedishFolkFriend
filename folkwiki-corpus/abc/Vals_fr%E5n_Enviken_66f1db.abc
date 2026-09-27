@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals från Enviken
+T:efter Vilhelm Hedlund
+S:Vilhelm Hedlund
+O:Enviken, Dalarna
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"20. Vals från Enviken efter Vilhelm Hedlund, Enviken."
+Z:Senare anteckning: Finns i en fantastisk inspelning från 2014 av [[Personer/Ellinor Fritz]] och [[Personer/Leonor Palazzo]]: https://ellinorleonor.com/track/vals-fr-n-enviken
+L:1/4
+M:3/4
+K:Gm
+V:1
+"^1" d |: (3(g/a/g/) (^f a) | (g3/2 d/) d | (3(B/c/B/) (A ^F) | G2 D | (G/^F/ G) A | 
+(B/A/ B) c | (3(d/e/d/) (^c A) | d2 d | (3(g/a/g/) (^f a) | (g3/2 d/) d | 
+(3(B/c/B/) (A ^F) | G2 D | (G/^F/ G) A | (B/A/ B) d | (d/c/) (A/c/) B/A/ | G2 d :: 
+(3(d/e/d/) (c d) | (e3/2 c/) c | (3(c/d/c/) (B c) | d3/2 ^F/ G- | G B3/2 (c/ | d2) =e | 
+(3(f/g/f/) (=e ^c) | d2 d | (3(d/e/d/) (^c d) | (e3/2 c/) c | (3(c/d/c/) (B c) | 
+d3/2 ^F/ G- | G B3/2 (c/ | d2) g | ^f/g/ a b |1 g2 d :|2 g2 z |] 
+V:2
+"^2" G |:"Gm" B (A c) | B2 G | D (C A,) | B,2 A, | B,2 C | D2 =E |"D" ^F "A7" (G =E) |
+"D7" ^F2 G | "Gm" B (A c) | B2 G | D (C A,) | B,2 A, | B,2 C | D2 ^F |
+"D7" A ^F D/C/ |"Gm" B,2 G :: 
+"Gm" B (A B) |"Cm" c2 A |"D7" ^F (G A) |"Gm" B2 D- | D G3/2 (A/ | B2) B |
+"A7" A (G =E) | "D7" ^F2 B |"Gm" B (A B) |"Cm" c2 A |"D7" ^F (G A) |
+"Gm" B2 D- | D G3/2 (A/ | B2) B | "D7" A/B/ c d |1"Gm" B2 G :|2"Gm" B2 "^B.O."z |]
+

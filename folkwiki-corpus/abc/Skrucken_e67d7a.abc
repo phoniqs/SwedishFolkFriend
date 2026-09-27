@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Skrucken
+T:Pariserpolka
+C:Hugo Westling
+O:Norge
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Norge. Av Hugo Westling"
+L:1/16
+Q:1/4=76
+M:2/4
+K:G
+V:1
+|:"^1" D2G2 GFGA | B2G2 G2>A2 | B2G2 c2>B2 | B2A2 A^GA2 | D2F2 F^EFG | 
+A2F2 F2>A2 | d2d2 dcA2 | B8 | D2G2 GFGA | B2G2 G2>A2 | B2G2 c2>B2 |
+B2A2 A^GA2 | g2gg f2e2 | d2dd c2B2 | A2ce dfaf | g2g2 g4 :: 
+E2ED CEGc | e2ee d2c2 | D2DC B,DGB | d2dd c2B2 | D2DD DEFG | 
+A2FA d4 | G2GG GABc | d2Bd g4 | E2ED CEGc | e2ee d2c2 | D2DC B,DGB | 
+d2dd c2B2 | D2DD DEFG | A2FA d4 | fedc BcAF | G2G2 G4 :| 
+V:2
+|:"^2""G" B,2D2 D^CDF | G2D2 D2>F2 | G2D2 A2>G2 |"D7" G2F2 FEF2 | A,2D2 DCDE | F2D2 D2>F2 | 
+A2A2 AFD2 |"G" G8 | B,2D2 D^CDF | G2D2 D2>F2 | G2D2 A2>G2 | "Am" G2F2 FEF2 | "C" e2ee d2c2 | 
+"G" B2BB A2G2 |"D7" F2Ac Adfd |"G" B2B2 B4 ::"C" C2CA, G,CEG | c2cc G2E2 |"G" B,2B,A, G,B,DG | 
+B2BB A2G2 |"D7" A,2A,A, A,^CDE | F2DF [FA]4 |"G" B,2B,B, B,DGA | B2GB [GB]4 |"C" C2CA, G,CEG | 
+c2cc G2E2 |"G" B,2B,A, G,B,DG | B2BB A2G2 |"D7" A,2A,A, A,^CDE | F2DF [FA]4 | dcBA GAFD | "G" B,2B,2 "^B.O." B,4  :|
+

@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch från Enviken
+S:Ingvar Norman
+O:Enviken, Dalarna
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"32. Brudmarsch från Enviken. Trad. Ingvar Norman, Säter."
+L:1/8
+M:2/2
+K:G
+V:1
+"^1"u D2 |:v G2 DG B2 AG | (Bc/B/) AG (F2 D2) | G2 DG B2 GB |  e2 ^ce d2 Bd | (g{fg}f)ed (Bc/B/) AG | 
+(Bc/B/) AG (F2 D2) | (g{fg}f)ed (Bc/B/) AG |1,8[M:6/4] (GF)AF G6u D2 :|2 [M:6/4] (GF)AF G6v Bd |:
+[M:2/2]v g3 (a/4g/4f/ gb)a{ga}g | d3 (e/4d/4^c/u d2u =c2) | B2 dc (B/4c/4B/4c/4B) AG | (A/4B/4A/B) AGu (F2u D2) | 
+g3 (a/4g/4f/ gb)a{ga}g | d3 (e/4d/4^c/u d2u =c2) | B2 dc (B/4c/4B/4c/4B) AG |1 [M:6/4] (GF)AF G6v Bd :|2[M:6/4] (GF)AF G6v G,A, |: 
+[K:Bb][M:2/2]v B,3 (C{B,C} B,2) A,G, | D2 D4 B,A, | G,2 G,2 (G,A,)(B,C) | (D/4E/4D/E)DB, D2 D^F | G3 (A/4G/4^F/ GA)Bc | 
+d2 ^fd (df)fa | g4 (g/4a/4g/a)g^f | d4({de} d2 c2) | B4({Bc} BA)^FA |1 G6u (G,A,) :|2[K:G] G6 |] 
+V:2
+"^2" D2 |:v "G"[B,D]2 B,D [B,G]2 ^FD |"G" [B,G]2 ^FD "D7"  (C2 C2) |"G" [B,D]2 B,D [B,G]2 Bd | "A7" [G^c]2 AG "D7" [FA]2 DF |"G" [GB]2 cB [B,G]2 FD |
+"G" [B,G]2 FD "D7" (C2 C2) |"G" [GB]2 cB [B,G]2 FD |1,8 [M:6/4] "D7" [CD]2 CA, "G" [B,D]6 D2 :|2[M:6/4]"D7" [CD]2 CA, "G" [B,D]6v DG |:
+[M:2/2]"G"v [GB]4 (Bd)cB | "D7" [FA]4 (FA)GF |"G" G2 BA G2 FE |"D7" F2 FEu (D2u C2) |
+"G" [GB]4 (Bd)cB | "D7" [FA]4 (FA)GF |"G" G2 BA G2 FE |1[M:6/4]"D7" [CD]2 CA, "G"[B,D]6v DG :|2 [M:6/4] "D7" [CD]2 CA, "G" [B,D]6v GA |:
+[K:Bb][M:2/2]"Gm"v [GB]4 [GB]2 ^F=E |"D7" [^FA]2 [FA]4 GA | "Gm" [DB]2 [DB]2 (D^F)(GA) |"Gm" [GB]2 BG"D7" [^FA]2 FA |
+"Gm" [B,D]4 [B,D]2 DG | "D7" [^FA]4 [FA]2 Ac | "Gm" [DB]4 [DB]2 BA | "D7"[^FA]4 (F2 A2) |"Gm" [B,G]4 "D7" ^F2 DC |1 "Gm" [B,D]6 (GA) :|2 [K:G]"^B.O." "Gm" [B,D]6 |]
+

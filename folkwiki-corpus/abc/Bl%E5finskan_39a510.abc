@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Blåfinskan
+C:Otôrgs-Kaisa Abrahamsson
+O:Bergsjö, Hälsingland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Det finns en liten myr mellan Älvåsen och Luråsen i Hassela socken som heter Blåfinskan. Låten kom till efter en skidtur på myren"
+L:1/16
+M:3/4
+K:Bb
+V:1
+|:"^1" B,2DF (Bd)cB (AB)FD |"^Polska" E2GB (ed)cB (G2E2) | F2Ac (ed)cB (AB)cA | "B" B2dB (F2E2) (DE)DC | 
+B,2DF (Bd)cB (AB)FD |"^Ess" E2GB (ed)cB (G2E2) |"F7" F2Ac (ed)cB A2g2 | "F7" f2eA"B" [DB]6 z2 ::
+"B" (fg)f=e (f2b2) d2_e2 |"F7" f2gf (ec)Ac"B" B2F2 | "B" (B,F)(dF) (B,F)(dF) (eF)(dF) | (A,F)(cF) (G,E)(BE) D2[B,D]2 |
+ (B,F)(dF) (B,F)(dF) (eF)(dF) | (A,F)(cF) (G,E)(BE) D2[B,D]2 | (B,D)FB (d2B2) F2D2 | (CF)Ac [DB]6 z2 :| 
+V:2
+|:"^2""B" D2B,D (FB)AG (FG)DB, |"^Ess" G,2EG (cB)AG (E2B,2) |"F7" C2FA (cB)AG (FG)FE | F2BF (D2C2) (FG)FE | 
+D2B,D (FB)AG (FG)DB, | G,2EG (cB)AG (E2B,2) | C2FA (cB)AG F2e2 | d2FC [B,F]6 z2 :: 
+(de)d^c (d2f2) B2=c2 | d2ed (AF)EF D2B,2 | (DB)(fB) (DB)(fB) (gB)(fB) | "F" (FA)(eA)"^Ess" (EB)(gB)"B" f2d2 |
+"B" (DB)(fB) (DB)(fB) (gB)(fB) | "F" (FA)(eA)"^Ess" (EB)(gB)"B" f2d2 |"B" (DB,)DF (B2F2) D2B,2 |"F7" (A,C)EF"B" [B,D]6 z2 :|
+

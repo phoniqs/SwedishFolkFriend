@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Anders Frisell
+S:Anders Frisell
+O:Mockfjärd, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+U:t=tenuto
+K:Dm
+V:1
+|:"^1" D2 G>(A B>)A | (G^F){F} G4 | G2 (Bc) ff | (d^c){c} d4 :: 
+d>(^c d>)(e f)f | (dc) (ce) d>c | B>(A G>)(A B>)A | (G>^F) tAtF D2 | 
+d>(^c d>)(e f)f | (dc) (ce) d>c | B>(A G>)(A B>)A | (G<^F){F} G4 :| 
+V:2
+|:"^2" B,2 D>(E G>)E | (DC){A,} B,4 | D2 (GA) cc | (AG){E} ^F4 :: 
+B>(A B>)(c d)d | (BA) (Ac) B>A | G>(D B,>)(D G>)D | (B,>A,) tCtA, A,2 | 
+B>(A B>)(c d)d | (BA) (Ac) B>A | G>(D B,>)(D G>)^F |"^Stämförslag B.O." (D<C){A,} B,4 :|
+

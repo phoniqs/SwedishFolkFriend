@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Malung
+O:Malung, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+|:"^1" d>(^c A>)(c d>)e | f>(g e>)(g f>)e | d>(^c d>)(f e>)d | (d<^c) A4 | 
+d>(^c A>)(c d>)e | f>(g e>)(g f>)e | d>(^c d>)(f e>)d | (^c=B/c/) d4 :: 
+A>(A d2) f>d | d2 ^c>(d c>)A | d>(^c d>)(f e>)d | (f>e) e2 e>^c | 
+A>(A f2) a>f | a>(g e>)(e g>)e | g>(f d>)(f e>)d | (^c=B/c/) d4 :| 
+V:2
+|:"^2" F>(E ^C>)(E F>)G | d>(e ^c>)(e d>)A | F>(E F>)(A G>)F | (F<E) ^C4 | 
+F>(E ^C>)(E F>)A | d>(e ^c>)(e d>)A | F>(E F>)(A G>)F | (ED/E/) F4 :: 
+D>(D F2) A>F | F2 E>(F E>)^C | F>(E F>)(A G>)F | (A>G) G2 G>E | 
+^C>(E d2) f>d | f>(e ^c>)(c e>)c | e>(d A>)(A G>)F | "^Stämförslag B.O." (ED/E/) F4 :|
+

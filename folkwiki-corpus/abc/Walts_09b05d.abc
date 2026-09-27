@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Walts
+T:"Walts kallad Kortelljang"
+T:nr 22 ur FMK M 107
+R:Vals
+S:efter Per Henriksson, 
+O:Sövestad, Skåne
+B:http://carkiv.musikverk.se/www/fmk/M107/M107007.jpg
+N:Originalnoten är noterad i 3/8-takt (vilket är vanligt för Vals i äldre notböcker). Här ändrat till 3/4-takt för att passa med nutida praxis.
+Z:ABC-transkribering Sven Midgren
+M:3/4
+L:1/8
+K:G
+|: B2c2BA | B2c2BA | B2G2B2| d2c2B2 | A4 BA | A4 BA |
+ A2F2A2 | c2B2A2|G2g2g2 | f2a2a2 | gfedef | g4 :|
+|: fg | a2a2a2 | a2a2a2 | f2fgfe | d4 ef | gfedcB | AGFE D2 | DF Afge | d4:|
+

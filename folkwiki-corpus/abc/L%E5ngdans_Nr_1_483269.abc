@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:27
+T:Långdans Nr 1
+T:(Gamla Dansar i Skåne)
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Långdans (1). Mandelgren nr. 101."
+R:Långdans
+O:Skåne
+B:Gamla Dansar i Skåne
+L:1/16
+M:2/4
+K:D
+V:1
+"^1""^Förspel" c2c2 (ef)ge | A2Bc d4 |]:[K:D][M:2/4][K:treble]"^Dans" d2d2 (de)fg | 
+a2a2 (gf)ed | c2c2 (ef)ge | A2Bc d4 :: 
+e2>d2 (cd)ef | g2g2 (gf)ed | c2c2 (dc)df | A2A2 d4 :| 
+V:2
+"^2" A2A2 (cd)ec | E2GA F4 |]:[K:D][M:2/4][K:treble] F2F2 (FA)de | f2f2 (ed)cB | A2A2 (cd)ec | 
+E2GA F4 :: c2>B2 (AB)"^Mandelgren nr. 101."cd | c2c2 (BA)GF | E2E2 (FE)FA | "^Stämförslag B.O." C2C2 F4 :|
+

@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudmarsch av Folke Östlund
+C:Folke Östlund
+O:By, Uppland
+R:Marsch
+Z:[[Personer/Bengt Ohlson]]
+Z:"Prisbelönad vid kompositionstävling i Tierp 1976."
+Z:"Arr. N. Östlund."
+L:1/16
+M:4/4
+K:Dm
+V:1
+"^1" A2 |: d2AF G2AB A4 G2>B2 | (AB)AF (EF)E^C D6 (FG) | A2A^c (dc)de f4 d2>f2 | 
+(ef)ec (=Bc)B^G A6 A2 | d2AF G2AB A6 (GB) | A2Ac A2GF E6 A2 | (d^c)de (fe)fg a2af d2>f2 |1 
+(ef)ed (^cA)ce d6 A2 :|2 (ef)ed (^cA)ce d8 |:[K:D] A2BA G2BG F2AF [A,E]4 | 
+(AB)cd (ef)ec (de)fd [Ae]2[Ae]2 | A2BA G2BG F2AF [A,E]4 | (AB)cd (ef)ec [Dd]2[Dd]2 [Dd]4 :| 
+V:2
+"^2" A2 |: [DA]2FD B,2DG F4 E2>G2 | (FG)FD [A,E]2[A,E]2 [A,F]6 (DE) | F2FE ([FA]E)FA [Dd]4 [DA]2>d2 | 
+(cd)cA [E=B]2[EB]2 [A,E]2[^CE]2 [CE]2>E2 | [FA]2FD B,2DG F6 ([A,E]G) | F2FA F2ED ^C6 [CE]2 | (FE)FA (d^c)de f2fd [GB]2>d2 |1 
+(^cd)c=B (AE)AG [FA]6 A2 :|2 (^cd)c=B (AE)AG [FA]8 |:[K:D] [A,F]2GF E2GE D2FD C4 | 
+(CE)AB (cB)AG (FA)dA c2(AG) | [A,F]2GF [A,E]2GE D2FD C4 | "^Arr. N. Östlund." (CE)AB (cB)AG [FA]2[FA]2 [FA]4 :|
+

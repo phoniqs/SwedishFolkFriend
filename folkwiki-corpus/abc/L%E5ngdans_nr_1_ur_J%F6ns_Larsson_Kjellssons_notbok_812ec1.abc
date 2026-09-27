@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Långdans nr 1 ur Jöns Larsson Kjellssons notbok
+R:Långdans
+O:Brunnby, Skåne
+S:Jöns Larsson Kjellsson, Brunnby
+B:Skånes musiksamlingar N 14, nr 1
+B: Skånes musiksamlingar - N 14 bild 8
+H:Noterat i boken att melodien är "Skrefven af Jöns Larsson Kjalson 1824".
+N:Låtarna i notboken har ett löpande nummer i två avsnitt där denna låt är nr 1 i ordningen i andra avsnittet.
+Z:ABC-transkribering av Torbjörn Lundberg, enligt originalnoten.
+M:2/4
+L:1/8
+K:D
+|: d2fe | d2dc | B2B2 | ^d4 | e2gf | e2ed | c2AB | [Fd]2 z2 ::
+   fa^ga | ba^ga | e'2[Ac']2 | a2g2 | fa^ga | ba^ga | c'2c'2 | d'2 x2 :|
+

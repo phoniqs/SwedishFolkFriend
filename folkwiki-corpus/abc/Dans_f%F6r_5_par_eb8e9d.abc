@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Dans för 5 par
+O:Sverige
+R:Långdans
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sverige, Gillesdanser i Norden"
+B:Musik till Gillesdanser i Norden
+L:1/8
+M:2/4
+K:C
+V:1
+"^1""^Förspel" ec/c/ ee | dB d>f | eg ed | c2 c2 |]:[M:2/4][K:treble]"^Dans" GG/F/ EF | Gc c2 | 
+GG/F/ ED | DC C2 | GG/F/ EF | Gc cc/d/ | ec dB | c2 c2 :: 
+ec/c/ ee | dB d>d | ec/c/ ee | (d/c/)B/A/ G2 | 
+ec/c/ ee | dB d>f | eg ed | c2 c2 :| 
+V:2
+"^2" cG/G/ cc | BG B>d | ce cG | E2 E2 |]:[M:2/4][K:treble] EE/D/ CD | EE E2 | EE/D/ CB, | 
+B,G, G,2 | EE/D/ CD | EE EE/F/ | GE FD | E2 E2 ::"^Önskat antal ggr." cG/G/ cc | BG B>B | 
+cG/G/ cc | (B/A/)G/D/ B,2 | cG/G/ cc | BG B>d | ce c"^Stämförslag B.O."G | E2 E2 :|
+

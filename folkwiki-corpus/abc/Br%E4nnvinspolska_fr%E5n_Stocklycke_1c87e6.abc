@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Brännvinspolska från Stocklycke
+C:Dan Alfredsson
+O:Stocklycke, Östergötland
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Dan Alfredsson."
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1""^Tr" (f>e) (d>F) A>B |"^Tr" A>F G2 G2 |"^Tr" (e>d) (c>A) c>B |"^Tr" B>A A2 A2 | 
+"^Tr" (f>e) (d>F) A>B |"^Tr" A>F G2 G2 |"^Tr" (e>d) (c>A) f>e | d2 d4 :: 
+(F>A) (B>F) A>B | "^Tr" A>F G2 G2 | (A>B) (c>A) c>B |"^Tr" B>A A2 A2 | 
+(F>A) (B>F) A>B |"^Tr" A>F G2 G2 | (A>B) (c>A) f>e | d2 d4 :| 
+V:2
+|:"^2" (d>A) (F>D) F>G | F>D E2 E2 | (c>B) (A>E) A>G | G>F F2 F2 | 
+(d>A) (F>D) F>G | F>D E2 E2 | (c>B) (A>E) A>G | F2 F4 :: 
+(D>F) (G>D) F>G | F>D E2 E2 | (E>G) (A>E) A>G | G>F F2 F2 | 
+(D>F) (G>D) F>G | F>D E2 E2 | "^Stämförslag B.O." (E>G) (A>E) A>G | F2 F4 :|
+

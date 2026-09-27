@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo i förrgår
+C:Nelly Östlund
+O:By, Dalarna
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Nelly Östlund, By. Dec. 2006."
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" G2 (.F2 .E2) | D>G B2 B2 | (BA/B/) (c>A) F>A | (de/d/) (B>G) B>G | 
+G>B F2 E2 | D>G B2 B2 | (BA/B/) (c>A) F>A | G2 G4 :: 
+(de/d/) (B>G) B>d | (e>c) A2 A>B | c2 (A>F) A>c | (d>B) G3u A | 
+B2 (G>E) G>B | (c>B) (A>G) F>E | (DE/D/) (^C>D) B>A | G2 G4 :| 
+V:2
+|:"^2""G" B,2"D7" (.C2"C" .C2) |"G" B,>D G2 G2 |"D7" G2 (A>F) D>F | "G" B2 (G>D) G>D | 
+"G" B,2 "D7" (.C2"C" .C2) |"G" B,>D G2 G2 |"D7" G2 (A>F) D>C |"G" B,2 [B,D]4 :: 
+"G" (Bc/B/) (G>D) G>B |"Am" (c>A) E2 E>G |"D7" A2 (F>D) F>A |"G" (B>G) D3u F | 
+"Em" G2 (E>B,) E>G |"Am" (A>G) (F>E) D>C | "D7" A,2 "^Stämförslag B.O." (G,>A,) D>C | "G" B,2 [B,D]4 :|
+

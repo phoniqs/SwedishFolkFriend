@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:21
+T:Polska efter Gelotte
+T:(SvL Uppland 21)
+S:Wilhelm Gelotte
+B:Svenska Låtar Uppland Nr 21
+O:Uppland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" D>F{F} A2 A2 | AB/A/ GA/G/ FA | A>c{c} e2 e2 | ef/e/ de/d/ c>e | 
+(e>d) (f>e) d>B | (B>A) A4 :: af/a/ ge/g/ fd | AF/A/ GE/G/ FD | 
+af/a/ ge/g/ fd | AF/A/ GE/G/ F2 | (G/F/)G/A/ BA c>e | (e/g/)e/c/ [Fd]2 z2 :| 
+V:2
+|:"^2" A,>D{D} F2 F2 | FG/F/ EF/E/ DF | E>A{A} c2 c2 | cd/c/ Bc/B/ A>c | 
+(c>B) (d>c) B>^G | (^G>E) C4 :: fd/f/ ec/e/ dA | FD/F/ EC/E/ DA, | 
+fd/f/ ec/e/ dA | FD/F/ EC/E/ D2 | (E/D/)E/F/ GE A>c | "^Stämförslag B.O." (c/e/)c/A/ [DA]2 z2 :|
+

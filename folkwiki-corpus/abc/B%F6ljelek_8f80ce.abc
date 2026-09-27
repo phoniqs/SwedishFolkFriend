@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Böljelek
+C:Einar Kindström
+O:Hassela, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. Einar Kindström, Hassela."
+Z:"Stämma Göran Larsson"
+L:1/8
+M:3/4
+K:Bb
+V:1
+|:"^1" F2 B2 d2 | f3 g f2 | e3 d c2 |"^Vals" B6 | b2 a2 g2 | f3 g f2 | c2 d2 e2 | 
+d6 | D3 FBd | f3 g f2 | E3 GBe | g3 bba | a3 ggf | f3 eeA | [DB]6- | [DB]4 z2 :: 
+(DF) (Bd) fb | a3 g e2 | c3 A F2 | B3 c d2 | (bf) (dB) FD | E3 G G2 | (af) (ec) AF | B3 c d2 | 
+(DF) (Bd) fb | a3 g e2 | c3 A F2 | B3 c d2 | (EG) (Be) gb | (DF) (Bd) fb | a3 gec | B6 ::
+[K:Eb] G3 FED | (EG) (Be) gb | a3 fdB | B6 | B3 AFD | d4 c2 | c3 BGE | c4 B2 | 
+(G,B,) (EG) Be | (gf) (ed) cB | A3 GFE | D4 C2 | B,3 EGB | A3 D D2 | E6 | e4 z2 :| 
+V:2
+|:"^2" B,2 D2 F2 | d3 e d2 | c3 B A2 | F2 D2 F2 | G2 A2 B2 | d3 e d2 | A2 B2 c2 | 
+B6 | B,3 DFB | d3 e d2 | G3 EGB | e3 ggf | f3 eed | d3 cAE | [B,D]6- | [B,D]4 z2 :: 
+B,2 F2 D2 | F3 E C2 | A3 F E2 | D3 E F2 | D2 F2 B,2 | C3 D E2 | F2 c2 A2 | D3 E F2 | 
+B,2 F2 D2 | F3 E C2 | A3 F E2 | D3 E F2 | B,2 G2 E2 | B,2 F2 D2 | c3 BAE | D6 ::
+[K:Eb] E4 B,2 | B,2 G2 E2 | F3 DFE | D6 | D3 C B,2 | F4 A2 | A3 GEB, | 
+A4 G2 | E2 G2 B2 | (ed) (cB) AG | F3 EDC | B,4 A,2 | G,3 B,EG | "^Stämma Göran Larsson" (FE) (DC) B,A, | G,2 B,2 E2 | G4 z2 :|
+

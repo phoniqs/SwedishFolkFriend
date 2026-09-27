@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:4244
+T:Olas spritt
+T:Polska
+R:Polska
+N:Till en särdeles vital åttioåring
+C:Lennart Sohlman 2019
+M:3/4
+L:1/8
+Q:1/4=140
+K:D
+V:1
+"D"d>A F>A d>f|"Em"g>f e2B2|"A7"e>d c>A f>e|"D"d>f (b>f) a2|!
+"D"d>A F>A d>f|"Em"g>f e2B2|"A7"c>B A>g B>c|"A7"((3edc) "D"d3z::!
+"D"(3a(gf) d2 (A>f)|"Em"{ga}(3g(fg) e2(b2|"A7"g>)(f e>)d c>b|"D"a>g f>e d>f|!
+"D"(3a(gf) d2 (A>f)|"Em"{ga}(3g(fg) e2(b2|"A7"e>)(d c>)B A>G|"A7"((3GFE)"D"D3z::!
+"D"D>F A>F D2-|"D"D>F "A7"(3A(GF)[A,2-E2-]|"A7"[A,3/2E3/2]F/ "G"G>A B>A|"A7"G>F E>D (3C(EC)|!
+"D"D>F A>F D2-|"D"D>F "A7"(3A(GF) E2-|"A7"E>F "G"G2 B2|"A7"((3ABc) "D"d3z:|]
+V:2
+D>E F2F2|B>AG2G2|c>B A2A2|A>d (g>f)f2|!
+D>E F2F2|B>AG2G2|A>G E2G2|(3(GFE) [F3A3]z::!
+(3f(ed) A2(F>A)|(3B(AB)G2(g2|e>)(d c>)B A>g|f>e d>A F>A|!
+(3f(ed) A2(F>A)|(3B(AB)G2(B2|A>)(B A>)G F>E|E2[F3A3]z::!
+A,>D F>D A,2-|A,>D (3F(ED)C2-|C>D E>F G>F|E>D C>A, (3A,(CA,)|!
+A,>D F>D A,2-|A,>D (3F(ED) C2-|C>D B,2 D2|(3(GFE) [F3A3]z:|]
+

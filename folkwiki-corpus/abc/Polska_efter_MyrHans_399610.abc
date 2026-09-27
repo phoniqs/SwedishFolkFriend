@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Myr-Hans
+O:Alfta, Hälsingland
+R:Polska
+S:Myr-Hans Nilsson
+Z:[[Personer/Bengt Ohlson]]
+Z:"Musik till Hälsingedanser 5. Polska efter "Myr-Hans" Nilsson"
+L:1/8
+Q:1/4=130
+M:3/4
+K:D
+V:1
+"^1" (G |: F>)A d2 d2 | d>c e2"^Alfta" e2 | c>e a2 a2 | (b>a) (af) dA | 
+F>A d2 d2 | d>c e2 e2 | c>e a2 a2 |1 (b>a) a3 G :|2 b>a a3 a |: 
+ab/a/ (f>d) dd | de/d/ (B>G) GG | A>c Ac Ac | d>c (df) a2 | 
+ab/a/ (f>d) dd | de/d/ (B>G) GG | A>c Ac Ac |1 d2 d3 f :|2 d2 d3 z |] 
+V:2
+"^2" (B, |: A,>)D F2 F2 | F>E G2 G2 | E>A c2 c2 | (g>f) (fd) AF | 
+A,>D F2 F2 | F>E G2 G2 | E>A c2 c2 |1 (d>c) c3 D :|2 d>c c3 f |: 
+fg/f/ (d>A) AF | Bc/B/ (G>E) ED | C>E EA EG | F>G (Ad) f2 | 
+fg/f/ (d>A) AF | Bc/B/ (G>E) ED | C>E EA EG |1 F2 F3 d :| F2"^B.O." F3 z |]
+

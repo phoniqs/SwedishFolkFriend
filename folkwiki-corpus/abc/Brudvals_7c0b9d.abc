@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Brudvals
+C:Joel Rådberg
+O:Sandviken, Gästrikland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Komp. o. arr. av Joel Rådberg, Sandviken."
+L:1/8
+M:3/4
+U:t=tenuto
+K:G
+V:1
+|:"^1" D2 (B2 A2) | G4 (DG) | B2 (B3 c) | B4 A2 | e2 (f2 e2) | d4 (AB) | c2 (B2 A2) | B6 | 
+D2 (B2 A2) | G4 (DG) | B2 (B3 c) | B4 A2 | e2 (f2 e2) | d4 (AB) | c2 (B2 A2) |1 G6 :|2 G4 (Be) |: 
+g2 (g3 .g) | g4 f2 | e2 (e3 .e) | d4 B2 | B2 (A2 B2) | (c3 B) A2 | d2 (d3 .c) | B4 (Be) | g2 (g3 .g) | 
+b4 a2 | g2 (f2 e2) | d4 (Bc) | d2 (g2 b2) | a4 (eg) | f2 (e2 f2) |1 [Bg]4 (Be) :|2 [Bg]4 (Bc) |: 
+d2 (tgtg) gg | f4 (AB) | c2 (tete) ee | d4 (GA) | B2 (td2 td2) | c4 (AB) | c2 (e2 d2) | B4 (Bc) | 
+d2 (tbtb) bb | a4 (ef) | g2 (f2 e2) | d4 (cB) | A2 (ce) cA | G2 (Bd) BG | D2 (Ac) AF |1 G4 (Bc) :|2 G6 |] 
+V:2
+|:"^2""G" B,2 (D2 C2) | B,4 (B,D) | G2 (G3 .G) |"D7" F4 F2 | c2 (tc2 tc2) | [FA]4 (CD) | F2 (tF2 tF2) |
+"G" G6 | B,2 (D2 C2) | B,4 (B,D) | G2 (G3 .G) | "D7" F4 F2 | c2 (tc2 tc2) | [FA]4 (CD) | F2 (D2 [CD]2) |1"G" [B,D]6 :|2 "G" [B,D]4 (GB) |: 
+"Em" e2 (e3 .e) | "B7" B4 B2 |"C" c2 (c3 .c) |"G" B4 G2 | G2 (F2 G2) | "D7" (A3 G) F2 | F2 (F3 .A) |"G" G4 (GB) |"Em" e2 (e3 .e) |
+"^H7" ^d4 f2 |"C" e2 (d2 c2) |"G" B4 (GA) | B2 (B2 d2) |"Am" c4 (ce) | "D7" c2 (.c2 .c2) |1"G" G4 (GB) :|2"G" G4 (GA) |: 
+"G" B2 (tBtB) BB |"D7" c4 (FG) | A2 (tctc) cc |"G" B4 (B,D) | G2 (tB2 tB2) |"D7" A4 (FG) | A2 (c2 F2) |"G" G4 (GA) | 
+B2 (tdtd) dd |"Am" e4 (cd) | e2 (d2 c2) |"G" B4 (AG) |"Am" E2 C2 A,2 | "G" D2 B,2 G,2 |"D7" C2 F2 DC |1"G" [B,D]4 (GA) :|2"G" [B,D]6 |] 
+

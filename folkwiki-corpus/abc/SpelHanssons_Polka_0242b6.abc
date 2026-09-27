@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Spel-Hanssons Polka
+T:Polka efter B. Andersson och J. Liljekvist
+R:Polka
+S:efter B. Andersson och J. Liljekvist
+O:Blekinge
+Z:Daniel Bogren 2026
+D:"Dra´ en låt" Låt nr 12, Ingmar Söderström
+N:Upptecknad av Ingmar Söderström  år 1985
+M: 2/4
+L: 1/4
+K: G
+|d/|:"G"d/B/ G/A/|B/B//B// B/B/|d/B/ G/B/|"D7"c/c//c// c/c/|
+|d/d/ F/A/|d/d//d// d/d/|.f/e// d/c/|"G"B/B//B// B/B/|
+|d/B/ G/A/|B/B//B// B/B/|d/B/ G/B/|"D7"c/c//c// c/c/
+|d/d/ F/A/|d/d/ d/d/|.f/e// d/f/|"G".gz:|
+|:"G"B/d/ B/d/|g/g//g// g/g/|g/"D7"f/ e/d/|c/c//c//c|
+|c/A/ F/A/|d/d//d// d/d/|.f/e// d/c/|"G"B/B//B// B/B/|
+|B/d/ B/d/|g/g//g// g/g/|"D7"g/f/ e/d/|c/c//c//c|
+c/A/ F/A/|d/d//d// d/d/|.f/e// d/f/|"G".gz:|
+

@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:1
+T:Hambo-polska från Södra Dalarna
+T:efter Mas Gustav
+S:Mas Gustav
+O:Mattshyttan, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"(30) Hambo-polska från Södra Dalarna efter Mas Gustav (1833-1906) Mattshyttan, Säter"
+L:1/8
+M:3/4
+K:G
+V:1
+"^1" (B |: d2) (e>d) c>B | (d^c/d/) (e>d) B>d | g>(f e>d) c>B | (AG) (FG) A>B | 
+(cB/c/) (d>c) B>A | (cB/c/) (d>c) A>c | a>(g f>e) d>e | (cd) (Bc) d>B | 
+d2 (e>d) c>B | (d^c/d/) (e>d) B>d | g>(f e>d) c>B | (AG) (FG) A>B | 
+(cB/c/) (d>c) B>A | cB/c/ (d>c) A>c | a>(g f>e) d>e |1 (cB) G3 B :|2 (cB) G3 d |:
+[K:Bb] b2 (b>a) ^f>a | g>a g>d B>d | g2 g>d B>d | e>f e>c A>c |
+ d2 f>e c>A | d>g d>B G>B | c2 d>c A>B |1 ^F2 G3 d :|2[K:G] ^F2 G3 |] 
+V:2
+"^2" (G |:"G" B2) (c>B) A>G | G2 (B>G) D>B | e>(d c>B) A>G | "D7" (FE) (DE) F>G | 
+A2 (B>A) G>F | F2 (A>F) D>A | c>(B A>G) F>G |"G" (AB) (GA) B>G | 
+B2 (c>B) A>G | G2 (B>G) D>B | e>(d c>B) A>G | "D7" (FE) (DE) F>G | 
+A2 (B>A) G>F | F2 (A>F) D>A | c>(B A>G) F>G |1 "D7" (FD) "G" B,3 G :|2 "D7" (FD) "G" B,3 _B |: 
+[K:Bb]"Gm" d2 (d>c) A>c | B>c B>G D>G | B2 B>G D>G |"Cm" c>d c>A ^F>A | 
+"D7" ^F2 A>G F>D | "Gm" G>B G>D B,>D |"D7" ^F2"^Stämförslag B.O."  A>F D>D |1"D7"C2"Gm" B,3 B :|2 [K:G]"D7" C2"Gm" B,3 |]
+

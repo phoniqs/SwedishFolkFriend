@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter Hampus August
+S:Hampus August Andersson
+O:Husby, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polska från Södra Dalarna (55) efter Hampus August Andersson, Husby."
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" (F |: A>)(^c d2) e>g | fg/f/ e2 ^c5/4c/4 | d>(=c A2) F>G |1 A2 A3 F :|2 A2 A3 (f |: 
+a>)(a f2) a>f | (ga/g/) e2 g>e | f>(e d>f) e>d | (d^c) A3 f | 
+a>(a f2) a>f | ga/g/ e2 g>e | f>e d2 f>e |1 ^c2 d3 f :|2 ^c2 d3 z |] 
+V:2
+"^2" (D |: F>)(G A2) ^c>e | de/d/ ^c2 A5/4A/4 | A>(G F2) D>E |1 ^C2 C3 D :|2 ^C2 C3 (d |: 
+f>)(f d2) f>d | (ef/e/) ^c2 e>c | d>(A F>A) G>F | (FE) ^C3 d | 
+f>(f d2) f>d | ef/e/ ^c2 e>c | d>A F2 A>G |1 E2 F3 d :|2 E2"^B.O." F3 z |]
+

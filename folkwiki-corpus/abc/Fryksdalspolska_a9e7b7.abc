@@ -1,0 +1,27 @@
+%%abc-charset utf-8
+
+X:18
+T:Fryksdalspolska
+T:(Sv Folkdanser Del 1)
+O:Värmland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Sv Folkdanser Del 1 18. Fryksdalspolska"
+Z:http://runeberg.org/folkdans/besk/0157.html
+B:Beskrivning av Svenska Folkdanser Del 1 Nr 18
+L:1/8
+M:3/4
+K:D
+V:1
+"^1""^Förspel""D" (3(a^ga) (b>a)"A7" =g2 |"A7" (3(gfg) (a>g)"D" f2 |"A7" (3(fef) (g>e) c>e | "D" d2 d2 z2 |]
+[K:D][M:3/4][K:treble]"^Dans""^(1)""D" (d>c) (d>A) F>A | (d>c) (d>A) F>A | (d>c) (d>e) f>g |"A7" (b>a) (a>g) f>e |
+"D" (d>c) (d>A) F>A | (e>c) (d>A) F>A | (d>c) (d>e) f>g | (b>a) a4 |]
+"^(2)""D" (3(a^ga) (b>a)"A7" =g2 |"A7" (3(gfg) (a>g)"D" f2 | "A7"(3(fef) (g>e) c>e | "D" d2 f>a d'2 |
+"D" (3(a^ga) (b>a)"A7" =g2 |"A7" (3(gfg) (a>g)"D" f2 | "A7" (3(fef) (g>e) c>e | "D" d2 d4 |] 
+V:2
+"^2" (3(fef) (g>f) e2 | (3(ede) (f>e) d2 | (3(dcd) (e>c) A>G | F2 F2 z2 |] 
+[K:D][M:3/4][K:treble] (F>E) (F>D) D>F | (F>E) (F>D) D>F | (F>E) (F>A) d>e | (g>f) (f>e) d>A | 
+(F>E) (F>D) D>F | (G>E) (F>D) D>F | (F>E) (F>A) d>e | (g>f) f4 |] 
+(3(fef) (g>f) e2 | (3(ede) (f>e) d2 | (3(dcd) (e>c) A>G |F2 A>d f2 | 
+"^Musik för 8 par:" "^Tur 1.      1:a   1 ggr.      2:a   1 ggr." "^Tur 2.      1:a   1 ggr.      2:a   1 ggr.     1:a   1 ggr.      2:a   1 ggr." "^Tur 3      1:a   1 ggr.      2:a   1 ggr." "^Tur 4      1:a   1 ggr.      2:a   2 ggr." "^Tur 5      1:a   1 ggr.      2:a   1 ggr.      1:a   1 ggr.      2:a   1 ggr." "^Tur 6      1:a   1 ggr.      2:a   2 ggr." "^Spelas rakt igenom 8 ggr.  Repr. (2) spelas 2 ggr. 5:e och 8:e gången."(3(fef) (g>f) e2 | (3(ede) (f>e) d2 |  (3(dcd) (e>c) A>G | "^Stämförslag B.O." F2 F4 |]
+

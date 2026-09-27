@@ -1,0 +1,30 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt
+T:"Excellensen"
+O:Hälsingland
+R:Gånglåt
+C:Jon-Erik Öst
+S:Thore Härdelin Den Äldre
+Z:Karin Helander
+B:25 Öst-låtar Nr 1
+Q:60
+L:1/8
+M:4/4
+K:C
+V:1
+"^1" G |: "^Komp 1939" [c2E2] [cE][dE] [c2E2] [BD][AD] | [G2B,2] [FA][BG] [c3E3]c | e2 ed (eg) fe | (ed) dd/e/ dG AB | 
+c2 (c/B/)c/d/ c2 (cB) | (BA) AF D2 fa | (ag) ec (ed) BG |1 c2 (B/G/)B/d/ c3G :|2 c2 (B/G/)B/d/ c3c |
+|: e2 (e/f/)e/d/ cd e^f | [g2B2] (d/e/)d/^c/ d2 [e2^G2] | [A,2E2c2] (c/d/)c/B/ AB cd | [e2^G2] [BE]>[cE] [B3E3][BE] | [C2F2A2] (A,/C/)F/A/ c((3c/d/c/) BA |
+G2 (C/E/)G/c/ e3 e | (Led) Lfd LBG LBd |1 [c2E2] (B/G/)B/d/ [c2E2] Gc :|2 [c2E2] (B/G/)B/d/ [c2E2G,2] ueue |
+|: e2 B^G EE (G/E/)G/B/ | e2 cA EA ce | (^fa) fd cd fa | g2 (g/a/)g/^f/ ge =fg | 
+a2 fd Ad fa | (ag) ec G2 EG | Fd Ac BG ed |1 c2 (B/G/)B/d/ [c2E2] ueue :|2 "^Arr Th. Härdelin" c2 (B/G/)B/d/ [c2E2G,2] z |]
+V:2
+"^2" G, |: "C" C2 CG C2 "G7" [B,F][A,F] | [G,2D2] [A,F][B,F] "C" CE Gc | c2 GB (ce) dc | "G7" (cB) BB/c/ BF ED | 
+"C" C2 (E/F/)E/D/ C2 (AG) | "Dm" (GF) FD A,2 df | "C"(fe) cG "G7" BB  GF |1 "C" [C2E2] "G7" [G,D][G,D] "C" [C3E3] G, :|2 "C" [G2E2] "G7" (G/F/)E/D/ "C" [C3E3] z | 
+|: "C" (Gc) ec AB cd | "G7" [D2G,2] (B/c/)B/A/ B2 "E7" [B2E2] | "Am" [C2A2] (A/B/)A/F/ ED CB, | "E7" [B,2D2] [B,^G]>[B,G] [B,3G3][B,G] | "F" A,2 (A/F/)C/A,/ AA FD |
+"C" G,2 (G/E/)C/G,/ GG EC | "C" (G,F) "Dm" A,F "G7" B,F ED |1 "C" [C2G2] "G7" [G,D][G,D] "C" C3 z :|2 "C" [C2G2] "G7" [G,D][G,D] "C" [E3C3] z |
+|: "E7" z2 ee e2 B^G | "Am" EE (A/E/)A/c/ ec AA | "D" [C2D2] ^FA (AF) D[DA,] | "G" G2 DB, G,^c "G7" de | 
+"Dm" f2 dA FF (FD) | "C" e2 cG EE (DC) | "Dm" [D2B2] (DE) "G7" FD B,G, |1 "C" C2 "G7" [G,D][G,D] "C" C2 z2 :|2 "C" C2 "G7" [G,D][G,D] "C" C2 z |]
+

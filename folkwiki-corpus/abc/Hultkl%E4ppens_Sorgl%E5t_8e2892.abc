@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Hultkläppens Sorglåt
+S:Per Hult Alcén, Hultkläppen
+O:Bergsjö, Hälsingland
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]] nr 2
+Z:En juldagsmorgon satt Hulkläppen vid hustruns grav och spelade denna sorglåt som han komponerat till hennes ära.
+L:1/8
+M:4/4
+K:Dm
+V:1
+"^1"u A2 |:v B3 (c B2) AG | A4- A ABc | d2 d2 D2 (E^F) | G6 B2 | d3 (^c d2 e2) | 
+f4 f2 ef |g3 (g e2 ^c2) |1 d6 A2 :|2 d6 d2 |: (d2 g2) (g^f) ga | g4- g fed | 
+(c2 f2) (fe) fg | f4- f _edc | B3 (c B2) AG | A4- A ABc | d2 d2 D2 (E^F) |1 G6 d2 :|2 G6 z2 |] 
+V:2
+"^2" ^F2 |:"Gm" [B,G]4 [B,G]4 |"D7" [A,^F]4 [A,F]4 | [^FA]4 (A,2 C2) |"Gm" [B,D]6 G2 | 
+[DB]4 [DB]4 |"Dm" [Fd]4 [Fd]4 |"A7" [E^c]4 (A2 G2) |1"Dm" [FA]6 ^F2 :|2 "Dm" [FA]6 ^F2 |:"Gm" [GB]4 [GB]4 | 
+[DB]4 [DB]4 |"F" [FA]4 [FA]4 |"F7" [_Ec]4 [Ec]4 |"Gm" [B,G]4 [B,G]4 | 
+"D7""^" [A,^F]4 [A,F]4 | 
+"^""^Stämförslag B.O." [^FA]4 (A,2 C2) |1"Gm" [B,D]6 ^F2 :|2 "Gm" [B,D]6 z2 |]
+

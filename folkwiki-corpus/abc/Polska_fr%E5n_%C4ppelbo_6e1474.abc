@@ -1,0 +1,22 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska från Äppelbo
+S:Efter Wifors Erik Larsson
+O:Äppelbo, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" (^c |: d>)(e f>)(e f>)a | (ag) e3 g | f>(e d>)(^c d>)e | ^c2 A3 c | 
+d>(e f>)(e f>)a | ag e3 g | f>e (3def a>^c |1 d2 d3 ^c :|2 d2 d3 A- |: 
+A>^c d>(e f>)a | (3geg (3fdf e>^c | A>^G A>(^c d>)f | (3e^ce d2 A2- | 
+A>^c d>(e f>)a | (3geg (3fdf e>^c | A>^G A>(^c d>)f |1 (3e^ce d3 A- :|2 (3e^ce d3 z |] 
+V:2
+"^2" E |: F>(A d>)(^c d>)f | fe ^c3 e | d>(A F>)(E F>)G | E2 ^C3 E | 
+F>(A d>)(^c d>)f | fe ^c3 e | d>A (3FGA ^c>A |1 F2 F3 E :|2 F2 F3 D- |: 
+D>E F>(A d>)f | (3e^ce (3dAd c>A | E>D E>(G F>)A | (3GEG F2 D2- | 
+D>E F>(A d>)f | (3e^ce (3dAd c>A | E>D E>(G F>)A |1 (3GEG F3 D :|2 "^Stämförslag B.O." (3GEG F3 z |]
+

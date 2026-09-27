@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Polka-slunga av Ingvar Norman
+C:Ingvar Norman
+O:Säter, Dalarna
+R:Polka
+Z:[[Personer/Bengt Ohlson]]
+Z:"Polka-slunga från Södra Dalarna"
+L:1/8
+M:2/4
+K:A
+V:1
+|:"^1" cE cE | cB/c/ (dB) | dB gd | fc e>d | 
+cE cE | cB/c/ (dB) | dB ge | a2 a2 ::
+[K:D] f>e dc | BA GE | (C/E/)G/B/ (Ac) | dd A>d | 
+f>e dc | BA GE | (C/E/)G/B/ (Ac) | d2 d2 :| [K:A] |] 
+V:2
+|:"^2""A" EC EA |"E7" AG/A/ BG | BG dB |"A" cA c>F | 
+EC EA |"E7" AG/A/ (BG) | BG dB | "A" c2 c2 ::
+[K:D]"D" d>c BA | "A7" GF EC | (A,/C/)E/G/ (FE) |"D" FF D>A | 
+d>c BA |"A7" GF EC | "^Stämförslag B.O." (A,/C/)E/G/ (FE) |"D" F2 F2 :|[K:A] |]
+

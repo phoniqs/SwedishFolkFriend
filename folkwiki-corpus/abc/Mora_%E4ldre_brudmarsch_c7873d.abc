@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:16
+T:Mora äldre brudmarsch
+T:(Andrastämman)
+S:Eric Öst
+O:Mora, Dalarna
+R:Marsch
+Z:Karin Helander
+B:Spelmanshälsning
+N:Uppt. och bearb. Eric Öst
+L:1/8
+M:4/4 3/4
+K:D
+V:1
+"^2:a stämma"
+A2 |: "D"[FA]2 [FA]2 "A7"(!tenuto![GA]2 !tenuto![GA]2) | "D"[FA]2 [FA]2 "A7"(!tenuto![GA]2 !tenuto![GA]2) | "D"F2 (FA) d2 (de) | f2 (fe) d2 (dB) | "D"A2 A2 "A7"(EG) (AG) |1
+"D"[FA]6 D2 :|2 "D"[FA]6 (de) |: "D"f>e d2 (cd) | [AF]2 [AF]2 [AF]2 (cd) | "A7"e>d c2 (Bc) |
+"A7"[GA]2 [GA]2 [GA]2 (de) | "D"f>e d2 (cd) | [FA]2 [FA]2  [FA]2  (cd) | "A7"e2 d2 c2 B2 | [GA]2 [GA]2 [GA]2 (GF) | 
+"A7"E2 (EG) A2 (AB) | (cB) (cd) e2 c2 | "D"[FA]2 [FA]2 "A7"(GE) (GA) |1 "D"[FA]6 (de) :|2 "D"[FA]6 z2 |]
+

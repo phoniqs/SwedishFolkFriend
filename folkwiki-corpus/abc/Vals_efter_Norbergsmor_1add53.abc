@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals efter Norbergs-mor
+O:Enviken, Dalarna
+S:Vilhelm Hedlund
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"24. Vals från Enviken efter Vilhelm Hedlund, Enviken."
+L:1/8
+M:3/4
+K:Dm
+V:1
+"^1" (Ad) |: "Dm" f3 gfe | "A7" ^c3 def | "Dm" d4 ^c2 | "A7" A3 ^cde | a3 ^ga=b | 
+"E7" c'3 =ba^g |1"A7" a6- |"A7" a4 (Ad) :|2"A7" a6- |"A7" a4 (^cd) |:
+"A7" e4 g2 | "Dm" f3 (e (3d^cd) |"A7" e4 ^c2 | A4 G2 |"Dm" F3 GA=B |"E7" c3 =BA^G |
+"A7" A6- | "A7" A4 (^cd) |"A7" e4 g2 |"Dm" f3 (e (3d^cd) |"A7" e4 ^c2 | A4 G2 |
+"Dm" F3 AAA | "A7" E3 AAA |1"Dm" D6- |"Dm" D4 (^cd) :|2"Dm" D6- |"Dm" D4 z2 |] 
+V:2
+"^2" (DF) |: A3 BAG | E3 FGA | F4 E2 | ^C3 EFG | 
+^c3 =Bcd | e3 dc=B |1 ^c6- | ^c4 (DF) :|2 ^c6- | ^c4 (A=B) |: 
+^c4 e2 | d4 A2 | G4 E2 | ^C4 E2 | D3 EFG | A3 GED | 
+^C6- | ^C4 (A=B) | ^c4 e2 | d4 A2 | G4 E2 | ^C4 E2 | 
+D3 FFF | ^C3 EEE |1 A,6- | A,4 (A=B) :|2 A,6- | A,4"^B.O." z2 |]
+

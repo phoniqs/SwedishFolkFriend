@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:123
+T:Fyrtur Nr 6
+T:(Gamla Dansar i Skåne)
+O:Mjöhult, Skåne
+R:Fyrtur
+S:Callmander
+B:Gamla Dansar i Skåne
+Z:[[Personer/Bengt Ohlson]]
+Z:"Gamla Dansar i Skåne. Fyrtur (6)"
+L:1/16
+M:2/4
+K:G
+V:1
+"^1""^Förspel" (GB)Ac B2d2 | "^Åstorpastycket"(ec)AF G2 z2 |: [K:G][M:2/4][K:treble]"^Dans" (GB)Ac B2dB | 
+(GB)AF GBD2 | (GB)Ac B2d2 | (ef)ge d2 z2 :: 
+(ef)ge e2dB | (ce)dc c2B2 | (GB)Ac B2d2 | (ec)AF G2 z2 ::
+(d^c)de (dB)GB | (dc)AF GBD2 | (d^c)de (dB)GB | (dc)AF G2 z2 :| 
+V:2
+"^2" (DG)FA G2B2 | (cA)FD B,2 z2 |:[K:G][M:2/4][K:treble] (DG)FA G2BG | (DG)FD DGB,2 | 
+(DG)FA G2B2 | (cd)ec B2 z2 :: (cd)ec c2BG | (Ac)BA A2G2 | (DG)FA G2B2 | (cA)FD B,2 z2 :: 
+"^Efter Callmander, Mjöhult."(BA)Bc (BG)DG | (BA)FD DGB,2 | (BA)Bc (BG)DG | 
+"^Stämförslag B.O." (BA)FD B,2 z2 :|
+

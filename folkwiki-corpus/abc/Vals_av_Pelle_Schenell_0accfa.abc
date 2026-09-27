@@ -1,0 +1,28 @@
+%%abc-charset utf-8
+
+X:129
+T:Vals av Pelle Schenell
+T:(SvL Hälsingland 129)
+B:Svenska Låtar Hälsingland Nr 129
+O:Gnarp, Hälsingland
+R:Vals
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Pelle Schenell, Gnarp.   Sv.L. nr. 129."
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1" A4 A2 | (fe) (dc) BA | B4 B2 | (gf) (ed) cB | c4 c2 | (ab) (ag) fe | (dc) (de) fd | (AB) (AG) FG | 
+A4 A2 | (fe) (dc) BA | B4 B2 | (gf) (ed) cB | c4 c2 | (ab) (ag) fe | d2 A2 fe | d4 z2 :: 
+(AB) (AG) FA | d4 c2 | (Bc) (BA) GB | e4 d2 | (cd) (cB) AB | (cd) (ef) ge | (dc) (de) fd | A2 (F2 G2) | 
+(AB) (AG) FA | d4 c2 | (Bc) (BA) GB | e4 d2 | (cd) (cB) AB | (cd) (ef) ge | d2 A2 fe |1 d4 z2 :|2 d4 d2 |:
+[K:G] b3 agf | g2 (B2 c2) | (de) (dc) BA | G2 (B2 d2) | (cd) (cB) AG | F2 (A2 c2) | ee d2 c2 | B4 d2 | 
+b3 agf | g2 (B2 c2) | (de) (dc) BA | G2 (B2 d2) | (cd) (cB) AG | F2 (A2 d2) | ff e2 f2 |1 g4 d2 :|2 g4 z2 |] 
+V:2
+|:"^2""D" F4 F2 | (dc) (BA) GF |"G" G4 G2 |"Em" (BA) (GF) ED |"A7" E4 E2 | (cd) (cB) AG | "D" (FE) (FG) AF | 
+D4 D2 | F4 F2 | (dc) (BA) GF |"G" G4 G2 |"Em" (BA) (GF) ED |"A7" E4 E2 | (cd) (cB) AG |"D" F2 D2"A7" AG |"D" [FA]4 z2 ::
+"D" (FG) (FE) DF | F4 F2 |"Em" (GA) (GF) EG | G4 G2 |"A7" (AB) (AG) EG | (AB) (cd) ec |"D" (FE) (FG) AF | F2 (D2 E2) | 
+(FG) (FE) DF | F4 F2 | "Em" (GA) (GF) EG | G4 G2 |"A7" (AB) (AG) EG | (AB) (cd) ec |"D" F2 D2 AG |1"D" [FA]4 z2 :|2 "D" [FA]4"G" B2 |:
+[K:G]"G" d3 cBA | B2 (G2 A2) | (Bc) (BA) GD | B,2 (D2 G2) | "D7" (AB) (AG) FE | D2 (F2 A2) | cc B2 A2 |"G" G4 B2 | d3 cBA | 
+B2 (G2 A2) | (Bc) (BA) GD | B,2 (D2 G2) |"D7" (AB) (AG) FE | D2 (F2 A2) | "^Arr. B.O." dd c2 A2 |1 "G" [GB]4 B2 :|2 "G" [GB]4 z2 |]
+

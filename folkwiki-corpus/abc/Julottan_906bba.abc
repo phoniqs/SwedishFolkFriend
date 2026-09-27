@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Julottan
+C:Mats Wallman
+O:Saxdalen, Dalarna
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Melodin avskrift av publ. i Dalarnas Spelmansblad nr. 4, 1997."
+Z:Stämförslag B.O.
+L:1/8
+M:3/4
+K:G
+V:1
+|:"^1" D2 G>A Bc | d2 dB/d/ g>g | ec- cB AG | F/G/A- AF DC | 
+B,>D G>A B>c | d2 dB/d/ g>g | ec- cB AG | FE/F/ G4 :: 
+ge- ec Ag | f/g/a- af d>f | ge- ec AG | F/G/A- AF D>C | 
+B,>D G>A B>c | d2 dB/d/ g>g | ec- cB AG | FE/F/ G4 :| 
+V:2
+|:"^2" G,2 B,>D GA | B2 BG/B/ B>B | cA- AG FE | D/E/F- FD A,A, | 
+G,>B, D>F G>A | B2 BG/B/ B>B | cA- AG FE | DC B,4 :: 
+ec- cA Ee | d/e/f- fd A>d | ec- cA EE | D/E/F- FD A,>A, | 
+G,>B, D>F G>A | B2 BG/B/ B>B | cA- AG FE |"^Stämförslag B.O." DC B,4  :| 
+

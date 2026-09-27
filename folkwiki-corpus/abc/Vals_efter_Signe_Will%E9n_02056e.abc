@@ -1,0 +1,39 @@
+%%abc-charset utf-8
+
+X:1
+T:Vals efter Signe Willén
+S:efter Signe Willén
+R:Vals
+Z:Patrik Månsson, 2023-07-25
+O:Brösarp, Skåne
+M:3/4
+L:1/8
+N:Arr. och musikbearb: Sven Midgren
+N:Testa gärna att lägga till medljudande lösa strängar, t.ex. lös A-sträng i första takten på B-delen.
+N:Kontakta mig gärna om du undrar något: sven.midgren@gmail.com
+K:Dm
+V:1
+|: "dm"A2 A2 A2 | f2 e2 d2 | "C"(cd) ef g2 | (cd) ef g2 | "Dm"A2 A2 A2 |
+V:2
+|: F2 E2 D2 | d2 c2 A2 | (GA) cd e2 | (GA) cd e2 | F2 G2 F2 |
+V:3
+|: A,2 z A, DE | F2 z4 | C2 z G, CD | E2 z4  | A,2 z A, CE |
+V:1
+ "Dm"f2 e2 d2 | "C"(cd) ef ge |[1 "Dm"d6 :|] [2 "Dm"d4 ^cd]
+V:2
+d2 c2 A2 | (GA) (cd) ec |[1 A6 :|] [2 A4 A=B]
+V:3
+F2 z4 | C2 z G, CE |[1 D2 z4 :|] [2 D2 z4] 
+V:1
+|: "A"e4 fg | "Dm"(ba) (ga) fd | "A"(^cd) (ef) ge | "Dm"(d^c) (de) fd |  
+V:2
+|: ^c4 de | (gf) (ef) dA | (GA) (^cd) ec | (=BA) (AG) AB |
+V:3
+|: E3 G FE | D3 E FD | E3 G A^c | d3  A FD |
+V:1
+"A"e4 fg | "Dm"(ba) (ga) fd | "A"(^cd) (ef) ge |[1 "Dm"d4 ^cd:|][2 "Dm"d6 ]|
+V:2
+^c4 de | (gf) (ef) dA | (GA) (^cd) ec | [1 A4 A=B:|][2 d6]|
+V:3
+E3 G FE | D3 E FD | E3 G A^c |[1 d6 :|][2 d6]|
+

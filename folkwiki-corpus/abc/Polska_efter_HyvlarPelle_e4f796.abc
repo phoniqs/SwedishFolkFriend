@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T:Polska efter "Hyvlar-Pelle"
+S:Hyvlar-Pelle
+O:Västmanland
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+L:1/8
+M:3/4
+K:D
+V:1
+|:"^1""^Lämpl. t. skuv-polska." (A>G) (G>F) F>A | A>d d2 c2 | (3(Ace) (g>e) ce |1 
+(e>d) (d>B) BA :|2 (e/f/)e/c/ d4 |: (a>f) f>d d>a | ba g2 g2 | 
+(3(Ace) (g>e) ce |1 (e>d) (d>B) BA :|2 (e/f/)e/c/ d4 |] 
+V:2
+|:"^2" (F>E) (E>D) D>F | D>F F2 E2 | (3(CEA) (e>c) Ac |1 (c>A) (A>G) GF :|2 (c/d/)c/A/ [FA]4 |: 
+(f>d) (d>A) A>c | dc B2 B2 | (3(CEA) (e>c) Ac |1 (c>B) (B>G) GF :|2 "^Stämförslag B.O." (c/d/)c/A/ [FA]4 |]
+

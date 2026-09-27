@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:745
+T:Polska efter Johan Persson Bergström
+T:(SvL Härjedalen 745)
+S:Efter Johan Persson Bergström
+B:Svenska Låtar Härjedalen nr 745
+O:Härjedalen
+R:Polska
+Z:[[Personer/Bengt Ohlson]]
+Z:"Lämplig dans: Storpolska från Vemdalen."
+L:1/8
+M:3/4
+K:C
+V:1
+"^1" G- |: G>F E>G c>e | d>f (3e(ge) c>e | (3f(af) (3e(ge) d>f | e>c (3B(dB) G>A | 
+G>F E>G c>e | d>f (3e(ge) c>e | (3f(af) (3e(ge) d>B |1 (3GAB c3 G- :|2 (3GAB c3 G- |: 
+G>a a>g g>e | f>e d>e f>a | (3g(eg) f>d e>c | B>d (3c(Ac) B<G- | 
+G>a a>g g>e | f>e d>e f>a | (3geg f>d e>c |1 (3BGB c3 G- :|2 (3BGB c3 z |] 
+V:2
+"^2" E- |: E>D C>E G>c | B>d (3cec E>c | (3dfd (3c(ec) B>d | c>A (3GBG D>F | E>D C>E G>c | 
+B>d (3cec E>c | (3dfd (3c(ec) B>G |1 (3DEF E3 E :|2 (3DEF E3 D- |: D>f f>e e>c | d>c B>c d>f | 
+(3ece d>B c>A | G>B (3AFA G<D- | D>f f>e e>c | 
+d>c B>c d>f | (3ece d>B c>A |1 (3GDG E3 D :|2"^Stämförslag B.O." (3GDG E3 z |]
+

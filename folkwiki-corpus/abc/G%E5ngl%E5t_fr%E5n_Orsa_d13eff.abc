@@ -1,0 +1,23 @@
+%%abc-charset utf-8
+
+X:1
+T:Gånglåt från Orsa
+S:Hans Höst
+S:Hammare
+O:Orsa, Dalarna
+R:Gånglåt
+Z:[[Personer/Bengt Ohlson]]
+L:1/16
+M:2/4
+K:Dm
+V:1
+"^1" A2"^Efter Hammare." |: d2d^c A2AG | F2FE D2DE | (FE)FG A2=B2 |[M:3/4] (c=B)AG A6 A2 | 
+[M:2/4] d2d^c A2AG | F2FE D2DE | F2F2 (EG)E^C |1 D6 A2 :|2 D6 A2 |: 
+A2a2 a2f2 | a2ga g2e2 | g2eg f2d2 | (ef)ed ^c2A2 |[M:3/4] (A8 A2) A2 |
+[M:2/4] A2a2 a2f2 | a2ga g2e2 | g2eg f2d2 |1 [M:3/4] (ef)e^c d6 A2 :|2[M:3/4] (ef)e^c d6 z2 |] 
+V:2
+"^2" E2 |: F2FE F2FE | D2D^C A,2A,C | (D^C)DE F2G2 |[M:3/4] (AG)FE [^CE]6 E2 |
+[M:2/4] F2FE F2FE | D2D^C A,2A,C | D2D2 (^CE)CA, |1 [A,F]6 E2 :|2 [A,F]6 F2 |: 
+F2f2 f2d2 | f2ef e2^c2 | e2^ce d2A2 | (^cd)c=B A2E2 |[M:3/4] (^C8 C2) F2 |
+[M:2/4] F2f2 f2d2 | f2ef e2^c2 | e2^ce d2A2 |1 [M:3/4] (^cd)cA [FA]6 F2 :|2[M:3/4] (^c"^Stämförslag B.O."d)cA [FA]6 z2 |]
+

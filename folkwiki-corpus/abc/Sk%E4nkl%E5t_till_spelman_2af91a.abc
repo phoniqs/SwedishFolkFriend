@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T:Skänklåt till spelman
+S:Wilhelm Backlund
+O:Enviken, Dalarna
+R:Skänklåt
+Z:[[Personer/Bengt Ohlson]]
+Z:"30. Skänklåt från Enviken eft. Wilhelm Backlund."
+L:1/8
+M:2/4
+K:Dm
+V:1
+"^1" A |: dd/e/T ^cA | d"^\"Till spelman\""d/e/ ^c>c | de/f/ (g/Tf/)e/d/ | T (e/f/)e/d/ ^cA | 
+d>(e f)d |[M:3/4] ^c2 d3 A ::[K:D][M:2/4] d>f aa | (ba) a>a | b>a (ae) | gf f>f | 
+g/ z/T g f/ z/T f |T e/f/e/c/ A>A | d>e fd |1[M:3/4] c2 d3 A :|2 [M:3/4] c2 d3 z |] 
+V:2
+"^2" D |: FF/G/ E^C | FF/G/ E>E | FA/d/ e/d/A/F/ | ^c/d/c/=B/ AE | 
+F>G AF |[M:3/4] [EA]2 [FA]3 D :: [K:D][M:2/4] F>d ff | gf f>f | g>f fc | ed d>d | 
+e/ z/ e d/ z/ d | c/d/c/A/ E>E | F>G AF |1 [M:3/4] [EA]2 [FA]3 D :|2[M:3/4] "^B.O." [EA]2 [FA]3 z |]
+

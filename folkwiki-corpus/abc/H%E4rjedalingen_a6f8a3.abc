@@ -1,0 +1,24 @@
+%%abc-charset utf-8
+
+X:1
+T:Härjedalingen
+T:Hambo
+C:Sven Nyhus
+O:Röros, Norge
+R:Hambo
+Z:[[Personer/Bengt Ohlson]]
+Z:"Av Sven Nyhus."
+L:1/8
+M:3/4
+K:A
+V:1
+"^1" (e |: a2) (e>a) e>d | (3(cBc) (e>c) A>c | (c>B) (B>c) d>e | f2 (f/g/)f/e/ c>e | 
+a2 (e>a) e>d | (3(cBc) (e>c) A>c | (c>B) (B>e) f>g |1 a2 [ca]3 e :|2 a2 [ca]3 (d |: 
+c>)(B A>c) A>c | e>(a f>e) d>c |B>(A G>B) G>B | e>(f e>d) c>d | 
+c>(B A>c) A>c | e>(a f>e) d>c | B>(A G>)B (3efg |1 a2 [ca]3 d :|2 a2 [ca]3 z |] 
+V:2
+"^2" (c |: "A" e2) (c>e) c>B | A2 (c>A) E>A |"E7" (A>G) (G>A) B>c |"A" d2 (d>c) A>c | e2 (c>e) c>B | 
+A2 (c>A) E>A |"E7" (A>G) (G>B) d>e |1"A" c2 [Ae]3 A :|2"A" c2 [Ae]3 (B |: "A" A>)(E C>E) C>E | 
+"Bm" c>(e d>c) B>A | "E7" G>(F E>G) E>G |"A" c>(d c>B) A>B | A>(E C>E) C>E |"Bm" c>(e d>c) B>A | 
+"E7" G>(F E>)G (3Bcd |1 "A" c2 [Ae]3 B :|2 "A" c2"^B.O." [Ae]3 z |]
+
