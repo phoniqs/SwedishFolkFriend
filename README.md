@@ -22,6 +22,9 @@ instead of the original Irish/Scottish (thesession.org) repertoire.
 - App: the tune index is bundled and always loaded from `/res/`, playback
   uses abcjs's built-in synth instead of the discontinued `midi` package,
   and tunes show a link back to their FolkWiki.se source page
+- Branding: renamed "Swedish FolkFriend", new QR code, About page with a
+  "modified version" notice linking to FolkFriend.app and its GPL-3.0 source;
+  the original app's Firebase analytics were removed
 
 ## License
 

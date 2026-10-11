@@ -32,7 +32,7 @@ new webpack.NormalModuleReplacementPlugin(
 
            },
     pwa: {
-        name: "FolkFriend",
+        name: "Swedish FolkFriend",
         theme_color: '#055581',
         background_color: '#055581',
     }
