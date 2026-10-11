@@ -9,3 +9,6 @@
 *.gz binary
 *.bin binary
 *.wasm binary
+
+# Icons are binary
+*.ico binary
